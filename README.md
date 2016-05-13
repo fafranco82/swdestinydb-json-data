@@ -83,15 +83,15 @@ To have text spanning multiple lines, use `\n` to separate them. To have quotes 
 
 These can be used in a card's `text` section.
 
-* '[baratheon]'
-* '[intrigue]'
-* '[greyjoy]'
-* '[lannister]'
-* '[martell]'
-* '[military]'
-* '[thenightswatch]'
-* '[power]'
-* '[stark]'
-* '[targaryen]'
-* '[tyrell]'
-* '[unique]'
+* `[baratheon]`
+* `[intrigue]`
+* `[greyjoy]`
+* `[lannister]`
+* `[martell]`
+* `[military]`
+* `[thenightswatch]`
+* `[power]`
+* `[stark]`
+* `[targaryen]`
+* `[tyrell]`
+* `[unique]`
