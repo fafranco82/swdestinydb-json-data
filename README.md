@@ -1,4 +1,4 @@
-ThronesDB cards JSON data [![Build status](https://circleci.com/gh/alsciende/thronesdb-json-data/tree/master.svg?style=shield)](https://circleci.com/gh/alsciende/thronesdb-json-data)
+ThronesDB cards JSON data [![CircleCI](https://circleci.com/gh/Alsciende/thronesdb-json-data.svg?style=svg)](https://circleci.com/gh/Alsciende/thronesdb-json-data)
 =========
 
 The goal of this repository is to store [ThronesDB](https://thronesdb.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
