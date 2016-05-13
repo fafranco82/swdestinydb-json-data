@@ -1,0 +1,133 @@
+{
+    "additionalProperties": false,
+    "properties": {
+        "claim": {
+            "minimum": 0,
+            "type": "integer"
+        },
+        "code": {
+            "pattern": "^[0-9]{5}$",
+            "type": "string"
+        },
+        "cost": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "deck_limit": {
+            "minimum": 0,
+            "type": "integer"
+        },
+        "faction_code": {
+            "enum": [
+                "baratheon",
+                "greyjoy",
+                "lannister",
+                "martell",
+                "neutral",
+                "thenightswatch",
+                "stark",
+                "targaryen",
+                "tyrell"
+            ]
+        },
+        "flavor": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "illustrator": {
+            "pattern": ".+",
+            "type": "string"
+        },
+        "income": {
+            "minimum": 0,
+            "type": "integer"
+        },
+        "initiative": {
+            "minimum": 0,
+            "type": "integer"
+        },
+        "is_intrigue": {
+            "type": "boolean"
+        },
+        "is_loyal": {
+            "type": "boolean"
+        },
+        "is_military": {
+            "type": "boolean"
+        },
+        "is_power": {
+            "type": "boolean"
+        },
+        "is_unique": {
+            "type": "boolean"
+        },
+        "name": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "octgn_id": {
+            "maxLength": 36,
+            "minLength": 36,
+            "type": "string"
+        },
+        "pack_code": {
+            "maxLength": 5,
+            "minLength": 2,
+            "type": "string"
+        },
+        "position": {
+            "minimum": 1,
+            "type": "integer"
+        },
+        "quantity": {
+            "minimum": 1,
+            "type": "integer"
+        },
+        "reserve": {
+            "minimum": 0,
+            "type": "integer"
+        },
+        "strength": {
+            "minimum": 0,
+            "type": "integer"
+        },
+        "text": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "traits": {
+            "minLength": 0,
+            "type": "string"
+        },
+        "type_code": {
+            "enum": [
+                "agenda",
+                "attachment",
+                "character",
+                "event",
+                "location",
+                "plot",
+                "title"
+            ]
+        }
+    },
+    "required": [
+        "code",
+        "deck_limit",
+        "faction_code",
+        "is_unique",
+        "name",
+        "pack_code",
+        "position",
+        "quantity",
+        "type_code"
+    ],
+    "type": "object"
+}

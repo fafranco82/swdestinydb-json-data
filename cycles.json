@@ -1,0 +1,26 @@
+[
+    {
+        "code": "core",
+        "name": "Core Set",
+        "position": 1,
+        "size": 1
+    },
+    {
+        "code": "westeros",
+        "name": "Westeros Cycle",
+        "position": 2,
+        "size": 6
+    },
+    {
+        "code": "wolves",
+        "name": "Wolves of the North",
+        "position": 3,
+        "size": 1
+    },
+    {
+        "code": "war",
+        "name": "War of Five Kings Cycle",
+        "position": 4,
+        "size": 6
+    }
+]
