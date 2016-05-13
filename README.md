@@ -31,7 +31,7 @@ Required properties are in **bold**.
 * **code** - identifier of the pack. The acronym of the pack name, with matching case, except for Core Set. Examples: `"Core"` for Core Set, `"TKP"` for The King's Peace, `"WotN"` for Wolves of the North.
 * **cycle_code** - identifier of the cycle the pack belongs to. Must refer to one of the values from cycles' `"code"`. Examples: `"core"` for Core Set, `"westeros"` for Westeros Cycle.
 * **name** - properly formatted name of the pack. Examples: `"Core Set"`, `"Wolves of the North"`, `"The King's Peace"`.
-* **position** - number of the pack within the cycle. Examples: `1` for Core Set, `1` for The Valley from SanSan Cycle, `5` for Old Hollywood from SanSan Cycle.
+* **position** - number of the pack within the cycle. Examples: `1` for Core Set, `1` for Taking the Black from Westeros Cycle, `3` for For Family Honor from War of the Five Kings Cycle.
 * **released** - date when the pack was officially released by FFG. When in doubt, look at the date of the pack release news on FFG's news page. Format of the date is YYYY-MM-DD. May be `null` - this value is used when the date is unknown. Examples: `"2015-10-08"` for Core Set, `"2015-12-09"` for Taking the Black, `null` for unreleased previewed packs.
 * **size** - number of different cards in the pack. May be `null` - this value is used when the pack is just an organizational entity, not a physical pack.  Examples: `120` for Core Set, `55` for most deluxe expansions, `20` for most chapter packs, `null` for assorted draft cards.
 
