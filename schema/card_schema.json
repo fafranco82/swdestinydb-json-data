@@ -121,12 +121,13 @@
     "required": [
         "code",
         "deck_limit",
-        "faction_code",
+        "is_loyal",
         "is_unique",
         "name",
-        "pack_code",
         "position",
         "quantity",
+        "faction_code",
+        "pack_code",
         "type_code"
     ],
     "type": "object"

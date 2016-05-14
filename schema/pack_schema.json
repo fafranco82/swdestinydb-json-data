@@ -9,15 +9,7 @@
             "minLength": 1,
             "type": "string"
         },
-        "name": {
-            "minLength": 1,
-            "type": "string"
-        },
-        "position": {
-            "minimum": 1,
-            "type": "integer"
-        },
-        "released": {
+        "date_release": {
             "oneOf": [
                 {
                     "type": "string"
@@ -26,6 +18,14 @@
                     "type": "null"
                 }
             ]
+        },
+        "name": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "position": {
+            "minimum": 1,
+            "type": "integer"
         },
         "size": {
             "oneOf": [
@@ -40,7 +40,7 @@
         }
     },
     "required": [
-        "released",
+        "date_release",
         "code",
         "cycle_code",
         "name",
