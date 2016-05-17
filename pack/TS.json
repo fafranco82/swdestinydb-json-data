@@ -173,7 +173,7 @@
         "deck_limit": 3,
         "faction_code": "lannister",
         "is_intrigue": false,
-        "is_loyal": true,
+        "is_loyal": false,
         "is_military": false,
         "is_power": false,
         "is_unique": true,
