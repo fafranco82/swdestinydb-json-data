@@ -14,7 +14,7 @@
         "position": 101,
         "quantity": 3,
         "strength": 3,
-        "text": "While you control:\n- Sansa Stark, she gains +2 STR and renown.\n- Arya Stark, she gains an [intrigue] icon and \"immune to opponents' plot effects.\"",
+        "text": "While you control:\n- Sansa Stark, she gets +2 STR and gains renown.\n- Arya Stark, she gains an [intrigue] icon and \"immune to opponents' plot effects.\"",
         "traits": "The Seven.",
         "type_code": "character"
     },
@@ -32,7 +32,7 @@
         "pack_code": "TS",
         "position": 102,
         "quantity": 3,
-        "text": "Character with printed cost 4 or lower only. Terminal.\nTake control of attached character. Attached character gains the [stark] affiliation.",
+        "text": "Character with printed cost 4 or lower only. Terminal.\nTake control of attached character.\nAttached character gains the [stark] affiliation.",
         "traits": "Condition.",
         "type_code": "attachment"
     },
@@ -69,8 +69,8 @@
         "pack_code": "TS",
         "position": 104,
         "quantity": 3,
-        "text": "<b>Action:</b> Kneel your faction card to have each player reveal the top 4 cards of their deck. Choose one of the revealed cards to put into their hand. Shuffle the remaining cards back into their decks.",
-        "traits": "Redwyne.",
+        "text": "<b>Action:</b> Kneel your faction card to have each player reveal the top 4 cards of his or her deck. Choose 1 card revealed by each player, and add it to that player’s hand. Shuffle the other cards back into their owners’ decks.",
+        "traits": "House Redwyne.",
         "type_code": "event"
     },
     {
@@ -200,7 +200,7 @@
         "position": 111,
         "quantity": 3,
         "strength": 5,
-        "text": "Renown.\n<b>Interrupt:</b> When claim is applied for a challenge in which Dagmer Cleftjaw is attacking alone, choose a non-Limited location with printed cost 3 or lower controlled by the losing opponent. Instead of the normal claim effects, take control of that location.",
+        "text": "Renown.\n<b>Interrupt:</b> When claim is applied for a challenge in which Dagmer Cleftjaw is attacking alone, choose a non-limited location with printed cost 3 or lower controlled by the losing opponent. Instead of the normal claim effects, take control of that location.",
         "traits": "Captian. Ironborn.",
         "type_code": "character"
     },
@@ -327,7 +327,7 @@
         "pack_code": "TS",
         "position": 118,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After you win a challenge in which a <i>Lord or Lady</i> character you control is participating, kneel your faction card to search the top 5 cards of your deck for an <i>Ally</i> or <i>Companion</i> card, reveal it, and add it to your hand. Shuffle your deck.",
+        "text": "<b>Reaction:</b> After you win a challenge in which you control a participating <i>Lord</i> or <i>Lady</i> character, kneel your faction card to search the top 5 cards of your deck for an <i>Ally</i> or <i>Companion</i> card, reveal it, and add it to your hand. Shuffle your deck.",
         "traits": "King's Landing.",
         "type_code": "location"
     },
@@ -369,8 +369,8 @@
         "position": 120,
         "quantity": 3,
         "reserve": 6,
-        "text": "<b>When revealed:</b> Move a character from your dead pile to your discard pile. Then, if there are no other revealed <i>Winter</i> plots, draw 1 card.",
-        "traits": "Winter.",
+        "text": "<b>When revealed:</b> Move a character from your dead pile to your discard pile. Then, if there are no <i>Winter</i> plot cards in play, draw 1 card.",
+        "traits": "Summer.",
         "type_code": "plot"
     }
 ]
