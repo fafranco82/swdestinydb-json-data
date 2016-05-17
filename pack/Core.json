@@ -1000,7 +1000,7 @@
         "position": 46,
         "quantity": 1,
         "strength": 3,
-        "text": "<b>Marshalling Action:</b> Kneel Maester Cressen to choose a <i>Condition</i> attachment, and discard it from play.",
+        "text": "<b>Marshaling Action:</b> Kneel Maester Cressen to choose a <i>Condition</i> attachment, and discard it from play.",
         "traits": "Maester.",
         "type_code": "character"
     },
