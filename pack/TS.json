@@ -69,7 +69,7 @@
         "pack_code": "TS",
         "position": 104,
         "quantity": 3,
-        "text": "<b>Action:</b> Kneel your faction card to have each player reveal the top 4 cards of his or her deck. Choose 1 card revealed by each player, and add it to that player’s hand. Shuffle the other cards back into their owners' decks.",
+        "text": "<b>Action:</b> Kneel your faction card to have each player reveal the top 4 cards of his or her deck. Choose 1 card revealed by each player, and add it to that player's hand. Shuffle the other cards back into their owners' decks.",
         "traits": "House Redwyne.",
         "type_code": "event"
     },
