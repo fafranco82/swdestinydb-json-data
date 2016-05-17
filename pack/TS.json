@@ -201,7 +201,7 @@
         "quantity": 3,
         "strength": 5,
         "text": "Renown.\n<b>Interrupt:</b> When claim is applied for a challenge in which Dagmer Cleftjaw is attacking alone, choose a non-limited location with printed cost 3 or lower controlled by the losing opponent. Instead of the normal claim effects, take control of that location.",
-        "traits": "Captian. Ironborn.",
+        "traits": "Captain. Ironborn.",
         "type_code": "character"
     },
     {
