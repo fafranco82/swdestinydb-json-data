@@ -923,7 +923,7 @@
         "income": 3,
         "initiative": 1,
         "is_intrigue": false,
-        "is_loyal": false,
+        "is_loyal": true,
         "is_military": false,
         "is_power": false,
         "is_unique": false,
