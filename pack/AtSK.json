@@ -56,23 +56,6 @@
         "type_code": "character"
     },
     {
-        "code": "04007",
-        "deck_limit": 3,
-        "faction_code": "thenightswatch",
-        "is_intrigue": false,
-        "is_loyal": false,
-        "is_military": false,
-        "is_power": false,
-        "is_unique": false,
-        "name": "White Tree",
-        "pack_code": "AtSK",
-        "position": 7,
-        "quantity": 3,
-        "text": "<b>Reaction:</b> After an opponent collects income, kneel White Tree to move 1 gold from that player's gold pool to your own.",
-        "traits": "Contested. The North.",
-        "type_code": "location"
-    },
-    {
         "code": "04014",
         "cost": 2,
         "deck_limit": 3,
