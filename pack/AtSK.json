@@ -73,5 +73,42 @@
         "text": "While Viserys Targaryen is attacking, each <i>King</i> character must be declared as a defender, if able.\n<b>Interrupt:</b> When the dominance phase ends, if no opponent controls a <i>King</i> character, Viserys Targaryen gains 1 power.",
         "traits": "King. Lord.",
         "type_code": "character"
+    },
+    {
+        "code": "04016",
+        "cost": 6,
+        "deck_limit": 3,
+        "faction_code": "martell",
+        "is_intrigue": false,
+        "is_loyal": false,
+        "is_military": true,
+        "is_power": true,
+        "is_unique": true,
+        "name": "Harmen Uller",
+        "pack_code": "AtSK",
+        "position": 16,
+        "quantity": 3,
+        "strength": 4,
+        "text": "Renown.\nEach <i>Sand Snake</i> character in your hand gains ambush (X). X is 1 less than that card's printed cost.",
+        "traits": "House Uller. Lord.",
+        "type_code": "character"
+    },
+    {
+        "code": "04017",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "targaryen",
+        "is_intrigue": false,
+        "is_loyal": true,
+        "is_military": false,
+        "is_power": false,
+        "is_unique": true,
+        "name": "Tower of the Sun",
+        "pack_code": "AtSK",
+        "position": 17,
+        "quantity": 3,
+        "text": "<b>Reaction:</b> After an event is played, gain 1 gold. (Limit once per phase.)",
+        "traits": "Dorne.",
+        "type_code": "location"
     }
 ]
