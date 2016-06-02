@@ -42,7 +42,7 @@
             "type": "string"
         },
         "illustrator": {
-            "pattern": ".+",
+            "minLength": 0,
             "type": "string"
         },
         "income": {
@@ -75,10 +75,10 @@
         "octgn_id": {
             "oneOf": [
                 {
-		            "maxLength": 36,
-		            "minLength": 36,
-		            "type": "string"
-		        },
+                    "maxLength": 36,
+                    "minLength": 36,
+                    "type": "string"
+                },
                 {
                     "type": "null"
                 }
