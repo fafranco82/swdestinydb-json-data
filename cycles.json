@@ -22,5 +22,11 @@
         "name": "War of Five Kings Cycle",
         "position": 4,
         "size": 6
+    },
+    {
+        "code": "lions",
+        "name": "Lions of Casterly Rock",
+        "position": 5,
+        "size": 1
     }
 ]
