@@ -95,7 +95,7 @@
         "quantity": 3,
         "text": "<b>Reaction:</b> After a player initiates a challenge against you, move up to X gold from that player's gold pool to your own. X is the number of attacking characters.",
         "traits": "",
-        "type_code": "character"
+        "type_code": "event"
     },
     {
         "code": "04014",
