@@ -152,7 +152,7 @@
         "strength": 5,
         "text": "Renown.\nBalon Greyjoy does not kneel when declared as an attacker in a [military] challenge against an opponent who does not control a <i>King</i> character.\n<b>Action:</b> Kneel a [greyjoy] location to give each loyal character you control +1 STR until the end of the challenge. (Limit once per challenge.)",
         "traits": "Ironborn. King. Lord.",
-        "type_code": "character."
+        "type_code": "character"
     },
     {
         "code": "04013",
