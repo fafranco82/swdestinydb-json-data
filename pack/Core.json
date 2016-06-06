@@ -2171,7 +2171,7 @@
         "pack_code": "Core",
         "position": 102,
         "quantity": 1,
-        "text": "Play only if you control a unique [lannister] character.\n<b>Interrupt:</b> When the effects of a triggered character, location, or attachment ability initiate, cancel those effects.",
+        "text": "Play only if you control a unique [lannister] character.\n<b>Interrupt:</b> When the effects of a triggered character, location, or attachment ability would initiate, cancel those effects.",
         "type_code": "event"
     },
     {
