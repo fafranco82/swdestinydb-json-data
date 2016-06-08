@@ -12,6 +12,8 @@
         "date_release": {
             "oneOf": [
                 {
+                    "maxLength": 10,
+                    "minLength": 10,
                     "type": "string"
                 },
                 {

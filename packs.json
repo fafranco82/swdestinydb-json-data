@@ -90,7 +90,7 @@
     {
         "code": "LoCR",
         "cycle_code": "lions",
-        "date_release": "",
+        "date_release": null,
         "name": "Lions of Casterly Rock",
         "position": 1,
         "size": 52
