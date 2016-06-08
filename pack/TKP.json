@@ -256,7 +256,7 @@
         "cost": 2,
         "deck_limit": 3,
         "faction_code": "targaryen",
-                "flavor": "Even the mightiest of khals bowed to the wisdom and authority of the dosh khaleen.",
+        "flavor": "Even the mightiest of khals bowed to the wisdom and authority of the dosh khaleen.",
         "illustrator": "Thomas Denmark",
         "is_intrigue": true,
         "is_loyal": false,
