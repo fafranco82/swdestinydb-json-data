@@ -414,7 +414,7 @@
         "pack_code": "TKP",
         "position": 60,
         "quantity": 3,
-        "text": "During the first challenge you initiate each phase, each of your participating characters gets -1 STR.\nDuring the third challenge you initiate each phase, each of your participating characters gets +2 STR. If you win this challenge, gain 1 power for your faction.",
+        "text": "During the first challenge you initiate each phase, each of your participating characters gets -1 STR.\r\nDuring the third challenge you initiate each phase, each of your participating characters gets +2 STR. If you win this challenge, gain 1 power for your faction.",
         "traits": "House Frey.",
         "type_code": "agenda"
     }
