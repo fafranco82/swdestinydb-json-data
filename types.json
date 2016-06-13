@@ -1,0 +1,30 @@
+[
+    {
+        "code": "agenda",
+        "name": "Agenda"
+    },
+    {
+        "code": "attachment",
+        "name": "Attachment"
+    },
+    {
+        "code": "character",
+        "name": "Character"
+    },
+    {
+        "code": "event",
+        "name": "Event"
+    },
+    {
+        "code": "location",
+        "name": "Location"
+    },
+    {
+        "code": "plot",
+        "name": "Plot"
+    },
+    {
+        "code": "title",
+        "name": "Title"
+    }
+]

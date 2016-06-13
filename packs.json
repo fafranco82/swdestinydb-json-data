@@ -8,6 +8,22 @@
         "size": 20
     },
     {
+        "code": "Core",
+        "cycle_code": "core",
+        "date_release": "2015-10-08",
+        "name": "Core Set",
+        "position": 1,
+        "size": 211
+    },
+    {
+        "code": "CoW",
+        "cycle_code": "westeros",
+        "date_release": "2016-04-21",
+        "name": "Calm over Westeros",
+        "position": 5,
+        "size": 20
+    },
+    {
         "code": "CtA",
         "cycle_code": "war",
         "date_release": null,
@@ -24,35 +40,19 @@
         "size": 20
     },
     {
-        "code": "TS",
-        "cycle_code": "westeros",
-        "date_release": "2016-05-19",
-        "name": "True Steel",
-        "position": 6,
-        "size": 20
-    },
-    {
-        "code": "Core",
-        "cycle_code": "core",
-        "date_release": "2015-10-08",
-        "name": "Core Set",
+        "code": "LoCR",
+        "cycle_code": "lions",
+        "date_release": null,
+        "name": "Lions of Casterly Rock",
         "position": 1,
-        "size": 211
+        "size": 52
     },
     {
-        "code": "TtB",
+        "code": "NMG",
         "cycle_code": "westeros",
-        "date_release": "2015-12-09",
-        "name": "Taking the Black",
-        "position": 1,
-        "size": 20
-    },
-    {
-        "code": "TRtW",
-        "cycle_code": "westeros",
-        "date_release": "2016-01-29",
-        "name": "The Road to Winterfell",
-        "position": 2,
+        "date_release": "2016-03-25",
+        "name": "No Middle Ground",
+        "position": 4,
         "size": 20
     },
     {
@@ -64,11 +64,27 @@
         "size": 20
     },
     {
-        "code": "NMG",
+        "code": "TRtW",
         "cycle_code": "westeros",
-        "date_release": "2016-03-25",
-        "name": "No Middle Ground",
-        "position": 4,
+        "date_release": "2016-01-29",
+        "name": "The Road to Winterfell",
+        "position": 2,
+        "size": 20
+    },
+    {
+        "code": "TS",
+        "cycle_code": "westeros",
+        "date_release": "2016-05-19",
+        "name": "True Steel",
+        "position": 6,
+        "size": 20
+    },
+    {
+        "code": "TtB",
+        "cycle_code": "westeros",
+        "date_release": "2015-12-09",
+        "name": "Taking the Black",
+        "position": 1,
         "size": 20
     },
     {
@@ -76,22 +92,6 @@
         "cycle_code": "wolves",
         "date_release": "2016-04-07",
         "name": "Wolves of the North",
-        "position": 1,
-        "size": 52
-    },
-    {
-        "code": "CoW",
-        "cycle_code": "westeros",
-        "date_release": "2016-04-21",
-        "name": "Calm over Westeros",
-        "position": 5,
-        "size": 20
-    },
-    {
-        "code": "LoCR",
-        "cycle_code": "lions",
-        "date_release": null,
-        "name": "Lions of Casterly Rock",
         "position": 1,
         "size": 52
     }

@@ -6,15 +6,9 @@
         "size": 1
     },
     {
-        "code": "westeros",
-        "name": "Westeros Cycle",
-        "position": 2,
-        "size": 6
-    },
-    {
-        "code": "wolves",
-        "name": "Wolves of the North",
-        "position": 3,
+        "code": "lions",
+        "name": "Lions of Casterly Rock",
+        "position": 5,
         "size": 1
     },
     {
@@ -24,9 +18,15 @@
         "size": 6
     },
     {
-        "code": "lions",
-        "name": "Lions of Casterly Rock",
-        "position": 5,
+        "code": "westeros",
+        "name": "Westeros Cycle",
+        "position": 2,
+        "size": 6
+    },
+    {
+        "code": "wolves",
+        "name": "Wolves of the North",
+        "position": 3,
         "size": 1
     }
 ]

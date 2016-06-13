@@ -1,0 +1,56 @@
+[
+    {
+        "code": "baratheon",
+        "name": "House Baratheon",
+        "is_primary": true,
+        "octgn_id": "a8c94f92-2b17-4a78-bf0f-4411838b9826"
+    },
+    {
+        "code": "greyjoy",
+        "name": "House Greyjoy",
+        "is_primary": true,
+        "octgn_id": "0eb74218-f78e-43ed-898f-a9175883a437"
+    },
+    {
+        "code": "lannister",
+        "name": "House Lannister",
+        "is_primary": true,
+        "octgn_id": "a48612c4-cf38-44c6-94af-d1470a48ebed"
+    },
+    {
+        "code": "martell",
+        "name": "House Martell",
+        "is_primary": true,
+        "octgn_id": "fd2a37d8-a528-456e-a0de-33846469b1ea"
+    },
+    {
+        "code": "neutral",
+        "name": "Neutral",
+        "is_primary": false,
+        "octgn_id": null
+    },
+    {
+        "code": "stark",
+        "name": "House Stark",
+        "is_primary": true,
+        "octgn_id": "8e8d97bb-fc50-4830-86b9-a09c64308641"
+    },
+    {
+        "code": "targaryen",
+        "name": "House Targaryen",
+        "is_primary": true,
+        "octgn_id": "fc822b99-e4df-49f4-beb2-a0e082f224bf"
+    },
+    {
+        "code": "thenightswatch",
+        "name": "The Night's Watch",
+        "is_primary": true,
+        "octgn_id": "44538ee5-b015-4522-b709-c2658c49c65b"
+    },
+    {
+        "code": "tyrell",
+        "name": "House Tyrell",
+        "is_primary": true,
+        "octgn_id": "20ee6436-b13e-478e-a52e-fd222637ce95"
+    }
+]
