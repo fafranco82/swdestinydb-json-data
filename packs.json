@@ -56,6 +56,14 @@
         "size": 20
     },
     {
+        "code": "TIMC",
+        "cycle_code": "war",
+        "date_release": null,
+        "name": "There Is My Claim",
+        "position": 4,
+        "size": 20
+    },
+    {
         "code": "TKP",
         "cycle_code": "westeros",
         "date_release": "2016-02-25",
