@@ -12,7 +12,7 @@
         "pack_code": "AtSK",
         "position": 1,
         "quantity": 3,
-        "text": "<b>Action:</b> Choose an opponent. You and that played each draw 2 cards.",
+        "text": "<b>Action:</b> Choose an opponent. You and that player each draw 2 cards.",
         "traits": "Omen.",
         "type_code": "event"
     },
