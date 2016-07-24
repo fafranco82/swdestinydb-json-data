@@ -3390,7 +3390,7 @@
         "pack_code": "Core",
         "position": 172,
         "quantity": 1,
-        "text": "Dothraki character only.\nAttached character gets +2 STR.\nIf attached character is Khal Drogo, he does not kneel when declared as an attacker in the first [military] challenge you initiate each round.",
+        "text": "<i>Dothraki</i> character only.\nAttached character gets +2 STR.\nIf attached character is Khal Drogo, he does not kneel when declared as an attacker in the first [military] challenge you initiate each round.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },
