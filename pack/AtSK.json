@@ -345,7 +345,7 @@
         "pack_code": "AtSK",
         "position": 18,
         "quantity": 3,
-        "strength": 4,
+        "strength": 2,
         "text": "<b>Dominance Action:</b> Kneel Pyromancers and discard 1 power from your faction card to choose a non-limited location, and discard it from play.",
         "traits": "Ally.",
         "type_code": "character"
