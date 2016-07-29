@@ -262,7 +262,7 @@
         "pack_code": "CoW",
         "position": 94,
         "quantity": 3,
-        "text": "<SPAN style=\"color: #211D1E;font-weight: bold\" >Interrupt</SPAN><SPAN style=\"color: #211D1E\" >: When a non-</SPAN><SPAN style=\"color: #211D1E;font-weight: bold;font-style:italic\" >Army </SPAN><SPAN style=\"color: #211D1E\" >character would be killed, save it. Then, attach Blood Magic Ritual to that character as a </SPAN><SPAN style=\"color: #211D1E;font-weight: bold;font-style:italic\" >Condition </SPAN><SPAN style=\"color: #211D1E\" >attachment with the text: &ldquo;Terminal. Treat attached character's printed text box as if it were blank (except for </SPAN><SPAN style=\"color: #211D1E;font-weight: bold;font-style:italic\" >Traits</SPAN><SPAN style=\"color: #211D1E\" >).&rdquo;</SPAN>",
+        "text": "<b>Interrupt:</b> When a non-<i>Army</i> character would be killed, save it. Then, attach Blood Magic Ritual to that character as a <i>Condition</i> attachment with the text: &ldquo;Terminal. Treat attached character's printed text box as if it were blank (except for <i>Traits</i>).&rdquo;",
         "type_code": "event"
     },
     {
