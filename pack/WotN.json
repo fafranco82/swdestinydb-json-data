@@ -254,7 +254,7 @@
         "position": 12,
         "quantity": 3,
         "strength": 2,
-        "text": "While Bear Island Loyalist is participating in a challenge, each other participating [stark] character you control gains &ldquo;immune to opponents' events.&rdquo;",
+        "text": "While Bear Island Loyalist is participating in a challenge, each other participating [stark] character you control gains \"immune to opponents' events.\"",
         "traits": "House Mormont.",
         "type_code": "character"
     },
@@ -342,7 +342,7 @@
         "position": 16,
         "quantity": 3,
         "strength": 1,
-        "text": "<b>Interrupt:</b> When the effects of a triggered ability with the word &ldquo;search&rdquo; in it would initiate, sacrifice Rickon Stark to cancel those effects.</SPAN>",
+        "text": "<b>Interrupt:</b> When the effects of a triggered ability with the word \"search\" in it would initiate, sacrifice Rickon Stark to cancel those effects.</SPAN>",
         "traits": "Lord.",
         "type_code": "character"
     },
@@ -376,7 +376,7 @@
         "pack_code": "WotN",
         "position": 18,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After a phase begins, sacrifice Winterfell Heart Tree to choose a [stark] card you control. Until the end of the phase, that card gains &ldquo;immune to opponents' plot effects.&rdquo;",
+        "text": "<b>Reaction:</b> After a phase begins, sacrifice Winterfell Heart Tree to choose a [stark] card you control. Until the end of the phase, that card gains \"immune to opponents' plot effects.\"",
         "traits": "Old Gods. Winterfell.",
         "type_code": "location"
     },
@@ -771,7 +771,7 @@
         "cost": 3,
         "deck_limit": 3,
         "faction_code": "neutral",
-        "flavor": "She wasn't wed and her weapon of choice was a short curved bow of horn and weirwood, but &ldquo;spearwife&rdquo; fit her all the same.",
+        "flavor": "She wasn't wed and her weapon of choice was a short curved bow of horn and weirwood, but \"spearwife\" fit her all the same.",
         "illustrator": "Sebastian Ciaffaglione",
         "is_intrigue": false,
         "is_loyal": false,

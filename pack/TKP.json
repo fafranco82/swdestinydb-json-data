@@ -73,7 +73,7 @@
         "pack_code": "TKP",
         "position": 44,
         "quantity": 3,
-        "text": "<i>Knight</i> character only.\r\nWhile attached character is attacking or defending alone, Mare in Heat gains: &ldquo;<b>Action:</b> Kneel Mare in Heat to choose a participating character with STR higher than that of attached character, and remove that character from the challenge.&rdquo;",
+        "text": "<i>Knight</i> character only.\r\nWhile attached character is attacking or defending alone, Mare in Heat gains: \"<b>Action:</b> Kneel Mare in Heat to choose a participating character with STR higher than that of attached character, and remove that character from the challenge.\"",
         "traits": "Warhorse.",
         "type_code": "attachment"
     },
@@ -362,7 +362,7 @@
         "position": 59,
         "quantity": 3,
         "reserve": 6,
-        "text": "Each<i> Knight</i> character you control gains renown and &ldquo;immune to opponents' events.&rdquo;",
+        "text": "Each<i> Knight</i> character you control gains renown and \"immune to opponents' events.\"",
         "traits": "Summer.",
         "type_code": "plot"
     },
