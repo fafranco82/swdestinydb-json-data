@@ -342,7 +342,7 @@
         "position": 16,
         "quantity": 3,
         "strength": 1,
-        "text": "<b>Interrupt:</b> When the effects of a triggered ability with the word \"search\" in it would initiate, sacrifice Rickon Stark to cancel those effects.</SPAN>",
+        "text": "<b>Interrupt:</b> When the effects of a triggered ability with the word \"search\" in it would initiate, sacrifice Rickon Stark to cancel those effects.",
         "traits": "Lord.",
         "type_code": "character"
     },
