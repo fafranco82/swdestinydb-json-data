@@ -169,7 +169,7 @@
         "position": 9,
         "quantity": 3,
         "strength": 6,
-        "text": "<abbr>Ambush<abbr> (4).\n<b>Forced Reaction:</b> After you win a challenge in which The Hound is participating, you may discard 1 card at random from your hand. If you do not, return The Hound to your hand.",
+        "text": "<abbr>Ambush</abbr> (4).\n<b>Forced Reaction:</b> After you win a challenge in which The Hound is participating, you may discard 1 card at random from your hand. If you do not, return The Hound to your hand.",
         "traits": "House Clegane.",
         "type_code": "character"
     },
