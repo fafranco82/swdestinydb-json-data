@@ -262,7 +262,7 @@
         "pack_code": "CoW",
         "position": 94,
         "quantity": 3,
-        "text": "<b>Interrupt:</b> When a non-<i>Army</i> character would be killed, save it. Then, attach Blood Magic Ritual to that character as a <i>Condition</i> attachment with the text: &ldquo;Terminal. Treat attached character's printed text box as if it were blank (except for <i>Traits</i>).",
+        "text": "<b>Interrupt:</b> When a non-<i>Army</i> character would be killed, save it. Then, attach Blood Magic Ritual to that character as a <i>Condition</i> attachment with the text: &ldquo;Terminal. Treat attached character's printed text box as if it were blank (except for <i>Traits</i>).&rdquo;",
         "type_code": "event"
     },
     {
