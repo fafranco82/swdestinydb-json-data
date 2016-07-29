@@ -54,7 +54,7 @@
         "position": 3,
         "quantity": 3,
         "strength": 2,
-        "text": "While you control:\n- Robb Stark, he gains <abbr>insight</abbr>.\n- Jon Snow, he gains <abbr>stealth</abbr>.\n- Bran Stark, he gains: \"immune to opponents' plot effects.\"\n- Rickon Stark, he gains <abbr>pillage</abbr>.",
+        "text": "While you control:\n- Robb Stark, he gains <abbr>insight</abbr>.\n- Jon Snow, he gains <abbr>stealth</abbr>.\n- Bran Stark, he gains: &ldquo;immune to opponents' plot effects.&rdquo;\n- Rickon Stark, he gains <abbr>pillage</abbr>.",
         "traits": "Maester.",
         "type_code": "character"
     },
@@ -169,7 +169,7 @@
         "position": 9,
         "quantity": 3,
         "strength": 6,
-        "text": "Ambush (4).\n<b>Forced Reaction:</b> After you win a challenge in which The Hound is participating, you may discard 1 card at random from your hand. If you do not, return The Hound to your hand.",
+        "text": "<abbr>Ambush<abbr> (4).\n<b>Forced Reaction:</b> After you win a challenge in which The Hound is participating, you may discard 1 card at random from your hand. If you do not, return The Hound to your hand.",
         "traits": "House Clegane.",
         "type_code": "character"
     },
