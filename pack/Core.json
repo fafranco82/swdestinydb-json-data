@@ -475,7 +475,7 @@
         "position": 24,
         "quantity": 1,
         "reserve": 6,
-        "text": "You may marshal or play 1 additional <abbr>limited</abbr> card this round.",
+        "text": "You may marshal or play 1 additional limited card this round.",
         "traits": "Edict. Kingdom.",
         "type_code": "plot"
     },
@@ -1132,7 +1132,7 @@
         "pack_code": "Core",
         "position": 58,
         "quantity": 1,
-        "text": "[baratheon] character only.\nIf attached character is Stannis Baratheon, he gains <abbr>renown</abbr>.\n<b>Reaction:</b> After attached character gains 1 or more power, stand it. (Limit once per phase.)",
+        "text": "[baratheon] character only.\nIf attached character is Stannis Baratheon, he gains renown.\n<b>Reaction:</b> After attached character gains 1 or more power, stand it. (Limit once per phase.)",
         "traits": "R'hllor. Weapon.",
         "type_code": "attachment"
     },
@@ -1342,7 +1342,7 @@
         "position": 69,
         "quantity": 1,
         "strength": 6,
-        "text": "<abbr>Pillage</abbr>. <abbr>Renown</abbr>.\n<b>Reaction:</b> After Euron Crow's Eye discards a card using <abbr>pillage</abbr>, put a location from the losing opponent's discard pile into play under your control.",
+        "text": "<abbr>Pillage</abbr>. <abbr>Renown</abbr>.\n<b>Reaction:</b> After Euron Crow's Eye discards a card using pillage, put a location from the losing opponent's discard pile into play under your control.",
         "traits": "Ironborn. Lord. Raider.",
         "type_code": "character"
     },
@@ -1526,7 +1526,7 @@
         "pack_code": "Core",
         "position": 78,
         "quantity": 1,
-        "text": "While you control Balon Greyjoy, he gains <abbr>stealth</abbr>.\n<b>Reaction:</b> After you win an unopposed challenge, either: draw 1 card, or gain 1 power for your faction. (Limit twice per round.)",
+        "text": "While you control Balon Greyjoy, he gains stealth.\n<b>Reaction:</b> After you win an unopposed challenge, either: draw 1 card, or gain 1 power for your faction. (Limit twice per round.)",
         "traits": "Warship.",
         "type_code": "location"
     },
@@ -1696,7 +1696,7 @@
         "position": 87,
         "quantity": 1,
         "strength": 5,
-        "text": "Ser Jaime Lannister does not kneel when declared as an attacker in a [military] challenge, and gains <abbr>renown</abbr> while participating in a [military] challenge.",
+        "text": "Ser Jaime Lannister does not kneel when declared as an attacker in a [military] challenge, and gains renown while participating in a [military] challenge.",
         "traits": "Knight. Lord.",
         "type_code": "character"
     },
@@ -1804,7 +1804,7 @@
         "position": 92,
         "quantity": 1,
         "strength": 3,
-        "text": "<abbr>Ambush</abbr> (2).\n<b>Forced Interrupt:</b> When a phase ends in which Gold Cloaks entered play using <abbr>ambush</abbr>, discard it from play (cannot be saved).",
+        "text": "<abbr>Ambush</abbr> (2).\n<b>Forced Interrupt:</b> When a phase ends in which Gold Cloaks entered play using ambush, discard it from play (cannot be saved).",
         "traits": "Ally. Army.",
         "type_code": "character"
     },
@@ -1867,7 +1867,7 @@
         "position": 95,
         "quantity": 1,
         "strength": 2,
-        "text": "<abbr>Ambush</abbr> (4).\n<b>Reaction:</b> After The Queen's Assassin enters play using <abbr>ambush</abbr>, choose an opponent. If you have more cards in hand than that player, he or she must choose and kill a character he or she controls.",
+        "text": "<abbr>Ambush</abbr> (4).\n<b>Reaction:</b> After The Queen's Assassin enters play using ambush, choose an opponent. If you have more cards in hand than that player, he or she must choose and kill a character he or she controls.",
         "traits": "Spy.",
         "type_code": "character"
     },
@@ -2257,7 +2257,7 @@
         "pack_code": "Core",
         "position": 115,
         "quantity": 1,
-        "text": "Attached character gets +1 STR for each plot card in your used pile.\nWhile attached character has the <i>House Dayne</i> trait, it gains <abbr>intimidate</abbr>.",
+        "text": "Attached character gets +1 STR for each plot card in your used pile.\nWhile attached character has the <i>House Dayne</i> trait, it gains intimidate.",
         "traits": "Weapon.",
         "type_code": "attachment"
     },
@@ -2377,7 +2377,7 @@
         "position": 122,
         "quantity": 1,
         "strength": 4,
-        "text": "Each <i>Ranger</i> character you control cannot be bypassed by <abbr>stealth</abbr>.\n<b>Interrupt:</b> When Benjen Stark is killed, gain 2 power for your faction. Then, shuffle him back into your deck instead of placing him in your dead pile.",
+        "text": "Each <i>Ranger</i> character you control cannot be bypassed by stealth.\n<b>Interrupt:</b> When Benjen Stark is killed, gain 2 power for your faction. Then, shuffle him back into your deck instead of placing him in your dead pile.",
         "traits": "Ranger.",
         "type_code": "character"
     },
@@ -2399,7 +2399,7 @@
         "position": 123,
         "quantity": 1,
         "strength": 3,
-        "text": "No attachments. <abbr>Stealth</abbr>.\n<b>Reaction:</b> After Ghost bypasses a character using <abbr>stealth</abbr>, that character cannot be declared as a defender for any challenges until the end of the phase.",
+        "text": "No attachments. <abbr>Stealth</abbr>.\n<b>Reaction:</b> After Ghost bypasses a character using stealth, that character cannot be declared as a defender for any challenges until the end of the phase.",
         "traits": "Direwolf.",
         "type_code": "character"
     },
@@ -2656,7 +2656,7 @@
         "pack_code": "Core",
         "position": 135,
         "quantity": 1,
-        "text": "[thenightswatch] character only.\nAttached character gets +1 STR and gains <abbr>renown</abbr>.",
+        "text": "[thenightswatch] character only.\nAttached character gets +1 STR and gains renown.",
         "traits": "Valyrian Steel. Weapon.",
         "type_code": "attachment"
     },
@@ -2913,7 +2913,7 @@
         "position": 148,
         "quantity": 1,
         "strength": 3,
-        "text": "No attachments.\nWhile you control Bran Stark, he gains <abbr>insight</abbr>.\n<b>Reaction:</b> After Summer enters play, return a [stark] character with printed STR 2 or lower from your discard or dead pile to your hand.",
+        "text": "No attachments.\nWhile you control Bran Stark, he gains insight.\n<b>Reaction:</b> After Summer enters play, return a [stark] character with printed STR 2 or lower from your discard or dead pile to your hand.",
         "traits": "Direwolf.",
         "type_code": "character"
     },
@@ -3048,7 +3048,7 @@
         "pack_code": "Core",
         "position": 155,
         "quantity": 1,
-        "text": "Each <i>Direwolf</i> card in your hand gains <abbr>ambush</abbr> (X). X is that card's printed cost.",
+        "text": "Each <i>Direwolf</i> card in your hand gains ambush (X). X is that card's printed cost.",
         "traits": "The North.",
         "type_code": "location"
     },
@@ -3157,7 +3157,7 @@
         "position": 161,
         "quantity": 1,
         "strength": 4,
-        "text": "No attachments.\nEach <i>Stormborn</i> character you control gains <abbr>renown</abbr>.",
+        "text": "No attachments.\nEach <i>Stormborn</i> character you control gains renown.",
         "traits": "Dragon. Hatchling.",
         "type_code": "character"
     },
@@ -3264,7 +3264,7 @@
         "position": 166,
         "quantity": 1,
         "strength": 2,
-        "text": "No attachments.\nEach <i>Stormborn</i> character you control gains <abbr>stealth</abbr>.",
+        "text": "No attachments.\nEach <i>Stormborn</i> character you control gains stealth.",
         "traits": "Dragon. Hatchling.",
         "type_code": "character"
     },

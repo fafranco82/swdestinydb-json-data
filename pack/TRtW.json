@@ -247,7 +247,7 @@
         "position": 33,
         "quantity": 3,
         "strength": 4,
-        "text": "While you control another <i>Bloodrider</i> character, Rakharo gains <abbr>intimidate</abbr>.\r\n<b>Reaction:</b> After a character is killed to satisfy claim during a challenge you initiated, Rakharo gains 1 power.",
+        "text": "While you control another <i>Bloodrider</i> character, Rakharo gains intimidate.\r\n<b>Reaction:</b> After a character is killed to satisfy claim during a challenge you initiated, Rakharo gains 1 power.",
         "traits": "Bloodrider. Dothraki.",
         "type_code": "character"
     },
@@ -323,7 +323,7 @@
         "position": 37,
         "quantity": 3,
         "strength": 3,
-        "text": "<abbr>Stealth</abbr>.\r\n<b>Challenges Action:</b> Choose a character. Until the end of the phase, that character gains a [military] icon and <abbr>stealth</abbr>. (Limit once per phase.)",
+        "text": "<abbr>Stealth</abbr>.\r\n<b>Challenges Action:</b> Choose a character. Until the end of the phase, that character gains a [military] icon and stealth. (Limit once per phase.)",
         "traits": "Companion.",
         "type_code": "character"
     },
