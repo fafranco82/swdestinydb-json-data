@@ -62,6 +62,7 @@
         "cost": 0,
         "deck_limit": 3,
         "faction_code": "tyrell",
+        "illustrator": "Tomasz Jedruszek",
         "is_loyal": false,
         "is_unique": false,
         "name": "There Is My Claim",
