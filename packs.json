@@ -96,6 +96,22 @@
         "size": 20
     },
     {
+        "code": "WoFK-5",
+        "cycle_code": "war",
+        "date_release": null,
+        "name": "War of Five Kings - Pack #5",
+        "position": 5,
+        "size": 20
+    },
+    {
+        "code": "WoFK-6",
+        "cycle_code": "war",
+        "date_release": null,
+        "name": "War of Five Kings - Pack #6",
+        "position": 6,
+        "size": 20
+    },
+    {
         "code": "WotN",
         "cycle_code": "wolves",
         "date_release": "2016-04-07",
