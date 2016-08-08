@@ -112,6 +112,14 @@
         "size": 20
     },
     {
+        "code": "Valyrian",
+        "cycle_code": "draft",
+        "date_release": null,
+        "name": "Valyrian Draft Set",
+        "position": 90,
+        "size": 20
+    },
+    {
         "code": "WotN",
         "cycle_code": "wolves",
         "date_release": "2016-04-07",
