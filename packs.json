@@ -40,6 +40,14 @@
         "size": 20
     },
     {
+        "code": "GoH",
+        "cycle_code": "war",
+        "date_release": null,
+        "name": "Ghosts of Harrenhal",
+        "position": 6,
+        "size": 20
+    },
+    {
         "code": "LoCR",
         "cycle_code": "lions",
         "date_release": null,
@@ -53,6 +61,14 @@
         "date_release": "2016-03-25",
         "name": "No Middle Ground",
         "position": 4,
+        "size": 20
+    },
+    {
+        "code": "TC",
+        "cycle_code": "war",
+        "date_release": null,
+        "name": "Tyrion's Chain",
+        "position": 5,
         "size": 20
     },
     {
@@ -93,22 +109,6 @@
         "date_release": "2015-12-09",
         "name": "Taking the Black",
         "position": 1,
-        "size": 20
-    },
-    {
-        "code": "WoFK-5",
-        "cycle_code": "war",
-        "date_release": null,
-        "name": "War of Five Kings - Pack #5",
-        "position": 5,
-        "size": 20
-    },
-    {
-        "code": "WoFK-6",
-        "cycle_code": "war",
-        "date_release": null,
-        "name": "War of Five Kings - Pack #6",
-        "position": 6,
         "size": 20
     },
     {
