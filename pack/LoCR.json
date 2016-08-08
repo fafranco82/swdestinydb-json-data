@@ -212,6 +212,22 @@
         "type_code": "character"
     },
     {
+        "code": "05036",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "targaryen",
+        "illustrator": "Aurore Folny",
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Daenerys's Favor",
+        "pack_code": "LoCR",
+        "position": 36,
+        "quantity": 3,
+        "text": "[targaryen] character only.\nWhile attached character is participating in a challenge, each other participating character gets -1 STR.",
+        "traits": "Condition.",
+        "type_code": "attachment"
+    },
+    {
         "code": "05037",
         "cost": 4,
         "deck_limit": 3,
