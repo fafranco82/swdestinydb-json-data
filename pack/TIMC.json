@@ -58,6 +58,22 @@
         "type_code": "character"
     },
     {
+        "code": "04070",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "lannister",
+        "flavor": "Shaving him was the cruelest thing Tyrion could have done...",
+        "illustrator": "Nikolas Hagialas",
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Without His Beard",
+        "pack_code": "TIMC",
+        "position": 70,
+        "quantity": 3,
+        "text": "<b>Reaction:</b> After you win an [intrigue] challenge, discard up to 3 cards at random from the losing opponent's hand. Then, that player draws 2 cards.",
+        "type_code": "event"
+    },
+    {
         "code": "04072",
         "cost": 0,
         "deck_limit": 3,
