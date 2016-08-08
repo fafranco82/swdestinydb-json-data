@@ -152,5 +152,23 @@
         "text": "<b>Marshaling Action:</b> Kneel a <i>Companion</i> character to reduce the cost of the next unique character you marshal this phase by 1.",
         "traits": "Companion.",
         "type_code": "character"
+    },
+    {
+        "claim": 1,
+        "code": "04060",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "income": 3,
+        "initiative": 7,
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Battle of Oxcross",
+        "pack_code": "FFH",
+        "position": 60,
+        "quantity": 3,
+        "reserve": 5,
+        "text": "Each character with printed cost 4 or higher cannot be declared as a defender during the first challenge you initiate this round.",
+        "traits": "War.",
+        "type_code": "plot"
     }
 ]
