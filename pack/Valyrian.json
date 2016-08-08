@@ -68,7 +68,7 @@
         "name": "House Bannerman",
         "pack_code": "Valyrian",
         "position": 5,
-        "quantity": 3,
+        "quantity": 2,
         "strength": 1,
         "text": "<b>Marshaling Action:</b> Kneel House Bannerman to reduce the cost of the next in-faction character you marshal this phase by 1.\n<b>Draft format only.</b>",
         "traits": "Ally.",
