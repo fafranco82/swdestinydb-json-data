@@ -17,7 +17,7 @@
         "position": 1,
         "quantity": 3,
         "strength": 3,
-        "text": "<abbr>Stealth</abbr>. <abbr>Insight</abbr>.\n<b>Forced Reaction:</b> After you lose an unopposed challenge, sacrifice a <i>Ranger</i> character you control.",
+        "text": "Stealth. Insight.\n<b>Forced Reaction:</b> After you lose an unopposed challenge, sacrifice a <i>Ranger</i> character you control.",
         "traits": "Ranger.",
         "type_code": "character"
     },
@@ -71,7 +71,7 @@
         "pack_code": "TtB",
         "position": 4,
         "quantity": 3,
-        "text": "[stark] character only. <abbr>Terminal</abbr>.\nAttached character gets +2 STR.\n<b>Action:</b> Pay 1 gold to attach Lady to a different character. Then, if attached character is Sansa Stark, stand her. (Limit once per phase.)",
+        "text": "[stark] character only. Terminal.\nAttached character gets +2 STR.\n<b>Action:</b> Pay 1 gold to attach Lady to a different character. Then, if attached character is Sansa Stark, stand her. (Limit once per phase.)",
         "traits": "Direwolf.",
         "type_code": "attachment"
     },
@@ -169,7 +169,7 @@
         "position": 9,
         "quantity": 3,
         "strength": 6,
-        "text": "<abbr>Ambush</abbr> (4).\n<b>Forced Reaction:</b> After you win a challenge in which The Hound is participating, you may discard 1 card at random from your hand. If you do not, return The Hound to your hand.",
+        "text": "Ambush (4).\n<b>Forced Reaction:</b> After you win a challenge in which The Hound is participating, you may discard 1 card at random from your hand. If you do not, return The Hound to your hand.",
         "traits": "House Clegane.",
         "type_code": "character"
     },
