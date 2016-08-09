@@ -742,7 +742,7 @@
         "pack_code": "WotN",
         "position": 38,
         "quantity": 3,
-        "text": "<b>Marshaling Action:</b> Choose a [tyrell]&nbsp;character you control. Gain X gold, where X is that character's STR. Then, sacrifice that character.",
+        "text": "<b>Marshaling Action:</b> Choose a [tyrell] character you control. Gain X gold, where X is that character's STR. Then, sacrifice that character.",
         "type_code": "event"
     },
     {
