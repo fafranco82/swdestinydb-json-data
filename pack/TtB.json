@@ -186,7 +186,7 @@
         "pack_code": "TtB",
         "position": 10,
         "quantity": 3,
-        "text": "<b>Reaction:</b> After you become the first player, either: gain 1 gold, or draw 1 card.\n&minus;1 Initiative.",
+        "text": "<b>Reaction:</b> After you become the first player, either: gain 1 gold, or draw 1 card.\n-1 Initiative.",
         "traits": "Vehicle.",
         "type_code": "location"
     },
