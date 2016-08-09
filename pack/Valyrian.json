@@ -299,6 +299,21 @@
         "type_code": "location"
     },
     {
+        "code": "91019",
+        "cost": 0,
+        "deck_limit": 3,
+        "faction_code": "neutral",
+        "illustrator": "JB Casacop",
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "Muster",
+        "pack_code": "Valyrian",
+        "position": 19,
+        "quantity": 3,
+        "text": "<b>Marshaling Action:</b> Kneel a <i>Knight</i> character to search your deck for a <i>Knight</i> character, reveal it, and add it to your hand. Shuffle your deck.\n<b>Draft format only.</b>",
+        "type_code": "event"
+    },
+    {
         "claim": 1,
         "code": "91020",
         "deck_limit": 2,
