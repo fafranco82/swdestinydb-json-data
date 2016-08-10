@@ -143,6 +143,27 @@
         "type_code": "character"
     },
     {
+        "code": "05015",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "lannister",
+        "flavor": "\"When I'm king in my own right, I'm going to outlaw beets.\"",
+        "illustrator": "Joshua Cairós",
+        "is_intrigue": false,
+        "is_loyal": false,
+        "is_military": false,
+        "is_power": true,
+        "is_unique": true,
+        "name": "Tommen Baratheon",
+        "pack_code": "LoCR",
+        "position": 15,
+        "quantity": 3,
+        "strength": 2,
+        "text": "Each player with no cards in his or her hand cannot gain power from challenge bonuses (unopposed and rivals).",
+        "traits": "King. Lord.",
+        "type_code": "character"
+    },
+    {
         "code": "05017",
         "cost": 2,
         "deck_limit": 3,
@@ -173,6 +194,21 @@
         "text": "<b>Reaction:</b> After the taxation phase begins, place 1 gold from your gold pool on Lannisport Treasury.\n<b>Marshaling Action:</b> Kneel Lannisport Treasury to move any number of gold from Lannisport Treasury to your gold pool.",
         "traits": "The Westerlands.",
         "type_code": "location"
+    },
+    {
+        "code": "05023",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "lannister",
+        "illustrator": "Winona Nelson",
+        "is_loyal": true,
+        "is_unique": false,
+        "name": "Insidious Scheme",
+        "pack_code": "LoCR",
+        "position": 23,
+        "quantity": 3,
+        "text": "<b>Reaction:</b> After claim is applied for an [intrigue] challenge you won by 5 or more STR, draw 2 cards. (4 cards instead if the losing opponent has no cards in his or her hand.)",
+        "type_code": "event"
     },
     {
         "code": "05024",
@@ -365,6 +401,21 @@
         "text": "Limited.\n<b>Marshaling Action:</b> Kneel Ocean Road to reduce the cost of the next neutral or out-of-faction card you marshal this phase by 1.",
         "traits": "Westeros.",
         "type_code": "location"
+    },
+    {
+        "code": "05045",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Serena Malyon",
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "The Rains of Castamere",
+        "pack_code": "CtA",
+        "position": 45,
+        "quantity": 3,
+        "text": "Your plot deck must be 12 cards, including exactly 5 different <i>Scheme</i> cards. During the plot phase, <i>Scheme</i> cards are not considered to be in your plot deck.\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, kneel your faction card to reveal a <i>Scheme</i> plot. If that card leaves play, remove it from the game.\n<b>Card Design by 2013 Joust World Champion, Álvaro Rodriguez.</b>",
+        "traits": "Song.",
+        "type_code": "agenda"
     },
     {
         "claim": 1,
