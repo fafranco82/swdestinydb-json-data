@@ -269,6 +269,7 @@
         "cost": 6,
         "deck_limit": 3,
         "faction_code": "neutral",
+        "illustrator": "Alexandre Dainche",
         "is_intrigue": true,
         "is_loyal": false,
         "is_military": true,
