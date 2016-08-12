@@ -41,6 +41,26 @@
         "type_code": "character"
     },
     {
+        "code": "05005",
+        "cost": 5,
+        "deck_limit": 3,
+        "faction_code": "lannister",
+        "illustrator": "Alexandre Dainche",
+        "is_intrigue": true,
+        "is_loyal": false,
+        "is_military": true,
+        "is_power": false,
+        "is_unique": true,
+        "name": "Ser Jaime Lannister",
+        "pack_code": "LoCR",
+        "position": 5,
+        "quantity": 3,
+        "strength": 4,
+        "text": "Each <i>Knight</i> character you control gains renown while attacking alone.\n<b>Challenges Action:</b> Choose a <i>Kingsguard</i> character. Until the end of the phase, that character gains an [intrigue] icon. (Limit once per phase.)",
+        "traits": "Kingsguard. Knight.",
+        "type_code": "character"
+    },
+    {
         "code": "05011",
         "cost": 3,
         "deck_limit": 3,
@@ -58,6 +78,47 @@
         "strength": 3,
         "text": "<b>Action:</b> During a challenge in which you control an attacking <i>Clansman</i> character, kneel your faction card to put Moon Brothers into play from your hand (standing), participating as an attacker.",
         "traits": "Clansman.",
+        "type_code": "character"
+    },
+    {
+        "code": "05012",
+        "cost": 3,
+        "deck_limit": 3,
+        "faction_code": "lannister",
+        "illustrator": "Tiziano Baracchi",
+        "is_intrigue": true,
+        "is_loyal": true,
+        "is_military": false,
+        "is_power": false,
+        "is_unique": false,
+        "name": "Red Keep Spy",
+        "pack_code": "LoCR",
+        "position": 12,
+        "quantity": 3,
+        "strength": 3,
+        "text": "Ambush (4).\n<b>Reaction:</b>After Red Keep Spy enters play using ambush, choose a character with printed cost 3 or lower. If you have more cards in hand than that character's controller, return it to its owner's hand.",
+        "traits": "Ally. Spy.",
+        "type_code": "character"
+    },
+    {
+        "code": "05015",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "lannister",
+        "flavor": "\"When I'm king in my own right, I'm going to outlaw beets.\"",
+        "illustrator": "Joshua Cairós",
+        "is_intrigue": false,
+        "is_loyal": false,
+        "is_military": false,
+        "is_power": true,
+        "is_unique": true,
+        "name": "Tommen Baratheon",
+        "pack_code": "LoCR",
+        "position": 15,
+        "quantity": 3,
+        "strength": 2,
+        "text": "Each player with no cards in his or her hand cannot gain power from challenge bonuses (unopposed and rivals).",
+        "traits": "King. Lord.",
         "type_code": "character"
     },
     {
@@ -91,6 +152,21 @@
         "text": "<b>Reaction:</b> After the taxation phase begins, place 1 gold from your gold pool on Lannisport Treasury.\n<b>Marshaling Action:</b> Kneel Lannisport Treasury to move any number of gold from Lannisport Treasury to your gold pool.",
         "traits": "The Westerlands.",
         "type_code": "location"
+    },
+    {
+        "code": "05023",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "lannister",
+        "illustrator": "Winona Nelson",
+        "is_loyal": true,
+        "is_unique": false,
+        "name": "Insidious Scheme",
+        "pack_code": "LoCR",
+        "position": 23,
+        "quantity": 3,
+        "text": "<b>Reaction:</b> After claim is applied for an [intrigue] you won by 5 or more STR, draw 2 cards. (4 cards instead if the losing opponent has no cards in his or her hand.)",
+        "type_code": "event"
     },
     {
         "code": "05024",
@@ -147,5 +223,20 @@
         "text": "<b>Reaction:</b> After you win a challenge in which Ser Barristan Selmy is participating, if you have fewer cards in hand than the losing opponent, stand him.",
         "traits": "Knight.",
         "type_code": "character"
+    },
+    {
+        "code": "05045",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Serena Malyon",
+        "is_loyal": false,
+        "is_unique": false,
+        "name": "\"The Rains of Castamere\"",
+        "pack_code": "LoCR",
+        "position": 45,
+        "quantity": 3,
+        "text": "Your plot deck must be 12 cards, including exactly 5 different <i>Scheme</i> cards. During the plot phase, <i>Scheme</i> cards are not considered to be in your plot deck.\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, kneel your faction card to reveal a <i>Scheme</i> plot. If that card leaves play, remove it from the game.\n<b>Card Design by 2013 Joust World Champion, Álvaro Rodriguez</b>",
+        "traits": "Song.",
+        "type_code": "agenda"
     }
 ]
