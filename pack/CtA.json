@@ -55,6 +55,21 @@
         "type_code": "attachment"
     },
     {
+        "code": "04030",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "lannister",
+        "is_loyal": false,
+        "is_unique": true,
+        "name": "The Boy King",
+        "pack_code": "CtA",
+        "position": 30,
+        "quantity": 3,
+        "text": "<i>Lord</i> character only.\nAttached character gains the <i>King</i> trait.\n<b>Reaction:</b> After a character with printed cost 3 or lower is killed, kneel The Boy King to have attached character gain 1 power.",
+        "traits": "Title.",
+        "type_code": "attachment"
+    },
+    {
         "code": "04031",
         "cost": 7,
         "deck_limit": 3,
@@ -87,6 +102,21 @@
         "quantity": 3,
         "text": "<b>Challenges Action:</b> Until the end of the phase, either: each [greyjoy] character you control gains stealth, or each non-[greyjoy] character loses stealth.",
         "type_code": "event"
+    },
+    {
+        "code": "04034",
+        "cost": 1,
+        "deck_limit": 3,
+        "faction_code": "targaryen",
+        "is_loyal": true,
+        "is_unique": true,
+        "name": "Beggar King",
+        "pack_code": "CtA",
+        "position": 34,
+        "quantity": 3,
+        "text": "[targaryen] characters only.\nAttached character gains the <i>King</i> trait.\n<b>Reaction:</b> After an opponent reveals a plot card with a higher printed gold value than yours, kneel Beggar King to gain 1 gold (2 gold instead if no opponent controls a <i>King</i> character.)",
+        "traits": "Title.",
+        "type_code": "attachment"
     },
     {
         "code": "04035",
