@@ -1,7 +1,7 @@
 [
     {
         "code": "AtSK",
-        "name": "A trav\u00E9s de los Siete Reinos"
+        "name": "A través de los Siete Reinos"
     },
     {
         "code": "CtA",
@@ -13,11 +13,11 @@
     },
     {
         "code": "TS",
-        "name": "De aut\u00E9ntico acero"
+        "name": "De auténtico acero"
     },
     {
         "code": "Core",
-        "name": "Caja b\u00E1sica"
+        "name": "Caja básica"
     },
     {
         "code": "TtB",
@@ -53,6 +53,6 @@
     },
     {
         "code": "TIMC",
-        "name": "Ah\u00ED est\u00E1 mi derecho"
+        "name": "Ahí está mi derecho"
     }
 ]

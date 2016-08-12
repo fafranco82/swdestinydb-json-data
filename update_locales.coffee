@@ -30,7 +30,7 @@ loadCards = (root) ->
     files = fs.readdirSync localeRoot
     for file in files
         json = JSON.parse fs.readFileSync(path.join(localeRoot, file), 'UTF-8')
-        result[file] = stripProps json, ['code','flavor','name','text', 'traits']
+        result[file] = stripProps json, ['code','flavor','name','text','traits']
     result
 
 things_en = loadThings __dirname
@@ -38,6 +38,7 @@ cards_en = loadCards __dirname
 
 codes = fs.readdirSync i18nDir
 for code in codes
+    console.log "Updating locale '#{code}'..."
     localeRoot = path.join i18nDir, code
 
     l_things = loadThings localeRoot
@@ -49,11 +50,11 @@ for code in codes
     for file in _.keys m_things
         target = path.join localeRoot, file
         if !_.isEqual(l_things[file], m_things[file])
-            fs.writeFileSync target, JSON.stringify(m_things[file], null, 4)
+            fs.writeFileSync target, JSON.stringify(m_things[file], null, 4)+"\n"
             console.log "Written #{target}"
-
+    
     for file in _.keys m_cards
         target = path.join localeRoot, 'pack', file
         if !_.isEqual(l_cards[file], m_cards[file])
-            fs.writeFileSync target, JSON.stringify(m_cards[file], null, 4)
+            fs.writeFileSync target, JSON.stringify(m_cards[file], null, 4)+"\n"
             console.log "Written #{target}"

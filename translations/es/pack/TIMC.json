@@ -1,0 +1,22 @@
+[
+    {
+        "code": "04061",
+        "flavor": "\"With two eyes you see my face. With three you could see my heart.\"",
+        "name": "Jojen Reed",
+        "text": "Stealth.\n<b>Reaction:</b> After Jojen Reed stands, reveal the top card of each player's deck. You may either: discard each of those cards, or have each player draw 1 card.",
+        "traits": "House Reed."
+    },
+    {
+        "code": "04072",
+        "flavor": "The solar was as damp and drafty as ever.",
+        "name": "King Balon's Solar",
+        "text": "<b>Reaction:</b> After you win initiative, gain 1 gold.",
+        "traits": "Iron Islands."
+    },
+    {
+        "code": "04080",
+        "name": "Valar Morghulis",
+        "text": "<b>When Revealed:</b> Kill each character.",
+        "traits": "Omen."
+    }
+]
