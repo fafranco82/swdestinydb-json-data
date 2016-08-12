@@ -1,0 +1,127 @@
+[
+    {
+        "code": "02061",
+        "flavor": "\"\u00A1Hodor!\"",
+        "name": "Hodor",
+        "text": "Sin Accesorios.\nHodor no puede ser declarado como atacante a menos que controles a Bran Stark.\nHodor no aporta su FUE a tu total para la Dominaci\u00F3n.",
+        "traits": "Acompa\u00F1ante."
+    },
+    {
+        "code": "02062",
+        "name": "Guardianes del Norte",
+        "text": "<b>Acci\u00F3n de Reto:</b> durante un reto en el que controles un Personaje [stark] participante, arrodilla otro Personaje [stark] para hacer que participe en ese reto en tu bando. (L\u00EDmite de 2 veces por ronda.)",
+        "traits": "Guerra."
+    },
+    {
+        "code": "02063",
+        "flavor": "Arya los hab\u00EDa visto un centenar de veces en el patio; eran los gemelos Redwyne, Ser Horas y Ser Hobber, dos muchachos poco agraciados, de cabellos rojos y rostros cuadrados llenos de pecas.",
+        "name": "Ser Horas Redwyne",
+        "text": "<b>Reacci\u00F3n:</b> despu\u00E9s de que Ser Horas Redwyne se arrodille, pon en pie un Personaje <i>Lady</i> de tu elecci\u00F3n.",
+        "traits": "Casa Redwyne. Caballero."
+    },
+    {
+        "code": "02064",
+        "name": "El Rejo",
+        "text": "Limitada.\n +3 Oro.",
+        "traits": "Casa Redwyne."
+    },
+    {
+        "code": "02065",
+        "flavor": "\"Prefiero estar con los constructores. \u00BFDe qu\u00E9 servir\u00EDan los exploradores si el Muro se viniera abajo?\"",
+        "name": "Halder",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\n<b>Acci\u00F3n:</b> arrodilla un Lugar o Accesorio [thenightswatch] para elegir un Personaje [thenightswatch]. Hasta el final de la fase, ese Personaje recibe un +1 a su FUE.",
+        "traits": "Constructor."
+    },
+    {
+        "code": "02066",
+        "name": "El vigilante del muro",
+        "text": "Juego esta carta s\u00F3lo durante un reto [military].\n<b>Acci\u00F3n de Reto:</b> arrodilla 2 Personajes <i>Explorador</i> para matar a cada Personaje atacante.",
+        "traits": "Explorador."
+    },
+    {
+        "code": "02067",
+        "name": "\u00A1Por la Guardia!",
+        "text": "No puedes perder (ni tu adversario puede ganar) el primer reto que se inicie contra ti en cada fase.",
+        "traits": "Asedio."
+    },
+    {
+        "code": "02068",
+        "name": "Gendry",
+        "text": "<b>Reacci\u00F3n:</b> despu\u00E9s de que ganes la Dominaci\u00F3n, Gendry gana 1 de Poder.\n<b>Reacci\u00F3n obligada:</b> despu\u00E9s de que un adversario gane la Dominaci\u00F3n, puedes descartar 1 de Poder de Gendry. Si no lo h aces, sacrifica un Personaje <i>Bastardo</i>",
+        "traits": "Bastardo."
+    },
+    {
+        "code": "02069",
+        "flavor": "\"Para aporrear a martillazos una cota de malla vale cualquier herrero de pueblo. Lo que yo hago son obras de arte.\" <cite>Tobho Mott</cite>",
+        "name": "Armer\u00EDa de Tobho Mott",
+        "text": "<b>Reacci\u00F3n:</b> despu\u00E9s de que ganes la Dominaci\u00F3n, arrodilla la Armer\u00EDa de Tobho Mott para robar 1 carta.",
+        "traits": "Desembarco del Rey"
+    },
+    {
+        "code": "02070",
+        "name": "Capas Rojas",
+        "text": "Durante retos [intrigue], los Capas Rojas reciben un +1 a su FUE por cada unidad de Oro que tengan encima.\n<b>Acci\u00F3n:</b> traslada 1 de Oro desde tu suministro de Oro hasta los Capas Rojas. (L\u00EDmite de 1 vez por fase.)",
+        "traits": "Ej\u00E9rcito. Mercenario."
+    },
+    {
+        "code": "02071",
+        "name": "Comprado",
+        "text": "S\u00F3lo Personajes de adversarios. Emboscada (1).\n<b>Reacci\u00F3n:</b> despu\u00E9s de que ganes un reto [intrigue], arrodilla al Personaje vinculado. Luego el jugador que controla a ese Personaje puede darte 1 de Oro de su suministro de Oro para poner en pie a ese Personaje.",
+        "traits": "Estado."
+    },
+    {
+        "code": "02072",
+        "flavor": "\"\u00A1Y las aguas de la ira se alzar\u00E1n, y el Dios Ahogado extender\u00E1 sus dominios por las tierras verdes!\" <cite>Aeron Pelomojado</cite>",
+        "name": "Sacerdote del dios Ahogado",
+        "text": "Cada Personaje <i>Dios Ahogado</i> que controles recibe un +1 a su FUE.",
+        "traits": "Dios Ahogado."
+    },
+    {
+        "code": "02073",
+        "name": "Bot\u00EDn",
+        "text": "Para pagar el coste de Bot\u00EDn s\u00F3lo puedes utilizar Oro del suministro de Oro del adversario derrotado.\n<b>Reacci\u00F3n:</b> despu\u00E9s de que ganes un reto sin oposici\u00F3n, descarta las primeras X cartas del mazo del adversario derrotado."
+    },
+    {
+        "code": "02074",
+        "name": "Batidores dothrakis",
+        "text": "Sin Accesorios. Pillaje.\nReduce el coste para reclutar a los Batidores dothrakis en 1 por cada Personaje <i>Dothraki</i> que controles.",
+        "traits": "Ej\u00E9rcito. Dothraki."
+    },
+    {
+        "code": "02075",
+        "name": "Sangre de drag\u00F3n",
+        "text": "Cada Personaje que no sea <i>Drag\u00F3n</i> recibe un -1 a su FUE y muere si su FUE cae a 0.",
+        "traits": "Legado."
+    },
+    {
+        "code": "02076",
+        "name": "Maestre of Campoestrella",
+        "text": "<b>Acci\u00F3n de Reto:</b> arrodilla al Maestre de Campoestrella para elegir un Personaje. Hasta el final de la fase, ese Personaje pierde una de las siguientes palabras clave de tu elecci\u00F3n: Intimidaci\u00F3n, Perspicacia, Pillaje o Renombre",
+        "traits": "Casa Dayne. Maestre."
+    },
+    {
+        "code": "02077",
+        "flavor": "No oy\u00F3 a su padre pronunciar las palabras que lo condenaron. Quiz\u00E1 no hizo falta palabra alguna. \u00ABPuse mi vida en manos de la V\u00EDbora Roja, y la he perdido\u00BB.",
+        "name": "Condenado",
+        "text": "S\u00F3lo Personajes de adversarios.\nEl Personaje vinculado pierde un icono [power].",
+        "traits": "Estado."
+    },
+    {
+        "code": "02078",
+        "name": "Explorador de los salvajes",
+        "text": "<b>Acci\u00F3n:</b> sacrifica al Explorador de los salvajes para elegir un Personaje. Hasta el final de la fase, ese Personaje gana Sigilo.",
+        "traits": "Salvaje."
+    },
+    {
+        "code": "02079",
+        "name": "Las primeras nieves del invierno",
+        "text": "<b>Reacci\u00F3n obligada:</b> despu\u00E9s de que empiece la fase de Reto, devuelve a la mano de su propietario cada Personaje que tenga un coste impreso de 3 o menos.\n<b>Carta dise\u00F1ada por John M. Bruno, campe\u00F3n mundial de 2005.</b>",
+        "traits": "Augurio. Invierno."
+    },
+    {
+        "code": "02080",
+        "name": "Espectros entre sus filas",
+        "text": "Reduce el 2 (hasta un m\u00EDnimo de 2) el valor de Reserva de la carta de Trama mostrada de cada adversario.",
+        "traits": "Invierno."
+    }
+]

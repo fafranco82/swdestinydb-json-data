@@ -1,0 +1,30 @@
+[
+    {
+        "code": "agenda",
+        "name": "Estrategia"
+    },
+    {
+        "code": "attachment",
+        "name": "Accesorio"
+    },
+    {
+        "code": "character",
+        "name": "Personaje"
+    },
+    {
+        "code": "event",
+        "name": "Evento"
+    },
+    {
+        "code": "location",
+        "name": "Lugar"
+    },
+    {
+        "code": "plot",
+        "name": "Trama"
+    },
+    {
+        "code": "title",
+        "name": "T\u00EDtulo"
+    }
+]
