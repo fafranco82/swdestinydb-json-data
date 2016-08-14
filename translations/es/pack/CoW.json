@@ -1,0 +1,123 @@
+[
+    {
+        "code": "02081",
+        "name": "Avanzada del Gran Jon",
+        "text": "Sin Accesorios.\nMientras haya menos de 3 cartas de Trama en tu pila de cartas usadas, la Avanzada del Gran Jon recibe un +2 a su FUE y gana Renombre.",
+        "traits": "Ejército. Casa Umber."
+    },
+    {
+        "code": "02082",
+        "name": "Cripta de Invernalia",
+        "text": "<b>Reacción:</b> depsués de que un Personaje [stark] único que controles muera o sea sacrificado duranta la fase de Reto, sacrifica la Cripta de Invernalia para elegir un Personaje con una FUE impresa similar o inferior. Al final de la fase, si ese Personaje aún está en juego, devuélvelo al mazo de su propietario y barájalo.",
+        "traits": "Invernalia."
+    },
+    {
+        "code": "02083",
+        "name": "Patrulla del Camino de las Rosas",
+        "text": "Sin Accesorios.\nMientras controles un Personaje que esté en juego con la puntuación más alta de FUE, la Patrulla del Camino de las Rosas gana Sigilo.",
+        "traits": "Ejército."
+    },
+    {
+        "code": "02084",
+        "name": "Mover los hilos",
+        "text": "<b>Cuando se muestre esta carta:</b> elige una carta de Trama de <i>Edicto</i>, <i>Reino</i> o <i>Conspiración</i> que esté en la pila de cartas usadas de un adversario. Inicia la capacidad de esa carta que se resuelva cuando es mostrada como si la acabases de mostrar tú.",
+        "traits": "Conspiración."
+    },
+    {
+        "code": "02085",
+        "name": "Chett",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\n<b>Acción de Dominación:</b> arrodilla un Personaje <i>Mayordomo</i> para devolver a tu mano una carta <i>Lobo huargo</i> o <i>Cuervo</i> desde tu pila de descartes. (Límite de 1 vez por fase.)",
+        "traits": "Mayordomo."
+    },
+    {
+        "code": "02086",
+        "name": "Pajarera del Norte",
+        "text": "<b>Reacción:</b> después de que reclutes la Pajarera del Norte, roba 1 carta.\n+1 Reserva.",
+        "traits": "El Norte."
+    },
+    {
+        "code": "02087",
+        "name": "Bosque real",
+        "text": "Durante retos [power] en los que seas el jugador defensor, cada Personaje atacante recibe un -1 a su FUE.\n<b>Reacción obligada:</b> después de que pierdas un reto [power], sacrifica el Bosque Real.",
+        "traits": "Poniente."
+    },
+    {
+        "code": "02088",
+        "name": "Completamente borracho",
+        "text": "Sólo Personajes de adversarios.\n<b>Reacción:</b> después de que el Personaje vinculado se ponga en pie, sacrifica Completamente borracho para arrodillar a ese Personaje.",
+        "traits": "Estado."
+    },
+    {
+        "code": "02089",
+        "name": "Bronn",
+        "text": "Durante un reto en el que seas el jugador defensor, Bronn gana un icono [military], un icono [intrigue] y un icono [power].\n<b>Acción de Reclutamiento:</b> paga 1 de oro para tomar el control de Bronn. (Cualquier jugador puede utilizar esta capacidad.)",
+        "traits": "Mercenario."
+    },
+    {
+        "code": "02090",
+        "flavor": "\"Los dioses saben que sou inocente. Prefiero su veredicto al juicio de los hombres.\" <cite>Tyrion Lannister</cite>",
+        "name": "Juicio por combate",
+        "text": "<b>Interrupción:</b> cuando se aplique el efecto de Conquista de un reto [intrigue], en vez de eso aplica el efecto de una Conquista de [military]."
+    },
+    {
+        "code": "02091",
+        "name": "Asaltante de Pyke",
+        "text": "Cada carta <i>Arma</i> que tengas en tu mano gana Emboscada (X). X es el coste impreso de esa carta.",
+        "traits": "Asaltante."
+    },
+    {
+        "code": "02092",
+        "flavor": "En aquellos tiempos, los hijos del hierro no trabajaban en las minas; aquello se quedaba para los cautivos que tomaban en sus expediciones.",
+        "name": "Minas de hierro",
+        "text": "<b>Interrupción:</b> cuando un Personaje vaya a morir, sacrifica las Minas de Hierro para salvar a ese Personaje.",
+        "traits": "Iron Islands."
+    },
+    {
+        "code": "02093",
+        "flavor": "\"El Gran Pastor me envió a la tierra para curar a sus corderos, estén donde estén.\"",
+        "name": "Mirri Maz Duur",
+        "text": "<b>Interrupción:</b> cuando se aplique el efecto de Conquista de un reto en el que Mirri Maz Duur esté atacando sola, elige un Personaje controlado por el adversario derrotado. En vez de aplicar los efectos habituales de la Conquista, mata a ese Personaje.",
+        "traits": "Lhazareeno. Maegi."
+    },
+    {
+        "code": "02094",
+        "name": "Ritual de magia de sangre",
+        "text": "<b>Interrupción</b>: cuando un Personaje que no sea <i>Ejército</i> vaya a morir, sálvalo. Luego vincula el Ritual de magia de sangre a ese Personaje como Accesorio de <i>Estado</i> con este texto: \"Terminal. Trata el texto de reglas impreso del Personaje vinculado como estuviera en blanco (excepto los <i>Rasgos</i>).\"."
+    },
+    {
+        "code": "02095",
+        "name": "Caballeros del Sol",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras haya 3 o más cartas de Trama en tu pila de cartas usadas, Caballeros del Sol gana Renombre.",
+        "traits": "Ejército. Caballero."
+    },
+    {
+        "code": "02096",
+        "name": "Vengar a Elia",
+        "text": "<b>Interrupción:</b> cuando se aplique el efecto de Conquista de un reto en el que seas el jugador defensor, elige un adversario. Ese jugador debe satisfacer en tu lugar el efecto habitual de la Conquista como si él fuera el jugador defensor."
+    },
+    {
+        "code": "02097",
+        "name": "Calle del Acero",
+        "text": "<b>Reacción:</b> después´de que ganes un reto [military], arrodilla tu carta de Facción para buscar entre las 10 primeras cartas de tu mazo un Accesorio <i>Arma</i> u <i>Objeto</i>, mostrarlo y añadirlo a tu mano. Baraja tu mazo.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "02098",
+        "name": "El Nido de Águilas",
+        "text": "<b>Reacción:</b> después de que empiece una fase, arrodilla El Nido de Águilas para elegir un Personaje. Hasta el final de la fase, ese Personaje no puede morir.",
+        "traits": "Casa Arryn. Fortaleza."
+    },
+    {
+        "code": "02099",
+        "flavor": "Pero en sus pesadillas, volvía a enfrentarse a aquello…",
+        "name": "Pesadillas",
+        "text": "<b>Acción:</b> elige un Personaje o Lugar. Hasta el final de la fase, trata el texto de rglas impreso de esa carta como si estuviera en blanco (excepto los <i>Rasgos</i>).",
+        "traits": "Sueño."
+    },
+    {
+        "code": "02100",
+        "name": "Hambruna",
+        "text": "Aumenta en 1 el coste que debe pagar cada adversario para reclutar cada uno de sus Personajes.",
+        "traits": "Invierno."
+    }
+]

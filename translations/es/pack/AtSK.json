@@ -1,0 +1,132 @@
+[
+    {
+        "code": "04001",
+        "flavor": "La cola del cometa rasgaba el amanecer; era una brecha roja que sangraba sobre los riscos de Rocadragón como una herida en el cielo rosado y violáceo.",
+        "name": "La Cola del Dragón",
+        "text": "<b>Acción:</b> elige un adversario. Ese jugador y tú robáis 2 cartas cada uno.",
+        "traits": "Augurio."
+    },
+    {
+        "code": "04002",
+        "name": "Robb Stark",
+        "text": "Renombre.\nDurante retos [military], Robb Stark recibe un +1 a su FUE por cada Personaje leal que controles.\n<b>Acción:</b> mientras Robb Stark esté participando en un reto [military], elige un Personaje participante que no sea <i>Rey</i>. Pon en pie a ese Personaje y retíralo del reto. (Límite de 1 vez por reto.)",
+        "traits": "Rey. Lord."
+    },
+    {
+        "code": "04003",
+        "name": "Aguasdulces",
+        "text": "<b>Reacción:</b> después de que un Personaje de la <i>Casa Tully</i> gane Poder o se le traslade Poder, arrodilla Aguasdulces para hacer que ese Personaje gane 1 de Poder.",
+        "traits": "Casa Tully. Tierras de los Ríos."
+    },
+    {
+        "code": "04004",
+        "flavor": "\"Cruzáis tierras muy peligrosas.\"",
+        "name": "Ser Colen de Lagosverdes",
+        "text": "Durante retos [power], Ser Colen de Lagosverdes recibe un +3 a su FUE.",
+        "traits": "Caballero."
+    },
+    {
+        "code": "04005",
+        "name": "Campamento de Puenteamargo",
+        "text": "<b>Reacción:</b> después de que se muestre una carta de Trama de <i>Verano</i>, arrodilla el Campamento de Puenteamargo. Luego cada jugador puede poner en juego un Personaje desde su mano.",
+        "traits": "El Dominio."
+    },
+    {
+        "code": "04006",
+        "flavor": "En Invernalia la habían llamado Arya Caracaballo, y en aquellos tiempos pensaba que no había nada peor…",
+        "name": "Arry",
+        "text": "<abrr>Emboscada</abbr> (4).\nSi controlas a Arya Stark, sacrifica a Arry.\n<b>Acción:</b> devuelve a Arry a tu mano para robar 1 carta.",
+        "traits": "Recluta."
+    },
+    {
+        "code": "04007",
+        "flavor": "Era el fin del mundo. Y nosotros vamos a ir más allá.",
+        "name": "Arbolblanco",
+        "text": "<b>Reacción:</b> después de que un adversario reciba ingresos, arrodilla Arbolblanco para trasladar 1 de Oro del suministro de Oro ese jugador al tuyo.",
+        "traits": "Disputa. El Norte."
+    },
+    {
+        "code": "04008",
+        "name": "Cuervo blanco",
+        "text": "<b>Reacción obligada:</b> después de que pierdas un reto [power], sacrifica al Cuervo blanco.\n<b>Reacción:</b> después de que ganes la Dominación, si hay mostrada una carta de Trama de <i>Verano</i> o de <i>Invierno</i>, ganas 1 de Poder para tu facción.",
+        "traits": "Cuervo."
+    },
+    {
+        "code": "04009",
+        "name": "Rubí de R'hllor",
+        "text": "Sólo Personajes <i>R'hllor</i>.\n<b>Reacción:</b> después de que ganes un reto [intrigue] en el que esté atacando el Personaje vinculado, nombra una carta. El adversario derrotado muestra su mano y descarta todas las cartas que tengan ese nombre.",
+        "traits": "Objeto. R'hllor."
+    },
+    {
+        "code": "04010",
+        "flavor": "\"En cuanto al que se hace llamar señor de Harrenhal, no es más que el hijo de un carnicero ensalzado por los Lannister. No es de extrañar que sea tan sobornable y corrupto.\" <cite>Ser Denys Mallister</cite>",
+        "name": "Janos Slynt",
+        "text": "Intimidación.\n<b>Acción:</b> paga 1 de Oro para proporcionar a Janos Slynt un +2 a su FUE hasta el final de la fase.",
+        "traits": "Mercenario."
+    },
+    {
+        "code": "04011",
+        "name": "Levas en la Roca",
+        "text": "<b>Reacción:</b> después de que un jugador inicie un reto contra ti, traslada hasta X de Oro desde el suministro de Oro de ese jugador hasta el tuyo. X es el número de Personajes atacantes."
+    },
+    {
+        "code": "04012",
+        "flavor": "Su padre le había prohibido desembarcar, pero siempre que Theon iba a Puerto Noble la veía vagar desamparada por la cubierta.",
+        "name": "Hija del capitán",
+        "text": "<b>Reacción:</b> después de que entre en juego un Personaje no leal, arrodilla tu carta de Facción y sacrifica a la Hija del capitán para colocar ese Personaje en la parte superior del mazo de su propietario.",
+        "traits": "Aliado."
+    },
+    {
+        "code": "04013",
+        "flavor": "El cabo en el que los Greyjoy habían erigido su fortaleza fue en un tiempo como una espada que se adentrara en las entrañas del océano, pero las olas lo habían golpeado día y noche hasta que la tierra se quebró en pedazos, hacía ya un millar de años.",
+        "name": "Pyke",
+        "text": "<b>Acción:</b> arrodilla Pyke para elegir un Personaje. Hasta el final de la fase, ese Personaje gana <abbr>Sigilo</abrr>.",
+        "traits": "Islas del Hierro."
+    },
+    {
+        "code": "04014",
+        "name": "Viserys Targaryen",
+        "text": "Mientras Viserys Targaryen esté atacando, cada Personaje <i>Rey</i> debe ser declarado como defensor (si puede).\n<b>Interrupción:</b> cuando termine la fase de Dominación, si ningún adversario controla un Personaje <i>Rey</i>, Viserys Targaryen gana 1 de Poder.",
+        "traits": "Rey. Lord."
+    },
+    {
+        "code": "04015",
+        "flavor": "Los dothrakis llamaban al cometa shierak qiya, que significaba \"estrella sangrante\".",
+        "name": "Shierak Qiya",
+        "text": "<b>Reacción:</b> después de que ganes un reto [power] por 5 o más de FUE, arrodilla tu carta de Facción para poner en pie a un Personaje participante de tu elección.",
+        "traits": "Augurio."
+    },
+    {
+        "code": "04016",
+        "name": "Harmen Uller",
+        "text": "Renombre.\nCada Personaje <i>Serpiente de arena</i> que tengas en tu mano gana Emboscada (X). X es 1 menos que el coste impreso de esa carta.",
+        "traits": "Casa Uller. Lord."
+    },
+    {
+        "code": "04017",
+        "flavor": "…los restos de luz de la tarde entraban por las ventanas de cristal tintado para salpicar el mármol claro con diamantes de cien colores.",
+        "name": "Torre del Sol",
+        "text": "<b>Reacción:</b> después de que se juege un Evento, ganas 1 de Oro. (Límite de 1 vez por fase.)",
+        "traits": "Dorne."
+    },
+    {
+        "code": "04018",
+        "flavor": "Según los piromantes, sólo había tres cosas que ardieran a temperatura más alta que su sustancia: las llamas de dragón, los fuegos del interior de la tierra y el sol del verano.",
+        "name": "Piromantes",
+        "text": "<b>Acción de Dominación:</b> arrodilla a los Piromantes y descarta 1 de Poder de tu carta de Facción para elegir un Lugar que no sea limitado y descartarlo del juego.",
+        "traits": "Aliado."
+    },
+    {
+        "code": "04019",
+        "name": "Lluvias de otoño",
+        "text": "Ni Personajes ni Lugares proporcionan modificadores positivos al Oro.",
+        "traits": "Augurio."
+    },
+    {
+        "code": "04020",
+        "flavor": "\"En una habitación hay tres hombres de gran importancia: un rey, un sacerdote y un rico. Frente a ellos se encuentra de pie un mercenario…\" <cite>Varys</cite>",
+        "name": "El acertijo de Varys",
+        "text": "<b>Cuando se muestre esta carta:</b> inicia el efecto \"Cuando se muestre esta carta\" de una Trama mostrada que no sea de <i>Acertijo</i> como si la acabases de mostrar tú.",
+        "traits": "Acertijo. Conspiración."
+    }
+]
