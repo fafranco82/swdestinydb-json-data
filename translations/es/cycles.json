@@ -1,0 +1,22 @@
+[
+    {
+        "code": "core",
+        "name": "Caja Básica"
+    },
+    {
+        "code": "westeros",
+        "name": "Ciclo de Poniente"
+    },
+    {
+        "code": "war",
+        "name": "Ciclo de la Guerra de los Cinco Reyes"
+    },
+    {
+        "code": "wolves",
+        "name": "Lobos del Norte"
+    },
+    {
+        "code": "lions",
+        "name": "Leones de Roca Casterly"
+    }
+]

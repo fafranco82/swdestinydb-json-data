@@ -1,0 +1,129 @@
+[
+    {
+        "code": "02041",
+        "name": "Ser Rodrik Cassel",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras Ser Rodrik Cassel esté atacando en un reto [military], cada Personaje [stark] único que controles gana Perspicacia.",
+        "traits": "Caballero."
+    },
+    {
+        "code": "02042",
+        "flavor": "En sus sueños de lobo podía correr por las laderas de las montañas, subir a cumbres escabrosas más altas que ninguna torre y detenerse en la cima bajo la luna llena, con el mundo entero a sus pies, tal como había sido antes de la caída.",
+        "name": "Soñando con lobos",
+        "text": "<b>Acción:</b> arrodilla tu carta de Facción para buscar en tu mazo una carta <i>Lobo huergo</i>, mostrarla y añadirla a tu mano. Baraja tu mazo.",
+        "traits": "Sueño."
+    },
+    {
+        "code": "02043",
+        "flavor": "Sansa y Jeyne Poole los llamaban Ser Horror y Ser Baboso, y siempre que los veían hacían comentarios entre risitas. En aquel momento no tenían nada de graciosos.",
+        "name": "Ser Hobber Redwyne",
+        "text": "<b>Reacción:</b> después de que reclutes a Ser Hobber Redwyne, busca en tu mazo un Personaje <i>Lady</i>, muéstralo y añádelo a tu mano. Baraja tu mazo.",
+        "traits": "Casa Redwyne. Caballero."
+    },
+    {
+        "code": "02044",
+        "name": "Yegua en celo",
+        "text": "Sólo Personajes <i>Caballero</i>.\nMientras el Personaje vinculado esté atacando o defendiendo solo, la Yegua en celo gana: \"<b>Acción:</b> arrodilla la Yegua en celo para elegir un Personaje participante cuya FUE sea superior a la del Personaje vinculado y retirar ese Personaje del reto.\"",
+        "traits": "Caballo de guerra."
+    },
+    {
+        "code": "02045",
+        "name": "Ser Alliser Thorne",
+        "text": "Mientras seas el jugador defensor, cada Personaje [thenightswatch] que controles gana un icono [military].\n<b>Reacción:</b> después de que se inicie un reto [military] contra ti, arrodilla tu carta de Facción y paga 4 de Oro para poner en juego a Ser Alliser Thorne desde tu mano.",
+        "traits": "Caballero. Explorador."
+    },
+    {
+        "code": "02046",
+        "flavor": "\"That's a longsword, not an old man's cane.\" <cite>Ser Alliser Thorne</cite>",
+        "name": "Espada de entrenamiento",
+        "text": "Sólo Personajes [thenightswatch]. Emboscada (2).\nEl Personaje vinculado recibe un +1 a su FUE y gana un icono [military].",
+        "traits": "Arma."
+    },
+    {
+        "code": "02047",
+        "flavor": "El bufón particular del Rey, un simplón con una cara de torta al que llamaban Chico Luna, bailaba sobre zancos con su traje de mil colores, y se burlaba de todo el mundo con tan hábil crueldad que Sansa llegó a preguntarse si realmente sería un retrasado.",
+        "name": "Chico Luna",
+        "text": "Perspicacia.\n<b>Reacción obligatoria:</b> después de que pierdas un reto en el que esté participando Chico Luna, descarta 1 carta al azar de tu mano.",
+        "traits": "Bufón."
+    },
+    {
+        "code": "02048",
+        "name": "La paz del Rey",
+        "text": "<b>Reacción:</b> después de que se inicie un reto [military] o [power] contra ti, el jugador atacante puede elegir entre arrodillar su carta de Facción o trasladar 1 de Poder desde esa carta de Facción hasta la tuya. Si ese jugador decide no hacerlo, el reto termina de inmediato sin vencedor ni perdedor.",
+        "traits": "Edicto. Conspiración."
+    },
+    {
+        "code": "02049",
+        "name": "Ser Gregor Clegane",
+        "text": "Pillaje. Renombre.\n<b>Reacción:</b> después de que Ser Gregor Clegane descarte a un Personaje utilizando Pillaje, coloca esa carta en la pila de muertos de su propietario. Luego puedes matar a un Personaje de tu elección cuyo coste impreso sea igual al coste impreso de esa carta.",
+        "traits": "Casa Clegane. Caballero. Lord."
+    },
+    {
+        "code": "02050",
+        "name": "Jamás apuesto contra mi familia",
+        "text": "<b>Acción de Reto:</b> arrodilla tu carta de Facción para mostrar las 5 últimas cartas de tu mazo. Puedes poner en juego 1 Personaje [lannister] único que haya sido mostrado por este efecto; devuelve las demás cartas a la parte inferior de tu mazo en el orden que prefieras. Al final de la fase, si esa carta aún sigue en juego, descártala del juego (no puede salvarse)."
+    },
+    {
+        "code": "02051",
+        "name": "Lord de nuevo cuño",
+        "text": "<b>Reacción:</b> después de que reclutes al Lord de nuevo cuño, descarta del juego un Lugar no limitado de tu elección con un coste impreso de 3 o menos.\n<b>Carta diseñada por Casey Galvan, campeón mundial de 2003.</b>",
+        "traits": "Lord."
+    },
+    {
+        "code": "02052",
+        "name": "Red de pesca",
+        "text": "Sólo Personajes de adversarios.\nEl Personaje vinculado no puede ser declarado como defensor.",
+        "traits": "Estado. Objeto. Arma."
+    },
+    {
+        "code": "02053",
+        "flavor": "Hasta el khal más poderoso se inclinaba ante la sabiduría y autoridad del dosh khaleen.",
+        "name": "Bruja de Vaes Dothrak",
+        "text": "<b>Reacción:</b> después de que se descarte un Personaje de la mano o el mazo de un adversario, arrodilla un Personaje <i>Dothraki</i> para poner esa carta en la pila de muertos de su propietario.",
+        "traits": "Dothraki."
+    },
+    {
+        "code": "02054",
+        "name": "Yegua de plata",
+        "text": "Sólo Personajes <i>Dothraki</i> o Daenerys Targaryen.\nMientras el Personaje vinculado esté participando en un reto [power], gana Renombre.\n<b>Reacción:</b> después de que el Personaje vinculado gane Poder utilizando Renombre, sacrifica la Yegua de plata. Puedes iniciar un reto [power] adicional esta fase.",
+        "traits": "Caballo de guerra."
+    },
+    {
+        "code": "02055",
+        "flavor": "A menos que el príncipe Doran la hubiera desheredado, seguí siendo la sucesora legítima de Lanza del Sol. El hombre que se casara con ella gobernaría Dorne a su lado algún día.",
+        "name": "Deshonra",
+        "text": "Sólo Personajes de adversarios.\nEl Personaje vinculado pierde un icono [intrigue].",
+        "traits": "Estado."
+    },
+    {
+        "code": "02056",
+        "flavor": "Any knight can make a knight...",
+        "name": "El Sendahueso",
+        "text": "<b>Reacción:</b> después de que pierdas un reto, coloca 1 ficha de Venganza sobre El Sendahueso.\n<b>Acción de Dominación:</b> arrodilla El Sendahueso y descarta 6 fichas de Venganza que tenga encima para ganar 3 de Poder para tu facción.",
+        "traits": "Dorne."
+    },
+    {
+        "code": "02057",
+        "name": "Caballero errante",
+        "text": "Mientras controles otro Personaje <i>Caballero</i>, el Caballero errante recibe un +1 a su FUE y un icono [power].",
+        "traits": "Caballero."
+    },
+    {
+        "code": "02058",
+        "flavor": "Todo caballero puede armar caballeros…",
+        "name": "Nombrado caballero",
+        "text": "El Personaje vinculado recibe un +1 a su FUE y gana el rasgo <i>Caballero</i>.",
+        "traits": "Título."
+    },
+    {
+        "code": "02059",
+        "name": "Un torneo para el Rey",
+        "text": "Cada Personaje <i>Caballero</i> que controles gana Renombre e &ldquo;Inmune a Eventos de adversarios.&rdquo;",
+        "traits": "Verano."
+    },
+    {
+        "code": "02060",
+        "name": "Señor del Cruce",
+        "text": "Durante el primer reto que inicies en cada fase, cada uno de tus Personajes participantes recibe un -1 a su FUE.\nDurante el tercer reto que inicies en cada fase, cada uno de tus Personajes participantes recibe un +2 a su FUE. Si ganas ese reto, ganas 1 de Poder para tu facción.",
+        "traits": "Casa Frey."
+    }
+]

@@ -1,0 +1,329 @@
+[
+    {
+        "code": "03001",
+        "name": "La hueste del rey Robb",
+        "text": "Sin Accesorios.\n<b>Reacción:</b> después de que ganes un reto [military] en el que esté participando La hueste del rey Robb, traslada 1 de Poder desde la carta de Facción del adversario derrotado hasta un Personaje atacanta. (2 de Poder si hay mostrada una carta de Trama de <i>Guerra</i>.)",
+        "traits": "Ejército."
+    },
+    {
+        "code": "03002",
+        "flavor": "\"Quiero que esto termine. Mis señores, quiero irme a casa, y llorar allí a mi marido.\"",
+        "name": "Catelyn Stark",
+        "text": "Catelyn Stark  recibe un +1 a su FUE por cada ficha de Poder que tenga.\n<b>Reacción:</b> después de que un Personaje [stark] que controles muera o sea sacrificado, Catelyn Stark gana 1 de Poder. (Límite de 2 veces por ronda.)",
+        "traits": "Casa Tully. Lady. Los Siete."
+    },
+    {
+        "code": "03003",
+        "flavor": "\"Debes conocer a los hombres que te siguen, y ellos deben conocerte. No les pidas a tus hombres que mueran por un desconocido.\"",
+        "name": "Eddard Stark",
+        "text": "Renombre.\n<b>Reacción:</b> después de que Eddard Stark gane Poder utilizando el Renombre, elige otro Personaje participante que controles. Ese Personaje gana 1 de Poder.",
+        "traits": "Lord. Consejo Privado."
+    },
+    {
+        "code": "03004",
+        "name": "El Pez Negro",
+        "text": "Renombre.\nMientras El Pez Negro tenga 4 o más de Poder, ningún Personaje de la <i>Casa Tully</i> que controles se arrodilla cuando es declarado como atacante.\n<b>Reacción:</b> después de que ganes un reto [military] como jugador atacante, roba 1 carta. (Límite de 1 vez por fase.)\n<b>Carta diseñada por Erick A. Butzlaff, campeón mundial de 2009.</b>",
+        "traits": "Casa Tully. Caballero. Lord."
+    },
+    {
+        "code": "03005",
+        "flavor": "\"Yo no soy un Stark, padre.\"",
+        "name": "Jon Nieve",
+        "text": "<b>Acción:</b> sacrifica un Personaje [stark] para poner en pie a un Personaje [stark] único de tu elección. (Límite de 1 vez por ronda.)",
+        "traits": "Bastardo."
+    },
+    {
+        "code": "03006",
+        "name": "Lobos del Norte",
+        "text": "Sin Accesorios. Sigilo.\n<b>Reacción:</b> después de que Lobos del Norte evite a un Personaje utilizando el Sigilo, ese Personaje recibe un -X a su FUE hasta el final de la fase. X es el número de cartas <i>Lobo huargo</i> que controles.",
+        "traits": "Lobo huargo."
+    },
+    {
+        "code": "03007",
+        "flavor": "Tranquila como las aguas en calma, se dijo. Fuerte como un oso. Fiera como un carcayú. Abrió los ojos de nuevo. Los monstruos seguían allí. El miedo, no.",
+        "name": "Arya Stark",
+        "text": "<b>Reacción:</b> después de que un Personaje [stark] que controles muera, sacrifica a Arya Stark para matar a un Personaje de tu elección que tenga FUE 3 o menos.",
+        "traits": "Lady."
+    },
+    {
+        "code": "03008",
+        "name": "Jory Cassel",
+        "text": "<b>Interrupción:</b> cuando un Personaje [stark] único que controles vaya a morir, sacrifica a Jory Cassel para salvarlo. Luego, si hay mostrada una carta de Trama de <i>Invierno</i>, ese Personaje gana 1 de Poder.",
+        "traits": "Guardia."
+    },
+    {
+        "code": "03009",
+        "name": "Juglar de Aguasdulces",
+        "text": "<b>Reacción:</b> después de que el Juglar de Aguasdulces entre en juego, elige un Personaje de la <i>Casa Tully</i>. Ese Personaje gana 1 de Poder.",
+        "traits": "Casa Tully. Juglar."
+    },
+    {
+        "code": "03010",
+        "flavor": "\"Ay, mi dulce niño de verano, ¡qué sabrás tú del miedo!\"",
+        "name": "Vieja Tata",
+        "text": "<b>Interrupción:</b> cuando se muestre una carta de Trama, arrodilla a la Vieja Tata para hacer que esa carta de Trama gane el rasgo <i>Verano</i> o <i>Invierno</i> hasta el final de ronda.",
+        "traits": "Cuentacuentos."
+    },
+    {
+        "code": "03011",
+        "flavor": "\"Dile que se va a marchar en la dirección que no debe. Tendría que llevar sus espadas hacia el norte, no hacia el sur.\"",
+        "name": "Osha",
+        "text": "<b>Acción de Reto:</b> retira a Osha del reto. Luego ponla en pie. (Límite de 1 vez por fase.)",
+        "traits": "Salvaje."
+    },
+    {
+        "code": "03012",
+        "flavor": "Los Mormont de la Isla del Oso eran una casa antigua, orgullosa y honorable, pero sus tierras eran frías, remotas y pobres.",
+        "name": "Leal de la Isla del Oso",
+        "text": "Mientras el Leal de la Isla del Oso esté participando en un reto, cada uno de los demás Personajes [stark] participantes que controles gana \"Inmune a Eventos de adversarios\".",
+        "traits": "Casa Mormont."
+    },
+    {
+        "code": "03013",
+        "flavor": "Ayudadme, rezó. Enviadme a un amigo, un verdadero caballero que sea mi campeón.",
+        "name": "Sansa Stark",
+        "text": "Sansa Stark recibe un -1 a su FUE por cada Personaje [stark] que haya en tu pila de muertos.\nMientras la FUE de Sansa Stark sea 0, gana <abbr>Perspicacia<abrr>.",
+        "traits": "Lady."
+    },
+    {
+        "code": "03014",
+        "flavor": "El lobo estaba casi tan incontrolable como Rickon; había mordido a Gage en el brazo, y le había arrancado a Mikken un bocado de carne del muslo.",
+        "name": "Peludo",
+        "text": "Sin Accesorios.\nMientras controles a Rickon Stark, éste recibe un +2 a su FUE y gana un icono [military].",
+        "traits": "Lobo huargo."
+    },
+    {
+        "code": "03015",
+        "flavor": "El culto consistía en un septón con un incensario, el olor del incienso, un cristal de siete facetas lleno de luz y voces que entonaban cánticos.",
+        "name": "Septón de la casa Tully",
+        "text": "<b>Acción de Reclutamiento:</b> descarta 1 de Poder de un Personaje que controles para reducir en 2 el coste del siguiente Personaje de la <i>Casa Tully</i> o de <i>Los Siete</i> que reclutes en esta fase. (Límite de 1 vez por fase.)",
+        "traits": "Aliado. Casa Tully. Los Siete."
+    },
+    {
+        "code": "03016",
+        "flavor": "\"No tengo miedo. Quiero esperar a Padre.\"",
+        "name": "Rickon Stark",
+        "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos de una capacidad activada que contenga la palabra \"busca\", sacrifica a Rickon Stark para anular esos efectos.",
+        "traits": "Lord."
+    },
+    {
+        "code": "03017",
+        "name": "Invernalia",
+        "text": "Cada Personaje [stark] que controles recibe un +1 a su FUE.\n<b>Reacción:</b> después de que se inicie un reto, arrodilla Invernalia. Luego, ningún jugador que tenga mostrada una carta de Trama que no sea de <i>Invierno</i> podrá activar capacidades de cartas hasta el final del reto.",
+        "traits": "El Norte. Invernalia."
+    },
+    {
+        "code": "03018",
+        "name": "Árbol corazón de Invernalia",
+        "text": "<b>Reacción:</b> después de que empiece una fase, sacrifica el Árbol corazón de Invernalia para elegir una carta [stark] que controles. Hasta el final de la fase, esa carta gana \"Inmune a efectos de las Tramas de los adversarios\".",
+        "traits": "Antiguos dioses. Invernalia."
+    },
+    {
+        "code": "03019",
+        "name": "Nymeria",
+        "text": "Sólo Personajes [stark] únicos.\nEl Personaje vinculado gana Intimidación.\n<b>Acción:</b> paga 1 de Oro para vincular Nymeria a un Personaje diferente. (Límite de 1 vez por fase.)",
+        "traits": "Lobo huargo."
+    },
+    {
+        "code": "03020",
+        "name": "Aguja",
+        "text": "Sólo Personajes [stark].\nEl Personaje vinculado recibe un +2 a su FUE.\n<b>Interrupción:</b> cuando el Personaje vinculado sea sacrificado, sacrifica Aguja para devolver ese Personaje a tu mano en vez de colocarlo en tu pila de descartes.",
+        "traits": "Arma."
+    },
+    {
+        "code": "03021",
+        "flavor": "Ya no había nada más que nieve, y frío, y muerte, un páramo helado en el que se alzaban blancos carámbanos dentados, como brazos a la espera de acogerlo.",
+        "name": "Helada",
+        "text": "Sólo Lugares no limitados con un coste impreso de 3 o menos. Terminal.\nTrate el texto de reglas impreso del Lugar vinculado como si estuviera en blanco (excepto los <i>Rasgos</i>).",
+        "traits": "Estado."
+    },
+    {
+        "code": "03022",
+        "name": "Duros como el invierno",
+        "text": "Juega esta carta sólo si hay una carta de Trama de <i>Invierno</i> en tu pila de cartas usadas.\n<b>Reacción:</b> después de que un Personaje [stark] que controles muera o sea sacrificado, pon en juego desde tu mano un Personaje [stark] con coste impreso igual o inferior."
+    },
+    {
+        "code": "03023",
+        "flavor": "\"Cuando cae la nieve y sopla el viento blanco, el lobo solitario muere, pero la manada sobrevive.\" <cite>Eddard Stark</cite>",
+        "name": "La manada sobrevive",
+        "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos del Evento de un adversario, sacrifica una carta <i>Lobo huargo</i> o arrodilla 2 Personajes [stark] para anular esos efectos."
+    },
+    {
+        "code": "03024",
+        "flavor": "\"Tienes que clavarla por el extremo puntiagudo.\" <cite>Jon Nieve</cite>",
+        "name": "El regalo de Arya",
+        "text": "<b>Acción:</b> traslada un Accesorio desde un Personaje [stark] que controles hasta otro Personaje válido que controles."
+    },
+    {
+        "code": "03025",
+        "name": "Tatuado",
+        "text": "Sólo Personajes de adversarios.\nEl Personaje vinculado gana el rasgo <i>Bufón</i>.\n<b>Reacción:</b> después de que el Personaje vinculado sea declarado como atacante o defensor, descarta 1 carta al azar de la mano del jugador que lo controla.",
+        "traits": "Estado."
+    },
+    {
+        "code": "03026",
+        "flavor": "El Septón Supremo empezó con una plegaria en la que pedía al Padre en las alturas que los guiara hacia la justicia.",
+        "name": "Justicia imparcial",
+        "text": "<b>Acción:</b> elige un Personaje que esté en pue controlado por cada jugador. Arrodilla a cada uno de esos Personajes."
+    },
+    {
+        "code": "03027",
+        "flavor": "Bigotes de Pez y sus hijos se apresuraron a obedecer.",
+        "name": "Bigotes de Pez",
+        "text": "Mientras Bigotes de Pez esté atacando, si hay mostradas más cartas de Trama de <i>Invierno</i> que de <i>Verano</i>, ningún Personaje defensor aporta su FUE a ese reto.",
+        "traits": "Casa Botley. Hijo del Hierro."
+    },
+    {
+        "code": "03028",
+        "name": "Antes de la marea",
+        "text": "<b>Interrupción:</b> cuando compares Iniciativas, tu carta de Trama mostrada recibe un +3 a la Iniciativa hasta el final de la fase. Si ganas la Iniciativa en esta fase, roba 1 carta."
+    },
+    {
+        "code": "03029",
+        "flavor": "Los mercenarios rara vez se encontraban entre los más honorables de los hombres, pero para seguir vivos precisaban de cierta habilidad en el uso de las armas.",
+        "name": "Mercenario de la Encrucijada",
+        "text": "<b>Interrupción:</b> cuando el Mercenario de la Encrucijada muera durante la fase de Reto, ganas 2 de Oro.",
+        "traits": "Mercenario."
+    },
+    {
+        "code": "03030",
+        "name": "Torre de la Mano",
+        "text": "<b>Reacción:</b> después de que ganes un reto de [intrigue], arrodilla la Torre de la Mano y devuelve a tu mano un Personaje [lannister] participante para elegir a un Personaje que tenga un coste impreso inferior y esté controlado por el adversario derrotado. Devuelve ese Personaje a la mano de su propietario.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "03031",
+        "flavor": "Bajo y fornido, de rostro achatado, parecía un buen chico: serio, sensato, consciente de sus deberes… aunque no era de los que aceleraban el corazón de las jóvenes.",
+        "name": "Quentyn Martell",
+        "text": "Mientras no seas el jugador inicial, Quentyn Martell recibe un +1 a su FUE y gana Sigilo.\n<b>Interrupción:</b> cuando Quentyn Martell muerta, mata a un Personaje de tu elección que tenga menos FUE que él.",
+        "traits": "Caballero. Lord."
+    },
+    {
+        "code": "03032",
+        "flavor": "Todas las hijas del príncipe Oberyn tienen sus ojos de víbora.",
+        "name": "Sus ojos de víbora",
+        "text": "<b>Reacción:</b> después de que pierdas un reto de [military] o [power] como jugador defensor, mira la mano del adversario ganador. Luego elige y descarta 1 carta de esa mano."
+    },
+    {
+        "code": "03033",
+        "name": "Serpiente de Piedra",
+        "text": "Sigilo.\n<b>Reacción:</b> después de que Serpiente de Piedra evite a un Personaje utilizando el Sigilo, elige una de las palabras clave de ese Personaje. Serpiente de Piedra gana esa palabra clave hasta el final de la fase.",
+        "traits": "Explorador."
+    },
+    {
+        "code": "03034",
+        "name": "La Torre Sombría",
+        "text": "<b>Reacción:</b> después de que ganes un reto como jugador defensor, arrodilla La Torre Sombría para elegir un Personaje controlado por el adversario derrotado. Ese Personaje no puede ser declarado como atacante en esta fase.",
+        "traits": "El Norte."
+    },
+    {
+        "code": "03035",
+        "flavor": "\"Te nombro ko, y te pido tu juramento de que vivirás y morirás como sangre de mi sangre, de que cabalgarás a mi lado y me librarás de todo mal.\" <cite>Daenerys Targaryen</cite>",
+        "name": "Aggo",
+        "text": "<b>Acción:</b> si hay mostrada una carta de Trama de <i>Verano</i>, pon en pie un Personaje <i>Jinete de sangre</i> de tu elección. (Límite de 1 vez por ronda.)",
+        "traits": "Jinete de sangre. Dothraki."
+    },
+    {
+        "code": "03036",
+        "name": "Vista de dragón",
+        "text": "<b>Acción:</b> cada Personaje participante que no sea <i>Dragón</i> recibe un -1 a su FUE hasta el final del reto."
+    },
+    {
+        "code": "03037",
+        "name": "Caballero de la casa Florent",
+        "text": "<b>Reacción forzada:</b> después de que el Caballero de la casa Florent entre en juego, descarta del juego un Personaje de tu elección que tenga la puntuación más baja de FUE.",
+        "traits": "Casa Florent. Caballero."
+    },
+    {
+        "code": "03038",
+        "name": "¡Por el estandarte de la rosa!",
+        "text": "<b>Acción de Reclutamiento:</b> elige un Personaje [tyrell] que controles. Ganas X de Oro (siendo X igual a la FUE de ese Personaje). Luego sacrifica a ese Personaje."
+    },
+    {
+        "code": "03039",
+        "name": "Mance Rayder",
+        "text": "Renombre.\nCada Personaje <i>Salvaje</i> que tengas en tu mano gana Emboscada (X). X es el coste impreso de esa carta.\nMientras haya mostrada una carta de Trama de <i>Invierno</i>, reduce en 1 el coste de Emboscada de cada uno de tus Personajes <i>Salvajes</i>.",
+        "traits": "Rey. Salvaje."
+    },
+    {
+        "code": "03040",
+        "flavor": "No estaba casada, y su arma predilecta era un arco corto y curvo de cuerno y madera de arciano, pero el nombre le iba como anillo al dedo.",
+        "name": "Joven mujer del acero",
+        "text": "Mientras tengas menos Poder sobre tu carta de Facción que un adversario, la Joven mujer del acero gana Sigilo.",
+        "traits": "Salvaje."
+    },
+    {
+        "code": "03041",
+        "flavor": "\"¿Has pensado alguna vez que podrías lucir una cadena de maestre? Aprenderías infinidad de cosas.\" <cite>Maestre Luwin</cite>",
+        "name": "Maestre de la casa",
+        "traits": "Maestre."
+    },
+    {
+        "code": "03042",
+        "flavor": "Al otro lado de los muros de la ciudad, junto al río, habían plantado un millar de tiendas, y el pueblo llano acudía en riadas para presenciar los juegos.",
+        "name": "Campos de torneo",
+        "text": "<b>Acción:</b> arrodilla los Campos de torneo para reducir en 1 el coste del siguiente Evento que juegues en esta fase.",
+        "traits": "Disputa. Poniente."
+    },
+    {
+        "code": "03043",
+        "flavor": "\"Mi hermano tiene el don de la vista verde. Sueña cosas que aún no han sucedido, y a veces suceden.\" <cite>Meera Reed</cite>",
+        "name": "Sueños verdes",
+        "text": "Terminal.\n<b>Reacción:</b> después de que el Personaje vinculado se arrodille, mira la primera carta de tu mazo. Puedes poner esa carta en la parte inferior de tu mazo.",
+        "traits": "Sueño."
+    },
+    {
+        "code": "03044",
+        "name": "Conocimientos médicos",
+        "text": "<b>Interrupción:</b> cuando un Personaje que controles y que no sea <i>Ejército</i> vaya a morir, arrodilla un Personaje <i>Maestre</i> para salvarlo.",
+        "traits": "Ciudadela."
+    },
+    {
+        "code": "03045",
+        "flavor": "\"Un regalo adecuado a la Fe persuadirá al Septón Supremo…\" <cite>Tywin Lannister</cite>",
+        "name": "Diezmo",
+        "text": "<b>Acción:</b> arrodilla un Personaje neutral para ganar 2 de Oro."
+    },
+    {
+        "code": "03046",
+        "name": "Tiempo de lobos",
+        "text": "<bCuando se muestre esta carta:</b> busca en tu mazo una carta <i>Lobo huargo</i>, muéstrala y añádela tu mano. Si el coste impreso de esa carta es de 3 o menos, en vez de eso puedes ponerla en juego. Baraja tu  mazo.\n<b>Carta diseñada por Dan Seefeldt, campeón de los EE.UU. en 2012.</b>",
+        "traits": "Invierno."
+    },
+    {
+        "code": "03047",
+        "name": "Caer en desgracia",
+        "text": "<b>Cuando se muestre esta carta:</b> sacrifica un Personaje que controles.",
+        "traits": "Edicto."
+    },
+    {
+        "code": "03048",
+        "name": "Sepultado por la nieve",
+        "text": "La puntuación básica de Iniciativa de cada carta de Trama mostrada se considera 0.",
+        "traits": "Invierno."
+    },
+    {
+        "code": "03049",
+        "name": "El largo invierno",
+        "text": "<b>Cuando se muestre esta carta:</b> cada jugador que no tenga mostrada una carta de Trama de <i>Verano</i> descarta 1 de Poder de una carta que controle.",
+        "traits": "Invierno."
+    },
+    {
+        "code": "03050",
+        "name": "Canción de verano",
+        "text": "Mientras no haya cartas de Trama de <i>Invierno</i> mostradas, cada Personaje que controles recibe un +1 a su FUE.",
+        "traits": "Verano."
+    },
+    {
+        "code": "03051",
+        "name": "Armas a las puertas",
+        "text": "<b>Reacción obligada:</b> después de que empiece la fase de Reto, devuelve a la mano de su propietario cada carta que tenga impreso el tipo de carta Accesorio.",
+        "traits": "Edicto."
+    },
+    {
+        "code": "03052",
+        "name": "Escondrijo de explorador",
+        "text": "<b>Interrupción:</b> cuando termine la fase de Impuestos, elige entre robar 2 cartas o ganar 3 de Oro.",
+        "traits": "Reino. Invierno."
+    }
+]

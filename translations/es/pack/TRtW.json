@@ -1,0 +1,122 @@
+[
+    {
+        "code": "02021",
+        "name": "Encargado de las perreras de Invernalia",
+        "text": "<b>Acción de Reto:</b> si controlas un Personaje [stark] participante, arrodilla un Personaje <i>Lobo huargo</i> o un Personaje que tenga vinculado un Accesorio <i>Lobo huargo</i> para hacer que participe en el reto actual en tu bando. (Límite de 1 vez por fase)",
+        "traits": "Aliado."
+    },
+    {
+        "code": "02022",
+        "name": "Castillo de Invernalia",
+        "text": "Durante un reto [military] o [power] en el que controles 2 o más Personajes [stark] únicos participantes, cada uno de esos Personajes recibe un +2 a su FUE.",
+        "traits": "Fortaleza. Invernalia."
+    },
+    {
+        "code": "02023",
+        "name": "Dama de compañía",
+        "text": "La Dama de compañía puede reclutarse como duplicado (sin coste) de un Personaje <i>Lady</i> que sea de tu propiedad y esté controlado por ti.",
+        "traits": "Acompañante."
+    },
+    {
+        "code": "02024",
+        "name": "La rosa de Lady Sansa",
+        "text": "<b>Reacción:</b> después de que ganes un reto en el que controles un Personaje <i>Caballero</i> que esté atacando o defendiendo solo, ese Personaje gana 1 de Poder (3 de Poder si controlas un Personaje <i>Lady</i>). (Máximo 1 por reto.)"
+    },
+    {
+        "code": "02025",
+        "name": "Aprendiz no juramentado",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\n<b>Acción de Reto:</b> el Aprendiz no juramentado gana un icono de reto de tu elección hasta el final de la fase. (Límite de 1 vez por fase.)",
+        "traits": "Acompañante."
+    },
+    {
+        "code": "02026",
+        "name": "Agasajo de Brandon",
+        "text": "<b>Reacción:</b> después de que reclutes un Personaje <i>Constructor</i>, reduce en 1 el coste de la siguiente carta [thenigthswatch] que reclutes en esta fase. (Límite de 3 veces por fase.)",
+        "traits": "El Norte."
+    },
+    {
+        "code": "02027",
+        "flavor": "Los visitantes entraban como un río de oro, plata y acero bruñido por las puertas del castillo, más de trescientos, la élite de los banderizos, los caballeros, las espadas juramentadas y los jinetes libres.",
+        "name": "Séquito real",
+        "text": "<b>Reacción obligada:</b> después de que pierdas un reto [intrigue], arrodilla el Séquito real.",
+        "traits": "Aliado."
+    },
+    {
+        "code": "02028",
+        "name": "¡Lo ordena vuestro rey!",
+        "text": "Juega esta carta sólo durante un reto [military] en el que seas el jugador defensor.\n<b>Acción:</b> arrodilla tu carta de Facción para finalizar este reto sin que haya ganador ni perdedor. Hasta el final de la fase, no puedes iniciar retos [military]."
+    },
+    {
+        "code": "02029",
+        "name": "Ama de burdel",
+        "text": "<b>Reacción:</b> después de que empiece la fase de Reto, elige un jugador. Ese jugador puede darte 1 de Oro de su propio suministro de Oro. Hasta el final de la fase, si ese jugador no te ha dado Oro en esta fase, no podrá iniciar retos [military] contra ti.",
+        "traits": "Acompañante."
+    },
+    {
+        "code": "02030",
+        "name": "Guardianes de Occidente",
+        "text": "<b>Reacción:</b> después de que ganes un reto [intrigue], paga 2 de Oro para hacer que el adversario derrotado descarte 2 cartas de su mano de su elección.",
+        "traits": "Conspiración."
+    },
+    {
+        "code": "02031",
+        "name": "El Lector",
+        "text": "<b>Reacción:</b> después de que ganes un reto sin oposición en el que esté participando un Personaje [greyjoy] único, elige entre robar 1 carta o descartar las 3 primeras del mazo de cada adversario. (Límite de 1 vez por fase.)\n<b>Carta diseñada por Martí Foz Hernandez, campeón de la Justa Europea de 2011.</b>",
+        "traits": "Casa Harlaw. Lord."
+    },
+    {
+        "code": "02032",
+        "name": "Barcoluengo de asalto",
+        "text": "<b>Acción de Reto:</b> si eres el jugador inicial, arrodilla el Barcoluengo de asalto para elegir un Personaje defensor que no tenga Accesorios vinculados. Ese Personaje no aporta su FUE a este reto.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "02033",
+        "flavor": "\"Lo que tú ordenas, yo lo hago, sangre de mi sangre.\"",
+        "name": "Rakharo",
+        "text": "Mientras controles otro Personaje <i>Jinete de sangre</i>, Rakharo gana Intimidación.\n<b>Reacción:</b> después de que un Personaje muera para satisfacer un efecto de Conquista durante un reto que hayas iniciado tú, Rakharo gana 1 de Poder.",
+        "traits": "Jinete de sangre. Dothraki."
+    },
+    {
+        "code": "02034",
+        "name": "Corona de oro",
+        "text": "Terminal.\nEl Personaje vinculado gana el rasgo <i>Rey</i>.\nEl Personaje vinculado recibe un -4 a su FUE y muere si su FUE cae a 0.",
+        "traits": "Objeto."
+    },
+    {
+        "code": "02035",
+        "name": "Nymeria Arena",
+        "text": "<b>Acción de Reto:</b> elige un Personaje de un adversario. Hasta el final de la fase, ese Personaje pierde un icono de reto de tu elección y cada Personaje <i>Serpiente de arena</i> que controles gana ese icono de reto. (Límite de 1 vez por fase.)",
+        "traits": "Bastardo. Serpiente de arena."
+    },
+    {
+        "code": "02036",
+        "name": "En nombre de Doran",
+        "text": "<b>Acción:</b> arrodilla tu carta de Facción para ganar X de Oro. X es el número de cartas de Trama que hay en tu pila de cartas usadas."
+    },
+    {
+        "code": "02037",
+        "flavor": "\"Chico, cicha, qué más da. Eres una espada, es lo único que importa.\"",
+        "name": "Syrio Forel",
+        "text": "Sigilo.\r\n<b>Acción de Reto:</b> elige un Personaje. Hasta el final de la fase, ese Personaje gana un icono [military] y Sigilo. (Límite de 1 vez por fase.)",
+        "traits": "Acompañante."
+    },
+    {
+        "code": "02038",
+        "name": "Callejón Sombranegra",
+        "text": "<b>Reacción:</b> después de que ganes un reto [intrigue], arrodilla tu carta de Facción para buscar entre las 10 primeras cartas de tu mazo un Evento de facción, mostrarlo y añadirlo a tu mano. Baraja tu mazo.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "02039",
+        "name": "Comerciar con los pentoshi",
+        "text": "<b>Cuando se muestra esta carta:</b> cada adversario gana 3 de Oro (este efecto no puede anularse).",
+        "traits": "Reino."
+    },
+    {
+        "code": "02040",
+        "name": "Desastre político",
+        "text": "<b>Cuando se muestra esta carta:</b> cada jugador elige hasta 2 Lugares que controle. Cada Lugar que no haya sido elegido es descartado del juego.",
+        "traits": "Edicto."
+    }
+]

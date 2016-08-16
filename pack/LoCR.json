@@ -409,11 +409,11 @@
         "illustrator": "Serena Malyon",
         "is_loyal": false,
         "is_unique": false,
-        "name": "The Rains of Castamere",
+        "name": "\"The Rains of Castamere\"",
         "pack_code": "LoCR",
         "position": 45,
         "quantity": 3,
-        "text": "Your plot deck must be 12 cards, including exactly 5 different <i>Scheme</i> cards. During the plot phase, <i>Scheme</i> cards are not considered to be in your plot deck.\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, kneel your faction card to reveal a <i>Scheme</i> plot. If that card leaves play, remove it from the game.\n<b>Card Design by 2013 Joust World Champion, Álvaro Rodriguez.</b>",
+        "text": "Your plot deck must be 12 cards, including exactly 5 different <i>Scheme</i> cards. During the plot phase, <i>Scheme</i> cards are not considered to be in your plot deck.\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, kneel your faction card to reveal a <i>Scheme</i> plot. If that card leaves play, remove it from the game.\n<b>Card Design by 2013 Joust World Champion, Álvaro Rodriguez</b>",
         "traits": "Song.",
         "type_code": "agenda"
     },

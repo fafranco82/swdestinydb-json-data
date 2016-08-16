@@ -1,0 +1,124 @@
+[
+    {
+        "code": "02001",
+        "flavor": "\"Mi madre me dijo que los muertos no cantan canciones.\"",
+        "name": "Will",
+        "text": "Sigilo. Perspicacia.\n<b>Reacción obligada:</b> después de que pierdas un reto sin oposición, sacrifica un Personaje <i>Explorador</i> que controles.",
+        "traits": "Explorador."
+    },
+    {
+        "code": "02002",
+        "name": "La Guardia necesita hombres",
+        "text": "<b>Acción:</b> nombra un rasgo que sea <i>Constructor</i>, <i>Explorador</i> o <i>Mayordomo</i>. Busca entre las X primeras cartas de tu mazo cualquier número de Personajes que tengan ese rasgo, muéstralos y añádelos a tu mano. Devuelve las demás cartas a tu mazo y barájalo. X es tu valor de Reserva."
+    },
+    {
+        "code": "02003",
+        "name": "Maestre Luwin",
+        "text": "Mientras controles a:\n- Robb Stark, éste gana Perspicacia.\n- Jon Nieve, éste gana Sigilo.\n- Bran Stark, éste gana: \"Inmune a efectos de las Tramas de los adversarios.\"\n- Rickon Stark, éste gana Pillaje.",
+        "traits": "Maestre."
+    },
+    {
+        "code": "02004",
+        "name": "Dama",
+        "text": "Sólo Personajes [stark]. Terminal.\nEl Personaje vinculado recibe un +2 a su FUE.\n<b>Acción:</b> paga 1 de Oro para vincular Dama a un Personaje diferente. Luego, si el Personaje vinculado es Sansa Stark, ponla en pie. (Límite de 1 ver por fase.)",
+        "traits": "Lobo huargo."
+    },
+    {
+        "code": "02005",
+        "name": "Caballero del Rejo",
+        "text": "<b>Acción de Reto:</b> paga 1 de Oro para elegir un Personaje participante con el rasgo <i>Casa Redwyne</i>. Hasta el final del reto, ese Personaje recibe +1 a su FUE. (Límite de 3 veces por fase.)",
+        "traits": "Casa Redwyne. Caballero."
+    },
+    {
+        "code": "02006",
+        "name": "Barcaza de paseo",
+        "text": "Inmune a efectos.\n<b>Reacción:</b> después de que reclutes la Barcaza de paseo, si todavía no has robado ninguna carta en esta fase, roba 3 cartas.\n-1 Oro",
+        "traits": "Barcaza."
+    },
+    {
+        "code": "02007",
+        "flavor": "\"Si no puedes mantener la paz del rey, quizá otro deba dirigir la guardia de la ciudad, Janos.\"",
+        "name": "Renly Baratheon",
+        "text": "Reduce en 1 el coste del primer Personaje no [baratheon] que reclutes en cada ronda.",
+        "traits": "Lord. Consejo Privado."
+    },
+    {
+        "code": "02008",
+        "name": "Martillo de guerra del rey Robert",
+        "text": "El Personaje vinculado recibe un +1 a su FUE.\n<b>Reacción:</b> después de que ganes un reto en el que el Personaje vinculado esté participando como atacante, elige y arrodilla Personajes que sumen una FUE máxima de X, siendo X la FUE del Personaje vinculado. Luego sacrifica el Martillo de guerra del rey Robert.",
+        "traits": "Arma."
+    },
+    {
+        "code": "02009",
+        "name": "El Perro",
+        "text": "Emboscada (4).\n<b>Reacción obligada:</b> después de que ganes un reto en el que esté participando El Perro, puedes descartar 1 carta al azar de tu mano. Si no lo haces, devuelve El Perro a tu mano.",
+        "traits": "Casa Clegane."
+    },
+    {
+        "code": "02010",
+        "name": "Casa sobre ruedas de Cersei",
+        "text": "<b>Reacción:</b> después de que te conviertas en el jugador inicial, elige entre ganar 1 de Oro o robar 1 carta.\n-1 Iniciativa",
+        "traits": "Vehículo."
+    },
+    {
+        "code": "02011",
+        "name": "El Trono de Piedramar",
+        "text": "<b>Interrupción:</b> cuando se aplique el efecto de Conquista de un reto [military] sin oposición en el que seas el jugador atacante, arrodilla tu carta de Facción para elegir un Personaje controlado por el adversario derrotado que no tenga Accesorios vinculados. En vez de aplicar los efectos habituales de la Conquista, mata a ese Personaje.",
+        "traits": "Islas del Hierro."
+    },
+    {
+        "code": "02012",
+        "name": "El despertar del kraken",
+        "text": "<b>Interrupción:</b> cuando ganes Poder por vencer en un reto sin oposición, en vez de eso ganas 2 de Poder.",
+        "traits": "Guerra."
+    },
+    {
+        "code": "02013",
+        "flavor": "Al principio los magísteres, arcontes y príncipes mercaderes estaban encantados de recibir a los últimos Targaryen en sus hogares y a sus mesas…",
+        "name": "Príncipe mercader",
+        "text": "Mientras el Príncipe mercader tenga un Accesorio vinculado, recibe un +1 a su FUE y gana un icono [military].",
+        "traits": "Acompañante."
+    },
+    {
+        "code": "02014",
+        "flavor": "…estaba prohibido llevar armas en Vaes Dothrak, así como derramar la sangre de un hombre libre.",
+        "name": "Vaes Dothrak",
+        "text": "<b>Reacción:</b> después de que muestres una carta de Trama, descarta un Accesorio de tu mano para descartar del juego un Accesorio de tu elección que tenga un coste impreso similar o inferior.",
+        "traits": "Essos."
+    },
+    {
+        "code": "02015",
+        "name": "Hija bastarda",
+        "text": "<b>Interrupción:</b> cuando la Hija bastarda o La Víbora Roja mueran, descarta 1 carta al azar de la mano de cada adversario.",
+        "traits": "Bastardo. Serpiente de arena."
+    },
+    {
+        "code": "02016",
+        "name": "El largo plan",
+        "text": "Durante la fase de Impuestos no devuelves a la Tesorería el Oro que no hayas gastado.\n<b>Reacción:</b> después de que pierdas un reto, ganas 1 de Oro.",
+        "traits": "Conspiración."
+    },
+    {
+        "code": "02017",
+        "name": "El apoyo del pueblo",
+        "text": "<b>Reacción:</b> después de que ganes un reto [power] por 5 o más de FUE, busca en tu mazo un Lugar con un coste impreso de 3 o menos y ponlo en juego. Baraja tu mazo. (Máximo 1 por reto.)"
+    },
+    {
+        "code": "02018",
+        "name": "Calle de las Hermanas",
+        "text": "<b>Reacción:</b> después de que ganes un reto [power] por 5 o más de FUE, arrodilla tu carta de Facción para ganar 1 de Poder para tu facción.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "02019",
+        "name": "Defender el reino",
+        "text": "Durante un reto en el que controles un Personaje <i>Ejército</i> atacante, aumenta en 1 el valor de Conquista de Defender el reino.",
+        "traits": "Edicto."
+    },
+    {
+        "code": "02020",
+        "name": "Mi misión se serviros",
+        "text": "<b>Cuando se muestre esta carta:</b> busca en tu mazo un Personaje <i>Maestre</i> con un coste impreso de 3 o menos y ponlo en juego. Baraja tu mazo.",
+        "traits": "Cónclave. Reino."
+    }
+]

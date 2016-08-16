@@ -1,0 +1,30 @@
+{
+    "additionalProperties": false,
+    "properties": {
+        "code": {
+            "pattern": "^[0-9]{5}$",
+            "type": "string"
+        },
+        "flavor": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "name": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "text": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "traits": {
+            "minLength": 0,
+            "type": "string"
+        }
+    },
+    "required": [
+        "code",
+        "name"
+    ],
+    "type": "object"
+}

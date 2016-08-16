@@ -1,0 +1,129 @@
+[
+    {
+        "code": "02101",
+        "name": "Septa Mordane",
+        "text": "Mientras controles a:\n- Sansa Stark, ésta recibe un +2 a su FUE y gana Renombre.\n- Arya Stark, ésta gana un icono [intrigue] e \"Inmune a los afectos de las Tramas de los adversarios.\"",
+        "traits": "Los Siete."
+    },
+    {
+        "code": "02102",
+        "name": "Pupilo",
+        "text": "Sólo Personajes con un coste impreso de 4 o menos. Terminal.\nToma el control del Personaje vinculado.\nEl Personaje vinculado gana la facción [stark].",
+        "traits": "Estado."
+    },
+    {
+        "code": "02103",
+        "name": "Matencas",
+        "text": "Perspicacia.\n<b>Reacción obligada:</b> después de que pierdas un reto en el que esté participando Mantecas, descarta 1 carta al azar de tu mano.",
+        "traits": "Bufón."
+    },
+    {
+        "code": "02104",
+        "name": "Obsequiados con tinto del Rejo",
+        "text": "<b>Acción:</b> arrodilla tu carta de Facción para hacer que cada jugador muestre las 4 primeras cartas de su mazo. Elige 1 carta mostrada de cada jugador y añádela a la mano de ese jugador. Devuelve las demás cartas a los mazos de sus propietarios y barájalos.",
+        "traits": "Casa Redwyne."
+    },
+    {
+        "code": "02105",
+        "name": "Hermano juramentado",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\nReduce en 1 el coste del primer Lugar que reclutes cada ronda.",
+        "traits": "Constructor."
+    },
+    {
+        "code": "02106",
+        "flavor": "\"Maíz, maíz, maíz.\"",
+        "name": "Cuervo del Viejo Oso",
+        "text": "El Personaje vinculado gana Sigilo.\nSi el Personaje vinculado es el Viejo Oso Mormont, éste gana un icono [intrigue].",
+        "traits": "Raven. Companion."
+    },
+    {
+        "code": "02107",
+        "flavor": "\"Hay honor en enfrentarse al enemigo en el campo de batalla, Alteza, pero no en asesinarlo cuando está en el vientre de su madre. Perdonadme, pero debo apoyar a lord Eddard.\"",
+        "name": "Ser Barristan Selmy",
+        "text": "Renombre.\n<b>Interrupción:</b> cuando un Personaje <i>Lord</i> o <i>Lady</i> que controles vaya a morir, pon en pie a Ser Barristan Selmy para salvar a ese Personaje.",
+        "traits": "Guardia Real. Caballero. Consejero Privado."
+    },
+    {
+        "code": "02108",
+        "flavor": "\"La guardia de la ciudad cuenta con dos mil hombres fuertes, que han jurado defender el castillo, la ciudad y la paz del rey.\" <cite>Eddard Stark</cite>",
+        "name": "Guardia dela ciudad",
+        "text": "Emboscada (6). Sin Accesorios excepto <i>Arma</i>.\nMientras tengas más Poder sobre tu carta de Facción que un adversario, reduce en 2 el coste de la Emboscada de la Guardia de la ciudad.",
+        "traits": "Ejército."
+    },
+    {
+        "code": "02109",
+        "flavor": "Sansa se estremeción. Siempre que veía a Ser Ilyn pensaba lo mismo. Tenía la sensación de que le resbalara una cosa muerta por la piel desnuda.",
+        "name": "Ser Ilyn Payne",
+        "text": "<b>Acción de Reclutamiento:</b> arrodilla a Ser Ilyn Payne para matar a un Personaje de tu elección cuyo coste impreso sea de 3 o menos.",
+        "traits": "Caballero."
+    },
+    {
+        "code": "02110",
+        "flavor": "La cámara tenía una decoración suntuosa. El suelo estaba cubierto de alfombras de Myr, en vez de esteras, y en un rincón había un bimobo tallado, procedente de las Islas del Verano, en el que aparecía un centenar de bestias fabulosas pintadas en colores brillantes.",
+        "name": "Cámara del Consejo Privado",
+        "text": "Inmune a eventos.\n<b>Reacción:</b> después de que ganes un reto [intrigue], la Cámara del Consejo Privado gana 1 de Poder.",
+        "traits": "Desembarco del Rey"
+    },
+    {
+        "code": "02111",
+        "name": "Dagmer Barbarrota",
+        "text": "Renombre.\n<b>Interrupción:</b> cuando se aplique el efecto de Conquista de un reto en el que Dagmer Barbarrota esté atacando solo, elige un Lugar no limitado con un coste impreso de 3 o menos y que esté controlado por el adversario derrotado. En vez de aplicar los efectos habituales de la Conquista, toma el control de ese Lugar.",
+        "traits": "Capitán. Hijo del Hierro."
+    },
+    {
+        "code": "02112",
+        "name": "Bendición del Dios Ahogado",
+        "text": "Sólo Personajes [greyjoy].\nEl Personaje vinculado gana el rasgo <i>Dios Ahogado</i> y no puede ser elegido como único objetivo de Eventos de adversarios.\n+1 Iniciativa.",
+        "traits": "Bendición."
+    },
+    {
+        "code": "02113",
+        "name": "Jhogo",
+        "text": "Mientras controles otro Personaje <i>Jinete de sangre</i>, Jhogo gana Sigilo.\nMientras Jhogo esté atacando, recibe un +X a su FUE. X es el número de Personajes que haya en la pila de muertos del jugador defensor.",
+        "traits": "Jinete de sangre. Dothraki."
+    },
+    {
+        "code": "02114",
+        "flavor": "Con una erupción de humo y llamas que se elevaron treinta codos hacia el cielo, la pira se derrumbó y cayó sobre ella. Dany, sin el menor temor, avanzó por la tormenta de fuego, llamando a sus hijos.",
+        "name": "Pira funeraria",
+        "text": "<b>Reacción:</b> después de que muera un Personaje <i>Lord</i> o <i>Lady</i>, arrodilla tu carta de Facción para robar 3 cartas."
+    },
+    {
+        "code": "02115",
+        "name": "Tyene Arena",
+        "text": "<b>Reacción:</b> después de que ganes un reto [intrigue] en el que Tyene Arena esté participando como atacante, pon 1 ficha de Veneno sobre un Personaje que no tenga un icono [intrigue]. Al final de la fase, si ese Personaje aún tiene encima esa ficha de Veneno, quítasela y mata al Personaje.",
+        "traits": "Bastardo. Serpiente de arena."
+    },
+    {
+        "code": "02116",
+        "flavor": "Al principio se había consolado pensando que su encierro sería breve.",
+        "name": "Encerrado",
+        "text": "Sólo Personajes de adversarios.\nEl Personaje vinculado pierde un icono [military].",
+        "traits": "Estado."
+    },
+    {
+        "code": "02117",
+        "flavor": "\"Para hacer una cadena se necesita todo tipo de metal, igual que la tierra necesita todo tipo de hombres.\" <cite>Jon Nieve</cite>",
+        "name": "Cadena de maestre",
+        "text": "Sólo Personajes <i>Maestre</i>.\n<b>Acción de Dominación:</b> arrodilla la Cadena de maestre para descartar del juego un Accesorio de <i>Estado</i> de tu elección.",
+        "traits": "Objeto."
+    },
+    {
+        "code": "02118",
+        "name": "Calle de la Seda",
+        "text": "<b>Reacción:</b> después de que ganes un reto en el que controles un Personaje <i>Lord</i> o <i>Lady</i> participante, arrodilla tu carta de Facción para busar entre las 5 primeras cartas de tu mazo una carta de <i>Aliado</i> o <i>Acompañante</i>, mostrarla y añadirla a tu mano. Baraja tu mazo.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "02119",
+        "name": "Planes olvidados",
+        "text": "Mientras no sea la fase de Trama, trata cada carta de Trama mostrada que no sea una <i>Conspiración</i> como si su texto de reglas impreso estuvise en blanco (excepto los <i>Rasgos</i>).",
+        "traits": "Conspiración."
+    },
+    {
+        "code": "02120",
+        "name": "Vivo de milagro",
+        "text": "<b>Cuando se muestre esta carta:</b> traslada un Personaje desde tu pila de muertos hasta tu pila de descartes. Luego, si no hay cartas de Trama de <i>Invierno</i> en juego, roba 1 carta.",
+        "traits": "Verano."
+    }
+]
