@@ -1,5 +1,6 @@
 [
     {
+        "cgdb_id": 9,
         "code": "AtSK",
         "cycle_code": "war",
         "date_release": "2016-07-21",
@@ -8,6 +9,7 @@
         "size": 20
     },
     {
+        "cgdb_id": 1,
         "code": "Core",
         "cycle_code": "core",
         "date_release": "2015-10-08",
@@ -16,6 +18,7 @@
         "size": 211
     },
     {
+        "cgdb_id": 6,
         "code": "CoW",
         "cycle_code": "westeros",
         "date_release": "2016-04-21",
@@ -24,6 +27,7 @@
         "size": 20
     },
     {
+        "cgdb_id": 10,
         "code": "CtA",
         "cycle_code": "war",
         "date_release": null,
@@ -32,6 +36,7 @@
         "size": 20
     },
     {
+        "cgdb_id": 11,
         "code": "FFH",
         "cycle_code": "war",
         "date_release": null,
@@ -40,6 +45,7 @@
         "size": 20
     },
     {
+        "cgdb_id": null,
         "code": "GoH",
         "cycle_code": "war",
         "date_release": null,
@@ -48,6 +54,7 @@
         "size": 20
     },
     {
+        "cgdb_id": null,
         "code": "LoCR",
         "cycle_code": "lions",
         "date_release": null,
@@ -56,6 +63,7 @@
         "size": 52
     },
     {
+        "cgdb_id": 5,
         "code": "NMG",
         "cycle_code": "westeros",
         "date_release": "2016-03-25",
@@ -64,6 +72,7 @@
         "size": 20
     },
     {
+        "cgdb_id": null,
         "code": "TIMC",
         "cycle_code": "war",
         "date_release": null,
@@ -72,6 +81,7 @@
         "size": 20
     },
     {
+        "cgdb_id": 4,
         "code": "TKP",
         "cycle_code": "westeros",
         "date_release": "2016-02-25",
@@ -80,6 +90,7 @@
         "size": 20
     },
     {
+        "cgdb_id": 3,
         "code": "TRtW",
         "cycle_code": "westeros",
         "date_release": "2016-01-29",
@@ -88,6 +99,7 @@
         "size": 20
     },
     {
+        "cgdb_id": 7,
         "code": "TS",
         "cycle_code": "westeros",
         "date_release": "2016-05-19",
@@ -96,6 +108,7 @@
         "size": 20
     },
     {
+        "cgdb_id": 2,
         "code": "TtB",
         "cycle_code": "westeros",
         "date_release": "2015-12-09",
@@ -104,6 +117,7 @@
         "size": 20
     },
     {
+        "cgdb_id": null,
         "code": "VDS",
         "cycle_code": "draft",
         "date_release": null,
@@ -112,6 +126,7 @@
         "size": 21
     },
     {
+        "cgdb_id": 8,
         "code": "WotN",
         "cycle_code": "wolves",
         "date_release": "2016-04-07",
