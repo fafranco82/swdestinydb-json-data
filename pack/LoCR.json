@@ -249,7 +249,7 @@
         "code": "05027",
         "cost": 6,
         "deck_limit": 3,
-        "faction_code": "baratheon",
+        "faction_code": "greyjoy",
         "flavor": "\"Come kill me, if you can.\"",
         "illustrator": "Alexandre Dainche",
         "is_intrigue": false,

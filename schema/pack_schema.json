@@ -1,6 +1,17 @@
 {
     "additionalProperties": false,
     "properties": {
+        "cgdb_id": {
+            "oneOf": [
+                {
+                    "minimum": 1,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
         "code": {
             "minLength": 1,
             "type": "string"
