@@ -4,6 +4,8 @@ fs = require 'fs'
 path = require 'path'
 _ = require 'lodash'
 
+[bin, script, locale] = process.argv
+
 i18nDir = path.join __dirname, 'translations'
 things = ['cycles', 'factions', 'packs', 'types']
 
@@ -37,7 +39,7 @@ things_en = loadThings __dirname
 cards_en = loadCards __dirname
 
 codes = fs.readdirSync i18nDir
-for code in codes
+for code in codes when not locale? or code is locale
     console.log "Updating locale '#{code}'..."
     localeRoot = path.join i18nDir, code
 
