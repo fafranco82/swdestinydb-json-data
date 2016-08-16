@@ -387,7 +387,7 @@
         "position": 20,
         "quantity": 3,
         "reserve": 7,
-        "text": "<b>When revealed:</b> Initiate the when revealed ability on a revealed non-<i>Riddle</i> plot card as if you had just revealed it.",
+        "text": "<b>When Revealed:</b> Initiate the when revealed ability on a revealed non-<i>Riddle</i> plot card as if you had just revealed it.",
         "traits": "Riddle. Scheme.",
         "type_code": "plot"
     }
