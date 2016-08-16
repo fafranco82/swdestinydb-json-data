@@ -6,6 +6,12 @@
         "size": 1
     },
     {
+        "code": "draft",
+        "name": "Draft Sets",
+        "position": 90,
+        "size": 1
+    },
+    {
         "code": "lions",
         "name": "Lions of Casterly Rock",
         "position": 5,
