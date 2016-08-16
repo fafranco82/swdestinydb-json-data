@@ -1,14 +1,14 @@
 [
     {
-        "code": "core",
-        "name": "Core Set",
-        "position": 1,
+        "code": "draft",
+        "name": "Draft Sets",
+        "position": 0,
         "size": 1
     },
     {
-        "code": "draft",
-        "name": "Draft Sets",
-        "position": 90,
+        "code": "core",
+        "name": "Core Set",
+        "position": 1,
         "size": 1
     },
     {

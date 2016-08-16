@@ -64,14 +64,6 @@
         "size": 20
     },
     {
-        "code": "TC",
-        "cycle_code": "war",
-        "date_release": null,
-        "name": "Tyrion's Chain",
-        "position": 6,
-        "size": 20
-    },
-    {
         "code": "TIMC",
         "cycle_code": "war",
         "date_release": null,
@@ -116,7 +108,7 @@
         "cycle_code": "draft",
         "date_release": null,
         "name": "Valyrian Draft Set",
-        "position": 90,
+        "position": 1,
         "size": 21
     },
     {
