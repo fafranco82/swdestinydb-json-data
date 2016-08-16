@@ -40,6 +40,14 @@
         "size": 20
     },
     {
+        "code": "GoH",
+        "cycle_code": "war",
+        "date_release": null,
+        "name": "Ghosts of Harrenhal",
+        "position": 5,
+        "size": 20
+    },
+    {
         "code": "LoCR",
         "cycle_code": "lions",
         "date_release": null,
@@ -53,6 +61,14 @@
         "date_release": "2016-03-25",
         "name": "No Middle Ground",
         "position": 4,
+        "size": 20
+    },
+    {
+        "code": "TC",
+        "cycle_code": "war",
+        "date_release": null,
+        "name": "Tyrion's Chain",
+        "position": 6,
         "size": 20
     },
     {
@@ -94,6 +110,14 @@
         "name": "Taking the Black",
         "position": 1,
         "size": 20
+    },
+    {
+        "code": "Valyrian",
+        "cycle_code": "draft",
+        "date_release": null,
+        "name": "Valyrian Draft Set",
+        "position": 90,
+        "size": 21
     },
     {
         "code": "WotN",
