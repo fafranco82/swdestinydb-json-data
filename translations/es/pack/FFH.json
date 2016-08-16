@@ -1,31 +1,63 @@
 [
     {
         "code": "04045",
+        "flavor": "\"Tell Father I have gone to make him proud.\"",
         "name": "Thoren Smallwood",
         "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challange as the defending player, gain 1 power for your faction.",
         "traits": "Ranger."
     },
     {
         "code": "04046",
+        "flavor": "\"The Lord Commander's place is at Castle Black, lording and commanding.\"",
         "name": "Night Gathers...",
-        "text": "<b>Marshalling Action:</b> Choose an opponent whose reserve value is lower than yours. Until the end of the phase, you may marshal characters from that player's discard pile as if they were in your hand."
+        "text": "<b>Marshalling Action:</b> Choose an opponent whose reserve value is lower than yours. Until the end of the phase, you may marshal characters from that player's discard pile as if they were in your hand.",
+        "traits": "Ranger."
     },
     {
         "code": "04048",
+        "flavor": "...and now my watch begins...",
         "name": "Visited by Shadows",
         "text": "Opponent's character only.\nAttached character gets -1 STR.",
         "traits": "Condition."
     },
     {
         "code": "04051",
+        "flavor": "\"The shadows come to dance, my lord, dance my lord, dance my lord...\" <cite>Patchface</cite>",
         "name": "Lordsport Fisherman",
         "text": "<b>Reaction:</b> After you marshal Lordsport Fisherman, add the bottom card of your deck to your hand.",
         "traits": "Ally. Merchant."
     },
     {
         "code": "04057",
+        "flavor": "Beneath the dubious protection of the fish-ridden little castle lay the village of Lordsport, its harbor aswarm with ships.",
         "name": "Hot Pie",
         "text": "<b>Marshaling Action:</b> Kneel a <i>Companion</i> character to reduce the cost of the next unique character you marshal this phase by 1.",
         "traits": "Companion."
+    },
+    {
+        "code": "04053",
+        "flavor": "...a bloodrider was more than a guard. They were the khal's brothers, his shadows, his fiercest friends.",
+        "name": "Devoted Bloodrider",
+        "text": "Each <i>Bloodrider</i> character you control gets +1 STR.",
+        "traits": "Bloodrider. Dothraki."
+    },
+    {
+        "code": "04054",
+        "flavor": "\"Jhogo was the first to lay his arakh at her feet.\"",
+        "name": "Blood of My Blood",
+        "text": "<b>Challenges Action:</b> Search your deck for a <i>Bloodrider</i> character and put it into play. Shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand."
+    },
+    {
+        "code": "04057",
+        "flavor": "By midday Hot Pie had begun to complain.",
+        "name": "Hot Pie",
+        "text": "<b>Marshaling Action:</b> Kneel a <i>Companion</i> character to reduce the cost of the next unique character you marshal this phase by 1.",
+        "traits": "Companion."
+    },
+    {
+        "code": "04060",
+        "name": "Battle of Oxcross",
+        "text": "Each character with printed cost 4 or higher cannot be declared as a defender during the first challenge you initiate this round.",
+        "traits": "War."
     }
 ]

@@ -8,10 +8,54 @@
     },
     {
         "code": "04072",
+        "name": "King Balon's Solar",
+        "text": "<b>Reaction:</b> After you win initiative, gain 1 gold.",
+        "traits": "Iron Islands.",
+        "flavor": "The solar was as damp and drafty as ever."
+    },
+    {
+        "code": "04080",
+        "flavor": "\"Kings have no friends.\"",
+        "name": "Valar Morghulis",
+        "text": "<b>When Revealed:</b> Kill each character.",
+        "traits": "Omen."
+    },
+    {
+        "code": "04070",
+        "flavor": "Shaving him was the cruelest thing Tyrion could have done...",
+        "name": "Without His Beard",
+        "text": "<b>Reaction:</b> After you win an [intrigue] challenge, discard up to 3 cards at random from the losing opponent's hand. Then, that player draws 2 cards."
+    },
+    {
+        "code": "04072",
         "flavor": "The solar was as damp and drafty as ever.",
         "name": "King Balon's Solar",
         "text": "<b>Reaction:</b> After you win initiative, gain 1 gold.",
         "traits": "Iron Islands."
+    },
+    {
+        "code": "04075",
+        "name": "Elia Sand",
+        "text": "<b>Reaction:</b> After you lose a challenge, choose a character. Until the end of the phase, that character gains stealth. (Limit twice per phase.)",
+        "traits": "Bastard. Sand Snake."
+    },
+    {
+        "code": "04077",
+        "name": "Jaqen H'ghar",
+        "text": "<b>Reaction:</b> After Jaqen H'ghar enters play, place a Valar Morghulis token on up to 3 different unique characters. If Jaqen H'ghar leaves play, discard those tokens from play.\n<b>Reaction:</b> After you win a challenge in which Jaqen H'ghar is attacking alone, choose and kill a character with a Valar Morghulis token.",
+        "traits": "Ally."
+    },
+    {
+        "code": "04078",
+        "name": "The God's Eye",
+        "text": "The God's Eye cannot be discarded from play.\n+1 Income.\n+1 Reserve.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "04079",
+        "name": "King Beyond the Wall",
+        "text": "<i>Wildling</i> character only.\nAttached character gains the <i>King</i> trait.\nWhile attached character is attacking a player with a higher power total than you, raise the claim value on your revealed plot card by 1.",
+        "traits": "Title."
     },
     {
         "code": "04080",
