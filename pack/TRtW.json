@@ -208,7 +208,7 @@
         "position": 31,
         "quantity": 3,
         "strength": 4,
-        "text": "<b>Reaction:</b> After you win an unopposed challenge in which a unique [greyjoy] character is participating, either: draw 1 card, or discard the top 3 cards from each opponent's deck. (Limit once per phase.)\r\n<b>Card design by 2011 European Joust Champion, Mart&iacute; Foz Hernandez.</b>",
+        "text": "<b>Reaction:</b> After you win an unopposed challenge in which a unique [greyjoy] character is participating, either: draw 1 card, or discard the top 3 cards from each opponent's deck. (Limit once per phase.)\r\n<b>Card design by 2011 European Joust Champion, Martí Foz Hernandez.</b>",
         "traits": "House Harlaw. Lord.",
         "type_code": "character"
     },
@@ -264,7 +264,7 @@
         "pack_code": "TRtW",
         "position": 34,
         "quantity": 3,
-        "text": "<abbr>Terminal</abbr>.\r\nAttached character gains the <i>King</i> trait.\r\nAttached character gets -4 STR and is killed if its STR is 0.",
+        "text": "Terminal.\r\nAttached character gains the <i>King</i> trait.\r\nAttached character gets -4 STR and is killed if its STR is 0.",
         "traits": "Item.",
         "type_code": "attachment"
     },
@@ -323,7 +323,7 @@
         "position": 37,
         "quantity": 3,
         "strength": 3,
-        "text": "<abbr>Stealth</abbr>.\r\n<b>Challenges Action:</b> Choose a character. Until the end of the phase, that character gains a [military] icon and stealth. (Limit once per phase.)",
+        "text": "Stealth.\r\n<b>Challenges Action:</b> Choose a character. Until the end of the phase, that character gains a [military] icon and stealth. (Limit once per phase.)",
         "traits": "Companion.",
         "type_code": "character"
     },
