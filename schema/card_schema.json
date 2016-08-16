@@ -2,8 +2,15 @@
     "additionalProperties": false,
     "properties": {
         "claim": {
-            "minimum": 0,
-            "type": "integer"
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "code": {
             "pattern": "^[0-9]{5}$",

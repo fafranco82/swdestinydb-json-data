@@ -1,5 +1,11 @@
 [
     {
+        "code": "draft",
+        "name": "Draft Sets",
+        "position": 0,
+        "size": 1
+    },
+    {
         "code": "core",
         "name": "Core Set",
         "position": 1,

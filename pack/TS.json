@@ -384,7 +384,7 @@
         "position": 120,
         "quantity": 3,
         "reserve": 6,
-        "text": "<b>When revealed:</b> Move a character from your dead pile to your discard pile. Then, if there are no <i>Winter</i> plot cards in play, draw 1 card.",
+        "text": "<b>When Revealed:</b> Move a character from your dead pile to your discard pile. Then, if there are no <i>Winter</i> plot cards in play, draw 1 card.",
         "traits": "Summer.",
         "type_code": "plot"
     }
