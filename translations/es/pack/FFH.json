@@ -1,5 +1,12 @@
 [
     {
+        "code": "04041",
+        "flavor": "\"Tell Father I have gone to make him proud.\"",
+        "name": "Ser Edmure Tully",
+        "text": "<b>Reaction:</b> After a character gains power, move 1 power from that character to a <i>House Tully</i> character. (Limit once per round.)",
+        "traits": "House Tully. Knight."
+    },
+    {
         "code": "04045",
         "flavor": "\"Tell Father I have gone to make him proud.\"",
         "name": "Thoren Smallwood",
@@ -26,13 +33,6 @@
         "name": "Lordsport Fisherman",
         "text": "<b>Reaction:</b> After you marshal Lordsport Fisherman, add the bottom card of your deck to your hand.",
         "traits": "Ally. Merchant."
-    },
-    {
-        "code": "04057",
-        "flavor": "Beneath the dubious protection of the fish-ridden little castle lay the village of Lordsport, its harbor aswarm with ships.",
-        "name": "Hot Pie",
-        "text": "<b>Marshaling Action:</b> Kneel a <i>Companion</i> character to reduce the cost of the next unique character you marshal this phase by 1.",
-        "traits": "Companion."
     },
     {
         "code": "04053",

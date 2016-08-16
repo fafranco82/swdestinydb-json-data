@@ -4,19 +4,23 @@
         "name": "Caja Básica"
     },
     {
-        "code": "westeros",
-        "name": "Ciclo de Poniente"
+        "code": "draft",
+        "name": "Formato draft"
+    },
+    {
+        "code": "lions",
+        "name": "Leones de Roca Casterly"
     },
     {
         "code": "war",
         "name": "Ciclo de la Guerra de los Cinco Reyes"
     },
     {
-        "code": "wolves",
-        "name": "Lobos del Norte"
+        "code": "westeros",
+        "name": "Ciclo de Poniente"
     },
     {
-        "code": "lions",
-        "name": "Leones de Roca Casterly"
+        "code": "wolves",
+        "name": "Lobos del Norte"
     }
 ]

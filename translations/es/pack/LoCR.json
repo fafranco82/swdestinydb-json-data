@@ -13,43 +13,43 @@
         "traits": "Lord."
     },
     {
+        "code": "05005",
+        "name": "Ser Jaime Lannister",
+        "text": "Each <i>Knight</i> character you control gains renown while attacking alone.\n<b>Challenges Action:</b> Choose a <i>Kingsguard</i> character. Until the end of the phase, that character gains an [intrigue] icon. (Limit once per phase.)",
+        "traits": "Kingsguard. Knight."
+    },
+    {
+        "code": "05006",
+        "flavor": "\"...when your enemies defy you, you must serve them steel and fire.\"",
+        "name": "Tywin Lannister",
+        "text": "Pillage.\n<b>Interrupt:</b> When exactly 1 card is discarded from a player's deck, instead look at the top 2 cards of that player's deck and discard 1.",
+        "traits": "Lord. Small Council."
+    },
+    {
         "code": "05011",
         "name": "Moon Brothers",
         "text": "<b>Action:</b> During a challenge in which you control an attacking <i>Clansman</i> character, kneel your faction card to put Moon Brothers into play from your hand (standing), participating as an attacker.",
         "traits": "Clansman."
     },
     {
-        "code": "05017",
-        "flavor": "\"...when your enemies defy you, you must serve them steel and fire.\"",
-        "name": "Golden Tooth",
-        "text": "Limited.\n<b>Action:</b> Kneel Golden Tooth to gain 1 gold. (3 gold instead if an opponent has no cards in his or her hand.)",
-        "traits": "Stronghold. The Westerlands."
-    },
-    {
-        "code": "05019",
-        "name": "Lannisport Treasury",
-        "text": "<b>Reaction:</b> After the taxation phase begins, place 1 gold from your gold pool on Lannisport Treasury.\n<b>Marshaling Action:</b> Kneel Lannisport Treasury to move any number of gold from Lannisport Treasury to your gold pool.",
-        "traits": "The Westerlands."
-    },
-    {
-        "code": "05024",
-        "name": "Daring Rescue",
-        "text": "Play only if you control a <i>Knight</i> character.\n<b>Challenges Action:</b> Return a character you control to its owner's hand. Then, have a <i>Knight</i> character you control gain ? power.",
+        "code": "05012",
+        "name": "Red Keep Spy",
+        "text": "Ambush (4).\n<b>Reaction:</b> After Red Keep Spy enters play using ambush, choose a character with printed cost 3 or lower. If you have more cards in hand than that character's controller, return it to its owner's hand.",
         "traits": "Ally. Spy."
     },
     {
-        "code": "05034",
-        "flavor": "\"...the Umbers may seem simple, but they are not without a certain low cunning.\" <cite>Roose Bolton</cite>",
-        "name": "Last Hearth Scouts",
-        "text": "<b>Forced Reaction:</b> After a character enters play during the challenges phase, kneel that character.",
-        "traits": "House Umber."
+        "code": "05013",
+        "flavor": "\"My lord will find my tongue well schooled. When I was a girl I learned when to use it, and when not.\"",
+        "name": "Alayaya",
+        "text": "<b>Reaction:</b> After you win a challenge in which Alayaya is participating, move 1 gold from the losing opponent's gold pool to your own.",
+        "traits": "Companion."
     },
     {
-        "code": "05035",
-        "flavor": "\"I am a knight... I shall die a knight.\"",
-        "name": "Ser Barristan Selmy",
-        "text": "<b>Reaction:</b> After you win a challenge in which Ser Barristan Selmy is participating, if you have fewer cards in hand than the losing opponent, stand him.",
-        "traits": "Knight."
+        "code": "05015",
+        "flavor": "\"When I'm king in my own right, I'm going to outlaw beets.\"",
+        "name": "Tommen Baratheon",
+        "text": "Each player with no cards in his or her hand cannot gain power from challenge bonuses (unopposed and rivals).",
+        "traits": "King. Lord."
     },
     {
         "code": "05017",

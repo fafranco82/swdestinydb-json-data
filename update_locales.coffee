@@ -35,6 +35,13 @@ loadCards = (root) ->
         result[file] = stripProps json, ['code','flavor','name','text','traits']
     result
 
+merge_data = (defaultLocale, locale) ->
+    result = {}
+    for file in _.union(_.keys(defaultLocale), _.keys(locale))
+        result[file] = _(_.merge({}, _.keyBy(defaultLocale[file] or {}, 'code'), _.keyBy(locale[file] or {}, 'code'))).values().sortBy('code').value()
+    result
+
+
 things_en = loadThings __dirname
 cards_en = loadCards __dirname
 
@@ -46,8 +53,8 @@ for code in codes when not locale? or code is locale
     l_things = loadThings localeRoot
     l_cards = loadCards localeRoot
 
-    m_things = _.merge({}, things_en, l_things)
-    m_cards = _.merge({}, cards_en, l_cards)
+    m_things = merge_data(things_en, l_things)
+    m_cards = merge_data(cards_en, l_cards)
 
     for file in _.keys m_things
         target = path.join localeRoot, file
