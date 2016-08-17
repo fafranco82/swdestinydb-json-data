@@ -274,7 +274,7 @@
         "is_loyal": false,
         "is_military": true,
         "is_power": false,
-        "is_unique": false,
+        "is_unique": true,
         "name": "Lyn Corbray",
         "pack_code": "VDS",
         "position": 17,
