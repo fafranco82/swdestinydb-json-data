@@ -13,10 +13,43 @@
         "traits": "Lord."
     },
     {
+        "code": "05005",
+        "name": "Ser Jaime Lannister",
+        "text": "Each <i>Knight</i> character you control gains renown while attacking alone.\n<b>Challenges Action:</b> Choose a <i>Kingsguard</i> character. Until the end of the phase, that character gains an [intrigue] icon. (Limit once per phase.)",
+        "traits": "Kingsguard. Knight."
+    },
+    {
+        "code": "05006",
+        "flavor": "\"...when your enemies defy you, you must serve them steel and fire.\"",
+        "name": "Tywin Lannister",
+        "text": "Pillage.\n<b>Interrupt:</b> When exactly 1 card is discarded from a player's deck, instead look at the top 2 cards of that player's deck and discard 1.",
+        "traits": "Lord. Small Council."
+    },
+    {
         "code": "05011",
         "name": "Moon Brothers",
         "text": "<b>Action:</b> During a challenge in which you control an attacking <i>Clansman</i> character, kneel your faction card to put Moon Brothers into play from your hand (standing), participating as an attacker.",
         "traits": "Clansman."
+    },
+    {
+        "code": "05012",
+        "name": "Red Keep Spy",
+        "text": "Ambush (4).\n<b>Reaction:</b> After Red Keep Spy enters play using ambush, choose a character with printed cost 3 or lower. If you have more cards in hand than that character's controller, return it to its owner's hand.",
+        "traits": "Ally. Spy."
+    },
+    {
+        "code": "05013",
+        "flavor": "\"My lord will find my tongue well schooled. When I was a girl I learned when to use it, and when not.\"",
+        "name": "Alayaya",
+        "text": "<b>Reaction:</b> After you win a challenge in which Alayaya is participating, move 1 gold from the losing opponent's gold pool to your own.",
+        "traits": "Companion."
+    },
+    {
+        "code": "05015",
+        "flavor": "\"When I'm king in my own right, I'm going to outlaw beets.\"",
+        "name": "Tommen Baratheon",
+        "text": "Each player with no cards in his or her hand cannot gain power from challenge bonuses (unopposed and rivals).",
+        "traits": "King. Lord."
     },
     {
         "code": "05017",
@@ -31,9 +64,28 @@
         "traits": "The Westerlands."
     },
     {
+        "code": "05023",
+        "name": "Insidious Scheme",
+        "text": "<b>Reaction:</b> After claim is applied for an [intrigue] challenge you won by 5 or more STR, draw 2 cards. (4 cards instead if the losing opponent has no cards in his or her hand.)"
+    },
+    {
         "code": "05024",
         "name": "Daring Rescue",
         "text": "Play only if you control a <i>Knight</i> character.\n<b>Challenges Action:</b> Return a character you control to its owner's hand. Then, have a <i>Knight</i> character you control gain ? power."
+    },
+    {
+        "code": "05025",
+        "flavor": "\"I won't go pray to the Lord of Light. I am a Warrior's man, like my father.\"",
+        "name": "Edric Storm",
+        "text": "<b>Reaction:</b> After the dominance phase begins, choose a character. That character does not contribute its STR to its controller's total for dominance this phase.",
+        "traits": "Bastard."
+    },
+    {
+        "code": "05027",
+        "flavor": "\"Come kill me, if you can.\"",
+        "name": "Victarion Greyjoy",
+        "text": "Intimidate. Renown.\n<b>Interrupt:</b> When Victarion Greyjoy would be killed, discard 2 power from him to save him.",
+        "traits": "Captain. Ironborn. Lord."
     },
     {
         "code": "05034",
@@ -48,5 +100,49 @@
         "name": "Ser Barristan Selmy",
         "text": "<b>Reaction:</b> After you win a challenge in which Ser Barristan Selmy is participating, if you have fewer cards in hand than the losing opponent, stand him.",
         "traits": "Knight."
+    },
+    {
+        "code": "05036",
+        "name": "Daenerys's Favor",
+        "text": "[targaryen] character only.\nWhile attached character is participating in a challenge, each other participating character gets -1 STR.",
+        "traits": "Condition."
+    },
+    {
+        "code": "05037",
+        "flavor": "Sansa recognized only Lord Tyrell's tall dignified wife, Lady Alerie, whose long silvery braid was bound with jeweled rings.",
+        "name": "Alerie Tyrell",
+        "text": "<b>Reaction:</b> After Alerie Tyrell enters play, search the top 10 cards of your deck for a [tyrell] character with printed cost 3 or lower, reveal it, and add it to your hand. Shuffle your deck.",
+        "traits": "House Hightower. Lady."
+    },
+    {
+        "code": "05040",
+        "flavor": "The Warrior stands before the foe, protecting us where e'er we go. With sword and shield and spear and bow, he guards the little children.",
+        "name": "Devout Freerider",
+        "text": "During the challenges phase, each player cannot gain gold.",
+        "traits": "Ally. Mercenary. The Seven."
+    },
+    {
+        "code": "05041",
+        "name": "Wildling Bandit",
+        "text": "While Wildling Bandit is attacking an opponent with more gold in his or her gold pool than you, it gets +2 STR.",
+        "traits": "Wildling."
+    },
+    {
+        "code": "05042",
+        "name": "Ocean Road",
+        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Ocean Road to reduce the cost of the next neutral or out-of-faction card you marshal this phase by 1.",
+        "traits": "Westeros."
+    },
+    {
+        "code": "05045",
+        "name": "\"The Rains of Castamere\"",
+        "text": "Your plot deck must be 12 cards, including exactly 5 different <i>Scheme</i> cards. During the plot phase, <i>Scheme</i> cards are not considered to be in your plot deck.\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, kneel your faction card to reveal a <i>Scheme</i> plot. If that card leaves play, remove it from the game.\n<b>Card Design by 2013 Joust World Champion, Álvaro Rodriguez</b>",
+        "traits": "Song."
+    },
+    {
+        "code": "05049",
+        "name": "Littlefinger's Meddling",
+        "text": "Reduce the cost of each event you play by 2.",
+        "traits": "Kingdom. Scheme."
     }
 ]

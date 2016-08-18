@@ -4,6 +4,14 @@
         "name": "A través de los Siete Reinos"
     },
     {
+        "code": "CoW",
+        "name": "Calma sobre Poniente"
+    },
+    {
+        "code": "Core",
+        "name": "Caja básica"
+    },
+    {
         "code": "CtA",
         "name": "Llamada a las armas"
     },
@@ -12,47 +20,43 @@
         "name": "Por el honor de la familia"
     },
     {
-        "code": "TS",
-        "name": "De auténtico acero"
-    },
-    {
-        "code": "Core",
-        "name": "Caja básica"
-    },
-    {
-        "code": "TtB",
-        "name": "Vestir el negro"
-    },
-    {
-        "code": "TRtW",
-        "name": "El camino a Invernalia"
-    },
-    {
-        "code": "TKP",
-        "name": "La paz del Rey"
-    },
-    {
-        "code": "NMG",
-        "name": "No hay puntos intermedios"
-    },
-    {
-        "code": "WotN",
-        "name": "Lobos del Norte"
-    },
-    {
-        "code": "CoW",
-        "name": "Calma sobre Poniente"
-    },
-    {
-        "code": "WotN",
-        "name": "Lobos del Norte"
+        "code": "GoH",
+        "name": "Ghosts of Harrenhal"
     },
     {
         "code": "LoCR",
         "name": "Leones de Roca Casterly"
     },
     {
+        "code": "NMG",
+        "name": "No hay puntos intermedios"
+    },
+    {
         "code": "TIMC",
         "name": "Ahí está mi derecho"
+    },
+    {
+        "code": "TKP",
+        "name": "La paz del Rey"
+    },
+    {
+        "code": "TRtW",
+        "name": "El camino a Invernalia"
+    },
+    {
+        "code": "TS",
+        "name": "De auténtico acero"
+    },
+    {
+        "code": "TtB",
+        "name": "Vestir el negro"
+    },
+    {
+        "code": "VDS",
+        "name": "Draft valyrio"
+    },
+    {
+        "code": "WotN",
+        "name": "Lobos del Norte"
     }
 ]

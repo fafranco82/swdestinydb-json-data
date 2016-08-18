@@ -1,9 +1,28 @@
 [
     {
         "code": "04021",
+        "flavor": "Poor wan Lady Hornwood sat beside him, her face a stony mask as she picked listlessly at her food.",
         "name": "Donella Hornwood",
         "text": "Reduce the cost of the first loyal card you marshal or play each round by 1.",
         "traits": "House Hornwood. Lady."
+    },
+    {
+        "code": "04022",
+        "flavor": "Strong as a bear. Fierce as a wolverine. Fear cuts deeper than swords.",
+        "name": "Fear Cuts Deeper Than Swords",
+        "text": "<b>Interrupt:</b> When the effects of an ability that chooses a [stark] character you control as its only target would initiate, cancel those effects and stand that character."
+    },
+    {
+        "code": "04023",
+        "flavor": "\"...they are the knights of summer, and winter is coming.\" <cite>Catelyn Stark</cite>",
+        "name": "Knight of Summer",
+        "text": "While there are more <i>Summer</i> plot cards than <i>Winter</i> plot cards revealed, Knight of Summer gets +2 STR and gains renown.",
+        "traits": "Knight"
+    },
+    {
+        "code": "04024",
+        "name": "There Is My Claim",
+        "text": "Play only during a challenge.\n<b>Challenges Action:</b> Reveal 4 [tyrell] characters from your hand to raise the claim value on your revealed plot by 1 until the end of the challenge. (Max 1 per challenge.)"
     },
     {
         "code": "04025",
@@ -14,9 +33,31 @@
     },
     {
         "code": "04026",
+        "flavor": "\"...they are the knights of summer, and winter is coming.\" <cite>Catelyn Stark</cite>",
         "name": "Craven",
         "text": "Terminal.\nAttached character cannot be declared as an attacker.",
         "traits": "Condition."
+    },
+    {
+        "code": "04027",
+        "flavor": "Pylos seemed clever and diligent and well-meaning, but he was so young, and the king did not confide in him as he had in Cressen.",
+        "name": "Maester Pylos",
+        "text": "Stealth.",
+        "traits": "Maester."
+    },
+    {
+        "code": "04028",
+        "flavor": "Dragonstone's central keep, so named for the way its ancient walls boomed and rumbled during storms.",
+        "name": "The Stone Drum",
+        "text": "While there is a <i>Kingdom</i> plot card revealed, increase the gold value of your revealed plot card by 1.",
+        "traits": "Dragonstone."
+    },
+    {
+        "code": "04029",
+        "flavor": "\"Did you miss me?\"",
+        "name": "Shae",
+        "text": "<b>Challenges Action:</b> Pay 1 gold to stand Shae. (Limit twice per phase.)",
+        "traits": "Ally. Companion."
     },
     {
         "code": "04030",
@@ -26,19 +67,29 @@
     },
     {
         "code": "04031",
+        "flavor": "\"I never wanted to see half the things I've seen, and I've never seen half the things I wanted to. I don't think wanting comes into it.\"",
         "name": "Balon Greyjoy",
         "text": "Renown.\nBalon Greyjoy does not kneel when declared as an attacker in a [military] challenge against an opponent who does not control a <i>King</i> character.\n<b>Action:</b> Kneel a [greyjoy] location to give each loyal character you control +1 STR until the end of the challenge. (Limit once per challenge.)",
         "traits": "Ironborn. King. Lord."
     },
     {
         "code": "04032",
+        "flavor": "\"A craven can be as brave as any man, when there is nothing to fear.\" <cite>Maester Aemon</cite>",
         "name": "Ours is the Old Way",
-        "text": "<b>Challenges Action:</b> Until the end of the phase, either: each [greyjoy] character you control gains stealth, or each non-[greyjoy] character loses stealth."
+        "text": "<b>Challenges Action:</b> Until the end of the phase, either: each [greyjoy] character you control gains stealth, or each non-[greyjoy] character loses stealth.",
+        "traits": "Condition."
+    },
+    {
+        "code": "04033",
+        "flavor": "\"Once there were two moons in the sky, but one wandered too close to the sun and cracked from the heat. A thousand thousand dragons poured forth, and drunk the fire of the sun. That is why dragons breathe flame.\"",
+        "name": "Doreah",
+        "text": "During a challenge in which you control a participating <i>Lord</i> or <i>Lady</i> character, Doreah gains insight.",
+        "traits": "Companion."
     },
     {
         "code": "04034",
         "name": "Beggar King",
-        "text": "[targaryen] characters only.\nAttached character gains the <i>King</i> trait.\n<b>Reaction:</b> After an opponent reveals a plot card with a higher printed gold value than yours, kneel Beggar King to gain 1 gold (2 gold instead if no opponent controls a <i>King</i> character.)",
+        "text": "[targaryen] character only.\nAttached character gains the <i>King</i> trait.\n<b>Reaction:</b> After an opponent reveals a plot card with a higher printed gold value than yours, kneel Beggar King to gain 1 gold. (2 gold instead if no opponent controls a <i>King</i> character.",
         "traits": "Title."
     },
     {

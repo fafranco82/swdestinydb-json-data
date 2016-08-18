@@ -1,0 +1,120 @@
+[
+    {
+        "code": "00001",
+        "name": "The Power of Wealth",
+        "text": "When you announce The Power of Wealth as your agenda, name 1 faction. You may include cards from that faction in your draw deck and plot deck.\nReduce the cost of the first in-faction card you marshal or play each round by 1.\n<b>Draft format only.</b>"
+    },
+    {
+        "code": "00002",
+        "name": "Protectors of the Realm",
+        "text": "You may include <i>Knight</i> and <i>Army</i> characters from any faction in your deck.\n<b>Action:</b> Kneel your faction card to choose a <i>Knight</i> or <i>Army</i> character. Until the end of the phase, that character gains renown.\n<b>Draft format only.</b>"
+    },
+    {
+        "code": "00003",
+        "name": "Treaty",
+        "text": "When you announce Treaty as your agenda, name 2 factions. You may include cards from those factions in your draw deck and plot deck.\n<b>Action:</b> Kneel your faction card to draw 1 card. Then, choose and discard 1 card from your hand.\n<b>Draft format only.</b>"
+    },
+    {
+        "code": "00004",
+        "name": "Uniting the Seven Kingdoms",
+        "text": "You may include cards from any faction in your draw deck.\nIncrease the cost of each out-of-faction card you marshal or play by 1.\n<b>Draft format only.</b>"
+    },
+    {
+        "code": "00005",
+        "name": "House Bannerman",
+        "text": "<b>Marshaling Action:</b> Kneel House Bannerman to reduce the cost of the next in-faction character you marshal this phase by 1.\n<b>Draft format only.</b>",
+        "traits": "Ally."
+    },
+    {
+        "code": "00006",
+        "name": "Feast of Famine",
+        "text": "<b>When Revealed:</b> You may increase the gold value on Feast or Famine by 5. If you do, reduce the claim value on Feast of Famine by 2.\n<b>Draft format only.</b>",
+        "traits": "Summer. Winter."
+    },
+    {
+        "code": "00007",
+        "name": "Summoned by the Conclave",
+        "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for an in-faction card, reveal it, and add it to your hand. Shuffle your deck.\n<b>Draft format only.</b>",
+        "traits": "Kingdom."
+    },
+    {
+        "code": "00008",
+        "name": "The Pale Mare",
+        "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with total printed cost 10 or lower. Kill each character not chosen (cannot be saved).\n<b>Draft format only.</b>",
+        "traits": "Omen."
+    },
+    {
+        "code": "00009",
+        "name": "Compelled by the King",
+        "text": "<b>Reaction:</b> After the dominance phase begins, choose and stand a character you control. If you win dominance this phase, that character gains 1 power.\n<b>Draft format only.</b>"
+    },
+    {
+        "code": "00010",
+        "name": "Support of Saltcliffe",
+        "text": "[greyjoy] character only.\nAttached character gains stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which attached character is attacking, stand attached character.\n<b>Draft format only.</b>",
+        "traits": "Condition."
+    },
+    {
+        "code": "00011",
+        "name": "Tyrion Lannister",
+        "text": "Stealth.\n<b>Reaction:</b> After you win an [intrigue] challenge or a challenge in which Tyrion Lannister is participating, pay 1 gold to draw 1 card.\n<b>Draft format only.</b>",
+        "traits": "Lord."
+    },
+    {
+        "code": "00012",
+        "name": "The Viper's Rage",
+        "text": "<b>Reaction:</b> After you lose a challenge by 5 or more STR as the defending player, each character controlled by the attacking player loses a [military], an [intrigue], and a [power] icon until the end of the phase.\n<b>Draft format only.</b>"
+    },
+    {
+        "code": "00013",
+        "name": "The Nightfort",
+        "text": "<b>Challenges Action:</b> Kneel The Nightfort to choose a defending [thenightswatch] character. Until the end of the challenge, that character gets +1 STR for each attacking character.\n<b>Draft format only.</b>",
+        "traits": "The North."
+    },
+    {
+        "code": "00014",
+        "name": "Raventree Elite",
+        "text": "No attachments. Stealth.\nEach <i>House Tully</i> you control gains \"immune to opponents' triggered effects\" while it is participating in a challenge.\n<b>Draft format only.</b>",
+        "traits": "Army. House Tully."
+    },
+    {
+        "code": "00015",
+        "name": "Deadly Khalasar",
+        "text": "<b>Challenges Action:</b> Choose an attacking [targaryen] character you control. Until the end of the challenge, that character gets +1 STR for each <i>Dothraki</i> character you control and gains intimidate.\n<b>Draft format only.</b>"
+    },
+    {
+        "code": "00016",
+        "name": "Blackcrown Knights",
+        "text": "No attachments.\n<b>Reaction:</b> After you win a [power] challenge in which Blackcrown Knights is participating, discard 1 card from your hand to have Blackcrown Knights gain 2 power.\n<b>Draft format only.</b>",
+        "traits": "Army. Knight."
+    },
+    {
+        "code": "00017",
+        "name": "Lyn Corbray",
+        "text": "Stealth.\nEach non-<i>Army</i> character you control with printed cost 6 or higher gets +2 STR.\n<b>Draft format only.</b>",
+        "traits": "House Arryn. Knight."
+    },
+    {
+        "code": "00018",
+        "name": "Hollow Hill",
+        "text": "<b>Reaction:</b> After you marshal a character with a faction affiliation that does not match any other card you control, draw 1 card.\n<b>Draft format only.</b>",
+        "traits": "Westeros."
+    },
+    {
+        "code": "00019",
+        "name": "Muster",
+        "text": "<b>Marshaling Action:</b> Kneel a <i>Knight</i> character to search your deck for a <i>Knight</i> character, reveal it, and add it to your hand. Shuffle your deck.\n<b>Draft format only.</b>"
+    },
+    {
+        "code": "00020",
+        "name": "Holding the Trident",
+        "text": "While you control fewer characters than each opponent, each character you control gets +2 STR.\n<b>Draft format only.</b>",
+        "traits": "War."
+    },
+    {
+        "code": "00021",
+        "name": "Common Cause",
+        "text": "X is the number of different faction affiliations among characters you control.\n<b>Draft format only.</b>",
+        "traits": "Edict."
+    }
+]
