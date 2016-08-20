@@ -21,6 +21,22 @@
         "type_code": "character"
     },
     {
+        "code": "04062",
+        "cost": 2,
+        "deck_limit": 3,
+        "faction_code": "stark",
+        "flavor": "What should he fear? He was the Young Wolf, King of the Trident and the North.",
+        "is_loyal": false,
+        "is_unique": true,
+        "name": "The Wolf King",
+        "pack_code": "TIMC",
+        "position": 62,
+        "quantity": 3,
+        "text": "[stark] character only.\nAttached character gains the <i>King</i> trait and does not kneel when declared as an attacker in a [military] challenge.",
+        "traits": "Title.",
+        "type_code": "attachment"
+    },
+    {
         "code": "04066",
         "cost": 2,
         "deck_limit": 3,
@@ -72,6 +88,26 @@
         "quantity": 3,
         "text": "<b>Reaction:</b> After you win an [intrigue] challenge, discard up to 3 cards at random from the losing opponent's hand. Then, that player draws 2 cards.",
         "type_code": "event"
+    },
+    {
+        "code": "04071",
+        "cost": 6,
+        "deck_limit": 3,
+        "faction_code": "greyjoy",
+        "flavor": "\"Listen! Listen to the waves! Listen to the god!\"",
+        "is_intrigue": true,
+        "is_loyal": false,
+        "is_military": false,
+        "is_power": true,
+        "is_unique": true,
+        "name": "Aeron Damnhair",
+        "pack_code": "TIMC",
+        "position": 71,
+        "quantity": 3,
+        "strength": 4,
+        "text": "<b>Reaction:</b> After a character is saved, either: stand it, or kneel it.",
+        "traits": "Drowned God. Ironborn. Lord.",
+        "type_code": "character"
     },
     {
         "code": "04072",
