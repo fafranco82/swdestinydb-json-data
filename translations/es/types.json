@@ -1,11 +1,7 @@
 [
     {
-        "code": "agenda",
-        "name": "Estrategia"
-    },
-    {
-        "code": "attachment",
-        "name": "Accesorio"
+        "code": "battlefield",
+        "name": "Campo de Batalla"
     },
     {
         "code": "character",
@@ -16,15 +12,11 @@
         "name": "Evento"
     },
     {
-        "code": "location",
-        "name": "Lugar"
+        "code": "support",
+        "name": "Apoyo"
     },
     {
-        "code": "plot",
-        "name": "Trama"
-    },
-    {
-        "code": "title",
-        "name": "T\u00EDtulo"
+        "code": "upgrade",
+        "name": "Mejora"
     }
 ]

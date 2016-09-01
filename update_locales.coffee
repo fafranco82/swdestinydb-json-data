@@ -7,7 +7,7 @@ _ = require 'lodash'
 [bin, script, locale] = process.argv
 
 i18nDir = path.join __dirname, 'translations'
-things = ['cycles', 'factions', 'packs', 'types']
+things = ['affiliations', 'factions', 'rarities', 'types', 'subtypes', 'sets', 'sideTypes']
 
 stripProps = (json, props) ->
     _.map json, (item) ->
@@ -26,13 +26,13 @@ loadThings = (root) ->
 
 loadCards = (root) ->
     result = {}
-    localeRoot = path.join root, 'pack'
+    localeRoot = path.join root, 'set'
     try
         fs.mkdirSync(localeRoot)
     files = fs.readdirSync localeRoot
     for file in files
         json = JSON.parse fs.readFileSync(path.join(localeRoot, file), 'UTF-8')
-        result[file] = stripProps json, ['code','flavor','name','text','traits']
+        result[file] = stripProps json, ['code','flavor','name','subtitle','text','subtype']
     result
 
 merge_data = (defaultLocale, locale) ->
@@ -63,7 +63,7 @@ for code in codes when not locale? or code is locale
             console.log "Written #{target}"
     
     for file in _.keys m_cards
-        target = path.join localeRoot, 'pack', file
+        target = path.join localeRoot, 'set', file
         if !_.isEqual(l_cards[file], m_cards[file])
             fs.writeFileSync target, JSON.stringify(m_cards[file], null, 4)+"\n"
             console.log "Written #{target}"

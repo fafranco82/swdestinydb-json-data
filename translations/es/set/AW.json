@@ -1,0 +1,273 @@
+[
+    {
+        "code": "01001",
+        "name": "Captain Phasma",
+        "subtitle": "Elite Trooper",
+        "text": "Your non-unique characters have the Guardian keyword."
+    },
+    {
+        "code": "01002",
+        "flavor": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
+        "name": "First Order Stormtrooper"
+    },
+    {
+        "code": "01006",
+        "name": "First Order TIE Fighter",
+        "text": "[special] - Remove all shield from all of an opponent's characters."
+    },
+    {
+        "code": "01008",
+        "name": "F-11D Rifle",
+        "text": "Redeploy.\r\n[special] - Force an opponent to deal 2 damage to their characters, distributing the damage as they wish."
+    },
+    {
+        "code": "01009",
+        "name": "Count Dooku",
+        "subtitle": "Devious Strategist",
+        "text": "Before this character is dealt 1 or more damage, you may discard a card from your hand to give him 1 shield."
+    },
+    {
+        "code": "01010",
+        "name": "Darth Vader",
+        "subtitle": "Sith Lord",
+        "text": "After you activate this character you may force an opponent to choose and discard a card from their hand."
+    },
+    {
+        "code": "01011",
+        "flavor": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
+        "name": "Kylo Ren",
+        "subtitle": "Vader's Disciple",
+        "text": "[special] - Choose an opponent's character. Then look at a random card in that opponent's hand and deal damage to that character equal to the cost of the card you just looked at."
+    },
+    {
+        "code": "01013",
+        "name": "Force Choke",
+        "text": "Blue character only.\r\n[special] - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side."
+    },
+    {
+        "code": "01014",
+        "name": "Immobilize",
+        "text": "Blue Character only.\r\n<b>Action</b> - Remove this die to turn a die to a side showing a blank ([blank])."
+    },
+    {
+        "code": "01015",
+        "name": "Kylo Ren's Lightsaber"
+    },
+    {
+        "code": "01017",
+        "name": "Infantry Grenades",
+        "text": "[special] - Deal 2 damage to each of an opponent's characters. Discard this upgrade from play."
+    },
+    {
+        "code": "01021",
+        "flavor": "\"There can be no mistakes this time.\"",
+        "name": "Jango Fett",
+        "subtitle": "Lethal Mercenary",
+        "text": "After an opponent activates a character, you may activate this character."
+    },
+    {
+        "code": "01026",
+        "name": "On the Hunt"
+    },
+    {
+        "code": "01027",
+        "name": "Admiral Ackbar",
+        "subtitle": "Perceptive Tactician"
+    },
+    {
+        "code": "01028",
+        "flavor": "\"Someone has to save our skins.\"",
+        "name": "Leia Organa",
+        "subtitle": "Born Leader",
+        "text": "<b>Action</b> - Remove this die to reroll up to 2 of your dice."
+    },
+    {
+        "code": "01035",
+        "flavor": "\"I am a Jedi, like my father before me.\"",
+        "name": "Luke Skywalker",
+        "subtitle": "Jedi Knight",
+        "text": "After you activate this character, draw a card."
+    },
+    {
+        "code": "01037",
+        "name": "Qui-Gon Jinn",
+        "subtitle": "Ataru Master",
+        "text": "Before this character gains 1 or more shields, you may remove 1 of his shields to deal 1 damage to a character."
+    },
+    {
+        "code": "01038",
+        "name": "Rey",
+        "subtitle": "Force Prodigy",
+        "text": "After you play an upgrade on this character, you may take one additional action."
+    },
+    {
+        "code": "01040",
+        "name": "Jedi Robes",
+        "text": "After you play this upgrade, give attached character 1 shield, or 2 shields instead in the first round of play."
+    },
+    {
+        "code": "01043",
+        "name": "BB-8",
+        "text": "[special] - Reroll this die and one of your other dice.  Do not remove this die from your pool after resolving this ability."
+    },
+    {
+        "code": "01044",
+        "name": "Rey's Staff",
+        "text": "[special] - Remove a die showing damage ([melee] or [ranged])"
+    },
+    {
+        "code": "01045",
+        "name": "Finn",
+        "subtitle": "First Order Defector",
+        "text": "You can attach any weapon to this character, ignoring play restrictions.\nYou can include Red Villain weapons and vehicles in your deck."
+    },
+    {
+        "code": "01046",
+        "name": "Han Solo",
+        "text": "After you play a card with the Ambush keyword, you may give a character 1 shield."
+    },
+    {
+        "code": "01048",
+        "name": "Padme Amidala",
+        "subtitle": "Queen of Naboo"
+    },
+    {
+        "code": "01049",
+        "flavor": "\"She may not look like much, but she's got it where it counts.\" <cite>Han Solo</cite>",
+        "name": "Millenium Falcon",
+        "text": "[special] - Play a Yellow event from your discard pile or hand for free."
+    },
+    {
+        "code": "01055",
+        "name": "IQA-11 Blaster Rifle",
+        "text": "[special] - Deal 2 unblockable damage to a character."
+    },
+    {
+        "code": "01057",
+        "name": "Force Throw",
+        "text": "Blue Character Only.\n[special] - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeros)."
+    },
+    {
+        "code": "01058",
+        "name": "Force Training",
+        "text": "To play, spot a Blue character.\n[special] - Choose and do two of the following; deal 1 damage to a character, or gain 1 resource, or give a character 1 shield."
+    },
+    {
+        "code": "01059",
+        "name": "Lightsaber",
+        "text": "Redeploy.\n[special] - Deal 2 unblockable damage to a character."
+    },
+    {
+        "code": "01060",
+        "name": "Mind Probe",
+        "text": "Blue Character only.\n[special] - Deal an opponent's character 1 damage for each card in that opponent's hand."
+    },
+    {
+        "code": "01063",
+        "name": "Holdout Blaster",
+        "text": "Ambush. Redeploy."
+    },
+    {
+        "code": "01075",
+        "flavor": "\"There they are! Blast them!\"",
+        "name": "The Best Defense...",
+        "text": "Deal one of your Red characters 3 damage to remove up to 2 of an opponent's dice."
+    },
+    {
+        "code": "01081",
+        "name": "Enrage",
+        "text": "Deal 1 damage to one of your Blue characters to gain 1 resource."
+    },
+    {
+        "code": "01084",
+        "name": "Intimidate",
+        "text": "Remove all shields from a character."
+    },
+    {
+        "code": "01089",
+        "name": "Power of the Dark Side",
+        "text": "<b>Action</b> - Exaust this support to reroll one of your dice.  If that die rolls a blank ([blank]), deal 2 unblockable damage to a character."
+    },
+    {
+        "code": "01117",
+        "name": "Heroism",
+        "text": "Deal one of your unique characters damage equal to the value of an opponent's die showing damage. Then remove that die."
+    },
+    {
+        "code": "01124",
+        "name": "Awakening",
+        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing a modified side <em>(a side with a +)</em> as if it was not modified <em>(did not have the +).</em>"
+    },
+    {
+        "code": "01126",
+        "name": "Daring Escape",
+        "text": "Ambush.\r\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank])."
+    },
+    {
+        "code": "01128",
+        "name": "Draw Attention",
+        "text": "Move up to 2 damage from one of your characters to another one of your characters (this ignores shields)."
+    },
+    {
+        "code": "01130",
+        "name": "Let The Wookie Win",
+        "text": "Force an opponent to choose to either deal one of their exausted characters 2 damage or choose and remove 2 of their dice."
+    },
+    {
+        "code": "01146",
+        "name": "Disturbance in the Force",
+        "text": "Reroll all dice."
+    },
+    {
+        "code": "01147",
+        "name": "Mind Trick",
+        "text": "Spot a Blue character to force your opponent to split their dice pool into 2 groups of any size. Choose 1 group and remove all dice in it."
+    },
+    {
+        "code": "01149",
+        "flavor": "\"The Force will be with you, always.\"\\n <cite>Obi-Wan Kenobi",
+        "name": "Use The Force",
+        "text": "Spot a Blue character to turn a die to any side."
+    },
+    {
+        "code": "01151",
+        "name": "Aim",
+        "text": "Turn one of your dice to a shide showing ranged damage."
+    },
+    {
+        "code": "01153",
+        "name": "Block",
+        "text": "Remove all of an opponent's dice showing melee damage."
+    },
+    {
+        "code": "01154",
+        "name": "Close Quarters Assault",
+        "text": "Count the number of dice you have showing mele damage. Discard that many random cards from an opponent's hand."
+    },
+    {
+        "code": "01155",
+        "name": "Dodge",
+        "text": "Remove all of an opponent's dice showing ranged damage ([ranged])"
+    },
+    {
+        "code": "01156",
+        "name": "Flank",
+        "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice."
+    },
+    {
+        "code": "01157",
+        "name": "Take Cover",
+        "text": "Give a character 1 shield."
+    },
+    {
+        "code": "01162",
+        "name": "Unpredictable",
+        "text": "Ambush.\r\nReroll a die (yours or an opponent's)."
+    },
+    {
+        "code": "01170",
+        "name": "Salvage Yard",
+        "subtitle": "Jakku",
+        "text": "<b>Claim</b> - Choose a support or upgrade in your discard pile and place it on top of your deck."
+    }
+]

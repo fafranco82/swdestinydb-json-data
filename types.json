@@ -1,11 +1,7 @@
 [
     {
-        "code": "agenda",
-        "name": "Agenda"
-    },
-    {
-        "code": "attachment",
-        "name": "Attachment"
+        "code": "battlefield",
+        "name": "Battlefield"
     },
     {
         "code": "character",
@@ -16,15 +12,11 @@
         "name": "Event"
     },
     {
-        "code": "location",
-        "name": "Location"
+        "code": "support",
+        "name": "Support"
     },
     {
-        "code": "plot",
-        "name": "Plot"
-    },
-    {
-        "code": "title",
-        "name": "Title"
+        "code": "upgrade",
+        "name": "Upgrade"
     }
 ]

@@ -1,22 +1,7 @@
 {
     "additionalProperties": false,
     "properties": {
-        "cgdb_id": {
-            "oneOf": [
-                {
-                    "minimum": 1,
-                    "type": "integer"
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        },
         "code": {
-            "minLength": 1,
-            "type": "string"
-        },
-        "cycle_code": {
             "minLength": 1,
             "type": "string"
         },
@@ -55,7 +40,6 @@
     "required": [
         "date_release",
         "code",
-        "cycle_code",
         "name",
         "position",
         "size"

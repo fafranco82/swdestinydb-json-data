@@ -1,0 +1,22 @@
+[
+    {
+        "code": "C",
+        "name": "Common"
+    },
+    {
+        "code": "L",
+        "name": "Legendary"
+    },
+    {
+        "code": "R",
+        "name": "Rare"
+    },
+    {
+        "code": "S",
+        "name": "Starter"
+    },
+    {
+        "code": "U",
+        "name": "Uncommon"
+    }
+]

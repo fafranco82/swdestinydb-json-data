@@ -5,24 +5,19 @@
             "minLength": 1,
             "type": "string"
         },
+        "is_primary": {
+            "type": "boolean"
+        },
         "name": {
             "minLength": 1,
             "type": "string"
-        },
-        "position": {
-            "minimum": 0,
-            "type": "integer"
-        },
-        "size": {
-            "minimum": 1,
-            "type": "integer"
         }
     },
     "required": [
         "code",
+        "is_primary",
         "name",
-        "position",
-        "size"
+        "octgn_id"        
     ],
     "type": "object"
 }

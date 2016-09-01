@@ -1,38 +1,18 @@
 [
     {
-        "code": "baratheon",
-        "name": "Casa Baratheon"
+        "code": "blue",
+        "name": "Fuerza"
     },
     {
-        "code": "greyjoy",
-        "name": "Casa Greyjoy"
-    },
-    {
-        "code": "lannister",
-        "name": "Casa Lannister"
-    },
-    {
-        "code": "martell",
-        "name": "Casa Martell"
-    },
-    {
-        "code": "neutral",
+        "code": "gray",
         "name": "Neutral"
     },
     {
-        "code": "stark",
-        "name": "Casa Stark"
+        "code": "red",
+        "name": "Mando"
     },
     {
-        "code": "targaryen",
-        "name": "Casa Targaryen"
-    },
-    {
-        "code": "thenightswatch",
-        "name": "Guardia de la Noche"
-    },
-    {
-        "code": "tyrell",
-        "name": "Casa Tyrell"
+        "code": "yellow",
+        "name": "Pícaro"
     }
 ]

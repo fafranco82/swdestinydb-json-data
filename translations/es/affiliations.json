@@ -1,0 +1,14 @@
+[
+    {
+        "code": "hero",
+        "name": "Héroe"
+    },
+    {
+        "code": "neutral",
+        "name": "Neutral"
+    },
+    {
+        "code": "villain",
+        "name": "Villano"
+    }
+]

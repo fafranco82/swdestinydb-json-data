@@ -1,0 +1,38 @@
+[
+    {
+        "code": "-",
+        "name": "Cara vacía"
+    },
+    {
+        "code": "Dc",
+        "name": "Descartar"
+    },
+    {
+        "code": "Dr",
+        "name": "Interferir"
+    },
+    {
+        "code": "F",
+        "name": "Concentración"
+    },
+    {
+        "code": "MD",
+        "name": "Daño Cuerpo a Cuerpo"
+    },
+    {
+        "code": "R",
+        "name": "Recurso"
+    },
+    {
+        "code": "RD",
+        "name": "Daño A Distancia"
+    },
+    {
+        "code": "Sh",
+        "name": "Escudo"
+    },
+    {
+        "code": "Sp",
+        "name": "Especial"
+    }
+]

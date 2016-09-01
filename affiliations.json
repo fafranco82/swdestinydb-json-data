@@ -1,0 +1,17 @@
+[
+    {
+        "code": "hero",
+        "name": "Hero",
+        "is_primary": true
+    },
+    {
+        "code": "neutral",
+        "name": "Neutral",
+        "is_primary": false
+    },
+    {
+        "code": "villain",
+        "name": "Villain",
+        "is_primary": true
+    }
+]
