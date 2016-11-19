@@ -848,7 +848,7 @@
         "rarity_code": "S",
         "set_code": "AW",
         "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing a modified side <em>(a side with a +)</em> as if it was not modified <em>(did not have the +).</em>",
-        "type_code": "event"
+        "type_code": "support"
     },
     {
         "affiliation_code": "hero",
