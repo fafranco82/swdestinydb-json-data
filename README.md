@@ -1,4 +1,4 @@
-SWDestinyDB cards JSON data
+SWDestinyDB cards JSON data [![CircleCI](https://circleci.com/gh/fafranco82/swdestinydb-json-data.svg?style=svg)](https://circleci.com/gh/fafranco82/swdestinydb-json-data)
 =========
 
 The goal of this repository is to store [SWDestinyDB](https://swdestinydb.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
@@ -46,7 +46,7 @@ Required properties are in **bold**.
 * **set_code** - Acronym of set code. For example, `"AW"` for Awakenings
 * sides - If the card has a die, this represents the die faces. It is an array of exactly six elements, each of them comprised of (in order):
 	* An optional plus (`+`) sign for sides that are modified values
-	* An integer value for all of all side signs except Special and Blank
+	* An integer value for all of all side signs except Special and Blank. IF the sign is neither special nor blank, a value of 0 indicate a variable value (i.e., an `X` value)
 	* The sign acronym. With:
 		* `MD` - Melee damage
 		* `RD` - Ranged damage
