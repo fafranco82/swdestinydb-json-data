@@ -78,7 +78,7 @@ To get the 4-letter hexcode of a UTF-8 symbol (or look up what a particular hexc
 
 To have text spanning multiple lines, use `\n` to separate them. To have quotes as part of the text, use `\"`.  For example, `"\"Orange and white: one of a kind.\" <cite>Poe Dameron</cite>"` results in following flavor text:
 
-> *"Orange and white: one of a kind." -Eddard Stark*
+> *"Orange and white: one of a kind." Poe Dameron*
 
 #### Star Wars Destiny symbols
 
