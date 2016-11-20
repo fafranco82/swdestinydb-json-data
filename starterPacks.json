@@ -1,0 +1,192 @@
+[
+    {
+        "code": "AW-V",
+        "name": "Kylo Ren Starter Set",
+        "set_code": "AW",
+        "slots": {
+            "01002": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01006": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01008": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01011": {
+                "quantity": 1,
+                "dice": 2
+            },
+            "01014": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01017": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01059": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01060": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01075": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01081": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01084": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01089": {
+                "quantity": 2,
+                "dice": 0
+            },
+            "01091": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01146": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01149": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01151": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01153": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01154": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01155": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01156": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01157": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01168": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
+    },
+    {
+        "code": "AW-H",
+        "name": "Rey Starter Set",
+        "set_code": "AW",
+        "slots": {
+            "01008": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01038": {
+                "quantity": 1,
+                "dice": 2
+            },
+            "01040": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01043": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01044": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01045": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01057": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01059": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "01117": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01124": {
+                "quantity": 2,
+                "dice": 0
+            },
+            "01126": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01128": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01130": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01149": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01151": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01153": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01154": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01155": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01156": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01157": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01162": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "01174": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
+    }
+]

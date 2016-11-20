@@ -6,7 +6,7 @@ import jsonschema
 import os
 import sys
 
-PACK_DIR="set"
+SET_DIR="set"
 SCHEMA_DIR="schema"
 TRANS_DIR="translations"
 
@@ -46,13 +46,15 @@ def custom_card_check(args, card, set_code, locale=None):
         pass #no checks by the moment
     else:
         if card["set_code"] != set_code:
-            raise jsonschema.ValidationError("Set code '%s' of the card '%s' doesn't match the set code '%s' of the file it appears in." % (card["set_code"], card["code"], set_code))
+            raise jsonschema.ValidationError("Pack code '%s' of the card '%s' doesn't match the set code '%s' of the file it appears in." % (card["set_code"], card["code"], set_code))
 
 def custom_set_check(args, set, locale=None, en_sets=None):
     if locale:
         if set["code"] not in [p["code"] for p in en_sets]:
-            raise jsonschema.ValidationError("Set code '%s' in translation file for '%s' locale does not exists in original locale." % (set["code"], locale))
-    
+            raise jsonschema.ValidationError("Pack code '%s' in translation file for '%s' locale does not exists in original locale." % (set["code"], locale))
+    else:
+        pass #no checks by the moment
+
 def format_json(json_data):
     formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
     formatted_data += "\n"
@@ -100,7 +102,7 @@ def load_set_index(args, locale=None, en_sets=None):
 
     for p in sets_data:
         set_filename = "{}.json".format(p["code"])
-        sets_dir = locale and os.path.join(args.trans_path, locale, PACK_DIR) or args.set_path
+        sets_dir = locale and os.path.join(args.trans_path, locale, SET_DIR) or args.set_path
         set_path = os.path.join(sets_dir, set_filename)
         check_file_access(set_path)
 
@@ -111,7 +113,7 @@ def parse_commandline():
     argparser.add_argument("-f", "--fix_formatting", default=False, action="store_true", help="write suggested formatting changes to files")
     argparser.add_argument("-v", "--verbose", default=0, action="count", help="verbose mode")
     argparser.add_argument("-b", "--base_path", default=os.getcwd(), help="root directory of JSON repo (default: current directory)")
-    argparser.add_argument("-p", "--set_path", default=None, help=("set directory of JSON repo (default: BASE_PATH/%s/)" % PACK_DIR))
+    argparser.add_argument("-p", "--set_path", default=None, help=("set directory of JSON repo (default: BASE_PATH/%s/)" % SET_DIR))
     argparser.add_argument("-c", "--schema_path", default=None, help=("schema directory of JSON repo (default: BASE_PATH/%s/" % SCHEMA_DIR))
     argparser.add_argument("-t", "--trans_path", default=None, help=("translations directory of JSON repo (default: BASE_PATH/%s/)" % TRANS_DIR))
     args = argparser.parse_args()
@@ -120,7 +122,7 @@ def parse_commandline():
     if getattr(args, "schema_path", None) is None:
         setattr(args, "schema_path", os.path.join(args.base_path,SCHEMA_DIR))
     if getattr(args, "set_path", None) is None:
-        setattr(args, "set_path", os.path.join(args.base_path,PACK_DIR))
+        setattr(args, "set_path", os.path.join(args.base_path,SET_DIR))
     if getattr(args, "trans_path", None) is None:
         setattr(args, "trans_path", os.path.join(args.base_path,TRANS_DIR))
     check_dir_access(args.base_path)
@@ -157,7 +159,7 @@ def validate_cards(args, sets_data, locale=None):
     for p in sets_data:
         verbose_print(args, "Validating cards from %s...\n" % (locale and "%s-%s" % (p["code"], locale) or p["name"]), 1)
 
-        set_base_path = locale and os.path.join(args.trans_path, locale, PACK_DIR) or args.set_path
+        set_base_path = locale and os.path.join(args.trans_path, locale, SET_DIR) or args.set_path
         set_path = os.path.join(set_base_path, "{}.json".format(p["code"]))
         set_data = load_json_file(args, set_path)
         if not set_data:
@@ -171,20 +173,20 @@ def validate_sets(args, sets_data, locale=None, en_sets=None):
 
     verbose_print(args, "Validating set index file...\n", 1)
     set_schema_path = os.path.join(args.schema_path, locale and "set_schema_trans.json" or "set_schema.json")
-    PACK_SCHEMA = load_json_file(args, set_schema_path)
+    SET_SCHEMA = load_json_file(args, set_schema_path)
     if not isinstance(sets_data, list):
         verbose_print(args, "Insides of set index file are not a list!\n", 0)
         return False
-    if not PACK_SCHEMA:
+    if not SET_SCHEMA:
         return False
-    if not check_json_schema(args, PACK_SCHEMA, set_schema_path):
+    if not check_json_schema(args, SET_SCHEMA, set_schema_path):
         return False
 
     retval = True
     for p in sets_data:
         try:
             verbose_print(args, "Validating set %s... " % p.get("name"), 2)
-            jsonschema.validate(p, PACK_SCHEMA)
+            jsonschema.validate(p, SET_SCHEMA)
             custom_set_check(args, p, locale, en_sets)
             verbose_print(args, "OK\n", 2)
         except jsonschema.ValidationError as e:
@@ -223,6 +225,7 @@ def main():
     validation_errors = 0
 
     args = parse_commandline()
+
 
     sets = load_set_index(args)
 

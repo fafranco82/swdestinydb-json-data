@@ -1535,12 +1535,12 @@
         "rarity_code": "R",
         "set_code": "AW",
         "sides": [
-           "1R",
-           "+1R",
-           "+1R",
-           "Sp",
-           "-",
-           "-"
+            "1R",
+            "+1R",
+            "+1R",
+            "Sp",
+            "-",
+            "-"
         ],
         "subtype_code": "equipment",
         "text": "[special] - Turn one of your dice to a side not showing damage ([ranged] or [melee])",
