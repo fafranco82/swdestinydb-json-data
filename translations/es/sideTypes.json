@@ -17,7 +17,7 @@
     },
     {
         "code": "MD",
-        "name": "Daño Cuerpo a Cuerpo"
+        "name": "Daño cuerpo a cuerpo"
     },
     {
         "code": "R",
@@ -25,7 +25,7 @@
     },
     {
         "code": "RD",
-        "name": "Daño A Distancia"
+        "name": "Daño a distancia"
     },
     {
         "code": "Sh",

@@ -6,7 +6,7 @@ import jsonschema
 import os
 import sys
 
-PACK_DIR="pack"
+PACK_DIR="set"
 SCHEMA_DIR="schema"
 TRANS_DIR="translations"
 
@@ -40,22 +40,19 @@ def check_json_schema(args, data, path):
         print(e)
         return False
 
-def custom_card_check(args, card, pack_code, locale=None):
+def custom_card_check(args, card, set_code, locale=None):
     "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
     if locale:
         pass #no checks by the moment
     else:
-        if card["pack_code"] != pack_code:
-            raise jsonschema.ValidationError("Pack code '%s' of the card '%s' doesn't match the pack code '%s' of the file it appears in." % (card["pack_code"], card["code"], pack_code))
+        if card["set_code"] != set_code:
+            raise jsonschema.ValidationError("Set code '%s' of the card '%s' doesn't match the set code '%s' of the file it appears in." % (card["set_code"], card["code"], set_code))
 
-def custom_pack_check(args, pack, cycles_data, locale=None, en_packs=None):
+def custom_set_check(args, set, locale=None, en_sets=None):
     if locale:
-        if pack["code"] not in [p["code"] for p in en_packs]:
-            raise jsonschema.ValidationError("Pack code '%s' in translation file for '%s' locale does not exists in original locale." % (pack["code"], locale))
-    else: 
-        if pack["cycle_code"] not in [c["code"] for c in cycles_data]:
-            raise jsonschema.ValidationError("Cycle code '%s' of the pack '%s' doesn't match any valid cycle code." % (pack["cycle_code"], pack["code"]))
-
+        if set["code"] not in [p["code"] for p in en_sets]:
+            raise jsonschema.ValidationError("Set code '%s' in translation file for '%s' locale does not exists in original locale." % (set["code"], locale))
+    
 def format_json(json_data):
     formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
     formatted_data += "\n"
@@ -92,40 +89,29 @@ def load_json_file(args, path):
                 print(e)
     return json_data
 
-def load_cycles(args, locale=None):
-    verbose_print(args, "Loading cycle index file...\n", 1)
-    cycles_base_path = locale and os.path.join(args.trans_path, locale) or args.base_path
-    cycles_path = os.path.join(cycles_base_path, "cycles.json")
-    cycles_data = load_json_file(args, cycles_path)
+def load_set_index(args, locale=None, en_sets=None):
+    verbose_print(args, "Loading set index file...\n", 1)
+    sets_base_path = locale and os.path.join(args.trans_path, locale) or args.base_path
+    sets_path = os.path.join(sets_base_path, "sets.json")
+    sets_data = load_json_file(args, sets_path)
 
-    if not validate_cycles(args, cycles_data, locale):
+    if not validate_sets(args, sets_data, locale, en_sets):
         return None
 
-    return cycles_data
+    for p in sets_data:
+        set_filename = "{}.json".format(p["code"])
+        sets_dir = locale and os.path.join(args.trans_path, locale, PACK_DIR) or args.set_path
+        set_path = os.path.join(sets_dir, set_filename)
+        check_file_access(set_path)
 
-def load_pack_index(args, cycles_data, locale=None, en_packs=None):
-    verbose_print(args, "Loading pack index file...\n", 1)
-    packs_base_path = locale and os.path.join(args.trans_path, locale) or args.base_path
-    packs_path = os.path.join(packs_base_path, "packs.json")
-    packs_data = load_json_file(args, packs_path)
-
-    if not validate_packs(args, packs_data, cycles_data, locale, en_packs):
-        return None
-
-    for p in packs_data:
-        pack_filename = "{}.json".format(p["code"])
-        packs_dir = locale and os.path.join(args.trans_path, locale, PACK_DIR) or args.pack_path
-        pack_path = os.path.join(packs_dir, pack_filename)
-        check_file_access(pack_path)
-
-    return packs_data
+    return sets_data
 
 def parse_commandline():
     argparser = argparse.ArgumentParser(description="Validate JSON in the netrunner cards repository.")
     argparser.add_argument("-f", "--fix_formatting", default=False, action="store_true", help="write suggested formatting changes to files")
     argparser.add_argument("-v", "--verbose", default=0, action="count", help="verbose mode")
     argparser.add_argument("-b", "--base_path", default=os.getcwd(), help="root directory of JSON repo (default: current directory)")
-    argparser.add_argument("-p", "--pack_path", default=None, help=("pack directory of JSON repo (default: BASE_PATH/%s/)" % PACK_DIR))
+    argparser.add_argument("-p", "--set_path", default=None, help=("set directory of JSON repo (default: BASE_PATH/%s/)" % PACK_DIR))
     argparser.add_argument("-c", "--schema_path", default=None, help=("schema directory of JSON repo (default: BASE_PATH/%s/" % SCHEMA_DIR))
     argparser.add_argument("-t", "--trans_path", default=None, help=("translations directory of JSON repo (default: BASE_PATH/%s/)" % TRANS_DIR))
     args = argparser.parse_args()
@@ -133,31 +119,31 @@ def parse_commandline():
     # Set all the necessary paths and check if they exist
     if getattr(args, "schema_path", None) is None:
         setattr(args, "schema_path", os.path.join(args.base_path,SCHEMA_DIR))
-    if getattr(args, "pack_path", None) is None:
-        setattr(args, "pack_path", os.path.join(args.base_path,PACK_DIR))
+    if getattr(args, "set_path", None) is None:
+        setattr(args, "set_path", os.path.join(args.base_path,PACK_DIR))
     if getattr(args, "trans_path", None) is None:
         setattr(args, "trans_path", os.path.join(args.base_path,TRANS_DIR))
     check_dir_access(args.base_path)
     check_dir_access(args.schema_path)
-    check_dir_access(args.pack_path)
+    check_dir_access(args.set_path)
 
     return args
 
-def validate_card(args, card, card_schema, pack_code, locale=None):
+def validate_card(args, card, card_schema, set_code, locale=None):
     global validation_errors
 
     try:
         verbose_print(args, "Validating card %s... " % (locale and ("%s-%s" % (card["code"], locale)) or card["name"]), 2)
         jsonschema.validate(card, card_schema)
-        custom_card_check(args, card, pack_code, locale)
+        custom_card_check(args, card, set_code, locale)
         verbose_print(args, "OK\n", 2)
     except jsonschema.ValidationError as e:
         verbose_print(args, "ERROR\n",2)
-        verbose_print(args, "Validation error in card: (pack code: '%s' card code: '%s' name: '%s')\n" % (pack_code, card.get("code"), card.get("name")), 0)
+        verbose_print(args, "Validation error in card: (set code: '%s' card code: '%s' name: '%s')\n" % (set_code, card.get("code"), card.get("name")), 0)
         validation_errors += 1
         print(e)
 
-def validate_cards(args, packs_data, locale=None):
+def validate_cards(args, sets_data, locale=None):
     global validation_errors
 
     card_schema_path = os.path.join(args.schema_path, locale and "card_schema_trans.json" or "card_schema.json")
@@ -168,92 +154,61 @@ def validate_cards(args, packs_data, locale=None):
     if not check_json_schema(args, CARD_SCHEMA, card_schema_path):
         return
 
-    for p in packs_data:
+    for p in sets_data:
         verbose_print(args, "Validating cards from %s...\n" % (locale and "%s-%s" % (p["code"], locale) or p["name"]), 1)
 
-        pack_base_path = locale and os.path.join(args.trans_path, locale, PACK_DIR) or args.pack_path
-        pack_path = os.path.join(pack_base_path, "{}.json".format(p["code"]))
-        pack_data = load_json_file(args, pack_path)
-        if not pack_data:
+        set_base_path = locale and os.path.join(args.trans_path, locale, PACK_DIR) or args.set_path
+        set_path = os.path.join(set_base_path, "{}.json".format(p["code"]))
+        set_data = load_json_file(args, set_path)
+        if not set_data:
             continue
 
-        for card in pack_data:
+        for card in set_data:
             validate_card(args, card, CARD_SCHEMA, p["code"], locale)
 
-def validate_cycles(args, cycles_data, locale=None):
+def validate_sets(args, sets_data, locale=None, en_sets=None):
     global validation_errors
 
-    verbose_print(args, "Validating cycle index file...\n", 1)
-    cycle_schema_path = os.path.join(args.schema_path, locale and "cycle_schema_trans.json" or "cycle_schema.json")
-    CYCLE_SCHEMA = load_json_file(args, cycle_schema_path)
-    if not isinstance(cycles_data, list):
-        verbose_print(args, "Insides of cycle index file are not a list!\n", 0)
-        return False
-    if not CYCLE_SCHEMA:
-        return False
-    if not check_json_schema(args, CYCLE_SCHEMA, cycle_schema_path):
-        return False
-
-    retval = True
-    for c in cycles_data:
-        try:
-            verbose_print(args, "Validating cycle %s... " % c.get("name"), 2)
-            jsonschema.validate(c, CYCLE_SCHEMA)
-            verbose_print(args, "OK\n", 2)
-        except jsonschema.ValidationError as e:
-            verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in cycle: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
-            validation_errors += 1
-            print(e)
-            retval = False
-
-    return retval
-
-def validate_packs(args, packs_data, cycles_data, locale=None, en_packs=None):
-    global validation_errors
-
-    verbose_print(args, "Validating pack index file...\n", 1)
-    pack_schema_path = os.path.join(args.schema_path, locale and "pack_schema_trans.json" or "pack_schema.json")
-    PACK_SCHEMA = load_json_file(args, pack_schema_path)
-    if not isinstance(packs_data, list):
-        verbose_print(args, "Insides of pack index file are not a list!\n", 0)
+    verbose_print(args, "Validating set index file...\n", 1)
+    set_schema_path = os.path.join(args.schema_path, locale and "set_schema_trans.json" or "set_schema.json")
+    PACK_SCHEMA = load_json_file(args, set_schema_path)
+    if not isinstance(sets_data, list):
+        verbose_print(args, "Insides of set index file are not a list!\n", 0)
         return False
     if not PACK_SCHEMA:
         return False
-    if not check_json_schema(args, PACK_SCHEMA, pack_schema_path):
+    if not check_json_schema(args, PACK_SCHEMA, set_schema_path):
         return False
 
     retval = True
-    for p in packs_data:
+    for p in sets_data:
         try:
-            verbose_print(args, "Validating pack %s... " % p.get("name"), 2)
+            verbose_print(args, "Validating set %s... " % p.get("name"), 2)
             jsonschema.validate(p, PACK_SCHEMA)
-            custom_pack_check(args, p, cycles_data, locale, en_packs)
+            custom_set_check(args, p, locale, en_sets)
             verbose_print(args, "OK\n", 2)
         except jsonschema.ValidationError as e:
             verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in pack: (code: '%s' name: '%s')\n" % (p.get("code"), p.get("name")), 0)
+            verbose_print(args, "Validation error in set: (code: '%s' name: '%s')\n" % (p.get("code"), p.get("name")), 0)
             validation_errors += 1
             print(e)
             retval = False
 
     return retval
 
-def validate_locales(args, en_cycles, en_packs):
+def validate_locales(args, en_sets):
     verbose_print(args, "Validating I18N files...\n", 1)
     if os.path.exists(args.trans_path):
         check_dir_access(args.trans_path)
         for locale in [l for l in os.listdir(args.trans_path) if os.path.isdir(os.path.join(args.trans_path, l))]:
             verbose_print(args, "Validating I18N files for locale '%s'...\n" % locale, 1)
 
-            cycles = load_cycles(args, locale)
+            sets = load_set_index(args, locale, en_sets)
 
-            packs = load_pack_index(args, cycles, locale, en_packs)
-
-            if packs:
-                validate_cards(args, packs, locale)
+            if sets:
+                validate_cards(args, sets, locale)
             else:
-                verbose_print(args, "Couldn't open packs file correctly, skipping card validation...\n", 0)
+                verbose_print(args, "Couldn't open sets file correctly, skipping card validation...\n", 0)
 
 
 def verbose_print(args, text, minimum_verbosity=0):
@@ -269,16 +224,14 @@ def main():
 
     args = parse_commandline()
 
-    cycles = load_cycles(args)
+    sets = load_set_index(args)
 
-    packs = load_pack_index(args, cycles)
-
-    if packs:
-        validate_cards(args, packs)
+    if sets:
+        validate_cards(args, sets)
     else:
-        verbose_print(args, "Couldn't open packs file correctly, skipping card validation...\n", 0)
+        verbose_print(args, "Couldn't open sets file correctly, skipping card validation...\n", 0)
 
-    validate_locales(args, cycles, packs)
+    validate_locales(args, sets)
 
     sys.stdout.write("Found %s formatting and %s validation errors\n" % (formatting_errors, validation_errors))
     if formatting_errors == 0 and validation_errors == 0:

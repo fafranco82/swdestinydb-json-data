@@ -16,8 +16,7 @@
     "required": [
         "code",
         "is_primary",
-        "name",
-        "octgn_id"        
+        "name"       
     ],
     "type": "object"
 }

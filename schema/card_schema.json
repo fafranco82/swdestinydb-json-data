@@ -1,17 +1,6 @@
 {
     "additionalProperties": false,
     "properties": {
-        "claim": {
-            "oneOf": [
-                {
-                    "minimum": 0,
-                    "type": "integer"
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        },
         "code": {
             "pattern": "^[0-9]{5}$",
             "type": "string"
@@ -28,49 +17,45 @@
             ]
         },
         "deck_limit": {
-            "minimum": 0,
-            "type": "integer"
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "affiliation_code": {
+            "enum": [
+                "villain",
+                "hero",
+                "neutral"
+            ]
         },
         "faction_code": {
             "enum": [
-                "baratheon",
-                "greyjoy",
-                "lannister",
-                "martell",
-                "neutral",
-                "thenightswatch",
-                "stark",
-                "targaryen",
-                "tyrell"
+                "red",
+                "blue",
+                "gray",
+                "yellow"
             ]
         },
         "flavor": {
             "minLength": 1,
             "type": "string"
         },
+        "has_die": {
+            "type": "boolean"
+        },
+        "health": {
+            "minimum": 1,
+            "type": "integer"
+        },
         "illustrator": {
-            "minLength": 0,
+            "minLength": 1,
             "type": "string"
-        },
-        "income": {
-            "minimum": 0,
-            "type": "integer"
-        },
-        "initiative": {
-            "minimum": 0,
-            "type": "integer"
-        },
-        "is_intrigue": {
-            "type": "boolean"
-        },
-        "is_loyal": {
-            "type": "boolean"
-        },
-        "is_military": {
-            "type": "boolean"
-        },
-        "is_power": {
-            "type": "boolean"
         },
         "is_unique": {
             "type": "boolean"
@@ -79,69 +64,69 @@
             "minLength": 1,
             "type": "string"
         },
-        "octgn_id": {
-            "oneOf": [
-                {
-                    "maxLength": 36,
-                    "minLength": 36,
-                    "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        },
-        "pack_code": {
-            "maxLength": 5,
-            "minLength": 2,
+        "points": {
+            "minLength": 1,
             "type": "string"
         },
         "position": {
             "minimum": 1,
             "type": "integer"
         },
-        "quantity": {
-            "minimum": 1,
-            "type": "integer"
+        "rarity_code": {
+            "enum": [
+                "S",
+                "C",
+                "U",
+                "R",
+                "L"
+            ]
         },
-        "reserve": {
-            "minimum": 0,
-            "type": "integer"
+        "set_code": {
+            "maxLength": 5,
+            "minLength": 2,
+            "type": "string"
         },
-        "strength": {
-            "minimum": 0,
-            "type": "integer"
+        "sides": {
+            "type": "array",
+            "minItems": 6,
+            "maxItems": 6,
+            "items": {
+                "type": "string",
+                "pattern": "^[+]?(\\d+)?(MD|RD|F|Dr|Dc|Sh|R|Sp|-)(\\d+)?$"
+            }
+        },
+        "subtitle": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "subtype_code": {
+            "minLength": 1,
+            "type": "string"
         },
         "text": {
             "minLength": 1,
             "type": "string"
         },
-        "traits": {
-            "minLength": 0,
-            "type": "string"
-        },
         "type_code": {
             "enum": [
-                "agenda",
-                "attachment",
+                "battlefield",
                 "character",
+                "upgrade",
                 "event",
-                "location",
-                "plot",
-                "title"
+                "support"
             ]
         }
     },
     "required": [
         "code",
         "deck_limit",
-        "is_loyal",
+        "has_die",
         "is_unique",
         "name",
         "position",
-        "quantity",
+        "affiliation_code",
         "faction_code",
-        "pack_code",
+        "set_code",
         "type_code"
     ],
     "type": "object"
