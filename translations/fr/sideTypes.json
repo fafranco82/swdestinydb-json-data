@@ -1,0 +1,38 @@
+[
+    {
+        "code": "-",
+        "name": "Blank"
+    },
+    {
+        "code": "Dc",
+        "name": "Discard"
+    },
+    {
+        "code": "Dr",
+        "name": "Disrupt"
+    },
+    {
+        "code": "F",
+        "name": "Focus"
+    },
+    {
+        "code": "MD",
+        "name": "Melee Damage"
+    },
+    {
+        "code": "R",
+        "name": "Resource"
+    },
+    {
+        "code": "RD",
+        "name": "Ranged Damage"
+    },
+    {
+        "code": "Sh",
+        "name": "Shield"
+    },
+    {
+        "code": "Sp",
+        "name": "Special"
+    }
+]

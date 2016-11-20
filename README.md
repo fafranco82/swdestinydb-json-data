@@ -102,4 +102,4 @@ Pre-requisites:
  * `node` and `npm` installed
  * `npm -g install coffee-script`
 
-Usage: `coffee update_locales.coffee`
+Usage: `coffee update_locales.coffee [language code]`

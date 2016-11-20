@@ -1,15 +1,15 @@
 [
     {
         "code": "01001",
-        "flavor": "Sea lo que sea que estéis planeando, no funcionará",
-        "name": "Capitán Phasma",
-        "subtitle": "Soldado de élite",
-        "text": "Tus personajes que no sean únicos tienen la palabra clave Guardián."
+        "flavor": "\"Whatever you're planning, it won't work.\"",
+        "name": "Captain Phasma",
+        "subtitle": "Elite Trooper",
+        "text": "Your non-unique characters have the Guardian keyword."
     },
     {
         "code": "01002",
-        "flavor": "Los miembros de esta nueva generación de soldados de asalto son entrenados desde su nacimiento y sometidos a un régimen constante de propaganda de la Primera Orden para asegurar su lealtad absoluta.",
-        "name": "Soldado de asalto de la Primera Orden"
+        "flavor": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
+        "name": "First Order Stormtrooper"
     },
     {
         "code": "01003",
@@ -38,18 +38,18 @@
     {
         "code": "01007",
         "name": "Commanding Presence",
-        "text": "Rec character only.\n[special] - Choose a Red die. If it is your die, resolve it, increasing its value by 2. If it is an opponent's die, remove it."
+        "text": "Red character only.\n[special] - Choose a Red die. If it is your die, resolve it, increasing its value by 2. If it is an opponent's die, remove it."
     },
     {
         "code": "01008",
         "name": "F-11D Rifle",
-        "text": "Redeploy.\r\n[special] - Force an opponent to deal 2 damage to their characters, distributing the damage as they wish."
+        "text": "Redeploy.\n[special] - Force an opponent to deal 2 damage to their characters, distributing the damage as they wish."
     },
     {
         "code": "01009",
-        "name": "Conde Dooku",
-        "subtitle": "Estratega artero",
-        "text": "Antes de que a este Personaje se le inflija 1 o más puntos de daño, puedes descartar una carta de tu mano para entregarle 1 escudo."
+        "name": "Count Dooku",
+        "subtitle": "Devious Strategist",
+        "text": "Before this character is dealt 1 or more damage, you may discard a card from your hand to give him 1 shield."
     },
     {
         "code": "01010",
@@ -61,8 +61,8 @@
     {
         "code": "01011",
         "name": "Kylo Ren",
-        "subtitle": "Discípulo de Vader",
-        "text": "[special] - Elige un Personaje de un adversario. Luego mira una carta escogida al azar de la mano de ese adversario e inflige tanto daño a ese Personaje como el coste de la carta que acabas de mirar."
+        "subtitle": "Vader's Disciple",
+        "text": "[special] - Choose an opponent's character. Then look at a random card in that opponent's hand and deal damage to that character equal to the cost of the card you just looked at."
     },
     {
         "code": "01012",
@@ -72,13 +72,13 @@
     },
     {
         "code": "01013",
-        "name": "Estrangular con la Fuerza",
-        "text": "Sólo Personaje de color Azul.\r\n[special] - Inflige 1 punto de daño no anulable a otro Personaje. Luego puedes girar a cualquier cara 1 de sus dados de Personaje o Mejora."
+        "name": "Force Choke",
+        "text": "Blue character only.\n[special] - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side."
     },
     {
         "code": "01014",
         "name": "Immobilize",
-        "text": "Blue Character only.\r\n<b>Action</b> - Remove this die to turn a die to a side showing a blank ([blank])."
+        "text": "Blue Character only.\n<b>Action</b> - Remove this die to turn a die to a side showing a blank ([blank])."
     },
     {
         "code": "01015",
@@ -87,8 +87,8 @@
     },
     {
         "code": "01016",
-        "name": "Holocrón sith",
-        "text": "[special] - Intercambia esta Mejora con una Mejora de <i>capacidad</i> de color Azul en tu mano, ignorando sus restricciones para jugarla. A continuación, puedes gastar 1 recurso para trar su dado en tu reserva, si es posible."
+        "name": "Sith Holocron",
+        "text": "[special] - Switch this upgrade with a Blue <i>ability</i> upgrade in your hand, ignoring its play restrictions. Then you may spend 1 resource to roll its die into your pool, if able."
     },
     {
         "code": "01017",
@@ -155,14 +155,14 @@
         "code": "01028",
         "flavor": "\"Someone has to save our skins.\"",
         "name": "Leia Organa",
-        "subtitle": "Líder nata",
-        "text": "<b>Acción</b> - Retira este dado para volver a tirar hasta 2 de tus dados."
+        "subtitle": "Born Leader",
+        "text": "<b>Action</b> - Remove this die to reroll up to 2 of your dice."
     },
     {
         "code": "01029",
         "name": "Poe Dameron",
-        "subtitle": "As de ases",
-        "text": "[special] - Descarta una carta de tu mano para resolver 1 de las caras de su dado, si es posible. Luego, si era una carta de <i>vehículo</i>, puedes pagar su coste para jugarla de tu pila de descarte."
+        "subtitle": "Ace Pilot",
+        "text": "[special] - Discard a card from your hand to resolve one of the sides of its die, if able. Then, if it was a <b>vehicle</b> card, you may pay its cost to play it from your discard pile."
     },
     {
         "code": "01030",
@@ -192,10 +192,10 @@
     },
     {
         "code": "01035",
-        "flavor": "\"Yo soy un jedi, como mi padre antes que yo.\"",
+        "flavor": "\"I am a Jedi, like my father before me.\"",
         "name": "Luke Skywalker",
-        "subtitle": "Caballero jedi",
-        "text": "Después de que actives este Personaje, roba 1 carta."
+        "subtitle": "Jedi Knight",
+        "text": "After you activate this character, draw a card."
     },
     {
         "code": "01036",
@@ -211,10 +211,10 @@
     },
     {
         "code": "01038",
-        "flavor": "\"Creo que puedo apañármelas sola.\"",
+        "flavor": "\"I think I can handle myself.\"",
         "name": "Rey",
-        "subtitle": "Prodigio de la Fuerza",
-        "text": "Después de que juegues una Mejora en este Personaje, puedes realizar 1 acción adicional."
+        "subtitle": "Force Prodigy",
+        "text": "After you play an upgrade on this character, you may take one additional action."
     },
     {
         "code": "01039",
@@ -223,8 +223,8 @@
     },
     {
         "code": "01040",
-        "name": "Túnica jedi",
-        "text": "Después de que juegues esta Mejora, entre 1 escudo al Personaje al que está vinculada, o 2 escudos si ésta es la primera ronda de la partida."
+        "name": "Jedi Robes",
+        "text": "After you play this upgrade, give attached character 1 shield, or 2 shields instead in the first round of play."
     },
     {
         "code": "01041",
@@ -249,15 +249,15 @@
     },
     {
         "code": "01045",
-        "flavor": "\"No pienso volver jamás.\"",
+        "flavor": "\"I'm not going back.\"",
         "name": "Finn",
-        "subtitle": "Desertor de la Primera Orden",
-        "text": "Puedes vincular cualquier <i>arma</i> a este Personaje, ignorando las restricciones de juego.\nPuedes incluir en tu mazo <i>armas</i> y <i>vehículos</i> de Villano de color Rojo."
+        "subtitle": "First Order Defector",
+        "text": "You can attach any <i>weapon</i> to this character, ignoring play restrictions.\nYou can include Red Villain <i>weapons</i> and <i>vehicles</i> in your deck."
     },
     {
         "code": "01046",
         "name": "Han Solo",
-        "text": "Después de que juegues una carta con la palabra clave Emboscada, puedes entregar 1 escudo a este Personaje."
+        "text": "After you play a card with the Ambush keyword, you may give this character 1 shield."
     },
     {
         "code": "01047",
@@ -273,9 +273,9 @@
     },
     {
         "code": "01049",
-        "flavor": "\"No tendrá buen aspecto, pero los resultados sí son buenos.\" <cite>Han Solo</cite>",
-        "name": "Halcón Milenario",
-        "text": "[special] - Juega un Evento de color Amarillo de tu pila de descarte o de tu mano sin pagar coste alguno."
+        "flavor": "\"She may not look like much, but she's got it where it counts.\" <cite>Han Solo</cite>",
+        "name": "Millenium Falcon",
+        "text": "[special] - Play a Yellow event from your discard pile or hand for free."
     },
     {
         "code": "01050",
@@ -304,8 +304,8 @@
     },
     {
         "code": "01055",
-        "name": "Fusil Bláster IQA-11",
-        "text": "[special] - Inflige 2 puntos de daño no anulable a un Personaje."
+        "name": "IQA-11 Blaster Rifle",
+        "text": "[special] - Deal 2 unblockable damage to a character."
     },
     {
         "code": "01056",
@@ -315,12 +315,12 @@
     {
         "code": "01057",
         "name": "Force Throw",
-        "text": "Blue Character Only.\n[special] - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeros)."
+        "text": "Blue Character Only.\n[special] - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeroes)."
     },
     {
         "code": "01058",
-        "name": "Entrenamiento en la Fuerza",
-        "text": "Para jugar esta carta, señala un Personaje de color Azul.\n[special] - Elige y haz 2 de la siguientes opciones: infligir 1 punto de daño a un Personaje o recibir 1 recurso o entregar 1 escudo a un Personaje."
+        "name": "Force Training",
+        "text": "To play, spot a Blue character.\n[special] - Choose and do two of the following: deal 1 damage to a character, or gain 1 resource, or give a character 1 shield."
     },
     {
         "code": "01059",
@@ -334,8 +334,8 @@
     },
     {
         "code": "01061",
-        "name": "Comunicador",
-        "text": "Después de que juegues esta Mejora, puedes volver a tirar cualquier cantidad de tus dados o cualquier cantidad de los dados de un adversario."
+        "name": "Comlink",
+        "text": "After you play this upgrade, you may reroll any number of your dice or any number of an opponent's dice."
     },
     {
         "code": "01062",
@@ -344,8 +344,8 @@
     },
     {
         "code": "01063",
-        "name": "Bláster de bolsillo",
-        "text": "Emboscada. Redesplegar."
+        "name": "Holdout Blaster",
+        "text": "Ambush. Redeploy."
     },
     {
         "code": "01064",
@@ -359,8 +359,8 @@
     },
     {
         "code": "01066",
-        "name": "Mochila propulsora",
-        "text": "[special] - Retira un dado que muestre daño cuerpo a cuerpo ([melee]) y entrega 1 escudo al Personaje que tiene vinculada esta Mejora."
+        "name": "Jetpack",
+        "text": "[special] - Remove a die showing melee damage ([melee]) and give attached character 1 shield."
     },
     {
         "code": "01067",
@@ -379,9 +379,9 @@
     },
     {
         "code": "01070",
-        "flavor": "Los droides de batalla son menos efectivos que los soldados de carne y hueso, pero también son mucho más barato de reemplazar.",
-        "name": "Filas interminables",
-        "text": "Elige 1 de tus Personajes de color Rojo derrotados que no sea único y devuélvelo a la partida sin ningún punto de daño en él."
+        "flavor": "Battle droids are less effective than flesh and blood soldiers, but they are also much cheaper to replace.",
+        "name": "Endless Ranks",
+        "text": "Return one of your defeated non-unique Red characters to the game with no damage on it."
     },
     {
         "code": "01071",
@@ -442,7 +442,7 @@
     {
         "code": "01082",
         "flavor": "\"Let the hate flow through you.\" <cite>Emperor Palpatine</cite>",
-        "name": "Fello Your Anger",
+        "name": "Feel Your Anger",
         "text": "Count the number of blanks ([blank]) showing on an opponent's dice. Remove that many of their dice."
     },
     {
@@ -555,7 +555,7 @@
     {
         "code": "01104",
         "name": "Defensive Position",
-        "text": "Play only if you control the battlefield. Remove all of an opponent's dice showing a value of 2 or higher."
+        "text": "Play only if you control the battlefield.\nRemove all of an opponent's dice showing a value of 2 or higher."
     },
     {
         "code": "01105",
@@ -620,7 +620,7 @@
     {
         "code": "01117",
         "name": "Heroism",
-        "text": "Deal one of your unique characters damage equal to the value of an opponent's die showing damage. Then remove that die."
+        "text": "Deal one of your unique characters damage equal to the value of an opponent's die showing damage ([ranged] or [melee]). Then remove that die."
     },
     {
         "code": "01118",
@@ -650,7 +650,7 @@
     {
         "code": "01123",
         "name": "Jedi Council",
-        "text": "Action - Exhaust this support to look at the top 2 cards of a palyer's deck. Then you may discard one of those cards and have that player draw the other."
+        "text": "Action - Exhaust this support to look at the top 2 cards of a player's deck. Then you may discard one of those cards and have that player draw the other."
     },
     {
         "code": "01124",
@@ -665,13 +665,13 @@
     {
         "code": "01126",
         "name": "Daring Escape",
-        "text": "Ambush.\r\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank])."
+        "text": "Ambush.\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank])."
     },
     {
         "code": "01127",
-        "flavor": "\"¡Le he dado! ¡Le he dado!\" <cite>Luke Skywalker</cite>",
-        "name": "No te pongas nervioso",
-        "text": "Cada jugador roba 2 cartas."
+        "flavor": "\"I got one! I got one!\" <cite>Luke Skywalker</cite>",
+        "name": "Don't Get Cocky",
+        "text": "Each player draws 2 cards."
     },
     {
         "code": "01128",
@@ -771,8 +771,8 @@
     },
     {
         "code": "01147",
-        "name": "Truco mental",
-        "text": "Señala un Personaje de color Azul para obligar a un adversario a dividir su reserva de dados en 2 grupos de cualquier tamaño. Elige 1 de esos grupos y retira todos los dados que hay en él."
+        "name": "Mind Trick",
+        "text": "Spot a Blue character to force your opponent to split their dice pool into 2 groups of any size. Choose 1 group and remove all dice in it."
     },
     {
         "code": "01148",
@@ -781,9 +781,9 @@
     },
     {
         "code": "01149",
-        "flavor": "\"La Fuera te acompañará… siempre\"\\n <cite>Obi-Wan Kenobi",
-        "name": "Utilizar la Fuerza",
-        "text": "Señala un Personaje de color Azul para girar un dado a cualquier cara."
+        "flavor": "\"The Force will be with you, always.\" <cite>Obi-Wan Kenobi",
+        "name": "Use The Force",
+        "text": "Spot a Blue character to turn a die to any side."
     },
     {
         "code": "01150",
@@ -822,8 +822,8 @@
     },
     {
         "code": "01157",
-        "name": "Ponerse a cubierto",
-        "text": "Entrega 1 escudo a un Personaje."
+        "name": "Take Cover",
+        "text": "Give a character 1 shield."
     },
     {
         "code": "01158",
@@ -848,7 +848,7 @@
     {
         "code": "01162",
         "name": "Unpredictable",
-        "text": "Ambush.\r\nReroll a die (yours or an opponent's)."
+        "text": "Ambush.\nReroll a die (yours or an opponent's)."
     },
     {
         "code": "01163",
@@ -880,15 +880,15 @@
     },
     {
         "code": "01168",
-        "name": "Yermos helados",
-        "subtitle": "Base Starkiller",
-        "text": "<b>Reclamar</b> - Retira un dado de Personaje."
+        "name": "Frozen Wastes",
+        "subtitle": "Starkiller Base",
+        "text": "<b>Claim</b> - Remove one character die."
     },
     {
         "code": "01169",
-        "name": "Arsenal imperial",
-        "subtitle": "Estrella de la Muerte",
-        "text": "<b>Reclamar</b> - Juega una Mejora de tu mano, reduciendo en 1 su coste."
+        "name": "Imperial Armory",
+        "subtitle": "Death Star",
+        "text": "<b>Claim</b> - Play an upgrade from your hand, decreasing its cost by 1."
     },
     {
         "code": "01170",
@@ -916,8 +916,8 @@
     },
     {
         "code": "01174",
-        "name": "Cementerio de astronaves",
+        "name": "Starship Graveyard",
         "subtitle": "Jakku",
-        "text": "<b>Reclamar</b> - Elige un Apoyo o Mejora en tu pila de descarte y colócalo en la parte superior de tu mazo."
+        "text": "<b>Claim</b> - Choose a support or upgrade in your discard pile and place it on top of your deck."
     }
 ]
