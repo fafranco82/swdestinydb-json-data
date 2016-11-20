@@ -2525,7 +2525,7 @@
         "position": 123,
         "rarity_code": "U",
         "set_code": "AW",
-        "text": "Action - Exhaust this support to look at the top 2 cards of a palyer's deck. Then you may discard one of those cards and have that player draw the other.",
+        "text": "Action - Exhaust this support to look at the top 2 cards of a player's deck. Then you may discard one of those cards and have that player draw the other.",
         "type_code": "support"
     },
     {
