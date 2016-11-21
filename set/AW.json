@@ -1151,6 +1151,7 @@
             "1R",
             "-"
         ],
+        "subtitle": "Scoundrel",
         "text": "After you play a card with the Ambush keyword, you may give this character 1 shield.",
         "type_code": "character"
     },

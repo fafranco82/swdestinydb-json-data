@@ -1,0 +1,18 @@
+[
+    {
+        "code": "blue",
+        "name": "Force"
+    },
+    {
+        "code": "gray",
+        "name": "General"
+    },
+    {
+        "code": "red",
+        "name": "Command"
+    },
+    {
+        "code": "yellow",
+        "name": "Rogue"
+    }
+]
