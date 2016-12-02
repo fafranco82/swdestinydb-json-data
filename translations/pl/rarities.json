@@ -1,22 +1,22 @@
 [
     {
         "code": "C",
-        "name": "Common"
+        "name": "Powszechna"
     },
     {
         "code": "L",
-        "name": "Legendary"
+        "name": "Legendarna"
     },
     {
         "code": "R",
-        "name": "Rare"
+        "name": "Rzadka"
     },
     {
         "code": "S",
-        "name": "Starter"
+        "name": "Zestaw startowy"
     },
     {
         "code": "U",
-        "name": "Uncommon"
+        "name": "Cz\u0119sta"
     }
 ]
