@@ -1,924 +1,927 @@
 [
     {
-        "code": "01001",
-        "flavor": "\"Whatever you're planning, it won't work.\"",
-        "name": "Captain Phasma",
-        "subtitle": "Elite Trooper",
-        "text": "Your non-unique characters have the Guardian keyword."
-    },
-    {
-        "code": "01002",
-        "flavor": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
-        "name": "First Order Stormtrooper"
-    },
-    {
-        "code": "01003",
-        "name": "General Grievous",
-        "subtitle": "Jedi Hunter",
-        "text": "Before an opponent's character is defeated, you may move one of their non-<i>ability</i> upgrades to this character."
-    },
-    {
-        "code": "01004",
-        "flavor": "\"General, prepare your troops for a surface attack.\" <cite>Darth Vader</cite>",
-        "name": "General Veers",
-        "subtitle": "Field Commander",
-        "text": "<b>Action</b> - Remove this die to turn one of your support dice to any side."
-    },
-    {
-        "code": "01005",
-        "flavor": "The All Terrain Scout Transport filled both support and reconnaissance roles in the Galactic Empire's war machine.",
-        "name": "AT-ST",
-        "text": "[special] - Discard a support from play."
-    },
-    {
-        "code": "01006",
-        "name": "First Order TIE Fighter",
-        "text": "[special] - Remove all shield from all of an opponent's characters."
-    },
-    {
-        "code": "01007",
-        "name": "Commanding Presence",
-        "text": "Red character only.\n[special] - Choose a Red die. If it is your die, resolve it, increasing its value by 2. If it is an opponent's die, remove it."
-    },
-    {
-        "code": "01008",
-        "name": "F-11D Rifle",
-        "text": "Redeploy.\n[special] - Force an opponent to deal 2 damage to their characters, distributing the damage as they wish."
-    },
-    {
-        "code": "01009",
-        "name": "Count Dooku",
-        "subtitle": "Devious Strategist",
-        "text": "Before this character is dealt 1 or more damage, you may discard a card from your hand to give him 1 shield."
-    },
-    {
-        "code": "01010",
-        "flavor": "\"If you will not fight, then you will meet your destiny.\"",
-        "name": "Darth Vader",
-        "subtitle": "Sith Lord",
-        "text": "After you activate this character you may force an opponent to choose and discard a card from their hand."
-    },
-    {
-        "code": "01011",
-        "name": "Kylo Ren",
-        "subtitle": "Vader's Disciple",
-        "text": "[special] - Choose an opponent's character. Then look at a random card in that opponent's hand and deal damage to that character equal to the cost of the card you just looked at."
-    },
-    {
-        "code": "01012",
-        "flavor": "Nightsisters deftly manipulate the Force to serve their own ends.",
-        "name": "Nightsister",
-        "text": "<b>Action</b> - Remove a die. Deal 1 damage to this character."
-    },
-    {
-        "code": "01013",
-        "name": "Force Choke",
-        "text": "Blue character only.\n[special] - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side."
-    },
-    {
-        "code": "01014",
-        "name": "Immobilize",
-        "text": "Blue Character only.\n<b>Action</b> - Remove this die to turn a die to a side showing a blank ([blank])."
-    },
-    {
-        "code": "01015",
-        "name": "Kylo Ren's Lightsaber",
-        "text": "Blue character only.\n[special] - Deal 2 damage to a character. If any of this damage is blocked by shields, reroll this die instead of removing it from your pool."
-    },
-    {
-        "code": "01016",
-        "name": "Sith Holocron",
-        "text": "[special] - Switch this upgrade with a Blue <i>ability</i> upgrade in your hand, ignoring its play restrictions. Then you may spend 1 resource to roll its die into your pool, if able."
-    },
-    {
-        "code": "01017",
-        "name": "Infantry Grenades",
-        "text": "[special] - Deal 2 damage to each of an opponent's characters. Discard this upgrade from play."
-    },
-    {
-        "code": "01018",
-        "name": "Speeder Bike Scout",
-        "text": "[special] - Remove a die. You may take one additional action."
-    },
-    {
-        "code": "01019",
-        "name": "Bala-Tik",
-        "subtitle": "Gang Leader",
-        "text": "After an opponent's character is defeated, you may ready this character."
-    },
-    {
-        "code": "01020",
-        "flavor": "\"I shall enjoy watching you die.\"",
-        "name": "Jabba the Hutt",
-        "subtitle": "The Great and Mighty",
-        "text": "After you activate this character, you may reroll a Yellow die."
-    },
-    {
-        "code": "01021",
-        "flavor": "\"There can be no mistakes this time.\"",
-        "name": "Jango Fett",
-        "subtitle": "Lethal Mercenary",
-        "text": "After an opponent activates a character, you may activate this character."
-    },
-    {
-        "code": "01022",
-        "name": "Tusken Raider",
-        "text": "After you activate this character, you may discard a card from your hand to resolve one of its character or upgrade dice."
-    },
-    {
-        "code": "01023",
-        "name": "Crime Lord",
-        "text": "[special] - Spend 5 resources to choose a character. That character is defeated after this round ends."
-    },
-    {
-        "code": "01024",
-        "name": "Flame Thrower",
-        "text": "[special] - Deal 1 damage each to up to 3 different characters."
-    },
-    {
-        "code": "01025",
-        "name": "Gaffi Stick",
-        "text": "Redeploy.\n[special] - Remove one of your dice showing melee damage ([melee]) to deal 3 damage to a character."
-    },
-    {
-        "code": "01026",
-        "name": "On the Hunt",
-        "text": "[special] - Remove all shields from a character. You may spend 1 resource to remove one of its character or upgrade dice."
-    },
-    {
-        "code": "01027",
-        "name": "Admiral Ackbar",
-        "subtitle": "Perceptive Tactician",
-        "text": "After an opponent plays or discards the last card from their hand, they choose and deal 2 damage to one of their characters."
-    },
-    {
-        "code": "01028",
-        "flavor": "\"Someone has to save our skins.\"",
-        "name": "Leia Organa",
-        "subtitle": "Born Leader",
-        "text": "<b>Action</b> - Remove this die to reroll up to 2 of your dice."
-    },
-    {
-        "code": "01029",
-        "name": "Poe Dameron",
-        "subtitle": "Ace Pilot",
-        "text": "[special] - Discard a card from your hand to resolve one of the sides of its die, if able. Then, if it was a <b>vehicle</b> card, you may pay its cost to play it from your discard pile."
-    },
-    {
-        "code": "01030",
-        "name": "Rebel Trooper",
-        "text": "Guardian."
-    },
-    {
-        "code": "01031",
-        "name": "Launch Bay",
-        "text": "The X on this die is equal to the number of cards in your hand."
-    },
-    {
-        "code": "01032",
-        "flavor": "Poe Dameron's X-Wing was modified to be even more versatile than the standard T-70",
-        "name": "Black One",
-        "text": "[special] - Deal 1 damage to a character. Reroll this die instead of removing it from your pool."
-    },
-    {
-        "code": "01033",
-        "name": "Scout",
-        "text": "[special] - Look at an opponent's hand and discard the cheapest card from it (you choose in the case of a tie)."
-    },
-    {
-        "code": "01034",
-        "flavor": "To hide from the Empire, the rebels must often brave harsh environments.",
-        "name": "Survival Gear"
-    },
-    {
-        "code": "01035",
-        "flavor": "\"I am a Jedi, like my father before me.\"",
-        "name": "Luke Skywalker",
-        "subtitle": "Jedi Knight",
-        "text": "After you activate this character, draw a card."
-    },
-    {
-        "code": "01036",
-        "name": "Padawan",
-        "text": "While this character does not have an upgrade, the cost to attach a <i>weapon</i> to it is decreased by 1."
-    },
-    {
-        "code": "01037",
-        "flavor": "\"Your focus determines your reality.\"",
-        "name": "Qui-Gon Jinn",
-        "subtitle": "Ataru Master",
-        "text": "Before this character gains 1 or more shields, you may remove 1 of his shields to deal 1 damage to a character."
-    },
-    {
-        "code": "01038",
-        "flavor": "\"I think I can handle myself.\"",
-        "name": "Rey",
-        "subtitle": "Force Prodigy",
-        "text": "After you play an upgrade on this character, you may take one additional action."
-    },
-    {
-        "code": "01039",
-        "name": "Force Protection",
-        "text": "Blue character only.\n[special] - Give 3 shields to your characters, distributed as you wish."
-    },
-    {
-        "code": "01040",
-        "name": "Jedi Robes",
-        "text": "After you play this upgrade, give attached character 1 shield, or 2 shields instead in the first round of play."
-    },
-    {
-        "code": "01041",
-        "name": "Luke Skywalker's Lightsaber",
-        "text": "Blue character only.\n[special] - Give a character 2 shields or deal 2 unblockable damage to a character."
-    },
-    {
-        "code": "01042",
-        "name": "One with The Force",
-        "text": "Blue character only.\nBefore attached character is defeated, this upgrade becomes a support for the rest of the game (it starts ready)."
-    },
-    {
-        "code": "01043",
-        "flavor": "\"Orange and white: one of a kind.\" <cite>Poe Dameron</cite>",
-        "name": "BB-8",
-        "text": "[special] - Reroll this die and one of your other dice.  Do not remove this die from your pool after resolving this ability."
-    },
-    {
-        "code": "01044",
-        "name": "Rey's Staff",
-        "text": "[special] - Remove a die showing damage ([melee] or [ranged])"
-    },
-    {
-        "code": "01045",
-        "flavor": "\"I'm not going back.\"",
-        "name": "Finn",
-        "subtitle": "First Order Defector",
-        "text": "You can attach any <i>weapon</i> to this character, ignoring play restrictions.\nYou can include Red Villain <i>weapons</i> and <i>vehicles</i> in your deck."
-    },
-    {
-        "code": "01046",
-        "name": "Han Solo",
-        "subtitle": "Scoundrel",
-        "text": "After you play a card with the Ambush keyword, you may give this character 1 shield."
-    },
-    {
-        "code": "01047",
-        "flavor": "\"You needn't worry about your reward. If money is all that you love, then that's what you'll receive.\" <cite>Leia Organa</cite>",
-        "name": "Hired Gun"
-    },
-    {
-        "code": "01048",
-        "flavor": "\"My fate will be no different to that of our people.\"",
-        "name": "Padme Amidala",
-        "subtitle": "Queen of Naboo",
-        "text": "[special] - Discard the top card of an opponent's deck or spend 1 resource to discard the top 2 cards of an opponent's deck."
-    },
-    {
-        "code": "01049",
-        "flavor": "\"She may not look like much, but she's got it where it counts.\" <cite>Han Solo</cite>",
-        "name": "Millenium Falcon",
-        "text": "[special] - Play a Yellow event from your discard pile or hand for free."
-    },
-    {
-        "code": "01050",
-        "name": "Diplomatic Immunity",
-        "text": "The shields from this die can be given to any of your characters distributed as you wish."
-    },
-    {
-        "code": "01051",
-        "name": "DL-44 Heavy Blaster Pistol",
-        "text": "Ambush.\nAfter you play this upgrade, force an opponent to choose and remove one of their dice."
-    },
-    {
-        "code": "01052",
-        "name": "Infiltrate",
-        "text": "[special] - Reroll up to 2 of an opponent's dice."
-    },
-    {
-        "code": "01053",
-        "name": "Outpost",
-        "text": "[special] - Resolve the battlefield ability as if you had just claimed it."
-    },
-    {
-        "code": "01054",
-        "flavor": "The weapon of choice for rebel soldiers and imperial officers alike during the Galactic Civil War.",
-        "name": "DH-17 Blaster Pistol"
-    },
-    {
-        "code": "01055",
-        "name": "IQA-11 Blaster Rifle",
-        "text": "[special] - Deal 2 unblockable damage to a character."
-    },
-    {
-        "code": "01056",
-        "name": "Promotion",
-        "text": "Red character only.\nAfter you play this upgrade, you may draw a card."
-    },
-    {
-        "code": "01057",
-        "name": "Force Throw",
-        "text": "Blue Character Only.\n[special] - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeroes)."
-    },
-    {
-        "code": "01058",
-        "name": "Force Training",
-        "text": "To play, spot a Blue character.\n[special] - Choose and do two of the following: deal 1 damage to a character, or gain 1 resource, or give a character 1 shield."
-    },
-    {
-        "code": "01059",
-        "name": "Lightsaber",
-        "text": "Redeploy.\n[special] - Deal 2 unblockable damage to a character."
-    },
-    {
-        "code": "01060",
-        "name": "Mind Probe",
-        "text": "Blue Character only.\n[special] - Deal an opponent's character 1 damage for each card in that opponent's hand."
-    },
-    {
-        "code": "01061",
-        "name": "Comlink",
-        "text": "After you play this upgrade, you may reroll any number of your dice or any number of an opponent's dice."
-    },
-    {
-        "code": "01062",
-        "name": "Datapad",
-        "text": "[special] - Turn one of your dice to a side not showing damage ([ranged] or [melee])"
-    },
-    {
-        "code": "01063",
-        "name": "Holdout Blaster",
-        "text": "Ambush. Redeploy."
-    },
-    {
-        "code": "01064",
-        "name": "Black Market",
-        "text": "[special] - Draw 2 cards. You may play an upgrade from your hand, decreasing its cost by 1."
-    },
-    {
-        "code": "01065",
-        "name": "Cunning",
-        "text": "Yellow character only.\n[special] - Resolve a special ability ([special]) on another card in play as if it were your card."
-    },
-    {
-        "code": "01066",
-        "name": "Jetpack",
-        "text": "[special] - Remove a die showing melee damage ([melee]) and give attached character 1 shield."
-    },
-    {
-        "code": "01067",
-        "name": "Thermal Detonator",
-        "text": "To play, spot a Yellow character.\n[special] - Deal 3 damage to each of an opponent's characters. Discard this upgrade from play."
-    },
-    {
-        "code": "01068",
-        "name": "Cannon Fodder",
-        "text": "Deal one of your non-unique characters damage equal to the value of an opponent's die showing damage ([melee] or [ranged]). Then remove that die."
-    },
-    {
-        "code": "01069",
-        "name": "Closing the Net",
-        "text": "Force an opponent to choose and remove one of their dice. You may place this event on the bottom of your deck instead of discarding it."
-    },
-    {
-        "code": "01070",
-        "flavor": "Battle droids are less effective than flesh and blood soldiers, but they are also much cheaper to replace.",
-        "name": "Endless Ranks",
-        "text": "Return one of your defeated non-unique Red characters to the game with no damage on it."
-    },
-    {
-        "code": "01071",
-        "name": "Occupation",
-        "text": "Play only if you control the battlefield.\nForce an opponent to lose all of their resources."
-    },
-    {
-        "code": "01072",
-        "name": "Probe",
-        "text": "Look at two random cards from your opponent's hand. Discard any of these cards that are events."
-    },
-    {
-        "code": "01073",
-        "name": "Sweep the Area",
-        "text": "Count the number of ready Red characters you have. Reroll that many of an opponent's dice."
-    },
-    {
-        "code": "01074",
-        "name": "Tactical Mastery",
-        "text": "Spot a Red character to take up to 2 additional actions."
-    },
-    {
-        "code": "01075",
-        "flavor": "\"There they are! Blast them!\"",
-        "name": "The Best Defense...",
-        "text": "Deal one of your Red characters 3 damage to remove up to 2 of an opponent's dice."
-    },
-    {
-        "code": "01076",
-        "name": "Drudge Work",
-        "text": "<b>Action</b> - Exhaust this support and one of your characters to gain 1 resource."
-    },
-    {
-        "code": "01077",
-        "name": "Local Garrison",
-        "text": "Each opponent gains 1 fewer resource during each upkeep phase to a minimum of 1."
-    },
-    {
-        "code": "01078",
-        "name": "Personal Escort",
-        "text": "Attached character has the Guardian keyword."
-    },
-    {
-        "code": "01079",
-        "name": "Abandon All Hope",
-        "text": "Force an opponent to choose to either lose all of their resources or discard all cards in their hand."
-    },
-    {
-        "code": "01080",
-        "name": "Boundless Ambition",
-        "text": "Draw cards up to your hand size."
-    },
-    {
-        "code": "01081",
-        "name": "Enrage",
-        "text": "Deal 1 damage to one of your Blue characters to gain 1 resource."
-    },
-    {
-        "code": "01082",
-        "flavor": "\"Let the hate flow through you.\" <cite>Emperor Palpatine</cite>",
-        "name": "Feel Your Anger",
-        "text": "Count the number of blanks ([blank]) showing on an opponent's dice. Remove that many of their dice."
-    },
-    {
-        "code": "01083",
-        "name": "Force Strike",
-        "text": "Turn one of your blue dice to the side showing melee damage ([melee]), then you may resolve it immediately."
-    },
-    {
-        "code": "01084",
-        "name": "Intimidate",
-        "text": "Remove all shields from a character."
-    },
-    {
-        "code": "01085",
-        "name": "Isolation",
-        "text": "Spot a Blue character to remove a character die."
-    },
-    {
-        "code": "01086",
-        "name": "No Mercy",
-        "text": "Discard any number of Blue cards from your hand. Then resolve one of your dice showing damage ([melee] or [ranged]), increasing its value by 1 for each card you just discarded."
-    },
-    {
-        "code": "01087",
-        "name": "Pulling the Strings",
-        "text": "Look at the top 3 cards of any deck. Then place those cards on the top and/or bottom of that deck in any order."
-    },
-    {
-        "code": "01088",
-        "name": "Emperor's Favor",
-        "text": "Your hand size is increased by 1."
-    },
-    {
-        "code": "01089",
-        "flavor": "\"If you only knew the power of the dark side.\" <cite>Darth Vader</cite>",
-        "name": "Power of the Dark Side",
-        "text": "<b>Action</b> - Exaust this support to reroll one of your dice.  If that die rolls a blank ([blank]), deal 2 unblockable damage to a character."
-    },
-    {
-        "code": "01090",
-        "name": "Hidden In Shadow",
-        "text": "<b>Action</b> - If the character this card is attached to does not have any shields, you can exhaust this card to place one shield on that character."
-    },
-    {
-        "code": "01091",
-        "name": "Nowhere to Run",
-        "text": "Turn each of your dice showing a blank to any side."
-    },
-    {
-        "code": "01092",
-        "name": "Ace in the Hole",
-        "text": "Discard a Yellow upgrade from your hand to roll its die into your pool, if able. Set aside that die after it is resolved or removed."
-    },
-    {
-        "code": "01093",
-        "name": "Armed to the Teeth",
-        "text": "Discard any number of upgrades from one of your Yellow characters. Then deal damage to a character equal to the number of upgrades you just discarded."
-    },
-    {
-        "code": "01094",
-        "name": "Confiscation",
-        "text": "Spend resources equal to the cost of an opponent's upgrade in play to return that upgrade to their hand."
-    },
-    {
-        "code": "01095",
-        "name": "Fight Dirty",
-        "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed."
-    },
-    {
-        "code": "01096",
-        "name": "Go for the Kill",
-        "text": "Resolve one of your dice showing ranged damage ([ranged]), treating this damage as unblockable."
-    },
-    {
-        "code": "01097",
-        "flavor": "\"I don't like you, either.\"",
-        "name": "He Doesn't Like You",
-        "text": "Remove one of your dice to remove an opponent's die."
-    },
-    {
-        "code": "01098",
-        "name": "Lying in Wait",
-        "text": "Force an opponent to discard cards from their hand, until they hold the same amount of cards as you do."
-    },
-    {
-        "code": "01099",
-        "name": "Backup Muscle",
-        "text": "When you play this card place three single damage tokens on it.\n<b>Action</b> - Exhaust this card to move one damage token from it to an opponent's character of your choice."
-    },
-    {
-        "code": "01100",
-        "name": "My Kind of Scum",
-        "text": "After you resolve a die showing disrupt ([disrupt]), you may exhaust this support to gain resources equal to the number of resources your opponent just lost."
-    },
-    {
-        "code": "01101",
-        "name": "Underworld Connections",
-        "text": "<b>Action</b> - Exhaust this support to gain 1 resource"
-    },
-    {
-        "code": "01102",
-        "name": "Prized Possession",
-        "text": "After you play this upgrade, you may remove an opponent's character die and place it here. It is not rolled by any character and does not return to its character unless this upgrade leaves play."
-    },
-    {
-        "code": "01103",
-        "name": "Commando Raid",
-        "text": "Resolve one of your Red dice showing discard ([discard]), increasing its value by 2. Then draw a card."
-    },
-    {
-        "code": "01104",
-        "name": "Defensive Position",
-        "text": "Play only if you control the battlefield.\nRemove all of an opponent's dice showing a value of 2 or higher."
-    },
-    {
-        "code": "01105",
-        "name": "Field Medic",
-        "text": "Remove 2 damage from a character."
-    },
-    {
-        "code": "01106",
-        "name": "Hit and Run",
-        "text": "Ambush.\nActivate one of your Red characters."
-    },
-    {
-        "code": "01107",
-        "name": "It's a Trap!",
-        "text": "Ambush.\nChoose a symbol showing on an opponent's die. Then turn any number of your Red dice to sides showing that symbol."
-    },
-    {
-        "code": "01108",
-        "name": "Natural Talent",
-        "text": "Resolve one of your dice, increasing its value by 1."
-    },
-    {
-        "code": "01109",
-        "name": "Rearm",
-        "text": "Play a Red upgrade from your discard pile, decreasing its cost by 1."
-    },
-    {
-        "code": "01110",
-        "name": "Retreat",
-        "text": "Your opponent may take 1 action. Then end the action phase."
-    },
-    {
-        "code": "01111",
-        "name": "Strategic Planning",
-        "text": "Ready or exhaust a support."
-    },
-    {
-        "code": "01112",
-        "name": "Surgical Strike",
-        "text": "Remove any number of your Red dice showing ranged damage ([ranged]), increasing each of their values by 1, to discard a support from play that costs equal to or less than the combined value of those dice."
-    },
-    {
-        "code": "01113",
-        "name": "Resistance HQ",
-        "text": "<b>Action</b> - Exhaust this support and discard a card from your hand to give a character 1 shield. Then ready this support unless an opponent spends 1 resource."
-    },
-    {
-        "code": "01114",
-        "name": "Anticipate",
-        "text": "Force an opponent to choose and resolve any number of their dice in the order of their choice. Then remove all of their dice they did not resolve."
-    },
-    {
-        "code": "01115",
-        "name": "Defensive Stance",
-        "text": "Give a character 2 shields."
-    },
-    {
-        "code": "01116",
-        "name": "Force Misdirection",
-        "text": "Choose a symbol showing on one of your Blue dice. Then remove all of an opponent's dice showing that symbol."
-    },
-    {
-        "code": "01117",
-        "name": "Heroism",
-        "text": "Deal one of your unique characters damage equal to the value of an opponent's die showing damage ([ranged] or [melee]). Then remove that die."
-    },
-    {
-        "code": "01118",
-        "name": "Noble Sacrifice",
-        "text": "Defeat one of your Blue characters to exhaust a character."
-    },
-    {
-        "code": "01119",
-        "name": "Patience",
-        "text": "Remove any number of your dice. Then discard cards from the top of an opponent's deck equal to the number of dice you just removed."
-    },
-    {
-        "code": "01120",
-        "name": "Return of the Jedi",
-        "text": "Add a blue event from your discard pile to your hand."
-    },
-    {
-        "code": "01121",
-        "name": "Riposte",
-        "text": "Remove any number of shields from one of your characters. Then deal damage to a character equal to the number of shields you just removed."
-    },
-    {
-        "code": "01122",
-        "name": "Willpower",
-        "text": "Move 1 damage from one of your exhausted characters to an opponent's exhausted character (this ignores shields)."
-    },
-    {
-        "code": "01123",
-        "name": "Jedi Council",
-        "text": "Action - Exhaust this support to look at the top 2 cards of a player's deck. Then you may discard one of those cards and have that player draw the other."
-    },
-    {
-        "code": "01124",
-        "name": "Awakening",
-        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing a modified side <em>(a side with a +)</em> as if it was not modified <em>(did not have the +).</em>"
-    },
-    {
-        "code": "01125",
-        "name": "The Force is Strong",
-        "text": "<b>Action</b> - Exhaust this support and discard a Blue card from your hand to play another copy of that card from your hand for free.</em>"
-    },
-    {
-        "code": "01126",
-        "name": "Daring Escape",
-        "text": "Ambush.\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank])."
-    },
-    {
-        "code": "01127",
-        "flavor": "\"I got one! I got one!\" <cite>Luke Skywalker</cite>",
-        "name": "Don't Get Cocky",
-        "text": "Each player draws 2 cards."
-    },
-    {
-        "code": "01128",
-        "name": "Draw Attention",
-        "text": "Move up to 2 damage from one of your characters to another one of your characters (this ignores shields)."
-    },
-    {
-        "code": "01129",
-        "name": "Hyperspace Jump",
-        "text": "End the action phase. You may switch the battlefield with the battlefield that is not being used."
-    },
-    {
-        "code": "01130",
-        "name": "Let The Wookie Win",
-        "text": "Force an opponent to choose to either deal one of their exausted characters 2 damage or choose and remove 2 of their dice."
-    },
-    {
-        "code": "01131",
-        "name": "Negotiate",
-        "text": "Remove one of your character dice to force an opponent to choose and remove 2 of their dice."
-    },
-    {
-        "code": "01132",
-        "name": "Scavenge",
-        "text": "Discard the top 3 cards of your deck. Then you may add an upgrade or support from your discard pile to your hand."
-    },
-    {
-        "code": "01133",
-        "name": "Shoot First",
-        "text": "Ambush.\nResolve one of your Yellow dice showing ranged damage ([ranged]). Then remove an opponent's die showing ranged damage ([ranged])."
-    },
-    {
-        "code": "01134",
-        "name": "Smuggling",
-        "text": "Spot a Yellow character and discard a card from your hand to gain 1 resource."
-    },
-    {
-        "code": "01135",
-        "name": "Play the Odds",
-        "text": "<b>Action</b> - Exhaust this support to reroll one of your Yellow dice. If it rolls a resource ([resource]), gain 1 resource."
-    },
-    {
-        "code": "01136",
-        "name": "Street Informants",
-        "text": "Ambush.\n<b>Action</b> - Exhaust this support to look at an opponent's hand."
-    },
-    {
-        "code": "01137",
-        "name": "Second Chance",
-        "text": "Yellow character only.\nBefore attached character would be defeated, instead heal 5 damage from it and discard this upgrade from play."
-    },
-    {
-        "code": "01138",
-        "name": "Award Ceremony",
-        "text": "Spot a Red character to draw cards equal to the number of exhausted characters you have."
-    },
-    {
-        "code": "01139",
-        "name": "Dug in",
-        "text": "Play only if you control the battlefield.\nGive 3 shields to your characters, distributed as you wish."
-    },
-    {
-        "code": "01140",
-        "name": "Firepower",
-        "text": "Resolve one of your Red dice showing ranged damage ([ranged]), increasing its value by 1, or by 2 instead if you are resolving a <i>vehicle</i> die."
-    },
-    {
-        "code": "01141",
-        "name": "Leadership",
-        "text": "Exhaust one of your unique Red characters to ready another character."
-    },
-    {
-        "code": "01142",
-        "name": "Logistics",
-        "text": "Spot a red character to resolve a die with the resource symbol ([resource]), increasing its value by 1."
-    },
-    {
-        "code": "01143",
-        "name": "Squad Tactics",
-        "text": "Activate any number of your non-unique characters at once."
-    },
-    {
-        "code": "01144",
-        "name": "Supporting Fire",
-        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing ranged damage ([ranged]), increasing its value by 1."
-    },
-    {
-        "code": "01145",
-        "name": "Deflect",
-        "text": "Spot a Blue character to remove a die showing ranged damage ([ranged]) and deal half of that damage, rounded up, to a character."
-    },
-    {
-        "code": "01146",
-        "flavor": "\"I fear something terrible has happened, as if millions of voices suddenly cried out and were silenced.\" <cite>Obi-Wan Kenobi</cite>",
-        "name": "Disturbance in the Force",
-        "text": "Reroll all dice."
-    },
-    {
-        "code": "01147",
-        "name": "Mind Trick",
-        "text": "Spot a Blue character to force your opponent to split their dice pool into 2 groups of any size. Choose 1 group and remove all dice in it."
-    },
-    {
-        "code": "01148",
-        "name": "The Power of the Force",
-        "text": "Resolve one of your dice, treating its value as equal to the number of Blue upgrades you have in play."
-    },
-    {
-        "code": "01149",
-        "flavor": "\"The Force will be with you, always.\" <cite>Obi-Wan Kenobi",
-        "name": "Use The Force",
-        "text": "Spot a Blue character to turn a die to any side."
-    },
-    {
-        "code": "01150",
-        "name": "It Binds All Things",
-        "text": "Before you play a Blue upgrade, you may exhaust this support to decrease its cost by 1."
-    },
-    {
-        "code": "01151",
-        "name": "Aim",
-        "text": "Turn one of your dice to a shide showing ranged damage."
-    },
-    {
-        "code": "01152",
-        "name": "All In",
-        "text": "Resolve any number of your dice in the order of your choice."
-    },
-    {
-        "code": "01153",
-        "name": "Block",
-        "text": "Remove all of an opponent's dice showing melee damage."
-    },
-    {
-        "code": "01154",
-        "name": "Close Quarters Assault",
-        "text": "Count the number of dice you have showing mele damage. Discard that many random cards from an opponent's hand."
-    },
-    {
-        "code": "01155",
-        "name": "Dodge",
-        "text": "Remove all of an opponent's dice showing ranged damage ([ranged])"
-    },
-    {
-        "code": "01156",
-        "name": "Flank",
-        "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice."
-    },
-    {
-        "code": "01157",
-        "name": "Take Cover",
-        "text": "Give a character 1 shield."
-    },
-    {
-        "code": "01158",
-        "name": "Disarm",
-        "text": "Remove one of your dice showing damage ([melee] or [ranged]) to discard a <i>weapon</i> or <i>equipment</i> from play that costs equal to or less than the value of that die."
-    },
-    {
-        "code": "01159",
-        "name": "Electroshock",
-        "text": "Spot a Yellow character to remove a die showing a value of 2 or lower."
-    },
-    {
-        "code": "01160",
-        "name": "Reversal",
-        "text": "Spot a Yellow character to remove a die showing damage ([melee] or [ranged]) and deal that damage to a character."
-    },
-    {
-        "code": "01161",
-        "name": "Scramble",
-        "text": "Spot a Yellow character to reroll all of an opponent's dice."
-    },
-    {
-        "code": "01162",
-        "name": "Unpredictable",
-        "text": "Ambush.\nReroll a die (yours or an opponent's)."
-    },
-    {
-        "code": "01163",
-        "name": "Infamous",
-        "text": "Before you play a Yellow card, you may exhaust this support to give it the Ambush keyword."
-    },
-    {
-        "code": "01164",
-        "name": "Hunker Down",
-        "text": "If attached character takes melee damage ([melee]), discard this upgrade.\n<b>Action</b> - Exhaust this upgrade to give attached character 1 shield."
-    },
-    {
-        "code": "01165",
-        "name": "Command Center",
-        "subtitle": "Lothal",
-        "text": "<b>Claim</b> - Each opponent discards the top 2 cards of their"
-    },
-    {
-        "code": "01166",
-        "name": "Echo Base",
-        "subtitle": "Hoth",
-        "text": "<b>Claim</b> - Give a character 1 shield."
-    },
-    {
-        "code": "01167",
-        "name": "Emperor's Throne Room",
-        "subtitle": "Death Star II",
-        "text": "<b>Claim</b> - Turn one of your dice to a side showing a special ability ([special]). Then you may resolve that die."
-    },
-    {
-        "code": "01168",
-        "name": "Frozen Wastes",
-        "subtitle": "Starkiller Base",
-        "text": "<b>Claim</b> - Remove one character die."
-    },
-    {
-        "code": "01169",
-        "name": "Imperial Armory",
-        "subtitle": "Death Star",
-        "text": "<b>Claim</b> - Play an upgrade from your hand, decreasing its cost by 1."
-    },
-    {
-        "code": "01170",
-        "name": "Jedi Temple",
-        "subtitle": "Coruscant",
-        "text": "<b>Claim</b> - Look at an opponent's hand and discard up to 2 events of your choice from it."
-    },
-    {
-        "code": "01171",
-        "name": "Rebel War Room",
-        "subtitle": "Yavin IV",
-        "text": "<b>Claim</b> - Resolve one of your dice. If it has a resource cost, you do not have to pay it."
-    },
-    {
-        "code": "01172",
-        "name": "Mos Eisley Spaceport",
-        "subtitle": "Tatooine",
-        "text": "<b>Claim</b> - Return one of your upgrades in play to your hand to gain 1 resource."
-    },
-    {
-        "code": "01173",
-        "name": "Separatist Base",
-        "subtitle": "Mustafar",
-        "text": "<b>Claim</b> - Each opponent chooses and deals 1 unblockable damage to one of their characters."
-    },
-    {
-        "code": "01174",
-        "name": "Starship Graveyard",
-        "subtitle": "Jakku",
-        "text": "<b>Claim</b> - Choose a support or upgrade in your discard pile and place it on top of your deck."
+        "code": "01001", 
+        "flavor": "\"Cokolwiek planujecie, to si\u0119 nie uda.\"", 
+        "name": "Kapitan Phasma", 
+        "subtitle": "Elitarny \u017co\u0142nierz", 
+        "text": "Twoje nie-unikatowe postacie posiadaj\u0105 s\u0142owo kluczowe Stra\u017cnik."
+    }, 
+    {
+        "code": "01002", 
+        "flavor": "<i>Cz\u0142onkowie tej najnowszej generacji szturmowc\u00f3w s\u0105 od ma\u0142ego szkoleni i bezustannie karmieni propagand\u0105 Najwy\u017cszego Porz\u0105dku. Gwarantuje to, \u017ce b\u0119d\u0105 \u015blepo pos\u0142uszni.</i>", 
+        "name": "Szturmowiec Najwy\u017cszego Porz\u0105dku"
+    }, 
+    {
+        "code": "01003", 
+        "name": "Genera\u0142 Grievous", 
+        "subtitle": "\u0141owca Jedi", 
+        "text": "Przed tym, jak posta\u0107 dowolnego przeciwnika zostanie pokonana, mo\u017cesz poruszy\u0107 na t\u0119 posta\u0107 jedno z jej ulepsze\u0144 nie-<b>zdolno\u015bci</b>."
+    }, 
+    {
+        "code": "01004", 
+        "flavor": "\"Generale, przygotuj wojska do ataku naziemnego.\" <cite>Darth Vader</cite>", 
+        "name": "Genera\u0142 Veers", 
+        "subtitle": "Dow\u00f3dca polowy", 
+        "text": "<b>Akcja</b> - Usu\u0144 t\u0119 ko\u015b\u0107, aby obr\u00f3ci\u0107 jedn\u0105 z twoich ko\u015bci wsparcia na dowoln\u0105 \u015bcank\u0119."
+    }, 
+    {
+        "code": "01005", 
+        "flavor": "<i>Uniwersalne maszyny krocz\u0105ce AT-ST pe\u0142ni\u0142y w machinie wojennej Imperium Galaktycznego rol\u0119 zar\u00f3wno pojazd\u00f3w wsparcia, jak i zwiadu.</i>", 
+        "name": "AT-ST", 
+        "text": "[special] - Odrzu\u0107 z gry dowolne wsparcie."
+    }, 
+    {
+        "code": "01006", 
+        "name": "My\u015bliwiec Tie Najwy\u017cszego Porz\u0105dku", 
+        "text": "[special] - Usu\u0144 wszystkie \u017cetony os\u0142on ze wszystkich postaci dowolnego przeciwnika."
+    }, 
+    {
+        "code": "01007", 
+        "name": "Onie\u015bmielaj\u0105ca obecno\u015b\u0107", 
+        "text": "Tylko czerwona posta\u0107.\n[special] - Wybierz czerwon\u0105 ko\u015b\u0107. Je\u015bli to twoja ko\u015b\u0107, rozpatrz j\u0105,zwi\u0119kszaj\u0105c jej warto\u015b\u0107 o 2. Je\u015bli to ko\u015b\u0107 przeciwnika, usu\u0144 j\u0105."
+    }, 
+    {
+        "code": "01008", 
+        "name": "Karabin F-11D", 
+        "text": "Przepisanie.\n[special] - Zmu\u015b dowolnego przeciwnika, aby zada\u0142 2 obra\u017cenia swoim postaciom (sam decyduje, jak je rozdzieli)."
+    }, 
+    {
+        "code": "01009", 
+        "name": "Hrabia Dooku", 
+        "subtitle": "Przebieg\u0142y strateg", 
+        "text": "Przed tym, jak ta posta\u0107 otrzyma 1 lub wi\u0119cej obra\u017ce\u0144, mo\u017cesz odrzuci\u0107 kart\u0119 z twojej r\u0119ki, aby da\u0107 jej 1 \u017ceton os\u0142ony."
+    }, 
+    {
+        "code": "01010", 
+        "flavor": "<i>Skoro nie chcesz walczy\u0107, spotkasz swoje/n przeznaczenie</i>", 
+        "name": "Darth Vader", 
+        "subtitle": "Lord Sith\u00f3w", 
+        "text": "Po tym, jak aktywujesz t\u0105 posta\u0107,\n mo\u017cesz zmusi\u0107 dowolnego\n przeciwnika, aby wybra\u0142 i odrzuci\u0142\n kart\u0119 ze swojej r\u0119ki"
+    }, 
+    {
+        "code": "01011", 
+        "name": "Kylo Ren", 
+        "subtitle": "Spadkobierca Vadera", 
+        "text": "[special] - Wybierz posta\u0107\u00a0dowolnego przeciwnika. Nast\u0119pnie podejrzyj losow\u0105 kart\u0119 z r\u0119ki danego przeciwnika i zadaj wybranej postaci obra\u017cenia w liczbie r\u00f3wnej kosztowi w\u0142a\u015bnie podejrzanej karty."
+    }, 
+    {
+        "code": "01012", 
+        "flavor": "<i>Siostry Nocy bryluj\u0105 w wykorzystywaniu Mocy dla w\u0142asnych cel\u00f3w.</i>", 
+        "name": "Siostra Nocy", 
+        "text": "<b>Akcja</b> - Przerzu\u0107 dowoln\u0105 ko\u015b\u0107.\nZadaj 1 obra\u017cenie tej postaci."
+    }, 
+    {
+        "code": "01013", 
+        "name": "Duszenie moc\u0105", 
+        "text": "Tylko niebieska posta\u0107.\n[special] - Zadaj 1 nieblokowane obra\u017cenie innej postaci. Nast\u0119pnie mo\u017cesz obr\u00f3ci\u0107 na dowoln\u0105 stron\u0119 jedn\u0105 z ko\u015bci postaci lub ulepsze\u0144 danej postaci."
+    }, 
+    {
+        "code": "01014", 
+        "name": "Unieruchomienie", 
+        "text": "Tylko niebieska posta\u0107.\n<b>Akcja</b> - Usu\u0144 t\u0119 ko\u015b\u0107, aby obr\u00f3ci\u0107 dowoln\u0105 ko\u015b\u0107 na pust\u0105 \u015bciank\u0119 ([blank])."
+    }, 
+    {
+        "code": "01015", 
+        "name": "Miecz \u015bwietlny Kylo Rena", 
+        "text": "Tylko niebieska posta\u0107.\n[special] - Zadaj 2 obra\u017cenia dowolnej postaci. Je\u015bli kt\u00f3rekolwiek z tych obra\u017ce\u0144 zostanie zablokowane przez os\u0142on\u0119, przerzu\u0107 t\u0119 ko\u015b\u0107, zamiast usuwa\u0107 j\u0105 z twojej puli."
+    }, 
+    {
+        "code": "01016", 
+        "name": "Holokron Sith\u00f3w", 
+        "text": "[special] - Zamie\u0144 to ulepszenie na niebieskie\nulepszenie <b>zdolno\u015b\u0107</b> z twojej r\u0119ki, ignoruj\u0105c jego ograniczenie zagrania. Nast\u0119pnie mo\u017cesz wyda\u0107 1 \u017ceton zasobu, aby rzuci\u0107 jego ko\u015bci\u0105 do twojej puli, jesli to mo\u017cliwe."
+    }, 
+    {
+        "code": "01017", 
+        "name": "Granaty przeciwpiechotne", 
+        "text": "[special] - Zadaj po 2 obra\u017cenia ka\u017cdej postaci dowolnego przeciwnika.\nOdrzu\u0107 to ulepszenie z gry."
+    }, 
+    {
+        "code": "01018", 
+        "name": "Zwiadowca na skuterze", 
+        "text": "[special] - Usu\u0144 dowoln\u0105 ko\u015b\u0107. Mo\u017cesz wykona\u0107 jedn\u0105 dodatkow\u0105 akcj\u0119."
+    }, 
+    {
+        "code": "01019", 
+        "name": "Bala-Tik", 
+        "subtitle": "Herszt Gangu", 
+        "text": "Po tym, jak posta\u0107 dowolnego przeciwnika zostanie pokonana, mo\u017cesz przygotowa\u0107 t\u0119 posta\u0107."
+    }, 
+    {
+        "code": "01020", 
+        "flavor": "\"Ch\u0119tnie popatrz\u0119, jak umierasz.\"", 
+        "name": "Hutt Jabba", 
+        "subtitle": "Wielki i pot\u0119\u017cny", 
+        "text": "Po tym, jak aktywujesz t\u0119 posta\u0107, mo\u017cesz przerzuci\u0107 dowoln\u0105 \u017c\u00f3\u0142t\u0105 ko\u015b\u0107."
+    }, 
+    {
+        "code": "01021", 
+        "flavor": "\"Tym razem nie mo\u017cesz si\u0119 pomyli\u0107.\"", 
+        "name": "Jango Fett", 
+        "subtitle": "\u015amiertelnie gro\u017any najemnik", 
+        "text": "Po tym, jak dowolny przeciwnik aktywuje posta\u0107, mo\u017cesz aktywowa\u0107 t\u0119 posta\u0107."
+    }, 
+    {
+        "code": "01022", 
+        "name": "Cz\u0142owiek pustyni", 
+        "text": "Po tym, jak aktywujesz t\u0119 posta\u0107, mo\u017cesz odrzuci\u0107 dowoln\u0105 kart\u0119 z twojej r\u0119ki, aby rozpatrzy\u0107 jedn\u0105 z jej ko\u015bci postaci lub ulepszenia."
+    }, 
+    {
+        "code": "01023", 
+        "name": "Szef gangster\u00f3w", 
+        "text": "Tylko \u017c\u00f3lta posta\u0107.\n[special] - Wydaj 5 \u017ceton\u00f3w zasob\u00f3w, aby wybra\u0107 dowoln\u0105 posta\u0107. Wybrana posta\u0107 zostaje pokonana po zako\u0144czeniu aktualnej rundy."
+    }, 
+    {
+        "code": "01024", 
+        "name": "Miotacz ognia", 
+        "text": "[special] - Zadaj po 1 obra\u017ceniu maksymalnie 3 r\u00f3\u017cnym postaciom."
+    }, 
+    {
+        "code": "01025", 
+        "name": "Kij Gaffi", 
+        "text": "Przepisanie.\n[special] - Usu\u0144 jedn\u0105 z twoich ko\u015bci przedstawiaj\u0105cych obra\u017cenia wr\u0119cz ([melee]), aby zada\u0107 3 obra\u017cenia dowolnej postaci."
+    }, 
+    {
+        "code": "01026", 
+        "name": "\u0141owy", 
+        "text": "[special] - Usu\u0144 wszystkie \u017cetony os\u0142on z dowolnej postaci. Mo\u017cesz wyda\u0107 1 \u017ceton zasobu, aby usun\u0105\u0107 jedn\u0105 z ko\u015bci postaci lub ulepszenia danej posta\u0107i."
+    }, 
+    {
+        "code": "01027", 
+        "name": "Admira\u0142 Ackbar", 
+        "subtitle": "Bieg\u0142y taktyk", 
+        "text": "Po tym, jak dowolny przeciwnik zagra lub odrzuci ostatni\u0105 kart\u0119 ze swojej r\u0119ki, musi wybra\u0107 jedn\u0105 ze swoich postaci i zada\u0107 jej 2 obra\u017cenia."
+    }, 
+    {
+        "code": "01028", 
+        "flavor": "\"Kto\u015b musi nas ratowa\u0107.\"", 
+        "name": "Leia Organa", 
+        "subtitle": "Urodzona przyw\u00f3dczyni", 
+        "text": "<b>Akcja</b> - Usu\u0144 t\u0119 ko\u015b\u0107, aby przerzuci\u0107 maksymalnie 2 z twoich ko\u015bci."
+    }, 
+    {
+        "code": "01029", 
+        "name": "Poe Dameron", 
+        "subtitle": "As Przestworzy", 
+        "text": "[special] - Odrzu\u0107 kart\u0119 z twojej r\u0119ki, aby rozpatrzy\u0107 jedn\u0105 ze \u015bcianek jej ko\u015bci, je\u015bli to mo\u017cliwe. Nast\u0119pnie, je\u015bli odrzucon\u0105 kart\u0105 by\u0142  <b>pojazd</b>, mo\u017cesz zap\u0142aci\u0107 jego koszt, aby zagra\u0107 go z twojego stosu kart odrzuconych."
+    }, 
+    {
+        "code": "01030", 
+        "name": "Rebeliancki \u017bo\u0142nierz", 
+        "text": "Stra\u017cnik."
+    }, 
+    {
+        "code": "01031", 
+        "name": "Hangar lotniczy", 
+        "text": "X na tej ko\u015bci jest r\u00f3wny liczbie kart na twojej r\u0119ce."
+    }, 
+    {
+        "code": "01032", 
+        "flavor": "<i>X-Wing Poego Damerona zosta\u0142 zmodyfikowany, dzi\u0119ki czemu by\u0142 jeszcze zwrotniejszy ni\u017c standardowe T-70.</i>", 
+        "name": "Czarny", 
+        "text": "[special] - Zadaj 1 obra\u017cenie dowolnej postaci. Przerzu\u0107 t\u0119 ko\u015b\u0107, zamiast usuwa\u0107 j\u0105 z puli."
+    }, 
+    {
+        "code": "01033", 
+        "name": "Zwiadowca ", 
+        "text": "[special] - Podejrzyj karty na r\u0119ce dowolnego przeciwnika i odrzu\u0107 najta\u0144sz\u0105 z nich <i>(w przypadku remisu ty wybierasz).</i>"
+    }, 
+    {
+        "code": "01034", 
+        "flavor": "\"Aby ukry\u0107 si\u0119 przed Imperium, rebelianci cz\u0119sto s\u0105 zmuszeni znosi\u0107 ekstremalne warunki.\"", 
+        "name": "Zestaw przetrwania"
+    }, 
+    {
+        "code": "01035", 
+        "flavor": "\"Jestem Jedi, jak kiedy\u015b m\u00f3j ojciec.\"", 
+        "name": "Luke Skywalker", 
+        "subtitle": "Rycerz Jedi", 
+        "text": "Po tym, jak aktywujesz t\u0119 posta\u0107, dobierz kart\u0119."
+    }, 
+    {
+        "code": "01036", 
+        "name": "Padawan", 
+        "text": "Dop\u00f3ki ta posta\u0107 nie posiada \u017cadnego ulepszenia, koszt do\u0142\u0105czenia do niej <b>broni</b> jest zmniejszony o 1."
+    }, 
+    {
+        "code": "01037", 
+        "flavor": "\"Twoje skupienie okre\u015bla twoj\u0105 rzeczywisto\u015b\u0107.\"", 
+        "name": "Qui-Gon Jinn", 
+        "subtitle": "Mistrz Ataru", 
+        "text": "Przed tym, jak ta posta\u0107 zyska 1 lub wi\u0119cej \u017ceton\u00f3w os\u0142on, mo\u017cesz usun\u0105\u0107 z niej 1 z jej \u017ceton\u00f3w os\u0142on, aby zada\u0107 1 obra\u017cenie dowolnej postaci."
+    }, 
+    {
+        "code": "01038", 
+        "flavor": "\"Wiem, co robi\u0119\"", 
+        "name": "Rey", 
+        "subtitle": "Dziecko Mocy", 
+        "text": "Po tym, jak zagrasz na t\u0119 posta\u0107 dowolne ulepszenie, mo\u017cesz wykona\u0107 jedn\u0105 dodatkow\u0105 akcj\u0119."
+    }, 
+    {
+        "code": "01039", 
+        "name": "Ochrona mocy", 
+        "text": "Tylko niebieska posta\u0107.\n[special] - Daj 3 \u017cetony os\u0142ony twoim postaciom (sam decydujesz, jak je rozdzieli\u0107)."
+    }, 
+    {
+        "code": "01040", 
+        "name": "Szaty Jedi", 
+        "text": "Po tym, jak zagrasz to ulepszenie, daj postaci, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119, 1 \u017ceton os\u0142ony lub zamiast tego 2 \u017cetony os\u0142on, je\u015bli jest to pierwsza runda gry."
+    }, 
+    {
+        "code": "01041", 
+        "name": "Miecz \u015bwietlny Luke'a Skywalkera", 
+        "text": "Tylko niebieska posta\u0107.\n[special] - Daj dowolnej postaci 2 \u017cetony os\u0142on lub zadaj 2 nieblokowalne obra\u017cenia dowolnej postaci."
+    }, 
+    {
+        "code": "01042", 
+        "name": "Jedno\u015b\u0107 z moc\u0105", 
+        "text": "Tylko niebieska posta\u0107.\nPrzed tym, jak posta\u0107, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119, zostanie pokonana, do ko\u0144ca gry to ulepszenie staje si\u0119 wsparciem<i>(zaczyna przygotowane).</i>"
+    }, 
+    {
+        "code": "01043", 
+        "flavor": "\"Pomara\u0144czowo-bia\u0142y. Jedyny w swoim rodzaju.\"<cite>Poe Dameron</cite>", 
+        "name": "BB-8", 
+        "text": "[special] - Przerzu\u0107 t\u0119 ko\u015b\u0107 i jedn\u0105 inn\u0105 twoj\u0105 ko\u015b\u0107. Nie usuwaj tej ko\u015bci ze swojej puli po tym, jak rozpatrzysz t\u0119 zdolno\u015b\u0107."
+    }, 
+    {
+        "code": "01044", 
+        "name": "Kij Rey", 
+        "text": "[special] - Usu\u0144 dowoln\u0105 ko\u015b\u0107 przedstawiaj\u0105c\u0105 obra\u017cenia ([melee] lub [ranged])."
+    }, 
+    {
+        "code": "01045", 
+        "flavor": "\"Nie wr\u00f3c\u0119 tam.\"", 
+        "name": "Finn", 
+        "subtitle": "Dezerter z Najwy\u017cszego Porz\u0105dku", 
+        "text": "Do tej postaci mo\u017cesz do\u0142\u0105czy\u0107 dowoln\u0105 <b>bro\u0144</b>, ignoruj\u0105c ograniczenia zagrania.\nW swojej talii mo\u017cesz zawrze\u0107 czerwone <b>bronie</b> z\u0142oczy\u0144c\u00f3w oraz czerwone <b>pojazdy</b> z\u0142oczy\u0144c\u00f3w."
+    }, 
+    {
+        "code": "01046", 
+        "flavor": "\"Wiesz, czasami sam siebie zadziwiam.\"", 
+        "name": "Han Solo", 
+        "subtitle": "\u0141ajdak", 
+        "text": "Po tym, jak zagrasz kart\u0119 ze s\u0142owem kluczowym Zasadzka, mo\u017cesz da\u0107 tej postaci 1 \u017ceton oso\u0142ony."
+    }, 
+    {
+        "code": "01047", 
+        "flavor": "\"Nie martw si\u0119 o nagrod\u0119. Je\u015bli tak kochasz pieni\u0105dze, dostaniesz je.\" <cite>Leia Organa</cite>", 
+        "name": "Strzelec do wynaj\u0119cia"
+    }, 
+    {
+        "code": "01048", 
+        "flavor": "\"B\u0119d\u0119 dzieli\u0142a los mojego ludu.\"", 
+        "name": "Padme Amidala", 
+        "subtitle": "Kr\u00f3lowa Naboo", 
+        "text": "[special] - Odrzu\u0107 wierzchni\u0105 kart\u0119 z talii dowolnego przeciwnika lub wydaj 1 \u017ceton zasobu, aby odrzuci\u0107 2 wierzchnie karty z talii dowolnego przeciwnika."
+    }, 
+    {
+        "code": "01049", 
+        "flavor": "\"Mo\u017ce nie wygl\u0105da imponuj\u0105co, ale nie to si\u0119 liczy.\" <cite>Han Solo</cite>", 
+        "name": "Sok\u00f3\u0142 Millennium", 
+        "text": "[special] - Zagraj za darmo \u017c\u00f3\u0142te wydarzenie z twojego stosu kart odrzuconych lub z twojej r\u0119ki."
+    }, 
+    {
+        "code": "01050", 
+        "name": "Immunitet dyplomatyczny", 
+        "text": "Zetony os\u0142on z tej ko\u015bci mog\u0105 by\u0107 dawane dowolnym twoim postaciom (sam decydujesz, jak je rozdzieli\u0107)."
+    }, 
+    {
+        "code": "01051", 
+        "name": "Ci\u0119\u017cki pistolet blasterowy DL-44", 
+        "text": "Zasadzka.\nPo tym, jak zagrasz to ulepszenie, zmu\u015b dowolnego przeciwnika, aby wybra\u0142 i usun\u0105\u0142 jedn\u0105 ze swoich ko\u015bci."
+    }, 
+    {
+        "code": "01052", 
+        "name": "Infiltracja", 
+        "text": "[special] - Przerzu\u0107 maksymalnie 2 ko\u015bci dowolnego przeciwnika."
+    }, 
+    {
+        "code": "01053", 
+        "name": "Plac\u00f3wka", 
+        "text": "[special] - Rozpatrz zdolno\u015b\u0107 pola bitwy tak, jakby\u015b je w\u0142a\u015bnie zaj\u0105\u0142."
+    }, 
+    {
+        "code": "01054", 
+        "flavor": "<i>Bro\u0144 ch\u0119tnie wykorzystywana podczas galaktycznej wojny domowej zar\u00f3wno przez oficer\u00f3w Imperium, jak i rebelianckich \u017co\u0142nierzy.</i>", 
+        "name": "Pistolet Blasterowy DH-17"
+    }, 
+    {
+        "code": "01055", 
+        "name": "Karabin blasterowy IQA-11", 
+        "text": "[special] - Zadaj 2 nieblokowalne obra\u017cenia dowolnej postaci."
+    }, 
+    {
+        "code": "01056", 
+        "name": "Awans", 
+        "text": "Tylko czerwona posta\u0107.\nPo tym, jak zagrasz to ulepszenie, mo\u017cesz dobra\u0107 kart\u0119."
+    }, 
+    {
+        "code": "01057", 
+        "name": "Rzut moc\u0105", 
+        "text": "Tylko niebieska posta\u0107.\n[special] - Usu\u0144 dowoln\u0105 ko\u015b\u0107, aby zada\u0107 dowolnej postaci obra\u017cenia r\u00f3wne warto\u015bci przedstawionej na danej ko\u015bci (\u015bcianki specjalne oraz puste to zera)."
+    }, 
+    {
+        "code": "01058", 
+        "name": "Szkolenie mocy", 
+        "text": "Aby zagra\u0107, wyznacz niebiesk\u0105 posta\u0107.\n[special] - Wybierz i wykonaj dwie z nast\u0119puj\u0105cych opcji: zadaj 1 obra\u017cenie dowolnej postaci, zyskaj 1 \u017ceton zasobu lub daj dowolnej postaci 1 \u017ceton os\u0142ony."
+    }, 
+    {
+        "code": "01059", 
+        "flavor": "\"Elegancka bro\u0144 na bardziej cywilizowane czasy.\" <cite>Obi-Wan Kenobi</cite>", 
+        "name": "Miecz \u015bwietlny", 
+        "text": "Przepisanie.\n[special] - Zadaj 2 nieblokowalne obra\u017cenia dowolnej postaci."
+    }, 
+    {
+        "code": "01060", 
+        "name": "Sondowanie umys\u0142u", 
+        "text": "Tylko niebieska posta\u0107.\n[special] - Zadaj postaci dowolnego przeciwnika 1 obra\u017cenie za ka\u017cd\u0105 kart\u0119 na r\u0119ce danego przeciwnika."
+    }, 
+    {
+        "code": "01061", 
+        "name": "Komunikator", 
+        "text": "Po tym, jak zagrasz to ulepszenie, mo\u017cesz przerzuci\u0107 dowoln\u0105 liczb\u0119 swoich ko\u015bci lub dowoln\u0105 liczb\u0119 ko\u015bci dowolnego przeciwnika."
+    }, 
+    {
+        "code": "01062", 
+        "name": "Datapad", 
+        "text": "[special] - Obr\u00f3\u0107 jedn\u0105 z twoich ko\u015bci na \u015bciank\u0119 nieprzedstawiaj\u0105c\u0105 obra\u017ce\u0144 ([ranged] ani [melee])."
+    }, 
+    {
+        "code": "01063", 
+        "name": "Podr\u0119czny pistolet blasterowy", 
+        "text": "Zasadzka.\nPrzepisanie."
+    }, 
+    {
+        "code": "01064", 
+        "name": "Czarny rynek", 
+        "text": "[special] - Dobierz 2 karty. Mo\u017cesz zagra\u0107 ze swojej r\u0119ki dowolne ulepszenie, zmniejszaj\u0105c jego koszt o 1."
+    }, 
+    {
+        "code": "01065", 
+        "name": "Spryt", 
+        "text": "Tylko \u017c\u00f3\u0142ta posta\u0107.\n[special] - Rozpatrz dowoln\u0105 specjaln\u0105 zdolno\u015b\u0107 ([special]) innej karty w grze tak, jakby to by\u0142a twoja karta. "
+    }, 
+    {
+        "code": "01066", 
+        "name": "Plecak odrzutowy", 
+        "text": "[special] - Usu\u0144 dowoln\u0105 ko\u015b\u0107 przedstawiaj\u0105c\u0105 obra\u017cenia wr\u0119cz ([melee]) i daj postaci, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119, 1 \u017ceton os\u0142ony."
+    }, 
+    {
+        "code": "01067", 
+        "name": "Detonator termiczny", 
+        "text": "Aby zagra\u0107, wyznacz \u017c\u00f3\u0142t\u0105 posta\u0107.\n[special] - Zadaj po 3 obra\u017cenia ka\u017cdej postaci dowolnego przeciwnika. Usu\u0144 to ulepszenie z gry."
+    }, 
+    {
+        "code": "01068", 
+        "name": "Mi\u0119so armatnie", 
+        "text": "Zadaj jednej z twoich nie-unikatowych postaci obra\u017cenia r\u00f3wne warto\u015bci jednej, przedstawiaj\u0105cej obra\u017cenia([ranged] lub [melee]) ko\u015bci dowolnego przeciwnika. Nast\u0119pnie usu\u0144 dan\u0105 ko\u015b\u0107."
+    }, 
+    {
+        "code": "01069", 
+        "name": "P\u0119tla si\u0119 zaciska", 
+        "text": "Zmu\u015b dowolnego przeciwnika, aby wybra\u0142 i usun\u0105\u0142 jedn\u0105 ze swoich ko\u015bci. Zamiast odrzuca\u0107 to wydarzenie, mo\u017cesz umie\u015bci\u0107 je na spodzie swojej talii."
+    }, 
+    {
+        "code": "01070", 
+        "flavor": "<i>Droidy bojowe s\u0105 mniej skuteczne ni\u017c \u017co\u0142nierze z krwi i ko\u015bci, jednak znacznie \u0142atwiej zast\u0105pi\u0107 je nowymi.</i>", 
+        "name": "Nieprzebrane zast\u0119py", 
+        "text": "Cofnij do gry, bez \u017ceton\u00f3w obra\u017ce\u0144, jedn\u0105 z twoich pokonanych, nie-unikatowych, czerwonych postaci."
+    }, 
+    {
+        "code": "01071", 
+        "name": "Okupacja", 
+        "text": "Zagraj tylko, je\u015bli kontrolujesz pole bitwy.\nZmu\u015b dowolnego przeciwnika, aby straci\u0142 wszystkie swoje \u017cetony zasob\u00f3w."
+    }, 
+    {
+        "code": "01072", 
+        "name": "Sonda", 
+        "text": "Podejrzyj 2 losowe karty z r\u0119ki dowolnego przeciwnika i odrzu\u0107 te z nich, kt\u00f3re s\u0105 wydarzeniami."
+    }, 
+    {
+        "code": "01073", 
+        "name": "Przeczesa\u0107 teren", 
+        "text": "Ustal liczb\u0119 twoich przygotowanych czerwonych postaci. Przerzu\u0107 tak\u0105 sam\u0105 liczb\u0119 ko\u015bci dowolnego przeciwnika."
+    }, 
+    {
+        "code": "01074", 
+        "name": "Bieg\u0142o\u015b\u0107 taktyczna", 
+        "text": "Wyznacz czerwon\u0105 posta\u0107, aby wykona\u0107 maksymalnie 2 dodatkowe akcje."
+    }, 
+    {
+        "code": "01075", 
+        "flavor": "\"Tam s\u0105! Zastrzeli\u0107 ich.\"", 
+        "name": "Najlepsz\u0105 obron\u0105...", 
+        "text": "Zadaj 3 obra\u017cenia jednej z twoich czerwonych postaci, aby usun\u0105\u0107 maksymalnie 2 ko\u015bci dowolnego przeciwnika."
+    }, 
+    {
+        "code": "01076", 
+        "name": "Ci\u0119\u017cka praca", 
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie oraz jedn\u0105 z twoich postaci, aby zyska\u0107 1 \u017ceton zasobu."
+    }, 
+    {
+        "code": "01077", 
+        "name": "Lokalny garnizon", 
+        "text": "Ka\u017cdy przeciwnik, w ka\u017cdej fazie utrzymania, zyskuje 1 \u017ceton zasob\u00f3w mniej (wci\u0105\u017c zyskuje minimum 1)."
+    }, 
+    {
+        "code": "01078", 
+        "name": "Osobista eskorta", 
+        "text": "Posta\u0107, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119, posiada s\u0142owo kluczowe Stra\u017cnik."
+    }, 
+    {
+        "code": "01079", 
+        "name": "Porzu\u0107 wszelk\u0105 nadziej\u0119", 
+        "text": "Zmu\u015b dowolnego przeciwnika, aby wybra\u0142, czy traci wszystkie swoje \u017cetony zasob\u00f3w, czy odrzuca wszystkie karty ze swojej r\u0119ki."
+    }, 
+    {
+        "code": "01080", 
+        "name": "Wybuja\u0142a ambicja", 
+        "text": "Dobierz karty, aby mie\u0107 na r\u0119ce karty w liczbie r\u00f3wnej twojemu limitowi r\u0119ki."
+    }, 
+    {
+        "code": "01081", 
+        "name": "W\u015bciek\u0142o\u015b\u0107", 
+        "text": "Zadaj 1 obra\u017cenie jednej z twoich niebieskich postaci, aby zyska\u0107 1 \u017ceton zasobu."
+    }, 
+    {
+        "code": "01082", 
+        "flavor": "\"Daj upust nienawi\u015bci.\" <cite>Imperator Palpatine</cite>", 
+        "name": "Pos\u0142uchaj swojego gniewu", 
+        "text": "Ustal liczb\u0119 pustych \u015bcianek ([blank]) widocznych na ko\u015bciach dowolnego przeciwnika. Usu\u0144 tak\u0105 sam\u0105 liczb\u0119 jego ko\u015bci."
+    }, 
+    {
+        "code": "01083", 
+        "name": "Atak Moc\u0105", 
+        "text": "Obr\u00f3\u0107 jedn\u0105 z twoich niebieskich ko\u015bci na stron\u0119 przedstawiaj\u0105c\u0105 obra\u017cenia wr\u0119cz ([melee]).\nNast\u0119pnie mo\u017cesz rozpatrzy\u0107 dan\u0105 ko\u015b\u0107."
+    }, 
+    {
+        "code": "01084", 
+        "name": "Zastraszenie", 
+        "text": "Usu\u0144 wszystkie \u017cetony os\u0142on z dowolnej postaci."
+    }, 
+    {
+        "code": "01085", 
+        "name": "Odosobnienie", 
+        "text": "Wyznacz niebiesk\u0105 posta\u0107, aby usun\u0105\u0107 jedn\u0105 ko\u015b\u0107 dowolnej postaci."
+    }, 
+    {
+        "code": "01086", 
+        "name": "Bez lito\u015bci", 
+        "text": "Odrzu\u0107 dowoln\u0105 liczb\u0119 niebieskich kart z twojej r\u0119ki. Nastepnie rozpatrz jedn\u0105 z twoich ko\u015bci przedstawiaj\u0105cych obra\u017cenia ([melee] lub [ranged]), zwi\u0119kszaj\u0105c jej warto\u015b\u0107 o 1 za ka\u017cd\u0105 w\u0142a\u015bnie odrzucon\u0105 kart\u0119."
+    }, 
+    {
+        "code": "01087", 
+        "name": "Poci\u0105gaj\u0105c za sznurki", 
+        "text": "Podejrzyj 3 karty z wierzchu dowolnej talii. Nast\u0119pnie od\u0142\u00f3\u017c te karty na wierzch i/lub sp\u00f3d danej talii, w dowolnej kolejno\u015bci."
+    }, 
+    {
+        "code": "01088", 
+        "name": "Przychylno\u015b\u0107 Imperatora", 
+        "text": "Tw\u00f3j limit kart na r\u0119cie zostaje zwi\u0119kszony o 1."
+    }, 
+    {
+        "code": "01089", 
+        "flavor": "\"Gdyby\u015b tylko zna\u0142 pot\u0119g\u0119 Ciemnej Strony.\" <cite>Darth Vader</cite>", 
+        "name": "Pot\u0119ga Ciemnej Strony", 
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie, aby przerzuci\u0107 jedn\u0105 z twoich ko\u015bci. Je\u015bli na danej ko\u015bci wypadnie pusta \u015bcianka ([blank]), zadaj 2 nieblokowalne obra\u017cenia dowolnej postaci."
+    }, 
+    {
+        "code": "01090", 
+        "name": "Przyczajony w cieniu", 
+        "text": "<b>Akcja</b> - Je\u015bli posta\u0107, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119, nie posiada \u017cadnych \u017ceton\u00f3w os\u0142on, wyczerp to ulepszenie, aby da\u0107 jej 1 \u017ceton os\u0142ony."
+    }, 
+    {
+        "code": "01091", 
+        "name": "Bez odwrotu", 
+        "text": "Obr\u00f3\u0107 na dowoln\u0105 \u015bciank\u0119 ka\u017cd\u0105 z twoich ko\u015bci przedstawiaj\u0105cych pust\u0105 \u015bciank\u0119 ([blank])."
+    }, 
+    {
+        "code": "01092", 
+        "name": "As w r\u0119kawie", 
+        "text": "Odrzu\u0107 z twojej r\u0119ki \u017c\u00f3\u0142t\u0105 kart\u0119 ulepszenia, aby rzuci\u0107 jej ko\u015bci\u0105 do twojej puli, je\u015bli to mo\u017cliwe. Od\u0142\u00f3\u017c t\u0119 ko\u015b\u0107 na bok po tym, jak zostanie rozpatrzona lub usuni\u0119ta."
+    }, 
+    {
+        "code": "01093", 
+        "name": "Uzbrojony po z\u0119by", 
+        "text": "Odrzu\u0107 dowoln\u0105 liczb\u0119 ulepsze\u0144 z jednej z twoich \u017c\u00f3\u0142tych postaci. Nast\u0119pnie zadaj dowolnej postaci obra\u017cenia w liczbie odrzuconych w\u0142a\u015bnie ulepsze\u0144."
+    }, 
+    {
+        "code": "01094", 
+        "name": "Konfiskata", 
+        "text": "Wydaj \u017cetony zasob\u00f3w w liczbie r\u00f3wnej kosztowi ulepszenia, kt\u00f3re dowolny przeciwnik ma w grze, aby cofn\u0105\u0107 dane ulepszenie na jego r\u0119k\u0119."
+    }, 
+    {
+        "code": "01095", 
+        "name": "Nieczysta walka", 
+        "text": "Usu\u0144 dowoln\u0105 liczb\u0119 z twoich \u017c\u00f3\u0142tych ko\u015bci. Nast\u0119pnie zadaj dowolnej postaci obra\u017cenia w liczbie usuni\u0119tych w\u0142a\u015bnie ko\u015bci."
+    }, 
+    {
+        "code": "01096", 
+        "name": "Ostateczny cios", 
+        "text": "Rozpatrz jedn\u0105 z twoich ko\u015bci przedstawiaj\u0105cych obra\u017cenia dystansowe([ranged]), traktuj\u0105c te obra\u017cenia jako nieblokowalne."
+    }, 
+    {
+        "code": "01097", 
+        "flavor": "\"Mi te\u017c nie\"", 
+        "name": "Nie podobasz mu si\u0119", 
+        "text": "Usu\u0144 jedn\u0105 z twoich ko\u015bci, aby usun\u0105\u0107 jedn\u0105 ko\u015b\u0107 dowolnego przeciwnika."
+    }, 
+    {
+        "code": "01098", 
+        "name": "Czekaj\u0105c w ukryciu", 
+        "text": "Zmu\u015b dowolnego przeciwnika, aby wybra\u0142 i odrzuci\u0142 ze swojej r\u0119ki tyle kart, aby mia\u0142 na r\u0119ce tyle samo kart co ty."
+    }, 
+    {
+        "code": "01099", 
+        "name": "Wsparcie awaryjne", 
+        "text": "Po tym, jak zagrasz to wsparcie, umie\u015b\u0107 na nim 3 \u017cetony obra\u017ce\u0144.\n<b>Akcja</b> - Wyczerp to wsparcie, aby przesun\u0105\u0107 z niego 1 \u017ceton obra\u017cenia na dowoln\u0105 posta\u0107 <i>(ta zdolno\u015b\u0107 ignoruje os\u0142ony)</i>."
+    }, 
+    {
+        "code": "01100", 
+        "name": "Sw\u00f3j cz\u0142owiek", 
+        "text": "Po tym, jak rozpatrzysz ko\u015b\u0107 przedstawiaj\u0105c\u0105 zak\u0142\u00f3cenie ([disrupt]), mo\u017cesz wyczerpa\u0107 to wsparcie, aby zyska\u0107 \u017cetony zasob\u00f3w w liczbie \u017ceton\u00f3w zasob\u00f3w utraconych w\u0142a\u015bnie przez przeciwnika."
+    }, 
+    {
+        "code": "01101", 
+        "name": "Kontakty w podziemiu", 
+        "text": "<b>Akcja</b> - Wyczerp to ulepszenie, aby zyska\u0107 1 \u017ceton zasobu."
+    }, 
+    {
+        "code": "01102", 
+        "name": "Cenna zdobycz", 
+        "text": "Po tym, jak zagrasz to ulepszenie, mo\u017cesz usun\u0105\u0107 jedn\u0105 ko\u015b\u0107 postaci dowolnego przeciwnika i umie\u015bci\u0107 j\u0105 tutaj. Nie rzuca ni\u0105 \u017cadna posta\u0107 i nie wraca ona na odpowiedni\u0105 posta\u0107, dop\u00f3ki to ulepszenie nie opu\u015bci gry."
+    }, 
+    {
+        "code": "01103", 
+        "name": "Atak komandos\u00f3w", 
+        "text": "Rozpatrz jedn\u0105 z twoich czerwonych ko\u015bci przedstawiaj\u0105cych odrzucenie ([discard]), zwi\u0119kszaj\u0105c jego warto\u015b\u0107 o 2. Nast\u0119pnie dobierz kart\u0119."
+    }, 
+    {
+        "code": "01104", 
+        "name": "Pozycja obronna", 
+        "text": "Zagraj tylko je\u015bli kontrolujesz pole bitwy./nUsu\u0144 wszystkie ko\u015bci dowolnego przeciwnika przedstawiaj\u0105ce warto\u015b\u0107 2 lub wy\u017csz\u0105."
+    }, 
+    {
+        "code": "01105", 
+        "name": "Sanitariusz", 
+        "text": "Ulecz 2 obra\u017cenia z dowolnej postaci."
+    }, 
+    {
+        "code": "01106", 
+        "name": "Szybki atak i odwr\u00f3t", 
+        "text": "Zasadzka./nAktywuj jedn\u0105 z twoich czerwonych postaci."
+    }, 
+    {
+        "code": "01107", 
+        "name": "To pu\u0142apka!", 
+        "text": "Zasadzka./nWybierz symbol przedstawiony na ko\u015bci dowolnego przeciwnika. Nast\u0119pnie obr\u00f3\u0107 dowoln\u0105 liczb\u0119 twoich dowolnych czerwonych ko\u015bci na \u015bcianki przedstawiaj\u0105ce dany symbol."
+    }, 
+    {
+        "code": "01108", 
+        "name": "Wrodzony talent", 
+        "text": "Rozpatrz jedn\u0105 z twoich ko\u015bci, zwi\u0119kszaj\u0105c jej warto\u015b\u0107 o 1."
+    }, 
+    {
+        "code": "01109", 
+        "name": "Ponowne uzbrojenie", 
+        "text": "Zagraj ze swojego stosu kart odrzuconych czerwon\u0105 kart\u0119 ulepszenia, zmniejszaj\u0105c jej koszt o 1."
+    }, 
+    {
+        "code": "01110", 
+        "name": "Odwr\u00f3t", 
+        "text": "Tw\u00f3j przeciwnik mo\u017ce wykona\u0107 1 akcj\u0119.\nNast\u0119pnie zako\u0144cz faz\u0119 akcji."
+    }, 
+    {
+        "code": "01111", 
+        "name": "Planowanie strategiczne", 
+        "text": "Przygotuj lub wyczerp dowolne wsparcie."
+    }, 
+    {
+        "code": "01112", 
+        "name": "Chirurgiczny cios", 
+        "text": "Usu\u0144 dowoln\u0105 liczb\u0119 twoich czerwonych ko\u015bci przedstawiaj\u0105cych obra\u017cenia dystansowe ([ranged]), zwi\u0119kszaj\u0105c warto\u015b\u0107 ka\u017cdej z nich o 1, aby odrzuci\u0107 z gry wsparcie, kt\u00f3re kosztuje tyle samo lub mniej ni\u017c \u0142\u0105czna warto\u015b\u0107 usuni\u0119tych ko\u015bci."
+    }, 
+    {
+        "code": "01113", 
+        "name": "Dow\u00f3dztwo Ruchu Oporu", 
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie i odrzu\u0107 kart\u0119 z twojej r\u0119ki, aby da\u0107 dowolnej postaci 1 \u017ceton os\u0142ony. Nast\u0119pnie przygotuj to wsparcie, chyba \u017ce przeciwnik wyda 1 \u017ceton zasobu."
+    }, 
+    {
+        "code": "01114", 
+        "name": "Przewidywanie", 
+        "text": "Zmu\u015b dowolnego przeciwnika, aby wybra\u0142 i rozpatrzy\u0142 dowoln\u0105 liczb\u0119 swoich ko\u015bci w wybranej przez niego kolejno\u015bci. Nast\u0119pnie usu\u0144 wszystkie ko\u015bci, kt\u00f3rych nie rozpatrzy\u0142."
+    }, 
+    {
+        "code": "01115", 
+        "name": "Postawa obronna", 
+        "text": "Daj dowolnej postaci 2 \u017cetony os\u0142on."
+    }, 
+    {
+        "code": "01116", 
+        "name": "Zmylenie Moc\u0105", 
+        "text": "Wybierz symbol przedstawiony na jednej z twoich niebieskich ko\u015bci. Nast\u0119pnie usu\u0144 wszystkie ko\u015bci dowolnego przeciwnika przedstawiaj\u0105ce dany symbol."
+    }, 
+    {
+        "code": "01117", 
+        "name": "Bohaterstwo", 
+        "text": "Zadaj jednej z twoich unikatowych postaci obra\u017cenia r\u00f3wne warto\u015bci obra\u017ce\u0144 ([ranged] lub [melee]) przedstawionych na ko\u015bci dowolnego przeciwnika. Nast\u0119pnie usu\u0144 dan\u0105 ko\u015b\u0107."
+    }, 
+    {
+        "code": "01118", 
+        "name": "Szlachetne po\u015bwi\u0119cenie", 
+        "text": "Pokonaj jedn\u0105 z twoich niebieskich postaci, aby wyczerpa\u0107 dowoln\u0105 posta\u0107."
+    }, 
+    {
+        "code": "01119", 
+        "name": "Cierpliwo\u015b\u0107", 
+        "text": "Usu\u0144 dowoln\u0105 liczb\u0119 twoich ko\u015bci.\nNast\u0119pnie odrzu\u0107 z wierzchu talii dowolnego przeciwnika karty w liczbie usuni\u0119tych w\u0142a\u015bnie ko\u015bci."
+    }, 
+    {
+        "code": "01120", 
+        "flavor": "\"Przeka\u017c to, czego si\u0119 nauczy\u0142es\" <cite>Yoda</cite>", 
+        "name": "Powr\u00f3t Jedi", 
+        "text": "Dodaj do twojej r\u0119ki niebiesk\u0105 kart\u0119 wydarzenia z twojego stosu kart odrzuconych."
+    }, 
+    {
+        "code": "01121", 
+        "name": "Odpowied\u017a", 
+        "text": "Usu\u0144 dowoln\u0105 liczb\u0119 \u017ceton\u00f3w os\u0142on z jednej z twoich postaci. Nast\u0119pnie zadaj dowolnej postaci obra\u017cenia w liczbie usuni\u0119tych w\u0142a\u015bnie os\u0142on."
+    }, 
+    {
+        "code": "01122", 
+        "name": "Si\u0142a woli", 
+        "text": "Przesu\u0144 1 \u017ceton obra\u017cenia z jednej z twoich wyczerpanych postaci na wyczerpan\u0105 posta\u0107 dowolnego przeciwnika (ta zdolno\u015b\u0107 ignoruje os\u0142ony)."
+    }, 
+    {
+        "code": "01123", 
+        "name": "Rada Jedi", 
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie, aby podejrze\u0107 2 wierzchnie karty z talii dowolnego gracza. Nast\u0119pnie mo\u017cesz odrzuci\u0107 jedn\u0105 z nich i sprawi\u0107, aby dany gracz dobra\u0142 drug\u0105."
+    }, 
+    {
+        "code": "01124", 
+        "name": "Przebudzenie", 
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie, aby rozpatrzy\u0107 jedn\u0105 z twoich ko\u015bci przedstawiaj\u0105c\u0105 \u015bciank\u0119 z modyfikatorem <i>(\u015bciank\u0119 z +)</i> tak, jakby nie by\u0142a modyfikatorem <i>(nie mia\u0142a +)</i>."
+    }, 
+    {
+        "code": "01125", 
+        "name": "Moc jest silna", 
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie i odrzu\u0107 ze swojej r\u0119ki niebiesk\u0105 kart\u0119, aby za darmo zagra\u0107 ze swojej r\u0119ki inn\u0105 kopi\u0119 danej karty."
+    }, 
+    {
+        "code": "01126", 
+        "name": "\u015amia\u0142a ucieczka", 
+        "text": "Zasadzka.\nPrzerzu\u0107 dowoln\u0105 liczb\u0119 ko\u015bci dowolnego przeciwnika. Nast\u0119pnie usu\u0144 wszystkie jego ko\u015bci przedstawiaj\u0105ce puste \u015bcianki ([blank])."
+    }, 
+    {
+        "code": "01127", 
+        "flavor": "\"Trafi\u0142em go! Trafi\u0142em!\" <cite>Luke Skywalker</cite>", 
+        "name": "Nie szar\u017cuj", 
+        "text": "Ka\u017cdy gracz dobiera po 2 karty."
+    }, 
+    {
+        "code": "01128", 
+        "name": "\u015aci\u0105gni\u0119cie uwagi", 
+        "text": "Przesu\u0144 maksymalnie 2 \u017cetony obra\u017ce\u0144 z jednej z twoich postaci na inn\u0105 twoj\u0105 posta\u0107 (ta zdolno\u015b\u0107 ignoruje os\u0142ony)."
+    }, 
+    {
+        "code": "01129", 
+        "name": "Skok w nadprzestrze\u0144", 
+        "text": "Zako\u0144cz faz\u0119 akcji. Mo\u017cesz zamieni\u0107 pole bitwy na pole bitwy, kt\u00f3re nie jest wykorzystywane."
+    }, 
+    {
+        "code": "01130", 
+        "name": "Pozw\u00f3l Wookiemu wygra\u0107", 
+        "text": "Zmu\u015b dowolnego przeciwnika, aby wybra\u0142, czy zadaje 2 obra\u017cenia jednaj ze swoich wyczerpanych postaci, czy wybiera i usuwa 2 ze swoich ko\u015bci."
+    }, 
+    {
+        "code": "01131", 
+        "name": "Negocjacje", 
+        "text": "Usu\u0144 jedn\u0105 z twoich ko\u015bci postaci, aby zmusi\u0107 dowolnego przeciwnika, aby wybra\u0142 i usun\u0105\u0142 2 ze swoich ko\u015bci."
+    }, 
+    {
+        "code": "01132", 
+        "name": "Przeszukiwanie", 
+        "text": "Odrzu\u0107 3 wierzchnie karty z twojej talii. Nast\u0119pnie mo\u017cesz doda\u0107 do twojej r\u0119ki dowolne ulepszenie lub wsparcie z twojego stosu kart odrzuconych."
+    }, 
+    {
+        "code": "01133", 
+        "name": "Strzel pierwszy", 
+        "text": "Zasadzka\nrozpatrz jedn\u0105z twoich \u017c\u00f3ltych ko\u015bci przedstawiaj\u0105cych obra\u017cenia dystansowe ([ranged]). Nastepnie usu\u0144 jedn\u0105, przedstawiaj\u0105ca obra\u017cenia dystansowe ([ranged]) ko\u015bc dowolnego przeciwnika. "
+    }, 
+    {
+        "code": "01134", 
+        "name": "Przemyt", 
+        "text": "Wyznacz \u017c\u00f3\u0142t\u0105 posta\u0107 i odrzu\u0107 kart\u0119 z twojej r\u0119ki, aby zyska\u0107 1 \u017ceton zasobu."
+    }, 
+    {
+        "code": "01135", 
+        "name": "Zdaj si\u0119 na los", 
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie, aby przerzuci\u0107 jedn\u0105 z twoich \u017c\u00f3\u0142tych ko\u015bci. Je\u015bli wypadnie na niej symbol zasob\u00f3w ([resource]), zyskujesz 1 \u017ceton zasobu."
+    }, 
+    {
+        "code": "01136", 
+        "name": "Uliczni informatorzy", 
+        "text": "Zasadzka\n<b>Akcja<b> - Wyczerp to wsparcie, aby podejrze\u0107 karty na r\u0119ce dowolnego przeciwnika."
+    }, 
+    {
+        "code": "01137", 
+        "name": "Druga szansa", 
+        "text": "Tylko \u017c\u00f3\u0142ta posta\u0107.\nPrzed tym, jak posta\u0107 do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119, mia\u0142aby zosta\u0107 pokonana, zamiast tego ulecz z niej 5 obra\u017ce\u0144 i odrzu\u0107 z gry to ulepszenie."
+    }, 
+    {
+        "code": "01138", 
+        "name": "Ceremonia odznaczenia", 
+        "text": "Wyznacz czerwon\u0105 posta\u0107, aby dobra\u0107 karty w liczbie r\u00f3wnej posiadanych przez ciebie wyczerpanych postaci."
+    }, 
+    {
+        "code": "01139", 
+        "name": "Okopa\u0107 si\u0119", 
+        "text": "Zagraj tylko, je\u015bli kontrolujesz pole bitwy. Daj 3 \u017cetony os\u0142on twoim postaciom (sam decydujesz, jak je rozdzieli\u0107)."
+    }, 
+    {
+        "code": "01140", 
+        "name": "Si\u0142a ognia", 
+        "text": "Rozpatrz jedn\u0105 z twoich czerwonych ko\u015bci przedstawiaj\u0105cych obra\u017cenia dystansowe ([ranged]), zwi\u0119kszaj\u0105c jej warto\u015b\u0107 o 1 lub zamiast tego o 2, je\u015bli rozpatrujesz ko\u015b\u0107 <b>pojazdu</b>."
+    }, 
+    {
+        "code": "01141", 
+        "name": "Przyw\u00f3dztwo", 
+        "text": "Wyczerp jedn\u0105 z twoich unikatowych czerwonych postaci, aby przygotowa\u0107 inn\u0105 posta\u0107."
+    }, 
+    {
+        "code": "01142", 
+        "name": "Logistyka", 
+        "text": "Wyznacz czerwon\u0105 posta\u0107, aby rozpatrzy\u0107 jedn\u0105 z twoich ko\u015bci przedstawiaj\u0105cych zasoby ([resource]), zwi\u0119kszaj\u0105c jej warto\u015b\u0107 o 1."
+    }, 
+    {
+        "code": "01143", 
+        "name": "Taktyka oddzia\u0142u", 
+        "text": "Aktywuj jednocze\u015bnie dowoln\u0105 liczb\u0119 twoich nie-unikatowych postaci."
+    }, 
+    {
+        "code": "01144", 
+        "name": "Ogie\u0144 wspieraj\u0105cy", 
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie, aby rozpatrzy\u0107 jedn\u0105 z twoich ko\u015bci przedstawiaj\u0105cych obra\u017cenia dystansowe ([ranged]), zwi\u0119kszaj\u0105c jej warto\u015bci o 1."
+    }, 
+    {
+        "code": "01145", 
+        "name": "Odbicie", 
+        "text": "Wyznacz niebiesk\u0105 posta\u0107, aby usun\u0105\u0107 dowoln\u0105 ko\u015b\u0107 przedstawiaj\u0105c\u0105 obra\u017cenia dystansowe ([ranged]) i zada\u017c dowolnej postaci po\u0142ow\u0119 z danych obra\u017ce\u0144 (zaokr\u0105glaj\u0105c w g\u00f3r\u0119)."
+    }, 
+    {
+        "code": "01146", 
+        "flavor": "\"Obawiam si\u0119, \u017ce zdarzy\u0142o si\u0119 co\u015b strasznego. Ca\u0142kiem jakby miliony g\u0142os\u00f3w krzykn\u0119\u0142y w trwodze i nagle ucich\u0142y.\" <cite>Obi-Wan Kenobi</cite>", 
+        "name": "Zak\u0142\u00f3cenie mocy", 
+        "text": "Przerzu\u0107 wszystkie ko\u015bci"
+    }, 
+    {
+        "code": "01147", 
+        "name": "Sztuczka z wp\u0142ywaniem na umys\u0142", 
+        "text": "Wyznacz niebiesk\u0105 posta\u0107, aby zmusi\u0107 dowolnego przeciwnika, aby podzieli\u0142 swoj\u0105 pul\u0119 ko\u015bci na 2 grupy dowolnej wielko\u015bci. Wybierz 1 z grup i usu\u0144 wszystkie ko\u015bci znajduj\u0105ce si\u0119 w niej."
+    }, 
+    {
+        "code": "01148", 
+        "name": "Pot\u0119ga mocy", 
+        "text": "Rozpatrz jedn\u0105 z twoich ko\u015bci, traktuj\u0105c jej warto\u015b\u0107 tak, jakby by\u0142a r\u00f3wna liczbie niebieskich ulepsze\u0144, kt\u00f3re masz w grze."
+    }, 
+    {
+        "code": "01149", 
+        "flavor": "\"Moc b\u0119dzie z tob\u0105. Zawsze.\" <cite>Obi-Wan Kenobi</cite>", 
+        "name": "U\u017cyj mocy", 
+        "text": "Wyznacz niebiesk\u0105 posta\u0107, aby obr\u00f3ci\u0107 dowoln\u0105 ko\u015b\u0107 na dowoln\u0105 \u015bciank\u0119."
+    }, 
+    {
+        "code": "01150", 
+        "name": "Spaja wszystkie rzeczy", 
+        "text": "Przed tym, jak zagrasz niebieskie ulepszenie, mo\u017cesz wyczerpa\u0107 to wsparcie, aby zmniejszy\u0107 o 1 koszt zagrywanego ulepszenia."
+    }, 
+    {
+        "code": "01151", 
+        "name": "Celowanie", 
+        "text": "Obr\u00f3\u0107 jedn\u0105 z twoich ko\u015bci na \u015bciank\u0119 przedstawiaj\u0105c\u0105 obra\u017cenia dystansowe ([ranged])."
+    }, 
+    {
+        "code": "01152", 
+        "name": "Zmasowany atak", 
+        "text": "Rozpatrz dowoln\u0105 liczb\u0119 twoich ko\u015bci w wybranej przez ciebie kolejno\u015bci."
+    }, 
+    {
+        "code": "01153", 
+        "name": "Blok", 
+        "text": "Usu\u0144 wszystkie ko\u015bci dowolnego przeciwnika przedstawiaj\u0105ce obra\u017cenia wr\u0119cz ([melee])."
+    }, 
+    {
+        "code": "01154", 
+        "name": "Walka na bliskim dystansie", 
+        "text": "Ustal liczb\u0119 twoich ko\u015bci przedstawiaj\u0105cych obra\u017cenia wr\u0119cz ([melee]). Odrzu\u0107 z r\u0119ki dowolnego przeciwnika tak\u0105 sam\u0119 liczb\u0119 losowych kart."
+    }, 
+    {
+        "code": "01155", 
+        "name": "Unik", 
+        "text": "Usu\u0144 wszystkie ko\u015bci dowolnego przeciwnika przedstawiaj\u0105ce obra\u017cenia dystansowe ([ranged])."
+    }, 
+    {
+        "code": "01156", 
+        "name": "Flankowanie", 
+        "text": "Zagraj tylko, je\u015bli masz wi\u0119cej przygotowanych postaci ni\u017c dowolny przeciwnik.\nUsu\u0144 jedn\u0105 z ko\u015bci danego przeciwnika."
+    }, 
+    {
+        "code": "01157", 
+        "name": "Kry\u0107 si\u0119!", 
+        "text": "Daj dowolnej postaci 1 \u017ceton os\u0142ony."
+    }, 
+    {
+        "code": "01158", 
+        "name": "Rozbrojenie", 
+        "text": "Usu\u0144 jedn\u0105 z twoich ko\u015bci przedstawiaj\u0105cych obra\u017cenia ([melee] lub [ranged]), aby odrzuci\u0107 z gry dowoln\u0105 <b>bro\u0144</b> lub <b>ekwipunek</b>, kt\u00f3rego koszt jest r\u00f3wny lub ni\u017cszy od warto\u015bci danej ko\u015bci."
+    }, 
+    {
+        "code": "01159", 
+        "name": "Elektrowstrz\u0105sy", 
+        "text": "Wyznacz \u017c\u00f3\u0142t\u0105 posta\u0107, aby usun\u0105\u0107 dowoln\u0105 ko\u015b\u0107 przedstawiaj\u0105c\u0105 warto\u015b\u0107 2 lub ni\u017csz\u0105."
+    }, 
+    {
+        "code": "01160", 
+        "name": "Zamiana r\u00f3l", 
+        "text": "Wyznacz \u017c\u00f3\u0142t\u0105 posta\u0107, aby usun\u0105\u0107 dowoln\u0105 ko\u015b\u0107 przedstawiaj\u0105c\u0105 obra\u017cenia ([ranged] lub [melee]) i zada\u0107 dane obra\u017cenia dowolnej postaci."
+    }, 
+    {
+        "code": "01161", 
+        "name": "Zak\u0142\u00f3canie", 
+        "text": "Wyznacz \u017c\u00f3\u0142t\u0105 posta\u0107, aby przerzuci\u0107 wszystkie ko\u015bci dowolnego przeciwnika."
+    }, 
+    {
+        "code": "01162", 
+        "name": "Nieprzewidywalny", 
+        "text": "Zasadzka.\nPrzerzu\u0107 dowoln\u0105 ko\u015b\u0107 <i>(swoj\u0105 lub przeciwnika)</i>."
+    }, 
+    {
+        "code": "01163", 
+        "name": "Nies\u0142awny", 
+        "text": "Przed tym, jak zagrasz \u017c\u00f3\u0142t\u0105 kart\u0119, mo\u017cesz wyczerpa\u0107 to wsparcie, aby da\u0107 danej karcie s\u0142owo kluczowe Zasadzka."
+    }, 
+    {
+        "code": "01164", 
+        "name": "Padnij!", 
+        "text": "Je\u015bli posta\u0107, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119, otrzyma obra\u017cenia wr\u0119cz ([melee]), odrzu\u0107 to ulepszenie.\n<b>Akcja</b> - Wyczerp to ulepszenie, aby da\u0107 1 \u017ceton os\u0142ony postaci, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119."
+    }, 
+    {
+        "code": "01165", 
+        "name": "Centrum Dowodzenia", 
+        "subtitle": "Lothal", 
+        "text": "<b>Zaj\u0119cie</b> - Ka\u017cdy przeciwnik odrzuca 2 wierzchnie karty ze swojej talii."
+    }, 
+    {
+        "code": "01166", 
+        "name": "Baza Echo", 
+        "subtitle": "Hoth", 
+        "text": "<b>Zaj\u0119cie</b> - Daj dowolnej postaci 1 \u017ceton os\u0142ony."
+    }, 
+    {
+        "code": "01167", 
+        "name": "Sala tronowa Imperatora", 
+        "subtitle": "Druga Gwiazda \u015amierci", 
+        "text": "<b>Zaj\u0119cie</b> - Obr\u00f3\u0107 jedn\u0105 z twoich ko\u015bci na stron\u0119 przedstawiaj\u0105c\u0105 specjaln\u0105 zdolno\u015b\u0107 ([special]). Nast\u0119pnie mo\u017cesz rozpatrzy\u0107 dan\u0119 ko\u015b\u0107."
+    }, 
+    {
+        "code": "01168", 
+        "name": "Zmarzni\u0119te Pustkowia", 
+        "subtitle": "Baza Starkiller", 
+        "text": "<b>Zaj\u0119cie</b> - Usu\u0144 ko\u015b\u0107 dowolnej postaci."
+    }, 
+    {
+        "code": "01169", 
+        "name": "Imperialna Zbrojownia", 
+        "subtitle": "Gwiazda \u015amierci", 
+        "text": "<b>Zaj\u0119cie</b> - Zagraj z r\u0119ki ulepszenie, zmniejszaj\u0105c jego koszt o 1."
+    }, 
+    {
+        "code": "01170", 
+        "name": "\u015awi\u0105tynia Jedi", 
+        "subtitle": "Coruscant", 
+        "text": "<b>Zaj\u0119cie</b> - Podejrzyj karty na r\u0119ce dowolnego przeciwnika i odrzu\u0107 z nich maksymalnie 2, wybrane przez ciebie."
+    }, 
+    {
+        "code": "01171", 
+        "name": "Rebeliancka sala narad", 
+        "subtitle": "Yavin IV", 
+        "text": "<b>Zaj\u0119cie</b> - Rozpatrz jedn\u0105 z twoich ko\u015bci. Je\u015bli posiada ona koszt w zasobach, nie musisz go p\u0142aci\u0107."
+    }, 
+    {
+        "code": "01172", 
+        "name": "Kosmoport Mos Eisley", 
+        "subtitle": "Tatooine", 
+        "text": "<b>Zaj\u0119cie</b> - Cofnij na twoj\u0105 r\u0119k\u0119 jedno z ulepsze\u0144, kt\u00f3re masz w grze, aby zyska\u0107 1 \u017ceton zasobu."
+    }, 
+    {
+        "code": "01173", 
+        "name": "Baza Separatyst\u00f3w", 
+        "subtitle": "Mustafar", 
+        "text": "<b>Zaj\u0119cie</b> - Ka\u017cdy przeciwnik wybiera jedn\u0105 ze swoich postaci i zadaje jej 1 nieblokowalne obra\u017cenie."
+    }, 
+    {
+        "code": "01174", 
+        "name": "Cmentarzysko statk\u00f3w", 
+        "subtitle": "Jakku", 
+        "text": "<b>Zaj\u0119cie</b> - Wybierz dowolne wsparcie lub ulepszenie z twojego stosu kart odrzuconych i umie\u015bc je na wierzchu twojej talii."
     }
 ]

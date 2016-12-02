@@ -1,18 +1,18 @@
 [
     {
         "code": "blue",
-        "name": "Force"
+        "name": "Moc"
     },
     {
         "code": "gray",
-        "name": "General"
+        "name": "Inne"
     },
     {
         "code": "red",
-        "name": "Command"
+        "name": "Dow\u00f3dztwo"
     },
     {
         "code": "yellow",
-        "name": "Rogue"
+        "name": "\u0141otr"
     }
 ]

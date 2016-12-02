@@ -1,38 +1,38 @@
 [
     {
         "code": "-",
-        "name": "Blank"
+        "name": "Pusta \u015bcianka"
     },
     {
         "code": "Dc",
-        "name": "Discard"
+        "name": "Odrzucenie"
     },
     {
         "code": "Dr",
-        "name": "Disrupt"
+        "name": "Zak\u0142\u00f3cenie"
     },
     {
         "code": "F",
-        "name": "Focus"
+        "name": "Skupienie"
     },
     {
         "code": "MD",
-        "name": "Melee Damage"
+        "name": "Obra\u017cenia wr\u0119cz"
     },
     {
         "code": "R",
-        "name": "Resource"
+        "name": "Zasoby"
     },
     {
         "code": "RD",
-        "name": "Ranged Damage"
+        "name": "Obra\u017cenia dystansowe"
     },
     {
         "code": "Sh",
-        "name": "Shield"
+        "name": "Os\u0142ona"
     },
     {
         "code": "Sp",
-        "name": "Special"
+        "name": "Specjalny"
     }
 ]

@@ -1,22 +1,22 @@
 [
     {
         "code": "battlefield",
-        "name": "Battlefield"
+        "name": "Pole bitwy"
     },
     {
         "code": "character",
-        "name": "Character"
+        "name": "Postać"
     },
     {
         "code": "event",
-        "name": "Event"
+        "name": "Wydarzenie"
     },
     {
         "code": "support",
-        "name": "Support"
+        "name": "Wsparcie"
     },
     {
         "code": "upgrade",
-        "name": "Upgrade"
+        "name": "Ulepszenie"
     }
 ]

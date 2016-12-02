@@ -1,7 +1,7 @@
 [
     {
         "code": "ability",
-        "name": "Ability"
+        "name": "Zdolno\u015b\u0107"
     },
     {
         "code": "droid",
@@ -9,14 +9,14 @@
     },
     {
         "code": "equipment",
-        "name": "Equipment"
+        "name": "Ekwipunek"
     },
     {
         "code": "vehicle",
-        "name": "Vehicle"
+        "name": "Pojazd"
     },
     {
         "code": "weapon",
-        "name": "Weapon"
+        "name": "Bro\u0144"
     }
 ]
