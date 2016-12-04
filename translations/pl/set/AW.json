@@ -1,924 +1,927 @@
 [
     {
         "code": "01001",
-        "flavor": "\"Whatever you're planning, it won't work.\"",
-        "name": "Captain Phasma",
-        "subtitle": "Elite Trooper",
-        "text": "Your non-unique characters have the Guardian keyword."
+        "flavor": "\"Cokolwiek planujecie, to się nie uda.\"",
+        "name": "Kapitan Phasma",
+        "subtitle": "Elitarny żołnierz",
+        "text": "Twoje nie-unikatowe postacie posiadają słowo kluczowe Strażnik."
     },
     {
         "code": "01002",
-        "flavor": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
-        "name": "First Order Stormtrooper"
+        "flavor": "Członkowie tej najnowszej generacji szturmowców są od małego szkoleni i bezustannie karmieni propagandą Najwyższego Porządku. Gwarantuje to, że będą ślepo posłuszni.",
+        "name": "Szturmowiec Najwyższego Porządku"
     },
     {
         "code": "01003",
-        "name": "General Grievous",
-        "subtitle": "Jedi Hunter",
-        "text": "Before an opponent's character is defeated, you may move one of their non-<i>ability</i> upgrades to this character."
+        "name": "Generał Grievous",
+        "subtitle": "Łowca Jedi",
+        "text": "Przed tym, jak postać dowolnego przeciwnika zostanie pokonana, możesz poruszyć na tę postać jedno z jej ulepszeń nie-<b>zdolności</b>."
     },
     {
         "code": "01004",
-        "flavor": "\"General, prepare your troops for a surface attack.\" <cite>Darth Vader</cite>",
-        "name": "General Veers",
-        "subtitle": "Field Commander",
-        "text": "<b>Action</b> - Remove this die to turn one of your support dice to any side."
+        "flavor": "\"Generale, przygotuj wojska do ataku naziemnego.\" <cite>Darth Vader</cite>",
+        "name": "Generał Veers",
+        "subtitle": "Dowódca polowy",
+        "text": "<b>Akcja</b> - Usuń tę kość, aby obrócić jedną z twoich kości wsparcia na dowolną ścankę."
     },
     {
         "code": "01005",
-        "flavor": "The All Terrain Scout Transport filled both support and reconnaissance roles in the Galactic Empire's war machine.",
+        "flavor": "Uniwersalne maszyny kroczące AT-ST pełniły w machinie wojennej Imperium Galaktycznego rolę zarówno pojazdów wsparcia, jak i zwiadu.",
         "name": "AT-ST",
-        "text": "[special] - Discard a support from play."
+        "text": "[special] - Odrzuć z gry dowolne wsparcie."
     },
     {
         "code": "01006",
-        "name": "First Order TIE Fighter",
-        "text": "[special] - Remove all shield from all of an opponent's characters."
+        "name": "Myśliwiec Tie Najwyższego Porządku",
+        "text": "[special] - Usuń wszystkie żetony osłon ze wszystkich postaci dowolnego przeciwnika."
     },
     {
         "code": "01007",
-        "name": "Commanding Presence",
-        "text": "Red character only.\n[special] - Choose a Red die. If it is your die, resolve it, increasing its value by 2. If it is an opponent's die, remove it."
+        "name": "Onieśmielająca obecność",
+        "text": "Tylko czerwona postać.\n[special] - Wybierz czerwoną kość. Jeśli to twoja kość, rozpatrz ją,zwiększając jej wartość o 2. Jeśli to kość przeciwnika, usuń ją."
     },
     {
         "code": "01008",
-        "name": "F-11D Rifle",
-        "text": "Redeploy.\n[special] - Force an opponent to deal 2 damage to their characters, distributing the damage as they wish."
+        "name": "Karabin F-11D",
+        "text": "Przepisanie.\n[special] - Zmuś dowolnego przeciwnika, aby zadał 2 obrażenia swoim postaciom (sam decyduje, jak je rozdzieli)."
     },
     {
         "code": "01009",
-        "name": "Count Dooku",
-        "subtitle": "Devious Strategist",
-        "text": "Before this character is dealt 1 or more damage, you may discard a card from your hand to give him 1 shield."
+        "name": "Hrabia Dooku",
+        "subtitle": "Przebiegły strateg",
+        "text": "Przed tym, jak ta postać otrzyma 1 lub więcej obrażeń, możesz odrzucić kartę z twojej ręki, aby dać jej 1 żeton osłony."
     },
     {
         "code": "01010",
-        "flavor": "\"If you will not fight, then you will meet your destiny.\"",
+        "flavor": "\"Skoro nie chcesz walczyć, spotkasz swoje/n przeznaczenie\"",
         "name": "Darth Vader",
-        "subtitle": "Sith Lord",
-        "text": "After you activate this character you may force an opponent to choose and discard a card from their hand."
+        "subtitle": "Lord Sithów",
+        "text": "Po tym, jak aktywujesz tą postać,\n możesz zmusić dowolnego\n przeciwnika, aby wybrał i odrzucił\n kartę ze swojej ręki"
     },
     {
         "code": "01011",
         "name": "Kylo Ren",
-        "subtitle": "Vader's Disciple",
-        "text": "[special] - Choose an opponent's character. Then look at a random card in that opponent's hand and deal damage to that character equal to the cost of the card you just looked at."
+        "subtitle": "Spadkobierca Vadera",
+        "text": "[special] - Wybierz postać dowolnego przeciwnika. Następnie podejrzyj losową kartę z ręki danego przeciwnika i zadaj wybranej postaci obrażenia w liczbie równej kosztowi właśnie podejrzanej karty."
     },
     {
         "code": "01012",
-        "flavor": "Nightsisters deftly manipulate the Force to serve their own ends.",
-        "name": "Nightsister",
-        "text": "<b>Action</b> - Remove a die. Deal 1 damage to this character."
+        "flavor": "Siostry Nocy brylują w wykorzystywaniu Mocy dla własnych celów.",
+        "name": "Siostra Nocy",
+        "text": "<b>Akcja</b> - Przerzuć dowolną kość.\nZadaj 1 obrażenie tej postaci."
     },
     {
         "code": "01013",
-        "name": "Force Choke",
-        "text": "Blue character only.\n[special] - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side."
+        "name": "Duszenie mocą",
+        "text": "Tylko niebieska postać.\n[special] - Zadaj 1 nieblokowane obrażenie innej postaci. Następnie możesz obrócić na dowolną stronę jedną z kości postaci lub ulepszeń danej postaci."
     },
     {
         "code": "01014",
-        "name": "Immobilize",
-        "text": "Blue Character only.\n<b>Action</b> - Remove this die to turn a die to a side showing a blank ([blank])."
+        "name": "Unieruchomienie",
+        "text": "Tylko niebieska postać.\n<b>Akcja</b> - Usuń tę kość, aby obrócić dowolną kość na pustą ściankę ([blank])."
     },
     {
         "code": "01015",
-        "name": "Kylo Ren's Lightsaber",
-        "text": "Blue character only.\n[special] - Deal 2 damage to a character. If any of this damage is blocked by shields, reroll this die instead of removing it from your pool."
+        "name": "Miecz świetlny Kylo Rena",
+        "text": "Tylko niebieska postać.\n[special] - Zadaj 2 obrażenia dowolnej postaci. Jeśli którekolwiek z tych obrażeń zostanie zablokowane przez osłonę, przerzuć tę kość, zamiast usuwać ją z twojej puli."
     },
     {
         "code": "01016",
-        "name": "Sith Holocron",
-        "text": "[special] - Switch this upgrade with a Blue <i>ability</i> upgrade in your hand, ignoring its play restrictions. Then you may spend 1 resource to roll its die into your pool, if able."
+        "name": "Holokron Sithów",
+        "text": "[special] - Zamień to ulepszenie na niebieskie\nulepszenie <b>zdolność</b> z twojej ręki, ignorując jego ograniczenie zagrania. Następnie możesz wydać 1 żeton zasobu, aby rzucić jego kością do twojej puli, jesli to możliwe."
     },
     {
         "code": "01017",
-        "name": "Infantry Grenades",
-        "text": "[special] - Deal 2 damage to each of an opponent's characters. Discard this upgrade from play."
+        "name": "Granaty przeciwpiechotne",
+        "text": "[special] - Zadaj po 2 obrażenia każdej postaci dowolnego przeciwnika.\nOdrzuć to ulepszenie z gry."
     },
     {
         "code": "01018",
-        "name": "Speeder Bike Scout",
-        "text": "[special] - Remove a die. You may take one additional action."
+        "name": "Zwiadowca na skuterze",
+        "text": "[special] - Usuń dowolną kość. Możesz wykonać jedną dodatkową akcję."
     },
     {
         "code": "01019",
         "name": "Bala-Tik",
-        "subtitle": "Gang Leader",
-        "text": "After an opponent's character is defeated, you may ready this character."
+        "subtitle": "Herszt Gangu",
+        "text": "Po tym, jak postać dowolnego przeciwnika zostanie pokonana, możesz przygotować tę postać."
     },
     {
         "code": "01020",
-        "flavor": "\"I shall enjoy watching you die.\"",
-        "name": "Jabba the Hutt",
-        "subtitle": "The Great and Mighty",
-        "text": "After you activate this character, you may reroll a Yellow die."
+        "flavor": "\"Chętnie popatrzę, jak umierasz.\"",
+        "name": "Hutt Jabba",
+        "subtitle": "Wielki i potężny",
+        "text": "Po tym, jak aktywujesz tę postać, możesz przerzucić dowolną żółtą kość."
     },
     {
         "code": "01021",
-        "flavor": "\"There can be no mistakes this time.\"",
+        "flavor": "\"Tym razem nie możesz się pomylić.\"",
         "name": "Jango Fett",
-        "subtitle": "Lethal Mercenary",
-        "text": "After an opponent activates a character, you may activate this character."
+        "subtitle": "Śmiertelnie groźny najemnik",
+        "text": "Po tym, jak dowolny przeciwnik aktywuje postać, możesz aktywować tę postać."
     },
     {
         "code": "01022",
-        "name": "Tusken Raider",
-        "text": "After you activate this character, you may discard a card from your hand to resolve one of its character or upgrade dice."
+        "name": "Człowiek pustyni",
+        "text": "Po tym, jak aktywujesz tę postać, możesz odrzucić dowolną kartę z twojej ręki, aby rozpatrzyć jedną z jej kości postaci lub ulepszenia."
     },
     {
         "code": "01023",
-        "name": "Crime Lord",
-        "text": "[special] - Spend 5 resources to choose a character. That character is defeated after this round ends."
+        "name": "Szef gangsterów",
+        "text": "Tylko żólta postać.\n[special] - Wydaj 5 żetonów zasobów, aby wybrać dowolną postać. Wybrana postać zostaje pokonana po zakończeniu aktualnej rundy."
     },
     {
         "code": "01024",
-        "name": "Flame Thrower",
-        "text": "[special] - Deal 1 damage each to up to 3 different characters."
+        "name": "Miotacz ognia",
+        "text": "[special] - Zadaj po 1 obrażeniu maksymalnie 3 różnym postaciom."
     },
     {
         "code": "01025",
-        "name": "Gaffi Stick",
-        "text": "Redeploy.\n[special] - Remove one of your dice showing melee damage ([melee]) to deal 3 damage to a character."
+        "name": "Kij Gaffi",
+        "text": "Przepisanie.\n[special] - Usuń jedną z twoich kości przedstawiających obrażenia wręcz ([melee]), aby zadać 3 obrażenia dowolnej postaci."
     },
     {
         "code": "01026",
-        "name": "On the Hunt",
-        "text": "[special] - Remove all shields from a character. You may spend 1 resource to remove one of its character or upgrade dice."
+        "name": "Łowy",
+        "text": "[special] - Usuń wszystkie żetony osłon z dowolnej postaci. Możesz wydać 1 żeton zasobu, aby usunąć jedną z kości postaci lub ulepszenia danej postaći."
     },
     {
         "code": "01027",
-        "name": "Admiral Ackbar",
-        "subtitle": "Perceptive Tactician",
-        "text": "After an opponent plays or discards the last card from their hand, they choose and deal 2 damage to one of their characters."
+        "name": "Admirał Ackbar",
+        "subtitle": "Biegły taktyk",
+        "text": "Po tym, jak dowolny przeciwnik zagra lub odrzuci ostatnią kartę ze swojej ręki, musi wybrać jedną ze swoich postaci i zadać jej 2 obrażenia."
     },
     {
         "code": "01028",
-        "flavor": "\"Someone has to save our skins.\"",
+        "flavor": "\"Ktoś musi nas ratować.\"",
         "name": "Leia Organa",
-        "subtitle": "Born Leader",
-        "text": "<b>Action</b> - Remove this die to reroll up to 2 of your dice."
+        "subtitle": "Urodzona przywódczyni",
+        "text": "<b>Akcja</b> - Usuń tę kość, aby przerzucić maksymalnie 2 z twoich kości."
     },
     {
         "code": "01029",
         "name": "Poe Dameron",
-        "subtitle": "Ace Pilot",
-        "text": "[special] - Discard a card from your hand to resolve one of the sides of its die, if able. Then, if it was a <b>vehicle</b> card, you may pay its cost to play it from your discard pile."
+        "subtitle": "As Przestworzy",
+        "text": "[special] - Odrzuć kartę z twojej ręki, aby rozpatrzyć jedną ze ścianek jej kości, jeśli to możliwe. Następnie, jeśli odrzuconą kartą był  <b>pojazd</b>, możesz zapłacić jego koszt, aby zagrać go z twojego stosu kart odrzuconych."
     },
     {
         "code": "01030",
-        "name": "Rebel Trooper",
-        "text": "Guardian."
+        "name": "Rebeliancki Żołnierz",
+        "text": "Strażnik."
     },
     {
         "code": "01031",
-        "name": "Launch Bay",
-        "text": "The X on this die is equal to the number of cards in your hand."
+        "name": "Hangar lotniczy",
+        "text": "X na tej kości jest równy liczbie kart na twojej ręce."
     },
     {
         "code": "01032",
-        "flavor": "Poe Dameron's X-Wing was modified to be even more versatile than the standard T-70",
-        "name": "Black One",
-        "text": "[special] - Deal 1 damage to a character. Reroll this die instead of removing it from your pool."
+        "flavor": "X-Wing Poego Damerona został zmodyfikowany, dzięki czemu był jeszcze zwrotniejszy niż standardowe T-70.",
+        "name": "Czarny",
+        "text": "[special] - Zadaj 1 obrażenie dowolnej postaci. Przerzuć tę kość, zamiast usuwać ją z puli."
     },
     {
         "code": "01033",
-        "name": "Scout",
-        "text": "[special] - Look at an opponent's hand and discard the cheapest card from it (you choose in the case of a tie)."
+        "name": "Zwiadowca ",
+        "text": "[special] - Podejrzyj karty na ręce dowolnego przeciwnika i odrzuć najtańszą z nich <i>(w przypadku remisu ty wybierasz).</i>"
     },
     {
         "code": "01034",
-        "flavor": "To hide from the Empire, the rebels must often brave harsh environments.",
-        "name": "Survival Gear"
+        "flavor": "Aby ukryć się przed Imperium, rebelianci często są zmuszeni znosić ekstremalne warunki.",
+        "name": "Zestaw przetrwania"
     },
     {
         "code": "01035",
-        "flavor": "\"I am a Jedi, like my father before me.\"",
+        "flavor": "\"Jestem Jedi, jak kiedyś mój ojciec.\"",
         "name": "Luke Skywalker",
-        "subtitle": "Jedi Knight",
-        "text": "After you activate this character, draw a card."
+        "subtitle": "Rycerz Jedi",
+        "text": "Po tym, jak aktywujesz tę postać, dobierz kartę."
     },
     {
         "code": "01036",
         "name": "Padawan",
-        "text": "While this character does not have an upgrade, the cost to attach a <i>weapon</i> to it is decreased by 1."
+        "text": "Dopóki ta postać nie posiada żadnego ulepszenia, koszt dołączenia do niej <b>broni</b> jest zmniejszony o 1."
     },
     {
         "code": "01037",
-        "flavor": "\"Your focus determines your reality.\"",
+        "flavor": "\"Twoje skupienie określa twoją rzeczywistość.\"",
         "name": "Qui-Gon Jinn",
-        "subtitle": "Ataru Master",
-        "text": "Before this character gains 1 or more shields, you may remove 1 of his shields to deal 1 damage to a character."
+        "subtitle": "Mistrz Ataru",
+        "text": "Przed tym, jak ta postać zyska 1 lub więcej żetonów osłon, możesz usunąć z niej 1 z jej żetonów osłon, aby zadać 1 obrażenie dowolnej postaci."
     },
     {
         "code": "01038",
-        "flavor": "\"I think I can handle myself.\"",
+        "flavor": "\"Wiem, co robię\"",
         "name": "Rey",
-        "subtitle": "Force Prodigy",
-        "text": "After you play an upgrade on this character, you may take one additional action."
+        "subtitle": "Dziecko Mocy",
+        "text": "Po tym, jak zagrasz na tę postać dowolne ulepszenie, możesz wykonać jedną dodatkową akcję."
     },
     {
         "code": "01039",
-        "name": "Force Protection",
-        "text": "Blue character only.\n[special] - Give 3 shields to your characters, distributed as you wish."
+        "name": "Ochrona mocy",
+        "text": "Tylko niebieska postać.\n[special] - Daj 3 żetony osłony twoim postaciom (sam decydujesz, jak je rozdzielić)."
     },
     {
         "code": "01040",
-        "name": "Jedi Robes",
-        "text": "After you play this upgrade, give attached character 1 shield, or 2 shields instead in the first round of play."
+        "name": "Szaty Jedi",
+        "text": "Po tym, jak zagrasz to ulepszenie, daj postaci, do której dołączono tę kartę, 1 żeton osłony lub zamiast tego 2 żetony osłon, jeśli jest to pierwsza runda gry."
     },
     {
         "code": "01041",
-        "name": "Luke Skywalker's Lightsaber",
-        "text": "Blue character only.\n[special] - Give a character 2 shields or deal 2 unblockable damage to a character."
+        "name": "Miecz świetlny Luke'a Skywalkera",
+        "text": "Tylko niebieska postać.\n[special] - Daj dowolnej postaci 2 żetony osłon lub zadaj 2 nieblokowalne obrażenia dowolnej postaci."
     },
     {
         "code": "01042",
-        "name": "One with The Force",
-        "text": "Blue character only.\nBefore attached character is defeated, this upgrade becomes a support for the rest of the game (it starts ready)."
+        "name": "Jedność z mocą",
+        "text": "Tylko niebieska postać.\nPrzed tym, jak postać, do której dołączono tę kartę, zostanie pokonana, do końca gry to ulepszenie staje się wsparciem<i>(zaczyna przygotowane)</i>."
     },
     {
         "code": "01043",
-        "flavor": "\"Orange and white: one of a kind.\" <cite>Poe Dameron</cite>",
+        "flavor": "\"Pomarańczowo-biały. Jedyny w swoim rodzaju.\"<cite>Poe Dameron</cite>",
         "name": "BB-8",
-        "text": "[special] - Reroll this die and one of your other dice.  Do not remove this die from your pool after resolving this ability."
+        "text": "[special] - Przerzuć tę kość i jedną inną twoją kość. Nie usuwaj tej kości ze swojej puli po tym, jak rozpatrzysz tę zdolność."
     },
     {
         "code": "01044",
-        "name": "Rey's Staff",
-        "text": "[special] - Remove a die showing damage ([melee] or [ranged])"
+        "name": "Kij Rey",
+        "text": "[special] - Usuń dowolną kość przedstawiającą obrażenia ([melee] lub [ranged])."
     },
     {
         "code": "01045",
-        "flavor": "\"I'm not going back.\"",
+        "flavor": "\"Nie wrócę tam.\"",
         "name": "Finn",
-        "subtitle": "First Order Defector",
-        "text": "You can attach any <i>weapon</i> to this character, ignoring play restrictions.\nYou can include Red Villain <i>weapons</i> and <i>vehicles</i> in your deck."
+        "subtitle": "Dezerter z Najwyższego Porządku",
+        "text": "Do tej postaci możesz dołączyć dowolną <b>broń</b>, ignorując ograniczenia zagrania.\nW swojej talii możesz zawrzeć czerwone <b>bronie</b> złoczyńców oraz czerwone <b>pojazdy</b> złoczyńców."
     },
     {
         "code": "01046",
+        "flavor": "\"Wiesz, czasami sam siebie zadziwiam.\"",
         "name": "Han Solo",
-        "subtitle": "Scoundrel",
-        "text": "After you play a card with the Ambush keyword, you may give this character 1 shield."
+        "subtitle": "Łajdak",
+        "text": "Po tym, jak zagrasz kartę ze słowem kluczowym Zasadzka, możesz dać tej postaci 1 żeton osołony."
     },
     {
         "code": "01047",
-        "flavor": "\"You needn't worry about your reward. If money is all that you love, then that's what you'll receive.\" <cite>Leia Organa</cite>",
-        "name": "Hired Gun"
+        "flavor": "\"Nie martw się o nagrodę. Jeśli tak kochasz pieniądze, dostaniesz je.\" <cite>Leia Organa</cite>",
+        "name": "Strzelec do wynajęcia"
     },
     {
         "code": "01048",
-        "flavor": "\"My fate will be no different to that of our people.\"",
+        "flavor": "\"Będę dzieliła los mojego ludu.\"",
         "name": "Padme Amidala",
-        "subtitle": "Queen of Naboo",
-        "text": "[special] - Discard the top card of an opponent's deck or spend 1 resource to discard the top 2 cards of an opponent's deck."
+        "subtitle": "Królowa Naboo",
+        "text": "[special] - Odrzuć wierzchnią kartę z talii dowolnego przeciwnika lub wydaj 1 żeton zasobu, aby odrzucić 2 wierzchnie karty z talii dowolnego przeciwnika."
     },
     {
         "code": "01049",
-        "flavor": "\"She may not look like much, but she's got it where it counts.\" <cite>Han Solo</cite>",
-        "name": "Millenium Falcon",
-        "text": "[special] - Play a Yellow event from your discard pile or hand for free."
+        "flavor": "\"Może nie wygląda imponująco, ale nie to się liczy.\" <cite>Han Solo</cite>",
+        "name": "Sokół Millennium",
+        "text": "[special] - Zagraj za darmo żółte wydarzenie z twojego stosu kart odrzuconych lub z twojej ręki."
     },
     {
         "code": "01050",
-        "name": "Diplomatic Immunity",
-        "text": "The shields from this die can be given to any of your characters distributed as you wish."
+        "name": "Immunitet dyplomatyczny",
+        "text": "Zetony osłon z tej kości mogą być dawane dowolnym twoim postaciom (sam decydujesz, jak je rozdzielić)."
     },
     {
         "code": "01051",
-        "name": "DL-44 Heavy Blaster Pistol",
-        "text": "Ambush.\nAfter you play this upgrade, force an opponent to choose and remove one of their dice."
+        "name": "Ciężki pistolet blasterowy DL-44",
+        "text": "Zasadzka.\nPo tym, jak zagrasz to ulepszenie, zmuś dowolnego przeciwnika, aby wybrał i usunął jedną ze swoich kości."
     },
     {
         "code": "01052",
-        "name": "Infiltrate",
-        "text": "[special] - Reroll up to 2 of an opponent's dice."
+        "name": "Infiltracja",
+        "text": "[special] - Przerzuć maksymalnie 2 kości dowolnego przeciwnika."
     },
     {
         "code": "01053",
-        "name": "Outpost",
-        "text": "[special] - Resolve the battlefield ability as if you had just claimed it."
+        "name": "Placówka",
+        "text": "[special] - Rozpatrz zdolność pola bitwy tak, jakbyś je właśnie zajął."
     },
     {
         "code": "01054",
-        "flavor": "The weapon of choice for rebel soldiers and imperial officers alike during the Galactic Civil War.",
-        "name": "DH-17 Blaster Pistol"
+        "flavor": "Broń chętnie wykorzystywana podczas galaktycznej wojny domowej zarówno przez oficerów Imperium, jak i rebelianckich żołnierzy.",
+        "name": "Pistolet Blasterowy DH-17"
     },
     {
         "code": "01055",
-        "name": "IQA-11 Blaster Rifle",
-        "text": "[special] - Deal 2 unblockable damage to a character."
+        "name": "Karabin blasterowy IQA-11",
+        "text": "[special] - Zadaj 2 nieblokowalne obrażenia dowolnej postaci."
     },
     {
         "code": "01056",
-        "name": "Promotion",
-        "text": "Red character only.\nAfter you play this upgrade, you may draw a card."
+        "name": "Awans",
+        "text": "Tylko czerwona postać.\nPo tym, jak zagrasz to ulepszenie, możesz dobrać kartę."
     },
     {
         "code": "01057",
-        "name": "Force Throw",
-        "text": "Blue Character Only.\n[special] - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeroes)."
+        "name": "Rzut mocą",
+        "text": "Tylko niebieska postać.\n[special] - Usuń dowolną kość, aby zadać dowolnej postaci obrażenia równe wartości przedstawionej na danej kości (ścianki specjalne oraz puste to zera)."
     },
     {
         "code": "01058",
-        "name": "Force Training",
-        "text": "To play, spot a Blue character.\n[special] - Choose and do two of the following: deal 1 damage to a character, or gain 1 resource, or give a character 1 shield."
+        "name": "Szkolenie mocy",
+        "text": "Aby zagrać, wyznacz niebieską postać.\n[special] - Wybierz i wykonaj dwie z następujących opcji: zadaj 1 obrażenie dowolnej postaci, zyskaj 1 żeton zasobu lub daj dowolnej postaci 1 żeton osłony."
     },
     {
         "code": "01059",
-        "name": "Lightsaber",
-        "text": "Redeploy.\n[special] - Deal 2 unblockable damage to a character."
+        "flavor": "\"Elegancka broń na bardziej cywilizowane czasy.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Miecz świetlny",
+        "text": "Przepisanie.\n[special] - Zadaj 2 nieblokowalne obrażenia dowolnej postaci."
     },
     {
         "code": "01060",
-        "name": "Mind Probe",
-        "text": "Blue Character only.\n[special] - Deal an opponent's character 1 damage for each card in that opponent's hand."
+        "name": "Sondowanie umysłu",
+        "text": "Tylko niebieska postać.\n[special] - Zadaj postaci dowolnego przeciwnika 1 obrażenie za każdą kartę na ręce danego przeciwnika."
     },
     {
         "code": "01061",
-        "name": "Comlink",
-        "text": "After you play this upgrade, you may reroll any number of your dice or any number of an opponent's dice."
+        "name": "Komunikator",
+        "text": "Po tym, jak zagrasz to ulepszenie, możesz przerzucić dowolną liczbę swoich kości lub dowolną liczbę kości dowolnego przeciwnika."
     },
     {
         "code": "01062",
         "name": "Datapad",
-        "text": "[special] - Turn one of your dice to a side not showing damage ([ranged] or [melee])"
+        "text": "[special] - Obróć jedną z twoich kości na ściankę nieprzedstawiającą obrażeń ([ranged] ani [melee])."
     },
     {
         "code": "01063",
-        "name": "Holdout Blaster",
-        "text": "Ambush. Redeploy."
+        "name": "Podręczny pistolet blasterowy",
+        "text": "Zasadzka.\nPrzepisanie."
     },
     {
         "code": "01064",
-        "name": "Black Market",
-        "text": "[special] - Draw 2 cards. You may play an upgrade from your hand, decreasing its cost by 1."
+        "name": "Czarny rynek",
+        "text": "[special] - Dobierz 2 karty. Możesz zagrać ze swojej ręki dowolne ulepszenie, zmniejszając jego koszt o 1."
     },
     {
         "code": "01065",
-        "name": "Cunning",
-        "text": "Yellow character only.\n[special] - Resolve a special ability ([special]) on another card in play as if it were your card."
+        "name": "Spryt",
+        "text": "Tylko żółta postać.\n[special] - Rozpatrz dowolną specjalną zdolność ([special]) innej karty w grze tak, jakby to była twoja karta. "
     },
     {
         "code": "01066",
-        "name": "Jetpack",
-        "text": "[special] - Remove a die showing melee damage ([melee]) and give attached character 1 shield."
+        "name": "Plecak odrzutowy",
+        "text": "[special] - Usuń dowolną kość przedstawiającą obrażenia wręcz ([melee]) i daj postaci, do której dołączono tę kartę, 1 żeton osłony."
     },
     {
         "code": "01067",
-        "name": "Thermal Detonator",
-        "text": "To play, spot a Yellow character.\n[special] - Deal 3 damage to each of an opponent's characters. Discard this upgrade from play."
+        "name": "Detonator termiczny",
+        "text": "Aby zagrać, wyznacz żółtą postać.\n[special] - Zadaj po 3 obrażenia każdej postaci dowolnego przeciwnika. Usuń to ulepszenie z gry."
     },
     {
         "code": "01068",
-        "name": "Cannon Fodder",
-        "text": "Deal one of your non-unique characters damage equal to the value of an opponent's die showing damage ([melee] or [ranged]). Then remove that die."
+        "name": "Mięso armatnie",
+        "text": "Zadaj jednej z twoich nie-unikatowych postaci obrażenia równe wartości jednej, przedstawiającej obrażenia([ranged] lub [melee]) kości dowolnego przeciwnika. Następnie usuń daną kość."
     },
     {
         "code": "01069",
-        "name": "Closing the Net",
-        "text": "Force an opponent to choose and remove one of their dice. You may place this event on the bottom of your deck instead of discarding it."
+        "name": "Pętla się zaciska",
+        "text": "Zmuś dowolnego przeciwnika, aby wybrał i usunął jedną ze swoich kości. Zamiast odrzucać to wydarzenie, możesz umieścić je na spodzie swojej talii."
     },
     {
         "code": "01070",
-        "flavor": "Battle droids are less effective than flesh and blood soldiers, but they are also much cheaper to replace.",
-        "name": "Endless Ranks",
-        "text": "Return one of your defeated non-unique Red characters to the game with no damage on it."
+        "flavor": "Droidy bojowe są mniej skuteczne niż żołnierze z krwi i kości, jednak znacznie łatwiej zastąpić je nowymi.",
+        "name": "Nieprzebrane zastępy",
+        "text": "Cofnij do gry, bez żetonów obrażeń, jedną z twoich pokonanych, nie-unikatowych, czerwonych postaci."
     },
     {
         "code": "01071",
-        "name": "Occupation",
-        "text": "Play only if you control the battlefield.\nForce an opponent to lose all of their resources."
+        "name": "Okupacja",
+        "text": "Zagraj tylko, jeśli kontrolujesz pole bitwy.\nZmuś dowolnego przeciwnika, aby stracił wszystkie swoje żetony zasobów."
     },
     {
         "code": "01072",
-        "name": "Probe",
-        "text": "Look at two random cards from your opponent's hand. Discard any of these cards that are events."
+        "name": "Sonda",
+        "text": "Podejrzyj 2 losowe karty z ręki dowolnego przeciwnika i odrzuć te z nich, które są wydarzeniami."
     },
     {
         "code": "01073",
-        "name": "Sweep the Area",
-        "text": "Count the number of ready Red characters you have. Reroll that many of an opponent's dice."
+        "name": "Przeczesać teren",
+        "text": "Ustal liczbę twoich przygotowanych czerwonych postaci. Przerzuć taką samą liczbę kości dowolnego przeciwnika."
     },
     {
         "code": "01074",
-        "name": "Tactical Mastery",
-        "text": "Spot a Red character to take up to 2 additional actions."
+        "name": "Biegłość taktyczna",
+        "text": "Wyznacz czerwoną postać, aby wykonać maksymalnie 2 dodatkowe akcje."
     },
     {
         "code": "01075",
-        "flavor": "\"There they are! Blast them!\"",
-        "name": "The Best Defense...",
-        "text": "Deal one of your Red characters 3 damage to remove up to 2 of an opponent's dice."
+        "flavor": "\"Tam są! Zastrzelić ich.\"",
+        "name": "Najlepszą obroną...",
+        "text": "Zadaj 3 obrażenia jednej z twoich czerwonych postaci, aby usunąć maksymalnie 2 kości dowolnego przeciwnika."
     },
     {
         "code": "01076",
-        "name": "Drudge Work",
-        "text": "<b>Action</b> - Exhaust this support and one of your characters to gain 1 resource."
+        "name": "Ciężka praca",
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie oraz jedną z twoich postaci, aby zyskać 1 żeton zasobu."
     },
     {
         "code": "01077",
-        "name": "Local Garrison",
-        "text": "Each opponent gains 1 fewer resource during each upkeep phase to a minimum of 1."
+        "name": "Lokalny garnizon",
+        "text": "Każdy przeciwnik, w każdej fazie utrzymania, zyskuje 1 żeton zasobów mniej (wciąż zyskuje minimum 1)."
     },
     {
         "code": "01078",
-        "name": "Personal Escort",
-        "text": "Attached character has the Guardian keyword."
+        "name": "Osobista eskorta",
+        "text": "Postać, do której dołączono tę kartę, posiada słowo kluczowe Strażnik."
     },
     {
         "code": "01079",
-        "name": "Abandon All Hope",
-        "text": "Force an opponent to choose to either lose all of their resources or discard all cards in their hand."
+        "name": "Porzuć wszelką nadzieję",
+        "text": "Zmuś dowolnego przeciwnika, aby wybrał, czy traci wszystkie swoje żetony zasobów, czy odrzuca wszystkie karty ze swojej ręki."
     },
     {
         "code": "01080",
-        "name": "Boundless Ambition",
-        "text": "Draw cards up to your hand size."
+        "name": "Wybujała ambicja",
+        "text": "Dobierz karty, aby mieć na ręce karty w liczbie równej twojemu limitowi ręki."
     },
     {
         "code": "01081",
-        "name": "Enrage",
-        "text": "Deal 1 damage to one of your Blue characters to gain 1 resource."
+        "name": "Wściekłość",
+        "text": "Zadaj 1 obrażenie jednej z twoich niebieskich postaci, aby zyskać 1 żeton zasobu."
     },
     {
         "code": "01082",
-        "flavor": "\"Let the hate flow through you.\" <cite>Emperor Palpatine</cite>",
-        "name": "Feel Your Anger",
-        "text": "Count the number of blanks ([blank]) showing on an opponent's dice. Remove that many of their dice."
+        "flavor": "\"Daj upust nienawiści.\" <cite>Imperator Palpatine</cite>",
+        "name": "Posłuchaj swojego gniewu",
+        "text": "Ustal liczbę pustych ścianek ([blank]) widocznych na kościach dowolnego przeciwnika. Usuń taką samą liczbę jego kości."
     },
     {
         "code": "01083",
-        "name": "Force Strike",
-        "text": "Turn one of your blue dice to the side showing melee damage ([melee]), then you may resolve it immediately."
+        "name": "Atak Mocą",
+        "text": "Obróć jedną z twoich niebieskich kości na stronę przedstawiającą obrażenia wręcz ([melee]).\nNastępnie możesz rozpatrzyć daną kość."
     },
     {
         "code": "01084",
-        "name": "Intimidate",
-        "text": "Remove all shields from a character."
+        "name": "Zastraszenie",
+        "text": "Usuń wszystkie żetony osłon z dowolnej postaci."
     },
     {
         "code": "01085",
-        "name": "Isolation",
-        "text": "Spot a Blue character to remove a character die."
+        "name": "Odosobnienie",
+        "text": "Wyznacz niebieską postać, aby usunąć jedną kość dowolnej postaci."
     },
     {
         "code": "01086",
-        "name": "No Mercy",
-        "text": "Discard any number of Blue cards from your hand. Then resolve one of your dice showing damage ([melee] or [ranged]), increasing its value by 1 for each card you just discarded."
+        "name": "Bez litości",
+        "text": "Odrzuć dowolną liczbę niebieskich kart z twojej ręki. Nastepnie rozpatrz jedną z twoich kości przedstawiających obrażenia ([melee] lub [ranged]), zwiększając jej wartość o 1 za każdą właśnie odrzuconą kartę."
     },
     {
         "code": "01087",
-        "name": "Pulling the Strings",
-        "text": "Look at the top 3 cards of any deck. Then place those cards on the top and/or bottom of that deck in any order."
+        "name": "Pociągając za sznurki",
+        "text": "Podejrzyj 3 karty z wierzchu dowolnej talii. Następnie odłóż te karty na wierzch i/lub spód danej talii, w dowolnej kolejności."
     },
     {
         "code": "01088",
-        "name": "Emperor's Favor",
-        "text": "Your hand size is increased by 1."
+        "name": "Przychylność Imperatora",
+        "text": "Twój limit kart na ręcie zostaje zwiększony o 1."
     },
     {
         "code": "01089",
-        "flavor": "\"If you only knew the power of the dark side.\" <cite>Darth Vader</cite>",
-        "name": "Power of the Dark Side",
-        "text": "<b>Action</b> - Exaust this support to reroll one of your dice.  If that die rolls a blank ([blank]), deal 2 unblockable damage to a character."
+        "flavor": "\"Gdybyś tylko znał potęgę Ciemnej Strony.\" <cite>Darth Vader</cite>",
+        "name": "Potęga Ciemnej Strony",
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie, aby przerzucić jedną z twoich kości. Jeśli na danej kości wypadnie pusta ścianka ([blank]), zadaj 2 nieblokowalne obrażenia dowolnej postaci."
     },
     {
         "code": "01090",
-        "name": "Hidden In Shadow",
-        "text": "<b>Action</b> - If the character this card is attached to does not have any shields, you can exhaust this card to place one shield on that character."
+        "name": "Przyczajony w cieniu",
+        "text": "<b>Akcja</b> - Jeśli postać, do której dołączono tę kartę, nie posiada żadnych żetonów osłon, wyczerp to ulepszenie, aby dać jej 1 żeton osłony."
     },
     {
         "code": "01091",
-        "name": "Nowhere to Run",
-        "text": "Turn each of your dice showing a blank to any side."
+        "name": "Bez odwrotu",
+        "text": "Obróć na dowolną ściankę każdą z twoich kości przedstawiających pustą ściankę ([blank])."
     },
     {
         "code": "01092",
-        "name": "Ace in the Hole",
-        "text": "Discard a Yellow upgrade from your hand to roll its die into your pool, if able. Set aside that die after it is resolved or removed."
+        "name": "As w rękawie",
+        "text": "Odrzuć z twojej ręki żółtą kartę ulepszenia, aby rzucić jej kością do twojej puli, jeśli to możliwe. Odłóż tę kość na bok po tym, jak zostanie rozpatrzona lub usunięta."
     },
     {
         "code": "01093",
-        "name": "Armed to the Teeth",
-        "text": "Discard any number of upgrades from one of your Yellow characters. Then deal damage to a character equal to the number of upgrades you just discarded."
+        "name": "Uzbrojony po zęby",
+        "text": "Odrzuć dowolną liczbę ulepszeń z jednej z twoich żółtych postaci. Następnie zadaj dowolnej postaci obrażenia w liczbie odrzuconych właśnie ulepszeń."
     },
     {
         "code": "01094",
-        "name": "Confiscation",
-        "text": "Spend resources equal to the cost of an opponent's upgrade in play to return that upgrade to their hand."
+        "name": "Konfiskata",
+        "text": "Wydaj żetony zasobów w liczbie równej kosztowi ulepszenia, które dowolny przeciwnik ma w grze, aby cofnąć dane ulepszenie na jego rękę."
     },
     {
         "code": "01095",
-        "name": "Fight Dirty",
-        "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed."
+        "name": "Nieczysta walka",
+        "text": "Usuń dowolną liczbę z twoich żółtych kości. Następnie zadaj dowolnej postaci obrażenia w liczbie usuniętych właśnie kości."
     },
     {
         "code": "01096",
-        "name": "Go for the Kill",
-        "text": "Resolve one of your dice showing ranged damage ([ranged]), treating this damage as unblockable."
+        "name": "Ostateczny cios",
+        "text": "Rozpatrz jedną z twoich kości przedstawiających obrażenia dystansowe([ranged]), traktując te obrażenia jako nieblokowalne."
     },
     {
         "code": "01097",
-        "flavor": "\"I don't like you, either.\"",
-        "name": "He Doesn't Like You",
-        "text": "Remove one of your dice to remove an opponent's die."
+        "flavor": "\"Mi też nie\"",
+        "name": "Nie podobasz mu się",
+        "text": "Usuń jedną z twoich kości, aby usunąć jedną kość dowolnego przeciwnika."
     },
     {
         "code": "01098",
-        "name": "Lying in Wait",
-        "text": "Force an opponent to discard cards from their hand, until they hold the same amount of cards as you do."
+        "name": "Czekając w ukryciu",
+        "text": "Zmuś dowolnego przeciwnika, aby wybrał i odrzucił ze swojej ręki tyle kart, aby miał na ręce tyle samo kart co ty."
     },
     {
         "code": "01099",
-        "name": "Backup Muscle",
-        "text": "When you play this card place three single damage tokens on it.\n<b>Action</b> - Exhaust this card to move one damage token from it to an opponent's character of your choice."
+        "name": "Wsparcie awaryjne",
+        "text": "Po tym, jak zagrasz to wsparcie, umieść na nim 3 żetony obrażeń.\n<b>Akcja</b> - Wyczerp to wsparcie, aby przesunąć z niego 1 żeton obrażenia na dowolną postać <i>(ta zdolność ignoruje osłony)</i>."
     },
     {
         "code": "01100",
-        "name": "My Kind of Scum",
-        "text": "After you resolve a die showing disrupt ([disrupt]), you may exhaust this support to gain resources equal to the number of resources your opponent just lost."
+        "name": "Swój człowiek",
+        "text": "Po tym, jak rozpatrzysz kość przedstawiającą zakłócenie ([disrupt]), możesz wyczerpać to wsparcie, aby zyskać żetony zasobów w liczbie żetonów zasobów utraconych właśnie przez przeciwnika."
     },
     {
         "code": "01101",
-        "name": "Underworld Connections",
-        "text": "<b>Action</b> - Exhaust this support to gain 1 resource"
+        "name": "Kontakty w podziemiu",
+        "text": "<b>Akcja</b> - Wyczerp to ulepszenie, aby zyskać 1 żeton zasobu."
     },
     {
         "code": "01102",
-        "name": "Prized Possession",
-        "text": "After you play this upgrade, you may remove an opponent's character die and place it here. It is not rolled by any character and does not return to its character unless this upgrade leaves play."
+        "name": "Cenna zdobycz",
+        "text": "Po tym, jak zagrasz to ulepszenie, możesz usunąć jedną kość postaci dowolnego przeciwnika i umieścić ją tutaj. Nie rzuca nią żadna postać i nie wraca ona na odpowiednią postać, dopóki to ulepszenie nie opuści gry."
     },
     {
         "code": "01103",
-        "name": "Commando Raid",
-        "text": "Resolve one of your Red dice showing discard ([discard]), increasing its value by 2. Then draw a card."
+        "name": "Atak komandosów",
+        "text": "Rozpatrz jedną z twoich czerwonych kości przedstawiających odrzucenie ([discard]), zwiększając jego wartość o 2. Następnie dobierz kartę."
     },
     {
         "code": "01104",
-        "name": "Defensive Position",
-        "text": "Play only if you control the battlefield.\nRemove all of an opponent's dice showing a value of 2 or higher."
+        "name": "Pozycja obronna",
+        "text": "Zagraj tylko jeśli kontrolujesz pole bitwy./nUsuń wszystkie kości dowolnego przeciwnika przedstawiające wartość 2 lub wyższą."
     },
     {
         "code": "01105",
-        "name": "Field Medic",
-        "text": "Remove 2 damage from a character."
+        "name": "Sanitariusz",
+        "text": "Ulecz 2 obrażenia z dowolnej postaci."
     },
     {
         "code": "01106",
-        "name": "Hit and Run",
-        "text": "Ambush.\nActivate one of your Red characters."
+        "name": "Szybki atak i odwrót",
+        "text": "Zasadzka./nAktywuj jedną z twoich czerwonych postaci."
     },
     {
         "code": "01107",
-        "name": "It's a Trap!",
-        "text": "Ambush.\nChoose a symbol showing on an opponent's die. Then turn any number of your Red dice to sides showing that symbol."
+        "name": "To pułapka!",
+        "text": "Zasadzka./nWybierz symbol przedstawiony na kości dowolnego przeciwnika. Następnie obróć dowolną liczbę twoich dowolnych czerwonych kości na ścianki przedstawiające dany symbol."
     },
     {
         "code": "01108",
-        "name": "Natural Talent",
-        "text": "Resolve one of your dice, increasing its value by 1."
+        "name": "Wrodzony talent",
+        "text": "Rozpatrz jedną z twoich kości, zwiększając jej wartość o 1."
     },
     {
         "code": "01109",
-        "name": "Rearm",
-        "text": "Play a Red upgrade from your discard pile, decreasing its cost by 1."
+        "name": "Ponowne uzbrojenie",
+        "text": "Zagraj ze swojego stosu kart odrzuconych czerwoną kartę ulepszenia, zmniejszając jej koszt o 1."
     },
     {
         "code": "01110",
-        "name": "Retreat",
-        "text": "Your opponent may take 1 action. Then end the action phase."
+        "name": "Odwrót",
+        "text": "Twój przeciwnik może wykonać 1 akcję.\nNastępnie zakończ fazę akcji."
     },
     {
         "code": "01111",
-        "name": "Strategic Planning",
-        "text": "Ready or exhaust a support."
+        "name": "Planowanie strategiczne",
+        "text": "Przygotuj lub wyczerp dowolne wsparcie."
     },
     {
         "code": "01112",
-        "name": "Surgical Strike",
-        "text": "Remove any number of your Red dice showing ranged damage ([ranged]), increasing each of their values by 1, to discard a support from play that costs equal to or less than the combined value of those dice."
+        "name": "Chirurgiczny cios",
+        "text": "Usuń dowolną liczbę twoich czerwonych kości przedstawiających obrażenia dystansowe ([ranged]), zwiększając wartość każdej z nich o 1, aby odrzucić z gry wsparcie, które kosztuje tyle samo lub mniej niż łączna wartość usuniętych kości."
     },
     {
         "code": "01113",
-        "name": "Resistance HQ",
-        "text": "<b>Action</b> - Exhaust this support and discard a card from your hand to give a character 1 shield. Then ready this support unless an opponent spends 1 resource."
+        "name": "Dowództwo Ruchu Oporu",
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie i odrzuć kartę z twojej ręki, aby dać dowolnej postaci 1 żeton osłony. Następnie przygotuj to wsparcie, chyba że przeciwnik wyda 1 żeton zasobu."
     },
     {
         "code": "01114",
-        "name": "Anticipate",
-        "text": "Force an opponent to choose and resolve any number of their dice in the order of their choice. Then remove all of their dice they did not resolve."
+        "name": "Przewidywanie",
+        "text": "Zmuś dowolnego przeciwnika, aby wybrał i rozpatrzył dowolną liczbę swoich kości w wybranej przez niego kolejności. Następnie usuń wszystkie kości, których nie rozpatrzył."
     },
     {
         "code": "01115",
-        "name": "Defensive Stance",
-        "text": "Give a character 2 shields."
+        "name": "Postawa obronna",
+        "text": "Daj dowolnej postaci 2 żetony osłon."
     },
     {
         "code": "01116",
-        "name": "Force Misdirection",
-        "text": "Choose a symbol showing on one of your Blue dice. Then remove all of an opponent's dice showing that symbol."
+        "name": "Zmylenie Mocą",
+        "text": "Wybierz symbol przedstawiony na jednej z twoich niebieskich kości. Następnie usuń wszystkie kości dowolnego przeciwnika przedstawiające dany symbol."
     },
     {
         "code": "01117",
-        "name": "Heroism",
-        "text": "Deal one of your unique characters damage equal to the value of an opponent's die showing damage ([ranged] or [melee]). Then remove that die."
+        "name": "Bohaterstwo",
+        "text": "Zadaj jednej z twoich unikatowych postaci obrażenia równe wartości obrażeń ([ranged] lub [melee]) przedstawionych na kości dowolnego przeciwnika. Następnie usuń daną kość."
     },
     {
         "code": "01118",
-        "name": "Noble Sacrifice",
-        "text": "Defeat one of your Blue characters to exhaust a character."
+        "name": "Szlachetne poświęcenie",
+        "text": "Pokonaj jedną z twoich niebieskich postaci, aby wyczerpać dowolną postać."
     },
     {
         "code": "01119",
-        "name": "Patience",
-        "text": "Remove any number of your dice. Then discard cards from the top of an opponent's deck equal to the number of dice you just removed."
+        "name": "Cierpliwość",
+        "text": "Usuń dowolną liczbę twoich kości.\nNastępnie odrzuć z wierzchu talii dowolnego przeciwnika karty w liczbie usuniętych właśnie kości."
     },
     {
         "code": "01120",
-        "name": "Return of the Jedi",
-        "text": "Add a blue event from your discard pile to your hand."
+        "flavor": "\"Przekaż to, czego się nauczyłes\" <cite>Yoda</cite>",
+        "name": "Powrót Jedi",
+        "text": "Dodaj do twojej ręki niebieską kartę wydarzenia z twojego stosu kart odrzuconych."
     },
     {
         "code": "01121",
-        "name": "Riposte",
-        "text": "Remove any number of shields from one of your characters. Then deal damage to a character equal to the number of shields you just removed."
+        "name": "Odpowiedź",
+        "text": "Usuń dowolną liczbę żetonów osłon z jednej z twoich postaci. Następnie zadaj dowolnej postaci obrażenia w liczbie usuniętych właśnie osłon."
     },
     {
         "code": "01122",
-        "name": "Willpower",
-        "text": "Move 1 damage from one of your exhausted characters to an opponent's exhausted character (this ignores shields)."
+        "name": "Siła woli",
+        "text": "Przesuń 1 żeton obrażenia z jednej z twoich wyczerpanych postaci na wyczerpaną postać dowolnego przeciwnika (ta zdolność ignoruje osłony)."
     },
     {
         "code": "01123",
-        "name": "Jedi Council",
-        "text": "Action - Exhaust this support to look at the top 2 cards of a player's deck. Then you may discard one of those cards and have that player draw the other."
+        "name": "Rada Jedi",
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie, aby podejrzeć 2 wierzchnie karty z talii dowolnego gracza. Następnie możesz odrzucić jedną z nich i sprawić, aby dany gracz dobrał drugą."
     },
     {
         "code": "01124",
-        "name": "Awakening",
-        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing a modified side <em>(a side with a +)</em> as if it was not modified <em>(did not have the +).</em>"
+        "name": "Przebudzenie",
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie, aby rozpatrzyć jedną z twoich kości przedstawiającą ściankę z modyfikatorem <i>(ściankę z +)</i> tak, jakby nie była modyfikatorem <i>(nie miała +)</i>."
     },
     {
         "code": "01125",
-        "name": "The Force is Strong",
-        "text": "<b>Action</b> - Exhaust this support and discard a Blue card from your hand to play another copy of that card from your hand for free.</em>"
+        "name": "Moc jest silna",
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie i odrzuć ze swojej ręki niebieską kartę, aby za darmo zagrać ze swojej ręki inną kopię danej karty."
     },
     {
         "code": "01126",
-        "name": "Daring Escape",
-        "text": "Ambush.\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank])."
+        "name": "Śmiała ucieczka",
+        "text": "Zasadzka.\nPrzerzuć dowolną liczbę kości dowolnego przeciwnika. Następnie usuń wszystkie jego kości przedstawiające puste ścianki ([blank])."
     },
     {
         "code": "01127",
-        "flavor": "\"I got one! I got one!\" <cite>Luke Skywalker</cite>",
-        "name": "Don't Get Cocky",
-        "text": "Each player draws 2 cards."
+        "flavor": "\"Trafiłem go! Trafiłem!\" <cite>Luke Skywalker</cite>",
+        "name": "Nie szarżuj",
+        "text": "Każdy gracz dobiera po 2 karty."
     },
     {
         "code": "01128",
-        "name": "Draw Attention",
-        "text": "Move up to 2 damage from one of your characters to another one of your characters (this ignores shields)."
+        "name": "Ściągnięcie uwagi",
+        "text": "Przesuń maksymalnie 2 żetony obrażeń z jednej z twoich postaci na inną twoją postać (ta zdolność ignoruje osłony)."
     },
     {
         "code": "01129",
-        "name": "Hyperspace Jump",
-        "text": "End the action phase. You may switch the battlefield with the battlefield that is not being used."
+        "name": "Skok w nadprzestrzeń",
+        "text": "Zakończ fazę akcji. Możesz zamienić pole bitwy na pole bitwy, które nie jest wykorzystywane."
     },
     {
         "code": "01130",
-        "name": "Let The Wookie Win",
-        "text": "Force an opponent to choose to either deal one of their exausted characters 2 damage or choose and remove 2 of their dice."
+        "name": "Pozwól Wookiemu wygrać",
+        "text": "Zmuś dowolnego przeciwnika, aby wybrał, czy zadaje 2 obrażenia jednaj ze swoich wyczerpanych postaci, czy wybiera i usuwa 2 ze swoich kości."
     },
     {
         "code": "01131",
-        "name": "Negotiate",
-        "text": "Remove one of your character dice to force an opponent to choose and remove 2 of their dice."
+        "name": "Negocjacje",
+        "text": "Usuń jedną z twoich kości postaci, aby zmusić dowolnego przeciwnika, aby wybrał i usunął 2 ze swoich kości."
     },
     {
         "code": "01132",
-        "name": "Scavenge",
-        "text": "Discard the top 3 cards of your deck. Then you may add an upgrade or support from your discard pile to your hand."
+        "name": "Przeszukiwanie",
+        "text": "Odrzuć 3 wierzchnie karty z twojej talii. Następnie możesz dodać do twojej ręki dowolne ulepszenie lub wsparcie z twojego stosu kart odrzuconych."
     },
     {
         "code": "01133",
-        "name": "Shoot First",
-        "text": "Ambush.\nResolve one of your Yellow dice showing ranged damage ([ranged]). Then remove an opponent's die showing ranged damage ([ranged])."
+        "name": "Strzel pierwszy",
+        "text": "Zasadzka\nrozpatrz jednąz twoich żóltych kości przedstawiających obrażenia dystansowe ([ranged]). Nastepnie usuń jedną, przedstawiająca obrażenia dystansowe ([ranged]) kośc dowolnego przeciwnika. "
     },
     {
         "code": "01134",
-        "name": "Smuggling",
-        "text": "Spot a Yellow character and discard a card from your hand to gain 1 resource."
+        "name": "Przemyt",
+        "text": "Wyznacz żółtą postać i odrzuć kartę z twojej ręki, aby zyskać 1 żeton zasobu."
     },
     {
         "code": "01135",
-        "name": "Play the Odds",
-        "text": "<b>Action</b> - Exhaust this support to reroll one of your Yellow dice. If it rolls a resource ([resource]), gain 1 resource."
+        "name": "Zdaj się na los",
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie, aby przerzucić jedną z twoich żółtych kości. Jeśli wypadnie na niej symbol zasobów ([resource]), zyskujesz 1 żeton zasobu."
     },
     {
         "code": "01136",
-        "name": "Street Informants",
-        "text": "Ambush.\n<b>Action</b> - Exhaust this support to look at an opponent's hand."
+        "name": "Uliczni informatorzy",
+        "text": "Zasadzka\n<b>Akcja<b> - Wyczerp to wsparcie, aby podejrzeć karty na ręce dowolnego przeciwnika."
     },
     {
         "code": "01137",
-        "name": "Second Chance",
-        "text": "Yellow character only.\nBefore attached character would be defeated, instead heal 5 damage from it and discard this upgrade from play."
+        "name": "Druga szansa",
+        "text": "Tylko żółta postać.\nPrzed tym, jak postać do której dołączono tę kartę, miałaby zostać pokonana, zamiast tego ulecz z niej 5 obrażeń i odrzuć z gry to ulepszenie."
     },
     {
         "code": "01138",
-        "name": "Award Ceremony",
-        "text": "Spot a Red character to draw cards equal to the number of exhausted characters you have."
+        "name": "Ceremonia odznaczenia",
+        "text": "Wyznacz czerwoną postać, aby dobrać karty w liczbie równej posiadanych przez ciebie wyczerpanych postaci."
     },
     {
         "code": "01139",
-        "name": "Dug in",
-        "text": "Play only if you control the battlefield.\nGive 3 shields to your characters, distributed as you wish."
+        "name": "Okopać się",
+        "text": "Zagraj tylko, jeśli kontrolujesz pole bitwy. Daj 3 żetony osłon twoim postaciom (sam decydujesz, jak je rozdzielić)."
     },
     {
         "code": "01140",
-        "name": "Firepower",
-        "text": "Resolve one of your Red dice showing ranged damage ([ranged]), increasing its value by 1, or by 2 instead if you are resolving a <i>vehicle</i> die."
+        "name": "Siła ognia",
+        "text": "Rozpatrz jedną z twoich czerwonych kości przedstawiających obrażenia dystansowe ([ranged]), zwiększając jej wartość o 1 lub zamiast tego o 2, jeśli rozpatrujesz kość <b>pojazdu</b>."
     },
     {
         "code": "01141",
-        "name": "Leadership",
-        "text": "Exhaust one of your unique Red characters to ready another character."
+        "name": "Przywództwo",
+        "text": "Wyczerp jedną z twoich unikatowych czerwonych postaci, aby przygotować inną postać."
     },
     {
         "code": "01142",
-        "name": "Logistics",
-        "text": "Spot a red character to resolve a die with the resource symbol ([resource]), increasing its value by 1."
+        "name": "Logistyka",
+        "text": "Wyznacz czerwoną postać, aby rozpatrzyć jedną z twoich kości przedstawiających zasoby ([resource]), zwiększając jej wartość o 1."
     },
     {
         "code": "01143",
-        "name": "Squad Tactics",
-        "text": "Activate any number of your non-unique characters at once."
+        "name": "Taktyka oddziału",
+        "text": "Aktywuj jednocześnie dowolną liczbę twoich nie-unikatowych postaci."
     },
     {
         "code": "01144",
-        "name": "Supporting Fire",
-        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing ranged damage ([ranged]), increasing its value by 1."
+        "name": "Ogień wspierający",
+        "text": "<b>Akcja</b> - Wyczerp to wsparcie, aby rozpatrzyć jedną z twoich kości przedstawiających obrażenia dystansowe ([ranged]), zwiększając jej wartości o 1."
     },
     {
         "code": "01145",
-        "name": "Deflect",
-        "text": "Spot a Blue character to remove a die showing ranged damage ([ranged]) and deal half of that damage, rounded up, to a character."
+        "name": "Odbicie",
+        "text": "Wyznacz niebieską postać, aby usunąć dowolną kość przedstawiającą obrażenia dystansowe ([ranged]) i zadaż dowolnej postaci połowę z danych obrażeń (zaokrąglając w górę)."
     },
     {
         "code": "01146",
-        "flavor": "\"I fear something terrible has happened, as if millions of voices suddenly cried out and were silenced.\" <cite>Obi-Wan Kenobi</cite>",
-        "name": "Disturbance in the Force",
-        "text": "Reroll all dice."
+        "flavor": "\"Obawiam się, że zdarzyło się coś strasznego. Całkiem jakby miliony głosów krzyknęły w trwodze i nagle ucichły.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Zakłócenie mocy",
+        "text": "Przerzuć wszystkie kości"
     },
     {
         "code": "01147",
-        "name": "Mind Trick",
-        "text": "Spot a Blue character to force your opponent to split their dice pool into 2 groups of any size. Choose 1 group and remove all dice in it."
+        "name": "Sztuczka z wpływaniem na umysł",
+        "text": "Wyznacz niebieską postać, aby zmusić dowolnego przeciwnika, aby podzielił swoją pulę kości na 2 grupy dowolnej wielkości. Wybierz 1 z grup i usuń wszystkie kości znajdujące się w niej."
     },
     {
         "code": "01148",
-        "name": "The Power of the Force",
-        "text": "Resolve one of your dice, treating its value as equal to the number of Blue upgrades you have in play."
+        "name": "Potęga mocy",
+        "text": "Rozpatrz jedną z twoich kości, traktując jej wartość tak, jakby była równa liczbie niebieskich ulepszeń, które masz w grze."
     },
     {
         "code": "01149",
-        "flavor": "\"The Force will be with you, always.\" <cite>Obi-Wan Kenobi",
-        "name": "Use The Force",
-        "text": "Spot a Blue character to turn a die to any side."
+        "flavor": "\"Moc będzie z tobą. Zawsze.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Użyj mocy",
+        "text": "Wyznacz niebieską postać, aby obrócić dowolną kość na dowolną ściankę."
     },
     {
         "code": "01150",
-        "name": "It Binds All Things",
-        "text": "Before you play a Blue upgrade, you may exhaust this support to decrease its cost by 1."
+        "name": "Spaja wszystkie rzeczy",
+        "text": "Przed tym, jak zagrasz niebieskie ulepszenie, możesz wyczerpać to wsparcie, aby zmniejszyć o 1 koszt zagrywanego ulepszenia."
     },
     {
         "code": "01151",
-        "name": "Aim",
-        "text": "Turn one of your dice to a shide showing ranged damage."
+        "name": "Celowanie",
+        "text": "Obróć jedną z twoich kości na ściankę przedstawiającą obrażenia dystansowe ([ranged])."
     },
     {
         "code": "01152",
-        "name": "All In",
-        "text": "Resolve any number of your dice in the order of your choice."
+        "name": "Zmasowany atak",
+        "text": "Rozpatrz dowolną liczbę twoich kości w wybranej przez ciebie kolejności."
     },
     {
         "code": "01153",
-        "name": "Block",
-        "text": "Remove all of an opponent's dice showing melee damage."
+        "name": "Blok",
+        "text": "Usuń wszystkie kości dowolnego przeciwnika przedstawiające obrażenia wręcz ([melee])."
     },
     {
         "code": "01154",
-        "name": "Close Quarters Assault",
-        "text": "Count the number of dice you have showing mele damage. Discard that many random cards from an opponent's hand."
+        "name": "Walka na bliskim dystansie",
+        "text": "Ustal liczbę twoich kości przedstawiających obrażenia wręcz ([melee]). Odrzuć z ręki dowolnego przeciwnika taką samę liczbę losowych kart."
     },
     {
         "code": "01155",
-        "name": "Dodge",
-        "text": "Remove all of an opponent's dice showing ranged damage ([ranged])"
+        "name": "Unik",
+        "text": "Usuń wszystkie kości dowolnego przeciwnika przedstawiające obrażenia dystansowe ([ranged])."
     },
     {
         "code": "01156",
-        "name": "Flank",
-        "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice."
+        "name": "Flankowanie",
+        "text": "Zagraj tylko, jeśli masz więcej przygotowanych postaci niż dowolny przeciwnik.\nUsuń jedną z kości danego przeciwnika."
     },
     {
         "code": "01157",
-        "name": "Take Cover",
-        "text": "Give a character 1 shield."
+        "name": "Kryć się!",
+        "text": "Daj dowolnej postaci 1 żeton osłony."
     },
     {
         "code": "01158",
-        "name": "Disarm",
-        "text": "Remove one of your dice showing damage ([melee] or [ranged]) to discard a <i>weapon</i> or <i>equipment</i> from play that costs equal to or less than the value of that die."
+        "name": "Rozbrojenie",
+        "text": "Usuń jedną z twoich kości przedstawiających obrażenia ([melee] lub [ranged]), aby odrzucić z gry dowolną <b>broń</b> lub <b>ekwipunek</b>, którego koszt jest równy lub niższy od wartości danej kości."
     },
     {
         "code": "01159",
-        "name": "Electroshock",
-        "text": "Spot a Yellow character to remove a die showing a value of 2 or lower."
+        "name": "Elektrowstrząsy",
+        "text": "Wyznacz żółtą postać, aby usunąć dowolną kość przedstawiającą wartość 2 lub niższą."
     },
     {
         "code": "01160",
-        "name": "Reversal",
-        "text": "Spot a Yellow character to remove a die showing damage ([melee] or [ranged]) and deal that damage to a character."
+        "name": "Zamiana ról",
+        "text": "Wyznacz żółtą postać, aby usunąć dowolną kość przedstawiającą obrażenia ([ranged] lub [melee]) i zadać dane obrażenia dowolnej postaci."
     },
     {
         "code": "01161",
-        "name": "Scramble",
-        "text": "Spot a Yellow character to reroll all of an opponent's dice."
+        "name": "Zakłócanie",
+        "text": "Wyznacz żółtą postać, aby przerzucić wszystkie kości dowolnego przeciwnika."
     },
     {
         "code": "01162",
-        "name": "Unpredictable",
-        "text": "Ambush.\nReroll a die (yours or an opponent's)."
+        "name": "Nieprzewidywalny",
+        "text": "Zasadzka.\nPrzerzuć dowolną kość <i>(swoją lub przeciwnika)</i>."
     },
     {
         "code": "01163",
-        "name": "Infamous",
-        "text": "Before you play a Yellow card, you may exhaust this support to give it the Ambush keyword."
+        "name": "Niesławny",
+        "text": "Przed tym, jak zagrasz żółtą kartę, możesz wyczerpać to wsparcie, aby dać danej karcie słowo kluczowe Zasadzka."
     },
     {
         "code": "01164",
-        "name": "Hunker Down",
-        "text": "If attached character takes melee damage ([melee]), discard this upgrade.\n<b>Action</b> - Exhaust this upgrade to give attached character 1 shield."
+        "name": "Padnij!",
+        "text": "Jeśli postać, do której dołączono tę kartę, otrzyma obrażenia wręcz ([melee]), odrzuć to ulepszenie.\n<b>Akcja</b> - Wyczerp to ulepszenie, aby dać 1 żeton osłony postaci, do której dołączono tę kartę."
     },
     {
         "code": "01165",
-        "name": "Command Center",
+        "name": "Centrum Dowodzenia",
         "subtitle": "Lothal",
-        "text": "<b>Claim</b> - Each opponent discards the top 2 cards of their"
+        "text": "<b>Zajęcie</b> - Każdy przeciwnik odrzuca 2 wierzchnie karty ze swojej talii."
     },
     {
         "code": "01166",
-        "name": "Echo Base",
+        "name": "Baza Echo",
         "subtitle": "Hoth",
-        "text": "<b>Claim</b> - Give a character 1 shield."
+        "text": "<b>Zajęcie</b> - Daj dowolnej postaci 1 żeton osłony."
     },
     {
         "code": "01167",
-        "name": "Emperor's Throne Room",
-        "subtitle": "Death Star II",
-        "text": "<b>Claim</b> - Turn one of your dice to a side showing a special ability ([special]). Then you may resolve that die."
+        "name": "Sala tronowa Imperatora",
+        "subtitle": "Druga Gwiazda Śmierci",
+        "text": "<b>Zajęcie</b> - Obróć jedną z twoich kości na stronę przedstawiającą specjalną zdolność ([special]). Następnie możesz rozpatrzyć danę kość."
     },
     {
         "code": "01168",
-        "name": "Frozen Wastes",
-        "subtitle": "Starkiller Base",
-        "text": "<b>Claim</b> - Remove one character die."
+        "name": "Zmarznięte Pustkowia",
+        "subtitle": "Baza Starkiller",
+        "text": "<b>Zajęcie</b> - Usuń kość dowolnej postaci."
     },
     {
         "code": "01169",
-        "name": "Imperial Armory",
-        "subtitle": "Death Star",
-        "text": "<b>Claim</b> - Play an upgrade from your hand, decreasing its cost by 1."
+        "name": "Imperialna Zbrojownia",
+        "subtitle": "Gwiazda Śmierci",
+        "text": "<b>Zajęcie</b> - Zagraj z ręki ulepszenie, zmniejszając jego koszt o 1."
     },
     {
         "code": "01170",
-        "name": "Jedi Temple",
+        "name": "Świątynia Jedi",
         "subtitle": "Coruscant",
-        "text": "<b>Claim</b> - Look at an opponent's hand and discard up to 2 events of your choice from it."
+        "text": "<b>Zajęcie</b> - Podejrzyj karty na ręce dowolnego przeciwnika i odrzuć z nich maksymalnie 2, wybrane przez ciebie."
     },
     {
         "code": "01171",
-        "name": "Rebel War Room",
+        "name": "Rebeliancka sala narad",
         "subtitle": "Yavin IV",
-        "text": "<b>Claim</b> - Resolve one of your dice. If it has a resource cost, you do not have to pay it."
+        "text": "<b>Zajęcie</b> - Rozpatrz jedną z twoich kości. Jeśli posiada ona koszt w zasobach, nie musisz go płacić."
     },
     {
         "code": "01172",
-        "name": "Mos Eisley Spaceport",
+        "name": "Kosmoport Mos Eisley",
         "subtitle": "Tatooine",
-        "text": "<b>Claim</b> - Return one of your upgrades in play to your hand to gain 1 resource."
+        "text": "<b>Zajęcie</b> - Cofnij na twoją rękę jedno z ulepszeń, które masz w grze, aby zyskać 1 żeton zasobu."
     },
     {
         "code": "01173",
-        "name": "Separatist Base",
+        "name": "Baza Separatystów",
         "subtitle": "Mustafar",
-        "text": "<b>Claim</b> - Each opponent chooses and deals 1 unblockable damage to one of their characters."
+        "text": "<b>Zajęcie</b> - Każdy przeciwnik wybiera jedną ze swoich postaci i zadaje jej 1 nieblokowalne obrażenie."
     },
     {
         "code": "01174",
-        "name": "Starship Graveyard",
+        "name": "Cmentarzysko statków",
         "subtitle": "Jakku",
-        "text": "<b>Claim</b> - Choose a support or upgrade in your discard pile and place it on top of your deck."
+        "text": "<b>Zajęcie</b> - Wybierz dowolne wsparcie lub ulepszenie z twojego stosu kart odrzuconych i umieśc je na wierzchu twojej talii."
     }
 ]
