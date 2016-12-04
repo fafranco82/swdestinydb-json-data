@@ -301,7 +301,7 @@
             "1R",
             "-"
         ],
-        "text": "<b>Action</b> - Remove a die. Deal 1 damage to this character.",
+        "text": "<b>Action</b> - Reroll a die. Deal 1 damage to this character.",
         "type_code": "character"
     },
     {
@@ -3059,7 +3059,7 @@
     {
         "affiliation_code": "neutral",
         "code": "01158",
-        "cost": 0,
+        "cost": 1,
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
