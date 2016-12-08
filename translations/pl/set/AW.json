@@ -368,7 +368,7 @@
     {
         "code": "01067",
         "name": "Detonator termiczny",
-        "text": "Aby zagrać, wyznacz żółtą postać.\n[special] - Zadaj po 3 obrażenia każdej postaci dowolnego przeciwnika. Usuń to ulepszenie z gry."
+        "text": "Aby zagrać, wyznacz żółtą postać.\n[special] - Zadaj po 3 obrażenia każdej postaci dowolnego przeciwnika. Odrzuć to ulepszenie z gry."
     },
     {
         "code": "01068",
@@ -898,7 +898,7 @@
         "code": "01170",
         "name": "Świątynia Jedi",
         "subtitle": "Coruscant",
-        "text": "<b>Zajęcie</b> - Podejrzyj karty na ręce dowolnego przeciwnika i odrzuć z nich maksymalnie 2, wybrane przez ciebie."
+        "text": "<b>Zajęcie</b> - Podejrzyj karty na ręce dowolnego przeciwnika i odrzuć z nich maksymalnie 2, wybrane przez ciebie wydarzenia."
     },
     {
         "code": "01171",
