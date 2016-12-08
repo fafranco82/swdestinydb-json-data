@@ -1,10 +1,10 @@
 {
     "additionalProperties": false,
     "properties": {
-        "cgdb_id_start": {
+        "cgdb_id_end": {
             "type": "integer"
         },
-        "cgdb_id_end": {
+        "cgdb_id_start": {
             "type": "integer"
         },
         "code": {
