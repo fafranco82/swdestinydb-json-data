@@ -19,10 +19,10 @@
     },
     {
         "code": "01004",
-        "flavor": "\"General, prepare your troops for a surface attack.\" <cite>Darth Vader</cite>",
+        "flavor": "\"General, prepare las tropas para un ataque de superficie.\" <cite>Darth Vader</cite>",
         "name": "General Veers",
-        "subtitle": "Field Commander",
-        "text": "<b>Action</b> - Remove this die to turn one of your support dice to any side."
+        "subtitle": "Jefe de operaciones",
+        "text": "<b>Acción</b> - Retira este dado para girar uno de tus dados de Apoyo a cualquier cara."
     },
     {
         "code": "01005",
@@ -66,9 +66,9 @@
     },
     {
         "code": "01012",
-        "flavor": "Nightsisters deftly manipulate the Force to serve their own ends.",
-        "name": "Nightsister",
-        "text": "<b>Action</b> - Remove a die. Deal 1 damage to this character."
+        "flavor": "Las hermanas nocturas son expertas en manipular la Fuerza para sus propios fines.",
+        "name": "Hermana noctura",
+        "text": "<b>Acción</b> - Vuelve a tirar un dado. Inflige 1 punto de daño a este Personaje."
     },
     {
         "code": "01013",
@@ -88,7 +88,7 @@
     {
         "code": "01016",
         "name": "Holocrón sith",
-        "text": "[special] - Intercambia esta Mejora con una Mejora de <i>capacidad</i> de color Azul en tu mano, ignorando sus restricciones para jugarla. A continuación, puedes gastar 1 recurso para trar su dado en tu reserva, si es posible."
+        "text": "[special] - Intercambia esta Mejora por una Mejora de <i>capacidad</i> de color Azul en tu mano, ignorando sus restricciones para jugarla. Luego puedes gastar 1 recurso para tirar su dado en tu reserva, si es posible."
     },
     {
         "code": "01017",
@@ -103,8 +103,8 @@
     {
         "code": "01019",
         "name": "Bala-Tik",
-        "subtitle": "Gang Leader",
-        "text": "After an opponent's character is defeated, you may ready this character."
+        "subtitle": "Jefe de banda",
+        "text": "Después de que el Personaje de un adversario sea derrotado, puedes preparar este Personaje."
     },
     {
         "code": "01020",
@@ -127,8 +127,8 @@
     },
     {
         "code": "01023",
-        "name": "Crime Lord",
-        "text": "[special] - Spend 5 resources to choose a character. That character is defeated after this round ends."
+        "name": "Señor del crimen",
+        "text": "[special] - Gasta 5 recursos para elegir un Personaje. Ese Personaje es derrotado después de que termine esta ronda."
     },
     {
         "code": "01024",
@@ -162,17 +162,17 @@
         "code": "01029",
         "name": "Poe Dameron",
         "subtitle": "As de ases",
-        "text": "[special] - Descarta una carta de tu mano para resolver 1 de las caras de su dado, si es posible. Luego, si era una carta de <i>vehículo</i>, puedes pagar su coste para jugarla de tu pila de descarte."
+        "text": "[special] - Descarta una carta de tu mano para resolver una de las caras de su dado, si es posible. Luego, si era una carta de <i>vehículo</i>, puedes pagar su coste para jugarla de tu pila de descarte."
     },
     {
         "code": "01030",
-        "name": "Rebel Trooper",
-        "text": "Guardian."
+        "name": "Soldado rebelde",
+        "text": "Guardián."
     },
     {
         "code": "01031",
-        "name": "Launch Bay",
-        "text": "The X on this die is equal to the number of cards in your hand."
+        "name": "Pista de despegue",
+        "text": "La X en este dado es igual a la cantidad de cartas en tu mano."
     },
     {
         "code": "01032",
@@ -182,8 +182,8 @@
     },
     {
         "code": "01033",
-        "name": "Scout",
-        "text": "[special] - Look at an opponent's hand and discard the cheapest card from it (you choose in the case of a tie)."
+        "name": "Explorador",
+        "text": "[special] - Mira la mano de adversario y descarta la carta más barata que haya en ella <em>(tú eliges cuál en caso de un empate)</em>."
     },
     {
         "code": "01034",
@@ -204,10 +204,10 @@
     },
     {
         "code": "01037",
-        "flavor": "\"Your focus determines your reality.\"",
+        "flavor": "\"Tu enfoque determina tu realidad.\"",
         "name": "Qui-Gon Jinn",
-        "subtitle": "Ataru Master",
-        "text": "Before this character gains 1 or more shields, you may remove 1 of his shields to deal 1 damage to a character."
+        "subtitle": "Maestro de Ataru",
+        "text": "Antes de que este Personaje reciba 1 o más escudos, puedes retirar 1 de sus escudos para infligir 1 punto de daño a un Personaje."
     },
     {
         "code": "01038",
@@ -218,8 +218,8 @@
     },
     {
         "code": "01039",
-        "name": "Force Protection",
-        "text": "Blue character only.\n[special] - Give 3 shields to your characters, distributed as you wish."
+        "name": "Protegerse con la Fuerza",
+        "text": "Sólo Personaje de color Azul.\n[special] - Entrega 3 escudos a tus Personajes, distribuidos como desees."
     },
     {
         "code": "01040",
@@ -228,13 +228,13 @@
     },
     {
         "code": "01041",
-        "name": "Luke Skywalker's Lightsaber",
-        "text": "Blue character only.\n[special] - Give a character 2 shields or deal 2 unblockable damage to a character."
+        "name": "Sable de luz de Luke Skywalker",
+        "text": "Sólo Personaje de color Azul.\n[special] - Entrega 2 escudos a un Personaje o inflige 2 puntos de daño no anulable a un Personaje."
     },
     {
         "code": "01042",
-        "name": "One with The Force",
-        "text": "Blue character only.\nBefore attached character is defeated, this upgrade becomes a support for the rest of the game (it starts ready)."
+        "name": "Uno con la Fuerza",
+        "text": "Sólo Personaje de color Azul.\nAntes de que el Personaje vinculado sea derrotado, esta Mejora se convierte en un Apoyo para el resto de la partida <em>(empieza preparada)</em>."
     },
     {
         "code": "01043",
@@ -256,8 +256,9 @@
     },
     {
         "code": "01046",
+        "flavor": "\"Te aseguro que a veces me asombro de mí mismo.\"",
         "name": "Han Solo",
-        "subtitle": "Scoundrel",
+        "subtitle": "Granuja",
         "text": "Después de que juegues una carta con la palabra clave Emboscada, puedes entregar 1 escudo a este Personaje."
     },
     {
@@ -267,21 +268,21 @@
     },
     {
         "code": "01048",
-        "flavor": "\"My fate will be no different to that of our people.\"",
-        "name": "Padme Amidala",
-        "subtitle": "Queen of Naboo",
-        "text": "[special] - Discard the top card of an opponent's deck or spend 1 resource to discard the top 2 cards of an opponent's deck."
+        "flavor": "\"Mi destino no será distinto al de nuestro pueblo.\"",
+        "name": "Padmé Amidala",
+        "subtitle": "Reina de Naboo",
+        "text": "[special] - Descarta la primera carta del mazo de un adversario o gasta 1 recurso para descartar las 2 primeras cartas del mazo de un adversario."
     },
     {
         "code": "01049",
         "flavor": "\"No tendrá buen aspecto, pero los resultados sí son buenos.\" <cite>Han Solo</cite>",
         "name": "Halcón Milenario",
-        "text": "[special] - Juega un Evento de color Amarillo de tu pila de descarte o de tu mano sin pagar coste alguno."
+        "text": "[special] - Juega un Evento de color Amarillo de tu pila de descarte o tu mano sin pagar coste alguno."
     },
     {
         "code": "01050",
-        "name": "Diplomatic Immunity",
-        "text": "The shields from this die can be given to any of your characters distributed as you wish."
+        "name": "Inmunidad diplomática",
+        "text": "Los escudos de este dado pueden entregarse a cualquiera de tus Personajes, distribuidos como desees."
     },
     {
         "code": "01051",
@@ -290,13 +291,13 @@
     },
     {
         "code": "01052",
-        "name": "Infiltrate",
-        "text": "[special] - Reroll up to 2 of an opponent's dice."
+        "name": "Infiltrarse",
+        "text": "[special] - Vuelve a tirar hasta 2 de los dados de un adversario."
     },
     {
         "code": "01053",
-        "name": "Outpost",
-        "text": "[special] - Resolve the battlefield ability as if you had just claimed it."
+        "name": "Puesto avanzado",
+        "text": "[special] - Resuelve la capacidad del campo de batalla como si acabaras de reclamarlo."
     },
     {
         "code": "01054",
@@ -321,7 +322,7 @@
     {
         "code": "01058",
         "name": "Entrenamiento en la Fuerza",
-        "text": "Para jugar esta carta, señala un Personaje de color Azul.\n[special] - Elige y haz 2 de la siguientes opciones: infligir 1 punto de daño a un Personaje o recibir 1 recurso o entregar 1 escudo a un Personaje."
+        "text": "Para jugar esta carta, señala un Personaje de color Azul.\n[special] - Elige y lleva a cabo dos de las siguientes opciones: infligir 1 punto de daño a un Personaje, o recibir un recurso, o entregar 1 escudo a un Personaje."
     },
     {
         "code": "01059",
@@ -341,8 +342,8 @@
     },
     {
         "code": "01062",
-        "name": "Datapad",
-        "text": "[special] - Turn one of your dice to a side not showing damage ([ranged] or [melee])"
+        "name": "Módulo de datos",
+        "text": "[special] - Cambia uno de tus dados a una cara que no muestre daño ([ranged] o [melee])."
     },
     {
         "code": "01063",
@@ -351,13 +352,13 @@
     },
     {
         "code": "01064",
-        "name": "Black Market",
-        "text": "[special] - Draw 2 cards. You may play an upgrade from your hand, decreasing its cost by 1."
+        "name": "Mercado negro",
+        "text": "[special] - Roba 2 cartas. Puedes jugar una Mejora de tu mano, reduciendo en 1 su coste."
     },
     {
         "code": "01065",
-        "name": "Cunning",
-        "text": "Yellow character only.\n[special] - Resolve a special ability ([special]) on another card in play as if it were your card."
+        "name": "Astucia",
+        "text": "Sólo Personaje de color Amarillo.\n[special] - Resuelve una capacidad especial ([special]) de otra carta como si fuera tu carta."
     },
     {
         "code": "01066",
@@ -383,7 +384,7 @@
         "code": "01070",
         "flavor": "Los droides de batalla son menos efectivos que los soldados de carne y hueso, pero también son mucho más barato de reemplazar.",
         "name": "Filas interminables",
-        "text": "Elige 1 de tus Personajes de color Rojo derrotados que no sea único y devuélvelo a la partida sin ningún punto de daño en él."
+        "text": "Devuelve uno de tus Personajes de color Rojo derrotados que no sea único a la partida sin ningún daño sobre él."
     },
     {
         "code": "01071",
@@ -418,8 +419,8 @@
     },
     {
         "code": "01077",
-        "name": "Local Garrison",
-        "text": "Each opponent gains 1 fewer resource during each upkeep phase to a minimum of 1."
+        "name": "Guarnición local",
+        "text": "Cada adversario recibe 1 recurso menos durante cada fase de Mantenimiento, hasta un mínimo de 1."
     },
     {
         "code": "01078",
@@ -464,8 +465,8 @@
     },
     {
         "code": "01086",
-        "name": "No Mercy",
-        "text": "Discard any number of Blue cards from your hand. Then resolve one of your dice showing damage ([melee] or [ranged]), increasing its value by 1 for each card you just discarded."
+        "name": "Sin piedad",
+        "text": "Descarta cualquier cantidad de cartas de color Azul de tu mano. Luego resuelve uno de tus dados que muestre daño ([melee] o [ranged]), incrementando en 1 su valor de resultado por cada carta que acabas de descartar."
     },
     {
         "code": "01087",
@@ -505,13 +506,13 @@
     },
     {
         "code": "01094",
-        "name": "Confiscation",
-        "text": "Spend resources equal to the cost of an opponent's upgrade in play to return that upgrade to their hand."
+        "name": "Incautación",
+        "text": "Gasta tantos recursos como el coste de una Mejora en juego de un adversario para devolver esa Mejora a su mano."
     },
     {
         "code": "01095",
-        "name": "Fight Dirty",
-        "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed."
+        "name": "Jugar sucio",
+        "text": "Retira cualquier cantidad de tus dados de color Amarillo. Luego inflige tantos puntos de daño a un Personaje como la cantidad de dados que acabas de retirar."
     },
     {
         "code": "01096",
@@ -546,8 +547,8 @@
     },
     {
         "code": "01102",
-        "name": "Prized Possession",
-        "text": "After you play this upgrade, you may remove an opponent's character die and place it here. It is not rolled by any character and does not return to its character unless this upgrade leaves play."
+        "name": "Posesión preciada",
+        "text": "Antes de que juegues esta Mejora, puedes retirar un dado de Personaje de un adversario y colocarlo aquí. Ese dado no puede ser tirado por ningún Personaje y no vuelve a su Personaje hasta que esta Mejora abandone el juego."
     },
     {
         "code": "01103",
@@ -581,8 +582,8 @@
     },
     {
         "code": "01109",
-        "name": "Rearm",
-        "text": "Play a Red upgrade from your discard pile, decreasing its cost by 1."
+        "name": "Rearmarse",
+        "text": "Juega una Mejora de color Rojo desde tu pila de descarte, reduciendo en 1 su coste."
     },
     {
         "code": "01110",
@@ -606,8 +607,8 @@
     },
     {
         "code": "01114",
-        "name": "Anticipate",
-        "text": "Force an opponent to choose and resolve any number of their dice in the order of their choice. Then remove all of their dice they dit not resolve."
+        "name": "Anticiparse",
+        "text": "Obliga a un adversario a elegir y resolver cualquier cantidad de sus dados en el orden que prefiera. Luego retira todos sus dados que no haya resuelto."
     },
     {
         "code": "01115",
@@ -757,8 +758,8 @@
     },
     {
         "code": "01144",
-        "name": "Supporting Fire",
-        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing ranged damage ([ranged]), increasing its value by 1."
+        "name": "Fuego de apoyo",
+        "text": "<b>Acción</b> - Agota este Apoyo para resolver uno de tus dados que muestre daño a distancia ([ranged]), incrementando en 1 su valor de resultado."
     },
     {
         "code": "01145",
@@ -789,8 +790,8 @@
     },
     {
         "code": "01150",
-        "name": "It Binds All Things",
-        "text": "Before you play a Blue upgrade, you may exhaust this support to decrease its cost by 1."
+        "name": "Mantiene unida la galaxia",
+        "text": "Antes de que juegues una carta de Mejora de color Azul, puedes agotar este Apoyo para reducir en 1 su coste."
     },
     {
         "code": "01151",
@@ -834,8 +835,8 @@
     },
     {
         "code": "01159",
-        "name": "Electroshock",
-        "text": "Spot a Yellow character to remove a die showing a value of 2 or lower."
+        "name": "Electrochoque",
+        "text": "Señala un Personaje de color Amarillo para retirar un dado que muestre un valor de resultado de 2 o menos."
     },
     {
         "code": "01160",
@@ -864,9 +865,9 @@
     },
     {
         "code": "01165",
-        "name": "Command Center",
+        "name": "Centro de mando",
         "subtitle": "Lothal",
-        "text": "<b>Reclamar</b> - Each opponent discards the top 2 cards of their"
+        "text": "<b>Reclamar</b> - Cada adversario descarta las 2 primeras cartas de su mazo."
     },
     {
         "code": "01166",
