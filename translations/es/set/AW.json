@@ -1,7 +1,7 @@
 [
     {
         "code": "01001",
-        "flavor": "Sea lo que sea que estéis planeando, no funcionará",
+        "flavor": "Sea lo que sea lo que estéis planeando, no funcionará",
         "name": "Capitán Phasma",
         "subtitle": "Soldado de élite",
         "text": "Tus personajes que no sean únicos tienen la palabra clave Guardián."
@@ -37,8 +37,8 @@
     },
     {
         "code": "01007",
-        "name": "Commanding Presence",
-        "text": "Rec character only.\n[special] - Choose a Red die. If it is your die, resolve it, increasing its value by 2. If it is an opponent's die, remove it."
+        "name": "Dotes de mando",
+        "text": "Sólo Personaje de color Rojo.\n[special] - Elige un dado de color Rojo. Si ese dado es tuyo, resuélvelo, incrementando en 2 su valor de resultado. Si ese dado es de un adversario, retíralo."
     },
     {
         "code": "01008",
@@ -53,10 +53,10 @@
     },
     {
         "code": "01010",
-        "flavor": "\"If you will not fight, then you will meet your destiny.\"",
+        "flavor": "\"Si te niegas a luchar, sabrás cuál es tu destino.\"",
         "name": "Darth Vader",
-        "subtitle": "Sith Lord",
-        "text": "After you activate this character you may force an opponent to choose and discard a card from their hand."
+        "subtitle": "Lord Sith",
+        "text": "Después de que actives este Personaje, puedes obligar a un adversario a elegir y descartar una carta de su mano."
     },
     {
         "code": "01011",
@@ -82,8 +82,8 @@
     },
     {
         "code": "01015",
-        "name": "Kylo Ren's Lightsaber",
-        "text": "Blue character only.\n[special] - Deal 2 damage to a character. If any of this damage is blocked by shields, reroll this die instead of removing it from your pool."
+        "name": "Sable de luz de Kylo Ren",
+        "text": "Sólo Personaje de color Azul.\n[special] - Inflige 2 puntos de daño a un Personaje. Si alguno de estos puntos de daño es anulado por escudos, vuelve a tirar este dado en vez de retirarlo de tu reserva."
     },
     {
         "code": "01016",
@@ -115,10 +115,10 @@
     },
     {
         "code": "01021",
-        "flavor": "\"There can be no mistakes this time.\"",
+        "flavor": "\"Esta vez no puede haber errores.\"",
         "name": "Jango Fett",
-        "subtitle": "Lethal Mercenary",
-        "text": "After an opponent activates a character, you may activate this character."
+        "subtitle": "Mercenario mortífero",
+        "text": "Después de que un adversario active un Personaje, puedes activar este Personaje."
     },
     {
         "code": "01022",
@@ -637,8 +637,9 @@
     },
     {
         "code": "01120",
-        "name": "Return of the Jedi",
-        "text": "Add a blue event from your discard pile to your hand."
+        "flavor": "\"Transmite lo que has aprendido.\" <cite>Yoda</cite>",
+        "name": "El retorno del jedi",
+        "text": "Añade a tu mano un Evento de color Azul de tu pila de descarte."
     },
     {
         "code": "01121",
@@ -713,8 +714,8 @@
     },
     {
         "code": "01135",
-        "name": "Play the Odds",
-        "text": "<b>Action</b> - Exhaust this support to reroll one of your Yellow dice. If it rolls a resource ([resource]), gain 1 resource."
+        "name": "Apostar sobre seguro",
+        "text": "<b>Acción</b> - Agota este Apoyo para volver a tirar uno de tus dados de color Amarillo. Si obtienes un resultado de recurso ([resource]), recibes 1 recurso."
     },
     {
         "code": "01136",
