@@ -643,7 +643,7 @@
     },
     {
         "code": "01121",
-        "name": "Parada y respuseta",
+        "name": "Parada y respuesta",
         "text": "Retira cualquier cantidad de escudos de uno de tus Personajes. Luego inflige tantos puntos de daño a un Personaje como la cantidad de escudos que acabas de retirar."
     },
     {
@@ -699,7 +699,7 @@
     },
     {
         "code": "01132",
-        "name": "Buscando en la basura",
+        "name": "Rebuscar en la basura",
         "text": "Descarta las 3 primeras cartas de tu mazo. Luego puedes añadir a tu mano una Mejora o un Apoyo de tu pila de descartes."
     },
     {
