@@ -62,6 +62,7 @@ Required properties are in **bold**.
 * subtitle - Characters only (optional)
 * subtype_code - Upgraded and Support. Usually, the lowercase of what is in printed on the card. For further reference, see `subtypes.json` file.
 * text
+* **ttscardid** - 4 digit card identifier for TableTop Simulator MOD created by IceKobra. Consists of two zero-padded numbers: first two digits are the `CustomDeck` identifier which is tied to the graphic for the face of the card, last two are position of the card within the on the graphic.
 * **type_code** - Type of the card. Possible values: `"character"`, `"upgrade"`, `"support"`, `"event"`, `"battlefield"`
 
 ## JSON text editing tips
