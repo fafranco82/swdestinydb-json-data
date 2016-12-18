@@ -112,6 +112,10 @@
             "minLength": 1,
             "type": "string"
         },
+        "ttscardid": {
+            "pattern": "^[0-9]{4}$",
+            "type": "string"
+        },
         "type_code": {
             "enum": [
                 "battlefield",
