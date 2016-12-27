@@ -1,0 +1,22 @@
+[
+    {
+        "code": "battlefield",
+        "name": "Campo di Battaglia"
+    },
+    {
+        "code": "character",
+        "name": "Personaggio"
+    },
+    {
+        "code": "event",
+        "name": "Evento"
+    },
+    {
+        "code": "support",
+        "name": "Supporto"
+    },
+    {
+        "code": "upgrade",
+        "name": "Miglioria"
+    }
+]

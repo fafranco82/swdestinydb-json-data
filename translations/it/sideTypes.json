@@ -1,0 +1,38 @@
+[
+    {
+        "code": "-",
+        "name": "Vuoto"
+    },
+    {
+        "code": "Dc",
+        "name": "Scarto"
+    },
+    {
+        "code": "Dr",
+        "name": "Distruzione"
+    },
+    {
+        "code": "F",
+        "name": "Concentrazione"
+    },
+    {
+        "code": "MD",
+        "name": "Danno in Mischia"
+    },
+    {
+        "code": "R",
+        "name": "Risorsa"
+    },
+    {
+        "code": "RD",
+        "name": "Danno a Distanza"
+    },
+    {
+        "code": "Sh",
+        "name": "Scudo"
+    },
+    {
+        "code": "Sp",
+        "name": "Speciale"
+    }
+]

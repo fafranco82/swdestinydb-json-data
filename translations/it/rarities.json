@@ -1,0 +1,22 @@
+[
+    {
+        "code": "C",
+        "name": "Comune"
+    },
+    {
+        "code": "L",
+        "name": "Leggendaria"
+    },
+    {
+        "code": "R",
+        "name": "Rara"
+    },
+    {
+        "code": "S",
+        "name": "Starter"
+    },
+    {
+        "code": "U",
+        "name": "Non Comune"
+    }
+]

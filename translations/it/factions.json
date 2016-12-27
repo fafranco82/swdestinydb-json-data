@@ -1,0 +1,18 @@
+[
+    {
+        "code": "blue",
+        "name": "Forza"
+    },
+    {
+        "code": "gray",
+        "name": "Generale"
+    },
+    {
+        "code": "red",
+        "name": "Esercito"
+    },
+    {
+        "code": "yellow",
+        "name": "Fuorilegge"
+    }
+]
