@@ -1,0 +1,927 @@
+[
+    {
+        "code": "01001",
+        "flavor": "\"Whatever you're planning, it won't work.\"",
+        "name": "Capitã Phasma",
+        "subtitle": "Elite Trooper",
+        "text": "Your non-unique characters have the Guardian keyword."
+    },
+    {
+        "code": "01002",
+        "flavor": "Os membros desta nova geração de stormtroopers foram treinados desde o nascimento e doutrinados com propaganda da Primeira Ordem para garantir a lealdade absoluta.",
+        "name": "Stormtrooper da Primeira Ordem"
+    },
+    {
+        "code": "01003",
+        "name": "General Grievous",
+        "subtitle": "Caçador de Jedi",
+        "text": "Amtes de um personagem de um oponente ser derrotado, você pode mover uma melhoria desse oponente que não seja uma <i>habilidade</i> para esse personagem."
+    },
+    {
+        "code": "01004",
+        "flavor": "\"General, prepare your troops for a surface attack.\" <cite>Darth Vader</cite>",
+        "name": "General Veers",
+        "subtitle": "Field Commander",
+        "text": "<b>Action</b> - Remove this die to turn one of your support dice to any side."
+    },
+    {
+        "code": "01005",
+        "flavor": "The All Terrain Scout Transport filled both support and reconnaissance roles in the Galactic Empire's war machine.",
+        "name": "AT-ST",
+        "text": "[special] - Discard a support from play."
+    },
+    {
+        "code": "01006",
+        "name": "TIE Fighter da Primeira Ordem",
+        "text": "[special] - Remova todos os escudos de todos os personagens de um oponente."
+    },
+    {
+        "code": "01007",
+        "name": "Presença Imponente",
+        "text": "Apenas personagem Vermelho.\n[special] - Escolha um dado Vermelho . Se for um dado seu, resolva-o aumentando seu valor em 2. Se for um dado do oponente, remova-o."
+    },
+    {
+        "code": "01008",
+        "name": "Rifle F-11D",
+        "text": "Realocar.\n[special] - Force um oponente a causar 2 de dano aos seus próprios personagens distribuindo o dano como quiser."
+    },
+    {
+        "code": "01009",
+        "name": "Conde Dookan",
+        "subtitle": "Devious Strategist",
+        "text": "Before this character is dealt 1 or more damage, you may discard a card from your hand to give him 1 shield."
+    },
+    {
+        "code": "01010",
+        "flavor": "\"Se você não vai lutar, então encontrará seu destino.\"",
+        "name": "Darth Vader",
+        "subtitle": "Lorde Sith",
+        "text": "Após ativar este personagem, você pode forçar um oponente a escolher e descartar uma carta da mão dele."
+    },
+    {
+        "code": "01011",
+        "name": "Kylo Ren",
+        "subtitle": "Discípulo de Vader",
+        "text": "[special] - Escolha um personagem de um oponente. Olhe uma carta aleatória da mão desse oponente e cause uma quantia de dado naquele personagem igual ao custo da carta que você olhou."
+    },
+    {
+        "code": "01012",
+        "flavor": "Nightsisters deftly manipulate the Force to serve their own ends.",
+        "name": "Irmã da Noite",
+        "text": "<b>Açãon</b> - Rerrole um dado. Cause 1 de dano a este personagem."
+    },
+    {
+        "code": "01013",
+        "name": "Estrangulamento com a Força",
+        "text": "Blue character only.\n[special] - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side."
+    },
+    {
+        "code": "01014",
+        "name": "Imobilizar",
+        "text": "Somente personagem Azul.\n<b>Acción</b> - Remova este dado para virar um dado para o lado vazio ([blank])."
+    },
+    {
+        "code": "01015",
+        "name": "Kylo Ren's Lightsaber",
+        "text": "Blue character only.\n[special] - Deal 2 damage to a character. If any of this damage is blocked by shields, reroll this die instead of removing it from your pool."
+    },
+    {
+        "code": "01016",
+        "name": "Holocron Sith",
+        "text": "[special] - Troque esta melhoria por uma melhoria de <i>habilidade</i> Azul em sua mão, ignorando quaisquer restrições. Então você poderá gastar um recurso para rolar o dado dessa melhoria em sua reserva de dados, se possível."
+    },
+    {
+        "code": "01017",
+        "name": "Granadas da infantería",
+        "text": "[special] - Cause 2 de dano em cada personagem de um oponente. Descarte esta melhoria."
+    },
+    {
+        "code": "01018",
+        "name": "Batedor da Speeder Bike",
+        "text": "[special] - Remova um dado. Você pode realizar uma ação extra."
+    },
+    {
+        "code": "01019",
+        "name": "Bala-Tik",
+        "subtitle": "Gang Leader",
+        "text": "After an opponent's character is defeated, you may ready this character."
+    },
+    {
+        "code": "01020",
+        "flavor": "\"Eu vou gostar de ver você morrer.\"",
+        "name": "Jabba, O Hutt",
+        "subtitle": "O Grande e Poderoso",
+        "text": "Após ativar este personagem, você pode rerrolar um dado Amarelo"
+    },
+    {
+        "code": "01021",
+        "flavor": "\"Desta vez, erros não serão tolerados.\"",
+        "name": "Jango Fett",
+        "subtitle": "Mercenário Letal",
+        "text": "Você pode ativar este personagem após um oponente ativar um personagem."
+    },
+    {
+        "code": "01022",
+        "name": "Saqueador Tusken",
+        "text": "Após ativar este personagem, você pode descartar uma carta de sua mão para resolver um dado deste personagem ou um dado de melhoria."
+    },
+    {
+        "code": "01023",
+        "name": "Senhor do Crime",
+        "text": "[special] - Spend 5 resources to choose a character. That character is defeated after this round ends."
+    },
+    {
+        "code": "01024",
+        "name": "Lança-Chamas",
+        "text": "[special] - Cause 1 de dano em até 3 personagens diferentes."
+    },
+    {
+        "code": "01025",
+        "name": "Bastão Gaffi",
+        "text": "Realocar.\n[special] - Remova um dos seus dados mostrando dano corpo-a-corpo ([melee]) para causar 3 de dano em um personagem."
+    },
+    {
+        "code": "01026",
+        "name": "Na Caçada",
+        "text": "[special] - Remova todos os escudos de um personagem. Você pode gastar 1 recurso para remover um dado de personagem ou de melhoria deste personagem."
+    },
+    {
+        "code": "01027",
+        "name": "Almirante Ackbar",
+        "subtitle": "Estrategista Perceptivo",
+        "text": "Após um oponente jogar ou descartar a última carta de sua mão ele escolhe e causa 2 de dano em um de seus próprios personagens."
+    },
+    {
+        "code": "01028",
+        "flavor": "\"Alguém tem que nos salvar.\"",
+        "name": "Leia Organa",
+        "subtitle": "Líder nata",
+        "text": "<b>Acción</b> - Remova este dado para rerrolar até 2 dos seus dados."
+    },
+    {
+        "code": "01029",
+        "name": "Poe Dameron",
+        "subtitle": "Ace Pilot",
+        "text": "[special] - Discard a card from your hand to resolve one of the sides of its die, if able. Then, if it was a <b>vehicle</b> card, you may pay its cost to play it from your discard pile."
+    },
+    {
+        "code": "01030",
+        "name": "Patrulheiro rebelde",
+        "text": "Guardião."
+    },
+    {
+        "code": "01031",
+        "name": "Hangar de Lançamento",
+        "text": "O X neste dado é igual ao número de cartas na sua mão."
+    },
+    {
+        "code": "01032",
+        "flavor": "O X-Wing de Poe Dameron foi modificado para ser ainda mais versátil que o modelo padrão T-70.",
+        "name": "Black One",
+        "text": "[special] - Cause 1 de dano a um personagem. Rerrole este dado em vez de removê-lo da sua reserva."
+    },
+    {
+        "code": "01033",
+        "name": "Scout",
+        "text": "[special] - Look at an opponent's hand and discard the cheapest card from it (you choose in the case of a tie)."
+    },
+    {
+        "code": "01034",
+        "flavor": "Para se esconder do Império, os rebeldes muitas vezes devem se aventurar por ambientes hostis.",
+        "name": "Equipamento de Sobrevivência"
+    },
+    {
+        "code": "01035",
+        "flavor": "\"I am a Jedi, like my father before me.\"",
+        "name": "Luke Skywalker",
+        "subtitle": "Jedi Knight",
+        "text": "After you activate this character, draw a card."
+    },
+    {
+        "code": "01036",
+        "name": "Padawan",
+        "text": "Enquanto este personagem não tiver uma melhoria, o custo para atribuir uma <i>arma</i> a ele é diminuído em 1."
+    },
+    {
+        "code": "01037",
+        "flavor": "\"Seu foco determina a sua realidade.\"",
+        "name": "Qui-Gon Jinn",
+        "subtitle": "Mestre em Ataru",
+        "text": "Antes deste personagem receber 1 ou mais escudos, você pode remover 1 dos escudos dele para causar 1 de dano em um personagem."
+    },
+    {
+        "code": "01038",
+        "flavor": "\"Acho que consigo me virar.\"",
+        "name": "Rey",
+        "subtitle": "Prodígio da Força",
+        "text": "Após jogar uma melhoria neste personagem, você pode realizar uma ação extra."
+    },
+    {
+        "code": "01039",
+        "name": "Force Protection",
+        "text": "Blue character only.\n[special] - Give 3 shields to your characters, distributed as you wish."
+    },
+    {
+        "code": "01040",
+        "name": "Mantos Jedi",
+        "text": "Após jogar esta melhoria, dê 1 escudo ao personagem atribuído ou 2 escudos se for a primeira rodada de jogo."
+    },
+    {
+        "code": "01041",
+        "name": "Sabre de luz do Luke Skywalker",
+        "text": "Somente personagem Azul.\n[special] - Dê 2 escudos a um personagem ou cause 2 de dano indefensável a um personagem."
+    },
+    {
+        "code": "01042",
+        "name": "Um com a Força",
+        "text": "Somente personagem Azul.\nAntes que o personagem atribuído seja derrotado, esta melhoria se torna um suporte pelo resto do jogo <em>(já começa preparada)</em>."
+    },
+    {
+        "code": "01043",
+        "flavor": "\"Laranja e branco: modelo único.\" <cite>Poe Dameron</cite>",
+        "name": "BB-8",
+        "text": "[special] - Rerrole este dado e qualquer outro dado seu. Não remova este dado de sua reserva de dados após resolver a ação dessa habilidade."
+    },
+    {
+        "code": "01044",
+        "name": "Bastão da Rey",
+        "text": "[special] - Remova um dado mostrando dano ([melee] ou [ranged])."
+    },
+    {
+        "code": "01045",
+        "flavor": "\"Eu não vou voltar.\"",
+        "name": "Finn",
+        "subtitle": "Desertor da Primeira Ordem",
+        "text": "É possível atribuir qualquer <i>arma</i> a este personagem, ignorando as restrições de jogo. \nVocê pode incluir <i>armas</i> e <i>veículos</i> dos Vilões Vermelhos no seu deck."
+    },
+    {
+        "code": "01046",
+        "flavor": "\"Sabe, às vezes eu me impressiono comigo mesmo.\"",
+        "name": "Han Solo",
+        "subtitle": "Patife",
+        "text": "Após jogar uma carta com a palavra-chave Emboscada, você pode dar 1 escudo a este personagem."
+    },
+    {
+        "code": "01047",
+        "flavor": "\"Você não precisa se preocupar com a sua recompensa. Se dinheiro é o que você ama, então isso é o que você vai receber!\" <cite>Leia Organa</cite>",
+        "name": "Assassino de aluguel"
+    },
+    {
+        "code": "01048",
+        "flavor": "\"Meu destino não será diferente do destino do nosso povo.\"",
+        "name": "Padmé Amidala",
+        "subtitle": "Rainha de Naboo",
+        "text": "[special] - Descarta a carta no topo do deck de um oponente ou gaste 1 recurso para descartar 2 cartas do topo do deck de um oponente."
+    },
+    {
+        "code": "01049",
+        "flavor": "\"Ela pode não gostar muito, mas aguenta quando precisa.\" <cite>Han Solo</cite>",
+        "name": "Millennium Falcon",
+        "text": "[special] - Jogue um evento Amarelo da sua pilha de descarte ou da sua mão sem pagar seu custo."
+    },
+    {
+        "code": "01050",
+        "name": "Imunidade Diplomática",
+        "text": "Os escudos deste dado podem ser dados para quaisquer personagens seus, distribuídos como desejar."
+    },
+    {
+        "code": "01051",
+        "name": "Pistola blaster pesada DL-44",
+        "text": "Emboscada.\nApós jogar esta melhoria, force um oponente a escolher e remover um de seus próprios dados."
+    },
+    {
+        "code": "01052",
+        "name": "Infiltrar",
+        "text": "[special] - Rerrole até 2 dados de um oponente."
+    },
+    {
+        "code": "01053",
+        "name": "Posto Avançado",
+        "text": "[special] - Resolva a habilidade do campo de batalha como se tivesse acabado de reivindicá-lo."
+    },
+    {
+        "code": "01054",
+        "flavor": "A arma preferida dos soldados rebeldes e oficiais imperiais, durante a Guerra Civil Galáctica.",
+        "name": "Pistola Blaster DH-17"
+    },
+    {
+        "code": "01055",
+        "name": "IQA-11 Blaster Rifle",
+        "text": "[special] - Deal 2 unblockable damage to a character."
+    },
+    {
+        "code": "01056",
+        "name": "Promoção",
+        "text": "Red character only.\nAfter you play this upgrade, you may draw a card."
+    },
+    {
+        "code": "01057",
+        "name": "Arremesso com a Força",
+        "text": "Somente personagem Azul.\n[special] - Remova um dado para causar dano igual ao valor mostrado naquele dado <em>(especiais e vazios são zero)</em> a um personagem."
+    },
+    {
+        "code": "01058",
+        "name": "Treinamento da Força",
+        "text": "Para jogar, aponte um personagem Azul.\n[special] - Escolha duas das seguintes opções, cause 1 de dano em um personagem, receba 1 recurso ou dê 1 de escudo a um personagem."
+    },
+    {
+        "code": "01059",
+        "flavor": "\"Uma arma elegante para um mundo mais civilizado.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Sabre de luz",
+        "text": "Realocar.\n[special] - Cause 2 de dano indefensável a um personagem."
+    },
+    {
+        "code": "01060",
+        "name": "Sonda Mental",
+        "text": "Somente personagem Azul.\n[special] - Cause 1 de dano a um personagem de um oponente para cada carta na mão desse oponente."
+    },
+    {
+        "code": "01061",
+        "name": "Comlink",
+        "text": "Após jogar esta melhoria, você pode rerrolar qualquer número de dados seus ou qualquer número de dados de um oponente."
+    },
+    {
+        "code": "01062",
+        "name": "Datapad",
+        "text": "[special] - Vire um dos seus dados para mostrar um lado que não seja de dano ([ranged] ou [melee])."
+    },
+    {
+        "code": "01063",
+        "name": "Blaster Compacta",
+        "text": "Emboscada. Realocar."
+    },
+    {
+        "code": "01064",
+        "name": "Black Market",
+        "text": "[special] - Draw 2 cards. You may play an upgrade from your hand, decreasing its cost by 1."
+    },
+    {
+        "code": "01065",
+        "name": "Astúcia",
+        "text": "Somente personagem Amarelo.\n[special] - REsolva a ação de uma habilidade especial ([special]) de outra carta em jogo, como se ela fosse sua carta."
+    },
+    {
+        "code": "01066",
+        "name": "Jetpack",
+        "text": "[special] - Retira un dado que muestre daño cuerpo a cuerpo ([melee]) y entrega 1 escudo al Personaje vinculado."
+    },
+    {
+        "code": "01067",
+        "name": "Detonador termal",
+        "text": "Para jogar, aponte um personagem Amarelo.\n[special] - Cause 3 de dano em cada personagem de um oponente. Descarte esta melhoria da partida."
+    },
+    {
+        "code": "01068",
+        "name": "Bucha de Canhão",
+        "text": "Cause dano com valor igual a um dado de dano ([ranged] ou [melee]). do seu oponente em um dos seus personagens não únicos. Então, remova aquele dado."
+    },
+    {
+        "code": "01069",
+        "name": "Fechando a rede",
+        "text": "Force um oponente a escolher e remover um dos dados dele. Você pode colocar este evento no fim do seu deck em vez de descartá-lo."
+    },
+    {
+        "code": "01070",
+        "flavor": "Droides de batalha têm menos efeito que soldados de carne e osso, mas também têm um menor custo para repor.",
+        "name": "Tropas sem fim",
+        "text": "Retorne para a partida, sem nenhum dano, um dos seus personagens Vermelhos não-únicos derrotados."
+    },
+    {
+        "code": "01071",
+        "name": "Ocupação",
+        "text": "Jogue somente se você estiver no controle do campo de batalha.\nForce um oponente a perder todos os recursos."
+    },
+    {
+        "code": "01072",
+        "name": "Sonda",
+        "text": "Olhe 2 cartas aleatórias da mão de um oponente e descarte todas as cartas que forem eventos."
+    },
+    {
+        "code": "01073",
+        "name": "Vasculhar a Área",
+        "text": "Conte o número de personagens Vermelhos preparados que você tem. Rerrole o mesmo número de dados de um oponente."
+    },
+    {
+        "code": "01074",
+        "name": "Maestria Tática",
+        "text": "Aponte um personagem Vermelho para realizar até 2 ações extras."
+    },
+    {
+        "code": "01075",
+        "flavor": "\"Ali estão eles! Exploda-os!\"",
+        "name": "A melhor defesa...",
+        "text": "Cause 3 de dano em algum dos seus personagens Vermelhos para remover até 2 dados de um oponente."
+    },
+    {
+        "code": "01076",
+        "name": "Trabalho Duro",
+        "text": "<b>Ação</b> - Exauste esta carta e um dos seus personagens para ganhar 1 recurso."
+    },
+    {
+        "code": "01077",
+        "name": "Fortaleza Local",
+        "text": "Cada oponente ganha 1 recurso a menos durante cada fase de manutenção, até um mínimo de 1."
+    },
+    {
+        "code": "01078",
+        "name": "Escolta Particular",
+        "text": "O personagem atribuído tem a palavra-chave Guardião."
+    },
+    {
+        "code": "01079",
+        "name": "Abandonar Toda Esperança",
+        "text": "Force um oponente a escolher entre perder todos os recursos ou descartar todas as cartas na mão dele."
+    },
+    {
+        "code": "01080",
+        "name": "Ambição sem limite",
+        "text": "Compre cartas até o número limite da sua mão."
+    },
+    {
+        "code": "01081",
+        "name": "Enfurecer",
+        "text": "Cause 1 de dano em um dos seus personagens Azuis para receber 1 recurso."
+    },
+    {
+        "code": "01082",
+        "flavor": "\"Deixe o ódio fluir em você.\" <cite>Imperador Palpatine</cite>",
+        "name": "Sinta Sua Raiva",
+        "text": "Conte o número de vazios ([blank]) que aparecem nos dados de um oponente. Remova essa quantidade de dados dele."
+    },
+    {
+        "code": "01083",
+        "name": "Ataque com a Força",
+        "text": "Vire um dos seus dados Azuis para um lado mostrando dano corpo a corpo ([melee]). Então você pode resolver esse dado."
+    },
+    {
+        "code": "01084",
+        "name": "Intimidar",
+        "text": "Remova todos os escudos de um personagem."
+    },
+    {
+        "code": "01085",
+        "name": "Isolamento",
+        "text": "Aponte um personagem Azul para remover um dado de personagem."
+    },
+    {
+        "code": "01086",
+        "name": "Sem Piedade",
+        "text": "Descarte qualquer número de cartas Azuis da sua mão. Resolva um dos seus dados monstrando dano ([melee] ou [ranged]), aumentando o valor em 1 para cada carta descartada."
+    },
+    {
+        "code": "01087",
+        "name": "No Comando",
+        "text": "Olhe as três primeiras cartas de qualquer deck. Então, coloque essas cartas no topo ou final daquele deck na ordem que preferir."
+    },
+    {
+        "code": "01088",
+        "name": "Indulto do Imperador",
+        "text": "O limite da sua mão aumenta em 1."
+    },
+    {
+        "code": "01089",
+        "flavor": "\"Se você apenas conhecesse o poder do lado obscuro\" <cite>Darth Vader</cite>",
+        "name": "Poder do Lado Obscuro",
+        "text": "<b>Ação</b> - Exaute este suporte para rerrolar um dos seus dados. Se o dado cair com o lado vazio ([blank]), cause 2 de dano indefensável a um personagem."
+    },
+    {
+        "code": "01090",
+        "name": "Escondido na Sombra",
+        "text": "<b>Ação</b> - Se o personagem atribuído não tem escudos, exauste esta melhoria para dar 1 escudo a ele."
+    },
+    {
+        "code": "01091",
+        "name": "Sem Saída",
+        "text": "Vire cada dado seu mostrando o lado vazio ([blank]) para qualquer lado."
+    },
+    {
+        "code": "01092",
+        "name": "Carta na Manga",
+        "text": "Descarte uma melhoria Amarela da sua mão para rolar o dado dessa melhoria na sua reserva de dados, se possível. Deixe esse dado de lado depois que ele for resolvido ou removido."
+    },
+    {
+        "code": "01093",
+        "name": "Armado até os Dentes",
+        "text": "Descarte qualquer número de melhorias de um dos seus personagens Amarelos. Então cause dano a um personagem igual ao número de melhorias descartadas."
+    },
+    {
+        "code": "01094",
+        "name": "Confiscar",
+        "text": "Gaste recursos equivalentes ao custo de uma melhoria de um oponente para devolver aquela melhoria à mão dele."
+    },
+    {
+        "code": "01095",
+        "name": "Luta Suja",
+        "text": "Remova qualquer número de seus dados Amarelos. Cause dano com valor igual ao número de dados removidos a um personagem."
+    },
+    {
+        "code": "01096",
+        "name": "Atire para Matar",
+        "text": "Resolva um dos seus dados mostrando dano a distância ([ranged]), tratando este dano como indefensável."
+    },
+    {
+        "code": "01097",
+        "flavor": "\"Também não gosto de você.\"",
+        "name": "Ele não gosta de Você",
+        "text": "Remova um dos seus dados para remover um dado de um oponente."
+    },
+    {
+        "code": "01098",
+        "name": "Esperando",
+        "text": "Force um oponente a escolher e descartar cartas da mão dele para ficar com o mesmo número de cartas que você tem na mão."
+    },
+    {
+        "code": "01099",
+        "name": "Força Extra",
+        "text": "Após jogar este suporte, coloque 3 de dano nele.\n<b>Ação</b> - Exautes este suporte para mover 1 dano dele para um personagem <em>(ignora escudos).</em>"
+    },
+    {
+        "code": "01100",
+        "name": "Meu tipo de Escória",
+        "text": "Após resolver um dado mostrando interferir ([disrupt]), você pode exaustar este suporte para ganhar recursos igual ao número de recursos que seu oponente perdeu."
+    },
+    {
+        "code": "01101",
+        "name": "Conexões no Submundo",
+        "text": "<b>Ação</b> - Exauste este suporte para ganhar um recurso."
+    },
+    {
+        "code": "01102",
+        "name": "Um Bem Valioso",
+        "text": "Após jogar esta melhoria, você pode remover um dado de personagem de um oponente e colocá-lo aqui. Este dado não pode ser jogado por nenhum personagem e não volta ao seu próprio personagem, a menos que esta melhoria saia de jogo."
+    },
+    {
+        "code": "01103",
+        "name": "Comandos de Ataque",
+        "text": "Resolva a ação de um dos seus dados Vermelhos monstrando descartar ([discard]), aumentando seu valor em 2. Compre uma carta."
+    },
+    {
+        "code": "01104",
+        "name": "Posição Defensiva",
+        "text": "Jogue somente se você estiver no controle do campo de batalha\nRemova todos os dados de um oponente que mostram valor 2 ou maior."
+    },
+    {
+        "code": "01105",
+        "name": "Médico de Campo",
+        "text": "Cure 2 de dano de um personagem."
+    },
+    {
+        "code": "01106",
+        "name": "Bater e Correr",
+        "text": "Emboscada.\nAtive um dos seus personagens vermelhos."
+    },
+    {
+        "code": "01107",
+        "name": "É uma armadilha!",
+        "text": "Emboscada.\nElige un símbolo que muestre un dado de un adversario. Luego girar cualquier cantidad de tus dados de color Rojo a caras que muestren ese símbolo."
+    },
+    {
+        "code": "01108",
+        "name": "Talento Nato",
+        "text": "Resolva a ação de um dos seus dados, aumentando seu valor em 1."
+    },
+    {
+        "code": "01109",
+        "name": "Rearmar",
+        "text": "Jogue uma melhoria Vermelha da sua pilha de descarte, reduzindo o custo dela em 1."
+    },
+    {
+        "code": "01110",
+        "name": "Recuar",
+        "text": "Seu oponente pode realizar 1 ação. Então, termine a fase de ação."
+    },
+    {
+        "code": "01111",
+        "name": "Planejamento Estratégico",
+        "text": "Exauste ou prepare um suporte."
+    },
+    {
+        "code": "01112",
+        "name": "Ataque Cirúrgico",
+        "text": "Remova qualquer número de dados Vermelhos que mostrem dano a distância ([ranged]), aumentando o valor de cada dado em 1, para descartar um suporte em jogo que tenha um custo menor ou igual ao valor combinado desses dados."
+    },
+    {
+        "code": "01113",
+        "name": "QG da Resistência",
+        "text": "<b>Ação</b> - Exauste este suporte e descarte uma carta da sua mão para dar 1 escudo a um personagem. Então, prepare este suporte a não ser que um oponente gaste 1 recurso."
+    },
+    {
+        "code": "01114",
+        "name": "Antecipar",
+        "text": "Force um oponente a resolver um número à sua escolha de dados dele. Então, remova todos os dados que ele não resolveu."
+    },
+    {
+        "code": "01115",
+        "name": "Postura defensiva",
+        "text": "Dê 2 escudos a um personagem."
+    },
+    {
+        "code": "01116",
+        "name": "Desorientação com a Força",
+        "text": "Escolha um dos símbolos mostrados em um de seus dados Azuis. Remova todos os dados de um oponente que mostrem aquele símbolo."
+    },
+    {
+        "code": "01117",
+        "name": "Heroísmo",
+        "text": "Cause dano a um de seus personagens únicos igual ao valor de um dado de um oponente que mostre ([ranged] ou [melee]). Então, remova aquele dado."
+    },
+    {
+        "code": "01118",
+        "name": "Sacrifício Nobre",
+        "text": "Derrote um de seus personagens Azuis para exaustar um personagem."
+    },
+    {
+        "code": "01119",
+        "name": "Paciência",
+        "text": "Remova qualquer número de dados seus. Descarte essa mesma quantidade em cartas do topo do deck de um oponente."
+    },
+    {
+        "code": "01120",
+        "flavor": "\"Passe o que aprendeu adiante.\" <cite>Yoda</cite>",
+        "name": "O Retorno de Jedi",
+        "text": "Adicione um evento Azul da sua pilha de descartes para a sua mão."
+    },
+    {
+        "code": "01121",
+        "name": "Contragolpe",
+        "text": "Remova qualquer número de escudos de um dos seus personagens. Cause dano com valor igual ao número de escudos removidos a um personagem."
+    },
+    {
+        "code": "01122",
+        "name": "Força de Vontade",
+        "text": "Remova 1 de dano de um dos seus personagens exaustos e coloque em um personagem exausto de um oponente <em>(ignora escudos).</em>"
+    },
+    {
+        "code": "01123",
+        "name": "Conselho Jedi",
+        "text": "<b>Ação</b> - Exauste este suporte para olhar as duas primeiras cartas do deck de um jogador. Você pode descartar uma dessas cartas e fazer aquele jogador comprar a outra."
+    },
+    {
+        "code": "01124",
+        "name": "Despertar",
+        "text": "<b>Ação</b> - Exauste este suporte para resolver um dos seus dados mostrando um resultado modificado <em>(um lado com +)</em> como se não fosse modificado <em>(não tivesse um +).</em>"
+    },
+    {
+        "code": "01125",
+        "name": "A Força é Poderosa",
+        "text": "<b>Ação</b> - Exauste este suporte e descarte uma carta Azul da sua mão para jogar outra cópia daquela carta da sua mão, sem custo."
+    },
+    {
+        "code": "01126",
+        "name": "Fuga Corajosa",
+        "text": "Emboscada.\nRerrole quantos dados quiser de um oponente. Remova todos os dados dele mostrando vazio ([blank])."
+    },
+    {
+        "code": "01127",
+        "flavor": "\"Peguei um! Peguei um!\" <cite>Luke Skywalker</cite>",
+        "name": "Não fique convencido.",
+        "text": "Cada jogador compra 2 cartas."
+    },
+    {
+        "code": "01128",
+        "name": "Chamar Atenção",
+        "text": "Mova 2 de daano de um dos seus personagens par aoutro personagem seu <em>(ignora escudos).</em>"
+    },
+    {
+        "code": "01129",
+        "name": "Salto para o Hiperespaço",
+        "text": "Termine a fase de ação. VocÊ pode trocar o campo de batalha para um que não está sendo usado."
+    },
+    {
+        "code": "01130",
+        "name": "Deixe o Wookiee Vencer",
+        "text": "Force um oponente a escolher entre causar 2 de dano em um dos personagens exaustos dele ou remover 2 dados dele."
+    },
+    {
+        "code": "01131",
+        "name": "Negociar",
+        "text": "Remova um dos seus dados de personagem para forçar um oponente a escolher e remover 2 dados dele."
+    },
+    {
+        "code": "01132",
+        "name": "Vasculhar",
+        "text": "Descarte as três priemeiras cartas do seu deck. Você pode adicionar uma melhoria ou suporte da sua pilha de descartes à sua mão."
+    },
+    {
+        "code": "01133",
+        "name": "Atire Primeiro",
+        "text": "Emboscada.\nResolva um dos seus dados Amarelos mostrando dano a distância ([ranged]). Então remova um dado do oponente mostrando esse mesmo lado ([ranged])."
+    },
+    {
+        "code": "01134",
+        "name": "Contrabando",
+        "text": "Aponte um personagem Amarelo e descarte uma carta da sua mão para ganhar 1 recurso."
+    },
+    {
+        "code": "01135",
+        "name": "Na Sorte",
+        "text": "<b>Ação</b> - Exauste este suporte para rerrolar um de seus dados Amarelos. Se o resultado for um recurso ([resource]), ganhe 1 recurso."
+    },
+    {
+        "code": "01136",
+        "name": "Informantes de Rua",
+        "text": "Emboscada.\n<b>Ação</b> - Exauste esta carta para olhar a mão de um oponente."
+    },
+    {
+        "code": "01137",
+        "name": "Segunda Chance",
+        "text": "Somente personagem Amarelo.\nAntes que o personagem atribuído seja derrotado, cure 5 de dano e descarte esta melhoria."
+    },
+    {
+        "code": "01138",
+        "name": "Cerimônia de Premiação",
+        "text": "Aponte um personagem Vermelho para comprar cartas igual ao número de personagens exaustos que você tem."
+    },
+    {
+        "code": "01139",
+        "name": "Entrincheirado",
+        "text": "Jogue somente se você estiver no controle do campo de batalha.\nDê 3 escudos para seus personagens distribuídos como você preferir."
+    },
+    {
+        "code": "01140",
+        "name": "Poder de Fogo",
+        "text": "Resolva um dos seus dados Vermelhos mostrando dano a distância ([ranged]), aumentando seu valor em 1, ou 2 se você estiver resolvendo a ação de um  <i>veículo</i>."
+    },
+    {
+        "code": "01141",
+        "name": "Liderança",
+        "text": "Agota uno de tus Personajes únicos de color Rojo parar preparar otro Personaje."
+    },
+    {
+        "code": "01142",
+        "name": "Logística",
+        "text": "Aponte um personagem Vermelho para resolver um de seus dados mostrando recursos ([resource]), aumentando seu valor em 1."
+    },
+    {
+        "code": "01143",
+        "name": "Tática de Esquadrão",
+        "text": "Ative quantos dos seus personagens não-únicos quiser."
+    },
+    {
+        "code": "01144",
+        "name": "Fogo de Apoio",
+        "text": "<b>Ação</b> - Exauste este suporte para resolver um de seus dados mostrando dano a distância ([ranged]), aumetando seu valor em 1."
+    },
+    {
+        "code": "01145",
+        "name": "Defletir",
+        "text": "Aponte um personagem Azul para remover um dado mostrando dano a distância ([ranged]) e dê metade daquele dano, arredondado para cima, a um personagem."
+    },
+    {
+        "code": "01146",
+        "flavor": "\"Sinto que algo terrível aconteceu, como se milhares de vozes de repente gritassem de terror e fossem subitamente silenciadas.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Pertubação na Força",
+        "text": "Rerrole todos os dados."
+    },
+    {
+        "code": "01147",
+        "name": "Truque Mental",
+        "text": "Aponte um personagem Azul para forçar um oponente a dividir sua reserva de dados em 2 grupos de qualquer tamanho. Escolha 1 grupo e remova todos os dados dele."
+    },
+    {
+        "code": "01148",
+        "name": "O Poder da Força",
+        "text": "Resolva a ação de um valor dos seus dados considerando o valor dele igual ao número de melhorias Azuis que você tiver em jogo."
+    },
+    {
+        "code": "01149",
+        "flavor": "\"A força sempre estará com você.\" <cite>Obi-Wan Kenobi",
+        "name": "Use a Força",
+        "text": "Aponte um personagem Azul para virar um dado para qualquer lado."
+    },
+    {
+        "code": "01150",
+        "name": "Conecta Todas as Coisas",
+        "text": "Antes de jogar uma melhoria Azul, exauste este suporte para diminuir seu custo em 1."
+    },
+    {
+        "code": "01151",
+        "name": "Mira",
+        "text": "Vire um dos seus dados para um lado de dano a distância ([ranged])."
+    },
+    {
+        "code": "01152",
+        "name": "Tudo ou Nada",
+        "text": "Resolva quantos dados seus quiser, na ordem que preferir."
+    },
+    {
+        "code": "01153",
+        "name": "Bloquear",
+        "text": "Retira todos os dados do oponente mostrando dano corpo a corpo ([melee])."
+    },
+    {
+        "code": "01154",
+        "name": "Investida de Curta Distância",
+        "text": "Conte o número de dados mostrando dano corpo a corpo que você tem ([melee]). Seu oponente descartará, aleatoriamente, essa quantidade em cartas da mão dele."
+    },
+    {
+        "code": "01155",
+        "name": "Desviar",
+        "text": "Remova todos os dados de um oponente mostrando dano a distância ([ranged])."
+    },
+    {
+        "code": "01156",
+        "name": "Flanquear",
+        "text": "Jogue somente se você tiver mais personagens preaparados do que um oponente.\nRemova um dos dados desse oponente."
+    },
+    {
+        "code": "01157",
+        "name": "Cobertura",
+        "text": "Dê 1 escudo a um personagem."
+    },
+    {
+        "code": "01158",
+        "name": "Desarmar",
+        "text": "Remova um dos seus dados mostrando dano ([melee] ou [ranged]) para descartar uma <i>arma</i> ou <i>equipamento</i> em jogo que tenha um custo menor ou igual ao valor desse dado."
+    },
+    {
+        "code": "01159",
+        "name": "Eletrochoque",
+        "text": "Aponte um personagem Amarelo para remover um dado que mostre valor 2 ou menor."
+    },
+    {
+        "code": "01160",
+        "name": "Reversão",
+        "text": "Aponte um personagem Amarelo para remover um dado mostrando dano ([ranged] ou [melee]) e cause esse dano em um personagem."
+    },
+    {
+        "code": "01161",
+        "name": "Zarpar",
+        "text": "Aponte um personagem Amarelo para rerrolar todos os dados de um oponente."
+    },
+    {
+        "code": "01162",
+        "name": "Imprevisível",
+        "text": "Emboscada.\nRerrole um dado <em>(seu ou de seu oponente).</em>"
+    },
+    {
+        "code": "01163",
+        "name": "Infame",
+        "text": "Antes de jogar uma carta Amarela, você pode exaustar este suporte para dar à carta jogada a palavra-chave Emboscada."
+    },
+    {
+        "code": "01164",
+        "name": "Agachar",
+        "text": "Se o personagem atribuído tomar dano corpo a corpo ([melee]), descarte esta melhoria.\n<b>Ação</b> - Exauste esta melhoria para dar ao personagem atribuído 1 escudo."
+    },
+    {
+        "code": "01165",
+        "name": "Centro de Comando",
+        "subtitle": "Lothal",
+        "text": "<b>Reivindicar</b> - Cada oponente descarta as 2 primeiras cartas do deck.."
+    },
+    {
+        "code": "01166",
+        "name": "Base Eco",
+        "subtitle": "Hoth",
+        "text": "<b>Reivindicar</b> - Entrega 1 escudo a um Personagem."
+    },
+    {
+        "code": "01167",
+        "name": "Sala do Trono do Imperador",
+        "subtitle": "Estrela da Morte II",
+        "text": "<b>Reivindicar/b> - Vire um dos seus dados para o lado de habilidade especial ([special]). Então, você pode resolver esse dado."
+    },
+    {
+        "code": "01168",
+        "name": "Ruínas Gélidas",
+        "subtitle": "Base Starkiller",
+        "text": "<b>Reivindicar</b> - Remova um dado de Personagem."
+    },
+    {
+        "code": "01169",
+        "name": "Arsenal Imperial",
+        "subtitle": "Estrela da Morte",
+        "text": "<b>Reivindicar</b> - Jogue uma melhoria da sua mão, reduzindo o custo dela em 1."
+    },
+    {
+        "code": "01170",
+        "name": "Templo Jedi",
+        "subtitle": "Coruscant",
+        "text": "<b>Reivindicar</b> - Olhe a mão de um oponente e descarte até dois eventos à sua escolha."
+    },
+    {
+        "code": "01171",
+        "name": "Sala de Guerra Rebelde",
+        "subtitle": "Yavin IV",
+        "text": "<b>Reivindicar</b> - Resolva um de seus dados. Se ele tiver um custo de recurso, você não precisa pagar."
+    },
+    {
+        "code": "01172",
+        "name": "Espaçoporto de Mos Eisley",
+        "subtitle": "Tatooine",
+        "text": "<b>Reivindicar</b> - Retorne uma de suas melhorias em jogo para sua mão para ganhar 1 recurso."
+    },
+    {
+        "code": "01173",
+        "name": "Base Separatista",
+        "subtitle": "Mustafar",
+        "text": "<b>Reivindicar</b> - Cada oponente escolhe e causa 1 de dano indefensável em um personagem que controla."
+    },
+    {
+        "code": "01174",
+        "name": "Cemitério das Naves",
+        "subtitle": "Jakku",
+        "text": "<b>Reivindicar</b> - Escolha um suporte ou uma melhoria na sua pilha de descarte e coloque no topo de seu deck."
+    }
+]

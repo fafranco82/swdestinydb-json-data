@@ -3184,7 +3184,7 @@
         "position": 151,
         "rarity_code": "S",
         "set_code": "AW",
-        "text": "Turn one of your dice to a shide showing ranged damage.",
+        "text": "Turn one of your dice to a side showing ranged damage ([ranged]).",
         "ttscardid": "1910",
         "type_code": "event"
     },
@@ -3234,7 +3234,7 @@
         "position": 154,
         "rarity_code": "S",
         "set_code": "AW",
-        "text": "Count the number of dice you have showing mele damage. Discard that many random cards from an opponent's hand.",
+        "text": "Count the number of dice you have showing melee damage ([melee]). Discard that many random cards from an opponent's hand.",
         "ttscardid": "1913",
         "type_code": "event"
     },
