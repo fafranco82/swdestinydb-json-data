@@ -1,35 +1,35 @@
 [
     {
         "code": "-",
-        "name": "Blank"
+        "name": "Üres"
     },
     {
         "code": "Dc",
-        "name": "Discard"
+        "name": "Eldobás"
     },
     {
         "code": "Dr",
-        "name": "Disrupt"
+        "name": "Megszakítás"
     },
     {
         "code": "F",
-        "name": "Focus"
+        "name": "Fókusz"
     },
     {
         "code": "MD",
-        "name": "Melee Damage"
+        "name": "Közelharci"
     },
     {
         "code": "R",
-        "name": "Resource"
+        "name": "Erőforrás"
     },
     {
         "code": "RD",
-        "name": "Ranged Damage"
+        "name": "Távolsági"
     },
     {
         "code": "Sh",
-        "name": "Shield"
+        "name": "Pajzs"
     },
     {
         "code": "Sp",
