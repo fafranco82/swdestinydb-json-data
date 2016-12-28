@@ -1,15 +1,15 @@
 [
     {
         "code": "01001",
+        "flavor": "\"Nagyon ostoba, ha azt hiszi, hogy ez ilyen egyszerű\"",
         "name": "Phasma kapitány",
         "subtitle": "Elit rohamosztagos",
-        "text": "A nem egyedi karaktereid megkapják az Őrző kulcsszót.",
-        "flavor": "\"Nagyon ostoba, ha azt hiszi, hogy ez ilyen egyszerű\""
+        "text": "A nem egyedi karaktereid megkapják az Őrző kulcsszót."
     },
     {
         "code": "01002",
-        "name": "Első Rend rohamosztagos",
-        "flavor": "A rohamosztagosok ezen új generációjának tagjait születésüktől fogva az Első Rend propagandáinak megfelelően képzik, hogy biztosítsák abszolút hűségüket."
+        "flavor": "A rohamosztagosok ezen új generációjának tagjait születésüktől fogva az Első Rend propagandáinak megfelelően képzik, hogy biztosítsák abszolút hűségüket.",
+        "name": "Első Rend rohamosztagos"
     },
     {
         "code": "01003",
@@ -19,16 +19,16 @@
     },
     {
         "code": "01004",
+        "flavor": "\"Készítse föl a csapatait felszíni támadásra, tábornok!\" - Darth Vader",
         "name": "Veers tábornok",
         "subtitle": "Harctéri parancsnok",
-        "text": "<b>Akció</b> - Távolítsd el ezt a kockát, hogy az egyik támogatáskockádat bármelyik oldalára átfordíthasd!",
-        "flavor": "\"Készítse föl a csapatait felszíni támadásra, tábornok!\" - Darth Vader"
+        "text": "<b>Akció</b> - Távolítsd el ezt a kockát, hogy az egyik támogatáskockádat bármelyik oldalára átfordíthasd!"
     },
     {
         "code": "01005",
+        "flavor": "A birodalmi lépegető támogató és felderítő feladatokat is ellátott a Galaktikus Birodalom hadi gépezetében.",
         "name": "AT-ST",
-        "text": "[special] - Dobj el egy támogatást a játékból!",
-        "flavor": "A birodalmi lépegető támogató és felderítő feladatokat is ellátott a Galaktikus Birodalom hadi gépezetében."
+        "text": "[special] - Dobj el egy támogatást a játékból!"
     },
     {
         "code": "01006",
@@ -53,10 +53,10 @@
     },
     {
         "code": "01010",
+        "flavor": "\"Ha nem küzdesz, akkor utolér a végzeted.\"",
         "name": "Darth Vader",
         "subtitle": "Sith Nagyúr",
-        "text": "Miután aktiváltad ezt a karaktert, az ellenfelednek el kell dobnia egy kártyát a kezéből.",
-        "flavor": "\"Ha nem küzdesz, akkor utolér a végzeted.\""
+        "text": "Miután aktiváltad ezt a karaktert, az ellenfelednek el kell dobnia egy kártyát a kezéből."
     },
     {
         "code": "01011",
@@ -66,9 +66,9 @@
     },
     {
         "code": "01012",
+        "flavor": "Az Éjnővérek tehetségesen használják az Erőt a saját céljaik elérésének érdekében.",
         "name": "Éjnővér",
-        "text": "<b>Akció</b> - Dobj újra egy kockát! Okozz 1 sebzést ennek a karakternek!",
-        "flavor": "Az Éjnővérek tehetségesen használják az Erőt a saját céljaik elérésének érdekében."
+        "text": "<b>Akció</b> - Dobj újra egy kockát! Okozz 1 sebzést ennek a karakternek!"
     },
     {
         "code": "01013",
@@ -108,17 +108,17 @@
     },
     {
         "code": "01020",
+        "flavor": "\"Gyönyörködni fogok a halálotokban.\"",
         "name": "Jabba, a hutt",
         "subtitle": "A hatalmas és tekintélyes",
-        "text": "Miután aktiváltad ezt a karaktert, újradobhatsz egy Sárga kockát.",
-        "flavor": "\"Gyönyörködni fogok a halálotokban.\""
+        "text": "Miután aktiváltad ezt a karaktert, újradobhatsz egy Sárga kockát."
     },
     {
         "code": "01021",
+        "flavor": "\"Több hibát nem követhetünk el.\"",
         "name": "Jango Fett",
         "subtitle": "Halálos zsoldos",
-        "text": "Miután az ellenfél aktivál egy karaktert, te is aktiválhatod ezt a karaktert.",
-        "flavor": "\"Több hibát nem követhetünk el.\""
+        "text": "Miután az ellenfél aktivál egy karaktert, te is aktiválhatod ezt a karaktert."
     },
     {
         "code": "01022",
@@ -153,10 +153,10 @@
     },
     {
         "code": "01028",
+        "flavor": "\"Nem tudom, kicsoda maga, és hogy került ide, de mostantól azt teszi, amit mondok!\"",
         "name": "Leia Organa",
         "subtitle": "Született vezető",
-        "text": "<b>Akció</b> - Távolítsd el ezt a kockát, hogy újradobhass legfeljebb 2 kockáddal.",
-        "flavor": "\"Nem tudom, kicsoda maga, és hogy került ide, de mostantól azt teszi, amit mondok!\""
+        "text": "<b>Akció</b> - Távolítsd el ezt a kockát, hogy újradobhass legfeljebb 2 kockáddal."
     },
     {
         "code": "01029",
@@ -176,9 +176,9 @@
     },
     {
         "code": "01032",
+        "flavor": "Poe Dameron X-szárnyúját úgy módosították, hogy még sokoldalúbb legyen, mint a szabvány T-70-es modell.",
         "name": "Fekete Egyes",
-        "text": "[special] - Okozz egy sebzést egy karakternek! Dobd újra ezt a kockát ahelyett, hogy eltávolítanád a készletedből!",
-        "flavor": "Poe Dameron X-szárnyúját úgy módosították, hogy még sokoldalúbb legyen, mint a szabvány T-70-es modell."
+        "text": "[special] - Okozz egy sebzést egy karakternek! Dobd újra ezt a kockát ahelyett, hogy eltávolítanád a készletedből!"
     },
     {
         "code": "01033",
@@ -187,15 +187,15 @@
     },
     {
         "code": "01034",
-        "name": "Túlélőfelszerelés",
-        "flavor": "A Birodalom elől rejtőzködve a lázadóknak gyakran embertelen körülmények között kell helytállniuk."
+        "flavor": "A Birodalom elől rejtőzködve a lázadóknak gyakran embertelen körülmények között kell helytállniuk.",
+        "name": "Túlélőfelszerelés"
     },
     {
         "code": "01035",
+        "flavor": "\"Én jedi vagyok, mint valaha apám is volt.\"",
         "name": "Luke Skywalker",
         "subtitle": "Jedi lovag",
-        "text": "Miután aktiváltad ezt a karaktert, húzz 1 lapot!",
-        "flavor": "\"Én jedi vagyok, mint valaha apám is volt.\""
+        "text": "Miután aktiváltad ezt a karaktert, húzz 1 lapot!"
     },
     {
         "code": "01036",
@@ -204,17 +204,17 @@
     },
     {
         "code": "01037",
+        "flavor": "\"Amire figyelsz, az a világod.\"",
         "name": "Qui-Gon Jinn",
         "subtitle": "Ataru mester",
-        "text": "Mielőtt ez a karakter 1 vagy több pajzsot kapna, eltávolíthatsz róla 1 pajzsot, hogy 1 sebzést okozz egy karakternek.",
-        "flavor": "\"Amire figyelsz, az a világod.\""
+        "text": "Mielőtt ez a karakter 1 vagy több pajzsot kapna, eltávolíthatsz róla 1 pajzsot, hogy 1 sebzést okozz egy karakternek."
     },
     {
         "code": "01038",
+        "flavor": "\"Kösz, de tudok vigyázni magamra.\"",
         "name": "Rey",
         "subtitle": "Ösztönös Erőhasználó",
-        "text": "Miután kijátszol egy fejlesztést erre a karakterre, végrehajthatsz még egy akciót.",
-        "flavor": "\"Kösz, de tudok vigyázni magamra.\""
+        "text": "Miután kijátszol egy fejlesztést erre a karakterre, végrehajthatsz még egy akciót."
     },
     {
         "code": "01039",
@@ -238,9 +238,9 @@
     },
     {
         "code": "01043",
+        "flavor": "\"Narancssárga, fehér: egyedi darab.\" - Poe Dameron",
         "name": "BB-8",
-        "text": "[special] - Dobd újra ezt és egy másik kockádat, de ne távolítsd el ezt a kockát a készletedből, miután használtad ezt a képességet.",
-        "flavor": "\"Narancssárga, fehér: egyedi darab.\" - Poe Dameron"
+        "text": "[special] - Dobd újra ezt és egy másik kockádat, de ne távolítsd el ezt a kockát a készletedből, miután használtad ezt a képességet."
     },
     {
         "code": "01044",
@@ -249,35 +249,35 @@
     },
     {
         "code": "01045",
+        "flavor": "\"Már sosem megyek vissza.\"",
         "name": "Finn",
         "subtitle": "Első Rend szökevény",
-        "text": "Bármilyen <i>fegyvert</i> csatolhatsz ehhez a karakterhez, figyelmen kívül hagyva a kijátszási megkötéseket.\nPaklid tartalmazhat Piros Gonosz <i>fegyvereket</i> és <i>járműveket</i> is.",
-        "flavor": "\"Már sosem megyek vissza.\""
+        "text": "Bármilyen <i>fegyvert</i> csatolhatsz ehhez a karakterhez, figyelmen kívül hagyva a kijátszási megkötéseket.\nPaklid tartalmazhat Piros Gonosz <i>fegyvereket</i> és <i>járműveket</i> is."
     },
     {
         "code": "01046",
+        "flavor": "\"Nem azért, de ilyenkor magam is ámulom magamon.\"",
         "name": "Han Solo",
         "subtitle": "Szélhámos",
-        "text": "Miután kijátszottál egy Rajtaütés kulcsszóval rendelkező lapot, adhatsz ennek a karakternek egy pajzsot.",
-        "flavor": "\"Nem azért, de ilyenkor magam is ámulom magamon.\""
+        "text": "Miután kijátszottál egy Rajtaütés kulcsszóval rendelkező lapot, adhatsz ennek a karakternek egy pajzsot."
     },
     {
         "code": "01047",
-        "name": "Bérenc",
-        "flavor": "\"Ne féljen, megkapja a jutalmát. Ha magát a pénz boldogítja, hát legyen boldog a pénzével.\" - Leia Organa"
+        "flavor": "\"Ne féljen, megkapja a jutalmát. Ha magát a pénz boldogítja, hát legyen boldog a pénzével.\" - Leia Organa",
+        "name": "Bérenc"
     },
     {
         "code": "01048",
+        "flavor": "\"A népem sorsa egyben az én sorsom is.\"",
         "name": "Padmé Amidala",
         "subtitle": "A Naboo királynője",
-        "text": "[special] - Dobd el az ellenfél paklijának felső lapját, vagy fizess 1 erőforrást és dobd el az ellenfél paklijának felső 2 lapját.",
-        "flavor": "\"A népem sorsa egyben az én sorsom is.\""
+        "text": "[special] - Dobd el az ellenfél paklijának felső lapját, vagy fizess 1 erőforrást és dobd el az ellenfél paklijának felső 2 lapját."
     },
     {
         "code": "01049",
+        "flavor": "\"Kívülről nem látszik rajta, de tudja, amit egy hajónak tudnia kell.\" - Han Solo",
         "name": "Ezeréves Sólyom",
-        "text": "[special] - Játssz ki egy Sárga eseményt ingyen a kezedből vagy a dobott lapjaid közül!",
-        "flavor": "\"Kívülről nem látszik rajta, de tudja, amit egy hajónak tudnia kell.\" - Han Solo"
+        "text": "[special] - Játssz ki egy Sárga eseményt ingyen a kezedből vagy a dobott lapjaid közül!"
     },
     {
         "code": "01050",
@@ -301,8 +301,8 @@
     },
     {
         "code": "01054",
-        "name": "DH-17 sugárvető pisztoly",
-        "flavor": "Mind a lázadó katonák, mind a birodalmi tisztek előszeretettel választották ezt a fegyvert a Galaktikus Polgárháborúban."
+        "flavor": "Mind a lázadó katonák, mind a birodalmi tisztek előszeretettel választották ezt a fegyvert a Galaktikus Polgárháborúban.",
+        "name": "DH-17 sugárvető pisztoly"
     },
     {
         "code": "01055",
@@ -326,9 +326,9 @@
     },
     {
         "code": "01059",
+        "flavor": "\"Emberibb fegyver. Emberibb időkre való.\" - Obi-Wan Kenobi",
         "name": "Fénykard",
-        "text": "Áthelyezés.\n[special] - Okozz 2 védhetetlen sebzést egy karakternek.",
-        "flavor": "\"Emberibb fegyver. Emberibb időkre való.\" - Obi-Wan Kenobi"
+        "text": "Áthelyezés.\n[special] - Okozz 2 védhetetlen sebzést egy karakternek."
     },
     {
         "code": "01060",
@@ -382,9 +382,9 @@
     },
     {
         "code": "01070",
+        "flavor": "A harci droidok sokkal kevésbé hatákonyak, mint a hús-vér katonák, de sokkal olcsóbban is pótolhatóak.",
         "name": "Végtelen sorok",
-        "text": "Helyezd vissza a játékba sebzésjelzők nélkül az egyik legyőzött, nem egyedi Piros karakteredet!",
-        "flavor": "A harci droidok sokkal kevésbé hatákonyak, mint a hús-vér katonák, de sokkal olcsóbban is pótolhatóak."
+        "text": "Helyezd vissza a játékba sebzésjelzők nélkül az egyik legyőzött, nem egyedi Piros karakteredet!"
     },
     {
         "code": "01071",
@@ -408,9 +408,9 @@
     },
     {
         "code": "01075",
+        "flavor": "\"Ott vannak! Támadás!\"",
         "name": "A legjobb védekezés...",
-        "text": "Okozz egy Piros karakterednek 3 sebzést, hogy eltávolíthass legfeljebb 2 karakterkockát az ellenféltől!",
-        "flavor": "\"Ott vannak! Támadás!\""
+        "text": "Okozz egy Piros karakterednek 3 sebzést, hogy eltávolíthass legfeljebb 2 karakterkockát az ellenféltől!"
     },
     {
         "code": "01076",
@@ -444,9 +444,9 @@
     },
     {
         "code": "01082",
+        "flavor": "\"Engedj szabad folyást a gyűlöletednek!\" - Palpatine Császár",
         "name": "Engedj a dühödnek!",
-        "text": "Számold meg az ellenfél üres oldalát ([üres]) mutató kockáit! Távolíts el az ellenfél kockái közül ennyit!",
-        "flavor": "\"Engedj szabad folyást a gyűlöletednek!\" - Palpatine Császár"
+        "text": "Számold meg az ellenfél üres oldalát ([üres]) mutató kockáit! Távolíts el az ellenfél kockái közül ennyit!"
     },
     {
         "code": "01083",
@@ -480,9 +480,9 @@
     },
     {
         "code": "01089",
+        "flavor": "\"Ha tudnád, milyen erő lakozik a Sötét Oldalon.\" - Darth Vader",
         "name": "A Sötét Oldal ereje",
-        "text": "<b>Akció</b> - Merítsd ki ezt a lapot, hogy újradobd egy kockádat! Ha a kocka üres oldalt ([üres]) mutat, okozz 2 védhetetlen sebzést egy karakternek.",
-        "flavor": "\"Ha tudnád, milyen erő lakozik a Sötét Oldalon.\" - Darth Vader"
+        "text": "<b>Akció</b> - Merítsd ki ezt a lapot, hogy újradobd egy kockádat! Ha a kocka üres oldalt ([üres]) mutat, okozz 2 védhetetlen sebzést egy karakternek."
     },
     {
         "code": "01090",
@@ -521,9 +521,9 @@
     },
     {
         "code": "01097",
+        "flavor": "\"Nemcsak neki. Nekem sem.\"",
         "name": "Nem tetszik neki a képed",
-        "text": "Távolítsd el egy kockádat, hogy eltávolíthasd az ellenfél egy kockáját!",
-        "flavor": "\"Nemcsak neki. Nekem sem.\""
+        "text": "Távolítsd el egy kockádat, hogy eltávolíthasd az ellenfél egy kockáját!"
     },
     {
         "code": "01098",
@@ -637,9 +637,9 @@
     },
     {
         "code": "01120",
+        "flavor": "\"Add tovább, amit megtanultál!\" - Yoda",
         "name": "A jedi visszatér",
-        "text": "Vegyél vissza egy Kék eseményt a dobott lapjaid közül a kezedbe.",
-        "flavor": "\"Add tovább, amit megtanultál!\" - Yoda"
+        "text": "Vegyél vissza egy Kék eseményt a dobott lapjaid közül a kezedbe."
     },
     {
         "code": "01121",
@@ -673,9 +673,9 @@
     },
     {
         "code": "01127",
+        "flavor": "\"Eltaláltam! Eltaláltam!\" - Luke Skywalker",
         "name": "Csak el ne bízd magad!",
-        "text": "Minden játékos húz 2 kártyát.",
-        "flavor": "\"Eltaláltam! Eltaláltam!\" - Luke Skywalker"
+        "text": "Minden játékos húz 2 kártyát."
     },
     {
         "code": "01128",
@@ -769,9 +769,9 @@
     },
     {
         "code": "01146",
+        "flavor": "\"Mintha milliók kiáltottak volna fel rémületükben, aztán néma csend lett. Valami szörnyű dolog történt.\" - Obi-Wan Kenobi",
         "name": "Zavar az Erőben",
-        "text": "Dobj újra minden kockát!",
-        "flavor": "\"Mintha milliók kiáltottak volna fel rémületükben, aztán néma csend lett. Valami szörnyű dolog történt.\" - Obi-Wan Kenobi"
+        "text": "Dobj újra minden kockát!"
     },
     {
         "code": "01147",
@@ -785,9 +785,9 @@
     },
     {
         "code": "01149",
+        "flavor": "\"Veled lesz az Erő, mindvégig.\" - Obi-Wan Kenobi",
         "name": "Használd az Erőt!",
-        "text": "Jelölj ki egy Kék karaktert, hogy egy kockát bármelyik oldalára átfordíthass.",
-        "flavor": "\"Veled lesz az Erő, mindvégig.\" - Obi-Wan Kenobi"
+        "text": "Jelölj ki egy Kék karaktert, hogy egy kockát bármelyik oldalára átfordíthass."
     },
     {
         "code": "01150",
