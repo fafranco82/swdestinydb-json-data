@@ -1,10 +1,10 @@
 [
     {
         "code": "01001",
-        "flavor": "\"Whatever you're planning, it won't work.\"",
+        "flavor": "Qualquer que seja o seu plano, não irá funcionar.",
         "name": "Capitã Phasma",
-        "subtitle": "Elite Trooper",
-        "text": "Your non-unique characters have the Guardian keyword."
+        "subtitle": "Trooper de Elite",
+        "text": "Seus personagens não-únicos têm a palavra-chave Guardião."
     },
     {
         "code": "01002",
@@ -19,16 +19,16 @@
     },
     {
         "code": "01004",
-        "flavor": "\"General, prepare your troops for a surface attack.\" <cite>Darth Vader</cite>",
+        "flavor": "\"General Veers, prepare suas tropas para um ataque à superfície.\" <cite>Darth Vader</cite>",
         "name": "General Veers",
-        "subtitle": "Field Commander",
-        "text": "<b>Action</b> - Remove this die to turn one of your support dice to any side."
+        "subtitle": "Comandante de Campo",
+        "text": "<b>Ação</b> - Remova esse dado para virar um dos seus dados de suporte para qualquer lado."
     },
     {
         "code": "01005",
-        "flavor": "The All Terrain Scout Transport filled both support and reconnaissance roles in the Galactic Empire's war machine.",
+        "flavor": "O Transporte de Exploração para Todo Terreno ocupa os papeis de suporte e reconhecimento na máquina de guerra do Império Galático.",
         "name": "AT-ST",
-        "text": "[special] - Discard a support from play."
+        "text": "[special] - Descarte um suporte do jogo."
     },
     {
         "code": "01006",
@@ -48,8 +48,8 @@
     {
         "code": "01009",
         "name": "Conde Dookan",
-        "subtitle": "Devious Strategist",
-        "text": "Before this character is dealt 1 or more damage, you may discard a card from your hand to give him 1 shield."
+        "subtitle": "Estratega artero",
+        "text": "Antes deste personagem receber 1 ou mais danos, você pode descartar uma carta de sua mão para dar 1 escudo a ele."
     },
     {
         "code": "01010",
@@ -66,14 +66,14 @@
     },
     {
         "code": "01012",
-        "flavor": "Nightsisters deftly manipulate the Force to serve their own ends.",
+        "flavor": "As Irmãs da Noite são habilidosas em usar a Força para seus próprios objetivos.",
         "name": "Irmã da Noite",
-        "text": "<b>Açãon</b> - Rerrole um dado. Cause 1 de dano a este personagem."
+        "text": "<b>Ação</b> - Rerrole um dado. Cause 1 de dano a este personagem."
     },
     {
         "code": "01013",
         "name": "Estrangulamento com a Força",
-        "text": "Blue character only.\n[special] - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side."
+        "text": "Somente personagem Azul.\n[special] - Cause 1 de dano indefensável a outro personagem. Você pode virar um dos seus dados de personagem ou de melhoria para qualquer lado."
     },
     {
         "code": "01014",
@@ -82,8 +82,8 @@
     },
     {
         "code": "01015",
-        "name": "Kylo Ren's Lightsaber",
-        "text": "Blue character only.\n[special] - Deal 2 damage to a character. If any of this damage is blocked by shields, reroll this die instead of removing it from your pool."
+        "name": "Sabre de Luz do Kylo Ren",
+        "text": "Somente personagem Azul.\n[special] - Cause 2 de dano a um personagem. Se o dano for bloqueado por escudos, rerrole este dado em vez de removê-lo da sua reserva."
     },
     {
         "code": "01016",
@@ -103,8 +103,8 @@
     {
         "code": "01019",
         "name": "Bala-Tik",
-        "subtitle": "Gang Leader",
-        "text": "After an opponent's character is defeated, you may ready this character."
+        "subtitle": "Líder de Gangue",
+        "text": "Você pode preparar este personagem após um personagem de um oponente ser derrotado."
     },
     {
         "code": "01020",
@@ -128,7 +128,7 @@
     {
         "code": "01023",
         "name": "Senhor do Crime",
-        "text": "[special] - Spend 5 resources to choose a character. That character is defeated after this round ends."
+        "text": "[special] - Gasta 5 recursos para elegir un Personaje. Ese Personaje es derrotado después de que termine esta ronda."
     },
     {
         "code": "01024",
@@ -161,8 +161,8 @@
     {
         "code": "01029",
         "name": "Poe Dameron",
-        "subtitle": "Ace Pilot",
-        "text": "[special] - Discard a card from your hand to resolve one of the sides of its die, if able. Then, if it was a <b>vehicle</b> card, you may pay its cost to play it from your discard pile."
+        "subtitle": "Piloto Ás",
+        "text": "[special] - Descarte uma carta da sua mão para resolver um dos lados do dado da carta descartada, se possível. Se for uma carta de <i>veículo</i>, você pode pagar o custo dela para jogá-la da sua pilha de descarte."
     },
     {
         "code": "01030",
@@ -182,8 +182,8 @@
     },
     {
         "code": "01033",
-        "name": "Scout",
-        "text": "[special] - Look at an opponent's hand and discard the cheapest card from it (you choose in the case of a tie)."
+        "name": "Sentinela",
+        "text": "[special] - Olhe a mão de um oponente e descarte a carta com menor custo <em>(você escolhe em caso de empate)</em>."
     },
     {
         "code": "01034",
@@ -192,10 +192,10 @@
     },
     {
         "code": "01035",
-        "flavor": "\"I am a Jedi, like my father before me.\"",
+        "flavor": "\"Sou um Jedi, como meu pai era antes de mim.\"",
         "name": "Luke Skywalker",
-        "subtitle": "Jedi Knight",
-        "text": "After you activate this character, draw a card."
+        "subtitle": "Cavaleiro Jedi",
+        "text": "Após ativar este personagem, compre uma carta."
     },
     {
         "code": "01036",
@@ -218,8 +218,8 @@
     },
     {
         "code": "01039",
-        "name": "Force Protection",
-        "text": "Blue character only.\n[special] - Give 3 shields to your characters, distributed as you wish."
+        "name": "Proteção da Força",
+        "text": "Somente personagem Azul.\n[special] - Dê 3 escudos aos seus personagens, distribua-os como desejar."
     },
     {
         "code": "01040",
@@ -306,13 +306,13 @@
     },
     {
         "code": "01055",
-        "name": "IQA-11 Blaster Rifle",
-        "text": "[special] - Deal 2 unblockable damage to a character."
+        "name": "Rifle Blaster IQA-11",
+        "text": "[special] - Cause 2 de dano indefensável a um personagem."
     },
     {
         "code": "01056",
         "name": "Promoção",
-        "text": "Red character only.\nAfter you play this upgrade, you may draw a card."
+        "text": "Somente personagem Vermelho.\nApós jogar esta melhoria, você pode comprar uma carta."
     },
     {
         "code": "01057",
@@ -352,8 +352,8 @@
     },
     {
         "code": "01064",
-        "name": "Black Market",
-        "text": "[special] - Draw 2 cards. You may play an upgrade from your hand, decreasing its cost by 1."
+        "name": "Mercado Negro",
+        "text": "[special] - Compre 2 cartas. Você pode jogar uma melhoria de sua mão diminuindo seu custo em 1."
     },
     {
         "code": "01065",
@@ -363,7 +363,7 @@
     {
         "code": "01066",
         "name": "Jetpack",
-        "text": "[special] - Retira un dado que muestre daño cuerpo a cuerpo ([melee]) y entrega 1 escudo al Personaje vinculado."
+        "text": "[special] - Remova um dado mostrando dano corpo-a-corpo ([melee]) e dê ao personagem atribuído 1 de escudo."
     },
     {
         "code": "01067",
@@ -573,7 +573,7 @@
     {
         "code": "01107",
         "name": "É uma armadilha!",
-        "text": "Emboscada.\nElige un símbolo que muestre un dado de un adversario. Luego girar cualquier cantidad de tus dados de color Rojo a caras que muestren ese símbolo."
+        "text": "Emboscada.\nEscolha um dos símbolos mostrados nos dados de um oponente. Vire quantos dos seus dados Vermelhos quiser para mostrarem o símbolo escolhido."
     },
     {
         "code": "01108",
@@ -745,7 +745,7 @@
     {
         "code": "01141",
         "name": "Liderança",
-        "text": "Agota uno de tus Personajes únicos de color Rojo parar preparar otro Personaje."
+        "text": "Exauste um de seus personagems Vermelhos únicos para preparar outro personagem."
     },
     {
         "code": "01142",
@@ -874,7 +874,7 @@
         "code": "01166",
         "name": "Base Eco",
         "subtitle": "Hoth",
-        "text": "<b>Reivindicar</b> - Entrega 1 escudo a um Personagem."
+        "text": "<b>Reivindicar</b> - Dê 1 escudo a um Personagem."
     },
     {
         "code": "01167",
