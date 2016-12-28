@@ -1,0 +1,22 @@
+[
+    {
+        "code": "C",
+        "name": "Gyakori"
+    },
+    {
+        "code": "L",
+        "name": "Legendás"
+    },
+    {
+        "code": "R",
+        "name": "Ritka"
+    },
+    {
+        "code": "S",
+        "name": "Kezdőcsomag"
+    },
+    {
+        "code": "U",
+        "name": "Nem gyakori"
+    }
+]

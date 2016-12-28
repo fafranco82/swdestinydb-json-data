@@ -1,0 +1,22 @@
+[
+    {
+        "code": "battlefield",
+        "name": "Csatatér"
+    },
+    {
+        "code": "character",
+        "name": "Karakter"
+    },
+    {
+        "code": "event",
+        "name": "Esemény"
+    },
+    {
+        "code": "support",
+        "name": "Támogatás"
+    },
+    {
+        "code": "upgrade",
+        "name": "Fejlesztés"
+    }
+]
