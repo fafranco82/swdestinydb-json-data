@@ -1,0 +1,22 @@
+[
+    {
+        "code": "ability",
+        "name": "Képesség"
+    },
+    {
+        "code": "droid",
+        "name": "Droid"
+    },
+    {
+        "code": "equipment",
+        "name": "Felszerelés"
+    },
+    {
+        "code": "vehicle",
+        "name": "Jármű"
+    },
+    {
+        "code": "weapon",
+        "name": "Fegyver"
+    }
+]

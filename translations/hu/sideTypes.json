@@ -1,0 +1,38 @@
+[
+    {
+        "code": "-",
+        "name": "Üres"
+    },
+    {
+        "code": "Dc",
+        "name": "Eldobás"
+    },
+    {
+        "code": "Dr",
+        "name": "Megszakítás"
+    },
+    {
+        "code": "F",
+        "name": "Fókusz"
+    },
+    {
+        "code": "MD",
+        "name": "Közelharci"
+    },
+    {
+        "code": "R",
+        "name": "Erőforrás"
+    },
+    {
+        "code": "RD",
+        "name": "Távolsági"
+    },
+    {
+        "code": "Sh",
+        "name": "Pajzs"
+    },
+    {
+        "code": "Sp",
+        "name": "Különleges"
+    }
+]
