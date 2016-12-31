@@ -605,7 +605,7 @@
             "Sp"
         ],
         "subtype_code": "ability",
-        "text": "[special] - Spend 5 resources to choose a character. That character is defeated after this round ends.",
+        "text": "Yellow Character only. [special] - Spend 5 resources to choose a character. That character is defeated after this round ends.",
         "ttscardid": "1322",
         "type_code": "upgrade"
     },
