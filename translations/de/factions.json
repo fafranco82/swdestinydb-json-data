@@ -1,34 +1,18 @@
 [
     {
-        "code": "Blau",
+        "code": "blue",
         "name": "Macht"
     },
     {
-        "code": "Gelb",
-        "name": "Gauner"
-    },
-    {
-        "code": "Grau",
+        "code": "gray",
         "name": "Sonstige"
     },
     {
-        "code": "Rot",
+        "code": "red",
         "name": "Kommando"
     },
     {
-        "code": "blue",
-        "name": "Force"
-    },
-    {
-        "code": "gray",
-        "name": "General"
-    },
-    {
-        "code": "red",
-        "name": "Command"
-    },
-    {
         "code": "yellow",
-        "name": "Rogue"
+        "name": "Gauner"
     }
 ]
