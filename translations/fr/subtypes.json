@@ -1,22 +1,22 @@
 [
     {
         "code": "ability",
-        "name": "Ability"
+        "name": "Capacité"
     },
     {
         "code": "droid",
-        "name": "Droid"
+        "name": "Droide"
     },
     {
         "code": "equipment",
-        "name": "Equipment"
+        "name": "Equipement"
     },
     {
         "code": "vehicle",
-        "name": "Vehicle"
+        "name": "Véhicule"
     },
     {
         "code": "weapon",
-        "name": "Weapon"
+        "name": "Arme"
     }
 ]

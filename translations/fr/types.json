@@ -1,22 +1,22 @@
 [
     {
         "code": "battlefield",
-        "name": "Battlefield"
+        "name": "Champ de bataille"
     },
     {
         "code": "character",
-        "name": "Character"
+        "name": "Personnage"
     },
     {
         "code": "event",
-        "name": "Event"
+        "name": "Evénement"
     },
     {
         "code": "support",
-        "name": "Support"
+        "name": "Soutien"
     },
     {
         "code": "upgrade",
-        "name": "Upgrade"
+        "name": "Amélioration"
     }
 ]

@@ -1,258 +1,258 @@
 [
     {
         "code": "01001",
-        "flavor": "\"Whatever you're planning, it won't work.\"",
-        "name": "Captain Phasma",
-        "subtitle": "Elite Trooper",
-        "text": "Your non-unique characters have the Guardian keyword."
+        "flavor": "\"Quoi que vous comptiez faire, cela ne marchera pas.\"",
+        "name": "Capitaine Phasma",
+        "subtitle": "Trooper d'Elite",
+        "text": "Vos personnages non uniques ont le mot-clé Gardien."
     },
     {
         "code": "01002",
-        "flavor": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
-        "name": "First Order Stormtrooper"
+        "flavor": "Les membres de cette nouvelle génération de stormtroopers sont entraînés dès la naissance et soumis à une propagande constante pour assurer leur loyauté envers le Premier Ordre.",
+        "name": "Stormtrooper du Premier Ordre"
     },
     {
         "code": "01003",
-        "name": "General Grievous",
-        "subtitle": "Jedi Hunter",
-        "text": "Before an opponent's character is defeated, you may move one of their non-<i>ability</i> upgrades to this character."
+        "name": "Général Grievous",
+        "subtitle": "Chasseur de Jedi",
+        "text": "Avant qu'un personnage d'un adversaire soit vaincu, vous pouvez déplacer une de ses améliorations non-<b>capacité</b> vers ce personnage."
     },
     {
         "code": "01004",
-        "flavor": "\"General, prepare your troops for a surface attack.\" <cite>Darth Vader</cite>",
-        "name": "General Veers",
-        "subtitle": "Field Commander",
-        "text": "<b>Action</b> - Remove this die to turn one of your support dice to any side."
+        "flavor": "\"Général, préparez vos troupes pour une attaque en surface.\" <cite>Dark Vador</cite>",
+        "name": "Général Veers",
+        "subtitle": "Commandant militaire",
+        "text": "<b>Action</b> - Retirez ce dé pour tourner un de vos dés de soutien sur n'importe quelle face."
     },
     {
         "code": "01005",
-        "flavor": "The All Terrain Scout Transport filled both support and reconnaissance roles in the Galactic Empire's war machine.",
-        "name": "AT-ST",
-        "text": "[special] - Discard a support from play."
+        "flavor": "Le transport de surveillance tout-terrain jouait un rôle de soutien et de reconnaissance au sein de la machine de guerre de l'Empire Galactique.",
+        "name": "TS-TT",
+        "text": "[special] - Défaussez un soutien du jeu."
     },
     {
         "code": "01006",
-        "name": "First Order TIE Fighter",
-        "text": "[special] - Remove all shield from all of an opponent's characters."
+        "name": "Chasseur TIE du Premier Ordre",
+        "text": "[special] - Retirez tous les boucliers de tous les personnages d'un adversaire."
     },
     {
         "code": "01007",
-        "name": "Commanding Presence",
-        "text": "Red character only.\n[special] - Choose a Red die. If it is your die, resolve it, increasing its value by 2. If it is an opponent's die, remove it."
+        "name": "Présence imposante",
+        "text": "Personnage Rouge uniquement.\n[special] - Choisissez un dé Rouge. S'il est à vous, résolvez-le en augmentant de 2 sa valeur. S'il est à un adversaire, retirez-le."
     },
     {
         "code": "01008",
-        "name": "F-11D Rifle",
-        "text": "Redeploy.\n[special] - Force an opponent to deal 2 damage to their characters, distributing the damage as they wish."
+        "name": "Fusil F-11D",
+        "text": "Redéploiement.\n[special] - Forcez un adversaire à infliger 2 dégâts à ses personnages, répartis comme il le souhaite."
     },
     {
         "code": "01009",
-        "name": "Count Dooku",
-        "subtitle": "Devious Strategist",
-        "text": "Before this character is dealt 1 or more damage, you may discard a card from your hand to give him 1 shield."
+        "name": "Compte Dooku",
+        "subtitle": "Stratège perfide",
+        "text": "Avant que ce personnage se voie infliger 1 ou plusieurs dégâts, vous pouvez défausser une carte de votre main pour lui donner 1 bouclier."
     },
     {
         "code": "01010",
-        "flavor": "\"If you will not fight, then you will meet your destiny.\"",
-        "name": "Darth Vader",
-        "subtitle": "Sith Lord",
-        "text": "After you activate this character you may force an opponent to choose and discard a card from their hand."
+        "flavor": "\"Si tu refuses de te battre, tu devras affronter ton destin.\"",
+        "name": "Dark Vador",
+        "subtitle": "Seigneur Sith",
+        "text": "Après avoir activé ce personnage, vous pouvez forcer un adversaire à choisir et à défausser une carte de sa main."
     },
     {
         "code": "01011",
         "name": "Kylo Ren",
-        "subtitle": "Vader's Disciple",
-        "text": "[special] - Choose an opponent's character. Then look at a random card in that opponent's hand and deal damage to that character equal to the cost of the card you just looked at."
+        "subtitle": "Disciple de Vador",
+        "text": "[special] - Choisissez un personnage d'un adversaire. Puis regardez une carte au hasard dans la main de cet adversaire et infligez à ce personnage des dégâts égaux au coût de la carte que vous venez de regarder."
     },
     {
         "code": "01012",
-        "flavor": "Nightsisters deftly manipulate the Force to serve their own ends.",
-        "name": "Nightsister",
-        "text": "<b>Action</b> - Remove a die. Deal 1 damage to this character."
+        "flavor": "Les soeurs de la nuit manipulent la Force à leurs propres fins.",
+        "name": "Soeur de la Nuit",
+        "text": "<b>Action</b> - Relancer un dé. Infligez 1 dégât à ce personnage."
     },
     {
         "code": "01013",
-        "name": "Force Choke",
-        "text": "Blue character only.\n[special] - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side."
+        "name": "Etranglement de la Force",
+        "text": "Personnage Bleu uniquement.\n[special] - Infligez 1 dégât non blocable à une autre personnage. Puis vous pouvez tourner un de ses dés de personnage ou d'amélioration sur n'importe quelle face."
     },
     {
         "code": "01014",
-        "name": "Immobilize",
-        "text": "Blue Character only.\n<b>Action</b> - Remove this die to turn a die to a side showing a blank ([blank])."
+        "name": "Immobilisation",
+        "text": "Personnage Bleu uniquement.\n<b>Action</b> - Retirez ce dé pour tourner un dé sur une face vierge ([blank])."
     },
     {
         "code": "01015",
-        "name": "Kylo Ren's Lightsaber",
-        "text": "Blue character only.\n[special] - Deal 2 damage to a character. If any of this damage is blocked by shields, reroll this die instead of removing it from your pool."
+        "name": "Sabre Laser de Kylo Ren",
+        "text": "Personnage Bleu uniquement.\n[special] - Infligez 2 dégâts à un personnage. Si un de ces dégâts est bloqué par des boucliers, relancez ce dé au lieu de le retirer de votre réserve."
     },
     {
         "code": "01016",
         "name": "Sith Holocron",
-        "text": "[special] - Switch this upgrade with a Blue <i>ability</i> upgrade in your hand, ignoring its play restrictions. Then you may spend 1 resource to roll its die into your pool, if able."
+        "text": "[special] - Echangez cette amélioration contre une amélioration <b>capacité</b> bleue de votre main en ignorant ses restrictions de jeu. Puis vous pouvez dépenser 1 ressource pour lancer son dé dans votre réserve, si possible."
     },
     {
         "code": "01017",
-        "name": "Infantry Grenades",
-        "text": "[special] - Deal 2 damage to each of an opponent's characters. Discard this upgrade from play."
+        "name": "Grenades d'Infanterie",
+        "text": "[special] - Infligez 2 dégâts à chaque personnage d'un adversaire. Défaussez cette amélioration du jeu."
     },
     {
         "code": "01018",
-        "name": "Speeder Bike Scout",
-        "text": "[special] - Remove a die. You may take one additional action."
+        "name": "Eclaireur en Speeder Bike",
+        "text": "[special] - Retirez un dé. Vous pouvez entreprendre une action supplémentaire."
     },
     {
         "code": "01019",
         "name": "Bala-Tik",
-        "subtitle": "Gang Leader",
-        "text": "After an opponent's character is defeated, you may ready this character."
+        "subtitle": "Chef de Gang",
+        "text": "Vous pouvez redresser ce personnage après qu'un personnage d'un adversaire a été vaincu."
     },
     {
         "code": "01020",
-        "flavor": "\"I shall enjoy watching you die.\"",
-        "name": "Jabba the Hutt",
-        "subtitle": "The Great and Mighty",
-        "text": "After you activate this character, you may reroll a Yellow die."
+        "flavor": "\"Je vais avoir le plaisir de te voir mourir.\"",
+        "name": "Jabba le Hutt",
+        "subtitle": "Le grand et puissant",
+        "text": "Après avoir activé ce personnage, vous pouvez relancer un dé jaune."
     },
     {
         "code": "01021",
-        "flavor": "\"There can be no mistakes this time.\"",
+        "flavor": "\"Tu n'as plus le droit à l'erreur.\"",
         "name": "Jango Fett",
-        "subtitle": "Lethal Mercenary",
-        "text": "After an opponent activates a character, you may activate this character."
+        "subtitle": "Mercenaire Meurtrier",
+        "text": "Vous pouvez activer ce personnage après qu'un adversaire a activé un personnage."
     },
     {
         "code": "01022",
-        "name": "Tusken Raider",
-        "text": "After you activate this character, you may discard a card from your hand to resolve one of its character or upgrade dice."
+        "name": "Pillard Tusken",
+        "text": "Après avoir activé ce personnage, vous pouvez défaussez une carte de votre main pour résoudre un de ses dés de personnage ou d'amélioration."
     },
     {
         "code": "01023",
-        "name": "Crime Lord",
-        "text": "[special] - Spend 5 resources to choose a character. That character is defeated after this round ends."
+        "name": "Seigneur du Crime",
+        "text": "Personnage Jaune uniquement.\n[special] - Dépensez 5 ressources pour choisir un personnage. Ce personnage est vaincu après la fin de ce round."
     },
     {
         "code": "01024",
-        "name": "Flame Thrower",
-        "text": "[special] - Deal 1 damage each to up to 3 different characters."
+        "name": "Lance-Flammes",
+        "text": "[special] - Infligez 1 dégât jusqu'à 3 personnages différents."
     },
     {
         "code": "01025",
-        "name": "Gaffi Stick",
-        "text": "Redeploy.\n[special] - Remove one of your dice showing melee damage ([melee]) to deal 3 damage to a character."
+        "name": "Gaderffii",
+        "text": "Redéploiement.\n[special] - Retirez un de vos dés montrant des dégâts de mêlée ([melee]) pour infliger 3 dégâts à un personnage."
     },
     {
         "code": "01026",
-        "name": "On the Hunt",
-        "text": "[special] - Remove all shields from a character. You may spend 1 resource to remove one of its character or upgrade dice."
+        "name": "En chasse",
+        "text": "[special] - Retirez tous les boucliers d'un personnage. Vous pouvez dépenser 1 ressource pour retirer un de ses dés de personnage ou d'amélioration."
     },
     {
         "code": "01027",
-        "name": "Admiral Ackbar",
-        "subtitle": "Perceptive Tactician",
-        "text": "After an opponent plays or discards the last card from their hand, they choose and deal 2 damage to one of their characters."
+        "name": "Amiral Ackbar",
+        "subtitle": "Tacticien perspicace",
+        "text": "Après avoir joué ou défaussé la dernière carte de sa main, un adversaire choisit et inflige 2 dégâts à l'un de ses personnages."
     },
     {
         "code": "01028",
-        "flavor": "\"Someone has to save our skins.\"",
+        "flavor": "\"Il faut bien que je vous sauve d'ici !\"",
         "name": "Leia Organa",
-        "subtitle": "Born Leader",
-        "text": "<b>Action</b> - Remove this die to reroll up to 2 of your dice."
+        "subtitle": "Leader-né",
+        "text": "<b>Action</b> - Retirez ce dé pour relancer jusqu'à 2 de vos dés."
     },
     {
         "code": "01029",
         "name": "Poe Dameron",
-        "subtitle": "Ace Pilot",
-        "text": "[special] - Discard a card from your hand to resolve one of the sides of its die, if able. Then, if it was a <b>vehicle</b> card, you may pay its cost to play it from your discard pile."
+        "subtitle": "As de l'espace",
+        "text": "[special] - Défaussez une carte de votre main pour résoudre une des faces de son dé, si possible. Puis, s'il s'agissait d'une carte <b>vehicle</b>, vous pouvez en payer le coût pour la jouer depuis votre pile de défausse."
     },
     {
         "code": "01030",
-        "name": "Rebel Trooper",
-        "text": "Guardian."
+        "name": "Soldat Rebelle",
+        "text": "Gardien."
     },
     {
         "code": "01031",
-        "name": "Launch Bay",
-        "text": "The X on this die is equal to the number of cards in your hand."
+        "name": "Hangar de Lancement",
+        "text": "Le X de ce dé est égal au nombre de cartes dans votre main."
     },
     {
         "code": "01032",
-        "flavor": "Poe Dameron's X-Wing was modified to be even more versatile than the standard T-70",
+        "flavor": "Le X-wing de Poe Dameron était entre plus polyvalent que le T-70 standard",
         "name": "Black One",
-        "text": "[special] - Deal 1 damage to a character. Reroll this die instead of removing it from your pool."
+        "text": "[special] - Infligez 1 dégât à un personnage. Relancez ce dé au lieu de le retirer de votre réserve."
     },
     {
         "code": "01033",
-        "name": "Scout",
-        "text": "[special] - Look at an opponent's hand and discard the cheapest card from it (you choose in the case of a tie)."
+        "name": "Eclaireur",
+        "text": "[special] - Regardez la main d'un adversaire et défaussez-en la carte la moins chère <i>(vous choisissez en cas d'égalité)</i>."
     },
     {
         "code": "01034",
-        "flavor": "To hide from the Empire, the rebels must often brave harsh environments.",
-        "name": "Survival Gear"
+        "flavor": "Pour se cacher, les Rebelles doivent souvent braver des environnements très rigoureux.",
+        "name": "Matériel de Survie"
     },
     {
         "code": "01035",
-        "flavor": "\"I am a Jedi, like my father before me.\"",
+        "flavor": "\"Je suis un Jedi, comme mon père avant moi.\"",
         "name": "Luke Skywalker",
-        "subtitle": "Jedi Knight",
-        "text": "After you activate this character, draw a card."
+        "subtitle": "Chevalier Jedi",
+        "text": "Après avoir activé ce personnage, piochez une carte."
     },
     {
         "code": "01036",
         "name": "Padawan",
-        "text": "While this character does not have an upgrade, the cost to attach a <i>weapon</i> to it is decreased by 1."
+        "text": "Lorsque ce personnage n'a pas d'amélioration, le coût pour lui attacher une <b>arme</b> est diminué de 1."
     },
     {
         "code": "01037",
-        "flavor": "\"Your focus determines your reality.\"",
+        "flavor": "\"C'est ton attention qui détermine ta réalité.\"",
         "name": "Qui-Gon Jinn",
-        "subtitle": "Ataru Master",
-        "text": "Before this character gains 1 or more shields, you may remove 1 of his shields to deal 1 damage to a character."
+        "subtitle": "Maître Ataru",
+        "text": "Avant que ce personnage gagne 1 ou plusieurs boucliers, vous pouvez retirer 1 de ses boucliers pour infliger 1 dégât à un personnage."
     },
     {
         "code": "01038",
-        "flavor": "\"I think I can handle myself.\"",
+        "flavor": "\"Je suis assez grande pour me défendre.\"",
         "name": "Rey",
-        "subtitle": "Force Prodigy",
-        "text": "After you play an upgrade on this character, you may take one additional action."
+        "subtitle": "Prodige de la Force",
+        "text": "Après avoir joué une amélioration sur ce personnage, vous pouvez entreprendre une action supplémentaire."
     },
     {
         "code": "01039",
-        "name": "Force Protection",
-        "text": "Blue character only.\n[special] - Give 3 shields to your characters, distributed as you wish."
+        "name": "Protection de la Force",
+        "text": "Personnage Bleu uniquement.\n[special] - Donnez 3 boucliers à vos personnages, répartis comme vous le souhaitez."
     },
     {
         "code": "01040",
-        "name": "Jedi Robes",
-        "text": "After you play this upgrade, give attached character 1 shield, or 2 shields instead in the first round of play."
+        "name": "Robe Jedi",
+        "text": "Après avoir joué cette amélioration, donnez 1 bouclier au personnage attaché, ou 2 boucliers s'il s'agit du premier round de la partie."
     },
     {
         "code": "01041",
-        "name": "Luke Skywalker's Lightsaber",
-        "text": "Blue character only.\n[special] - Give a character 2 shields or deal 2 unblockable damage to a character."
+        "name": "Sabre Laser Luke Skywalker",
+        "text": "Personnage Bleu uniquement.\n[special] - Donnez 2 boucliers à un personnage ou infligez 2 dégâts non blocables à un personnage."
     },
     {
         "code": "01042",
-        "name": "One with The Force",
-        "text": "Blue character only.\nBefore attached character is defeated, this upgrade becomes a support for the rest of the game (it starts ready)."
+        "name": "Ne faire qu'un avec la Force",
+        "text": "Personnage Bleu uniquement.\nAvant que le personnage attaché soit vaincu, cette amélioration devient un soutien pour le reste de la partie <i>(elle commence redressée)</i>."
     },
     {
         "code": "01043",
-        "flavor": "\"Orange and white: one of a kind.\" <cite>Poe Dameron</cite>",
+        "flavor": "\"Blanc et orange, un modèle exceptionnel.\" <cite>Poe Dameron</cite>",
         "name": "BB-8",
-        "text": "[special] - Reroll this die and one of your other dice.  Do not remove this die from your pool after resolving this ability."
+        "text": "[special] - Relancez ce dé et un de vos autres dés. Ne retirez pas ce dé de votre réserve après avoir résolu cette capacité."
     },
     {
         "code": "01044",
-        "name": "Rey's Staff",
-        "text": "[special] - Remove a die showing damage ([melee] or [ranged])"
+        "name": "Bâton de Rey",
+        "text": "[special] - Retirez un dé montrant des dégâts ([melee] ou [ranged])"
     },
     {
         "code": "01045",
-        "flavor": "\"I'm not going back.\"",
+        "flavor": "\"Et ils ne me reverront jamais.\"",
         "name": "Finn",
-        "subtitle": "First Order Defector",
-        "text": "You can attach any <i>weapon</i> to this character, ignoring play restrictions.\nYou can include Red Villain <i>weapons</i> and <i>vehicles</i> in your deck."
+        "subtitle": "Déserteur du Premier Ordre",
+        "text": "Vous pouvez attacher n'importe quelle <b>arme</b> à ce personnage en ignorant les restrictions de jeu.\nVous pouvez inclure des <b>armes</b> et <b>véhicules</b> d'Antagoniste Rouges dans votre deck."
     },
     {
         "code": "01046",
@@ -311,12 +311,12 @@
     {
         "code": "01056",
         "name": "Promotion",
-        "text": "Red character only.\nAfter you play this upgrade, you may draw a card."
+        "text": "Personnage Rouge uniquement.\nAfter you play this upgrade, you may draw a card."
     },
     {
         "code": "01057",
         "name": "Force Throw",
-        "text": "Blue Character Only.\n[special] - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeroes)."
+        "text": "Personnage Bleu uniquement.\n[special] - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeroes)."
     },
     {
         "code": "01058",
@@ -331,7 +331,7 @@
     {
         "code": "01060",
         "name": "Mind Probe",
-        "text": "Blue Character only.\n[special] - Deal an opponent's character 1 damage for each card in that opponent's hand."
+        "text": "Personnage Bleu uniquement.\n[special] - Deal an opponent's character 1 damage for each card in that opponent's hand."
     },
     {
         "code": "01061",
@@ -356,7 +356,7 @@
     {
         "code": "01065",
         "name": "Cunning",
-        "text": "Yellow character only.\n[special] - Resolve a special ability ([special]) on another card in play as if it were your card."
+        "text": "Personnage Jaune uniquement.\n[special] - Resolve a special ability ([special]) on another card in play as if it were your card."
     },
     {
         "code": "01066",
@@ -722,7 +722,7 @@
     {
         "code": "01137",
         "name": "Second Chance",
-        "text": "Yellow character only.\nBefore attached character would be defeated, instead heal 5 damage from it and discard this upgrade from play."
+        "text": "Personnage Jaune uniquement.\nBefore attached character would be defeated, instead heal 5 damage from it and discard this upgrade from play."
     },
     {
         "code": "01138",
@@ -737,7 +737,7 @@
     {
         "code": "01140",
         "name": "Firepower",
-        "text": "Resolve one of your Red dice showing ranged damage ([ranged]), increasing its value by 1, or by 2 instead if you are resolving a <i>vehicle</i> die."
+        "text": "Resolve one of your Red dice showing ranged damage ([ranged]), increasing its value by 1, or by 2 instead if you are resolving a <b>vehicle</b> die."
     },
     {
         "code": "01141",
@@ -829,7 +829,7 @@
     {
         "code": "01158",
         "name": "Disarm",
-        "text": "Remove one of your dice showing damage ([melee] or [ranged]) to discard a <i>weapon</i> or <i>equipment</i> from play that costs equal to or less than the value of that die."
+        "text": "Remove one of your dice showing damage ([melee] or [ranged]) to discard a <b>weapon</b> or <b>equipment</b> from play that costs equal to or less than the value of that die."
     },
     {
         "code": "01159",
