@@ -257,188 +257,188 @@
     {
         "code": "01046",
         "name": "Han Solo",
-        "subtitle": "Scoundrel",
-        "text": "After you play a card with the Ambush keyword, you may give this character 1 shield."
+        "subtitle": "Vaurien",
+        "text": "Après avoir joué une carte avec le mot-clé Embuscade, vous pouvez donner 1 bouclier à ce personnage."
     },
     {
         "code": "01047",
-        "flavor": "\"You needn't worry about your reward. If money is all that you love, then that's what you'll receive.\" <cite>Leia Organa</cite>",
-        "name": "Hired Gun"
+        "flavor": "\"Ne vous tracassez pas pour votre récompense. Si c'est pour l'argent que vous faites ça, alors c'est tout ce que vous recevrez !.\" <cite>Leia Organa</cite>",
+        "name": "Mercenaire"
     },
     {
         "code": "01048",
-        "flavor": "\"My fate will be no different to that of our people.\"",
+        "flavor": "\"Mon destin ne pas différent de celui de notre peuple.\"",
         "name": "Padme Amidala",
-        "subtitle": "Queen of Naboo",
-        "text": "[special] - Discard the top card of an opponent's deck or spend 1 resource to discard the top 2 cards of an opponent's deck."
+        "subtitle": "Reine de Naboo",
+        "text": "[special] - Défaussez la première carte du deck d'un adversaire ou dépensez 1 ressource pour défausser les 2 premières cartes du deck d'un adversaire."
     },
     {
         "code": "01049",
-        "flavor": "\"She may not look like much, but she's got it where it counts.\" <cite>Han Solo</cite>",
-        "name": "Millenium Falcon",
-        "text": "[special] - Play a Yellow event from your discard pile or hand for free."
+        "flavor": "\"P't'-êt' que c'coucou est moche à voir, mais il en a dans le ventre, et c'est c'qui compte.\" <cite>Han Solo</cite>",
+        "name": "Faucon Millenium",
+        "text": "[special] - Jouez gratuitement un événement Jaune de votre pile de défausse ou de votre main."
     },
     {
         "code": "01050",
-        "name": "Diplomatic Immunity",
-        "text": "The shields from this die can be given to any of your characters distributed as you wish."
+        "name": "Immunité Diplomatique",
+        "text": "Les boucliers de ce dé peuvent être donnés à n'importe lesquels de vos personnages, répartis comme vous le souhaitez."
     },
     {
         "code": "01051",
-        "name": "DL-44 Heavy Blaster Pistol",
-        "text": "Ambush.\nAfter you play this upgrade, force an opponent to choose and remove one of their dice."
+        "name": "Pistolet Blaster Lourd DL-44",
+        "text": "Embuscade.\nAprès avoir joué cette amélioration forcez un adversaire à choisir et à retirer un de ses dés."
     },
     {
         "code": "01052",
-        "name": "Infiltrate",
-        "text": "[special] - Reroll up to 2 of an opponent's dice."
+        "name": "Infiltration",
+        "text": "[special] - Relancez jusqu'à 2 dés d'un adversaire."
     },
     {
         "code": "01053",
-        "name": "Outpost",
-        "text": "[special] - Resolve the battlefield ability as if you had just claimed it."
+        "name": "Avant-Poste",
+        "text": "[special] - Résolvez la capacité du champ de bataille comme si vous veniez de le capturer."
     },
     {
         "code": "01054",
-        "flavor": "The weapon of choice for rebel soldiers and imperial officers alike during the Galactic Civil War.",
-        "name": "DH-17 Blaster Pistol"
+        "flavor": "L'arme de prédilection des soldats Rebelles et des officiers Impériaux lors de la Guerre Civile Galactique.",
+        "name": "Pistolet Blaster DH-17"
     },
     {
         "code": "01055",
-        "name": "IQA-11 Blaster Rifle",
-        "text": "[special] - Deal 2 unblockable damage to a character."
+        "name": "Fusil Blaster IQA-11",
+        "text": "[special] - Infligez 2 dégâts non blocables à un personnage."
     },
     {
         "code": "01056",
         "name": "Promotion",
-        "text": "Personnage Rouge uniquement.\nAfter you play this upgrade, you may draw a card."
+        "text": "Personnage Rouge uniquement.\nVous pouvez piocher une carte après avoir joué cette amélioration."
     },
     {
         "code": "01057",
-        "name": "Force Throw",
-        "text": "Personnage Bleu uniquement.\n[special] - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeroes)."
+        "name": "Projection de Force",
+        "text": "Personnage Bleu uniquement.\n[special] - Retirez un dé pour infliger à un personnage des dégâts égaux à la valeur indiquée sur ce dé<i>(les faces vierges et spéciales sont égales à zéro)</i>."
     },
     {
         "code": "01058",
-        "name": "Force Training",
-        "text": "To play, spot a Blue character.\n[special] - Choose and do two of the following: deal 1 damage to a character, or gain 1 resource, or give a character 1 shield."
+        "name": "Entraînement de la Force",
+        "text": "Désignez un personnage Bleu pour jouer cette carte.\n[special] - Choisissez et appliquez deux des options suivantes : infliger 1 dégât à un personnage, ou gagner 1 ressource, ou donner 1 bouclier à un personnage."
     },
     {
         "code": "01059",
-        "name": "Lightsaber",
-        "text": "Redeploy.\n[special] - Deal 2 unblockable damage to a character."
+        "name": "Sabre Laser",
+        "text": "Redéploiement.\n[special] - Infligez 2 dégâts non blocables à un personnage."
     },
     {
         "code": "01060",
-        "name": "Mind Probe",
-        "text": "Personnage Bleu uniquement.\n[special] - Deal an opponent's character 1 damage for each card in that opponent's hand."
+        "name": "Sonde Mentale",
+        "text": "Personnage Bleu uniquement.\n[special] - Infligez à un personnage d'un adversaire 1 dégât pour chaque carte dans la main de cet adversaire."
     },
     {
         "code": "01061",
         "name": "Comlink",
-        "text": "After you play this upgrade, you may reroll any number of your dice or any number of an opponent's dice."
+        "text": "Après avoir joué cette amélioration, vous pouvez relancer autant de vos dés ou de ceux d'un adversaire que vous le souhaitez."
     },
     {
         "code": "01062",
         "name": "Datapad",
-        "text": "[special] - Turn one of your dice to a side not showing damage ([ranged] or [melee])"
+        "text": "[special] - Tournez un de vos dés sur une face ne montrant pas de dégâts ([ranged] ou [melee])"
     },
     {
         "code": "01063",
-        "name": "Holdout Blaster",
-        "text": "Ambush. Redeploy."
+        "name": "Blaster de Poche",
+        "text": "Embuscade. Redéploiement."
     },
     {
         "code": "01064",
-        "name": "Black Market",
-        "text": "[special] - Draw 2 cards. You may play an upgrade from your hand, decreasing its cost by 1."
+        "name": "Marché Noir",
+        "text": "[special] - Piochez 2 cartes. Vous pouvez jouer une amélioration depuis votre main en diminuant son coût de 1."
     },
     {
         "code": "01065",
-        "name": "Cunning",
-        "text": "Personnage Jaune uniquement.\n[special] - Resolve a special ability ([special]) on another card in play as if it were your card."
+        "name": "Ruse",
+        "text": "Personnage Jaune uniquement.\n[special] - Résolvez une capacité spéciale ([special]) d'une autre carte en jeu comme si c'était votre carte."
     },
     {
         "code": "01066",
         "name": "Jetpack",
-        "text": "[special] - Remove a die showing melee damage ([melee]) and give attached character 1 shield."
+        "text": "[special] - Retirez un dé montrant des dégâts de mêlée ([melee]) et donnez 1 bouclier au personnage attaché."
     },
     {
         "code": "01067",
-        "name": "Thermal Detonator",
-        "text": "To play, spot a Yellow character.\n[special] - Deal 3 damage to each of an opponent's characters. Discard this upgrade from play."
+        "name": "Détonateur Thermique",
+        "text": "Pour jouer cette carte, désignez un personnage Jaune.\n[special] - Infligez 3 dégâts à chaque personnage d'une adversaire. Défaussez cette amélioration du jeu."
     },
     {
         "code": "01068",
-        "name": "Cannon Fodder",
-        "text": "Deal one of your non-unique characters damage equal to the value of an opponent's die showing damage ([melee] or [ranged]). Then remove that die."
+        "name": "Chair à Canon",
+        "text": "Infligez à l'un de vos personnages non uniques des dégâts égaux à la valeur d'un dé d'un adversaire montrant des dégâts ([melee] ou [ranged]). Puis retirez ce dé."
     },
     {
         "code": "01069",
-        "name": "Closing the Net",
-        "text": "Force an opponent to choose and remove one of their dice. You may place this event on the bottom of your deck instead of discarding it."
+        "name": "Refermer la Nasse",
+        "text": "Forcez un adversaire à choisir et à retirer un de ses dés. Vous pouvez placer cet événement sous votre deck au lieu de le défausser."
     },
     {
         "code": "01070",
-        "flavor": "Battle droids are less effective than flesh and blood soldiers, but they are also much cheaper to replace.",
-        "name": "Endless Ranks",
-        "text": "Return one of your defeated non-unique Red characters to the game with no damage on it."
+        "flavor": "Les Droides de combat sont moints efficaces que les soldats de chair et de sang, mais ils coutent beaucoup moins cher à remplacer.",
+        "name": "Rangs sans Fin",
+        "text": "Ramenez un de vos personnages Rouges non uniques vaincus dans la partie dans dégâts sur lui.."
     },
     {
         "code": "01071",
         "name": "Occupation",
-        "text": "Play only if you control the battlefield.\nForce an opponent to lose all of their resources."
+        "text": "A ne jouer que si vous contrôlez le champ de bataille.\nForcez un adversaire à perdre toutes ses ressources."
     },
     {
         "code": "01072",
-        "name": "Probe",
-        "text": "Look at two random cards from your opponent's hand. Discard any of these cards that are events."
+        "name": "Sonde",
+        "text": "Regardez 2 cartes au hasard de la main d'un adversaire et défausse n'importe lesquelles de ces cartes qui sont des événements."
     },
     {
         "code": "01073",
-        "name": "Sweep the Area",
-        "text": "Count the number of ready Red characters you have. Reroll that many of an opponent's dice."
+        "name": "Nettoyer la zone",
+        "text": "Comptez le nombre de personnages Rouges redressés que vous avez. Relancez autant de dés d'un adversaire."
     },
     {
         "code": "01074",
-        "name": "Tactical Mastery",
-        "text": "Spot a Red character to take up to 2 additional actions."
+        "name": "Maîtrise Tactique",
+        "text": "Désignez un personnage Rouge pour entreprendre jusqu'à 2 actions supplémentaires."
     },
     {
         "code": "01075",
-        "flavor": "\"There they are! Blast them!\"",
-        "name": "The Best Defense...",
-        "text": "Deal one of your Red characters 3 damage to remove up to 2 of an opponent's dice."
+        "flavor": "\"Ils sont là ! Abattez-les !\"",
+        "name": "La Meilleure Défense...",
+        "text": "Infligez 3 dégâts à un de vos personnages Rouges pour retirer jusqu'à 2 dés à un adversaire."
     },
     {
         "code": "01076",
-        "name": "Drudge Work",
-        "text": "<b>Action</b> - Exhaust this support and one of your characters to gain 1 resource."
+        "name": "Besogne",
+        "text": "<b>Action</b> - Inclinez ce soutien et un de personnages pour gagner 1 ressource."
     },
     {
         "code": "01077",
-        "name": "Local Garrison",
-        "text": "Each opponent gains 1 fewer resource during each upkeep phase to a minimum of 1."
+        "name": "Garnison Locale",
+        "text": "Chaque adversaire gagne 1 ressource en moins durant chaque phase d'entretien, pour un minimum de 1."
     },
     {
         "code": "01078",
-        "name": "Personal Escort",
-        "text": "Attached character has the Guardian keyword."
+        "name": "Escorte Personnelle",
+        "text": "Le personnage attaché a le mot-cle Gardien."
     },
     {
         "code": "01079",
-        "name": "Abandon All Hope",
-        "text": "Force an opponent to choose to either lose all of their resources or discard all cards in their hand."
+        "name": "Abandonnez tout Espoir",
+        "text": "Forcez un adversaire à choisir entre : perdre toutes ses ressources, ou défausser toutes les cartes de sa main."
     },
     {
         "code": "01080",
-        "name": "Boundless Ambition",
-        "text": "Draw cards up to your hand size."
+        "name": "Ambition sans Bornes",
+        "text": "Piochez des cartes jusqu'à avoir une main pleine."
     },
     {
         "code": "01081",
-        "name": "Enrage",
-        "text": "Deal 1 damage to one of your Blue characters to gain 1 resource."
+        "name": "Enragé",
+        "text": "Infligez 1 dégât à un de vos personnages bleus pour gagner 1 ressource."
     },
     {
         "code": "01082",
@@ -459,7 +459,7 @@
     {
         "code": "01085",
         "name": "Isolation",
-        "text": "Spot a Blue character to remove a character die."
+        "text": "Désignez un personnage Bleu pour remove a character die."
     },
     {
         "code": "01086",
@@ -566,12 +566,12 @@
     {
         "code": "01106",
         "name": "Hit and Run",
-        "text": "Ambush.\nActivate one of your Red characters."
+        "text": "Embuscade.\nActivate one of your Red characters."
     },
     {
         "code": "01107",
         "name": "It's a Trap!",
-        "text": "Ambush.\nChoose a symbol showing on an opponent's die. Then turn any number of your Red dice to sides showing that symbol."
+        "text": "Embuscade.\nChoose a symbol showing on an opponent's die. Then turn any number of your Red dice to sides showing that symbol."
     },
     {
         "code": "01108",
@@ -666,7 +666,7 @@
     {
         "code": "01126",
         "name": "Daring Escape",
-        "text": "Ambush.\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank])."
+        "text": "Embuscade.\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank])."
     },
     {
         "code": "01127",
@@ -702,7 +702,7 @@
     {
         "code": "01133",
         "name": "Shoot First",
-        "text": "Ambush.\nResolve one of your Yellow dice showing ranged damage ([ranged]). Then remove an opponent's die showing ranged damage ([ranged])."
+        "text": "Embuscade.\nResolve one of your Yellow dice showing ranged damage ([ranged]). Then remove an opponent's die showing ranged damage ([ranged])."
     },
     {
         "code": "01134",
@@ -717,7 +717,7 @@
     {
         "code": "01136",
         "name": "Street Informants",
-        "text": "Ambush.\n<b>Action</b> - Exhaust this support to look at an opponent's hand."
+        "text": "Embuscade.\n<b>Action</b> - Exhaust this support to look at an opponent's hand."
     },
     {
         "code": "01137",
@@ -727,7 +727,7 @@
     {
         "code": "01138",
         "name": "Award Ceremony",
-        "text": "Spot a Red character to draw cards equal to the number of exhausted characters you have."
+        "text": "Désignez un personnage Rouge pour draw cards equal to the number of exhausted characters you have."
     },
     {
         "code": "01139",
@@ -747,7 +747,7 @@
     {
         "code": "01142",
         "name": "Logistics",
-        "text": "Spot a red character to resolve a die with the resource symbol ([resource]), increasing its value by 1."
+        "text": "Désignez un personnage Rouge pour resolve a die with the resource symbol ([resource]), increasing its value by 1."
     },
     {
         "code": "01143",
@@ -762,7 +762,7 @@
     {
         "code": "01145",
         "name": "Deflect",
-        "text": "Spot a Blue character to remove a die showing ranged damage ([ranged]) and deal half of that damage, rounded up, to a character."
+        "text": "Désignez un personnage Bleu pour remove a die showing ranged damage ([ranged]) and deal half of that damage, rounded up, to a character."
     },
     {
         "code": "01146",
@@ -773,7 +773,7 @@
     {
         "code": "01147",
         "name": "Mind Trick",
-        "text": "Spot a Blue character to force your opponent to split their dice pool into 2 groups of any size. Choose 1 group and remove all dice in it."
+        "text": "Désignez un personnage Bleu pour force your opponent to split their dice pool into 2 groups of any size. Choose 1 group and remove all dice in it."
     },
     {
         "code": "01148",
@@ -784,7 +784,7 @@
         "code": "01149",
         "flavor": "\"The Force will be with you, always.\" <cite>Obi-Wan Kenobi",
         "name": "Use The Force",
-        "text": "Spot a Blue character to turn a die to any side."
+        "text": "Désignez un personnage Bleu pour turn a die to any side."
     },
     {
         "code": "01150",
@@ -834,27 +834,27 @@
     {
         "code": "01159",
         "name": "Electroshock",
-        "text": "Spot a Yellow character to remove a die showing a value of 2 or lower."
+        "text": "Désignez un personnage Jaune pour remove a die showing a value of 2 or lower."
     },
     {
         "code": "01160",
         "name": "Reversal",
-        "text": "Spot a Yellow character to remove a die showing damage ([melee] or [ranged]) and deal that damage to a character."
+        "text": "Désignez un personnage Jaune pour remove a die showing damage ([melee] or [ranged]) and deal that damage to a character."
     },
     {
         "code": "01161",
         "name": "Scramble",
-        "text": "Spot a Yellow character to reroll all of an opponent's dice."
+        "text": "Désignez un personnage Jaune pour reroll all of an opponent's dice."
     },
     {
         "code": "01162",
         "name": "Unpredictable",
-        "text": "Ambush.\nReroll a die (yours or an opponent's)."
+        "text": "Embuscade.\nReroll a die (yours or an opponent's)."
     },
     {
         "code": "01163",
         "name": "Infamous",
-        "text": "Before you play a Yellow card, you may exhaust this support to give it the Ambush keyword."
+        "text": "Before you play a Yellow card, you may exhaust this support to give it the Embuscade keyword."
     },
     {
         "code": "01164",
