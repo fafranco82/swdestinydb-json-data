@@ -1,22 +1,22 @@
 [
     {
         "code": "battlefield",
-        "name": "Pole bitwy"
+        "name": "Campo di Battaglia"
     },
     {
         "code": "character",
-        "name": "Postać"
+        "name": "Personaggio"
     },
     {
         "code": "event",
-        "name": "Wydarzenie"
+        "name": "Evento"
     },
     {
         "code": "support",
-        "name": "Wsparcie"
+        "name": "Supporto"
     },
     {
         "code": "upgrade",
-        "name": "Ulepszenie"
+        "name": "Miglioria"
     }
 ]

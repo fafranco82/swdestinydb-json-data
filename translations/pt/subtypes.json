@@ -1,7 +1,7 @@
 [
     {
         "code": "ability",
-        "name": "Capacité"
+        "name": "Habilidade"
     },
     {
         "code": "droid",
@@ -9,14 +9,14 @@
     },
     {
         "code": "equipment",
-        "name": "Equipement"
+        "name": "Equipamento"
     },
     {
         "code": "vehicle",
-        "name": "Véhicule"
+        "name": "Veículo"
     },
     {
         "code": "weapon",
-        "name": "Arme"
+        "name": "Arma"
     }
 ]

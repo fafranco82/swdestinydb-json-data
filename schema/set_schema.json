@@ -1,6 +1,12 @@
 {
     "additionalProperties": false,
     "properties": {
+        "cgdb_id_end": {
+            "type": "integer"
+        },
+        "cgdb_id_start": {
+            "type": "integer"
+        },
         "code": {
             "minLength": 1,
             "type": "string"

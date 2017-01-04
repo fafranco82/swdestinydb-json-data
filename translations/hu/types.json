@@ -1,22 +1,22 @@
 [
     {
         "code": "battlefield",
-        "name": "Pole bitwy"
+        "name": "Csatatér"
     },
     {
         "code": "character",
-        "name": "Postać"
+        "name": "Karakter"
     },
     {
         "code": "event",
-        "name": "Wydarzenie"
+        "name": "Esemény"
     },
     {
         "code": "support",
-        "name": "Wsparcie"
+        "name": "Támogatás"
     },
     {
         "code": "upgrade",
-        "name": "Ulepszenie"
+        "name": "Fejlesztés"
     }
 ]

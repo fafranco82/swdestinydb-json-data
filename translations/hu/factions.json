@@ -1,18 +1,18 @@
 [
     {
         "code": "blue",
-        "name": "Moc"
+        "name": "Erő"
     },
     {
         "code": "gray",
-        "name": "Og\u00f3lny"
+        "name": "Egyéb"
     },
     {
         "code": "red",
-        "name": "Dow\u00f3dztwo"
+        "name": "Hadsereg"
     },
     {
         "code": "yellow",
-        "name": "\u0141otrzy"
+        "name": "Szerencsevadász"
     }
 ]

@@ -1,22 +1,22 @@
 [
     {
         "code": "C",
-        "name": "Powszechna"
+        "name": "Comum"
     },
     {
         "code": "L",
-        "name": "Legendarna"
+        "name": "Lendária"
     },
     {
         "code": "R",
-        "name": "Rzadka"
+        "name": "Rara"
     },
     {
         "code": "S",
-        "name": "Sta\u0142a"
+        "name": "Inicial"
     },
     {
         "code": "U",
-        "name": "Cz\u0119sta"
+        "name": "Incomum"
     }
 ]

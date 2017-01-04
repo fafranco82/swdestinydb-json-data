@@ -24,12 +24,13 @@
         ],
         "subtitle": "Elite Trooper",
         "text": "Your non-unique characters have the Guardian keyword.",
+        "ttscardid": "1300",
         "type_code": "character"
     },
     {
         "affiliation_code": "villain",
         "code": "01002",
-        "deck_limit": null,
+        "deck_limit": 4,
         "faction_code": "red",
         "flavor": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
         "has_die": true,
@@ -48,6 +49,7 @@
             "-",
             "-"
         ],
+        "ttscardid": "1301",
         "type_code": "character"
     },
     {
@@ -74,6 +76,7 @@
         ],
         "subtitle": "Jedi Hunter",
         "text": "Before an opponent's character is defeated, you may move one of their non-<i>ability</i> upgrades to this character.",
+        "ttscardid": "1302",
         "type_code": "character"
     },
     {
@@ -101,6 +104,7 @@
         ],
         "subtitle": "Field Commander",
         "text": "<b>Action</b> - Remove this die to turn one of your support dice to any side.",
+        "ttscardid": "1303",
         "type_code": "character"
     },
     {
@@ -111,6 +115,7 @@
         "faction_code": "red",
         "flavor": "The All Terrain Scout Transport filled both support and reconnaissance roles in the Galactic Empire's war machine.",
         "has_die": true,
+        "illustrator": "David Auden Nash",
         "is_unique": false,
         "name": "AT-ST",
         "position": 5,
@@ -126,6 +131,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Discard a support from play.",
+        "ttscardid": "1304",
         "type_code": "support"
     },
     {
@@ -151,6 +157,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Remove all shield from all of an opponent's characters.",
+        "ttscardid": "1305",
         "type_code": "support"
     },
     {
@@ -160,6 +167,7 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": true,
+        "illustrator": "Alejandro Marabel",
         "is_unique": false,
         "name": "Commanding Presence",
         "position": 7,
@@ -175,6 +183,7 @@
         ],
         "subtype_code": "ability",
         "text": "Red character only.\n[special] - Choose a Red die. If it is your die, resolve it, increasing its value by 2. If it is an opponent's die, remove it.",
+        "ttscardid": "1306",
         "type_code": "upgrade"
     },
     {
@@ -199,6 +208,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Redeploy.\n[special] - Force an opponent to deal 2 damage to their characters, distributing the damage as they wish.",
+        "ttscardid": "1307",
         "type_code": "upgrade"
     },
     {
@@ -208,6 +218,7 @@
         "faction_code": "blue",
         "has_die": true,
         "health": 10,
+        "illustrator": "Kate Laird",
         "is_unique": true,
         "name": "Count Dooku",
         "points": "11/15",
@@ -224,6 +235,7 @@
         ],
         "subtitle": "Devious Strategist",
         "text": "Before this character is dealt 1 or more damage, you may discard a card from your hand to give him 1 shield.",
+        "ttscardid": "1308",
         "type_code": "character"
     },
     {
@@ -251,6 +263,7 @@
         ],
         "subtitle": "Sith Lord",
         "text": "After you activate this character you may force an opponent to choose and discard a card from their hand.",
+        "ttscardid": "1309",
         "type_code": "character"
     },
     {
@@ -277,16 +290,18 @@
         ],
         "subtitle": "Vader's Disciple",
         "text": "[special] - Choose an opponent's character. Then look at a random card in that opponent's hand and deal damage to that character equal to the cost of the card you just looked at.",
+        "ttscardid": "1310",
         "type_code": "character"
     },
     {
         "affiliation_code": "villain",
         "code": "01012",
-        "deck_limit": null,
+        "deck_limit": 3,
         "faction_code": "blue",
         "flavor": "Nightsisters deftly manipulate the Force to serve their own ends.",
         "has_die": true,
         "health": 7,
+        "illustrator": "Johannes Holm",
         "is_unique": false,
         "name": "Nightsister",
         "points": "8",
@@ -301,7 +316,8 @@
             "1R",
             "-"
         ],
-        "text": "<b>Action</b> - Remove a die. Deal 1 damage to this character.",
+        "text": "<b>Action</b> - Reroll a die. Deal 1 damage to this character.",
+        "ttscardid": "1311",
         "type_code": "character"
     },
     {
@@ -327,6 +343,7 @@
         ],
         "subtype_code": "ability",
         "text": "Blue character only.\n[special] - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side.",
+        "ttscardid": "1312",
         "type_code": "upgrade"
     },
     {
@@ -336,6 +353,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
+        "illustrator": "Tony Foti",
         "is_unique": false,
         "name": "Immobilize",
         "position": 14,
@@ -351,6 +369,7 @@
         ],
         "subtype_code": "ability",
         "text": "Blue Character only.\n<b>Action</b> - Remove this die to turn a die to a side showing a blank ([blank]).",
+        "ttscardid": "1313",
         "type_code": "upgrade"
     },
     {
@@ -375,6 +394,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Blue character only.\n[special] - Deal 2 damage to a character. If any of this damage is blocked by shields, reroll this die instead of removing it from your pool.",
+        "ttscardid": "1314",
         "type_code": "upgrade"
     },
     {
@@ -400,6 +420,7 @@
         ],
         "subtype_code": "equipment",
         "text": "[special] - Switch this upgrade with a Blue <i>ability</i> upgrade in your hand, ignoring its play restrictions. Then you may spend 1 resource to roll its die into your pool, if able.",
+        "ttscardid": "1315",
         "type_code": "upgrade"
     },
     {
@@ -409,6 +430,7 @@
         "deck_limit": 2,
         "faction_code": "gray",
         "has_die": true,
+        "illustrator": "Christina Davis",
         "is_unique": false,
         "name": "Infantry Grenades",
         "position": 17,
@@ -424,6 +446,7 @@
         ],
         "subtype_code": "weapon",
         "text": "[special] - Deal 2 damage to each of an opponent's characters. Discard this upgrade from play.",
+        "ttscardid": "1316",
         "type_code": "upgrade"
     },
     {
@@ -433,6 +456,7 @@
         "deck_limit": 2,
         "faction_code": "gray",
         "has_die": true,
+        "illustrator": "Steve Hamilton",
         "is_unique": false,
         "name": "Speeder Bike Scout",
         "position": 18,
@@ -448,6 +472,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Remove a die. You may take one additional action.",
+        "ttscardid": "1317",
         "type_code": "support"
     },
     {
@@ -457,6 +482,7 @@
         "faction_code": "yellow",
         "has_die": true,
         "health": 8,
+        "illustrator": "Kate Laird",
         "is_unique": true,
         "name": "Bala-Tik",
         "points": "8/11",
@@ -473,6 +499,7 @@
         ],
         "subtitle": "Gang Leader",
         "text": "After an opponent's character is defeated, you may ready this character.",
+        "ttscardid": "1318",
         "type_code": "character"
     },
     {
@@ -500,6 +527,7 @@
         ],
         "subtitle": "The Great and Mighty",
         "text": "After you activate this character, you may reroll a Yellow die.",
+        "ttscardid": "1319",
         "type_code": "character"
     },
     {
@@ -527,12 +555,13 @@
         ],
         "subtitle": "Lethal Mercenary",
         "text": "After an opponent activates a character, you may activate this character.",
+        "ttscardid": "1320",
         "type_code": "character"
     },
     {
         "affiliation_code": "villain",
         "code": "01022",
-        "deck_limit": null,
+        "deck_limit": 3,
         "faction_code": "yellow",
         "has_die": true,
         "health": 8,
@@ -551,6 +580,7 @@
             "-"
         ],
         "text": "After you activate this character, you may discard a card from your hand to resolve one of its character or upgrade dice.",
+        "ttscardid": "1321",
         "type_code": "character"
     },
     {
@@ -560,7 +590,8 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": true,
-        "is_unique": true,
+        "illustrator": "Imaginary FS Ltd. PTE",
+        "is_unique": false,
         "name": "Crime Lord",
         "position": 23,
         "rarity_code": "L",
@@ -574,7 +605,8 @@
             "Sp"
         ],
         "subtype_code": "ability",
-        "text": "[special] - Spend 5 resources to choose a character. That character is defeated after this round ends.",
+        "text": "Yellow Character only. [special] - Spend 5 resources to choose a character. That character is defeated after this round ends.",
+        "ttscardid": "1322",
         "type_code": "upgrade"
     },
     {
@@ -584,6 +616,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": true,
+        "illustrator": "Tiziano Baracchi",
         "is_unique": false,
         "name": "Flame Thrower",
         "position": 24,
@@ -599,6 +632,7 @@
         ],
         "subtype_code": "weapon",
         "text": "[special] - Deal 1 damage each to up to 3 different characters.",
+        "ttscardid": "1323",
         "type_code": "upgrade"
     },
     {
@@ -624,6 +658,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Redeploy.\n[special] - Remove one of your dice showing melee damage ([melee]) to deal 3 damage to a character.",
+        "ttscardid": "1324",
         "type_code": "upgrade"
     },
     {
@@ -649,6 +684,7 @@
         ],
         "subtype_code": "ability",
         "text": "[special] - Remove all shields from a character. You may spend 1 resource to remove one of its character or upgrade dice.",
+        "ttscardid": "1325",
         "type_code": "upgrade"
     },
     {
@@ -675,6 +711,7 @@
         ],
         "subtitle": "Perceptive Tactician",
         "text": "After an opponent plays or discards the last card from their hand, they choose and deal 2 damage to one of their characters.",
+        "ttscardid": "1326",
         "type_code": "character"
     },
     {
@@ -702,6 +739,7 @@
         ],
         "subtitle": "Born Leader",
         "text": "<b>Action</b> - Remove this die to reroll up to 2 of your dice.",
+        "ttscardid": "1327",
         "type_code": "character"
     },
     {
@@ -728,15 +766,17 @@
         ],
         "subtitle": "Ace Pilot",
         "text": "[special] - Discard a card from your hand to resolve one of the sides of its die, if able. Then, if it was a <b>vehicle</b> card, you may pay its cost to play it from your discard pile.",
+        "ttscardid": "1328",
         "type_code": "character"
     },
     {
         "affiliation_code": "hero",
         "code": "01030",
-        "deck_limit": null,
+        "deck_limit": 3,
         "faction_code": "red",
         "has_die": true,
         "health": 7,
+        "illustrator": "Leonid Kozienko",
         "is_unique": false,
         "name": "Rebel Trooper",
         "points": "8",
@@ -752,6 +792,7 @@
             "-"
         ],
         "text": "Guardian.",
+        "ttscardid": "1329",
         "type_code": "character"
     },
     {
@@ -761,6 +802,7 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": true,
+        "illustrator": "Mark Molnar",
         "is_unique": false,
         "name": "Launch Bay",
         "position": 31,
@@ -775,6 +817,7 @@
             "-"
         ],
         "text": "The X on this die is equal to the number of cards in your hand.",
+        "ttscardid": "1330",
         "type_code": "support"
     },
     {
@@ -785,6 +828,7 @@
         "faction_code": "red",
         "flavor": "Poe Dameron's X-Wing was modified to be even more versatile than the standard T-70",
         "has_die": true,
+        "illustrator": "Darren Tan",
         "is_unique": true,
         "name": "Black One",
         "position": 32,
@@ -800,6 +844,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Deal 1 damage to a character. Reroll this die instead of removing it from your pool.",
+        "ttscardid": "1331",
         "type_code": "support"
     },
     {
@@ -825,6 +870,7 @@
         ],
         "subtype_code": "ability",
         "text": "[special] - Look at an opponent's hand and discard the cheapest card from it (you choose in the case of a tie).",
+        "ttscardid": "1332",
         "type_code": "upgrade"
     },
     {
@@ -850,6 +896,7 @@
             "+1R"
         ],
         "subtype_code": "equipment",
+        "ttscardid": "1333",
         "type_code": "upgrade"
     },
     {
@@ -877,12 +924,13 @@
         ],
         "subtitle": "Jedi Knight",
         "text": "After you activate this character, draw a card.",
+        "ttscardid": "1334",
         "type_code": "character"
     },
     {
         "affiliation_code": "hero",
         "code": "01036",
-        "deck_limit": null,
+        "deck_limit": 3,
         "faction_code": "blue",
         "has_die": true,
         "health": 7,
@@ -901,6 +949,7 @@
             "-"
         ],
         "text": "While this character does not have an upgrade, the cost to attach a <i>weapon</i> to it is decreased by 1.",
+        "ttscardid": "1335",
         "type_code": "character"
     },
     {
@@ -928,6 +977,7 @@
         ],
         "subtitle": "Ataru Master",
         "text": "Before this character gains 1 or more shields, you may remove 1 of his shields to deal 1 damage to a character.",
+        "ttscardid": "1336",
         "type_code": "character"
     },
     {
@@ -955,6 +1005,7 @@
         ],
         "subtitle": "Force Prodigy",
         "text": "After you play an upgrade on this character, you may take one additional action.",
+        "ttscardid": "1337",
         "type_code": "character"
     },
     {
@@ -979,6 +1030,7 @@
         ],
         "subtype_code": "ability",
         "text": "Blue character only.\n[special] - Give 3 shields to your characters, distributed as you wish.",
+        "ttscardid": "1338",
         "type_code": "upgrade"
     },
     {
@@ -1004,6 +1056,7 @@
         ],
         "subtype_code": "equipment",
         "text": "After you play this upgrade, give attached character 1 shield, or 2 shields instead in the first round of play.",
+        "ttscardid": "1339",
         "type_code": "upgrade"
     },
     {
@@ -1028,6 +1081,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Blue character only.\n[special] - Give a character 2 shields or deal 2 unblockable damage to a character.",
+        "ttscardid": "1340",
         "type_code": "upgrade"
     },
     {
@@ -1037,6 +1091,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
+        "illustrator": "Tiziano Baracchi",
         "is_unique": false,
         "name": "One with The Force",
         "position": 42,
@@ -1052,6 +1107,7 @@
         ],
         "subtype_code": "ability",
         "text": "Blue character only.\nBefore attached character is defeated, this upgrade becomes a support for the rest of the game (it starts ready).",
+        "ttscardid": "1341",
         "type_code": "upgrade"
     },
     {
@@ -1077,6 +1133,7 @@
         ],
         "subtype_code": "droid",
         "text": "[special] - Reroll this die and one of your other dice.  Do not remove this die from your pool after resolving this ability.",
+        "ttscardid": "1342",
         "type_code": "support"
     },
     {
@@ -1101,6 +1158,7 @@
         ],
         "subtype_code": "weapon",
         "text": "[special] - Remove a die showing damage ([melee] or [ranged])",
+        "ttscardid": "1343",
         "type_code": "upgrade"
     },
     {
@@ -1128,6 +1186,7 @@
         ],
         "subtitle": "First Order Defector",
         "text": "You can attach any <i>weapon</i> to this character, ignoring play restrictions.\nYou can include Red Villain <i>weapons</i> and <i>vehicles</i> in your deck.",
+        "ttscardid": "1344",
         "type_code": "character"
     },
     {
@@ -1135,6 +1194,7 @@
         "code": "01046",
         "deck_limit": 1,
         "faction_code": "yellow",
+        "flavor": "\"You know, sometimes I amaze even myself.\"",
         "has_die": true,
         "health": 10,
         "is_unique": true,
@@ -1153,16 +1213,18 @@
         ],
         "subtitle": "Scoundrel",
         "text": "After you play a card with the Ambush keyword, you may give this character 1 shield.",
+        "ttscardid": "1345",
         "type_code": "character"
     },
     {
         "affiliation_code": "hero",
         "code": "01047",
-        "deck_limit": null,
+        "deck_limit": 3,
         "faction_code": "yellow",
         "flavor": "\"You needn't worry about your reward. If money is all that you love, then that's what you'll receive.\" <cite>Leia Organa</cite>",
         "has_die": true,
         "health": 9,
+        "illustrator": "David Kegg",
         "is_unique": false,
         "name": "Hired Gun",
         "points": "8",
@@ -1177,6 +1239,7 @@
             "1R",
             "-"
         ],
+        "ttscardid": "1346",
         "type_code": "character"
     },
     {
@@ -1187,6 +1250,7 @@
         "flavor": "\"My fate will be no different to that of our people.\"",
         "has_die": true,
         "health": 10,
+        "illustrator": "Carmen Sinek",
         "is_unique": true,
         "name": "Padme Amidala",
         "points": "10/14",
@@ -1203,6 +1267,7 @@
         ],
         "subtitle": "Queen of Naboo",
         "text": "[special] - Discard the top card of an opponent's deck or spend 1 resource to discard the top 2 cards of an opponent's deck.",
+        "ttscardid": "1347",
         "type_code": "character"
     },
     {
@@ -1213,6 +1278,7 @@
         "faction_code": "yellow",
         "flavor": "\"She may not look like much, but she's got it where it counts.\" <cite>Han Solo</cite>",
         "has_die": true,
+        "illustrator": "Fine Molds",
         "is_unique": true,
         "name": "Millenium Falcon",
         "position": 49,
@@ -1228,6 +1294,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Play a Yellow event from your discard pile or hand for free.",
+        "ttscardid": "1348",
         "type_code": "support"
     },
     {
@@ -1237,6 +1304,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": true,
+        "illustrator": "Magali Villeneuve",
         "is_unique": false,
         "name": "Diplomatic Immunity",
         "position": 50,
@@ -1252,6 +1320,7 @@
         ],
         "subtype_code": "ability",
         "text": "The shields from this die can be given to any of your characters distributed as you wish.",
+        "ttscardid": "1349",
         "type_code": "upgrade"
     },
     {
@@ -1277,6 +1346,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Ambush.\nAfter you play this upgrade, force an opponent to choose and remove one of their dice.",
+        "ttscardid": "1350",
         "type_code": "upgrade"
     },
     {
@@ -1302,6 +1372,7 @@
         ],
         "subtype_code": "ability",
         "text": "[special] - Reroll up to 2 of an opponent's dice.",
+        "ttscardid": "1351",
         "type_code": "upgrade"
     },
     {
@@ -1326,6 +1397,7 @@
             "-"
         ],
         "text": "[special] - Resolve the battlefield ability as if you had just claimed it.",
+        "ttscardid": "1352",
         "type_code": "support"
     },
     {
@@ -1336,6 +1408,7 @@
         "faction_code": "red",
         "flavor": "The weapon of choice for rebel soldiers and imperial officers alike during the Galactic Civil War.",
         "has_die": true,
+        "illustrator": "Magali Villeneuve",
         "is_unique": false,
         "name": "DH-17 Blaster Pistol",
         "position": 54,
@@ -1350,6 +1423,7 @@
             "-"
         ],
         "subtype_code": "weapon",
+        "ttscardid": "1353",
         "type_code": "upgrade"
     },
     {
@@ -1359,6 +1433,7 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": true,
+        "illustrator": "Jacob Atienza",
         "is_unique": false,
         "name": "IQA-11 Blaster Rifle",
         "position": 55,
@@ -1374,6 +1449,7 @@
         ],
         "subtype_code": "weapon",
         "text": "[special] - Deal 2 unblockable damage to a character.",
+        "ttscardid": "1354",
         "type_code": "upgrade"
     },
     {
@@ -1383,6 +1459,7 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": true,
+        "illustrator": "Cris Griffin",
         "is_unique": false,
         "name": "Promotion",
         "position": 56,
@@ -1398,6 +1475,7 @@
         ],
         "subtype_code": "ability",
         "text": "Red character only.\nAfter you play this upgrade, you may draw a card.",
+        "ttscardid": "1355",
         "type_code": "upgrade"
     },
     {
@@ -1422,6 +1500,7 @@
         ],
         "subtype_code": "ability",
         "text": "Blue Character Only.\n[special] - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeroes).",
+        "ttscardid": "1356",
         "type_code": "upgrade"
     },
     {
@@ -1447,6 +1526,7 @@
         ],
         "subtype_code": "ability",
         "text": "To play, spot a Blue character.\n[special] - Choose and do two of the following: deal 1 damage to a character, or gain 1 resource, or give a character 1 shield.",
+        "ttscardid": "1357",
         "type_code": "upgrade"
     },
     {
@@ -1472,6 +1552,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Redeploy.\n[special] - Deal 2 unblockable damage to a character.",
+        "ttscardid": "1358",
         "type_code": "upgrade"
     },
     {
@@ -1481,6 +1562,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
+        "illustrator": "Dmitry Prosvirmin",
         "is_unique": false,
         "name": "Mind Probe",
         "position": 60,
@@ -1496,6 +1578,7 @@
         ],
         "subtype_code": "ability",
         "text": "Blue Character only.\n[special] - Deal an opponent's character 1 damage for each card in that opponent's hand.",
+        "ttscardid": "1359",
         "type_code": "upgrade"
     },
     {
@@ -1521,6 +1604,7 @@
         ],
         "subtype_code": "equipment",
         "text": "After you play this upgrade, you may reroll any number of your dice or any number of an opponent's dice.",
+        "ttscardid": "1360",
         "type_code": "upgrade"
     },
     {
@@ -1544,7 +1628,8 @@
             "-"
         ],
         "subtype_code": "equipment",
-        "text": "[special] - Turn one of your dice to a side not showing damage ([ranged] or [melee])",
+        "text": "[special] - Turn one of your dice to a side not showing damage ([ranged] or [melee]).",
+        "ttscardid": "1361",
         "type_code": "upgrade"
     },
     {
@@ -1569,6 +1654,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Ambush. Redeploy.",
+        "ttscardid": "1362",
         "type_code": "upgrade"
     },
     {
@@ -1578,6 +1664,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": true,
+        "illustrator": "Tony Foti",
         "is_unique": false,
         "name": "Black Market",
         "position": 64,
@@ -1592,6 +1679,7 @@
             "-"
         ],
         "text": "[special] - Draw 2 cards. You may play an upgrade from your hand, decreasing its cost by 1.",
+        "ttscardid": "1363",
         "type_code": "support"
     },
     {
@@ -1616,6 +1704,7 @@
         ],
         "subtype_code": "ability",
         "text": "Yellow character only.\n[special] - Resolve a special ability ([special]) on another card in play as if it were your card.",
+        "ttscardid": "1364",
         "type_code": "upgrade"
     },
     {
@@ -1641,6 +1730,7 @@
         ],
         "subtype_code": "equipment",
         "text": "[special] - Remove a die showing melee damage ([melee]) and give attached character 1 shield.",
+        "ttscardid": "1365",
         "type_code": "upgrade"
     },
     {
@@ -1650,6 +1740,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": true,
+        "illustrator": "Alexandru Sabo",
         "is_unique": false,
         "name": "Thermal Detonator",
         "position": 67,
@@ -1665,6 +1756,7 @@
         ],
         "subtype_code": "weapon",
         "text": "To play, spot a Yellow character.\n[special] - Deal 3 damage to each of an opponent's characters. Discard this upgrade from play.",
+        "ttscardid": "1366",
         "type_code": "upgrade"
     },
     {
@@ -1680,6 +1772,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Deal one of your non-unique characters damage equal to the value of an opponent's die showing damage ([melee] or [ranged]). Then remove that die.",
+        "ttscardid": "1367",
         "type_code": "event"
     },
     {
@@ -1689,12 +1782,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Christina Davis",
         "is_unique": false,
         "name": "Closing the Net",
         "position": 69,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Force an opponent to choose and remove one of their dice. You may place this event on the bottom of your deck instead of discarding it.",
+        "ttscardid": "1368",
         "type_code": "event"
     },
     {
@@ -1711,6 +1806,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Return one of your defeated non-unique Red characters to the game with no damage on it.",
+        "ttscardid": "1369",
         "type_code": "event"
     },
     {
@@ -1727,6 +1823,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Play only if you control the battlefield.\nForce an opponent to lose all of their resources.",
+        "ttscardid": "1400",
         "type_code": "event"
     },
     {
@@ -1736,12 +1833,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Adam Lane",
         "is_unique": false,
         "name": "Probe",
         "position": 72,
         "rarity_code": "C",
         "set_code": "AW",
-        "text": "Look at two random cards from your opponent's hand. Discard any of these cards that are events.",
+        "text": "Look at two random cards from your opponent's hand and discard any of these cards that are events.",
+        "ttscardid": "1401",
         "type_code": "event"
     },
     {
@@ -1751,12 +1850,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Tony Foti",
         "is_unique": false,
         "name": "Sweep the Area",
         "position": 73,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Count the number of ready Red characters you have. Reroll that many of an opponent's dice.",
+        "ttscardid": "1402",
         "type_code": "event"
     },
     {
@@ -1773,6 +1874,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Spot a Red character to take up to 2 additional actions.",
+        "ttscardid": "1403",
         "type_code": "event"
     },
     {
@@ -1790,6 +1892,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Deal one of your Red characters 3 damage to remove up to 2 of an opponent's dice.",
+        "ttscardid": "1404",
         "type_code": "event"
     },
     {
@@ -1805,6 +1908,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "<b>Action</b> - Exhaust this support and one of your characters to gain 1 resource.",
+        "ttscardid": "1405",
         "type_code": "support"
     },
     {
@@ -1814,12 +1918,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Tyler Walpole",
         "is_unique": false,
         "name": "Local Garrison",
         "position": 77,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Each opponent gains 1 fewer resource during each upkeep phase to a minimum of 1.",
+        "ttscardid": "1406",
         "type_code": "support"
     },
     {
@@ -1829,6 +1935,7 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Zachary Graves",
         "is_unique": false,
         "name": "Personal Escort",
         "position": 78,
@@ -1836,6 +1943,7 @@
         "set_code": "AW",
         "subtype_code": "ability",
         "text": "Attached character has the Guardian keyword.",
+        "ttscardid": "1407",
         "type_code": "upgrade"
     },
     {
@@ -1851,6 +1959,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Force an opponent to choose to either lose all of their resources or discard all cards in their hand.",
+        "ttscardid": "1408",
         "type_code": "event"
     },
     {
@@ -1867,6 +1976,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Draw cards up to your hand size.",
+        "ttscardid": "1409",
         "type_code": "event"
     },
     {
@@ -1883,6 +1993,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Deal 1 damage to one of your Blue characters to gain 1 resource.",
+        "ttscardid": "1410",
         "type_code": "event"
     },
     {
@@ -1893,12 +2004,14 @@
         "faction_code": "blue",
         "flavor": "\"Let the hate flow through you.\" <cite>Emperor Palpatine</cite>",
         "has_die": false,
+        "illustrator": "Matt Stawicki",
         "is_unique": false,
         "name": "Feel Your Anger",
         "position": 82,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Count the number of blanks ([blank]) showing on an opponent's dice. Remove that many of their dice.",
+        "ttscardid": "1411",
         "type_code": "event"
     },
     {
@@ -1908,12 +2021,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Jacob Murray",
         "is_unique": false,
         "name": "Force Strike",
         "position": 83,
         "rarity_code": "U",
         "set_code": "AW",
-        "text": "Turn one of your blue dice to the side showing melee damage ([melee]), then you may resolve it immediately.",
+        "text": "Turn one of your Blue dice to the side showing melee damage ([melee]). Then you may resolve that die.",
+        "ttscardid": "1412",
         "type_code": "event"
     },
     {
@@ -1930,6 +2045,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Remove all shields from a character.",
+        "ttscardid": "1413",
         "type_code": "event"
     },
     {
@@ -1939,12 +2055,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Dallas Williams",
         "is_unique": false,
         "name": "Isolation",
         "position": 85,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Spot a Blue character to remove a character die.",
+        "ttscardid": "1414",
         "type_code": "event"
     },
     {
@@ -1961,6 +2079,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Discard any number of Blue cards from your hand. Then resolve one of your dice showing damage ([melee] or [ranged]), increasing its value by 1 for each card you just discarded.",
+        "ttscardid": "1415",
         "type_code": "event"
     },
     {
@@ -1976,6 +2095,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Look at the top 3 cards of any deck. Then place those cards on the top and/or bottom of that deck in any order.",
+        "ttscardid": "1416",
         "type_code": "event"
     },
     {
@@ -1985,12 +2105,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Magali Villeneuve",
         "is_unique": true,
         "name": "Emperor's Favor",
         "position": 88,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Your hand size is increased by 1.",
+        "ttscardid": "1417",
         "type_code": "support"
     },
     {
@@ -2008,6 +2130,7 @@
         "rarity_code": "S",
         "set_code": "AW",
         "text": "<b>Action</b> - Exaust this support to reroll one of your dice.  If that die rolls a blank ([blank]), deal 2 unblockable damage to a character.",
+        "ttscardid": "1418",
         "type_code": "support"
     },
     {
@@ -2017,13 +2140,15 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Adam Lane",
         "is_unique": false,
         "name": "Hidden In Shadow",
         "position": 90,
         "rarity_code": "U",
         "set_code": "AW",
         "subtype_code": "ability",
-        "text": "<b>Action</b> - If the character this card is attached to does not have any shields, you can exhaust this card to place one shield on that character.",
+        "text": "<b>Action</b> - If attached character has no shields, exhaust this upgrade to give it 1 shield.",
+        "ttscardid": "1419",
         "type_code": "upgrade"
     },
     {
@@ -2033,12 +2158,14 @@
         "deck_limit": 2,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Tom Garden",
         "is_unique": false,
         "name": "Nowhere to Run",
         "position": 91,
         "rarity_code": "U",
         "set_code": "AW",
-        "text": "Turn each of your dice showing a blank to any side.",
+        "text": "Turn each of your dice showing a blank ([blank]) to any side.",
+        "ttscardid": "1420",
         "type_code": "event"
     },
     {
@@ -2048,12 +2175,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "David Nash",
         "is_unique": false,
         "name": "Ace in the Hole",
         "position": 92,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Discard a Yellow upgrade from your hand to roll its die into your pool, if able. Set aside that die after it is resolved or removed.",
+        "ttscardid": "1421",
         "type_code": "event"
     },
     {
@@ -2063,12 +2192,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "David Auden Nash",
         "is_unique": false,
         "name": "Armed to the Teeth",
         "position": 93,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Discard any number of upgrades from one of your Yellow characters. Then deal damage to a character equal to the number of upgrades you just discarded.",
+        "ttscardid": "1422",
         "type_code": "event"
     },
     {
@@ -2078,12 +2209,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "David Kegg",
         "is_unique": false,
         "name": "Confiscation",
         "position": 94,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Spend resources equal to the cost of an opponent's upgrade in play to return that upgrade to their hand.",
+        "ttscardid": "1423",
         "type_code": "event"
     },
     {
@@ -2093,12 +2226,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Jeff Lee Johnson",
         "is_unique": false,
         "name": "Fight Dirty",
         "position": 95,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed.",
+        "ttscardid": "1424",
         "type_code": "event"
     },
     {
@@ -2115,6 +2250,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Resolve one of your dice showing ranged damage ([ranged]), treating this damage as unblockable.",
+        "ttscardid": "1425",
         "type_code": "event"
     },
     {
@@ -2125,12 +2261,14 @@
         "faction_code": "yellow",
         "flavor": "\"I don't like you, either.\"",
         "has_die": false,
+        "illustrator": "Rafal Hrynkiewicz",
         "is_unique": false,
         "name": "He Doesn't Like You",
         "position": 97,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Remove one of your dice to remove an opponent's die.",
+        "ttscardid": "1426",
         "type_code": "event"
     },
     {
@@ -2140,12 +2278,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "RJ Palmer",
         "is_unique": false,
         "name": "Lying in Wait",
         "position": 98,
         "rarity_code": "C",
         "set_code": "AW",
-        "text": "Force an opponent to discard cards from their hand, until they hold the same amount of cards as you do.",
+        "text": "Force an opponent to choose and discard cards from their hand down to the number of cards you have in your hand.",
+        "ttscardid": "1427",
         "type_code": "event"
     },
     {
@@ -2155,12 +2295,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Ekaterina Burmak",
         "is_unique": false,
         "name": "Backup Muscle",
         "position": 99,
         "rarity_code": "C",
         "set_code": "AW",
-        "text": "When you play this card place three single damage tokens on it.\n<b>Action</b> - Exhaust this card to move one damage token from it to an opponent's character of your choice.",
+        "text": "When you play this support, place 3 damage on it.\n<b>Action</b> - Exhaust this support to move 1 damage from it to a character <em>(this ignores shields)</em>.",
+        "ttscardid": "1428",
         "type_code": "support"
     },
     {
@@ -2177,6 +2319,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "After you resolve a die showing disrupt ([disrupt]), you may exhaust this support to gain resources equal to the number of resources your opponent just lost.",
+        "ttscardid": "1429",
         "type_code": "support"
     },
     {
@@ -2186,12 +2329,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Alexandre Dainche",
         "is_unique": false,
         "name": "Underworld Connections",
         "position": 101,
         "rarity_code": "U",
         "set_code": "AW",
-        "text": "<b>Action</b> - Exhaust this support to gain 1 resource",
+        "text": "<b>Action</b> - Exhaust this support to gain 1 resource.",
+        "ttscardid": "1430",
         "type_code": "support"
     },
     {
@@ -2201,12 +2346,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Matt Bradbury",
         "is_unique": true,
         "name": "Prized Possession",
         "position": 102,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "After you play this upgrade, you may remove an opponent's character die and place it here. It is not rolled by any character and does not return to its character unless this upgrade leaves play.",
+        "ttscardid": "1431",
         "type_code": "upgrade"
     },
     {
@@ -2223,6 +2370,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Resolve one of your Red dice showing discard ([discard]), increasing its value by 2. Then draw a card.",
+        "ttscardid": "1432",
         "type_code": "event"
     },
     {
@@ -2232,12 +2380,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Sidharth Chaturvedi",
         "is_unique": false,
         "name": "Defensive Position",
         "position": 104,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Play only if you control the battlefield.\nRemove all of an opponent's dice showing a value of 2 or higher.",
+        "ttscardid": "1433",
         "type_code": "event"
     },
     {
@@ -2247,12 +2397,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Alexandre Dainche",
         "is_unique": false,
         "name": "Field Medic",
         "position": 105,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Remove 2 damage from a character.",
+        "ttscardid": "1434",
         "type_code": "event"
     },
     {
@@ -2262,12 +2414,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Raven Mimura",
         "is_unique": false,
         "name": "Hit and Run",
         "position": 106,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Ambush.\nActivate one of your Red characters.",
+        "ttscardid": "1435",
         "type_code": "event"
     },
     {
@@ -2283,6 +2437,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Ambush.\nChoose a symbol showing on an opponent's die. Then turn any number of your Red dice to sides showing that symbol.",
+        "ttscardid": "1436",
         "type_code": "event"
     },
     {
@@ -2292,12 +2447,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Kate Laird",
         "is_unique": false,
         "name": "Natural Talent",
         "position": 108,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Resolve one of your dice, increasing its value by 1.",
+        "ttscardid": "1437",
         "type_code": "event"
     },
     {
@@ -2307,12 +2464,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Jacob Murray",
         "is_unique": false,
         "name": "Rearm",
         "position": 109,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Play a Red upgrade from your discard pile, decreasing its cost by 1.",
+        "ttscardid": "1438",
         "type_code": "event"
     },
     {
@@ -2329,6 +2488,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Your opponent may take 1 action. Then end the action phase.",
+        "ttscardid": "1439",
         "type_code": "event"
     },
     {
@@ -2344,6 +2504,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Ready or exhaust a support.",
+        "ttscardid": "1440",
         "type_code": "event"
     },
     {
@@ -2353,12 +2514,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Ben Zweifel",
         "is_unique": false,
         "name": "Surgical Strike",
         "position": 112,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Remove any number of your Red dice showing ranged damage ([ranged]), increasing each of their values by 1, to discard a support from play that costs equal to or less than the combined value of those dice.",
+        "ttscardid": "1441",
         "type_code": "event"
     },
     {
@@ -2368,12 +2531,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Amelie Hutt",
         "is_unique": true,
         "name": "Resistance HQ",
         "position": 113,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "<b>Action</b> - Exhaust this support and discard a card from your hand to give a character 1 shield. Then ready this support unless an opponent spends 1 resource.",
+        "ttscardid": "1442",
         "type_code": "support"
     },
     {
@@ -2383,12 +2548,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Tony Foti",
         "is_unique": false,
         "name": "Anticipate",
         "position": 114,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Force an opponent to choose and resolve any number of their dice in the order of their choice. Then remove all of their dice they did not resolve.",
+        "ttscardid": "1443",
         "type_code": "event"
     },
     {
@@ -2405,6 +2572,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Give a character 2 shields.",
+        "ttscardid": "1444",
         "type_code": "event"
     },
     {
@@ -2421,6 +2589,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Choose a symbol showing on one of your Blue dice. Then remove all of an opponent's dice showing that symbol.",
+        "ttscardid": "1445",
         "type_code": "event"
     },
     {
@@ -2430,12 +2599,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Jarreau Wimberly",
         "is_unique": false,
         "name": "Heroism",
         "position": 117,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Deal one of your unique characters damage equal to the value of an opponent's die showing damage ([ranged] or [melee]). Then remove that die.",
+        "ttscardid": "1446",
         "type_code": "event"
     },
     {
@@ -2445,12 +2616,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Chris Metcalf",
         "is_unique": false,
         "name": "Noble Sacrifice",
         "position": 118,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Defeat one of your Blue characters to exhaust a character.",
+        "ttscardid": "1447",
         "type_code": "event"
     },
     {
@@ -2460,12 +2633,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Romana Kendelic",
         "is_unique": false,
         "name": "Patience",
         "position": 119,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Remove any number of your dice. Then discard cards from the top of an opponent's deck equal to the number of dice you just removed.",
+        "ttscardid": "1448",
         "type_code": "event"
     },
     {
@@ -2474,13 +2649,16 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
+        "flavor": "\"Pass on what you have learned.\" <cite>Yoda</cite>",
         "has_die": false,
+        "illustrator": "David Nash",
         "is_unique": false,
         "name": "Return of the Jedi",
         "position": 120,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Add a blue event from your discard pile to your hand.",
+        "ttscardid": "1449",
         "type_code": "event"
     },
     {
@@ -2497,6 +2675,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Remove any number of shields from one of your characters. Then deal damage to a character equal to the number of shields you just removed.",
+        "ttscardid": "1450",
         "type_code": "event"
     },
     {
@@ -2506,12 +2685,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Jacob Murray",
         "is_unique": false,
         "name": "Willpower",
         "position": 122,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Move 1 damage from one of your exhausted characters to an opponent's exhausted character (this ignores shields).",
+        "ttscardid": "1451",
         "type_code": "event"
     },
     {
@@ -2521,12 +2702,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "David Auden Nash",
         "is_unique": true,
         "name": "Jedi Council",
         "position": 123,
         "rarity_code": "U",
         "set_code": "AW",
-        "text": "Action - Exhaust this support to look at the top 2 cards of a player's deck. Then you may discard one of those cards and have that player draw the other.",
+        "text": "<b>Action</b> - Exhaust this support to look at the top 2 cards of a player's deck. Then you may discard one of those cards and have that player draw the other.",
+        "ttscardid": "1452",
         "type_code": "support"
     },
     {
@@ -2543,6 +2726,7 @@
         "rarity_code": "S",
         "set_code": "AW",
         "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing a modified side <em>(a side with a +)</em> as if it was not modified <em>(did not have the +).</em>",
+        "ttscardid": "1453",
         "type_code": "support"
     },
     {
@@ -2557,7 +2741,8 @@
         "position": 125,
         "rarity_code": "C",
         "set_code": "AW",
-        "text": "<b>Action</b> - Exhaust this support and discard a Blue card from your hand to play another copy of that card from your hand for free.</em>",
+        "text": "<b>Action</b> - Exhaust this support and discard a Blue card from your hand to play another copy of that card from your hand for free.",
+        "ttscardid": "1454",
         "type_code": "support"
     },
     {
@@ -2574,6 +2759,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Ambush.\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank]).",
+        "ttscardid": "1455",
         "type_code": "event"
     },
     {
@@ -2591,6 +2777,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Each player draws 2 cards.",
+        "ttscardid": "1456",
         "type_code": "event"
     },
     {
@@ -2600,12 +2787,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Arden Beckwith",
         "is_unique": false,
         "name": "Draw Attention",
         "position": 128,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Move up to 2 damage from one of your characters to another one of your characters (this ignores shields).",
+        "ttscardid": "1457",
         "type_code": "event"
     },
     {
@@ -2615,13 +2804,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
-        "illustrator": "Adam Duff",
+        "illustrator": "Adam Burn",
         "is_unique": false,
         "name": "Hyperspace Jump",
         "position": 129,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "End the action phase. You may switch the battlefield with the battlefield that is not being used.",
+        "ttscardid": "1458",
         "type_code": "event"
     },
     {
@@ -2638,6 +2828,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Force an opponent to choose to either deal one of their exausted characters 2 damage or choose and remove 2 of their dice.",
+        "ttscardid": "1459",
         "type_code": "event"
     },
     {
@@ -2654,6 +2845,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Remove one of your character dice to force an opponent to choose and remove 2 of their dice.",
+        "ttscardid": "1460",
         "type_code": "event"
     },
     {
@@ -2663,12 +2855,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Aldo Katayanagi",
         "is_unique": false,
         "name": "Scavenge",
         "position": 132,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Discard the top 3 cards of your deck. Then you may add an upgrade or support from your discard pile to your hand.",
+        "ttscardid": "1461",
         "type_code": "event"
     },
     {
@@ -2678,12 +2872,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Javier Charro Martinez",
         "is_unique": false,
         "name": "Shoot First",
         "position": 133,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Ambush.\nResolve one of your Yellow dice showing ranged damage ([ranged]). Then remove an opponent's die showing ranged damage ([ranged]).",
+        "ttscardid": "1462",
         "type_code": "event"
     },
     {
@@ -2693,12 +2889,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Christopher Burdett",
         "is_unique": false,
         "name": "Smuggling",
         "position": 134,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Spot a Yellow character and discard a card from your hand to gain 1 resource.",
+        "ttscardid": "1463",
         "type_code": "event"
     },
     {
@@ -2714,6 +2912,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "<b>Action</b> - Exhaust this support to reroll one of your Yellow dice. If it rolls a resource ([resource]), gain 1 resource.",
+        "ttscardid": "1464",
         "type_code": "support"
     },
     {
@@ -2723,12 +2922,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "David Kegg",
         "is_unique": false,
         "name": "Street Informants",
         "position": 136,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Ambush.\n<b>Action</b> - Exhaust this support to look at an opponent's hand.",
+        "ttscardid": "1465",
         "type_code": "support"
     },
     {
@@ -2746,6 +2947,7 @@
         "set_code": "AW",
         "subtype_code": "ability",
         "text": "Yellow character only.\nBefore attached character would be defeated, instead heal 5 damage from it and discard this upgrade from play.",
+        "ttscardid": "1466",
         "type_code": "upgrade"
     },
     {
@@ -2755,12 +2957,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Cristi Balanescu",
         "is_unique": false,
         "name": "Award Ceremony",
         "position": 138,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Spot a Red character to draw cards equal to the number of exhausted characters you have.",
+        "ttscardid": "1467",
         "type_code": "event"
     },
     {
@@ -2777,6 +2981,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Play only if you control the battlefield.\nGive 3 shields to your characters, distributed as you wish.",
+        "ttscardid": "1468",
         "type_code": "event"
     },
     {
@@ -2792,6 +2997,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Resolve one of your Red dice showing ranged damage ([ranged]), increasing its value by 1, or by 2 instead if you are resolving a <i>vehicle</i> die.",
+        "ttscardid": "1469",
         "type_code": "event"
     },
     {
@@ -2808,6 +3014,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Exhaust one of your unique Red characters to ready another character.",
+        "ttscardid": "1900",
         "type_code": "event"
     },
     {
@@ -2817,12 +3024,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "David Kegg",
         "is_unique": false,
         "name": "Logistics",
         "position": 142,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Spot a red character to resolve a die with the resource symbol ([resource]), increasing its value by 1.",
+        "ttscardid": "1901",
         "type_code": "event"
     },
     {
@@ -2838,6 +3047,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Activate any number of your non-unique characters at once.",
+        "ttscardid": "1902",
         "type_code": "event"
     },
     {
@@ -2847,12 +3057,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Thomas Wievegg",
         "is_unique": false,
         "name": "Supporting Fire",
         "position": 144,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing ranged damage ([ranged]), increasing its value by 1.",
+        "ttscardid": "1903",
         "type_code": "support"
     },
     {
@@ -2862,12 +3074,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Tiziano Baracchi",
         "is_unique": false,
         "name": "Deflect",
         "position": 145,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Spot a Blue character to remove a die showing ranged damage ([ranged]) and deal half of that damage, rounded up, to a character.",
+        "ttscardid": "1904",
         "type_code": "event"
     },
     {
@@ -2885,6 +3099,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Reroll all dice.",
+        "ttscardid": "1905",
         "type_code": "event"
     },
     {
@@ -2901,6 +3116,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Spot a Blue character to force your opponent to split their dice pool into 2 groups of any size. Choose 1 group and remove all dice in it.",
+        "ttscardid": "1906",
         "type_code": "event"
     },
     {
@@ -2910,12 +3126,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Diego Gisbert Llorens",
         "is_unique": false,
         "name": "The Power of the Force",
         "position": 148,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Resolve one of your dice, treating its value as equal to the number of Blue upgrades you have in play.",
+        "ttscardid": "1907",
         "type_code": "event"
     },
     {
@@ -2933,6 +3151,7 @@
         "rarity_code": "S",
         "set_code": "AW",
         "text": "Spot a Blue character to turn a die to any side.",
+        "ttscardid": "1908",
         "type_code": "event"
     },
     {
@@ -2942,12 +3161,14 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Anthony Devine",
         "is_unique": false,
         "name": "It Binds All Things",
         "position": 150,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Before you play a Blue upgrade, you may exhaust this support to decrease its cost by 1.",
+        "ttscardid": "1909",
         "type_code": "support"
     },
     {
@@ -2957,12 +3178,14 @@
         "deck_limit": 2,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Jessica Savard",
         "is_unique": false,
         "name": "Aim",
         "position": 151,
         "rarity_code": "S",
         "set_code": "AW",
-        "text": "Turn one of your dice to a shide showing ranged damage.",
+        "text": "Turn one of your dice to a side showing ranged damage ([ranged]).",
+        "ttscardid": "1910",
         "type_code": "event"
     },
     {
@@ -2972,12 +3195,14 @@
         "deck_limit": 2,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Jeff Lee Johnson",
         "is_unique": false,
         "name": "All In",
         "position": 152,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Resolve any number of your dice in the order of your choice.",
+        "ttscardid": "1911",
         "type_code": "event"
     },
     {
@@ -2993,6 +3218,7 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Remove all of an opponent's dice showing melee damage.",
+        "ttscardid": "1912",
         "type_code": "event"
     },
     {
@@ -3002,12 +3228,14 @@
         "deck_limit": 2,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Ryan Barger",
         "is_unique": false,
         "name": "Close Quarters Assault",
         "position": 154,
         "rarity_code": "S",
         "set_code": "AW",
-        "text": "Count the number of dice you have showing mele damage. Discard that many random cards from an opponent's hand.",
+        "text": "Count the number of dice you have showing melee damage ([melee]). Discard that many random cards from an opponent's hand.",
+        "ttscardid": "1913",
         "type_code": "event"
     },
     {
@@ -3017,12 +3245,14 @@
         "deck_limit": 2,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Eric Wilkerson",
         "is_unique": false,
         "name": "Dodge",
         "position": 155,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Remove all of an opponent's dice showing ranged damage ([ranged])",
+        "ttscardid": "1914",
         "type_code": "event"
     },
     {
@@ -3032,12 +3262,14 @@
         "deck_limit": 2,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Adam Schumpert",
         "is_unique": false,
         "name": "Flank",
         "position": 156,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice.",
+        "ttscardid": "1915",
         "type_code": "event"
     },
     {
@@ -3054,21 +3286,24 @@
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Give a character 1 shield.",
+        "ttscardid": "1916",
         "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
         "code": "01158",
-        "cost": 0,
+        "cost": 1,
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Jacob Murray",
         "is_unique": false,
         "name": "Disarm",
         "position": 158,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Remove one of your dice showing damage ([melee] or [ranged]) to discard a <i>weapon</i> or <i>equipment</i> from play that costs equal to or less than the value of that die.",
+        "ttscardid": "1917",
         "type_code": "event"
     },
     {
@@ -3085,6 +3320,7 @@
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Spot a Yellow character to remove a die showing a value of 2 or lower.",
+        "ttscardid": "1918",
         "type_code": "event"
     },
     {
@@ -3094,12 +3330,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Ryan Barger",
         "is_unique": false,
         "name": "Reversal",
         "position": 160,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Spot a Yellow character to remove a die showing damage ([melee] or [ranged]) and deal that damage to a character.",
+        "ttscardid": "1919",
         "type_code": "event"
     },
     {
@@ -3109,12 +3347,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Ryan Barger",
         "is_unique": false,
         "name": "Scramble",
         "position": 161,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Spot a Yellow character to reroll all of an opponent's dice.",
+        "ttscardid": "1920",
         "type_code": "event"
     },
     {
@@ -3124,12 +3364,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Kate Laird",
         "is_unique": false,
         "name": "Unpredictable",
         "position": 162,
         "rarity_code": "C",
         "set_code": "AW",
         "text": "Ambush.\nReroll a die (yours or an opponent's).",
+        "ttscardid": "1921",
         "type_code": "event"
     },
     {
@@ -3139,12 +3381,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Tyler Walpole",
         "is_unique": false,
         "name": "Infamous",
         "position": 163,
         "rarity_code": "U",
         "set_code": "AW",
         "text": "Before you play a Yellow card, you may exhaust this support to give it the Ambush keyword.",
+        "ttscardid": "1922",
         "type_code": "support"
     },
     {
@@ -3154,6 +3398,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Jacob Atienza",
         "is_unique": false,
         "name": "Hunker Down",
         "position": 164,
@@ -3161,6 +3406,7 @@
         "set_code": "AW",
         "subtype_code": "ability",
         "text": "If attached character takes melee damage ([melee]), discard this upgrade.\n<b>Action</b> - Exhaust this upgrade to give attached character 1 shield.",
+        "ttscardid": "1923",
         "type_code": "upgrade"
     },
     {
@@ -3169,13 +3415,15 @@
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Mark Molnar",
         "is_unique": false,
         "name": "Command Center",
         "position": 165,
         "rarity_code": "U",
         "set_code": "AW",
         "subtitle": "Lothal",
-        "text": "<b>Claim</b> - Each opponent discards the top 2 cards of their",
+        "text": "<b>Claim</b> - Each opponent discards the top 2 cards of their deck.",
+        "ttscardid": "1800",
         "type_code": "battlefield"
     },
     {
@@ -3184,6 +3432,7 @@
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Darren Tan",
         "is_unique": false,
         "name": "Echo Base",
         "position": 166,
@@ -3191,6 +3440,7 @@
         "set_code": "AW",
         "subtitle": "Hoth",
         "text": "<b>Claim</b> - Give a character 1 shield.",
+        "ttscardid": "1801",
         "type_code": "battlefield"
     },
     {
@@ -3199,6 +3449,7 @@
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Jeff Lee Johnson",
         "is_unique": false,
         "name": "Emperor's Throne Room",
         "position": 167,
@@ -3206,6 +3457,7 @@
         "set_code": "AW",
         "subtitle": "Death Star II",
         "text": "<b>Claim</b> - Turn one of your dice to a side showing a special ability ([special]). Then you may resolve that die.",
+        "ttscardid": "1802",
         "type_code": "battlefield"
     },
     {
@@ -3214,6 +3466,7 @@
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Mark Molnar",
         "is_unique": false,
         "name": "Frozen Wastes",
         "position": 168,
@@ -3221,6 +3474,7 @@
         "set_code": "AW",
         "subtitle": "Starkiller Base",
         "text": "<b>Claim</b> - Remove one character die.",
+        "ttscardid": "1803",
         "type_code": "battlefield"
     },
     {
@@ -3229,6 +3483,7 @@
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "James Combridge",
         "is_unique": false,
         "name": "Imperial Armory",
         "position": 169,
@@ -3236,6 +3491,7 @@
         "set_code": "AW",
         "subtitle": "Death Star",
         "text": "<b>Claim</b> - Play an upgrade from your hand, decreasing its cost by 1.",
+        "ttscardid": "1804",
         "type_code": "battlefield"
     },
     {
@@ -3244,6 +3500,7 @@
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Christer Wibert",
         "is_unique": false,
         "name": "Jedi Temple",
         "position": 170,
@@ -3251,6 +3508,7 @@
         "set_code": "AW",
         "subtitle": "Coruscant",
         "text": "<b>Claim</b> - Look at an opponent's hand and discard up to 2 events of your choice from it.",
+        "ttscardid": "1805",
         "type_code": "battlefield"
     },
     {
@@ -3259,6 +3517,7 @@
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Mark Molnar",
         "is_unique": false,
         "name": "Rebel War Room",
         "position": 171,
@@ -3266,6 +3525,7 @@
         "set_code": "AW",
         "subtitle": "Yavin IV",
         "text": "<b>Claim</b> - Resolve one of your dice. If it has a resource cost, you do not have to pay it.",
+        "ttscardid": "1806",
         "type_code": "battlefield"
     },
     {
@@ -3274,6 +3534,7 @@
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Alex Tooth",
         "is_unique": false,
         "name": "Mos Eisley Spaceport",
         "position": 172,
@@ -3281,6 +3542,7 @@
         "set_code": "AW",
         "subtitle": "Tatooine",
         "text": "<b>Claim</b> - Return one of your upgrades in play to your hand to gain 1 resource.",
+        "ttscardid": "1807",
         "type_code": "battlefield"
     },
     {
@@ -3289,6 +3551,7 @@
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Mark Molnar",
         "is_unique": false,
         "name": "Separatist Base",
         "position": 173,
@@ -3296,6 +3559,7 @@
         "set_code": "AW",
         "subtitle": "Mustafar",
         "text": "<b>Claim</b> - Each opponent chooses and deals 1 unblockable damage to one of their characters.",
+        "ttscardid": "1808",
         "type_code": "battlefield"
     },
     {
@@ -3304,6 +3568,7 @@
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Mark Molnar",
         "is_unique": false,
         "name": "Starship Graveyard",
         "position": 174,
@@ -3311,6 +3576,7 @@
         "set_code": "AW",
         "subtitle": "Jakku",
         "text": "<b>Claim</b> - Choose a support or upgrade in your discard pile and place it on top of your deck.",
+        "ttscardid": "1809",
         "type_code": "battlefield"
     }
 ]

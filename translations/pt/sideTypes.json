@@ -1,38 +1,38 @@
 [
     {
         "code": "-",
-        "name": "Pusta \u015bcianka"
+        "name": "Vazio"
     },
     {
         "code": "Dc",
-        "name": "Odrzucenie"
+        "name": "Descartar"
     },
     {
         "code": "Dr",
-        "name": "Zak\u0142\u00f3cenie"
+        "name": "Interferir"
     },
     {
         "code": "F",
-        "name": "Skupienie"
+        "name": "Foco"
     },
     {
         "code": "MD",
-        "name": "Obra\u017cenia wr\u0119cz"
+        "name": "Dano corpo a corpo"
     },
     {
         "code": "R",
-        "name": "Zasoby"
+        "name": "Recurso"
     },
     {
         "code": "RD",
-        "name": "Obra\u017cenia dystansowe"
+        "name": "Dano a distância"
     },
     {
         "code": "Sh",
-        "name": "Os\u0142ona"
+        "name": "Escudo"
     },
     {
         "code": "Sp",
-        "name": "Specjalny"
+        "name": "Especial"
     }
 ]

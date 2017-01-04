@@ -1,38 +1,38 @@
 [
     {
         "code": "-",
-        "name": "Pusta \u015bcianka"
+        "name": "Üres"
     },
     {
         "code": "Dc",
-        "name": "Odrzucenie"
+        "name": "Eldobás"
     },
     {
         "code": "Dr",
-        "name": "Zak\u0142\u00f3cenie"
+        "name": "Megszakítás"
     },
     {
         "code": "F",
-        "name": "Skupienie"
+        "name": "Fókusz"
     },
     {
         "code": "MD",
-        "name": "Obra\u017cenia wr\u0119cz"
+        "name": "Közelharci"
     },
     {
         "code": "R",
-        "name": "Zasoby"
+        "name": "Erőforrás"
     },
     {
         "code": "RD",
-        "name": "Obra\u017cenia dystansowe"
+        "name": "Távolsági"
     },
     {
         "code": "Sh",
-        "name": "Os\u0142ona"
+        "name": "Pajzs"
     },
     {
         "code": "Sp",
-        "name": "Specjalny"
+        "name": "Különleges"
     }
 ]

@@ -1,22 +1,22 @@
 [
     {
         "code": "C",
-        "name": "Powszechna"
+        "name": "Gyakori"
     },
     {
         "code": "L",
-        "name": "Legendarna"
+        "name": "Legendás"
     },
     {
         "code": "R",
-        "name": "Rzadka"
+        "name": "Ritka"
     },
     {
         "code": "S",
-        "name": "Sta\u0142a"
+        "name": "Kezdőcsomag"
     },
     {
         "code": "U",
-        "name": "Cz\u0119sta"
+        "name": "Nem gyakori"
     }
 ]

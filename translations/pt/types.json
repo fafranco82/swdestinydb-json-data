@@ -1,22 +1,22 @@
 [
     {
         "code": "battlefield",
-        "name": "Pole bitwy"
+        "name": "Campo de Batalha"
     },
     {
         "code": "character",
-        "name": "Postać"
+        "name": "Personagem"
     },
     {
         "code": "event",
-        "name": "Wydarzenie"
+        "name": "Evento"
     },
     {
         "code": "support",
-        "name": "Wsparcie"
+        "name": "Suporte"
     },
     {
         "code": "upgrade",
-        "name": "Ulepszenie"
+        "name": "Melhoria"
     }
 ]

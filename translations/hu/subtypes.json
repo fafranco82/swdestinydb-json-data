@@ -1,22 +1,22 @@
 [
     {
         "code": "ability",
-        "name": "Capacité"
+        "name": "Képesség"
     },
     {
         "code": "droid",
-        "name": "Droide"
+        "name": "Droid"
     },
     {
         "code": "equipment",
-        "name": "Equipement"
+        "name": "Felszerelés"
     },
     {
         "code": "vehicle",
-        "name": "Véhicule"
+        "name": "Jármű"
     },
     {
         "code": "weapon",
-        "name": "Arme"
+        "name": "Fegyver"
     }
 ]

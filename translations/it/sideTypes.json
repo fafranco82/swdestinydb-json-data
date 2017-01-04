@@ -1,38 +1,38 @@
 [
     {
         "code": "-",
-        "name": "Pusta \u015bcianka"
+        "name": "Vuoto"
     },
     {
         "code": "Dc",
-        "name": "Odrzucenie"
+        "name": "Scarto"
     },
     {
         "code": "Dr",
-        "name": "Zak\u0142\u00f3cenie"
+        "name": "Distruzione"
     },
     {
         "code": "F",
-        "name": "Skupienie"
+        "name": "Concentrazione"
     },
     {
         "code": "MD",
-        "name": "Obra\u017cenia wr\u0119cz"
+        "name": "Danno in Mischia"
     },
     {
         "code": "R",
-        "name": "Zasoby"
+        "name": "Risorsa"
     },
     {
         "code": "RD",
-        "name": "Obra\u017cenia dystansowe"
+        "name": "Danno a Distanza"
     },
     {
         "code": "Sh",
-        "name": "Os\u0142ona"
+        "name": "Scudo"
     },
     {
         "code": "Sp",
-        "name": "Specjalny"
+        "name": "Speciale"
     }
 ]
