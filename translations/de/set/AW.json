@@ -1,10 +1,10 @@
 [
     {
         "code": "01001",
-        "flavor": "\"Whatever you're planning, it won't work.\"",
+        "flavor": "\"Meine Truppen werden diesen Blcok stürmen und euch alle töten.\"",
         "name": "Captain Phasma",
-        "subtitle": "Elite Trooper",
-        "text": "Your non-unique characters have the Guardian keyword."
+        "subtitle": "Elitesoldatin",
+        "text": "Deine nicht-einzigartigen Charaktere haben das Schlüsselwort Beschützer."
     },
     {
         "code": "01002",
@@ -14,15 +14,15 @@
     {
         "code": "01003",
         "name": "General Grievous",
-        "subtitle": "Jedi Hunter",
-        "text": "Before an opponent's character is defeated, you may move one of their non-<i>ability</i> upgrades to this character."
+        "subtitle": "Jedi-Jäger",
+        "text": "Bevor ein gegnerischer Charakter besiegt wird, darfst du 1 seiner Nicht-<i>Fähigkeit</i>-Aufwertungen auf diesen Charakter veschieben."
     },
     {
         "code": "01004",
         "flavor": "\"General, bereiten Sie Ihre Truppen für einen Bodenangriff vor.\" <cite>Darth Vader</cite>",
         "name": "General Veers",
         "subtitle": "Feldkommandeur",
-        "text": "<b>Action</b> - Entferne diesen Würfel, um 1 deiner Unterstützungswürfel auf eine beliebige Seite zu drehen."
+        "text": "<b>Aktion</b> - Entferne diesen Würfel, um 1 deiner Unterstützungswürfel auf eine beliebige Seite zu drehen."
     },
     {
         "code": "01005",
@@ -38,7 +38,7 @@
     {
         "code": "01007",
         "name": "Kommandostärke",
-        "text": "Nur rote Charaktäre.\n[special] - Wähle einen roten Würfel. Falls es dein Würfel ist, handle ihn ab und erhöhe dabei seinen Wert um 2. Falls es ein gegnerischer Würfel ist, entferne ihn."
+        "text": "Nur rote Charaktere.\n[special] - Wähle einen roten Würfel. Falls es dein Würfel ist, handle ihn ab und erhöhe dabei seinen Wert um 2. Falls es ein gegnerischer Würfel ist, entferne ihn."
     },
     {
         "code": "01008",
@@ -78,7 +78,7 @@
     {
         "code": "01014",
         "name": "Lähmen",
-        "text": "Nur blaue Charaktäre.\n<b>Action</b> - Entferne diesen Würfel, um einen Würfel auf eine Seite zu drehen, die eine Leerseite ([blank]) zeigt."
+        "text": "Nur blaue Charaktere.\n<b>Action</b> - Entferne diesen Würfel, um einen Würfel auf eine Seite zu drehen, die eine Leerseite ([blank]) zeigt."
     },
     {
         "code": "01015",
@@ -93,23 +93,23 @@
     {
         "code": "01017",
         "name": "Infantriegranaten",
-        "text": "[special] - Deal 2 damage to each of an opponent's characters. Discard this upgrade from play."
+        "text": "[special] - Füge jedem Charakter eines Gegners 2 Schaden zu. Lege diese Aufwertung aus dem Spiel ab."
     },
     {
         "code": "01018",
         "name": "Aufklärungs-Düsenschlitten",
-        "text": "[special] - Remove a die. You may take one additional action."
+        "text": "[special] - Entferne einen Würfel. Du darfst 1 zusätzliche Aktion ausführen."
     },
     {
         "code": "01019",
         "name": "Bala-Tik",
-        "subtitle": "Gang Leader",
-        "text": "After an opponent's character is defeated, you may ready this character."
+        "subtitle": "Bandenchef",
+        "text": "NAchdem ein gegnerischer Charakter besiegt worden ist, darfst du diesen Charakter spielbereit machen."
     },
     {
         "code": "01020",
         "flavor": "\"Er wird mir ein Vergnügen sein, dich sterben zu sehen.\"",
-        "name": "Jabba ter Hutte",
+        "name": "Jabba der Hutte",
         "subtitle": "Der Grosse und Mächtige",
         "text": "Nachdem du diesen Charakter aktiviert hast, darfst du einen gelben Würfel neu werfen."
     },
@@ -123,27 +123,27 @@
     {
         "code": "01022",
         "name": "Tusken-Räuber",
-        "text": "After you activate this character, you may discard a card from your hand to resolve one of its character or upgrade dice."
+        "text": "Nachdem du diesen Charakter aktiviert hast, darfst du eine Karte von deiner Hand ablegen, um 1 seiner Charakter- oder Aufwertungswürfel abzuhandeln."
     },
     {
         "code": "01023",
         "name": "Gangsterboss",
-        "text": "Yellow Character only.\n[special] - Spend 5 resources to choose a character. That character is defeated after this round ends."
+        "text": "Nur gelbe Charaktere. [special] - Gib 5 Ressourcen aus, um einen Charakter zu wählen. Nachdem diese Spielrunde beendet ist, wird der Charakter besiegt."
     },
     {
         "code": "01024",
         "name": "Flammenwerfer",
-        "text": "[special] - Deal 1 damage each to up to 3 different characters."
+        "text": "[special] - Füge bis zu 3 verschiedenen Charakteren 1 Schaden zu."
     },
     {
         "code": "01025",
         "name": "Gaffi-Stab",
-        "text": "Redeploy.\n[special] - Remove one of your dice showing melee damage ([melee]) to deal 3 damage to a character."
+        "text": "Verlegen. (Nachdem ihr Charakter besiegt worden ist, verschiebe diese Karte) \n[special] - Entferne 1 deiner Würfel, der Nahkampfschaden ([melee]) zeigt, um einenm Charakter 3 Schaden zuzufügen"
     },
     {
         "code": "01026",
         "name": "Auf der Jagd",
-        "text": "[special] - Remove all shields from a character. You may spend 1 resource to remove one of its character or upgrade dice."
+        "text": "[special] - Entferne alle Schilde von einem Charakter. Du darfst 1 Ressource ausgeben, um 1 seiner Charakter- oder Aufwertungswürfel zu entfernen."
     },
     {
         "code": "01027",
@@ -153,21 +153,21 @@
     },
     {
         "code": "01028",
-        "flavor": "\"Someone has to save our skins.\"",
+        "flavor": "\"Irgendjemand muss doch was für unsere Rettung tun\"",
         "name": "Leia Organa",
-        "subtitle": "Born Leader",
-        "text": "<b>Action</b> - Remove this die to reroll up to 2 of your dice."
+        "subtitle": "Geborene Anführerin",
+        "text": "<b>Aktion</b> - Entferne diesen Würfel, um bis zu 2 deiner Würfel neu zu werfen."
     },
     {
         "code": "01029",
         "name": "Poe Dameron",
-        "subtitle": "Ace Pilot",
-        "text": "[special] - Discard a card from your hand to resolve one of the sides of its die, if able. Then, if it was a <b>vehicle</b> card, you may pay its cost to play it from your discard pile."
+        "subtitle": "Fliegerass",
+        "text": "[special] - Lege eine Karte von deiner Hand ab, um 1 ihrer Würfelseiten anzuhandeln, falls möglich. Falls es eine <b>Fahrzeug</b>-Karte war, darfst du dann ihre Kosten bezahlen, um sie von deinem Ablagestapel zu spielen."
     },
     {
         "code": "01030",
         "name": "Rebellentruppler",
-        "text": "Guardian."
+        "text": "Guardian. (Bevor du diesen Charakter aktivierst, darfst du einen gegnerischen Würfel, der Schaden zeigt, gegen ihn abhandeln.)"
     },
     {
         "code": "01031",
@@ -176,14 +176,14 @@
     },
     {
         "code": "01032",
-        "flavor": "Poe Dameron's X-Wing was modified to be even more versatile than the standard T-70",
+        "flavor": "Poe Dameron's X-Flügler hatte eine Menge Extras eingebaut, die ihn noch vielseitiger machten als den serienmäßigen T-70.",
         "name": "Schwarz Eins",
-        "text": "[special] - Deal 1 damage to a character. Reroll this die instead of removing it from your pool."
+        "text": "[special] - Füge einen Charakter 1 Schaden zu. Wirf diesen Würfel neu, anstatt ihn aus deinem Pool zu entfernen."
     },
     {
         "code": "01033",
         "name": "Scout",
-        "text": "[special] - Look at an opponent's hand and discard the cheapest card from it (you choose in the case of a tie)."
+        "text": "[special] - Sie dir die Handkarten eines Gegners an und lege die kostengünstigste Karte ab. (Bei Gleichstand wählst du eine aus)."
     },
     {
         "code": "01034",
@@ -200,7 +200,7 @@
     {
         "code": "01036",
         "name": "Padawan",
-        "text": "While this character does not have an upgrade, the cost to attach a <i>weapon</i> to it is decreased by 1."
+        "text": "Solange dieser Charakter keine Aufwertungen hat, sinken die Kosten, um eine <i>Waffe</i> an ihn anzulegen, um 1."
     },
     {
         "code": "01037",
@@ -211,20 +211,20 @@
     },
     {
         "code": "01038",
-        "flavor": "\"I think I can handle myself.\"",
+        "flavor": "\"Ich kann schon ganz gut auf mich aufpassen.\"",
         "name": "Rey",
-        "subtitle": "Force Prodigy",
-        "text": "After you play an upgrade on this character, you may take one additional action."
+        "subtitle": "Machttalent",
+        "text": "Nachdem du eine Aufwertung an diesen Charakter gespielt hast, darfst du 1 zusätzliche Aktion ausführen."
     },
     {
         "code": "01039",
-        "name": "Macht-Schutz",
-        "text": "Blue character only.\n[special] - Give 3 shields to your characters, distributed as you wish."
+        "name": "Machtschutz",
+        "text": "Nur blaue Charaktere.\n[special] - Gib deinen Charakteren 3 Schilde. verteilt wie du möchtest."
     },
     {
         "code": "01040",
         "name": "Jedirobe",
-        "text": "After you play this upgrade, give attached character 1 shield, or 2 shields instead in the first round of play."
+        "text": "Nachdem du diese Auswertung gespielt hast, gib dem aufgewerteten Charakter 1 Schild oder 2 Schilde stattdessen, falls es die erste Spielrunde ist."
     },
     {
         "code": "01041",
@@ -238,40 +238,40 @@
     },
     {
         "code": "01043",
-        "flavor": "\"Orange and white: one of a kind.\" <cite>Poe Dameron</cite>",
+        "flavor": "\"Orange und weiß: ein wahres Unikat\" <cite>Poe Dameron</cite>",
         "name": "BB-8",
-        "text": "[special] - Reroll this die and one of your other dice.  Do not remove this die from your pool after resolving this ability."
+        "text": "[special] - Wirf diesen und 1 anderen deiner Würfel neu. Entferne diesen Würfel nicht aus deinem Pool, nachdem du diese Fähigkeit abgehandelt hast."
     },
     {
         "code": "01044",
         "name": "Rey's Stab",
-        "text": "[special] - Remove a die showing damage ([melee] or [ranged])"
+        "text": "[special] - Entferne einen Wrüfel, der Schaden ([melee] or [ranged]) zeigt."
     },
     {
         "code": "01045",
-        "flavor": "\"I'm not going back.\"",
+        "flavor": "\"Ich werde nie wieder zurückkehren.\"",
         "name": "Finn",
-        "subtitle": "First Order Defector",
-        "text": "You can attach any <i>weapon</i> to this character, ignoring play restrictions.\nYou can include Red Villain <i>weapons</i> and <i>vehicles</i> in your deck."
+        "subtitle": "Überläufer der Ersten Ordnung",
+        "text": "Du kannst beliebige <i>Waffen</i> an diesen Charakter anlegen und dabei Spielbeschränkungen ignorieren.\\Du kannst rot Schurken-<i>Waffen</i> und <i>Fahrzeuge</i> in dein Deck aufnehmen."
     },
     {
         "code": "01046",
-        "flavor": "\"You know, sometimes I amaze even myself.\"",
+        "flavor": "\"Wissen Sie, manchmal übertreffe ich mich noch selbst.\"",
         "name": "Han Solo",
         "subtitle": "Scoundrel",
-        "text": "After you play a card with the Ambush keyword, you may give this character 1 shield."
+        "text": "Nachdem du eine Karte mit dem Schlüsselwort Hinterhalt gespielt hast, darfst du diesem Charakter 1 Schilde geben."
     },
     {
         "code": "01047",
-        "flavor": "\"You needn't worry about your reward. If money is all that you love, then that's what you'll receive.\" <cite>Leia Organa</cite>",
+        "flavor": "\"Wegen Ihrere Belohnung brauchen Sie keine Angst zu haben. Wenn es Ihnen nur um Geld, geht, dann sollen Sie auch nichts weiter kriegen als Geld\" <cite>Leia Organa</cite>",
         "name": "Söldner"
     },
     {
         "code": "01048",
         "flavor": "\"My fate will be no different to that of our people.\"",
         "name": "Padme Amidala",
-        "subtitle": "Queen of Naboo",
-        "text": "[special] - Discard the top card of an opponent's deck or spend 1 resource to discard the top 2 cards of an opponent's deck."
+        "subtitle": "Königin von Naboo",
+        "text": "[special] - Lege die oberste Karte eines gegnerischen Decks ab oder gib 1 Ressource aus, um die obersten 2 Karten eines gegnerischen Decks abzulegen."
     },
     {
         "code": "01049",
@@ -282,17 +282,17 @@
     {
         "code": "01050",
         "name": "Diplomatische Immunität",
-        "text": "The shields from this die can be given to any of your characters distributed as you wish."
+        "text": "Die Schilde dieses Würfels können einem beliebigen deiner Charaktere gegeben werden, verteilt wie du es möchtest."
     },
     {
         "code": "01051",
         "name": "DL-44 Schwere Blasterpistole",
-        "text": "Ambush.\nAfter you play this upgrade, force an opponent to choose and remove one of their dice."
+        "text": "Hinterhalt.(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)\\Nachdem du diese Aufwertung gespielt hast, zwinge einen Gegner dazu 1 seiner Würfel zu wählen und zu entfernen"
     },
     {
         "code": "01052",
         "name": "Infiltration",
-        "text": "[special] - Reroll up to 2 of an opponent's dice."
+        "text": "[special] - Wirf bis zu 2 Würfel eines Gegners neu."
     },
     {
         "code": "01053",
@@ -312,12 +312,12 @@
     {
         "code": "01056",
         "name": "Beförderung",
-        "text": "Red character only.\nAfter you play this upgrade, you may draw a card."
+        "text": "Nur rote Charaktere.\\Nachdem du diese Aufwertung gespielt hast, darfst du eine Karte ziehen."
     },
     {
         "code": "01057",
         "name": "Machtwurf",
-        "text": "Blue Character Only.\n[special] - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeroes)."
+        "text": "Nur blaue Charaktere.\n[special] - Entferne einen Würfel, um einem Charakter Schaden in Höhe des Wertes des entfernten Würfels zu zufügen (Spezial- und Leerseiten zählen als 0)."
     },
     {
         "code": "01058",
@@ -327,12 +327,12 @@
     {
         "code": "01059",
         "name": "Lichtschwert",
-        "text": "Redeploy.\n[special] - Deal 2 unblockable damage to a character."
+        "text": "Verlege. (Nachdem der aufgewertete Charakter besiegt worden ist, verschiebe diese Karte.)\n[special] - Füge einem Charakter 2 nicht-blockierbare Schaden zu."
     },
     {
         "code": "01060",
         "name": "Gedanken Erforschen",
-        "text": "Blue Character only.\n[special] - Deal an opponent's character 1 damage for each card in that opponent's hand."
+        "text": "Nur blaue Charaktere.\n[special] - Füge einem Gegnerischen Charakter 1 Schaden für jede KArte auf der Hand dieses Gegners zu."
     },
     {
         "code": "01061",
@@ -342,7 +342,7 @@
     {
         "code": "01062",
         "name": "Datenpad",
-        "text": "[special] - Turn one of your dice to a side not showing damage ([ranged] or [melee])."
+        "text": "[special] - Drehe 1 deiner Würfel auf eine Seite, die keinen Schaden ([ranged] oder [melee]) zeigt."
     },
     {
         "code": "01063",
@@ -531,7 +531,7 @@
     },
     {
         "code": "01099",
-        "name": "Schlagkräfige Verstärkung",
+        "name": "Schlagkräftige Verstärkung",
         "text": "When you play this support, place 3 damage on it.\n<b>Action</b> - Exhaust this support to move 1 damage from it to a character <em>(this ignores shields)</em>."
     },
     {
@@ -867,60 +867,60 @@
         "code": "01165",
         "name": "Kommandozentrale",
         "subtitle": "Lothal",
-        "text": "<b>Claim</b> - Each opponent discards the top 2 cards of their deck."
+        "text": "<b>Beanspruchen</b> - Jeder Gegner legt die obersten 2 Karten seines Decks ab."
     },
     {
         "code": "01166",
         "name": "Echo-Basis",
         "subtitle": "Hoth",
-        "text": "<b>Claim</b> - Give a character 1 shield."
+        "text": "<b>Beanspruchen</b> - Gib einem Charakter 1 Schild."
     },
     {
         "code": "01167",
         "name": "Thronsaal des Imperators",
-        "subtitle": "Death Star II",
-        "text": "<b>Claim</b> - Turn one of your dice to a side showing a special ability ([special]). Then you may resolve that die."
+        "subtitle": "Zweiter Todesstern",
+        "text": "<b>Beanspruchen</b> - Drehe 1 deiner Würfel auf eine Seite, die Spezialfähigkeit ([special]) zeigt. Dann darfst du diesen Würfel abhandeln."
     },
     {
         "code": "01168",
         "name": "Gefrorenes Ödland",
-        "subtitle": "Starkiller Base",
-        "text": "<b>Claim</b> - Remove one character die."
+        "subtitle": "Starkiller-Basis",
+        "text": "<b>Beanspruchen</b> - Entferne einen Charakterwürfel."
     },
     {
         "code": "01169",
         "name": "Imperiales Arsenal",
-        "subtitle": "Death Star",
-        "text": "<b>Claim</b> - Play an upgrade from your hand, decreasing its cost by 1."
+        "subtitle": "Todesstern",
+        "text": "<b>Beanspruchen</b> - Spiele eine Aufwertung von deiner Hand und senke dabei ihre kosten um 1."
     },
     {
         "code": "01170",
         "name": "Jedi-Tempel",
         "subtitle": "Coruscant",
-        "text": "<b>Claim</b> - Look at an opponent's hand and discard up to 2 events of your choice from it."
+        "text": "<b>Beanspruchen</b> - Sieh dir die Handkarten eines Gegners an und lege bis zu Ereignisse deiner Wahl ab."
     },
     {
         "code": "01171",
         "name": "Lagezentrum der Rebellen",
         "subtitle": "Yavin IV",
-        "text": "<b>Claim</b> - Resolve one of your dice. If it has a resource cost, you do not have to pay it."
+        "text": "<b>Beanspruchen</b> - Handle 1 deiner Würfel ab. Falls er Resourcenkosten hat, musst du sie nicht bezahlen."
     },
     {
         "code": "01172",
         "name": "Mos Eisley Raumhafen",
         "subtitle": "Tatooine",
-        "text": "<b>Claim</b> - Return one of your upgrades in play to your hand to gain 1 resource."
+        "text": "<b>Beanspruchen</b> - Schicke 1 deiner Aufwertungen im Spiel auf die HAnd zurück, um 1 Ressource zu erhalten."
     },
     {
         "code": "01173",
         "name": "Basis der Separatisten",
         "subtitle": "Mustafar",
-        "text": "<b>Claim</b> - Each opponent chooses and deals 1 unblockable damage to one of their characters."
+        "text": "<b>Beanspruchen</b> - Jeder Gegner wählt 1 seiner Charakere und fügt ihm 1 nicht-blockierbaren Schaden zu."
     },
     {
         "code": "01174",
         "name": "Schiffsfriedhof",
         "subtitle": "Jakku",
-        "text": "<b>Claim</b> - Choose a support or upgrade in your discard pile and place it on top of your deck."
+        "text": "<b>Beanspruchen</b> - Wähle eine Unterstützung oder Aufwertung in deinem Ablagestapel und lege sie oben auf dein Deck."
     }
 ]
