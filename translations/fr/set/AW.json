@@ -183,7 +183,7 @@
     {
         "code": "01033",
         "name": "Eclaireur",
-        "text": "[special] - Regardez la main d'un adversaire et défaussez-en la carte la moins chère <i>(vous choisissez en cas d'égalité)</i>."
+        "text": "[special] - Regardez la main d'un adversaire et défaussez-en la carte la moins chère <em>(vous choisissez en cas d'égalité)</em>."
     },
     {
         "code": "01034",
@@ -234,7 +234,7 @@
     {
         "code": "01042",
         "name": "Ne faire qu'un avec la Force",
-        "text": "Personnage Bleu uniquement.\nAvant que le personnage attaché soit vaincu, cette amélioration devient un soutien pour le reste de la partie <i>(elle commence redressée)</i>."
+        "text": "Personnage Bleu uniquement.\nAvant que le personnage attaché soit vaincu, cette amélioration devient un soutien pour le reste de la partie <em>(elle commence redressée)</em>."
     },
     {
         "code": "01043",
@@ -316,7 +316,7 @@
     {
         "code": "01057",
         "name": "Projection de Force",
-        "text": "Personnage Bleu uniquement.\n[special] - Retirez un dé pour infliger à un personnage des dégâts égaux à la valeur indiquée sur ce dé<i>(les faces vierges et spéciales sont égales à zéro)</i>."
+        "text": "Personnage Bleu uniquement.\n[special] - Retirez un dé pour infliger à un personnage des dégâts égaux à la valeur indiquée sur ce dé<em>(les faces vierges et spéciales sont égales à zéro)</em>."
     },
     {
         "code": "01058",
@@ -442,483 +442,484 @@
     },
     {
         "code": "01082",
-        "flavor": "\"Let the hate flow through you.\" <cite>Emperor Palpatine</cite>",
-        "name": "Feel Your Anger",
-        "text": "Count the number of blanks ([blank]) showing on an opponent's dice. Remove that many of their dice."
+        "flavor": "\"Laisse-toi envahir par la haine.\" <cite>Empereur Palpatine</cite>",
+        "name": "Je Sens ta Colère",
+        "text": "Comptez le nombre de faces vierges ([blank]) que montrent les dés d'un adversaire. Retirez autant de ses dés."
     },
     {
         "code": "01083",
-        "name": "Force Strike",
-        "text": "Turn one of your blue dice to the side showing melee damage ([melee]), then you may resolve it immediately."
+        "name": "Coup de la Force",
+        "text": "Tournez un de vos dés Bleus sur une face montrant des dégâts de mêlée ([melee]). Puis vous pouvez résoudre ce dé."
     },
     {
         "code": "01084",
-        "name": "Intimidate",
-        "text": "Remove all shields from a character."
+        "name": "Intimidation",
+        "text": "Retirez tous les boucliers d'un personnage."
     },
     {
         "code": "01085",
-        "name": "Isolation",
-        "text": "Désignez un personnage Bleu pour remove a character die."
+        "name": "Isolement",
+        "text": "Désignez un personnage Bleu pour retirer un dé de personnage."
     },
     {
         "code": "01086",
-        "name": "No Mercy",
-        "text": "Discard any number of Blue cards from your hand. Then resolve one of your dice showing damage ([melee] or [ranged]), increasing its value by 1 for each card you just discarded."
+        "name": "Pas de Pitié",
+        "text": "Défaussez autant de cartes Bleues de votre main que vous le souhaitez. Puis résolvez un de vos dés montrant des dégâts ([melee] or [ranged]) en augmentant de 1 sa valeur pour chaque carte que vous venez de défausser."
     },
     {
         "code": "01087",
-        "name": "Pulling the Strings",
-        "text": "Look at the top 3 cards of any deck. Then place those cards on the top and/or bottom of that deck in any order."
+        "name": "Tirer les Ficelles",
+        "text": "Regardez les 3 premières cartes de n'importe quel deck. Puis placez ces cartes sur et/ou sous ce deck dans n'importe quel ordre."
     },
     {
         "code": "01088",
-        "name": "Emperor's Favor",
-        "text": "Your hand size is increased by 1."
+        "name": "La Faveur de l'Empereur",
+        "text": "La taille de votre main augmente de 1."
     },
     {
         "code": "01089",
-        "flavor": "\"If you only knew the power of the dark side.\" <cite>Darth Vader</cite>",
-        "name": "Power of the Dark Side",
-        "text": "<b>Action</b> - Exaust this support to reroll one of your dice.  If that die rolls a blank ([blank]), deal 2 unblockable damage to a character."
+        "flavor": "\"Si seulement tu connaissais le pouvoir du côté obscur.\" <cite>Dark Vador</cite>",
+        "name": "Le Pouvoir du Côté Obscure",
+        "text": "<b>Action</b> - Inclinez ce soutien pour relancer un de vos dés. Si le résultat de ce dé est vierge ([blank]), infligez 2 dégâts non blocables à un personnage."
     },
     {
         "code": "01090",
-        "name": "Hidden In Shadow",
-        "text": "<b>Action</b> - If the character this card is attached to does not have any shields, you can exhaust this card to place one shield on that character."
+        "name": "Caché dans l'Ombre",
+        "text": "<b>Action</b> - Si le personnage attaché n'a pas de boucliers, inclinez cette amélioration pour lui donner 1 bouclier."
     },
     {
         "code": "01091",
-        "name": "Nowhere to Run",
-        "text": "Turn each of your dice showing a blank to any side."
+        "name": "Nulle Part Où Aller",
+        "text": "Tournez chacun de vos dés montrant une face vierge ([blank]) sur n'importe quelle face."
     },
     {
         "code": "01092",
-        "name": "Ace in the Hole",
-        "text": "Discard a Yellow upgrade from your hand to roll its die into your pool, if able. Set aside that die after it is resolved or removed."
+        "name": "Carte Maîtresse",
+        "text": "Défaussez une amélioration Jaune de votre main pour lancer son dé dans votre réserve. Mettez de côté ce dé après qu'il a été résolu ou retiré."
     },
     {
         "code": "01093",
-        "name": "Armed to the Teeth",
-        "text": "Discard any number of upgrades from one of your Yellow characters. Then deal damage to a character equal to the number of upgrades you just discarded."
+        "name": "Armé Jusqu'aux Dents",
+        "text": "Défaussez autant d'améliorations que vous le souhaitez d'un de vos personnages Jaunes. Puis infligez à un personnage des dégâts égaux au nombre d'améliorations que vous venez de défausser."
     },
     {
         "code": "01094",
         "name": "Confiscation",
-        "text": "Spend resources equal to the cost of an opponent's upgrade in play to return that upgrade to their hand."
+        "text": "Dépensez un nombre de ressources égal au coût d'une amélioration en jeu d'un adversaire pour renvoyer cette amélioration dans sa main."
     },
     {
         "code": "01095",
-        "name": "Fight Dirty",
-        "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed."
+        "name": "Coup Bas",
+        "text": "Retirez autant de vos dés Jaunes que vous le souhaitez. Puis infligez à un personnage des dégâts égaux au nombre de dés que vous venez de retirer."
     },
     {
         "code": "01096",
-        "name": "Go for the Kill",
-        "text": "Resolve one of your dice showing ranged damage ([ranged]), treating this damage as unblockable."
+        "name": "Mise à Mort",
+        "text": "Résolvez un de vos dés montrant des dégâts à distance ([ranged]), en considérant ces dégâts comme non blocables."
     },
     {
         "code": "01097",
-        "flavor": "\"I don't like you, either.\"",
-        "name": "He Doesn't Like You",
-        "text": "Remove one of your dice to remove an opponent's die."
+        "flavor": "\"C'est vrai qu't'as une salle gueule.\"",
+        "name": "Il trouve que t'as une sale gueule",
+        "text": "Retirez un de vos dés pour retirer un dé d'un adversaire."
     },
     {
         "code": "01098",
-        "name": "Lying in Wait",
-        "text": "Force an opponent to discard cards from their hand, until they hold the same amount of cards as you do."
+        "name": "Guet-Apens",
+        "text": "Forcez un adversaire à choisir et à défausser des cartes de sa main jusqu'à ce qu'il en ait le même nombre que vous."
     },
     {
         "code": "01099",
-        "name": "Backup Muscle",
-        "text": "When you play this card place three single damage tokens on it.\n<b>Action</b> - Exhaust this card to move one damage token from it to an opponent's character of your choice."
+        "name": "Renforts musclés",
+        "text": "Placez 3 dégâts sur ce soutien après l'avoir joué.\n<b>Action</b> - Inclinez ce soutient pour déplacer 1 dégât de lui vers un personnage <em>(ignorez les boucliers)</em>."
     },
     {
         "code": "01100",
-        "name": "My Kind of Scum",
-        "text": "After you resolve a die showing disrupt ([disrupt]), you may exhaust this support to gain resources equal to the number of resources your opponent just lost."
+        "name": "Mon Genre de Vaurien",
+        "text": "Après avoir résolu un dé montrant disruption ([disrupt]), vous pouvez incliner ce soutien pour gagner des ressources égales au nombre de ressources que votre adversaire vient de perdre."
     },
     {
         "code": "01101",
-        "name": "Underworld Connections",
-        "text": "<b>Action</b> - Exhaust this support to gain 1 resource"
+        "name": "Liens avec la Pègre",
+        "text": "<b>Action</b> - Inclinez ce soutien pour gagner 1 ressource."
     },
     {
         "code": "01102",
-        "name": "Prized Possession",
-        "text": "After you play this upgrade, you may remove an opponent's character die and place it here. It is not rolled by any character and does not return to its character unless this upgrade leaves play."
+        "name": "Bien Précieux",
+        "text": "Après avoir joué cette amélioration, vous pouvez retirer un dé de personnage d'un adversaire et le placer ici. Il n'est lancé par aucun personnage et n'est pas renvoyé à son personnage, sauf si cette amélioration quitte le jeu."
     },
     {
         "code": "01103",
-        "name": "Commando Raid",
-        "text": "Resolve one of your Red dice showing discard ([discard]), increasing its value by 2. Then draw a card."
+        "name": "Raid Commando",
+        "text": "Résolvez un de vos dés Rouges montrant défausse ([discard]), en augmentant sa valeur de 2. Puis piochez une carte."
     },
     {
         "code": "01104",
-        "name": "Defensive Position",
-        "text": "Play only if you control the battlefield.\nRemove all of an opponent's dice showing a value of 2 or higher."
+        "name": "Position Défensive",
+        "text": "A ne jouer que si vous contrôlez le champ de bataille.\nRetirez tous les dés d'un adversaire montrant une valeur de 2 ou plus."
     },
     {
         "code": "01105",
-        "name": "Field Medic",
-        "text": "Remove 2 damage from a character."
+        "name": "Médecin Militaire",
+        "text": "Soignez 2 dégâts d'un personnage."
     },
     {
         "code": "01106",
-        "name": "Hit and Run",
-        "text": "Embuscade.\nActivate one of your Red characters."
+        "name": "Harcèlement",
+        "text": "Embuscade.\nActivez un de vos personnages Rouges."
     },
     {
         "code": "01107",
-        "name": "It's a Trap!",
-        "text": "Embuscade.\nChoose a symbol showing on an opponent's die. Then turn any number of your Red dice to sides showing that symbol."
+        "name": "C'est un piège !",
+        "text": "Embuscade.\nChoisissez un symbole que montre un dé d'un adversaire. Puis tournez autant de vos dés Rouges que vous le souhaitez sur des faces montrant ce symbole."
     },
     {
         "code": "01108",
-        "name": "Natural Talent",
-        "text": "Resolve one of your dice, increasing its value by 1."
+        "name": "Talent Inné",
+        "text": "Résolvez un de vos dés en augmentant de 1 sa valeur."
     },
     {
         "code": "01109",
-        "name": "Rearm",
-        "text": "Play a Red upgrade from your discard pile, decreasing its cost by 1."
+        "name": "Réarmer",
+        "text": "Jouez une amélioration Rouge de votre pile de défausse en diminuant de 1 son coût."
     },
     {
         "code": "01110",
-        "name": "Retreat",
-        "text": "Your opponent may take 1 action. Then end the action phase."
+        "name": "Retraite",
+        "text": "Votre adversaire peut entreprendre 1 action. Puis mettez fin à la phase d'action."
     },
     {
         "code": "01111",
-        "name": "Strategic Planning",
-        "text": "Ready or exhaust a support."
+        "name": "Planification Stratégique",
+        "text": "Redressez ou inclinez un soutien."
     },
     {
         "code": "01112",
-        "name": "Surgical Strike",
-        "text": "Remove any number of your Red dice showing ranged damage ([ranged]), increasing each of their values by 1, to discard a support from play that costs equal to or less than the combined value of those dice."
+        "name": "Frappe Chirurgicale",
+        "text": "Retirez autant de vos dés Rouges montrant des dégâts à distance ([ranged]) que vous le souhaitez, en augmentant de 1 chacune de leurs valeurs, pour défausser un soutien du jeu ayant un coût inférieur ou égal à la valeur combinée de ces dés."
     },
     {
         "code": "01113",
-        "name": "Resistance HQ",
-        "text": "<b>Action</b> - Exhaust this support and discard a card from your hand to give a character 1 shield. Then ready this support unless an opponent spends 1 resource."
+        "name": "Q.G. de la Résistance",
+        "text": "<b>Action</b> - Inclinez ce soutien et défaussez une carte de votre main pour donner 1 bouclier à un personnage. Puis redressez ce soutien sauf si un adversaire dépense 1 ressource."
     },
     {
         "code": "01114",
-        "name": "Anticipate",
-        "text": "Force an opponent to choose and resolve any number of their dice in the order of their choice. Then remove all of their dice they dit not resolve."
+        "name": "Anticipation",
+        "text": "Forcez un adversaire à choisir et à résoudre autant de ses dés qu'il le souhaite dans l'ordre de son choix. Puis retirez tous ses dés qu'il n'a pas résolus."
     },
     {
         "code": "01115",
-        "name": "Defensive Stance",
-        "text": "Give a character 2 shields."
+        "name": "Posture Défensive",
+        "text": "Donnez 2 boucliers à un personnage."
     },
     {
         "code": "01116",
-        "name": "Force Misdirection",
-        "text": "Choose a symbol showing on one of your Blue dice. Then remove all of an opponent's dice showing that symbol."
+        "name": "Diversion de la Force",
+        "text": "Choisissez un symbole que montre un de vos dés Bleux. Puis retirez tous les dés d'un adversaire montrant ce symbole."
     },
     {
         "code": "01117",
-        "name": "Heroism",
-        "text": "Deal one of your unique characters damage equal to the value of an opponent's die showing damage ([ranged] or [melee]). Then remove that die."
+        "name": "Héroïsme",
+        "text": "Infligez à un de vos personnages uniques des dégâts égaux à la valeur d'un dé d'un adversaire montrant des dégâts ([ranged] or [melee]). Puis retirez ce dé."
     },
     {
         "code": "01118",
         "name": "Noble Sacrifice",
-        "text": "Defeat one of your Blue characters to exhaust a character."
+        "text": "Vainquez un de vos personnages Bleus pour incliner un personnage."
     },
     {
         "code": "01119",
         "name": "Patience",
-        "text": "Remove any number of your dice. Then discard cards from the top of an opponent's deck equal to the number of dice you just removed."
+        "text": "Retirez autant de vos dés que vous le souhaitez. Puis défaussez un nombre de cartes du sommet du deck d'un adversaire égal au nombre de dés que vous venez de retirer."
     },
     {
         "code": "01120",
-        "name": "Return of the Jedi",
-        "text": "Add a blue event from your discard pile to your hand."
+        "flavor": "\"Transmets ce que tu as appris.\" <cite>Yoda</cite>",
+        "name": "Le Retour du Jedi",
+        "text": "Ajoutez un événement Bleu de votre pile de défausse à votre main."
     },
     {
         "code": "01121",
         "name": "Riposte",
-        "text": "Remove any number of shields from one of your characters. Then deal damage to a character equal to the number of shields you just removed."
+        "text": "Retirez autant de boucliers d'un de vos personnages que vous le souhaitez. Puis infligez à un personnage des dégâts égaux au nombre de boucliers que vous venez de retirer."
     },
     {
         "code": "01122",
-        "name": "Willpower",
-        "text": "Move 1 damage from one of your exhausted characters to an opponent's exhausted character (this ignores shields)."
+        "name": "Volonté",
+        "text": "Déplacez 1 dégât d'un de vos personnages inclinés vers un personnage incliné d'un adversaire <em>(ignorez les boucliers)</em>."
     },
     {
         "code": "01123",
-        "name": "Jedi Council",
-        "text": "Action - Exhaust this support to look at the top 2 cards of a player's deck. Then you may discard one of those cards and have that player draw the other."
+        "name": "Conseil Jedi",
+        "text": "<b>Action</b> - Inclinez ce soutien pour regarder les 2 premières cartes du deck d'un joueur. Puis vous pouvez défausser une de ces cartes et faire piocher l'autre à ce joueur."
     },
     {
         "code": "01124",
-        "name": "Awakening",
-        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing a modified side <em>(a side with a +)</em> as if it was not modified <em>(did not have the +).</em>"
+        "name": "Réveil",
+        "text": "<b>Action</b> - Inclinez ce soutien pour résoudre un de vos dés montrant une face modifée <em>(une face avec un +)</em> comme s'il n'était pas modifié <em>(n'avait pas le +).</em>"
     },
     {
         "code": "01125",
-        "name": "The Force is Strong",
-        "text": "<b>Action</b> - Exhaust this support and discard a Blue card from your hand to play another copy of that card from your hand for free.</em>"
+        "name": "La Force est Puissante",
+        "text": "<b>Action</b> - Inclinez ce soutien et défaussez une carte Bleue de votre main pour en jouer gratuitement un autre exemplaire depuis votre main."
     },
     {
         "code": "01126",
-        "name": "Daring Escape",
-        "text": "Embuscade.\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank])."
+        "name": "Fuite Audacieuse",
+        "text": "Embuscade.\nRelancez autant de dés d'un adversaire que vous le souhaitez. Puis retirez tous ses dés montrant des faces vierges ([blank])."
     },
     {
         "code": "01127",
-        "flavor": "\"I got one! I got one!\" <cite>Luke Skywalker</cite>",
-        "name": "Don't Get Cocky",
-        "text": "Each player draws 2 cards."
+        "flavor": "\"J'en ai eu un ! J'en ai eu un !\" <cite>Luke Skywalker</cite>",
+        "name": "Attrape pas la Grosse Tête",
+        "text": "Chaque joueur pioche 2 cartes."
     },
     {
         "code": "01128",
-        "name": "Draw Attention",
-        "text": "Move up to 2 damage from one of your characters to another one of your characters (this ignores shields)."
+        "name": "Attirer l'Attention",
+        "text": "Déplacez jusqu'à 2 dégâts d'un de vos personnages vers un autre de vos personnages <em>(this ignores shields)</em>."
     },
     {
         "code": "01129",
-        "name": "Hyperspace Jump",
-        "text": "End the action phase. You may switch the battlefield with the battlefield that is not being used."
+        "name": "Saut en Hyperespace",
+        "text": "Mettez fin à la phase d'action. Vous pouvez changer le champ de bataille contre le champ de bataille qui n'est pas utilisé."
     },
     {
         "code": "01130",
-        "name": "Let The Wookie Win",
-        "text": "Force an opponent to choose to either deal one of their exausted characters 2 damage or choose and remove 2 of their dice."
+        "name": "Laisse Gagner le Wookie",
+        "text": "Forcez un adversaire à choisir entre : infliger 2 dégâts à l'un de ses personnages inclinés, ou choisir et retirer 2 de ses dés."
     },
     {
         "code": "01131",
-        "name": "Negotiate",
-        "text": "Remove one of your character dice to force an opponent to choose and remove 2 of their dice."
+        "name": "Négocier",
+        "text": "Retirez un de vos dés de personnages pour forcer un adversaire à choisir et à retirer 2 de ses dés."
     },
     {
         "code": "01132",
-        "name": "Scavenge",
-        "text": "Discard the top 3 cards of your deck. Then you may add an upgrade or support from your discard pile to your hand."
+        "name": "Récupération",
+        "text": "Défaussez les 3 premières cartes de votre deck. Puis vous pouvez ajouter à votre main une amélioration ou un soutien de votre pile de défausse."
     },
     {
         "code": "01133",
         "name": "Shoot First",
-        "text": "Embuscade.\nResolve one of your Yellow dice showing ranged damage ([ranged]). Then remove an opponent's die showing ranged damage ([ranged])."
+        "text": "Embuscade.\nRésolvez un de vos dés Jaunes montrant des dégâts à distance ([ranged]). Puis retirez un dé d'un adversaire montrant des dégâts à distance ([ranged])."
     },
     {
         "code": "01134",
-        "name": "Smuggling",
-        "text": "Spot a Yellow character and discard a card from your hand to gain 1 resource."
+        "name": "Contrebande",
+        "text": "Désignez un personnage Jaune et défaussez une carte de votre main pour gagner 1 ressource."
     },
     {
         "code": "01135",
-        "name": "Play the Odds",
-        "text": "<b>Action</b> - Exhaust this support to reroll one of your Yellow dice. If it rolls a resource ([resource]), gain 1 resource."
+        "name": "Tentez le Sort",
+        "text": "<b>Action</b> - Inclinez ce soutien pour relancer un de vos dés Jaunes. Si vous obtenez une face ressource ([resource]), gagnez 1 ressource."
     },
     {
         "code": "01136",
-        "name": "Street Informants",
-        "text": "Embuscade.\n<b>Action</b> - Exhaust this support to look at an opponent's hand."
+        "name": "Indics",
+        "text": "Embuscade.\n<b>Action</b> - Inclinez ce soutien pour regarder la main d'un adversaire."
     },
     {
         "code": "01137",
-        "name": "Second Chance",
-        "text": "Personnage Jaune uniquement.\nBefore attached character would be defeated, instead heal 5 damage from it and discard this upgrade from play."
+        "name": "Deuxième Chance",
+        "text": "Personnage Jaune uniquement.\nAvant que le personnage attaché ne soit censé être vaincu, soignez-le de 5 dégâts et défaussez cette amélioration du jeu."
     },
     {
         "code": "01138",
-        "name": "Award Ceremony",
-        "text": "Désignez un personnage Rouge pour draw cards equal to the number of exhausted characters you have."
+        "name": "Cérémonie Honorifique",
+        "text": "Désignez un personnage Rouge pour piocher un nombre de cartes égal au nombre de personnages inclinés que vous avez."
     },
     {
         "code": "01139",
-        "name": "Dug in",
-        "text": "Play only if you control the battlefield.\nGive 3 shields to your characters, distributed as you wish."
+        "name": "Enfouissement",
+        "text": "A ne jouer que si vous contrôlez le champ de bataille.\nDonnez 3 boucliers à vos personnages, répartis comme vous le souhaitez."
     },
     {
         "code": "01140",
-        "name": "Firepower",
-        "text": "Resolve one of your Red dice showing ranged damage ([ranged]), increasing its value by 1, or by 2 instead if you are resolving a <b>vehicle</b> die."
+        "name": "Puissance de Feu",
+        "text": "Résolvez un de vos dés Rouges montrant des dégâts à distance ([ranged]) en augmentant de 1 sa valeur, ou de 2 si vous résolvez un dé de <b>véhicule</b>."
     },
     {
         "code": "01141",
-        "name": "Leadership",
-        "text": "Exhaust one of your unique Red characters to ready another character."
+        "name": "Commandement",
+        "text": "Inclinez un de vos personnages Rouges uniques pour redresser un autre personnage."
     },
     {
         "code": "01142",
-        "name": "Logistics",
-        "text": "Désignez un personnage Rouge pour resolve a die with the resource symbol ([resource]), increasing its value by 1."
+        "name": "Logistique",
+        "text": "Désignez un personnage Rouge pour résoudre un de vos dés montrant des ressources ([resource]) en augmentant de 1 sa valeur."
     },
     {
         "code": "01143",
-        "name": "Squad Tactics",
-        "text": "Activate any number of your non-unique characters at once."
+        "name": "Tactiques d'Escouade",
+        "text": "Activez sur-le-champ autant de vos personnages non uniques que vous le souhaitez."
     },
     {
         "code": "01144",
-        "name": "Supporting Fire",
-        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing ranged damage ([ranged]), increasing its value by 1."
+        "name": "Tir de Soutien",
+        "text": "<b>Action</b> - Inclinez ce soutien pour résoudre un de vos dés montrant des dégâts à distance ([ranged]) en augmentant de 1 sa valeur."
     },
     {
         "code": "01145",
-        "name": "Deflect",
-        "text": "Désignez un personnage Bleu pour remove a die showing ranged damage ([ranged]) and deal half of that damage, rounded up, to a character."
+        "name": "Déflexion",
+        "text": "Désignez un personnage Bleu pour retirer un dé montrant des dégâts à distance ([ranged]) et infliger la moitié de ces dégâts, arrondis à l'entier supérieur, à un personnage."
     },
     {
         "code": "01146",
-        "flavor": "\"I fear something terrible has happened, as if millions of voices suddenly cried out and were silenced.\" <cite>Obi-Wan Kenobi</cite>",
-        "name": "Disturbance in the Force",
-        "text": "Reroll all dice."
+        "flavor": "\"Comme si des millions de voix avaient soudaiement hurlé de terreur, puis s'étaient éteintes aussitôt. Comme si un drame terrible s'était produit.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Bouleversement de la Force",
+        "text": "Relancez tous les dés."
     },
     {
         "code": "01147",
-        "name": "Mind Trick",
-        "text": "Désignez un personnage Bleu pour force your opponent to split their dice pool into 2 groups of any size. Choose 1 group and remove all dice in it."
+        "name": "Ruse Mentale",
+        "text": "Désignez un personnage Bleu pour forcer un adversaire à répartir sa réserve de dés en 2 groupes de n'importe quelle taille. Choisissez 1 groupe et retirez-en tous les dés."
     },
     {
         "code": "01148",
-        "name": "The Power of the Force",
-        "text": "Resolve one of your dice, treating its value as equal to the number of Blue upgrades you have in play."
+        "name": "Le Pouvoir de la Force",
+        "text": "Résolvez un de vos dés, en considérant que sa valeur est égale au nombre d'améliorations Bleues que vous avez en jeu."
     },
     {
         "code": "01149",
-        "flavor": "\"The Force will be with you, always.\" <cite>Obi-Wan Kenobi",
-        "name": "Use The Force",
-        "text": "Désignez un personnage Bleu pour turn a die to any side."
+        "flavor": "\"Que la force soit avec toi... à jamais.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Fais Appel à la Force",
+        "text": "Désignez un personnage Bleu pour tourner un dé sur n'importe quelle face."
     },
     {
         "code": "01150",
-        "name": "It Binds All Things",
-        "text": "Before you play a Blue upgrade, you may exhaust this support to decrease its cost by 1."
+        "name": "La Force Lie Toute Chose",
+        "text": "Avant de jouer une amélioration Bleue, vous pouvez incliner ce soutien pour diminuer de 1 son coût."
     },
     {
         "code": "01151",
-        "name": "Aim",
-        "text": "Turn one of your dice to a shide showing ranged damage."
+        "name": "Viser",
+        "text": "Tournez un de vos dés sur un face montrant des dégâts à distance ([ranged])."
     },
     {
         "code": "01152",
-        "name": "All In",
-        "text": "Resolve any number of your dice in the order of your choice."
+        "name": "Tous Ensemble",
+        "text": "Résolvez autant de vos dés que vous le souhaitez dans l'ordre de votre choix."
     },
     {
         "code": "01153",
-        "name": "Block",
-        "text": "Remove all of an opponent's dice showing melee damage."
+        "name": "Blocage",
+        "text": "Retirez tous les dés d'un adversaire montrant des dégâts de mêlée ([melee])."
     },
     {
         "code": "01154",
-        "name": "Close Quarters Assault",
-        "text": "Count the number of dice you have showing mele damage. Discard that many random cards from an opponent's hand."
+        "name": "Assaut au Corps à Corps",
+        "text": "Comptez le nombre de dés que vous avez montrant des dégâts de mêlée ([melee]). Défaussez autant de cartes au hasard de la main d'un adversaire."
     },
     {
         "code": "01155",
-        "name": "Dodge",
-        "text": "Remove all of an opponent's dice showing ranged damage ([ranged])"
+        "name": "Esquive",
+        "text": "Retirez tous les dés d'un adversaire montrant des dégâts à distance ([ranged])."
     },
     {
         "code": "01156",
-        "name": "Flank",
-        "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice."
+        "name": "Prise en Tenaille",
+        "text": "A ne jouer que si vous avez plus de personnages qu'un adversaire.\nRetirez un des dés de cet adversaire."
     },
     {
         "code": "01157",
-        "name": "Take Cover",
-        "text": "Give a character 1 shield."
+        "name": "A l'Abri",
+        "text": "Donnez 1 bouclier à un personnage."
     },
     {
         "code": "01158",
-        "name": "Disarm",
-        "text": "Remove one of your dice showing damage ([melee] or [ranged]) to discard a <b>weapon</b> or <b>equipment</b> from play that costs equal to or less than the value of that die."
+        "name": "Désarmement",
+        "text": "Retirez un de vos dés montrant des dégâts ([melee] or [ranged]) pour défausser du jeu une <b>arme</b> ou un <b>équipement</b> dont le coût est inférieur ou égal à la valeur de ce dé."
     },
     {
         "code": "01159",
-        "name": "Electroshock",
-        "text": "Désignez un personnage Jaune pour remove a die showing a value of 2 or lower."
+        "name": "Choc Electrique",
+        "text": "Désignez un personnage Jaune pour retirez un dé montrant une valeur de 2 ou moins."
     },
     {
         "code": "01160",
-        "name": "Reversal",
-        "text": "Désignez un personnage Jaune pour remove a die showing damage ([melee] or [ranged]) and deal that damage to a character."
+        "name": "Revers",
+        "text": "Désignez un personnage Jaune pour retirer un dé montrant des dégâts ([melee] or [ranged]) et infliger ces dégâts à un personnage."
     },
     {
         "code": "01161",
-        "name": "Scramble",
-        "text": "Désignez un personnage Jaune pour reroll all of an opponent's dice."
+        "name": "Brouillage",
+        "text": "Désignez un personnage Jaune pour relancer tous les dés d'un adversaire."
     },
     {
         "code": "01162",
-        "name": "Unpredictable",
-        "text": "Embuscade.\nReroll a die (yours or an opponent's)."
+        "name": "Imprévisible",
+        "text": "Embuscade.\nRelancer un dé <em>(à vous ou à votre adversaire)</em>."
     },
     {
         "code": "01163",
-        "name": "Infamous",
-        "text": "Before you play a Yellow card, you may exhaust this support to give it the Embuscade keyword."
+        "name": "Infâme",
+        "text": "Avant de jouer une carte Jaune, vous pouvez incliner ce soutien pour lui donner le mot-clé Embuscade."
     },
     {
         "code": "01164",
-        "name": "Hunker Down",
-        "text": "If attached character takes melee damage ([melee]), discard this upgrade.\n<b>Action</b> - Exhaust this upgrade to give attached character 1 shield."
+        "name": "Baissez-vous !",
+        "text": "Si le personnage attaché subit des dégâts de mêlée ([melee]), défaussez cette amélioration.\n<b>Action</b> - Inclinez cette amélioration pour donner 1 bouclier au personnage attaché."
     },
     {
         "code": "01165",
-        "name": "Command Center",
+        "name": "Centre de Commandement",
         "subtitle": "Lothal",
-        "text": "<b>Claim</b> - Each opponent discards the top 2 cards of their"
+        "text": "<b>Capture</b> - Chaque adversaire défausse les 2 premières cartes de son deck."
     },
     {
         "code": "01166",
-        "name": "Echo Base",
+        "name": "Base Echo",
         "subtitle": "Hoth",
-        "text": "<b>Claim</b> - Give a character 1 shield."
+        "text": "<b>Capture</b> - Donnez 1 bouclier à un personnage."
     },
     {
         "code": "01167",
-        "name": "Emperor's Throne Room",
-        "subtitle": "Death Star II",
-        "text": "<b>Claim</b> - Turn one of your dice to a side showing a special ability ([special]). Then you may resolve that die."
+        "name": "Salle du Trône de l'Empereur",
+        "subtitle": "Etoile Noire II",
+        "text": "<b>Capture</b> - Tournez un de vos dés sur un face montrant une capacité spéciale ([special]). Puis vous pouvez résoudre ce dé."
     },
     {
         "code": "01168",
-        "name": "Frozen Wastes",
-        "subtitle": "Starkiller Base",
-        "text": "<b>Claim</b> - Remove one character die."
+        "name": "Désolations Gelées",
+        "subtitle": "Base Starkiller",
+        "text": "<b>Capture</b> - Retirez un dé de personnage."
     },
     {
         "code": "01169",
-        "name": "Imperial Armory",
-        "subtitle": "Death Star",
-        "text": "<b>Claim</b> - Play an upgrade from your hand, decreasing its cost by 1."
+        "name": "Arsenal Impérial",
+        "subtitle": "Etoile Noire",
+        "text": "<b>Capture</b> - Jouez une amélioration de votre main en diminuant de 1 son coût."
     },
     {
         "code": "01170",
-        "name": "Jedi Temple",
+        "name": "Temple Jedi",
         "subtitle": "Coruscant",
-        "text": "<b>Claim</b> - Look at an opponent's hand and discard up to 2 events of your choice from it."
+        "text": "<b>Capture</b> - Regardez la main d'un adversaire et défaussez en jusqu'à 2 événements de votre choix."
     },
     {
         "code": "01171",
-        "name": "Rebel War Room",
+        "name": "Centre de Commandement Rebelle",
         "subtitle": "Yavin IV",
-        "text": "<b>Claim</b> - Resolve one of your dice. If it has a resource cost, you do not have to pay it."
+        "text": "<b>Capture</b> - Résolvez un de vos dés. S'il a un coût en ressources, vous n'avez pas à le payer."
     },
     {
         "code": "01172",
-        "name": "Mos Eisley Spaceport",
+        "name": "Spatioport de Mos Eisley",
         "subtitle": "Tatooine",
-        "text": "<b>Claim</b> - Return one of your upgrades in play to your hand to gain 1 resource."
+        "text": "<b>Capture</b> - Renvoyez une de vos améliorations en jeu dans votre main pour gagner 1 ressource."
     },
     {
         "code": "01173",
-        "name": "Separatist Base",
+        "name": "Base Separatiste",
         "subtitle": "Mustafar",
-        "text": "<b>Claim</b> - Each opponent chooses and deals 1 unblockable damage to one of their characters."
+        "text": "<b>Capture</b> - Chaque adversaire choisit et inflige 1 dégât non blocable à l'un de ses personnages."
     },
     {
         "code": "01174",
-        "name": "Starship Graveyard",
+        "name": "Cimetière d'Epaves",
         "subtitle": "Jakku",
-        "text": "<b>Claim</b> - Choose a support or upgrade in your discard pile and place it on top of your deck."
+        "text": "<b>Capture</b> - Choisissez un soutien ou une amélioration dans votre pile de défausse et placez-le sur le dessus de votre deck."
     }
 ]
