@@ -66,8 +66,8 @@
     },
     {
         "code": "01012",
-        "flavor": "Las hermanas nocturas son expertas en manipular la Fuerza para sus propios fines.",
-        "name": "Hermana noctura",
+        "flavor": "Las hermanas nocturnas son expertas en manipular la Fuerza para sus propios fines.",
+        "name": "Hermana nocturna",
         "text": "<b>Acción</b> - Vuelve a tirar un dado. Inflige 1 punto de daño a este Personaje."
     },
     {
