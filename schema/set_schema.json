@@ -2,10 +2,24 @@
     "additionalProperties": false,
     "properties": {
         "cgdb_id_end": {
-            "type": "integer"
+            "oneOf": [
+                {
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "cgdb_id_start": {
-            "type": "integer"
+            "oneOf": [
+                {
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "code": {
             "minLength": 1,
