@@ -1,0 +1,38 @@
+[
+    {
+        "code": "-",
+        "name": "Vazio"
+    },
+    {
+        "code": "Dc",
+        "name": "Descartar"
+    },
+    {
+        "code": "Dr",
+        "name": "Interferir"
+    },
+    {
+        "code": "F",
+        "name": "Foco"
+    },
+    {
+        "code": "MD",
+        "name": "Dano corpo a corpo"
+    },
+    {
+        "code": "R",
+        "name": "Recurso"
+    },
+    {
+        "code": "RD",
+        "name": "Dano a distância"
+    },
+    {
+        "code": "Sh",
+        "name": "Escudo"
+    },
+    {
+        "code": "Sp",
+        "name": "Especial"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "code": "ability",
+        "name": "Habilidade"
+    },
+    {
+        "code": "droid",
+        "name": "Droide"
+    },
+    {
+        "code": "equipment",
+        "name": "Equipamento"
+    },
+    {
+        "code": "vehicle",
+        "name": "Veículo"
+    },
+    {
+        "code": "weapon",
+        "name": "Arma"
+    }
+]

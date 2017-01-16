@@ -1,0 +1,18 @@
+[
+    {
+        "code": "blue",
+        "name": "Erő"
+    },
+    {
+        "code": "gray",
+        "name": "Egyéb"
+    },
+    {
+        "code": "red",
+        "name": "Hadsereg"
+    },
+    {
+        "code": "yellow",
+        "name": "Szerencsevadász"
+    }
+]
