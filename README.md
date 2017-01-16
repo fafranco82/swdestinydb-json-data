@@ -104,3 +104,5 @@ Pre-requisites:
  * `npm -g install coffee-script`
 
 Usage: `coffee update_locales.coffee [language code]`
+
+(NOTE: a folder with the language code must exists in `translations` folder)

@@ -1,14 +1,14 @@
 [
     {
         "code": "hero",
-        "name": "Héros"
+        "name": "Held"
     },
     {
         "code": "neutral",
-        "name": "Neutre"
+        "name": "Neutral"
     },
     {
         "code": "villain",
-        "name": "Antagoniste"
+        "name": "Schurke"
     }
 ]

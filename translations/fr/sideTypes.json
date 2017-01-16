@@ -1,38 +1,38 @@
 [
     {
         "code": "-",
-        "name": "Blank"
+        "name": "Vierge"
     },
     {
         "code": "Dc",
-        "name": "Discard"
+        "name": "Défausse"
     },
     {
         "code": "Dr",
-        "name": "Disrupt"
+        "name": "Disruption"
     },
     {
         "code": "F",
-        "name": "Focus"
+        "name": "Concentration"
     },
     {
         "code": "MD",
-        "name": "Melee Damage"
+        "name": "Dégât de Mêlée"
     },
     {
         "code": "R",
-        "name": "Resource"
+        "name": "Ressource"
     },
     {
         "code": "RD",
-        "name": "Ranged Damage"
+        "name": "Dégât à Distance"
     },
     {
         "code": "Sh",
-        "name": "Shield"
+        "name": "Bouclier"
     },
     {
         "code": "Sp",
-        "name": "Special"
+        "name": "Spéciale"
     }
 ]

@@ -1,0 +1,47 @@
+[
+    {
+        "code": "-",
+        "icon": "blank",
+        "name": "Blank"
+    },
+    {
+        "code": "Dc",
+        "icon": "discard",
+        "name": "Discard"
+    },
+    {
+        "code": "Dr",
+        "icon": "disrupt",
+        "name": "Disrupt"
+    },
+    {
+        "code": "F",
+        "icon": "focus",
+        "name": "Focus"
+    },
+    {
+        "code": "MD",
+        "icon": "melee",
+        "name": "Melee Damage"
+    },
+    {
+        "code": "R",
+        "icon": "resource",
+        "name": "Resource"
+    },
+    {
+        "code": "RD",
+        "icon": "ranged",
+        "name": "Ranged Damage"
+    },
+    {
+        "code": "Sh",
+        "icon": "shield",
+        "name": "Shield"
+    },
+    {
+        "code": "Sp",
+        "icon": "special",
+        "name": "Special"
+    }
+]

@@ -1,0 +1,926 @@
+[
+    {
+        "code": "01001",
+        "flavor": "\"Meine Truppen werden diesen Blcok stürmen und euch alle töten.\"",
+        "name": "Captain Phasma",
+        "subtitle": "Elitesoldatin",
+        "text": "Deine nicht-einzigartigen Charaktere haben das Schlüsselwort Beschützer."
+    },
+    {
+        "code": "01002",
+        "flavor": "Die Mitglieder dieser neuen Generation von Sturmtruppen werden von ihrer Geburt an gedrillt. Unter Einfluss der ständigen Propaganda der Ersten Ordnung wurde ihre absolute Loyalität sichergestellt.",
+        "name": "Sturmtruppler der Ersten Ordnung"
+    },
+    {
+        "code": "01003",
+        "name": "General Grievous",
+        "subtitle": "Jedi-Jäger",
+        "text": "Bevor ein gegnerischer Charakter besiegt wird, darfst du 1 seiner Nicht-<i>Fähigkeit</i>-Aufwertungen auf diesen Charakter veschieben."
+    },
+    {
+        "code": "01004",
+        "flavor": "\"General, bereiten Sie Ihre Truppen für einen Bodenangriff vor.\" <cite>Darth Vader</cite>",
+        "name": "General Veers",
+        "subtitle": "Feldkommandeur",
+        "text": "<b>Aktion</b> - Entferne diesen Würfel, um 1 deiner Unterstützungswürfel auf eine beliebige Seite zu drehen."
+    },
+    {
+        "code": "01005",
+        "flavor": "The All Terrain Scout Transport filled both support and reconnaissance roles in the Galactic Empire's war machine.",
+        "name": "AT-ST",
+        "text": "[special] - Discard a support from play."
+    },
+    {
+        "code": "01006",
+        "name": "TIE-Jäger der Ersten Ordnung",
+        "text": "[special] - Entferne alle Schilde von allen Charaktären eines Gegners."
+    },
+    {
+        "code": "01007",
+        "name": "Kommandostärke",
+        "text": "Nur rote Charaktere.\n[special] - Wähle einen roten Würfel. Falls es dein Würfel ist, handle ihn ab und erhöhe dabei seinen Wert um 2. Falls es ein gegnerischer Würfel ist, entferne ihn."
+    },
+    {
+        "code": "01008",
+        "name": "F-11D-Blaster-Gewehr",
+        "text": "Verlegen. (Nachdem ihr Charakter besiegt worden ist, verschiebe diese Karte.) \n[special] - Zwinge einen Gegner dazu, seinen Charaktären 2 Schaden zuzufügen. Der Gegner verteilt den Schaden, wei er möchte."
+    },
+    {
+        "code": "01009",
+        "name": "Count Dooku",
+        "subtitle": "Verschlagener Stratege",
+        "text": "Bevor diesem Charakter 1 oder mehr Schaden zugefügt wird, darfst du eine Karte von deiner Hand ablegen, um ihm 1 Schild zu geben."
+    },
+    {
+        "code": "01010",
+        "flavor": "\"Wenn du nicht kämpfen willst, ist dein Schicksal besiegelt\"",
+        "name": "Darth Vader",
+        "subtitle": "Sith-Lord",
+        "text": "Nachdem du diesen Charakter aktiviert hast, darfst du einen Gegner dazu zwingen, eine Karte von seine Hand zu wählen und abzulegen."
+    },
+    {
+        "code": "01011",
+        "name": "Kylo Ren",
+        "subtitle": "Vaders Nachfolger",
+        "text": "[special] - Wähle einen gegnerischen Charakter. Sieh dir dann eine zufällige Karte auf der Hand dieses Gegners an und füge den gewählten Charakter Schaden in Höhe der Kosten der Karte zu, die du dir gerade angesehen hast."
+    },
+    {
+        "code": "01012",
+        "flavor": "Nightsisters deftly manipulate the Force to serve their own ends.",
+        "name": "Schwester der Nacht",
+        "text": "<b>Action</b> - Reroll a die. Deal 1 damage to this character."
+    },
+    {
+        "code": "01013",
+        "name": "Macht-Würgegriff",
+        "text": "Blue character only.\n[special] - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side."
+    },
+    {
+        "code": "01014",
+        "name": "Lähmen",
+        "text": "Nur blaue Charaktere.\n<b>Action</b> - Entferne diesen Würfel, um einen Würfel auf eine Seite zu drehen, die eine Leerseite ([blank]) zeigt."
+    },
+    {
+        "code": "01015",
+        "name": "Kylo Ren's Lichtschwert",
+        "text": "Blue character only.\n[special] - Deal 2 damage to a character. If any of this damage is blocked by shields, reroll this die instead of removing it from your pool."
+    },
+    {
+        "code": "01016",
+        "name": "Sith-Holocron",
+        "text": "[special] - Switch this upgrade with a Blue <i>ability</i> upgrade in your hand, ignoring its play restrictions. Then you may spend 1 resource to roll its die into your pool, if able."
+    },
+    {
+        "code": "01017",
+        "name": "Infantriegranaten",
+        "text": "[special] - Füge jedem Charakter eines Gegners 2 Schaden zu. Lege diese Aufwertung aus dem Spiel ab."
+    },
+    {
+        "code": "01018",
+        "name": "Aufklärungs-Düsenschlitten",
+        "text": "[special] - Entferne einen Würfel. Du darfst 1 zusätzliche Aktion ausführen."
+    },
+    {
+        "code": "01019",
+        "name": "Bala-Tik",
+        "subtitle": "Bandenchef",
+        "text": "NAchdem ein gegnerischer Charakter besiegt worden ist, darfst du diesen Charakter spielbereit machen."
+    },
+    {
+        "code": "01020",
+        "flavor": "\"Er wird mir ein Vergnügen sein, dich sterben zu sehen.\"",
+        "name": "Jabba der Hutte",
+        "subtitle": "Der Grosse und Mächtige",
+        "text": "Nachdem du diesen Charakter aktiviert hast, darfst du einen gelben Würfel neu werfen."
+    },
+    {
+        "code": "01021",
+        "flavor": "\"Diesesmal darf kein Fehler mehr geschehen.\"",
+        "name": "Jango Fett",
+        "subtitle": "Gefährlicher Söldner",
+        "text": "Nachdem ein Gegner einen Charakter aktiviert hat, darfst du diesen Charakter aktivieren."
+    },
+    {
+        "code": "01022",
+        "name": "Tusken-Räuber",
+        "text": "Nachdem du diesen Charakter aktiviert hast, darfst du eine Karte von deiner Hand ablegen, um 1 seiner Charakter- oder Aufwertungswürfel abzuhandeln."
+    },
+    {
+        "code": "01023",
+        "name": "Gangsterboss",
+        "text": "Nur gelbe Charaktere. [special] - Gib 5 Ressourcen aus, um einen Charakter zu wählen. Nachdem diese Spielrunde beendet ist, wird der Charakter besiegt."
+    },
+    {
+        "code": "01024",
+        "name": "Flammenwerfer",
+        "text": "[special] - Füge bis zu 3 verschiedenen Charakteren 1 Schaden zu."
+    },
+    {
+        "code": "01025",
+        "name": "Gaffi-Stab",
+        "text": "Verlegen. (Nachdem ihr Charakter besiegt worden ist, verschiebe diese Karte) \n[special] - Entferne 1 deiner Würfel, der Nahkampfschaden ([melee]) zeigt, um einenm Charakter 3 Schaden zuzufügen"
+    },
+    {
+        "code": "01026",
+        "name": "Auf der Jagd",
+        "text": "[special] - Entferne alle Schilde von einem Charakter. Du darfst 1 Ressource ausgeben, um 1 seiner Charakter- oder Aufwertungswürfel zu entfernen."
+    },
+    {
+        "code": "01027",
+        "name": "Admiral Ackbar",
+        "subtitle": "Perceptive Tactician",
+        "text": "After an opponent plays or discards the last card from their hand, they choose and deal 2 damage to one of their characters."
+    },
+    {
+        "code": "01028",
+        "flavor": "\"Irgendjemand muss doch was für unsere Rettung tun\"",
+        "name": "Leia Organa",
+        "subtitle": "Geborene Anführerin",
+        "text": "<b>Aktion</b> - Entferne diesen Würfel, um bis zu 2 deiner Würfel neu zu werfen."
+    },
+    {
+        "code": "01029",
+        "name": "Poe Dameron",
+        "subtitle": "Fliegerass",
+        "text": "[special] - Lege eine Karte von deiner Hand ab, um 1 ihrer Würfelseiten anzuhandeln, falls möglich. Falls es eine <b>Fahrzeug</b>-Karte war, darfst du dann ihre Kosten bezahlen, um sie von deinem Ablagestapel zu spielen."
+    },
+    {
+        "code": "01030",
+        "name": "Rebellentruppler",
+        "text": "Guardian. (Bevor du diesen Charakter aktivierst, darfst du einen gegnerischen Würfel, der Schaden zeigt, gegen ihn abhandeln.)"
+    },
+    {
+        "code": "01031",
+        "name": "Hangar",
+        "text": "The X on this die is equal to the number of cards in your hand."
+    },
+    {
+        "code": "01032",
+        "flavor": "Poe Dameron's X-Flügler hatte eine Menge Extras eingebaut, die ihn noch vielseitiger machten als den serienmäßigen T-70.",
+        "name": "Schwarz Eins",
+        "text": "[special] - Füge einen Charakter 1 Schaden zu. Wirf diesen Würfel neu, anstatt ihn aus deinem Pool zu entfernen."
+    },
+    {
+        "code": "01033",
+        "name": "Scout",
+        "text": "[special] - Sie dir die Handkarten eines Gegners an und lege die kostengünstigste Karte ab. (Bei Gleichstand wählst du eine aus)."
+    },
+    {
+        "code": "01034",
+        "flavor": "To hide from the Empire, the rebels must often brave harsh environments.",
+        "name": "Überlebensausrüstung"
+    },
+    {
+        "code": "01035",
+        "flavor": "\"I am a Jedi, like my father before me.\"",
+        "name": "Luke Skywalker",
+        "subtitle": "Jedi Knight",
+        "text": "After you activate this character, draw a card."
+    },
+    {
+        "code": "01036",
+        "name": "Padawan",
+        "text": "Solange dieser Charakter keine Aufwertungen hat, sinken die Kosten, um eine <i>Waffe</i> an ihn anzulegen, um 1."
+    },
+    {
+        "code": "01037",
+        "flavor": "\"Your focus determines your reality.\"",
+        "name": "Qui-Gon Jinn",
+        "subtitle": "Ataru Master",
+        "text": "Before this character gains 1 or more shields, you may remove 1 of his shields to deal 1 damage to a character."
+    },
+    {
+        "code": "01038",
+        "flavor": "\"Ich kann schon ganz gut auf mich aufpassen.\"",
+        "name": "Rey",
+        "subtitle": "Machttalent",
+        "text": "Nachdem du eine Aufwertung an diesen Charakter gespielt hast, darfst du 1 zusätzliche Aktion ausführen."
+    },
+    {
+        "code": "01039",
+        "name": "Machtschutz",
+        "text": "Nur blaue Charaktere.\n[special] - Gib deinen Charakteren 3 Schilde. verteilt wie du möchtest."
+    },
+    {
+        "code": "01040",
+        "name": "Jedirobe",
+        "text": "Nachdem du diese Auswertung gespielt hast, gib dem aufgewerteten Charakter 1 Schild oder 2 Schilde stattdessen, falls es die erste Spielrunde ist."
+    },
+    {
+        "code": "01041",
+        "name": "Luke Skywalker's Lichtschwert",
+        "text": "Blue character only.\n[special] - Give a character 2 shields or deal 2 unblockable damage to a character."
+    },
+    {
+        "code": "01042",
+        "name": "Eins mit der Macht",
+        "text": "Blue character only.\nBefore attached character is defeated, this upgrade becomes a support for the rest of the game (it starts ready)."
+    },
+    {
+        "code": "01043",
+        "flavor": "\"Orange und weiß: ein wahres Unikat\" <cite>Poe Dameron</cite>",
+        "name": "BB-8",
+        "text": "[special] - Wirf diesen und 1 anderen deiner Würfel neu. Entferne diesen Würfel nicht aus deinem Pool, nachdem du diese Fähigkeit abgehandelt hast."
+    },
+    {
+        "code": "01044",
+        "name": "Rey's Stab",
+        "text": "[special] - Entferne einen Wrüfel, der Schaden ([melee] or [ranged]) zeigt."
+    },
+    {
+        "code": "01045",
+        "flavor": "\"Ich werde nie wieder zurückkehren.\"",
+        "name": "Finn",
+        "subtitle": "Überläufer der Ersten Ordnung",
+        "text": "Du kannst beliebige <i>Waffen</i> an diesen Charakter anlegen und dabei Spielbeschränkungen ignorieren.\\Du kannst rot Schurken-<i>Waffen</i> und <i>Fahrzeuge</i> in dein Deck aufnehmen."
+    },
+    {
+        "code": "01046",
+        "flavor": "\"Wissen Sie, manchmal übertreffe ich mich noch selbst.\"",
+        "name": "Han Solo",
+        "subtitle": "Scoundrel",
+        "text": "Nachdem du eine Karte mit dem Schlüsselwort Hinterhalt gespielt hast, darfst du diesem Charakter 1 Schilde geben."
+    },
+    {
+        "code": "01047",
+        "flavor": "\"Wegen Ihrere Belohnung brauchen Sie keine Angst zu haben. Wenn es Ihnen nur um Geld, geht, dann sollen Sie auch nichts weiter kriegen als Geld\" <cite>Leia Organa</cite>",
+        "name": "Söldner"
+    },
+    {
+        "code": "01048",
+        "flavor": "\"My fate will be no different to that of our people.\"",
+        "name": "Padme Amidala",
+        "subtitle": "Königin von Naboo",
+        "text": "[special] - Lege die oberste Karte eines gegnerischen Decks ab oder gib 1 Ressource aus, um die obersten 2 Karten eines gegnerischen Decks abzulegen."
+    },
+    {
+        "code": "01049",
+        "flavor": "\"She may not look like much, but she's got it where it counts.\" <cite>Han Solo</cite>",
+        "name": "Millenium Falcon",
+        "text": "[special] - Play a Yellow event from your discard pile or hand for free."
+    },
+    {
+        "code": "01050",
+        "name": "Diplomatische Immunität",
+        "text": "Die Schilde dieses Würfels können einem beliebigen deiner Charaktere gegeben werden, verteilt wie du es möchtest."
+    },
+    {
+        "code": "01051",
+        "name": "DL-44 Schwere Blasterpistole",
+        "text": "Hinterhalt.(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)\\Nachdem du diese Aufwertung gespielt hast, zwinge einen Gegner dazu 1 seiner Würfel zu wählen und zu entfernen"
+    },
+    {
+        "code": "01052",
+        "name": "Infiltration",
+        "text": "[special] - Wirf bis zu 2 Würfel eines Gegners neu."
+    },
+    {
+        "code": "01053",
+        "name": "Außenposten",
+        "text": "[special] - Resolve the battlefield ability as if you had just claimed it."
+    },
+    {
+        "code": "01054",
+        "flavor": "The weapon of choice for rebel soldiers and imperial officers alike during the Galactic Civil War.",
+        "name": "DH-17-Blasterpistole"
+    },
+    {
+        "code": "01055",
+        "name": "IQA-11-Blastergewehr",
+        "text": "[special] - Deal 2 unblockable damage to a character."
+    },
+    {
+        "code": "01056",
+        "name": "Beförderung",
+        "text": "Nur rote Charaktere.\\Nachdem du diese Aufwertung gespielt hast, darfst du eine Karte ziehen."
+    },
+    {
+        "code": "01057",
+        "name": "Machtwurf",
+        "text": "Nur blaue Charaktere.\n[special] - Entferne einen Würfel, um einem Charakter Schaden in Höhe des Wertes des entfernten Würfels zu zufügen (Spezial- und Leerseiten zählen als 0)."
+    },
+    {
+        "code": "01058",
+        "name": "Macht-Ausbildung",
+        "text": "To play, spot a Blue character.\n[special] - Choose and do two of the following: deal 1 damage to a character, or gain 1 resource, or give a character 1 shield."
+    },
+    {
+        "code": "01059",
+        "name": "Lichtschwert",
+        "text": "Verlege. (Nachdem der aufgewertete Charakter besiegt worden ist, verschiebe diese Karte.)\n[special] - Füge einem Charakter 2 nicht-blockierbare Schaden zu."
+    },
+    {
+        "code": "01060",
+        "name": "Gedanken Erforschen",
+        "text": "Nur blaue Charaktere.\n[special] - Füge einem Gegnerischen Charakter 1 Schaden für jede KArte auf der Hand dieses Gegners zu."
+    },
+    {
+        "code": "01061",
+        "name": "Komlink",
+        "text": "After you play this upgrade, you may reroll any number of your dice or any number of an opponent's dice."
+    },
+    {
+        "code": "01062",
+        "name": "Datenpad",
+        "text": "[special] - Drehe 1 deiner Würfel auf eine Seite, die keinen Schaden ([ranged] oder [melee]) zeigt."
+    },
+    {
+        "code": "01063",
+        "name": "Miniblaster",
+        "text": "Ambush. Redeploy."
+    },
+    {
+        "code": "01064",
+        "name": "Schwarzmarkt",
+        "text": "[special] - Draw 2 cards. You may play an upgrade from your hand, decreasing its cost by 1."
+    },
+    {
+        "code": "01065",
+        "name": "Gerissenheit",
+        "text": "Yellow character only.\n[special] - Resolve a special ability ([special]) on another card in play as if it were your card."
+    },
+    {
+        "code": "01066",
+        "name": "Jetpack",
+        "text": "[special] - Remove a die showing melee damage ([melee]) and give attached character 1 shield."
+    },
+    {
+        "code": "01067",
+        "name": "Thermaldetonator",
+        "text": "To play, spot a Yellow character.\n[special] - Deal 3 damage to each of an opponent's characters. Discard this upgrade from play."
+    },
+    {
+        "code": "01068",
+        "name": "Kanonenfutter",
+        "text": "Deal one of your non-unique characters damage equal to the value of an opponent's die showing damage ([melee] or [ranged]). Then remove that die."
+    },
+    {
+        "code": "01069",
+        "name": "Die Schlinge zieht sich zu",
+        "text": "Force an opponent to choose and remove one of their dice. You may place this event on the bottom of your deck instead of discarding it."
+    },
+    {
+        "code": "01070",
+        "flavor": "Battle droids are less effective than flesh and blood soldiers, but they are also much cheaper to replace.",
+        "name": "Endlose Reserven",
+        "text": "Return one of your defeated non-unique Red characters to the game with no damage on it."
+    },
+    {
+        "code": "01071",
+        "name": "Besatzung",
+        "text": "Play only if you control the battlefield.\nForce an opponent to lose all of their resources."
+    },
+    {
+        "code": "01072",
+        "name": "Sondieren",
+        "text": "Look at two random cards from your opponent's hand and discard any of these cards that are events."
+    },
+    {
+        "code": "01073",
+        "name": "Durchkämmt die Gegend",
+        "text": "Count the number of ready Red characters you have. Reroll that many of an opponent's dice."
+    },
+    {
+        "code": "01074",
+        "name": "Taktische Überlegenheit",
+        "text": "Spot a Red character to take up to 2 additional actions."
+    },
+    {
+        "code": "01075",
+        "flavor": "\"There they are! Blast them!\"",
+        "name": "Die beste Verteidigung...",
+        "text": "Deal one of your Red characters 3 damage to remove up to 2 of an opponent's dice."
+    },
+    {
+        "code": "01076",
+        "name": "Knochenarbeit",
+        "text": "<b>Action</b> - Exhaust this support and one of your characters to gain 1 resource."
+    },
+    {
+        "code": "01077",
+        "name": "Lokale Garnision",
+        "text": "Each opponent gains 1 fewer resource during each upkeep phase to a minimum of 1."
+    },
+    {
+        "code": "01078",
+        "name": "Persönliche Eskorte",
+        "text": "Attached character has the Guardian keyword."
+    },
+    {
+        "code": "01079",
+        "name": "LAsst alle Hoffnung fahren",
+        "text": "Force an opponent to choose to either lose all of their resources or discard all cards in their hand."
+    },
+    {
+        "code": "01080",
+        "name": "Grenzenloser Ehrgeiz",
+        "text": "Draw cards up to your hand size."
+    },
+    {
+        "code": "01081",
+        "name": "Wutausbruch",
+        "text": "Deal 1 damage to one of your Blue characters to gain 1 resource."
+    },
+    {
+        "code": "01082",
+        "flavor": "\"Let the hate flow through you.\" <cite>Emperor Palpatine</cite>",
+        "name": "Spüre deinen Zorn",
+        "text": "Count the number of blanks ([blank]) showing on an opponent's dice. Remove that many of their dice."
+    },
+    {
+        "code": "01083",
+        "name": "Machthieb",
+        "text": "Turn one of your Blue dice to the side showing melee damage ([melee]). Then you may resolve that die."
+    },
+    {
+        "code": "01084",
+        "name": "Einschüchtern",
+        "text": "Remove all shields from a character."
+    },
+    {
+        "code": "01085",
+        "name": "Isolation",
+        "text": "Spot a Blue character to remove a character die."
+    },
+    {
+        "code": "01086",
+        "name": "Gnadenlos",
+        "text": "Discard any number of Blue cards from your hand. Then resolve one of your dice showing damage ([melee] or [ranged]), increasing its value by 1 for each card you just discarded."
+    },
+    {
+        "code": "01087",
+        "name": "Die Fäden ziehen",
+        "text": "Look at the top 3 cards of any deck. Then place those cards on the top and/or bottom of that deck in any order."
+    },
+    {
+        "code": "01088",
+        "name": "Gunst des Imperators",
+        "text": "Your hand size is increased by 1."
+    },
+    {
+        "code": "01089",
+        "flavor": "\"If you only knew the power of the dark side.\" <cite>Darth Vader</cite>",
+        "name": "Die Überlegenheit der Dunklen Seite",
+        "text": "<b>Action</b> - Exaust this support to reroll one of your dice.  If that die rolls a blank ([blank]), deal 2 unblockable damage to a character."
+    },
+    {
+        "code": "01090",
+        "name": "Umhüllt von Schatten",
+        "text": "<b>Action</b> - If attached character has no shields, exhaust this upgrade to give it 1 shield."
+    },
+    {
+        "code": "01091",
+        "name": "Kein Entkommen",
+        "text": "Turn each of your dice showing a blank ([blank]) to any side."
+    },
+    {
+        "code": "01092",
+        "name": "Ass im Ärmel",
+        "text": "Discard a Yellow upgrade from your hand to roll its die into your pool, if able. Set aside that die after it is resolved or removed."
+    },
+    {
+        "code": "01093",
+        "name": "Bis an die Zähne bewaffnet",
+        "text": "Discard any number of upgrades from one of your Yellow characters. Then deal damage to a character equal to the number of upgrades you just discarded."
+    },
+    {
+        "code": "01094",
+        "name": "Beschlagnahmung",
+        "text": "Spend resources equal to the cost of an opponent's upgrade in play to return that upgrade to their hand."
+    },
+    {
+        "code": "01095",
+        "name": "Schmutzige Tricks",
+        "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed."
+    },
+    {
+        "code": "01096",
+        "name": "Todesschuss",
+        "text": "Resolve one of your dice showing ranged damage ([ranged]), treating this damage as unblockable."
+    },
+    {
+        "code": "01097",
+        "flavor": "\"I don't like you, either.\"",
+        "name": "Du gefällst ihm nicht",
+        "text": "Remove one of your dice to remove an opponent's die."
+    },
+    {
+        "code": "01098",
+        "name": "Auf der Lauer",
+        "text": "Force an opponent to choose and discard cards from their hand down to the number of cards you have in your hand."
+    },
+    {
+        "code": "01099",
+        "name": "Schlagkräftige Verstärkung",
+        "text": "When you play this support, place 3 damage on it.\n<b>Action</b> - Exhaust this support to move 1 damage from it to a character <em>(this ignores shields)</em>."
+    },
+    {
+        "code": "01100",
+        "name": "Ein Halunke nach meinem Geschmack",
+        "text": "After you resolve a die showing disrupt ([disrupt]), you may exhaust this support to gain resources equal to the number of resources your opponent just lost."
+    },
+    {
+        "code": "01101",
+        "name": "Kontakte zur Unterwelt",
+        "text": "<b>Action</b> - Exhaust this support to gain 1 resource."
+    },
+    {
+        "code": "01102",
+        "name": "Wertvollster Besitz",
+        "text": "After you play this upgrade, you may remove an opponent's character die and place it here. It is not rolled by any character and does not return to its character unless this upgrade leaves play."
+    },
+    {
+        "code": "01103",
+        "name": "Kommandoeinsatz",
+        "text": "Resolve one of your Red dice showing discard ([discard]), increasing its value by 2. Then draw a card."
+    },
+    {
+        "code": "01104",
+        "name": "Verteidgungsstellung",
+        "text": "Play only if you control the battlefield.\nRemove all of an opponent's dice showing a value of 2 or higher."
+    },
+    {
+        "code": "01105",
+        "name": "Sanitäter",
+        "text": "Remove 2 damage from a character."
+    },
+    {
+        "code": "01106",
+        "name": "Guerillataktik",
+        "text": "Ambush.\nActivate one of your Red characters."
+    },
+    {
+        "code": "01107",
+        "name": "Es ist eine Falle!",
+        "text": "Ambush.\nChoose a symbol showing on an opponent's die. Then turn any number of your Red dice to sides showing that symbol."
+    },
+    {
+        "code": "01108",
+        "name": "Naturtalent",
+        "text": "Resolve one of your dice, increasing its value by 1."
+    },
+    {
+        "code": "01109",
+        "name": "Wiederbewaffnung",
+        "text": "Play a Red upgrade from your discard pile, decreasing its cost by 1."
+    },
+    {
+        "code": "01110",
+        "name": "Rückzug",
+        "text": "Your opponent may take 1 action. Then end the action phase."
+    },
+    {
+        "code": "01111",
+        "name": "Strategische Planung",
+        "text": "Ready or exhaust a support."
+    },
+    {
+        "code": "01112",
+        "name": "Präzisionsschlag",
+        "text": "Remove any number of your Red dice showing ranged damage ([ranged]), increasing each of their values by 1, to discard a support from play that costs equal to or less than the combined value of those dice."
+    },
+    {
+        "code": "01113",
+        "name": "Hauptquartier des Widerstands",
+        "text": "<b>Action</b> - Exhaust this support and discard a card from your hand to give a character 1 shield. Then ready this support unless an opponent spends 1 resource."
+    },
+    {
+        "code": "01114",
+        "name": "Vorausahnung",
+        "text": "Force an opponent to choose and resolve any number of their dice in the order of their choice. Then remove all of their dice they did not resolve."
+    },
+    {
+        "code": "01115",
+        "name": "Verteidigungshaltung",
+        "text": "Give a character 2 shields."
+    },
+    {
+        "code": "01116",
+        "name": "Machtfinte",
+        "text": "Choose a symbol showing on one of your Blue dice. Then remove all of an opponent's dice showing that symbol."
+    },
+    {
+        "code": "01117",
+        "name": "Heldenmut",
+        "text": "Deal one of your unique characters damage equal to the value of an opponent's die showing damage ([ranged] or [melee]). Then remove that die."
+    },
+    {
+        "code": "01118",
+        "name": "Selbstloses Opfer",
+        "text": "Defeat one of your Blue characters to exhaust a character."
+    },
+    {
+        "code": "01119",
+        "name": "Geduld",
+        "text": "Remove any number of your dice. Then discard cards from the top of an opponent's deck equal to the number of dice you just removed."
+    },
+    {
+        "code": "01120",
+        "flavor": "\"Pass on what you have learned.\" <cite>Yoda</cite>",
+        "name": "Rückkehr der Jediritter",
+        "text": "Add a blue event from your discard pile to your hand."
+    },
+    {
+        "code": "01121",
+        "name": "Riposte",
+        "text": "Remove any number of shields from one of your characters. Then deal damage to a character equal to the number of shields you just removed."
+    },
+    {
+        "code": "01122",
+        "name": "Willenskraft",
+        "text": "Move 1 damage from one of your exhausted characters to an opponent's exhausted character (this ignores shields)."
+    },
+    {
+        "code": "01123",
+        "name": "Der Rat der Jedi",
+        "text": "<b>Action</b> - Exhaust this support to look at the top 2 cards of a player's deck. Then you may discard one of those cards and have that player draw the other."
+    },
+    {
+        "code": "01124",
+        "name": "Das Erwachen",
+        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing a modified side <em>(a side with a +)</em> as if it was not modified <em>(did not have the +).</em>"
+    },
+    {
+        "code": "01125",
+        "name": "Die Macht ist Stark",
+        "text": "<b>Action</b> - Exhaust this support and discard a Blue card from your hand to play another copy of that card from your hand for free."
+    },
+    {
+        "code": "01126",
+        "name": "Tollkühne Flucht",
+        "text": "Ambush.\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank])."
+    },
+    {
+        "code": "01127",
+        "flavor": "\"I got one! I got one!\" <cite>Luke Skywalker</cite>",
+        "name": "Werd' nicht übermutig",
+        "text": "Each player draws 2 cards."
+    },
+    {
+        "code": "01128",
+        "name": "Aufmerksamkeit ablenken",
+        "text": "Move up to 2 damage from one of your characters to another one of your characters (this ignores shields)."
+    },
+    {
+        "code": "01129",
+        "name": "Sprung in den Hyperraum",
+        "text": "End the action phase. You may switch the battlefield with the battlefield that is not being used."
+    },
+    {
+        "code": "01130",
+        "name": "Lass den Wookiee gewinnen",
+        "text": "Force an opponent to choose to either deal one of their exausted characters 2 damage or choose and remove 2 of their dice."
+    },
+    {
+        "code": "01131",
+        "name": "Verhandeln",
+        "text": "Remove one of your character dice to force an opponent to choose and remove 2 of their dice."
+    },
+    {
+        "code": "01132",
+        "name": "Schrott sammeln",
+        "text": "Discard the top 3 cards of your deck. Then you may add an upgrade or support from your discard pile to your hand."
+    },
+    {
+        "code": "01133",
+        "name": "Zuerst schießen",
+        "text": "Ambush.\nResolve one of your Yellow dice showing ranged damage ([ranged]). Then remove an opponent's die showing ranged damage ([ranged])."
+    },
+    {
+        "code": "01134",
+        "name": "Schmuggeln",
+        "text": "Spot a Yellow character and discard a card from your hand to gain 1 resource."
+    },
+    {
+        "code": "01135",
+        "name": "Mit dem Glück spielen",
+        "text": "<b>Action</b> - Exhaust this support to reroll one of your Yellow dice. If it rolls a resource ([resource]), gain 1 resource."
+    },
+    {
+        "code": "01136",
+        "name": "Straßenkontakte",
+        "text": "Ambush.\n<b>Action</b> - Exhaust this support to look at an opponent's hand."
+    },
+    {
+        "code": "01137",
+        "name": "Zweite Chance",
+        "text": "Yellow character only.\nBefore attached character would be defeated, instead heal 5 damage from it and discard this upgrade from play."
+    },
+    {
+        "code": "01138",
+        "name": "Ordensverleihung",
+        "text": "Spot a Red character to draw cards equal to the number of exhausted characters you have."
+    },
+    {
+        "code": "01139",
+        "name": "Schützengraben",
+        "text": "Play only if you control the battlefield.\nGive 3 shields to your characters, distributed as you wish."
+    },
+    {
+        "code": "01140",
+        "name": "Feuerkraft",
+        "text": "Resolve one of your Red dice showing ranged damage ([ranged]), increasing its value by 1, or by 2 instead if you are resolving a <i>vehicle</i> die."
+    },
+    {
+        "code": "01141",
+        "name": "Führungsstärke",
+        "text": "Exhaust one of your unique Red characters to ready another character."
+    },
+    {
+        "code": "01142",
+        "name": "Logistik",
+        "text": "Spot a red character to resolve a die with the resource symbol ([resource]), increasing its value by 1."
+    },
+    {
+        "code": "01143",
+        "name": "Truppenbewegung",
+        "text": "Activate any number of your non-unique characters at once."
+    },
+    {
+        "code": "01144",
+        "name": "Sperrfeuer",
+        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing ranged damage ([ranged]), increasing its value by 1."
+    },
+    {
+        "code": "01145",
+        "name": "Schüsse ablenken",
+        "text": "Spot a Blue character to remove a die showing ranged damage ([ranged]) and deal half of that damage, rounded up, to a character."
+    },
+    {
+        "code": "01146",
+        "flavor": "\"I fear something terrible has happened, as if millions of voices suddenly cried out and were silenced.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Erschütterung der Macht",
+        "text": "Reroll all dice."
+    },
+    {
+        "code": "01147",
+        "name": "Geistestrick",
+        "text": "Spot a Blue character to force your opponent to split their dice pool into 2 groups of any size. Choose 1 group and remove all dice in it."
+    },
+    {
+        "code": "01148",
+        "name": "Die Stärke der Macht",
+        "text": "Resolve one of your dice, treating its value as equal to the number of Blue upgrades you have in play."
+    },
+    {
+        "code": "01149",
+        "flavor": "\"The Force will be with you, always.\" <cite>Obi-Wan Kenobi",
+        "name": "Nutze die Macht",
+        "text": "Spot a Blue character to turn a die to any side."
+    },
+    {
+        "code": "01150",
+        "name": "Es hält die Galaxis zusammen",
+        "text": "Before you play a Blue upgrade, you may exhaust this support to decrease its cost by 1."
+    },
+    {
+        "code": "01151",
+        "name": "Zielen",
+        "text": "Turn one of your dice to a side showing ranged damage ([ranged])."
+    },
+    {
+        "code": "01152",
+        "name": "Gemeinsam sind wir stark",
+        "text": "Resolve any number of your dice in the order of your choice."
+    },
+    {
+        "code": "01153",
+        "name": "Parieren",
+        "text": "Remove all of an opponent's dice showing melee damage."
+    },
+    {
+        "code": "01154",
+        "name": "Handgemenge",
+        "text": "Count the number of dice you have showing melee damage ([melee]). Discard that many random cards from an opponent's hand."
+    },
+    {
+        "code": "01155",
+        "name": "Ausweichen",
+        "text": "Remove all of an opponent's dice showing ranged damage ([ranged])"
+    },
+    {
+        "code": "01156",
+        "name": "In den Rücken fallen",
+        "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice."
+    },
+    {
+        "code": "01157",
+        "name": "In Deckung gehen",
+        "text": "Give a character 1 shield."
+    },
+    {
+        "code": "01158",
+        "name": "Entwaffnen",
+        "text": "Remove one of your dice showing damage ([melee] or [ranged]) to discard a <i>weapon</i> or <i>equipment</i> from play that costs equal to or less than the value of that die."
+    },
+    {
+        "code": "01159",
+        "name": "Elektroschock",
+        "text": "Spot a Yellow character to remove a die showing a value of 2 or lower."
+    },
+    {
+        "code": "01160",
+        "name": "Den Spieß umdrehen",
+        "text": "Spot a Yellow character to remove a die showing damage ([melee] or [ranged]) and deal that damage to a character."
+    },
+    {
+        "code": "01161",
+        "name": "Sensoren stören",
+        "text": "Spot a Yellow character to reroll all of an opponent's dice."
+    },
+    {
+        "code": "01162",
+        "name": "Unvorhersehbar",
+        "text": "Ambush.\nReroll a die (yours or an opponent's)."
+    },
+    {
+        "code": "01163",
+        "name": "Berüchtigt",
+        "text": "Before you play a Yellow card, you may exhaust this support to give it the Ambush keyword."
+    },
+    {
+        "code": "01164",
+        "name": "Verschanzen",
+        "text": "If attached character takes melee damage ([melee]), discard this upgrade.\n<b>Action</b> - Exhaust this upgrade to give attached character 1 shield."
+    },
+    {
+        "code": "01165",
+        "name": "Kommandozentrale",
+        "subtitle": "Lothal",
+        "text": "<b>Beanspruchen</b> - Jeder Gegner legt die obersten 2 Karten seines Decks ab."
+    },
+    {
+        "code": "01166",
+        "name": "Echo-Basis",
+        "subtitle": "Hoth",
+        "text": "<b>Beanspruchen</b> - Gib einem Charakter 1 Schild."
+    },
+    {
+        "code": "01167",
+        "name": "Thronsaal des Imperators",
+        "subtitle": "Zweiter Todesstern",
+        "text": "<b>Beanspruchen</b> - Drehe 1 deiner Würfel auf eine Seite, die Spezialfähigkeit ([special]) zeigt. Dann darfst du diesen Würfel abhandeln."
+    },
+    {
+        "code": "01168",
+        "name": "Gefrorenes Ödland",
+        "subtitle": "Starkiller-Basis",
+        "text": "<b>Beanspruchen</b> - Entferne einen Charakterwürfel."
+    },
+    {
+        "code": "01169",
+        "name": "Imperiales Arsenal",
+        "subtitle": "Todesstern",
+        "text": "<b>Beanspruchen</b> - Spiele eine Aufwertung von deiner Hand und senke dabei ihre kosten um 1."
+    },
+    {
+        "code": "01170",
+        "name": "Jedi-Tempel",
+        "subtitle": "Coruscant",
+        "text": "<b>Beanspruchen</b> - Sieh dir die Handkarten eines Gegners an und lege bis zu Ereignisse deiner Wahl ab."
+    },
+    {
+        "code": "01171",
+        "name": "Lagezentrum der Rebellen",
+        "subtitle": "Yavin IV",
+        "text": "<b>Beanspruchen</b> - Handle 1 deiner Würfel ab. Falls er Resourcenkosten hat, musst du sie nicht bezahlen."
+    },
+    {
+        "code": "01172",
+        "name": "Mos Eisley Raumhafen",
+        "subtitle": "Tatooine",
+        "text": "<b>Beanspruchen</b> - Schicke 1 deiner Aufwertungen im Spiel auf die HAnd zurück, um 1 Ressource zu erhalten."
+    },
+    {
+        "code": "01173",
+        "name": "Basis der Separatisten",
+        "subtitle": "Mustafar",
+        "text": "<b>Beanspruchen</b> - Jeder Gegner wählt 1 seiner Charakere und fügt ihm 1 nicht-blockierbaren Schaden zu."
+    },
+    {
+        "code": "01174",
+        "name": "Schiffsfriedhof",
+        "subtitle": "Jakku",
+        "text": "<b>Beanspruchen</b> - Wähle eine Unterstützung oder Aufwertung in deinem Ablagestapel und lege sie oben auf dein Deck."
+    }
+]

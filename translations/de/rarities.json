@@ -1,22 +1,22 @@
 [
     {
         "code": "C",
-        "name": "Commune"
+        "name": "Häufig"
     },
     {
         "code": "L",
-        "name": "Légendaire"
+        "name": "Legendär"
     },
     {
         "code": "R",
-        "name": "Rare"
+        "name": "Selten"
     },
     {
         "code": "S",
-        "name": "Starter"
+        "name": "Feststehend"
     },
     {
         "code": "U",
-        "name": "Uncommon"
+        "name": "Ungewöhnlich"
     }
 ]

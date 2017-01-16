@@ -7,5 +7,14 @@
         "name": "Awakenings",
         "position": 1,
         "size": 174
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "SoR",
+        "date_release": null,
+        "name": "Spirit of Rebellion",
+        "position": 2,
+        "size": 160
     }
 ]

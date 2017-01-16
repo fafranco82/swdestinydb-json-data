@@ -1,4 +1,4 @@
-[	
+[
     {
         "code": "01001",
         "flavor": "\"Non puoi essere così stupido da pensare che sarà facile.\"",
@@ -78,7 +78,7 @@
     {
         "code": "01014",
         "name": "Immobilizzare",
-        "text": "Solo personaggi blu.\n<b>Azione</b> - Rimuovi questo dado per girare 1 dado su una faccia ""vuoto"" ([blank])."
+        "text": "Solo personaggi blu.\n<b>Azione</b> - Rimuovi questo dado per girare 1 dado su una faccia vuoto ([blank])."
     },
     {
         "code": "01015",
@@ -242,7 +242,6 @@
         "name": "BB-8",
         "text": "[special] - Ripeti il tiro di questo dado e di 1 altro tuo dado. Dopo che hai risolto questa capacità, non rimuovere questo dado dalla tua riserva."
     },
-
     {
         "code": "01044",
         "name": "Bastone di Rey",
@@ -536,7 +535,7 @@
         "name": "Spalle Protette",
         "text": "Dopo che hai giocato questo supporto, colloca 3 danni su di esso.\n<b>Azione</b> - Esaurisci questo supporto per spostare 1 danno da esso a un personaggio <em>(ignorando gli scudi).</em>"
     },
-	{
+    {
         "code": "01100",
         "name": "La Razza di Feccia Che Mi Piace",
         "text": "Dopo che hai risolto 1 dado \"distruzione\" ([disrupt]), puoi esaurire questo supporto per ottenere un ammontare di risorse pari al numero di risorse appena perse dal tuo avversario."
@@ -626,7 +625,7 @@
         "name": "Eroismo",
         "text": "Infliggi un ammontare di danni pari al valore di 1 dado \"danno\" ([ranged] o [melee]) di un avversario a un tuo personaggio unico, poi rimuovi quel dado."
     },
-    { 
+    {
         "code": "01118",
         "name": "Nobile Sacrificio",
         "text": "Sconfiggi 1 tuo personaggio blu per esaurire 1 personaggio."
@@ -758,7 +757,7 @@
         "name": "Tattiche di Squadra",
         "text": "Attiva simultaneamente un qualsiasi numero di tuoi personaggi non unici."
     },
-	{
+    {
         "code": "01144",
         "name": "Fuoco di Supporto",
         "text": "<b>Azione</b> - Esaurisci questo supporto per risolvere 1 tuo dado \"danno a distanza\" ([ranged]), aumentando di 1 il suo valore."
@@ -905,7 +904,7 @@
         "code": "01171",
         "name": "Sala di Guerra Ribelle",
         "subtitle": "Yavin IV",
-        "text": "<b>Rivendicazione</b> - Risolvi 1 tuo dado, ignorando il suo eventuale costo in risorse." 
+        "text": "<b>Rivendicazione</b> - Risolvi 1 tuo dado, ignorando il suo eventuale costo in risorse."
     },
     {
         "code": "01172",
