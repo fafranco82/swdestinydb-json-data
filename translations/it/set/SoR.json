@@ -1,0 +1,26 @@
+[
+    {
+        "code": "02001",
+        "flavor": "Le guardie personali di Krennic, pronte a difendere il loro comandante con ogni mezzo.",
+        "name": "Assaltatore della Morte"
+    },
+    {
+        "code": "02003",
+        "name": "Directore Krennic",
+        "subtitle": "Crudele ma Geniale",
+        "text": "Dopo che hai attivato questo personaggio, se controlli il campo di battaglia, tira 1 dado Assaltatore della Morte ([SoR]1) messo da parte e collocalo nella tua riserva. Dopo che quel dado è stato risolto o rimosso, mettilo da parte."
+    },
+    {
+        "code": "02011",
+        "flavor": "\"Tutto quanto procede come avevo previsto.\"",
+        "name": "Palpatine",
+        "subtitle": "Imperatore Galactico",
+        "text": "Dopo che hai risolto questo dado, obbliga un avversario a infligere un totale di 2 danni ai suoi personaggi, distribuendoli como preferisce."
+    },
+    {
+        "code": "02044",
+        "name": "Jyn Erso",
+        "subtitle": "Agente Imprevedibile",
+        "text": "Riduci di 1 il costo del primo evento giallo che giochi ogni round."
+    }
+]
