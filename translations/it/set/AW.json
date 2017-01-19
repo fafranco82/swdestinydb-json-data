@@ -49,7 +49,7 @@
         "code": "01009",
         "name": "Conte Dooku",
         "subtitle": "Subdolo Stratega",
-        "text": "Prima che questo personaggio subisca 1 o più danni, puoi scartare 1 carta dalla tua mano per fornigli 1 scudo."
+        "text": "Prima che a questo personaggio siano inflitti 1 o più danni, puoi scartare 1 carta dalla tua mano per fornigli 1 scudo.<em>(errata 1.1.2)</em>"
     },
     {
         "code": "01010",
@@ -725,7 +725,7 @@
     {
         "code": "01137",
         "name": "Seconda Opportunità",
-        "text": "Solo personaggi gialli.\nPrima che il personaggio sia sconfitto, curalo di 5 danni e scarta questa miglioria dal gioco."
+        "text": "Solo personaggi gialli.\nPrima che il personaggio con questa miglioria sia sconfitto, curagli invece 5 danni e scarta questa miglioria dal gioco. <em>(errata 1.1.2)</em>"
     },
     {
         "code": "01138",
