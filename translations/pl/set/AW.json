@@ -53,10 +53,10 @@
     },
     {
         "code": "01010",
-        "flavor": "\"Skoro nie chcesz walczyć, spotkasz swoje/n przeznaczenie\"",
+        "flavor": "\"Skoro nie chcesz walczyć, spotkasz swoje przeznaczenie\"",
         "name": "Darth Vader",
         "subtitle": "Lord Sithów",
-        "text": "Po tym, jak aktywujesz tą postać,\n możesz zmusić dowolnego\n przeciwnika, aby wybrał i odrzucił\n kartę ze swojej ręki"
+        "text": "Po tym, jak aktywujesz tą postać, możesz zmusić dowolnego przeciwnika, aby wybrał i odrzucił kartę ze swojej ręki"
     },
     {
         "code": "01011",
@@ -88,7 +88,7 @@
     {
         "code": "01016",
         "name": "Holokron Sithów",
-        "text": "[special] - Zamień to ulepszenie na niebieskie\nulepszenie <b>zdolność</b> z twojej ręki, ignorując jego ograniczenie zagrania. Następnie możesz wydać 1 żeton zasobu, aby rzucić jego kością do twojej puli, jesli to możliwe."
+        "text": "[special] - Zamień to ulepszenie na niebieskie ulepszenie <b>zdolność</b> z twojej ręki, ignorując jego ograniczenie zagrania. Następnie możesz wydać 1 żeton zasobu, aby rzucić jego kością do twojej puli, jeśli to możliwe."
     },
     {
         "code": "01017",
@@ -558,7 +558,7 @@
     {
         "code": "01104",
         "name": "Pozycja obronna",
-        "text": "Zagraj tylko jeśli kontrolujesz pole bitwy./nUsuń wszystkie kości dowolnego przeciwnika przedstawiające wartość 2 lub wyższą."
+        "text": "Zagraj tylko jeśli kontrolujesz pole bitwy.\nUsuń wszystkie kości dowolnego przeciwnika przedstawiające wartość 2 lub wyższą."
     },
     {
         "code": "01105",
@@ -568,12 +568,12 @@
     {
         "code": "01106",
         "name": "Szybki atak i odwrót",
-        "text": "Zasadzka./nAktywuj jedną z twoich czerwonych postaci."
+        "text": "Zasadzka.\nAktywuj jedną z twoich czerwonych postaci."
     },
     {
         "code": "01107",
         "name": "To pułapka!",
-        "text": "Zasadzka./nWybierz symbol przedstawiony na kości dowolnego przeciwnika. Następnie obróć dowolną liczbę twoich dowolnych czerwonych kości na ścianki przedstawiające dany symbol."
+        "text": "Zasadzka.\nWybierz symbol przedstawiony na kości dowolnego przeciwnika. Następnie obróć dowolną liczbę twoich dowolnych czerwonych kości na ścianki przedstawiające dany symbol."
     },
     {
         "code": "01108",
@@ -765,7 +765,7 @@
     {
         "code": "01145",
         "name": "Odbicie",
-        "text": "Wyznacz niebieską postać, aby usunąć dowolną kość przedstawiającą obrażenia dystansowe ([ranged]) i zadaż dowolnej postaci połowę z danych obrażeń (zaokrąglając w górę)."
+        "text": "Wyznacz niebieską postać, aby usunąć dowolną kość przedstawiającą obrażenia dystansowe ([ranged]) i zadać dowolnej postaci połowę z danych obrażeń (zaokrąglając w górę)."
     },
     {
         "code": "01146",
@@ -880,7 +880,7 @@
         "code": "01167",
         "name": "Sala tronowa Imperatora",
         "subtitle": "Druga Gwiazda Śmierci",
-        "text": "<b>Zajęcie</b> - Obróć jedną z twoich kości na stronę przedstawiającą specjalną zdolność ([special]). Następnie możesz rozpatrzyć danę kość."
+        "text": "<b>Zajęcie</b> - Obróć jedną z twoich kości na stronę przedstawiającą specjalną zdolność ([special]). Następnie możesz rozpatrzyć daną kość."
     },
     {
         "code": "01168",
