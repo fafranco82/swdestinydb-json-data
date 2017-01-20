@@ -1,0 +1,46 @@
+[
+    {
+        "code": "02001",
+        "flavor": "Osobiści strażnicy Krennica bronią swojego dowódcy z ekstremalnym poświęceniem.",
+        "name": "Szturmowiec Śmierci"
+    },
+    {
+        "code": "02003",
+        "name": "Dyrektor Krennic",
+        "subtitle": "Okrutny, ale błyskotliwy",
+        "text": "Po tym, jak aktywujesz tę postać, jeśli kontrolujesz pole bitwy, rzuć do twojej puli jedną kością Szturmowca Śmierci ([SoR]1). Odłóż tę kość na bok po tym, jak zostanie rozpatrzona lub usunięta."
+    },
+    {
+        "code": "02011",
+        "flavor": "\"Wszystko idzie zgodnie z moim planem.\"",
+        "name": "Palpatine",
+        "subtitle": "Imperator Galaktyki",
+        "text": "Po tym, jak rozpatrzysz tę kość, zmuś dowolnego przeciwnika, aby zadał 2 obrażenia swoim postaciom (sam decyduje, jak je rozdzieli)."
+    },
+    {
+        "code": "02014",
+        "name": "Błyskawica Mocy",
+        "text": "Tylko niebieska postać.\n[special] - Zadaj 1 obrażenie dowolnej postaci. Możesz usunąć kość przedstawiającą pustą ściankę ([blank]), aby przerzucić tę kość, zamiast usuwać ją z twojej puli."
+    },
+    {
+        "code": "02044",
+        "name": "Jyn Erso",
+        "subtitle": "Śmiała Agentka",
+        "text": "Koszt pierwszego żółtego wydarzenia, które zagrywasz w każdej rundzie, jest zmniejszony o 1."
+    },
+    {
+        "code": "02094",
+        "name": "Atak Rebeliantów",
+        "text": "Zagraj tylko, jeśli masz jedną lub więcej kości przedstawiających obrażenia dystansowe ([ranged]).\nUsuń jedną nieprzedstawiającą obrażeń ([ranged] ani [melee]) kość dowolnego przeciwnika."
+    },
+    {
+        "code": "02107",
+        "name": "Oczy mogą Cię zwieść",
+        "text": "Po tym, jak na jednej z twoich kości wypadnie symbol osłony ([shield]), możesz wyczerpać to wsparcie, aby obrócić jedną kość dowolnego przeciwnika na dowolną ściankę."
+    },
+    {
+        "code": "02115",
+        "name": "Nie mów mi o szansach!",
+        "text": "Wybierz jedną z twoich żółtych postaci. Obróć dowolną liczbę jej kości postaci i ulepszeń na wybrane przez ciebie ścianki."
+    }
+]
