@@ -17,7 +17,7 @@
     },
     {
         "code": "MD",
-        "name": "Dégât de Mêlée"
+        "name": "Dégâts de mêlée"
     },
     {
         "code": "R",
@@ -25,7 +25,7 @@
     },
     {
         "code": "RD",
-        "name": "Dégât à Distance"
+        "name": "Dégâts à distance"
     },
     {
         "code": "Sh",
@@ -33,6 +33,6 @@
     },
     {
         "code": "Sp",
-        "name": "Spéciale"
+        "name": "Spécial"
     }
 ]
