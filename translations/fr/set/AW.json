@@ -3,7 +3,7 @@
         "code": "01001",
         "flavor": "\"Quoi que vous comptiez faire, cela ne marchera pas.\"",
         "name": "Capitaine Phasma",
-        "subtitle": "Trooper d'Elite",
+        "subtitle": "Trooper d'élite",
         "text": "Vos personnages non uniques ont le mot-clé Gardien."
     },
     {
@@ -72,7 +72,7 @@
     },
     {
         "code": "01013",
-        "name": "Etranglement de la Force",
+        "name": "Étranglement de la Force",
         "text": "Personnage Bleu uniquement.\n[special] - Infligez 1 dégât non blocable à une autre personnage. Puis vous pouvez tourner un de ses dés de personnage ou d'amélioration sur n'importe quelle face."
     },
     {
@@ -82,28 +82,28 @@
     },
     {
         "code": "01015",
-        "name": "Sabre Laser de Kylo Ren",
+        "name": "Sabre laser de Kylo Ren",
         "text": "Personnage Bleu uniquement.\n[special] - Infligez 2 dégâts à un personnage. Si un de ces dégâts est bloqué par des boucliers, relancez ce dé au lieu de le retirer de votre réserve."
     },
     {
         "code": "01016",
-        "name": "Sith Holocron",
-        "text": "[special] - Echangez cette amélioration contre une amélioration <b>capacité</b> bleue de votre main en ignorant ses restrictions de jeu. Puis vous pouvez dépenser 1 ressource pour lancer son dé dans votre réserve, si possible."
+        "name": "Holocron Sith",
+        "text": "[special] - Échangez cette amélioration contre une amélioration <b>capacité</b> Bleue de votre main en ignorant ses restrictions de jeu. Puis vous pouvez dépenser 1 ressource pour lancer son dé dans votre réserve, si possible."
     },
     {
         "code": "01017",
-        "name": "Grenades d'Infanterie",
+        "name": "Grenades d'infanterie",
         "text": "[special] - Infligez 2 dégâts à chaque personnage d'un adversaire. Défaussez cette amélioration du jeu."
     },
     {
         "code": "01018",
-        "name": "Eclaireur en Speeder Bike",
+        "name": "Éclaireur en speeder bike",
         "text": "[special] - Retirez un dé. Vous pouvez entreprendre une action supplémentaire."
     },
     {
         "code": "01019",
         "name": "Bala-Tik",
-        "subtitle": "Chef de Gang",
+        "subtitle": "Chef de gang",
         "text": "Vous pouvez redresser ce personnage après qu'un personnage d'un adversaire a été vaincu."
     },
     {
@@ -117,7 +117,7 @@
         "code": "01021",
         "flavor": "\"Tu n'as plus le droit à l'erreur.\"",
         "name": "Jango Fett",
-        "subtitle": "Mercenaire Meurtrier",
+        "subtitle": "Mercenaire meurtrier",
         "text": "Vous pouvez activer ce personnage après qu'un adversaire a activé un personnage."
     },
     {
@@ -127,12 +127,12 @@
     },
     {
         "code": "01023",
-        "name": "Seigneur du Crime",
+        "name": "Seigneur du crime",
         "text": "Personnage Jaune uniquement.\n[special] - Dépensez 5 ressources pour choisir un personnage. Ce personnage est vaincu après la fin de ce round."
     },
     {
         "code": "01024",
-        "name": "Lance-Flammes",
+        "name": "Lance-flammes",
         "text": "[special] - Infligez 1 dégât jusqu'à 3 personnages différents."
     },
     {
@@ -171,24 +171,24 @@
     },
     {
         "code": "01031",
-        "name": "Hangar de Lancement",
+        "name": "Hangar de lancement",
         "text": "Le X de ce dé est égal au nombre de cartes dans votre main."
     },
     {
         "code": "01032",
-        "flavor": "Le X-wing de Poe Dameron était entre plus polyvalent que le T-70 standard",
+        "flavor": "Le X-wing modifié de Poe Dameron était entre plus polyvalent que le T-70 standard.",
         "name": "Black One",
         "text": "[special] - Infligez 1 dégât à un personnage. Relancez ce dé au lieu de le retirer de votre réserve."
     },
     {
         "code": "01033",
-        "name": "Eclaireur",
+        "name": "Éclaireur",
         "text": "[special] - Regardez la main d'un adversaire et défaussez-en la carte la moins chère <em>(vous choisissez en cas d'égalité)</em>."
     },
     {
         "code": "01034",
         "flavor": "Pour se cacher, les Rebelles doivent souvent braver des environnements très rigoureux.",
-        "name": "Matériel de Survie"
+        "name": "Matériel de survie"
     },
     {
         "code": "01035",
@@ -200,7 +200,7 @@
     {
         "code": "01036",
         "name": "Padawan",
-        "text": "Lorsque ce personnage n'a pas d'amélioration, le coût pour lui attacher une <b>arme</b> est diminué de 1."
+        "text": "Lorsque ce personnage n'a pas d'amélioration, le coût pour lui attacher une <b>arme</b> diminue de 1."
     },
     {
         "code": "01037",
