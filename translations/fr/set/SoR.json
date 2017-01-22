@@ -1,0 +1,42 @@
+[
+    {
+        "code": "02001",
+        "flavor": "La garde personnelles de Krennic, qui protège son commandant quoi qu'il arrive.",
+        "name": "Death Trooper"
+    },
+    {
+        "code": "02003",
+        "name": "Directeur Krennic",
+        "subtitle": "Cruel mais brilliant",
+        "text": "Après avoir activé ce personnage, si vous contrôlez le champ de bataille, lancez un dé de Death Trooper ([SoR]1) dans votre réserve. Mettez de côté ce dé après qu'il a été résolu ou retiré."
+    },
+    {
+        "code": "02011",
+        "flavor": "\"Tout se passe à présent comme je l'avais prévu.\"",
+        "name": "Palpatine",
+        "subtitle": "Empereur galactique",
+        "text": "Après avoir résolu ce dé, forcez un adversaire à infliger 2 dégâts à ses personnages, répartis comme il le souhaite."
+    },
+    {
+        "code": "02014",
+        "name": "Éclairs de Force"
+    },
+    {
+        "code": "02044",
+        "name": "Jyn Erso",
+        "subtitle": "Agent intrépide",
+        "text": "Le coût du premier événement Jaune que vous jouez à chaque round diminue de 1."
+    },
+    {
+        "code": "02094",
+        "name": "Assaut Rebelle"
+    },
+    {
+        "code": "02107",
+        "name": "Vos yeux peuvent vous tromper"
+    },
+    {
+        "code": "02115",
+        "name": "Moi et les probabilités"
+    }
+]
