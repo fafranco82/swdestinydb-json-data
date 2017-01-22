@@ -19,7 +19,8 @@
     },
     {
         "code": "02014",
-        "name": "Éclairs de Force"
+        "name": "Éclairs de Force",
+        "text": "Blue character only.\n[special] - Deal 1 damage to a character. You  may remove a die showing a blank ([blank]) to reroll this die instead of removing it from your pool."
     },
     {
         "code": "02044",
@@ -29,14 +30,17 @@
     },
     {
         "code": "02094",
-        "name": "Assaut Rebelle"
+        "name": "Assaut Rebelle",
+        "text": "Play only if you have one or more dice showing ranged damage ([ranged]).\nRemove an opponent's die not showing damage ([ranged] or [melee])."
     },
     {
         "code": "02107",
-        "name": "Vos yeux peuvent vous tromper"
+        "name": "Vos yeux peuvent vous tromper",
+        "text": "After one of your dice rolls a shield ([shield]), you may exhaust this support to turn an opponent's die to any side."
     },
     {
         "code": "02115",
-        "name": "Moi et les probabilités"
+        "name": "Moi et les probabilités",
+        "text": "Choose one of your Yellow characters. Turn any number of its character and upgrade dice to sides of your choice."
     }
 ]
