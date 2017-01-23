@@ -5,14 +5,14 @@
     },
     {
         "code": "gray",
-        "name": "General"
+        "name": "Global"
     },
     {
         "code": "red",
-        "name": "Command"
+        "name": "Commandement"
     },
     {
         "code": "yellow",
-        "name": "Rogue"
+        "name": "Filous"
     }
 ]
