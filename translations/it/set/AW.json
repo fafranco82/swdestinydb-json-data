@@ -98,7 +98,7 @@
     {
         "code": "01018",
         "name": "Speeder Bike da Esplorazione",
-        "text": "[special] - Rimuovi un dado, poi puoi effettuare un'azione aggiuntiva."
+        "text": "[special] - Rimuovi un dado. Puoi effettuare un'azione aggiuntiva.<em>(errata 1.1.3)</em>"
     },
     {
         "code": "01019",
@@ -378,7 +378,7 @@
     {
         "code": "01069",
         "name": "Chiudere la Rete",
-        "text": "Obbliga un avversario a scegliere e rimuovere 1 suo dado, poi puoi collocare questo evento in fondo al tuo mazzo invece che scartarlo."
+        "text": "Obbliga un avversario a scegliere e rimuovere 1 suo dado. Puoi collocare questo evento in fondo al tuo mazzo invece che scartarlo.(errata 1.1.3)"
     },
     {
         "code": "01070",
@@ -394,7 +394,7 @@
     {
         "code": "01072",
         "name": "Sonda",
-        "text": "Guarda 2 carte casuali nella mano di un avversario, poi scarta tutti gli eventi visti in questo modo."
+        "text": "Guarda 2 carte casuali nella mano di un avversario e scarta tutti gli eventi visti in questo modo.<em>(errata 1.1.3)</em>"
     },
     {
         "code": "01073",
