@@ -3,7 +3,7 @@
         "code": "01001",
         "flavor": "\"Quoi que vous comptiez faire, cela ne marchera pas.\"",
         "name": "Capitaine Phasma",
-        "subtitle": "Trooper d'Elite",
+        "subtitle": "Trooper d'élite",
         "text": "Vos personnages non uniques ont le mot-clé Gardien."
     },
     {
@@ -72,7 +72,7 @@
     },
     {
         "code": "01013",
-        "name": "Etranglement de la Force",
+        "name": "Étranglement de la Force",
         "text": "Personnage Bleu uniquement.\n[special] - Infligez 1 dégât non blocable à une autre personnage. Puis vous pouvez tourner un de ses dés de personnage ou d'amélioration sur n'importe quelle face."
     },
     {
@@ -82,28 +82,28 @@
     },
     {
         "code": "01015",
-        "name": "Sabre Laser de Kylo Ren",
+        "name": "Sabre laser de Kylo Ren",
         "text": "Personnage Bleu uniquement.\n[special] - Infligez 2 dégâts à un personnage. Si un de ces dégâts est bloqué par des boucliers, relancez ce dé au lieu de le retirer de votre réserve."
     },
     {
         "code": "01016",
-        "name": "Sith Holocron",
-        "text": "[special] - Echangez cette amélioration contre une amélioration <b>capacité</b> bleue de votre main en ignorant ses restrictions de jeu. Puis vous pouvez dépenser 1 ressource pour lancer son dé dans votre réserve, si possible."
+        "name": "Holocron Sith",
+        "text": "[special] - Échangez cette amélioration contre une amélioration <b>capacité</b> Bleue de votre main en ignorant ses restrictions de jeu. Puis vous pouvez dépenser 1 ressource pour lancer son dé dans votre réserve, si possible."
     },
     {
         "code": "01017",
-        "name": "Grenades d'Infanterie",
+        "name": "Grenades d'infanterie",
         "text": "[special] - Infligez 2 dégâts à chaque personnage d'un adversaire. Défaussez cette amélioration du jeu."
     },
     {
         "code": "01018",
-        "name": "Eclaireur en Speeder Bike",
+        "name": "Éclaireur en speeder bike",
         "text": "[special] - Retirez un dé. Vous pouvez entreprendre une action supplémentaire."
     },
     {
         "code": "01019",
         "name": "Bala-Tik",
-        "subtitle": "Chef de Gang",
+        "subtitle": "Chef de gang",
         "text": "Vous pouvez redresser ce personnage après qu'un personnage d'un adversaire a été vaincu."
     },
     {
@@ -117,7 +117,7 @@
         "code": "01021",
         "flavor": "\"Tu n'as plus le droit à l'erreur.\"",
         "name": "Jango Fett",
-        "subtitle": "Mercenaire Meurtrier",
+        "subtitle": "Mercenaire meurtrier",
         "text": "Vous pouvez activer ce personnage après qu'un adversaire a activé un personnage."
     },
     {
@@ -127,12 +127,12 @@
     },
     {
         "code": "01023",
-        "name": "Seigneur du Crime",
+        "name": "Seigneur du crime",
         "text": "Personnage Jaune uniquement.\n[special] - Dépensez 5 ressources pour choisir un personnage. Ce personnage est vaincu après la fin de ce round."
     },
     {
         "code": "01024",
-        "name": "Lance-Flammes",
+        "name": "Lance-flammes",
         "text": "[special] - Infligez 1 dégât jusqu'à 3 personnages différents."
     },
     {
@@ -171,24 +171,24 @@
     },
     {
         "code": "01031",
-        "name": "Hangar de Lancement",
+        "name": "Hangar de lancement",
         "text": "Le X de ce dé est égal au nombre de cartes dans votre main."
     },
     {
         "code": "01032",
-        "flavor": "Le X-wing de Poe Dameron était entre plus polyvalent que le T-70 standard",
+        "flavor": "Le X-wing modifié de Poe Dameron était entre plus polyvalent que le T-70 standard.",
         "name": "Black One",
         "text": "[special] - Infligez 1 dégât à un personnage. Relancez ce dé au lieu de le retirer de votre réserve."
     },
     {
         "code": "01033",
-        "name": "Eclaireur",
+        "name": "Éclaireur",
         "text": "[special] - Regardez la main d'un adversaire et défaussez-en la carte la moins chère <em>(vous choisissez en cas d'égalité)</em>."
     },
     {
         "code": "01034",
         "flavor": "Pour se cacher, les Rebelles doivent souvent braver des environnements très rigoureux.",
-        "name": "Matériel de Survie"
+        "name": "Matériel de survie"
     },
     {
         "code": "01035",
@@ -200,7 +200,7 @@
     {
         "code": "01036",
         "name": "Padawan",
-        "text": "Lorsque ce personnage n'a pas d'amélioration, le coût pour lui attacher une <b>arme</b> est diminué de 1."
+        "text": "Lorsque ce personnage n'a pas d'amélioration, le coût pour lui attacher une <b>arme</b> diminue de 1."
     },
     {
         "code": "01037",
@@ -256,18 +256,19 @@
     },
     {
         "code": "01046",
+        "flavor": "\"Vous savez qu'il m'arrive encore de m'épater moi-même.\"",
         "name": "Han Solo",
         "subtitle": "Vaurien",
         "text": "Après avoir joué une carte avec le mot-clé Embuscade, vous pouvez donner 1 bouclier à ce personnage."
     },
     {
         "code": "01047",
-        "flavor": "\"Ne vous tracassez pas pour votre récompense. Si c'est pour l'argent que vous faites ça, alors c'est tout ce que vous recevrez !.\" <cite>Leia Organa</cite>",
+        "flavor": "\"Ne vous tracassez pas pour votre récompense. Si c'est pour l'argent que vous faites ça, alors c'est tout ce que vous recevrez !\" <cite>Leia Organa</cite>",
         "name": "Mercenaire"
     },
     {
         "code": "01048",
-        "flavor": "\"Mon destin ne pas différent de celui de notre peuple.\"",
+        "flavor": "\"Mon destin ne sera pas différent de celui de notre peuple.\"",
         "name": "Padme Amidala",
         "subtitle": "Reine de Naboo",
         "text": "[special] - Défaussez la première carte du deck d'un adversaire ou dépensez 1 ressource pour défausser les 2 premières cartes du deck d'un adversaire."
@@ -280,12 +281,12 @@
     },
     {
         "code": "01050",
-        "name": "Immunité Diplomatique",
+        "name": "Immunité diplomatique",
         "text": "Les boucliers de ce dé peuvent être donnés à n'importe lesquels de vos personnages, répartis comme vous le souhaitez."
     },
     {
         "code": "01051",
-        "name": "Pistolet Blaster Lourd DL-44",
+        "name": "Pistolet blaster lourd DL-44",
         "text": "Embuscade.\nAprès avoir joué cette amélioration forcez un adversaire à choisir et à retirer un de ses dés."
     },
     {
@@ -295,17 +296,17 @@
     },
     {
         "code": "01053",
-        "name": "Avant-Poste",
+        "name": "Avant-poste",
         "text": "[special] - Résolvez la capacité du champ de bataille comme si vous veniez de le capturer."
     },
     {
         "code": "01054",
         "flavor": "L'arme de prédilection des soldats Rebelles et des officiers Impériaux lors de la Guerre Civile Galactique.",
-        "name": "Pistolet Blaster DH-17"
+        "name": "Pistolet blaster DH-17"
     },
     {
         "code": "01055",
-        "name": "Fusil Blaster IQA-11",
+        "name": "Fusil blaster IQA-11",
         "text": "[special] - Infligez 2 dégâts non blocables à un personnage."
     },
     {
@@ -316,7 +317,7 @@
     {
         "code": "01057",
         "name": "Projection de Force",
-        "text": "Personnage Bleu uniquement.\n[special] - Retirez un dé pour infliger à un personnage des dégâts égaux à la valeur indiquée sur ce dé<em>(les faces vierges et spéciales sont égales à zéro)</em>."
+        "text": "Personnage Bleu uniquement.\n[special] - Retirez un dé pour infliger à un personnage des dégâts égaux à la valeur indiquée sur ce dé <em>(les faces vierges et spéciales sont égales à zéro)</em>."
     },
     {
         "code": "01058",
@@ -325,12 +326,13 @@
     },
     {
         "code": "01059",
-        "name": "Sabre Laser",
+        "flavor": "\"C'est élégant, maniable ; l'arme noble d'une époque civilisée.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Sabre laser",
         "text": "Redéploiement.\n[special] - Infligez 2 dégâts non blocables à un personnage."
     },
     {
         "code": "01060",
-        "name": "Sonde Mentale",
+        "name": "Sonde mentale",
         "text": "Personnage Bleu uniquement.\n[special] - Infligez à un personnage d'un adversaire 1 dégât pour chaque carte dans la main de cet adversaire."
     },
     {
@@ -345,13 +347,13 @@
     },
     {
         "code": "01063",
-        "name": "Blaster de Poche",
+        "name": "Blaster de poche",
         "text": "Embuscade. Redéploiement."
     },
     {
         "code": "01064",
-        "name": "Marché Noir",
-        "text": "[special] - Piochez 2 cartes. Vous pouvez jouer une amélioration depuis votre main en diminuant son coût de 1."
+        "name": "Marché noir",
+        "text": "[special] - Piochez 2 cartes. Vous pouvez jouer une amélioration depuis votre main en diminuant de 1 son coût."
     },
     {
         "code": "01065",
@@ -360,28 +362,28 @@
     },
     {
         "code": "01066",
-        "name": "Jetpack",
+        "name": "Réacteur dorsal",
         "text": "[special] - Retirez un dé montrant des dégâts de mêlée ([melee]) et donnez 1 bouclier au personnage attaché."
     },
     {
         "code": "01067",
-        "name": "Détonateur Thermique",
+        "name": "Détonateur thermique",
         "text": "Pour jouer cette carte, désignez un personnage Jaune.\n[special] - Infligez 3 dégâts à chaque personnage d'une adversaire. Défaussez cette amélioration du jeu."
     },
     {
         "code": "01068",
-        "name": "Chair à Canon",
+        "name": "Chair à canon",
         "text": "Infligez à l'un de vos personnages non uniques des dégâts égaux à la valeur d'un dé d'un adversaire montrant des dégâts ([melee] ou [ranged]). Puis retirez ce dé."
     },
     {
         "code": "01069",
-        "name": "Refermer la Nasse",
+        "name": "Refermer la nasse",
         "text": "Forcez un adversaire à choisir et à retirer un de ses dés. Vous pouvez placer cet événement sous votre deck au lieu de le défausser."
     },
     {
         "code": "01070",
         "flavor": "Les Droides de combat sont moints efficaces que les soldats de chair et de sang, mais ils coutent beaucoup moins cher à remplacer.",
-        "name": "Rangs sans Fin",
+        "name": "Rangs sans fin",
         "text": "Ramenez un de vos personnages Rouges non uniques vaincus dans la partie dans dégâts sur lui.."
     },
     {
@@ -401,13 +403,13 @@
     },
     {
         "code": "01074",
-        "name": "Maîtrise Tactique",
+        "name": "Maîtrise tactique",
         "text": "Désignez un personnage Rouge pour entreprendre jusqu'à 2 actions supplémentaires."
     },
     {
         "code": "01075",
         "flavor": "\"Ils sont là ! Abattez-les !\"",
-        "name": "La Meilleure Défense...",
+        "name": "La meilleure défense...",
         "text": "Infligez 3 dégâts à un de vos personnages Rouges pour retirer jusqu'à 2 dés à un adversaire."
     },
     {
@@ -417,22 +419,22 @@
     },
     {
         "code": "01077",
-        "name": "Garnison Locale",
+        "name": "Garnison locale",
         "text": "Chaque adversaire gagne 1 ressource en moins durant chaque phase d'entretien, pour un minimum de 1."
     },
     {
         "code": "01078",
-        "name": "Escorte Personnelle",
+        "name": "Escorte personnelle",
         "text": "Le personnage attaché a le mot-cle Gardien."
     },
     {
         "code": "01079",
-        "name": "Abandonnez tout Espoir",
+        "name": "Abandonnez tout espoir",
         "text": "Forcez un adversaire à choisir entre : perdre toutes ses ressources, ou défausser toutes les cartes de sa main."
     },
     {
         "code": "01080",
-        "name": "Ambition sans Bornes",
+        "name": "Ambition sans bornes",
         "text": "Piochez des cartes jusqu'à avoir une main pleine."
     },
     {
@@ -443,7 +445,7 @@
     {
         "code": "01082",
         "flavor": "\"Laisse-toi envahir par la haine.\" <cite>Empereur Palpatine</cite>",
-        "name": "Je Sens ta Colère",
+        "name": "Je sens ta colère",
         "text": "Comptez le nombre de faces vierges ([blank]) que montrent les dés d'un adversaire. Retirez autant de ses dés."
     },
     {
@@ -463,43 +465,43 @@
     },
     {
         "code": "01086",
-        "name": "Pas de Pitié",
+        "name": "Pas de pitié",
         "text": "Défaussez autant de cartes Bleues de votre main que vous le souhaitez. Puis résolvez un de vos dés montrant des dégâts ([melee] or [ranged]) en augmentant de 1 sa valeur pour chaque carte que vous venez de défausser."
     },
     {
         "code": "01087",
-        "name": "Tirer les Ficelles",
+        "name": "Tirer les ficelles",
         "text": "Regardez les 3 premières cartes de n'importe quel deck. Puis placez ces cartes sur et/ou sous ce deck dans n'importe quel ordre."
     },
     {
         "code": "01088",
-        "name": "La Faveur de l'Empereur",
+        "name": "La faveur de l'Empereur",
         "text": "La taille de votre main augmente de 1."
     },
     {
         "code": "01089",
         "flavor": "\"Si seulement tu connaissais le pouvoir du côté obscur.\" <cite>Dark Vador</cite>",
-        "name": "Le Pouvoir du Côté Obscure",
+        "name": "Le pouvoir du Côté Obscure",
         "text": "<b>Action</b> - Inclinez ce soutien pour relancer un de vos dés. Si le résultat de ce dé est vierge ([blank]), infligez 2 dégâts non blocables à un personnage."
     },
     {
         "code": "01090",
-        "name": "Caché dans l'Ombre",
+        "name": "Caché dans l'ombre",
         "text": "<b>Action</b> - Si le personnage attaché n'a pas de boucliers, inclinez cette amélioration pour lui donner 1 bouclier."
     },
     {
         "code": "01091",
-        "name": "Nulle Part Où Aller",
+        "name": "Nulle part où aller",
         "text": "Tournez chacun de vos dés montrant une face vierge ([blank]) sur n'importe quelle face."
     },
     {
         "code": "01092",
-        "name": "Carte Maîtresse",
+        "name": "Carte maîtresse",
         "text": "Défaussez une amélioration Jaune de votre main pour lancer son dé dans votre réserve. Mettez de côté ce dé après qu'il a été résolu ou retiré."
     },
     {
         "code": "01093",
-        "name": "Armé Jusqu'aux Dents",
+        "name": "Armé jusqu'aux dents",
         "text": "Défaussez autant d'améliorations que vous le souhaitez d'un de vos personnages Jaunes. Puis infligez à un personnage des dégâts égaux au nombre d'améliorations que vous venez de défausser."
     },
     {
@@ -509,12 +511,12 @@
     },
     {
         "code": "01095",
-        "name": "Coup Bas",
+        "name": "Coup bas",
         "text": "Retirez autant de vos dés Jaunes que vous le souhaitez. Puis infligez à un personnage des dégâts égaux au nombre de dés que vous venez de retirer."
     },
     {
         "code": "01096",
-        "name": "Mise à Mort",
+        "name": "Mise à mort",
         "text": "Résolvez un de vos dés montrant des dégâts à distance ([ranged]), en considérant ces dégâts comme non blocables."
     },
     {
@@ -525,7 +527,7 @@
     },
     {
         "code": "01098",
-        "name": "Guet-Apens",
+        "name": "Guet-apens",
         "text": "Forcez un adversaire à choisir et à défausser des cartes de sa main jusqu'à ce qu'il en ait le même nombre que vous."
     },
     {
@@ -535,32 +537,32 @@
     },
     {
         "code": "01100",
-        "name": "Mon Genre de Vaurien",
+        "name": "Mon genre de vaurien",
         "text": "Après avoir résolu un dé montrant disruption ([disrupt]), vous pouvez incliner ce soutien pour gagner des ressources égales au nombre de ressources que votre adversaire vient de perdre."
     },
     {
         "code": "01101",
-        "name": "Liens avec la Pègre",
+        "name": "Liens avec la pègre",
         "text": "<b>Action</b> - Inclinez ce soutien pour gagner 1 ressource."
     },
     {
         "code": "01102",
-        "name": "Bien Précieux",
+        "name": "Bien précieux",
         "text": "Après avoir joué cette amélioration, vous pouvez retirer un dé de personnage d'un adversaire et le placer ici. Il n'est lancé par aucun personnage et n'est pas renvoyé à son personnage, sauf si cette amélioration quitte le jeu."
     },
     {
         "code": "01103",
-        "name": "Raid Commando",
+        "name": "Raid commando",
         "text": "Résolvez un de vos dés Rouges montrant défausse ([discard]), en augmentant sa valeur de 2. Puis piochez une carte."
     },
     {
         "code": "01104",
-        "name": "Position Défensive",
+        "name": "Position défensive",
         "text": "A ne jouer que si vous contrôlez le champ de bataille.\nRetirez tous les dés d'un adversaire montrant une valeur de 2 ou plus."
     },
     {
         "code": "01105",
-        "name": "Médecin Militaire",
+        "name": "Médecin militaire",
         "text": "Soignez 2 dégâts d'un personnage."
     },
     {
@@ -575,7 +577,7 @@
     },
     {
         "code": "01108",
-        "name": "Talent Inné",
+        "name": "Talent inné",
         "text": "Résolvez un de vos dés en augmentant de 1 sa valeur."
     },
     {
@@ -590,17 +592,17 @@
     },
     {
         "code": "01111",
-        "name": "Planification Stratégique",
+        "name": "Planification stratégique",
         "text": "Redressez ou inclinez un soutien."
     },
     {
         "code": "01112",
-        "name": "Frappe Chirurgicale",
+        "name": "Frappe chirurgicale",
         "text": "Retirez autant de vos dés Rouges montrant des dégâts à distance ([ranged]) que vous le souhaitez, en augmentant de 1 chacune de leurs valeurs, pour défausser un soutien du jeu ayant un coût inférieur ou égal à la valeur combinée de ces dés."
     },
     {
         "code": "01113",
-        "name": "Q.G. de la Résistance",
+        "name": "Q.G. de la résistance",
         "text": "<b>Action</b> - Inclinez ce soutien et défaussez une carte de votre main pour donner 1 bouclier à un personnage. Puis redressez ce soutien sauf si un adversaire dépense 1 ressource."
     },
     {
@@ -610,7 +612,7 @@
     },
     {
         "code": "01115",
-        "name": "Posture Défensive",
+        "name": "Posture défensive",
         "text": "Donnez 2 boucliers à un personnage."
     },
     {
@@ -625,7 +627,7 @@
     },
     {
         "code": "01118",
-        "name": "Noble Sacrifice",
+        "name": "Noble sacrifice",
         "text": "Vainquez un de vos personnages Bleus pour incliner un personnage."
     },
     {
@@ -636,7 +638,7 @@
     {
         "code": "01120",
         "flavor": "\"Transmets ce que tu as appris.\" <cite>Yoda</cite>",
-        "name": "Le Retour du Jedi",
+        "name": "Le retour du Jedi",
         "text": "Ajoutez un événement Bleu de votre pile de défausse à votre main."
     },
     {
@@ -661,33 +663,33 @@
     },
     {
         "code": "01125",
-        "name": "La Force est Puissante",
+        "name": "La Force est puissante",
         "text": "<b>Action</b> - Inclinez ce soutien et défaussez une carte Bleue de votre main pour en jouer gratuitement un autre exemplaire depuis votre main."
     },
     {
         "code": "01126",
-        "name": "Fuite Audacieuse",
+        "name": "Fuite audacieuse",
         "text": "Embuscade.\nRelancez autant de dés d'un adversaire que vous le souhaitez. Puis retirez tous ses dés montrant des faces vierges ([blank])."
     },
     {
         "code": "01127",
         "flavor": "\"J'en ai eu un ! J'en ai eu un !\" <cite>Luke Skywalker</cite>",
-        "name": "Attrape pas la Grosse Tête",
+        "name": "Attrape pas la grosse tête",
         "text": "Chaque joueur pioche 2 cartes."
     },
     {
         "code": "01128",
-        "name": "Attirer l'Attention",
+        "name": "Attirer l'attention",
         "text": "Déplacez jusqu'à 2 dégâts d'un de vos personnages vers un autre de vos personnages <em>(this ignores shields)</em>."
     },
     {
         "code": "01129",
-        "name": "Saut en Hyperespace",
+        "name": "Saut en hyperespace",
         "text": "Mettez fin à la phase d'action. Vous pouvez changer le champ de bataille contre le champ de bataille qui n'est pas utilisé."
     },
     {
         "code": "01130",
-        "name": "Laisse Gagner le Wookie",
+        "name": "Laisse gagner le wookie",
         "text": "Forcez un adversaire à choisir entre : infliger 2 dégâts à l'un de ses personnages inclinés, ou choisir et retirer 2 de ses dés."
     },
     {
@@ -702,7 +704,7 @@
     },
     {
         "code": "01133",
-        "name": "Shoot First",
+        "name": "Tirer le premier",
         "text": "Embuscade.\nRésolvez un de vos dés Jaunes montrant des dégâts à distance ([ranged]). Puis retirez un dé d'un adversaire montrant des dégâts à distance ([ranged])."
     },
     {
@@ -712,7 +714,7 @@
     },
     {
         "code": "01135",
-        "name": "Tentez le Sort",
+        "name": "Tentez le sort",
         "text": "<b>Action</b> - Inclinez ce soutien pour relancer un de vos dés Jaunes. Si vous obtenez une face ressource ([resource]), gagnez 1 ressource."
     },
     {
@@ -722,12 +724,12 @@
     },
     {
         "code": "01137",
-        "name": "Deuxième Chance",
+        "name": "Deuxième chance",
         "text": "Personnage Jaune uniquement.\nAvant que le personnage attaché ne soit censé être vaincu, soignez-le de 5 dégâts et défaussez cette amélioration du jeu."
     },
     {
         "code": "01138",
-        "name": "Cérémonie Honorifique",
+        "name": "Cérémonie honorifique",
         "text": "Désignez un personnage Rouge pour piocher un nombre de cartes égal au nombre de personnages inclinés que vous avez."
     },
     {
@@ -737,7 +739,7 @@
     },
     {
         "code": "01140",
-        "name": "Puissance de Feu",
+        "name": "Puissance de feu",
         "text": "Résolvez un de vos dés Rouges montrant des dégâts à distance ([ranged]) en augmentant de 1 sa valeur, ou de 2 si vous résolvez un dé de <b>véhicule</b>."
     },
     {
@@ -752,12 +754,12 @@
     },
     {
         "code": "01143",
-        "name": "Tactiques d'Escouade",
+        "name": "Tactiques d'escouade",
         "text": "Activez sur-le-champ autant de vos personnages non uniques que vous le souhaitez."
     },
     {
         "code": "01144",
-        "name": "Tir de Soutien",
+        "name": "Tir de soutien",
         "text": "<b>Action</b> - Inclinez ce soutien pour résoudre un de vos dés montrant des dégâts à distance ([ranged]) en augmentant de 1 sa valeur."
     },
     {
@@ -773,23 +775,23 @@
     },
     {
         "code": "01147",
-        "name": "Ruse Mentale",
+        "name": "Ruse mentale",
         "text": "Désignez un personnage Bleu pour forcer un adversaire à répartir sa réserve de dés en 2 groupes de n'importe quelle taille. Choisissez 1 groupe et retirez-en tous les dés."
     },
     {
         "code": "01148",
-        "name": "Le Pouvoir de la Force",
+        "name": "Le pouvoir de la Force",
         "text": "Résolvez un de vos dés, en considérant que sa valeur est égale au nombre d'améliorations Bleues que vous avez en jeu."
     },
     {
         "code": "01149",
         "flavor": "\"Que la force soit avec toi... à jamais.\" <cite>Obi-Wan Kenobi</cite>",
-        "name": "Fais Appel à la Force",
+        "name": "Fais appel à la Force",
         "text": "Désignez un personnage Bleu pour tourner un dé sur n'importe quelle face."
     },
     {
         "code": "01150",
-        "name": "La Force Lie Toute Chose",
+        "name": "La Force lie toute chose",
         "text": "Avant de jouer une amélioration Bleue, vous pouvez incliner ce soutien pour diminuer de 1 son coût."
     },
     {
@@ -799,7 +801,7 @@
     },
     {
         "code": "01152",
-        "name": "Tous Ensemble",
+        "name": "Tous ensemble",
         "text": "Résolvez autant de vos dés que vous le souhaitez dans l'ordre de votre choix."
     },
     {
@@ -809,7 +811,7 @@
     },
     {
         "code": "01154",
-        "name": "Assaut au Corps à Corps",
+        "name": "Assaut au corps à corps",
         "text": "Comptez le nombre de dés que vous avez montrant des dégâts de mêlée ([melee]). Défaussez autant de cartes au hasard de la main d'un adversaire."
     },
     {
@@ -819,12 +821,12 @@
     },
     {
         "code": "01156",
-        "name": "Prise en Tenaille",
+        "name": "Prise en tenaille",
         "text": "A ne jouer que si vous avez plus de personnages qu'un adversaire.\nRetirez un des dés de cet adversaire."
     },
     {
         "code": "01157",
-        "name": "A l'Abri",
+        "name": "À l'abri",
         "text": "Donnez 1 bouclier à un personnage."
     },
     {
@@ -834,7 +836,7 @@
     },
     {
         "code": "01159",
-        "name": "Choc Electrique",
+        "name": "Choc électrique",
         "text": "Désignez un personnage Jaune pour retirez un dé montrant une valeur de 2 ou moins."
     },
     {
@@ -864,32 +866,32 @@
     },
     {
         "code": "01165",
-        "name": "Centre de Commandement",
+        "name": "Centre de commandement",
         "subtitle": "Lothal",
         "text": "<b>Capture</b> - Chaque adversaire défausse les 2 premières cartes de son deck."
     },
     {
         "code": "01166",
-        "name": "Base Echo",
+        "name": "Base Écho",
         "subtitle": "Hoth",
         "text": "<b>Capture</b> - Donnez 1 bouclier à un personnage."
     },
     {
         "code": "01167",
-        "name": "Salle du Trône de l'Empereur",
-        "subtitle": "Etoile Noire II",
+        "name": "Salle du trône de l'Empereur",
+        "subtitle": "Étoile Noire II",
         "text": "<b>Capture</b> - Tournez un de vos dés sur un face montrant une capacité spéciale ([special]). Puis vous pouvez résoudre ce dé."
     },
     {
         "code": "01168",
-        "name": "Désolations Gelées",
+        "name": "Désolations gelées",
         "subtitle": "Base Starkiller",
         "text": "<b>Capture</b> - Retirez un dé de personnage."
     },
     {
         "code": "01169",
-        "name": "Arsenal Impérial",
-        "subtitle": "Etoile Noire",
+        "name": "Arsenal impérial",
+        "subtitle": "Étoile Noire",
         "text": "<b>Capture</b> - Jouez une amélioration de votre main en diminuant de 1 son coût."
     },
     {
@@ -900,7 +902,7 @@
     },
     {
         "code": "01171",
-        "name": "Centre de Commandement Rebelle",
+        "name": "Centre de commandement Rebelle",
         "subtitle": "Yavin IV",
         "text": "<b>Capture</b> - Résolvez un de vos dés. S'il a un coût en ressources, vous n'avez pas à le payer."
     },
@@ -912,13 +914,13 @@
     },
     {
         "code": "01173",
-        "name": "Base Separatiste",
+        "name": "Base séparatiste",
         "subtitle": "Mustafar",
         "text": "<b>Capture</b> - Chaque adversaire choisit et inflige 1 dégât non blocable à l'un de ses personnages."
     },
     {
         "code": "01174",
-        "name": "Cimetière d'Epaves",
+        "name": "Cimetière d'épaves",
         "subtitle": "Jakku",
         "text": "<b>Capture</b> - Choisissez un soutien ou une amélioration dans votre pile de défausse et placez-le sur le dessus de votre deck."
     }
