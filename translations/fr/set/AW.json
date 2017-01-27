@@ -228,7 +228,7 @@
     },
     {
         "code": "01041",
-        "name": "Sabre Laser Luke Skywalker",
+        "name": "Sabre laser de Luke Skywalker",
         "text": "Personnage Bleu uniquement.\n[special] - Donnez 2 boucliers à un personnage ou infligez 2 dégâts non blocables à un personnage."
     },
     {
@@ -382,14 +382,14 @@
     },
     {
         "code": "01070",
-        "flavor": "Les Droides de combat sont moints efficaces que les soldats de chair et de sang, mais ils coutent beaucoup moins cher à remplacer.",
+        "flavor": "Les droïdes de combat sont moins efficaces que les soldats de chair et de sang, mais ils coûtent beaucoup moins cher à remplacer.",
         "name": "Rangs sans fin",
-        "text": "Ramenez un de vos personnages Rouges non uniques vaincus dans la partie dans dégâts sur lui.."
+        "text": "Ramenez un de vos personnages Rouges non uniques vaincus dans la partie sans dégât sur lui."
     },
     {
         "code": "01071",
         "name": "Occupation",
-        "text": "A ne jouer que si vous contrôlez le champ de bataille.\nForcez un adversaire à perdre toutes ses ressources."
+        "text": "À ne jouer que si vous contrôlez le champ de bataille.\nForcez un adversaire à perdre toutes ses ressources."
     },
     {
         "code": "01072",
@@ -822,7 +822,7 @@
     {
         "code": "01156",
         "name": "Prise en tenaille",
-        "text": "A ne jouer que si vous avez plus de personnages qu'un adversaire.\nRetirez un des dés de cet adversaire."
+        "text": "À ne jouer que si vous avez plus de personnages redressés qu'un adversaire.\nRetirez un des dés de cet adversaire."
     },
     {
         "code": "01157",
