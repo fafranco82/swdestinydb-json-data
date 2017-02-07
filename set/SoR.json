@@ -52,6 +52,32 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02010",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"You understimate my power\"",
+        "has_die": true,
+        "health": 11,
+        "is_unique": true,
+        "name": "Darth Vader",
+        "points": "13/17",
+        "position": 10,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1RD",
+            "2MD",
+            "3MD1",
+            "1Dc",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Dark Apprentice",
+        "text": "[special] - Deal 3 damage to a character. Then deal 1 damage to this character.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02011",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -104,6 +130,32 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "02037",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"Stretch out with your feelings.\"",
+        "has_die": true,
+        "health": 11,
+        "is_unique": true,
+        "name": "Obi-Wan Kenobi",
+        "points": "16/20",
+        "position": 37,
+        "rarity_code": "L",
+        "set_code": "SoR",
+        "sides": [
+            "1MD",
+            "3MD",
+            "1F",
+            "2F",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Mysterious Hermit",
+        "text": "Guardian.\nBefore this character is defeated, you may play a Blue card from your hand or discard pile for free.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "02044",
         "deck_limit": 1,
         "faction_code": "yellow",
@@ -127,6 +179,21 @@
         "subtitle": "Relentless Operative",
         "text": "The cost of the first Yellow event you play each round is decreased by 1.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "02076",
+        "cost": 5,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Rise Again",
+        "position": 76,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Heal 5 damage from a unique Blue character. You may play an upgrade from your discard pile on it for free.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "hero",
@@ -174,5 +241,21 @@
         "set_code": "SoR",
         "text": "Choose one of your Yellow characters. Turn any number of its character and upgrade dice to sides of your choice.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02151",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "illustrator": "Darren Tan",
+        "is_unique": false,
+        "name": "Carbon-freezing Chamber",
+        "position": 151,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "subtitle": "Bespin",
+        "text": "<b>Claim</b> - Choose a character die. That die cannot be rolled during the next round.",
+        "type_code": "battlefield"
     }
 ]
