@@ -422,5 +422,20 @@
         "subtitle": "Bespin",
         "text": "<b>Claim</b> - Choose a character die. That die cannot be rolled during the next round.",
         "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02155",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Maz's Castle",
+        "position": 155,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "subtitle": "Takodana",
+        "text": "<b>Claim</b> - Draw 2 cards. Place any number of cards from your hand on the bottom of your deck (<em>in any order</em>).",
+        "type_code": "battlefield"
     }
 ]
