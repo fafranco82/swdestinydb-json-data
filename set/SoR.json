@@ -284,6 +284,31 @@
         "type_code": "upgrade"
     },
     {
+        "affiliation_code": "neutral",
+        "code": "02055",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "illustrator": "Tiziano Baracchi",
+        "is_unique": false,
+        "name": "Force Speed",
+        "position": 55,
+        "rarity_code": "L",
+        "set_code": "SoR",
+        "sides": [
+            "1F",
+            "1Sh",
+            "Sp",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "ability",
+        "text": "Blue character only.\n[special] - Take up to 2 additional actions",
+        "type_code": "upgrade"
+    },
+    {
         "affiliation_code": "villain",
         "code": "02076",
         "cost": 5,
@@ -347,6 +372,21 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "02114",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Loth-Cat and Mouse",
+        "position": 114,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Force an opponent to choose and remove one of your dice. Then remove one of their dice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "02115",
         "cost": 3,
         "deck_limit": 2,
@@ -375,6 +415,21 @@
         "rarity_code": "U",
         "set_code": "SoR",
         "text": "Play only if you have dice showing a combined value of 10 or more.\nRemove all of your dice and deal 10 damage to a character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02121",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Salvo",
+        "position": 121,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Resolve one of your dice showing ranged damage ([ranged]) against each of an opponent's characters.",
         "type_code": "event"
     },
     {
