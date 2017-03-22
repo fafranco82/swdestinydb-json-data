@@ -130,6 +130,31 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "02032",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "illustrator": "John Lee Johnson",
+        "is_unique": false,
+        "name": "A180 Blaster",
+        "position": 32,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "2RD",
+            "+2RD",
+            "1Dr",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "weapon",
+        "text": "[special] - Deal 1 damage to a character and give attached character 1 shield.\n[special] - Deal 1 damage to each of an opponent's characters.\n[special] - Deal 2 unblockable damage to a character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "02037",
         "deck_limit": 1,
         "faction_code": "blue",
