@@ -505,6 +505,21 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02154",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Ewok Village",
+        "position": 154,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "subtitle": "Endor",
+        "text": "<b>Claim</b> - Remove all shields from a character.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02155",
         "deck_limit": 1,
         "faction_code": "gray",
