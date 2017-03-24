@@ -129,6 +129,30 @@
         "type_code": "upgrade"
     },
     {
+        "affiliation_code": "villain",
+        "code": "02022",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "is_unique": true,
+        "name": "Slave I",
+        "position": 22,
+        "rarity_code": "L",
+        "set_code": "SoR",
+        "sides": [
+            "2RD",
+            "3RD",
+            "4RD1",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "vehicle",
+        "text": "[special] - Force an opponent to deal damage to their characters equal to the number of dice in their dice pool, distributed as they wish.",
+        "type_code": "support"
+    },
+    {
         "affiliation_code": "hero",
         "code": "02029",
         "deck_limit": 1,
@@ -337,6 +361,30 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02052",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "is_unique": false,
+        "name": "Astromech",
+        "position": 52,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1F",
+            "2F",
+            "1Sh",
+            "1R",
+            "-",
+            "-"
+        ],
+        "subtype_code": "droid",
+        "text": "<b>Action</b> - Remove this die to turn a <i>vehicle</i> die to any side.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02055",
         "cost": 0,
         "deck_limit": 2,
@@ -373,6 +421,21 @@
         "rarity_code": "U",
         "set_code": "SoR",
         "text": "Heal 5 damage from a unique Blue character. You may play an upgrade from your discard pile on it for free.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "02084",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Loose Ends",
+        "position": 84,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Ambush.\nRemove one of your dice showing ranged damage ([ranged]) to discard the top 4 cards of an opponent's deck.",
         "type_code": "event"
     },
     {
@@ -482,6 +545,21 @@
         "rarity_code": "U",
         "set_code": "SoR",
         "text": "Resolve one of your dice showing ranged damage ([ranged]) against each of an opponent's characters.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02127",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Decisive Blow",
+        "position": 127,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Resolve one of your dice showing melee damage ([melee]). Then remove all character and upgrade dice of the character you just dealt damage to.",
         "type_code": "event"
     },
     {
