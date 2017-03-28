@@ -407,6 +407,28 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "02036",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"Synchronize on my mark.\"",
+        "has_die": true,
+        "health": 10,
+        "illustrator": "Kate Laird",
+        "is_unique": true,
+        "name": "Luminara Unduli",
+        "points": "13/17",
+        "position": 36,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1MD", "2MD", "1F", "1R", "Sp", "-"
+        ],
+        "subtitle": "Inspiring Commander",
+        "text": "[special] - Resolve one of your character dice, increasing its value by 2, or by 3 instead if it is a non-unique character die.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "02037",
         "deck_limit": 1,
         "faction_code": "blue",
