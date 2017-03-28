@@ -39,7 +39,12 @@
         "rarity_code": "R",
         "set_code": "SoR",
         "sides": [
-            "1RD", "1MD", "2MD1", "1Sh", "1R", "-"
+            "1RD",
+            "1MD",
+            "2MD1",
+            "1Sh",
+            "1R",
+            "-"
         ],
         "subtitle": "Loyal Trooper",
         "text": "After you play a <i>weapon</i> on this character, roll that <i>weapon</i> die, if able. You may immediately resolve it.",
@@ -139,7 +144,12 @@
         "rarity_code": "R",
         "set_code": "SoR",
         "sides": [
-            "1MD", "2MD", "+2MD", "1Sh", "1Sh", "-"
+            "1MD",
+            "2MD",
+            "+2MD",
+            "1Sh",
+            "1Sh",
+            "-"
         ],
         "text": "Guardian.\nYou cannot play Blue <i>abilities</i> on this character.",
         "type_code": "character"
@@ -612,7 +622,12 @@
         "rarity_code": "R",
         "set_code": "SoR",
         "sides": [
-            "1MD", "1MD", "+2MD", "1Dc", "1R", "-"
+            "1MD",
+            "1MD",
+            "+2MD",
+            "1Dc",
+            "1R",
+            "-"
         ],
         "subtype_code": "weapon",
         "text": "Ambush.\nWhile this die is in your pool, melee damage ([melee]) dealt by your dice (<em>including this die</em>) is unblockable.",
