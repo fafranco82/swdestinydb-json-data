@@ -421,7 +421,12 @@
         "rarity_code": "R",
         "set_code": "SoR",
         "sides": [
-            "1MD", "2MD", "1F", "1R", "Sp", "-"
+            "1MD",
+            "2MD",
+            "1F",
+            "1R",
+            "Sp",
+            "-"
         ],
         "subtitle": "Inspiring Commander",
         "text": "[special] - Resolve one of your character dice, increasing its value by 2, or by 3 instead if it is a non-unique character die.",
@@ -924,6 +929,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Jeff Lee Johnson",
         "is_unique": false,
         "name": "Friends in Low Places",
         "position": 146,
