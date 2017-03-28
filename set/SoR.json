@@ -26,6 +26,27 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02002",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"Traitor!\"",
+        "has_die": true,
+        "health": 11,
+        "is_unique": true,
+        "name": "FN-2199",
+        "points": "10/13",
+        "position": 2,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1RD", "1MD", "2MD1", "1Sh", "1R", "-"
+        ],
+        "subtitle": "Loyal Trooper",
+        "text": "After you play a <i>weapon</i> on this character, roll that <i>weapon</i> die, if able. You may immediately resolve it.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02003",
         "deck_limit": 1,
         "faction_code": "red",
@@ -101,6 +122,26 @@
         ],
         "subtitle": "Galactic Emperor",
         "text": "After you resolve this die, force an opponent to deal 2 damage to their characters, distributed as they wish.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "02012",
+        "deck_limit": 3,
+        "faction_code": "blue",
+        "has_die": true,
+        "health": 8,
+        "illustrator": "Ben Zweifel",
+        "is_unique": false,
+        "name": "Royal Guard",
+        "points": "9",
+        "position": 12,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1MD", "2MD", "+2MD", "1Sh", "1Sh", "-"
+        ],
+        "text": "Guardian.\nYou cannot play Blue <i>abilities</i> on this character.",
         "type_code": "character"
     },
     {
@@ -555,8 +596,42 @@
             "-"
         ],
         "subtype_code": "ability",
-        "text": "Blue character only.\n[special] - Take up to 2 additional actions",
+        "text": "Blue character only.\n[special] - Take up to 2 additional actions.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02057",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": true,
+        "is_unique": false,
+        "name": "Vibroknife",
+        "position": 57,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1MD", "1MD", "+2MD", "1Dc", "1R", "-"
+        ],
+        "subtype_code": "weapon",
+        "text": "Ambush.\nWhile this die is in your pool, melee damage ([melee]) dealt by your dice (<em>including this die</em>) is unblockable.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "02070",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Imperial Inspection",
+        "position": 70,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "After one of your dice rolls a disrupt ([disrupt]), you may exhaust this support to return an upgrade in play that costs 2 or less to its owner's hand.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
@@ -803,6 +878,21 @@
         "rarity_code": "U",
         "set_code": "SoR",
         "text": "Resolve one of your dice showing a resource ([resource]). Then switch all of your resources with all of an opponent's resources.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02146",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Friends in Low Places",
+        "position": 146,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Spot a Yellow character to look at an opponent's hand and discard an event from it that costs 1 or less.",
         "type_code": "event"
     },
     {
