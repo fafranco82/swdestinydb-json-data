@@ -588,6 +588,31 @@
         "type_code": "upgrade"
     },
     {
+        "affiliation_code": "hero",
+        "code": "02050",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "illustrator": "Romana Kendelic",
+        "is_unique": true,
+        "name": "Maz's Goggles",
+        "position": 50,
+        "rarity_code": "L",
+        "set_code": "SoR",
+        "sides": [
+            "1F",
+            "2F",
+            "1R",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "equipment",
+        "text": "To play, spot a Yellow character.\n[special] - Look at an opponent's hand and discard an event from it.",
+        "type_code": "upgrade"
+    },
+    {
         "affiliation_code": "neutral",
         "code": "02052",
         "cost": 2,
@@ -659,6 +684,22 @@
         "subtype_code": "weapon",
         "text": "Ambush.\nWhile this die is in your pool, melee damage ([melee]) dealt by your dice (<em>including this die</em>) is unblockable.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "02068",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "illustrator": "Matt Bradbury",
+        "is_unique": false,
+        "name": "Whe Have Them Now",
+        "position": 68,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Play only if you control de battlefield.\nTurn up to 4 of your dice to sides showing damage ([ranged] or [melee]).",
+        "type_code": "event"
     },
     {
         "affiliation_code": "villain",
@@ -874,6 +915,22 @@
         "rarity_code": "U",
         "set_code": "SoR",
         "text": "Resolve one of your dice showing melee damage ([melee]). Then remove all character and upgrade dice of the character you just dealt damage to.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02131",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "Tiziano Baracchi",
+        "is_unique": false,
+        "name": "Premonitions",
+        "position": 131,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Choose one: set this card aside and stack a card from your hand on it facedown, or play the card stacked on another copy of this card for free and discard the set aside copy.",
         "type_code": "event"
     },
     {
