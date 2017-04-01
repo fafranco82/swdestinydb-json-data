@@ -623,7 +623,12 @@
         "rarity_code": "R",
         "set_code": "SoR",
         "sides": [
-            "1RD", "+2RD", "2MD", "+1MD", "1R", "-"
+            "1RD",
+            "+2RD",
+            "2MD",
+            "+1MD",
+            "1R",
+            "-"
         ],
         "subtitle": "Blind Warrior",
         "text": "You cannot play Blue <i>abilities</i> on this character.\nAfter you activate this character, you may reroll all of your dice showing blanks ([blank]).",
@@ -696,7 +701,12 @@
         "rarity_code": "R",
         "set_code": "SoR",
         "sides": [
-            "2RD", "3RD1", "1F", "1Sh", "Sp", "-"
+            "2RD",
+            "3RD1",
+            "1F",
+            "1Sh",
+            "Sp",
+            "-"
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Reroll up to 3 dices (<em>yours and/or your opponent's</em>).",
@@ -893,7 +903,12 @@
         "rarity_code": "R",
         "set_code": "SoR",
         "sides": [
-            "1RD", "2RD", "1Dr", "1Dc", "1R", "-"
+            "1RD",
+            "2RD",
+            "1Dr",
+            "1Dc",
+            "1R",
+            "-"
         ],
         "text": "After you play the last card from your hand, gain 1 resource.",
         "type_code": "character"
