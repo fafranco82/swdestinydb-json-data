@@ -2034,6 +2034,22 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02124",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "illustrator": "Cristi Balanescu",
+        "is_unique": false,
+        "name": "Air Superiority",
+        "position": 124
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "After you play this support, place 3 shields on it.\n<b>Action</b> - Exhaust this support to move 1 shield from it to a character.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02125",
         "cost": 2,
         "deck_limit": 2,
