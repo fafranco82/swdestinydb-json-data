@@ -1368,6 +1368,22 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02075",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "Caroline Gariba",
+        "is_unique": false,
+        "name": "Now you will die",
+        "position": 75,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Resolve one of your dice as if it were showing melee damage ([melee]) <i>(it keeps its original value)</i>.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02076",
         "cost": 5,
         "deck_limit": 2,
