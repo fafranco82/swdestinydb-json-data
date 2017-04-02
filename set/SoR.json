@@ -2421,6 +2421,7 @@
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
+        "illustrator": "Emilio Rodriguez",
         "is_unique": false,
         "name": "Cargo Hold",
         "position": 152,
