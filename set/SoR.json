@@ -1747,6 +1747,21 @@
         "text": "Remove any number of your Blue dice. Play a card from your hand for free that costs equal to or less than the combined value of the Blue dice you just removed.",
         "type_code": "event"
     },
+        "affiliation_code": "hero",
+        "code": "02103",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "Tony Foti",
+        "is_unique": false,
+        "name": "Guard",
+        "position": 103,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Remove one of your Blue dice showing melee damage ([melee]) to remove a number of an opponent's dice equal to the value of the die you just removed.",
+        "type_code": "event"
+    },
     {
         "affiliation_code": "hero",
         "code": "02104",
