@@ -1415,6 +1415,22 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02079",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "John Stanko",
+        "is_unique": false,
+        "name": "Now I am the master",
+        "position": 79,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "After attached character's character or upgrade dice deal damage, you may exhause this upgrade to turn a die to a side showing a blank ([blank]).",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02081",
         "cost": 0,
         "deck_limit": 2,
