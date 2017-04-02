@@ -1859,6 +1859,22 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "02110",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "illustrator": "Andrius Anezin",		
+        "is_unique": false,
+        "name": "Garbage'll Do",
+        "position": 110,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Ambush. <i>(You may take one additional axtion after you play this card.)</i>\nRemove one of your <b>vehicle</b> dice to give each of your characters 1 shield.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "02111",
         "cost": 0,
         "deck_limit": 2,
