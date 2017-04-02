@@ -686,6 +686,30 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "02034",
+        "deck_limit": 3,
+        "faction_code": "blue",
+        "has_die": true,
+        "health": 7,
+        "is_unique": false,
+        "name": "Jedi Acolyte",
+        "points": "9",
+        "position": 34,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1MD",
+            "1F",
+            "2F",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "text": "Before you resolve this die, increase its value by 1, if it is showing the same symbol as one of your other dice.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "02035",
         "deck_limit": 1,
         "faction_code": "blue",
