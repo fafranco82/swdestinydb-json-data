@@ -1211,6 +1211,22 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02061",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "illustrator": "Vlad Ricean",
+        "is_unique": false,
+        "name": "Battle Formation",
+        "position": 61,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Ambush. <i>(You may take one additional action after you play this card.)</i>\nCount the number of Red characters you have. You may reroll that many of your dice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02062",
         "cost": 0,
         "deck_limit": 2,
