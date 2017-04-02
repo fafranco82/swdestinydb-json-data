@@ -1827,6 +1827,22 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "02108",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "Sara Biddle",
+        "is_unique": false,
+        "name": "Protective Mentor",
+        "position": 108,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Attached character's shields can be used to block damage dealt to any character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "02109",
         "cost": 0,
         "deck_limit": 2,
