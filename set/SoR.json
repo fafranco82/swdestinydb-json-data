@@ -1912,6 +1912,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Priscilla Kim",
         "is_unique": false,
         "name": "Loth-Cat and Mouse",
         "position": 114,
