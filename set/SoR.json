@@ -1971,6 +1971,22 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02119",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "illustrator": "Matt Bradbury",
+        "is_unique": false,
+        "name": "Bombing Run",
+        "position": 119,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Resolve one of your Red dice showing a disrupt ([disrupt]). Then deal 1 damage t each of an opponent's characters.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02120",
         "cost": 0,
         "deck_limit": 2,
