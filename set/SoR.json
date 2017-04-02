@@ -1954,6 +1954,22 @@
         "type_code": "event"
     },
     {
+        "affiliation_code": "hero",
+        "code": "02117",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "illustrator": "Tiziano Baracchi",
+        "is_unique": false,
+        "name": "Double-Dealing",
+        "position": 117,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "After one of your dce rolls a special ([special]), you may exhaust this support to gain 1 resource.",
+        "type_code": "support"
+    },
+    {
         "affiliation_code": "neutral",
         "code": "02120",
         "cost": 0,
