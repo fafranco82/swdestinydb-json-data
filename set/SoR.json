@@ -1642,6 +1642,7 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
+        "illustrator": "Charles Urbach",
         "is_unique": false,
         "name": "Rebel Assault",
         "position": 94,
