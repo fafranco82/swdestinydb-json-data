@@ -1621,6 +1621,22 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "02093",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "illustrator": "Adam Lane",
+        "is_unique": false,
+        "name": "Our only hope",
+        "position": 93,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Draw a card. You may play that card for free or discard that card to gain 2 resources.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "02094",
         "cost": 0,
         "deck_limit": 2,
