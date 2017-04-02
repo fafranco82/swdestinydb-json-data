@@ -2200,6 +2200,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
+        "illustrator": "Adam Schumpert",
         "is_unique": false,
         "name": "Force Illusion",
         "position": 135,
