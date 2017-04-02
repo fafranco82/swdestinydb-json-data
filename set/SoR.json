@@ -2067,6 +2067,22 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02126",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": false,
+        "name": "Wingman",
+        "position": 126,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Red character only.\nAfter you activate a Red character, you may activate attached character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02127",
         "cost": 3,
         "deck_limit": 2,
