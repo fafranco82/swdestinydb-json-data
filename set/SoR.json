@@ -1653,6 +1653,22 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "02095",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "illustrator": "Sidharth Chaturvedi",
+        "is_unique": false,
+        "name": "Sensor Placement",
+        "position": 95,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Spot a red character to resolve an opponent's die not showing damage ([ranged] or [melee]) as if it were your die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "02096",
         "cost": 0,
         "deck_limit": 2,
