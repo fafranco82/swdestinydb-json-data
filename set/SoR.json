@@ -1289,6 +1289,22 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02067",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "illustrator": "Mark Molnar",
+        "is_unique": false,
+        "name": "Undying Loyalty",
+        "position": 67,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Heal 1 damage from a Red character. If there is another copy of this event in your discard pile, you may spend 1 resource to place this event on the top of your deck instead of discarding it.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02068",
         "cost": 2,
         "deck_limit": 2,
