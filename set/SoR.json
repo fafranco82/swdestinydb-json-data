@@ -1525,6 +1525,22 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02087",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "illustrator": "Dinodrawing",
+        "is_unique": false,
+        "name": "Scrap buy",
+        "position": 86,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Play only if you have 3 or more cards in your discard pile.\nAdd a random card from your discard pile to your hand (<i>show the card to your opponents</i>).",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02088",
         "cost": 0,
         "deck_limit": 2,
