@@ -1880,6 +1880,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Jarreau Wimberly",	
         "is_unique": false,
         "name": "Hold On!",
         "position": 111,
