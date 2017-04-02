@@ -2307,6 +2307,22 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02143",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "illustrator": "Anastasia Ovchinnikova",
+        "is_unique": false,
+        "name": "Cheat",
+        "position": 143,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Switch a card in your hand with a card in your discard pile.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02144",
         "cost": 1,
         "deck_limit": 2,
