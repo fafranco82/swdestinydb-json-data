@@ -1399,6 +1399,22 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02077",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "Victor Manuel Leza Moreno",
+        "is_unique": false,
+        "name": "The price of failure",
+        "position": 77,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Spot a Blue character and defeat one of your characters to ready a character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02081",
         "cost": 0,
         "deck_limit": 2,
