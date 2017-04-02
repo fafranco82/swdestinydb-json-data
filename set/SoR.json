@@ -1468,6 +1468,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Sandare Tang",
         "is_unique": false,
         "name": "Bait and Switch",
         "position": 82,
