@@ -2369,6 +2369,22 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02149",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "illustrator": "Sidharth Chaturvedi",
+        "is_unique": false,
+        "name": "Outmaneuver",
+        "position": 149,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "After you claim the battlefield, gain 1 resource.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02150",
         "cost": 0,
         "deck_limit": 2,
