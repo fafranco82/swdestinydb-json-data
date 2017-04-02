@@ -104,6 +104,31 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02006",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": false,
+        "name": "Imperial Discipline",
+        "position": 6,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "+1RD",
+            "+1MD",
+            "1Sh",
+            "1R",
+            "+1R",
+            "-"
+        ],
+        "subtype_code": "ability",
+        "text": "Red character only.\n<b>Action</b> - Remove this die to turn one of this character's character or upgrade dice to a side showing ranged damage ([ranged]) or a resource ([resource]).",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02007",
         "cost": 2,
         "deck_limit": 2,
