@@ -2018,6 +2018,22 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02122",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "illustrator": "Sara Biddle",
+        "is_unique": false,
+        "name": "Suppression",
+        "position": 122
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Remove one of your Red dice showing ranged damage ([ranged]). Then remove an opponent's die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02125",
         "cost": 2,
         "deck_limit": 2,
