@@ -1091,6 +1091,30 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02051",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "illustrator": "Marko Horvatin",
+        "is_unique": false,
+        "name": "Supply Line",
+        "position": 51,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1F",
+            "1R",
+            "+1R",
+            "+1R",
+            "Sp",
+            "-"
+        ],
+        "text": "[special] - Reroll any number of your dice.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02052",
         "cost": 2,
         "deck_limit": 2,
@@ -1522,6 +1546,22 @@
         "rarity_code": "U",
         "set_code": "SoR",
         "text": "Ambush.\nRemove one of your dice showing ranged damage ([ranged]) to discard the top 4 cards of an opponent's deck.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "02085",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "illustrator": "BalanceSheet",
+        "is_unique": false,
+        "name": "One-Quarter Portion",
+        "position": 85,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Remove an opponenet's die. Then that opponent gains 1 resource.",
         "type_code": "event"
     },
     {
@@ -2258,6 +2298,22 @@
         "subtype_code": "ability",
         "text": "Before attached character takes damage, you may discard cards from the top of your deck equal to that damage to block it. Then discard this upgrade from play.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02136",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "illustrator": "Michael Anthony Gonzales",
+        "is_unique": false,
+        "name": "Evade",
+        "position": 136,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Remove a die showing ranged damage [ranged]",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
