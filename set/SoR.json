@@ -2480,6 +2480,21 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02157",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Otoh Gunga",
+        "position": 157,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "subtitle": "Naboo",
+        "text": "<b>Claim</b> - Heal 1 damage from a character.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02158",
         "deck_limit": 1,
         "faction_code": "gray",
