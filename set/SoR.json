@@ -2510,6 +2510,21 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02159",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Secret Facility",
+        "position": 159,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "subtitle": "Scarif",
+        "text": "<b>Claim</b> - Resolve up to 3 of your dice showing damage ([ranged] or [melee]).",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02160",
         "deck_limit": 1,
         "faction_code": "gray",
