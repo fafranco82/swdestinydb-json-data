@@ -1431,6 +1431,22 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02080",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "Jeff Lee Johnson",
+        "is_unique": false,
+        "name": "Doubt",
+        "position": 80,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Reroll an opponent's die. Then that opponent resolved that die or removes it.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02081",
         "cost": 0,
         "deck_limit": 2,
