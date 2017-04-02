@@ -1546,6 +1546,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
+        "illustrator": "Ivan Dixon",
         "is_unique": false,
         "name": "Salvage Stand",
         "position": 88,
