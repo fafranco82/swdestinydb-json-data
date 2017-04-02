@@ -2099,6 +2099,22 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02128",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "Jeff Lee Johnson",
+        "is_unique": false,
+        "name": "High Ground",
+        "position": 128,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Play only if you control the battlefield.\nRemove an opponent's die showing damage ([ranged] or [melee]). Then, if it was a character die, deal 1 damage to that character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02130",
         "cost": 1,
         "deck_limit": 2,
