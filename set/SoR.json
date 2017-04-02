@@ -2147,6 +2147,22 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02132",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "David Auden Nash",
+        "is_unique": false,
+        "name": "Rejuvinate",
+        "position": 132,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Spot a Blue character to heal 1 damage from a character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02133",
         "cost": 0,
         "deck_limit": 2,
