@@ -1556,6 +1556,23 @@
         "type_code": "support"
     },
     {
+        "affiliation_code": "villain",
+        "code": "02089",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "illustrator": "Jason Juta",
+        "is_unique": false,
+        "name": "Armor plating",
+        "position": 89,
+        "rarity_code": "U",
+        "set_code": "SoR", 
+        "subtype_code": "equipment",
+        "text": "Before attached character takes damage, you may block up to 2 damage. Then discard this upgrade from play.",
+        "type_code": "upgrade"
+    },
+    {
         "affiliation_code": "hero",
         "code": "02090",
         "cost": 4,
