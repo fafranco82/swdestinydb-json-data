@@ -92,12 +92,12 @@
         "rarity_code": "R",
         "set_code": "SoR",
         "sides": [
-          "+1RD",
-          "+2RD",
-          "+3RD1",
-          "1F",
-          "1R",
-          "-"
+            "+1RD",
+            "+2RD",
+            "+3RD1",
+            "1F",
+            "1R",
+            "-"
         ],
         "text": "While this die is in your pool, your other dice showing ranged damage ([ranged]) cannot be removed by an opponent.",
         "type_code": "character"
@@ -307,6 +307,7 @@
         "text": "Blue character only.\n[special] - Deal 1 damage to a character. You  may remove a die showing a blank ([blank]) to reroll this die instead of removing it from your pool.",
         "type_code": "upgrade"
     },
+    {
         "affiliation_code": "villain",
         "code": "02015",
         "cost": 3,
@@ -322,7 +323,7 @@
         "sides": [
             "1MD",
             "+2MD",
-            "+4MD1R",
+            "+4MD1",
             "1Sh",
             "1R",
             "-"
@@ -1567,7 +1568,7 @@
         "name": "Armor Plating",
         "position": 89,
         "rarity_code": "U",
-        "set_code": "SoR", 
+        "set_code": "SoR",
         "subtype_code": "equipment",
         "text": "Before attached character takes damage, you may block up to 2 damage. Then discard this upgrade from play.",
         "type_code": "upgrade"
@@ -1747,6 +1748,7 @@
         "text": "Remove any number of your Blue dice. Play a card from your hand for free that costs equal to or less than the combined value of the Blue dice you just removed.",
         "type_code": "event"
     },
+    {
         "affiliation_code": "hero",
         "code": "02103",
         "cost": 0,
@@ -1848,7 +1850,7 @@
         "deck_limit": 2,
         "faction_code": "gray",
         "has_die": false,
-        "illustrator": "Jason Cheeseman-Meyer",		
+        "illustrator": "Jason Cheeseman-Meyer",
         "is_unique": false,
         "name": "Confidence",
         "position": 109,
@@ -1864,7 +1866,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
-        "illustrator": "Andrius Anezin",		
+        "illustrator": "Andrius Anezin",
         "is_unique": false,
         "name": "Garbage'll Do",
         "position": 110,
@@ -1880,7 +1882,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
-        "illustrator": "Jarreau Wimberly",	
+        "illustrator": "Jarreau Wimberly",
         "is_unique": false,
         "name": "Hold On!",
         "position": 111,
@@ -2026,7 +2028,7 @@
         "illustrator": "Sara Biddle",
         "is_unique": false,
         "name": "Suppression",
-        "position": 122
+        "position": 122,
         "rarity_code": "C",
         "set_code": "SoR",
         "text": "Remove one of your Red dice showing ranged damage ([ranged]). Then remove an opponent's die.",
@@ -2042,7 +2044,7 @@
         "illustrator": "Cristi Balanescu",
         "is_unique": false,
         "name": "Air Superiority",
-        "position": 124
+        "position": 124,
         "rarity_code": "C",
         "set_code": "SoR",
         "text": "After you play this support, place 3 shields on it.\n<b>Action</b> - Exhaust this support to move 1 shield from it to a character.",
