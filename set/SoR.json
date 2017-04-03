@@ -334,6 +334,33 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02018",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"Well, what do we have here?\"",
+        "has_die": true,
+        "health": 10,
+        "illustrator": "Kate Laird",
+        "is_unique": true,
+        "name": "Aurra Sing",
+        "points": "14/18",
+        "position": 18,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2RD",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Deadly Shot",
+        "text": "Before you resolve this die, you may discard a card from your hand yo increase its value by 1.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02019",
         "deck_limit": 3,
         "faction_code": "yellow",
@@ -633,6 +660,31 @@
         ],
         "subtype_code": "droid",
         "text": "<b>Action</b> - Remove this die to resolve one of your dice as if it were showing a different symbol (<em>it keeps its original value</em>).",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "02031",
+        "cost": 5,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "illustrator": "Darren Tan",
+        "is_unique": false,
+        "name": "U-Wing",
+        "position": 31,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "3RD",
+            "3RD",
+            "2F",
+            "2R",
+            "Sp",
+            "Sp"
+        ],
+        "subtype_code": "vehicle",
+        "text": "[special] - Deal 2 damage to each of an opponent's characters.\n[special] - Give each of your characters 2 shields.",
         "type_code": "support"
     },
     {
@@ -1455,6 +1507,22 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02078",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "Zachary Graves",
+        "is_unique": false,
+        "name": "Dark Presence",
+        "position": 78,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "After one of your dice rolls a discard ([discard]), you may exhaust this support to force an opponent to choose and remove one of their dice.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02079",
         "cost": 1,
         "deck_limit": 2,
@@ -1474,7 +1542,7 @@
         "code": "02080",
         "cost": 0,
         "deck_limit": 2,
-        "faction_code": "blue",
+        "faction_code": "gray",
         "has_die": false,
         "illustrator": "Jeff Lee Johnson",
         "is_unique": false,
@@ -1784,7 +1852,7 @@
         "rarity_code": "C",
         "set_code": "SoR",
         "subtype_code": "ability",
-        "text": "After you activate attached character, you may draw a caard. Then place a card form your hand on the bottom of your deck.",
+        "text": "After you activate attached character, you may draw a card. Then place a card form your hand on the bottom of your deck.",
         "type_code": "upgrade"
     },
     {
@@ -2040,6 +2108,22 @@
         "rarity_code": "C",
         "set_code": "SoR",
         "text": "After one of your dice rolls a special ([special]), you may exhaust this support to gain 1 resource.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "02118",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "illustrator": "Tiziano Baracchi",
+        "is_unique": false,
+        "name": "Life Debt",
+        "position": 118,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Yellow character only.\nAfter you activate this character, you may move 1 damage from another character to this character <em>(this ignores shields)</em>.",
         "type_code": "support"
     },
     {
@@ -2474,6 +2558,21 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02147",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Sabotage",
+        "position": 147,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Discard cards from your hand equal to the cost of a support in play to discard that support.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02148",
         "cost": 0,
         "deck_limit": 2,
@@ -2597,6 +2696,21 @@
         "set_code": "SoR",
         "subtitle": "Takodana",
         "text": "<b>Claim</b> - Draw 2 cards. Place any number of cards from your hand on the bottom of your deck (<em>in any order</em>).",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02156",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Moisture Farm",
+        "position": 156,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "subtitle": "Tatooine",
+        "text": "<b>Claim</b> - Gain 1 resource.",
         "type_code": "battlefield"
     },
     {
