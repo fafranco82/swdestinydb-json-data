@@ -83,7 +83,7 @@
         "faction_code": "red",
         "flavor": "\"I can't shake him!\" <cite>Biggs Darklighter</cite>",
         "has_die": true,
-        "health": 12,
+        "health": 7,
         "illustrator": "Nicholas Stohlman",
         "is_unique": false,
         "name": "Tie Pilot",
@@ -1223,7 +1223,7 @@
         "position": 61,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Ambush. <i>(You may take one additional action after you play this card.)</i>\nCount the number of Red characters you have. You may reroll that many of your dice.",
+        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nCount the number of Red characters you have. You may reroll that many of your dice.",
         "type_code": "event"
     },
     {
@@ -1395,7 +1395,7 @@
         "position": 75,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Resolve one of your dice as if it were showing melee damage ([melee]) <i>(it keeps its original value)</i>.",
+        "text": "Resolve one of your dice as if it were showing melee damage ([melee]) <em>(it keeps its original value)</em>.",
         "type_code": "event"
     },
     {
@@ -1442,7 +1442,7 @@
         "position": 79,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "After attached character's character or upgrade dice deal damage, you may exhause this upgrade to turn a die to a side showing a blank ([blank]).",
+        "text": "After attached character's character or upgrade dice deal damage, you may exhaust this upgrade to turn a die to a side showing a blank ([blank]).",
         "type_code": "upgrade"
     },
     {
@@ -1458,7 +1458,7 @@
         "position": 80,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Reroll an opponent's die. Then that opponent resolved that die or removes it.",
+        "text": "Reroll an opponent's die. Then that opponent either resolves that die or removes it.",
         "type_code": "event"
     },
     {
@@ -1552,7 +1552,7 @@
         "position": 86,
         "rarity_code": "U",
         "set_code": "SoR",
-        "text": "Play only if you have 3 or more cards in your discard pile.\nAdd a random card from your discard pile to your hand (<i>show the card to your opponents</i>).",
+        "text": "Play only if you have 3 or more cards in your discard pile.\nAdd a random card from your discard pile to your hand (<em>show the card to your opponents</em>).",
         "type_code": "event"
     },
     {
@@ -1903,7 +1903,7 @@
         "position": 110,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Ambush. <i>(You may take one additional axtion after you play this card.)</i>\nRemove one of your <b>vehicle</b> dice to give each of your characters 1 shield.",
+        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nRemove one of your <b>vehicle</b> dice to give each of your characters 1 shield.",
         "type_code": "event"
     },
     {
@@ -1999,7 +1999,7 @@
         "position": 117,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "After one of your dce rolls a special ([special]), you may exhaust this support to gain 1 resource.",
+        "text": "After one of your dice rolls a special ([special]), you may exhaust this support to gain 1 resource.",
         "type_code": "support"
     },
     {
@@ -2015,7 +2015,7 @@
         "position": 119,
         "rarity_code": "U",
         "set_code": "SoR",
-        "text": "Resolve one of your Red dice showing a disrupt ([disrupt]). Then deal 1 damage t each of an opponent's characters.",
+        "text": "Resolve one of your Red dice showing a disrupt ([disrupt]). Then deal 1 damage to each of an opponent's characters.",
         "type_code": "event"
     },
     {
@@ -2304,7 +2304,7 @@
         "position": 139,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Ambush. <i>(You may take one additional action after you play this card.)</i>\nGive the next card you play this turn the Ambush keyword.",
+        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nGive the next card you play this turn the Ambush keyword.",
         "type_code": "event"
     },
     {
