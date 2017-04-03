@@ -1395,7 +1395,7 @@
         "position": 75,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Resolve one of your dice as if it were showing melee damage ([melee]) <i>(it keeps its original value)</i>.",
+        "text": "Resolve one of your dice as if it were showing melee damage ([melee]) <em>(it keeps its original value)</em>.",
         "type_code": "event"
     },
     {
