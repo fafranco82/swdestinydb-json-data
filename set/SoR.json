@@ -1501,6 +1501,21 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02064",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Sustained Fire",
+        "position": 64,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Play only if you have 2 or more dice showing ranged damage ([ranged]).\nRemove all shields from all of an opponent's characters.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02065",
         "cost": 1,
         "deck_limit": 2,
@@ -2466,6 +2481,21 @@
         "rarity_code": "C",
         "set_code": "SoR",
         "text": "Play only if you control the battlefield.\nRemove an opponent's die showing damage ([ranged] or [melee]). Then, if it was a character die, deal 1 damage to that character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02129",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "is_unique": false,
+        "name": "Momentum Shift",
+        "position": 129,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Move 1 shield from an opponent's character to one of your characters.",
         "type_code": "event"
     },
     {
