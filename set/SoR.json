@@ -83,7 +83,7 @@
         "faction_code": "red",
         "flavor": "\"I can't shake him!\" <cite>Biggs Darklighter</cite>",
         "has_die": true,
-        "health": 12,
+        "health": 7,
         "illustrator": "Nicholas Stohlman",
         "is_unique": false,
         "name": "Tie Pilot",
