@@ -1223,7 +1223,7 @@
         "position": 61,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Ambush. <i>(You may take one additional action after you play this card.)</i>\nCount the number of Red characters you have. You may reroll that many of your dice.",
+        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nCount the number of Red characters you have. You may reroll that many of your dice.",
         "type_code": "event"
     },
     {
