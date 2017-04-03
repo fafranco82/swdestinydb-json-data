@@ -1552,7 +1552,7 @@
         "position": 86,
         "rarity_code": "U",
         "set_code": "SoR",
-        "text": "Play only if you have 3 or more cards in your discard pile.\nAdd a random card from your discard pile to your hand (<i>show the card to your opponents</i>).",
+        "text": "Play only if you have 3 or more cards in your discard pile.\nAdd a random card from your discard pile to your hand (<em>show the card to your opponents</em>).",
         "type_code": "event"
     },
     {
