@@ -1458,7 +1458,7 @@
         "position": 80,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Reroll an opponent's die. Then that opponent resolved that die or removes it.",
+        "text": "Reroll an opponent's die. Then that opponent either resolves that die or removes it.",
         "type_code": "event"
     },
     {
