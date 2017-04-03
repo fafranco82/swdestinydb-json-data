@@ -104,6 +104,29 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02005",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "is_unique": false,
+        "name": "E-Web Emplacement",
+        "position": 5,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1RD",
+            "1RD1",
+            "2RD",
+            "2RD1",
+            "2Sh",
+            "-"
+        ],
+        "text": "While you control the battlefield, the value of each of this die's sides is increased by 1.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02006",
         "cost": 1,
         "deck_limit": 2,
@@ -331,6 +354,53 @@
         "subtype_code": "weapon",
         "text": "<b>Action</b> - Remove this die to give a non-attached character 1 shield.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "02016",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "is_unique": false,
+        "name": "Lure of Power",
+        "position": 16,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "+1X",
+            "+1X",
+            "+2X",
+            "1R",
+            "-",
+            "-"
+        ],
+        "text": "You may resolve the modifier sides <em>(sides with a +)</em> of this die to modify any symbol.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "02017",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": true,
+        "is_unique": false,
+        "name": "Interrogation Droid",
+        "position": 17,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1Dr",
+            "1Dc",
+            "1Dc",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtype_code": "droid",
+        "text": "After you activate this support, look at a random card in an opponent's hand. If that card is an event, you may remove this die to discard it.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
@@ -1067,6 +1137,30 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "02047",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "is_unique": false,
+        "name": "Smuggling Freighter",
+        "position": 47,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1Dr",
+            "2Dr",
+            "1R",
+            "2R",
+            "-",
+            "-"
+        ],
+        "subtype_code": "vehicle",
+        "text": "After you resolve one of this die's sides showing a value of 2, place this support on the top of your deck.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "02048",
         "cost": 4,
         "deck_limit": 2,
@@ -1284,6 +1378,78 @@
         ],
         "subtype_code": "weapon",
         "text": "Ambush.\nWhile this die is in your pool, melee damage ([melee]) dealt by your dice (<em>including this die</em>) is unblockable.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02058",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "is_unique": false,
+        "name": "Quadjumper",
+        "position": 58,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "2F",
+            "1Sh",
+            "2Sh",
+            "1R",
+            "1R",
+            "-"
+        ],
+        "subtype_code": "vehicle",
+        "text": "<b>Action</b> - Discard this support to play a support from your hand, decreasing its cost by 3.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02059",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "illustrator": "Jason Juta",
+        "is_unique": false,
+        "name": "Ascension Gun",
+        "position": 59,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1F",
+            "2Dc1",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "equipment",
+        "text": "[special] - Use the ability on a battlefield that is not being used <em>(but was brought to the game)</em> as if you had just claimed it.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "02060",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "is_unique": false,
+        "name": "Con Artist",
+        "position": 60,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "2Dr",
+            "2Dr",
+            "1Dc",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "text": "Yellow character only.\n[special] - Place 1 damage on this upgrade. Then discard cards from the top of an opponent's deck equal to the amount of damage on this upgrade.",
         "type_code": "upgrade"
     },
     {
@@ -1885,6 +2051,22 @@
         "rarity_code": "C",
         "set_code": "SoR",
         "text": "Remove any number of your Blue dice. Play a card from your hand for free that costs equal to or less than the combined value of the Blue dice you just removed.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "02102",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "Jacob Murray",
+        "is_unique": false,
+        "name": "Determination",
+        "position": 102,
+        "rarity_code": "C",
+        "set_code": "SoR",
+        "text": "Play only if you have one or more dice showing a focus ([focus]).\nResolve one of your dice as if it was showing a different symbol <em>(it keeps its original value)</em>",
         "type_code": "event"
     },
     {
