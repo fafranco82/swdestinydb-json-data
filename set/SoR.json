@@ -177,6 +177,26 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02008",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "illustrator": "Jeff Lee Johnson",
+        "is_unique": false,
+        "name": "Z6 Riot Control Baton",
+        "position": 8,
+        "rarity_code": "L",
+        "set_code": "SoR",
+        "sides": [
+            "2MD", "2MD", "3MD1", "1R", "-", "-"
+        ],
+        "subtype_code": "weapon",
+        "text": "Redeploy.\nAfter you roll this die into your pool, you may reroll it.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02009",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -1313,6 +1333,25 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "02054",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "is_unique": false,
+        "name": "Force Push",
+        "position": 54,
+        "rarity_code": "R",
+        "set_code": "SoR",
+        "sides": [
+            "2RD", "2RD", "2Dc", "Sp", "Sp", "-"
+        ],
+        "subtype_code": "ability",
+        "text": "Blue character only.\n[special] - Turn up to 2 of an opponent's dice to sides of your choice.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "02055",
         "cost": 0,
         "deck_limit": 2,
@@ -1615,6 +1654,22 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "02071",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "illustrator": "Artur Zima",
+        "is_unique": false,
+        "name": "Anger",
+        "position": 71,
+        "rarity_code": "U",
+        "set_code": "SoR",
+        "text": "Play only if you have 2 or more dice showing blanks ([blank]).\nResolve an opponent's die showing damage ([ranged] or [melee]) as if it were your die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "02072",
         "cost": 1,
         "deck_limit": 2,
@@ -1626,7 +1681,7 @@
         "position": 72,
         "rarity_code": "U",
         "set_code": "SoR",
-        "text": "Play onlu if you have one or more dice showing melee damage ([melee]).\nDeal 2 damage to a character.",
+        "text": "Play only if you have one or more dice showing melee damage ([melee]).\nDeal 2 damage to a character.",
         "type_code": "event"
     },
     {
