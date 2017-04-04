@@ -189,7 +189,12 @@
         "rarity_code": "L",
         "set_code": "SoR",
         "sides": [
-            "2MD", "2MD", "3MD1", "1R", "-", "-"
+            "2MD",
+            "2MD",
+            "3MD1",
+            "1R",
+            "-",
+            "-"
         ],
         "subtype_code": "weapon",
         "text": "Redeploy.\nAfter you roll this die into your pool, you may reroll it.",
@@ -764,7 +769,7 @@
         "is_unique": false,
         "name": "U-Wing",
         "position": 31,
-        "rarity_code": "R",
+        "rarity_code": "L",
         "set_code": "SoR",
         "sides": [
             "3RD",
@@ -1344,7 +1349,12 @@
         "rarity_code": "R",
         "set_code": "SoR",
         "sides": [
-            "2RD", "2RD", "2Dc", "Sp", "Sp", "-"
+            "2RD",
+            "2RD",
+            "2Dc",
+            "Sp",
+            "Sp",
+            "-"
         ],
         "subtype_code": "ability",
         "text": "Blue character only.\n[special] - Turn up to 2 of an opponent's dice to sides of your choice.",
