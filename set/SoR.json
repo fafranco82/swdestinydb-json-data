@@ -1925,7 +1925,7 @@
         "illustrator": "Dinodrawing",
         "is_unique": false,
         "name": "Scrap Buy",
-        "position": 86,
+        "position": 87,
         "rarity_code": "U",
         "set_code": "SoR",
         "text": "Play only if you have 3 or more cards in your discard pile.\nAdd a random card from your discard pile to your hand (<em>show the card to your opponents</em>).",
@@ -2503,7 +2503,7 @@
         "position": 123,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "After a player is defeated, gain 1 resource.",
+        "text": "After a character is defeated, gain 1 resource.",
         "type_code": "support"
     },
     {
