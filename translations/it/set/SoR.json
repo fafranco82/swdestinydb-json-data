@@ -7,7 +7,7 @@
     {
         "code": "02002",
         "flavor": "Traditore!",
-        "name": "FN-2199"
+        "name": "FN-2199",
         "subtitle": "Assaltatore Leale",
         "text": "Dopo aver gioca un'<i>Arma</i> su questo personaggio, tira il dado di quell'<i>Arma</i>, se possibile. Puoi risolverlo immediatamente.<em>(Traduzione non ufficiale)</em>"
     },
@@ -20,42 +20,42 @@
     {
         "code": "02004",
         "flavor": "\Non riesco a togliermelo di dosso!\" <cite>Biggs Darklighter</cite>",
-        "name": "Pilota TIE"
+        "name": "Pilota TIE",
         "text": "Fintanto che questo dado é nella tua riserva, gli altri tuoi dadi che mostrano danno a distanza [ranged] non possono essere rimossi dall'avversario.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02005",
-        "name": "Postazione E-Web"
+        "name": "Postazione E-Web",
         "text": "<em>Fintanto che controlli il campo di battaglia, il valore di ognuna delle facce di questo dado è aumentato di 1.(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02006",
-        "name": "Disciplina Imperiale"
+        "name": "Disciplina Imperiale",
         "text": "Solo personaggi rossi.\n<b>Azione</b> - Rimuovi questo dado per girare un dado personaggio o miglioria di questo personaggio su una faccia che mostra danno a distanza [ranged] o risorsa [resource]. <em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02007",
-        "name": "Pistola Blaster Pesante DT-29"
+        "name": "Pistola Blaster Pesante DT-29",
         "text": "<em>[special] - Rimuovi un dado di un avversario che mostra un costo in risorse.(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02008",
-        "name": "Bastone Antisommossa Z6"
+        "name": "Bastone Antisommossa Z6",
         "text": "Riposizionamento.\nDopo aver tirato questo dado nella tua riserva, puoi ritirarlo.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02009",
         "flavor": "\"La tua debolezza non sarà la causa della mia rovina!\"",
-        "name": "Asajj Ventress"
+        "name": "Asajj Ventress",
         "subtitle": "Assassina della Forza",
         "text": "Dopo che un avversario ha scartato una carta dalla loro mano per ritirare dadi, puoi obbligarli a scegliere e scartare un'altra carta dalla loro mano.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02010",
         "flavor": "\"Tu sottovaluti il mio potere.\"",
-        "name": "Darth Vader"
+        "name": "Darth Vader",
         "subtitle": "Apprendista Oscuro",
-        "text": "[spacial] - Infliggi 3 danni ad un personaggio. Poi infliggi 1 danno a questo persoanggio.<em>(Traduzione non ufficiale)</em>"
+        "text": "[special] - Infliggi 3 danni ad un personaggio. Poi infliggi 1 danno a questo persoanggio.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02011",
@@ -66,13 +66,13 @@
     },
     {
         "code": "02012",
-        "name": "Guardia Imperiale"
-        "text": "Protezione.<em>Prima di attivare questo personaggio, puoi risolvere contro di lui 1 dado \"danno\" di un avversario.</em>\nNon può giocare <b>Capacità</b> Blu su questo persoanggio.<em>(Traduzione non ufficiale)</em>"
+        "name": "Guardia Imperiale",
+        "text": "Protezione.<em>Prima di attivare questo personaggio, puoi risolvere contro di lui 1 dado \"danno\" di un avversario.</em>\nNon può giocare <b>Capacità</b> Blu su questo persoanggio.<em>(Traduzione non ufficiale)</em>",
     },
     {
         "code": "02013",
-        "name": "Navetta dei Commando"
-        "text": "[special] - Usa l'abilità speciale [special] di uno dei tuoi personaggi.<em>(Traduzione non ufficiale)</em>"
+        "name": "Navetta dei Commando",
+        "text": "[special] - Usa l'abilità speciale [special] di uno dei tuoi personaggi.<em>(Traduzione non ufficiale)</em>",
     },
     {
         "code": "02014",
