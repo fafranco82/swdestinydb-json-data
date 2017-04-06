@@ -77,39 +77,103 @@
     {
         "code": "02014",
         "name": "Fulmini della Forza",
-        "text": "Solo personaggi Blu.\n[special] - Infliggi 1 danno ad un personaggio. Puoi rimuovere un dado che mostra vuoto [blank] per ritirare questo dado invece di rimuoverlo dalla tua riserva."
+        "text": "Solo personaggi Blu.\n[special] - Infliggi 1 danno ad un personaggio. Puoi rimuovere un dado che mostra vuoto [blank] per ritirare questo dado invece di rimuoverlo dalla tua riserva.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02015",
         "name": "Picca Laser",
-        "text": "<b>Azione</b> - Rimuovi questo dado per assegnare uno scudo ad un'altro personaggio."
+        "text": "<b>Azione</b> - Rimuovi questo dado per assegnare uno scudo ad un'altro personaggio.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02016",
         "name": "Tentazione del Potere",
-        "text": "Puoi risolvere le facce modificate <em>facce con un +</em> di questo dado per modificare qualsiasi simbolo."
+        "text": "Puoi risolvere le facce modificate <em>facce con un +</em> di questo dado per modificare qualsiasi simbolo.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02017",
         "name": "Droide da Interrogatorio",
-        "text": "Dopo aver attivato questo supporto, guarda una carta a caso nella mano di un avversario. Se quella carta è un evento, puoi rimuovere questo dado per scartarla."
+        "text": "Dopo aver attivato questo supporto, guarda una carta a caso nella mano di un avversario. Se quella carta è un evento, puoi rimuovere questo dado per scartarla.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02018",
         "flavor": "\"Allora, cosa c'è qui?\"",
         "name": "Aurra Sing",
         "subtitle": "Colpo Mortale",
-        "text": "Prima di risolvere questo dado, puoi scartare una carta dalla tua mano per aumentare il suo valore di 1."
+        "text": "Prima di risolvere questo dado, puoi scartare una carta dalla tua mano per aumentare il suo valore di 1.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02019",
         "name": "Sicario dei Guavian",
-        "text": "<b>Azione</b> - Rimuovi questo dado per rimuovere uno scudo da un personaggio."
+        "text": "<b>Azione</b> - Rimuovi questo dado per rimuovere uno scudo da un personaggio.<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02020",
+        "name": "IG-88",
+        "subtitle": "Droide Assassino",
+        "text": "[special] - Gioca un'<i>arma</i> o un <i>equipaggiamento</i> dalla tua pila degli scarti su questo personaggio, diminuendo il suo costo di 2.<em>(Traduzione non ufficiale)</em>",
+    },
+    {
+        "code": "02021",
+        "name": "Unkar Plutt",
+        "subtitle": "Trafficante di Ferraglia",
+        "text": "<b>Azione</b> - Rimuovi un qualsiasi numero di tuoi dadi che mostrano un valore totale di 3 o più. Poi scarta una carta a caso dalla mano di un avversario e guadagna risorse pari al suo costo.<em>(Traduzione non ufficiale)</em>",
+    },
+    {
+        "code": "02022",
+        "name": "Slave I",
+        "text": "[special] - Obbliga un avversario ad infliggere danno ai loro personaggi pari al numero di dadi nella loro riserva, distribuiti come preferiscono.<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02023",
+        "name": "Ricatto",
+        "text": "Dopo aver tirato questo dado, un avversario qualsiasi può darti una risorsa per rimuoverlo.<em>(Traduzione non ufficiale)</em>",
+    },
+    {
+        "code": "02024",
+        "name": "Scudo Personale",
+        "text": "Prima che al personaggio con questa miglioria vengano inflitti due o più danni a distanza [ranged], puoi esaurire questa miglioria per fornire al personaggio uno scudo.<em>(Traduzione non ufficiale)</em>",
+    },
+    {
+        "code": "02025",
+        "name": "Vibroknuckler",
+        "text": "Imboscata.<em>Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.</em>\n Prima di risolvere questo dado, puoi spendere 1 risorsa per aumentare il suo valore di 1.<em>(Traduzione non ufficiale)</em>",
+    },
+    {
+        "code": "02026",
+        "name": "Baze Balmus",
+        "subtitle": "Colpo da Maestro",
+        "text": "[special] - Infliggi 1 danno ad ogni personaggio di un avversario.<em>(Traduzione non ufficiale)</em>",
+    },
+    {
+        "code": "02027",
+        "flavor": "\"\"",
+        "name": "",
+        "subtitle": "",
+        "text": "<em>(Traduzione non ufficiale)</em>",
+    },
+        {
+        "code": "0202X",
+        "flavor": "\"\"",
+        "name": "",
+        "subtitle": "",
+        "text": "<em>(Traduzione non ufficiale)</em>",
+    },
+        {
+        "code": "0202X",
+        "flavor": "\"\"",
+        "name": "",
+        "subtitle": "",
+        "text": "<em>(Traduzione non ufficiale)</em>",
     },
     {
         "code": "02044",
         "name": "Jyn Erso",
         "subtitle": "Agente Imprevedibile",
         "text": "Riduci di 1 il costo del primo evento giallo che giochi ogni round."
-    }
+    },
+    {
+        "code": "02046",
+        "name": "Contrabbandiere della Fascia Esterna",
+        "text": "Dopo che hai giocato l'ultima carta dalla tua mano, ottieni 1 risorsa."
+    },
 ]
