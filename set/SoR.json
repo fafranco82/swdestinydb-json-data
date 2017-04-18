@@ -1499,7 +1499,7 @@
         "is_unique": false,
         "name": "Quadjumper",
         "position": 58,
-        "rarity_code": "R",
+        "rarity_code": "L",
         "set_code": "SoR",
         "sides": [
             "2F",
@@ -2691,7 +2691,7 @@
         "is_unique": false,
         "name": "Decisive Blow",
         "position": 127,
-        "rarity_code": "U",
+        "rarity_code": "C",
         "set_code": "SoR",
         "text": "Resolve one of your dice showing melee damage ([melee]). Then remove all character and upgrade dice of the character you just dealt damage to.",
         "ttscardid": "2356",
