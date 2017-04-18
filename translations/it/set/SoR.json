@@ -9,7 +9,7 @@
         "flavor": "Traditore!",
         "name": "FN-2199",
         "subtitle": "Assaltatore Leale",
-        "text": "Dopo aver gioca un'<i>Arma</i> su questo personaggio, tira il dado di quell'<i>Arma</i>, se possibile. Puoi risolverlo immediatamente.<em>(Traduzione non ufficiale)</em>"
+        "text": "Dopo aver giocato un'<i>arma</i> su questo personaggio, tira il dado di quell'<i>arma</i>, se possibile. Puoi risolverlo immediatamente.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02003",
@@ -190,14 +190,197 @@
         "text": "Prima di risovere questo dado, aumenta il suo valore di 1, se mostra lo stesso simbolo di uno degli altri tuoi dadi. <em>(Traduzione non ufficiale)</em>",
     },
     {
+        "code": "02035",
+        "name": "Chirrut Imwe",
+        "subtitle": "Guerriero Cieco",
+        "text": "Non puoi giocare <i>abilità</i> Blu su questo personaggio.\n Dopo aver attivato, questo personaggio, puoi ritirare tutti i tuoi dadi che mostrano \"vuoto\" [blank].<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02036",
+        "flavor": "\"Sincronizzatevi al mio segnale.\"",
+        "name": "Luminara Unduli",
+        "subtitle": "Comandante Motivatore",
+        "text": "[special] - Risolvi uno dei tuoi dadi personaggio, aumentando il valore di 2, o di 3 se invece è un dado di un personaggio non unico.<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02037",
+        "flavor": "\"Estendi le tue percezioni.\"",
+        "name": "Obi-Wan Kenobi",
+        "subtitle": "Eremita Misterioso",
+        "text": "Protezione.\nPrima che questo personaggio sia sconfitto, puoi giocare gratuitamente una carta Blu dalla tua mano o dalla pila degli scarti.<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02038",
+        "flavor": "\"Uno dei preferiti dai Jedi durante le Guerre dei Cloni.\"",
+        "name": "Intercettore Delta-4",
+        "text": "[special] - Ritira fino a 3 dadi <em>tuoi e/o dei tuoi avversari</em>.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02039",
+        "name": "Balestra Leggera Artigianale",
+        "text": "[special] - Infliggi 3 danni ad un personaggio.\n[special] - Rimuovi tutti gli scudi da un personaggio. Poi infliggi 2 danni a quel personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02040",
+        "name": "Guarigione di Forza",
+        "text": "Solo personaggi Blu.\n[special] - Guarisci 1 danno da un personaggio o spendi 1 risorsa per guarire 2 danni da un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02041",
+        "name": "Diari di Ben Kenobi",
+        "text": "<b>Azione</b> - Rimuovi questo dado per pescare una carta.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02042",
+        "flavor": "\"Questo piccolo droide ed io ne abbiamo passate tante assieme.\" <cite>Luke Skywalker</cite>",
+        "name": "R2-D2",
+        "text": "[special] - Risolvi uno dei tuoi dadi aumentando di 1 il suo valore.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02043",
+        "name": "Chewbacca",
+        "subtitle": "Amico Fedele",
+        "text": "[special] - Gira un dado di un avversario su di una faccia che mostra \"danno\" ([ranged] or [melee]) per infliggere quel danno ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
         "code": "02044",
         "name": "Jyn Erso",
         "subtitle": "Agente Imprevedibile",
         "text": "Riduci di 1 il costo del primo evento giallo che giochi ogni round."
     },
     {
+        "code": "02045",
+        "flavor": "\"Se sei vissuto abbastanza, vedi gli stessi occhi in persone differenti.\"",
+        "name": "Maz Kanata",
+        "subtitle": "Regina Pirata",
+        "text": "Dopo aver attivato questo personaggio, puoi risolvere fino a 2 dei tuoi dadi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
         "code": "02046",
         "name": "Contrabbandiere della Fascia Esterna",
         "text": "Dopo che hai giocato l'ultima carta dalla tua mano, ottieni 1 risorsa."
+    },
+    {
+        "code": "02047",
+        "name": "Fregata de Contrabbandiere",
+        "text": "Dopo aver risolto una faccia di questo dado che mostra un valore di 2, metti questo supporto in cima al tuo mazzo.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02048",
+        "flavor": "\"Mi piace.\"<cite>Han Solo</cite>",
+        "name": "Balestra",
+        "text": "Riposizionamento.\n[special] - Infliggi 1 danno diretto ognuno a fino a due distinti personaggi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02049",
+        "name": "Agente Solitario",
+        "text": "[special] - Guarisci 2 danni al personaggio con questa miglioria, o 3 danni se invece tale personaggio è il solo tuo personaggio in gioco.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02050",
+        "name": "",
+        "text": "Avvista un personaggio Giallo per giocare questa carta.\n[special] - Guarda la mano di un avversario e scarta un evento da essa.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02051",
+        "name": "Linea di Rifornimento",
+        "text": "[special] - Ritira un qualsiasi numero di tuoi dadi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02052",
+        "name": "Droide Astromeccanico",
+        "text": "<b>Azione</b> - Rimuovi questo dado per girare un dado <i>veicolo</i> su una qualsiasi faccia.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02053",
+        "name": "Lanciarazzi",
+        "text": "[special] - Scarta un <i>veicolo</i> dal gioco.\n[special] - Infliggi 2 danni ciascuno a fino a 2 personaggi distinti.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02054",
+        "name": "Spinta di Forza",
+        "text": "Solo personaggi Blu.\n[special] - Gira fino a 2 dadi dell'avversario su facce a tua scelta.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02055",
+        "name": "Velocità di Forza",
+        "text": "Solo personaggi Blu.\n[special] - Esegui fino a 2 azioni aggiuntive.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02056",
+        "name": "Allenamento Makashi",
+        "text": "Avvista un personaggio Blu per giocare questa carta.\n<b>Azione</b> - Rimuovi uno dei tuoi dadi che mostrano una faccia danno in mischia [melee] ed esaurisci questa miglioria per rimuovere un dado che mostra una faccia danno in mischia [melee]. \n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02057",
+        "name": "Vibrocoltello",
+        "text": "Imboscata.\nFinché questo dado si trova nella tua riserva, considera i danni in mischia [melee] inflitti dai tuoi dadi <em>(incluso questo dado)</em> come se fossero danni diretti."
+    },
+    {
+        "code": "02058",
+        "name": "Quadjumper",
+        "text": "<b>Azione</b> - Scarta questo supporto per giocare un supporto dalla tua mano, diminuendo il suo costo di 3.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02059",
+        "name": "Fucile Ascensione",
+        "text": "[special] - Usa l'abilità su un campo di battaglia che non è in uso <em>(ma è stato incluso nella partita)</em> come se lo avessi appena rivendicato.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02060",
+        "name": "Artista della Truffa",
+        "text": "Solo personaggi Gialli.\n[special] - Metti 1 danno su questa miglioria.  Poi scarta carte dalla cima del mazzo di un avversario pari al numero di danni su questa miglioria.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02061",
+        "name": "Formazione da Battaglia",
+        "text": "Imboscata.<em>Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.</em>\nConta il numero di personaggi Rossi che possiedi. Puoi ritirare quel numero di tuoi dadi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02062",
+        "name": "Macchina da Guerra Imperiale",
+        "text": "Risolvi gratuitamente uno dei tuo dadi Rossi che mostra un costo in risorse.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02063",
+        "flavor": "\"\"",
+        "name": "",
+        "subtitle": "",
+        "text": "\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02063",
+        "name": "Blocco di Sicurezza",
+        "text": "Imboscata.\nAvvista due personaggi Rossi per prendere il controllo del campo di battaglia.<em>(Questo non rivendica il campo di battaglia.)</em>\n<em>(Traduzione non ufficiale)</em>"
+    },
+        {
+        "code": "02064",
+        "name": "Fuoco Prolungato",
+        "text": "Gioca questa carta solo se hai 2 o più dadi che mostrano danno a distanza [ranged].\nRimuovi tutti gli scudi da tutti i personaggi di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+    },
+        {
+        "code": "02065",
+        "name": "Traditore!",
+        "text": "Imboscata.\nScarta la carta in cima al tuo mazzo. poi rimuovi un dado che non mostra uno [special] con un valore pari o minore del costo della carta appena scartata.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02066",
+        "name": "Guerra di Trincea",
+        "text": "Gioca solo se hai uno o più dadi che mostrano uno scudo [shield].\nGira un qualsiasi numero di dadi dell'avversario su facce che mostrano scudi [shield].\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02067",
+        "name": "Lealtà Eterna",
+        "text": "Cura 1 danno ad un personaggio Rosso. Se c'è un'altra copia di questo evento nella tua pila degli scarti, puoi spendere 1 risorza per mettere questo evento in cima al tuo mazzo invece di scartarlo.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02068",
+        "name": "Adesso Sono Nostri",
+        "text": "Gioca questa carta solo se controlli il campo di battaglia.\nGira fino a 4 dei tuoi dadi su facce che mostrano danno ([ranged] o [melee]).\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02069",
+        "name": "Logoramento",
+        "text": "Dopo che uno dei tuoi personaggi è stato sconfitto, infliggi 1 danno ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
     },
 ]
