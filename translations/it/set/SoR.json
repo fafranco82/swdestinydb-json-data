@@ -110,13 +110,13 @@
         "code": "02020",
         "name": "IG-88",
         "subtitle": "Droide Assassino",
-        "text": "[special] - Gioca una carta <i>Arma</i> o <i>Equipaggiamento</i> gialla dalla tua pila degli scarti su questo personaggio, riducendo di 2 il suo costo.",
+        "text": "[special] - Gioca una carta <i>Arma</i> o <i>Equipaggiamento</i> gialla dalla tua pila degli scarti su questo personaggio, riducendo di 2 il suo costo."
     },
     {
         "code": "02021",
         "name": "Unkar Plutt",
         "subtitle": "Trafficante di Rottami",
-        "text": "<b>Azione</b> - Rimuovi un qualsiasi numero di tuoi dadi di valore totale pari o superiore a 3. Poi scarta una carta casuale dalla mano di un avversario e ottieni un ammontare di risorse pari al suo costo.",
+        "text": "<b>Azione</b> - Rimuovi un qualsiasi numero di tuoi dadi di valore totale pari o superiore a 3. Poi scarta una carta casuale dalla mano di un avversario e ottieni un ammontare di risorse pari al suo costo."
     },
     {
         "code": "02022",
@@ -126,68 +126,68 @@
     {
         "code": "02023",
         "name": "Ricatto",
-        "text": "Dopo aver tirato questo dado, un avversario qualsiasi può darti una risorsa per rimuoverlo.<em>(Traduzione non ufficiale)</em>",
+        "text": "Dopo aver tirato questo dado, un avversario qualsiasi può darti una risorsa per rimuoverlo.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02024",
         "name": "Scudo Personale",
-        "text": "Prima che il personaggio con questa miglioria subisca 2 o più danni a distanza [ranged], puoi esaurire questa miglioria per fornire 1 scudo al personaggio con questa miglioria.<em>(Traduzione non ufficiale)</em>",
+        "text": "Prima che il personaggio con questa miglioria subisca 2 o più danni a distanza [ranged], puoi esaurire questa miglioria per fornire 1 scudo al personaggio con questa miglioria.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02025",
         "name": "Vibroknuckler",
-        "text": "Imboscata.<em>Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.</em>\n Prima di risolvere questo dado, puoi spendere 1 risorsa per aumentare il suo valore di 1.<em>(Traduzione non ufficiale)</em>",
+        "text": "Imboscata.<em>Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.</em>\n Prima di risolvere questo dado, puoi spendere 1 risorsa per aumentare il suo valore di 1.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02026",
         "name": "Baze Balmus",
         "subtitle": "Colpo da Maestro",
-        "text": "[special] - Infliggi 1 danno ad ogni personaggio di un avversario.<em>(Traduzione non ufficiale)</em>",
+        "text": "[special] - Infliggi 1 danno ad ogni personaggio di un avversario.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02027",
         "name": "Mon Mothma",
         "subtitle": "Abile Politico",
-        "text": "Dopo che hai giocato un evento, puoi ritirare un dado dello stesso colore di quell'evento.<em>(Traduzione non ufficiale)</em>",
+        "text": "Dopo che hai giocato un evento, puoi ritirare un dado dello stesso colore di quell'evento.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02028",
         "name": "Commando Ribelle",
-        "text": "[special] - Rimuovi un dado di un avversario.<em>(Traduzione non ufficiale)</em>",
+        "text": "[special] - Rimuovi un dado di un avversario.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02029",
         "flavor": "\"Attenti alla contraerea!\"",
         "name": "Temmin \"Snap\" Wexley",
         "subtitle": "Specialista in Ricognizione",
-        "text": "Finché questo dado si trova nella tua riserva, il tuo avversario deve spendere 1 risorsa per reclamare il campo di battaglia.",
+        "text": "Finché questo dado si trova nella tua riserva, il tuo avversario deve spendere 1 risorsa per reclamare il campo di battaglia."
     },
     {
         "code": "02030",
         "flavor": "\"Sono io, C-3PO!\"",
         "name": "C-3PO",
-        "text": "<b>Azione</b> - Rimuovi questo dado per risolvere 1 tuo dado come se mostrasse un simbolo diverso <em>(conservando il suo valore originale)</em>.",
+        "text": "<b>Azione</b> - Rimuovi questo dado per risolvere 1 tuo dado come se mostrasse un simbolo diverso <em>(conservando il suo valore originale)</em>."
     },
     {
         "code": "02031",
         "name": "Ala-U",
-        "text": "[special] - Infliggi 2 danni ad ogni personaggio di un avversario.\n[special] - Assegna ad ogni tuo personaggio 2 scudi.<em>(Traduzione non ufficiale)</em>",
+        "text": "[special] - Infliggi 2 danni ad ogni personaggio di un avversario.\n[special] - Assegna ad ogni tuo personaggio 2 scudi.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02032",
         "name": "Blaster A180",
-        "text": "[special] - Infliggi 1 danno ad un personaggio e assegna 1 scudo al personaggio con questa miglioria.\n[special] - Infliggi 1 danno ad ogni personaggio di un avversario.\n[special] - Infliggi 2 danni diretti ad un personaggio.<em>(Traduzione non ufficiale)</em>",
+        "text": "[special] - Infliggi 1 danno ad un personaggio e assegna 1 scudo al personaggio con questa miglioria.\n[special] - Infliggi 1 danno ad ogni personaggio di un avversario.\n[special] - Infliggi 2 danni diretti ad un personaggio.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02033",
         "flavor": "\"La maggior parte dei soldati veterani sanno già di essere morti.\"",
         "name": "Esagerazione",
-        "text": "<em>(Traduzione non ufficiale)</em>",
+        "text": "<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02034",
         "name": "Accolito Jedi",
-        "text": "Prima di risovere questo dado, se mostra lo stesso simbolo di un altro tuo dado, aumenta di 1 il suo valore.",
+        "text": "Prima di risovere questo dado, se mostra lo stesso simbolo di un altro tuo dado, aumenta di 1 il suo valore."
     },
     {
         "code": "02035",
@@ -278,7 +278,7 @@
     },
     {
         "code": "02050",
-        "name": "",
+        "name": "Maz's Goggles",
         "text": "Avvista un personaggio Giallo per giocare questa carta.\n[special] - Guarda la mano di un avversario e scarta un evento da essa.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
@@ -346,12 +346,12 @@
         "name": "Blocco di Sicurezza",
         "text": "Imboscata.\nAvvista due personaggi Rossi per prendere il controllo del campo di battaglia.<em>(Questo non rivendica il campo di battaglia.)</em>\n<em>(Traduzione non ufficiale)</em>"
     },
-        {
+    {
         "code": "02064",
         "name": "Fuoco Prolungato",
         "text": "Gioca questa carta solo se hai 2 o più dadi che mostrano danno a distanza [ranged].\nRimuovi tutti gli scudi da tutti i personaggi di un avversario.\n<em>(Traduzione non ufficiale)</em>"
     },
-        {
+    {
         "code": "02065",
         "name": "Traditore!",
         "text": "Imboscata.\nScarta la carta in cima al tuo mazzo. poi rimuovi un dado che non mostra uno [special] con un valore pari o minore del costo della carta appena scartata.\n<em>(Traduzione non ufficiale)</em>"
@@ -432,18 +432,11 @@
         "text": "Ritira un dado di un avversario. Poi quell'avversario risolve oppure rimuove quel dado.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
-        "code": "0208X",
-        "flavor": "\"\"",
-        "name": "",
-        "subtitle": "",
-        "text": "\n<em>(Traduzione non ufficiale)</em>"
-    },
-        {
         "code": "02086",
         "name": "Inseguimento Implacabile",
         "text": "Sposta fino a 2 danni da un personaggio a un altro personaggio <em>(ignorando gli scudi)</em>."
     },
-       {
+    {
         "code": "02105",
         "name": "Mio Alleato è la Forza",
         "text": "Imboscata.\nRisolvi 1 tuo dado blu senza rimuoverlo dalla tua riserva."
@@ -457,6 +450,5 @@
         "code": "02138",
         "name": "Parata",
         "text": "Rimuovi 1 dado \"danno in mischia\" ([melee])."
-    },
-
+    }
 ]
