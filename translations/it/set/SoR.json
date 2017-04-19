@@ -36,19 +36,19 @@
     {
         "code": "02007",
         "name": "Pistola Blaster Pesante DT-29",
-        "text": "<em>[special] - Rimuovi un dado di un avversario che mostra un costo in risorse.(Traduzione non ufficiale)</em>"
+        "text": "[special] - Rimuovi 1 dado di un avversario con un costo in risorse."
     },
     {
         "code": "02008",
-        "name": "Bastone Antisommossa Z6",
-        "text": "Riposizionamento.\nDopo aver tirato questo dado nella tua riserva, puoi ritirarlo.<em>(Traduzione non ufficiale)</em>"
+        "name": "Manganello Antisommossa Z6",
+        "text": "Riposizionamento.\nDopo che hai tirato e collocato questo dado nella tua riserva, puoi ripetere il suo tiro."
     },
     {
         "code": "02009",
-        "flavor": "\"La tua debolezza non sarà la causa della mia rovina!\"",
+        "flavor": "\"La tua debolezza non sarà mia la caduta!\"",
         "name": "Asajj Ventress",
         "subtitle": "Assassina della Forza",
-        "text": "Dopo che un avversario ha scartato una carta dalla loro mano per ritirare dadi, puoi obbligarli a scegliere e scartare un'altra carta dalla loro mano.<em>(Traduzione non ufficiale)</em>"
+        "text": "Dopo che un avversario ha scartato 1 carta dalla sua mano per ripetere il tiro dei dadi, puoi obbligarlo a scegliere e scartare 1 altra carta dalla loro mano.<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02010",
@@ -82,17 +82,17 @@
     {
         "code": "02015",
         "name": "Picca Laser",
-        "text": "<b>Azione</b> - Rimuovi questo dado per assegnare uno scudo ad un'altro personaggio.<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Azione</b> - Rimuovi questo dado per fornire 1 scudo a un personaggio diverso da quello con questa miglioria."
     },
     {
         "code": "02016",
-        "name": "Tentazione del Potere",
-        "text": "Puoi risolvere le facce modificate <em>facce con un +</em> di questo dado per modificare qualsiasi simbolo.<em>(Traduzione non ufficiale)</em>"
+        "name": "Richiamo del Potere",
+        "text": "Puoi risolvere le facce modificate <em>(con un '+')</em> di questo dado  allo stesso tempo di un qualsiasi altro dado non modificato della tua riserva."
     },
     {
         "code": "02017",
         "name": "Droide da Interrogatorio",
-        "text": "Dopo aver attivato questo supporto, guarda una carta a caso nella mano di un avversario. Se quella carta è un evento, puoi rimuovere questo dado per scartarla.<em>(Traduzione non ufficiale)</em>"
+        "text": "Dopo che hai attivato questo supporto, guarda 1 carta casuale nella mano di un avversario. Se quella carta è un evento, puoi rimuovere questo dado per scartarla."
     },
     {
         "code": "02018",
@@ -110,18 +110,18 @@
         "code": "02020",
         "name": "IG-88",
         "subtitle": "Droide Assassino",
-        "text": "[special] - Gioca un'<i>arma</i> o un <i>equipaggiamento</i> dalla tua pila degli scarti su questo personaggio, diminuendo il suo costo di 2.<em>(Traduzione non ufficiale)</em>",
+        "text": "[special] - Gioca una carta <i>Arma</i> o <i>Equipaggiamento</i> gialla dalla tua pila degli scarti su questo personaggio, riducendo di 2 il suo costo.",
     },
     {
         "code": "02021",
         "name": "Unkar Plutt",
-        "subtitle": "Trafficante di Ferraglia",
-        "text": "<b>Azione</b> - Rimuovi un qualsiasi numero di tuoi dadi che mostrano un valore totale di 3 o più. Poi scarta una carta a caso dalla mano di un avversario e guadagna risorse pari al suo costo.<em>(Traduzione non ufficiale)</em>",
+        "subtitle": "Trafficante di Rottami",
+        "text": "<b>Azione</b> - Rimuovi un qualsiasi numero di tuoi dadi di valore totale pari o superiore a 3. Poi scarta una carta casuale dalla mano di un avversario e ottieni un ammontare di risorse pari al suo costo.",
     },
     {
         "code": "02022",
         "name": "Slave I",
-        "text": "[special] - Obbliga un avversario ad infliggere danno ai loro personaggi pari al numero di dadi nella loro riserva, distribuiti come preferiscono.<em>(Traduzione non ufficiale)</em>"
+        "text": "[special] - Obbliga un avversario a infliggere ai suoi personaggi un totale di danni pari al numero di dadi nella sua riserva, distribuendoli come preferisce."
     },
     {
         "code": "02023",
@@ -131,7 +131,7 @@
     {
         "code": "02024",
         "name": "Scudo Personale",
-        "text": "Prima che al personaggio con questa miglioria vengano inflitti due o più danni a distanza [ranged], puoi esaurire questa miglioria per fornire al personaggio uno scudo.<em>(Traduzione non ufficiale)</em>",
+        "text": "Prima che il personaggio con questa miglioria subisca 2 o più danni a distanza [ranged], puoi esaurire questa miglioria per fornire 1 scudo al personaggio con questa miglioria.<em>(Traduzione non ufficiale)</em>",
     },
     {
         "code": "02025",
@@ -157,16 +157,16 @@
     },
     {
         "code": "02029",
-        "flavor": "\"Attenti al fuoco di terra!\"",
+        "flavor": "\"Attenti alla contraerea!\"",
         "name": "Temmin \"Snap\" Wexley",
-        "subtitle": "Specialista da Ricognizione",
-        "text": "Finché alemno un di questi dadi è nella tua riserva, il tuo avversario deve spendere 1 risorsa per reclamare il campo di battaglia.<em>(Traduzione non ufficiale)</em>",
+        "subtitle": "Specialista in Ricognizione",
+        "text": "Finché questo dado si trova nella tua riserva, il tuo avversario deve spendere 1 risorsa per reclamare il campo di battaglia.",
     },
     {
         "code": "02030",
-        "flavor": "\"Sono io, Ci-tre-pi-o!\"",
+        "flavor": "\"Sono io, C-3PO!\"",
         "name": "C-3PO",
-        "text": "<b>Azione</b> - Rimuovi questo dado per risolvere uno dei tuoi dadi come se mostrasse un simbolo differente <em>mantiene il valore originale</em><em>(Traduzione non ufficiale)</em>",
+        "text": "<b>Azione</b> - Rimuovi questo dado per risolvere 1 tuo dado come se mostrasse un simbolo diverso <em>(conservando il suo valore originale)</em>.",
     },
     {
         "code": "02031",
@@ -187,7 +187,7 @@
     {
         "code": "02034",
         "name": "Accolito Jedi",
-        "text": "Prima di risovere questo dado, aumenta il suo valore di 1, se mostra lo stesso simbolo di uno degli altri tuoi dadi. <em>(Traduzione non ufficiale)</em>",
+        "text": "Prima di risovere questo dado, se mostra lo stesso simbolo di un altro tuo dado, aumenta di 1 il suo valore.",
     },
     {
         "code": "02035",
@@ -199,8 +199,8 @@
         "code": "02036",
         "flavor": "\"Sincronizzatevi al mio segnale.\"",
         "name": "Luminara Unduli",
-        "subtitle": "Comandante Motivatore",
-        "text": "[special] - Risolvi uno dei tuoi dadi personaggio, aumentando il valore di 2, o di 3 se invece è un dado di un personaggio non unico.<em>(Traduzione non ufficiale)</em>"
+        "subtitle": "Comandante Ispiratrice",
+        "text": "[special] - Risolvi 1 tuo dado personaggio, aumentando il valore di 2, o di 3 se invece è un dado personaggio non unico."
     },
     {
         "code": "02037",
@@ -217,8 +217,8 @@
     },
     {
         "code": "02039",
-        "name": "Balestra Leggera Artigianale",
-        "text": "[special] - Infliggi 3 danni ad un personaggio.\n[special] - Rimuovi tutti gli scudi da un personaggio. Poi infliggi 2 danni a quel personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Arco Leggero Artigianale",
+        "text": "[special] - Infliggi 3 danni a un personaggio.\n[special] - Rimuovi tutti gli scudi da un personaggio, poi infliggi 2 danni a quel personaggio."
     },
     {
         "code": "02040",
@@ -262,8 +262,8 @@
     },
     {
         "code": "02047",
-        "name": "Fregata de Contrabbandiere",
-        "text": "Dopo aver risolto una faccia di questo dado che mostra un valore di 2, metti questo supporto in cima al tuo mazzo.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Mercantile da Contrabbando",
+        "text": "Dopo che hai risolto una faccia di valore 2 di questo dado, colloca questo supporto in cima al tuo mazzo."
     },
     {
         "code": "02048",
@@ -274,7 +274,7 @@
     {
         "code": "02049",
         "name": "Agente Solitario",
-        "text": "[special] - Guarisci 2 danni al personaggio con questa miglioria, o 3 danni se invece tale personaggio è il solo tuo personaggio in gioco.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "[special] - Cura 2 danni al personaggio con questa miglioria (3 danni se il personaggio con questa miglioria è il tuo unico personaggio in gioco)."
     },
     {
         "code": "02050",
@@ -288,8 +288,8 @@
     },
     {
         "code": "02052",
-        "name": "Droide Astromeccanico",
-        "text": "<b>Azione</b> - Rimuovi questo dado per girare un dado <i>veicolo</i> su una qualsiasi faccia.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Astromeccanico",
+        "text": "<b>Azione</b> - Rimuovi questo dado per girare 1 dado <i>Veicolo</i> su una faccia a tua scelta."
     },
     {
         "code": "02053",
@@ -299,17 +299,17 @@
     {
         "code": "02054",
         "name": "Spinta di Forza",
-        "text": "Solo personaggi Blu.\n[special] - Gira fino a 2 dadi dell'avversario su facce a tua scelta.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Solo personaggi blu.\n[special] - Gira fino a 2 dadi di un avversario su una faccia a tua scelta."
     },
     {
         "code": "02055",
         "name": "Velocità di Forza",
-        "text": "Solo personaggi Blu.\n[special] - Esegui fino a 2 azioni aggiuntive.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Solo personaggi blu.\n[special] - Effettua fino a 2 azioni aggiuntive."
     },
     {
         "code": "02056",
         "name": "Allenamento Makashi",
-        "text": "Avvista un personaggio Blu per giocare questa carta.\n<b>Azione</b> - Rimuovi uno dei tuoi dadi che mostrano una faccia danno in mischia [melee] ed esaurisci questa miglioria per rimuovere un dado che mostra una faccia danno in mischia [melee]. \n<em>(Traduzione non ufficiale)</em>"
+        "text": "Gioca questa carta solo se avvisti 1 personaggio blu.\n<b>Azione</b> - Rimuovi 1 tuo dado \"danno in mischia\" ([melee]) ed esaurisci questa miglioria per rimuovere 1 dado \"danno in mischia\" ([melee])."
     },
     {
         "code": "02057",
@@ -319,17 +319,17 @@
     {
         "code": "02058",
         "name": "Quadjumper",
-        "text": "<b>Azione</b> - Scarta questo supporto per giocare un supporto dalla tua mano, diminuendo il suo costo di 3.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Azione</b> - Scarta questo supporto per giocare 1 supporto dalla tua mano, riducendo di 3 il suo costo."
     },
     {
         "code": "02059",
-        "name": "Fucile Ascensione",
-        "text": "[special] - Usa l'abilità su un campo di battaglia che non è in uso <em>(ma è stato incluso nella partita)</em> come se lo avessi appena rivendicato.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Pistola Ascensore",
+        "text": "[special] - Risolvi la capacità di rivendicazione di un campo di battaglia non utilizzato <em>(tra quelli presenti nella preparazione)</em> come se lo avessi appena rivendicato."
     },
     {
         "code": "02060",
         "name": "Artista della Truffa",
-        "text": "Solo personaggi Gialli.\n[special] - Metti 1 danno su questa miglioria.  Poi scarta carte dalla cima del mazzo di un avversario pari al numero di danni su questa miglioria.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Solo personaggi gialli.\n[special] - Colloca 1 danno su questa miglioria, poi scarta dalla cima del mazzo di un avversario un ammontare di carte pari ai danni su questa miglioria."
     },
     {
         "code": "02061",
@@ -340,13 +340,6 @@
         "code": "02062",
         "name": "Macchina da Guerra Imperiale",
         "text": "Risolvi gratuitamente uno dei tuo dadi Rossi che mostra un costo in risorse.\n<em>(Traduzione non ufficiale)</em>"
-    },
-    {
-        "code": "02063",
-        "flavor": "\"\"",
-        "name": "",
-        "subtitle": "",
-        "text": "\n<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02063",
@@ -438,5 +431,32 @@
         "name": "Dubbio",
         "text": "Ritira un dado di un avversario. Poi quell'avversario risolve oppure rimuove quel dado.\n<em>(Traduzione non ufficiale)</em>"
     },
-    
+    {
+        "code": "0208X",
+        "flavor": "\"\"",
+        "name": "",
+        "subtitle": "",
+        "text": "\n<em>(Traduzione non ufficiale)</em>"
+    },
+        {
+        "code": "02086",
+        "name": "Inseguimento Implacabile",
+        "text": "Sposta fino a 2 danni da un personaggio a un altro personaggio <em>(ignorando gli scudi)</em>."
+    },
+       {
+        "code": "02105",
+        "name": "Mio Alleato è la Forza",
+        "text": "Imboscata.\nRisolvi 1 tuo dado blu senza rimuoverlo dalla tua riserva."
+    },
+    {
+        "code": "02136",
+        "name": "Elusione",
+        "text": "Rimuovi 1 dado \"danno a distanza\" ([ranged])."
+    },
+    {
+        "code": "02138",
+        "name": "Parata",
+        "text": "Rimuovi 1 dado \"danno in mischia\" ([melee])."
+    },
+
 ]
