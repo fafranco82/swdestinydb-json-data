@@ -383,4 +383,60 @@
         "name": "Logoramento",
         "text": "Dopo che uno dei tuoi personaggi è stato sconfitto, infliggi 1 danno ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
     },
+    {
+        "code": "02070",
+        "name": "Ispezione Imperiale",
+        "text": "Dopo che uno dei tuoi dadi tirati mostra una distruzione ([disrupt]), puoi esaurire questo supporto per far riprendere una miglioria che costa 2 o meno in mano al proprietario.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02071",
+        "name": "Ira",
+        "text": "Gioca questa carta solo se hai 2 o più dadi che mostrano vuoto ([blank]).\nRisolvi un dado di un avversario che mostra danno ([ranged] o [melee]) come se fosse un tuo dado.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02072",
+        "name": "Lancio Spada Laser",
+        "text": "Gioca solo se hai uno o più dadi che mostrano danno in mischia ([melee]).\nInfliggi due danni ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02073",
+        "name": "Manipolare",
+        "text": "Gira uno dei tuoi dadi su una faccia che mostra vuoto ([blank]). Poi gira uno dei dadi dell'avversario su una faccia che mostra vuoto ([blank]).\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02074",
+        "name": "Niente Disintegrazione",
+        "text": "Scarta la carta in cima al mazzo di un avversario, o 3 carte se invece c'è un'altra copia di questo evento nella tua pila degli scarti.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02075",
+        "name": "Ora Morirai",
+        "text": "Risolvi uno dei tuoi dadi come se mostrasse danno in mischia ([melee]) <em>(mantiene il valore originale)</em>\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02076",
+        "name": "Ancora in Piedi",
+        "text": "Guarisci 5 danni da un personaggio unico Blu. Puoi giocare una miglioria dalla pila degli scarti su di esso gratuitamente.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02077",
+        "name": "Il Prezzo del Fallimento",
+        "text": "Avvista un personaggio Blu e sconfiggi uno dei tuoi personaggi per ripristinare un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02078",
+        "name": "Presenza Oscura",
+        "text": "Dopo che un tuo tiro di dadi mostra uno scarto ([discard]), puoi esaurire questo supporto per costringere un avversario a scegliere e rimuovere uno dei suoi dadi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02079",
+        "name": "Ora Sono Io il Maestro",
+        "text": "Dopo che i dadi personaggio o miglioria del personaggio con questa miglioria infliggono danno, puoi esaurire questa miglioria per girare un dado su una faccia che mostra vuoto ([blank]).\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02080",
+        "name": "Dubbio",
+        "text": "Ritira un dado di un avversario. Poi quell'avversario risolve oppure rimuove quel dado.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    
 ]
