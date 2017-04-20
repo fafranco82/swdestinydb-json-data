@@ -238,9 +238,10 @@
     },
     {
         "code": "02043",
+        "flavor": "\"Rrrooaarrgghh!\"",
         "name": "Chewbacca",
         "subtitle": "Amico Fedele",
-        "text": "[special] - Gira un dado di un avversario su di una faccia che mostra \"danno\" ([ranged] or [melee]) per infliggere quel danno ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "[special] - Gira 1 dado di un avversario su una faccia \"danno\" ([ranged] or [melee]) per infliggere quei danni a un personaggio."
     },
     {
         "code": "02044",
