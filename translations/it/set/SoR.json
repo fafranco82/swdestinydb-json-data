@@ -433,16 +433,49 @@
         "text": "Ritira un dado di un avversario. Poi quell'avversario risolve oppure rimuove quel dado.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
-        "code": "0208X",
-        "flavor": "\"\"",
-        "name": "",
-        "subtitle": "",
-        "text": "\n<em>(Traduzione non ufficiale)</em>"
+        "code": "02081",
+        "name": "Commercio d'Armi",
+        "text": "Scarta un qualsiasi numero di <i>armi</i> dalla tua mano. Poi guadagna 1 risorsa per ogni carta appena scartata.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02082",
+        "name": "Adescare",
+        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nGira uno tuo dado risorsa ([resource]) su una faccia a tua scelta.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02083",
+        "name": "Amici Altolocati",
+        "text": "Gioca questa carta solo se hai dadi che mostrano un valore totale di 7 o più.\nGuarda alle prime 3 carte del tuo mazzo. Puoi giocarne una gratuitamente. Scarta le carte che non giochi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02084",
+        "name": "Faccende in Sospeso",
+        "text": "Imboscata.\nRimuovi un tuo dado danno a distanza ([ranged]) per scartare le 4 carte in cima la mazzo di un avversario. ch\n<em>(Traduzione non ufficiale)</em>"
+    },
+        {
+        "code": "02085",
+        "name": "Un Quarto di Porzione",
+        "text": "Rimuovi un dado di un avversario. Puoi quell'avversario guadagna 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
     },
         {
         "code": "02086",
         "name": "Inseguimento Implacabile",
         "text": "Sposta fino a 2 danni da un personaggio a un altro personaggio <em>(ignorando gli scudi)</em>."
+    },
+        {
+        "code": "02087",
+        "name": "Comprare Scarti",
+        "text": "Gioca solo se hai 3 o più carte nella tua pila degli scarti.\nAggiungi una carta casuale dalla tua pila degli scarti alla tua mano <em>(mostra la carta agli avversari)</em>.\n<em>(Traduzione non ufficiale)</em>"
+    },
+        {
+        "code": "02088",
+        "name": "Negozio di Rottami",
+        "text": "Dopo che un tuo tiro di dado fa risorsa ([resource]), puoi esaurire questo supporto per costringere un avversario a perdere 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
+    },
+        {
+        "code": "02089",
+        "name": "Armatura di Piastre",
+        "text": "Prima che il personaggio con questa miglioria subisca danno, puoi bloccare fino a 2 danni. Poi scarta questa miglioria dal gioco.\n<em>(Traduzione non ufficiale)</em>"
     },
        {
         "code": "02105",
