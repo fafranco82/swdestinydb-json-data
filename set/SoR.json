@@ -1497,6 +1497,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": true,
+        "illustrator": "Logan Feliciano",
         "is_unique": false,
         "name": "Quadjumper",
         "position": 58,
@@ -1578,7 +1579,7 @@
         "position": 61,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nCount the number of Red characters you have. You may reroll that many of your dice.",
+        "text": "Ambush.\nCount the number of Red characters you have. You may reroll that many of your dice.",
         "ttscardid": "2260",
         "type_code": "event"
     },

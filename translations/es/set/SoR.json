@@ -1,15 +1,15 @@
 [
     {
         "code": "02001",
-        "flavor": "Como guardia personal de KRennic, estos soldados están dispuestos a todo para defender a su comandante.",
+        "flavor": "Como guardia personal de Krennic, estos soldados están dispuestos a todo para defender a su comandante.",
         "name": "Soldado de la Muerte"
     },
     {
         "code": "02002",
-        "flavor": "\"Traitor!\"",
+        "flavor": "\"¡Traidor!\"",
         "name": "FN-2199",
-        "subtitle": "Loyal Trooper",
-        "text": "After you play a <i>weapon</i> on this character, roll that <i>weapon</i> die, if able. You may immediately resolve it."
+        "subtitle": "Soldado leal",
+        "text": "Después de que juegues un <i>arma</i> en este personaje, tira el dado de ese <i>arma</i>, si es posible. Puedes resolverlo de inmediato."
     },
     {
         "code": "02003",
@@ -25,8 +25,8 @@
     },
     {
         "code": "02005",
-        "name": "E-Web Emplacement",
-        "text": "While you control the battlefield, the value of each of this die's sides is increased by 1."
+        "name": "Emplazamiento E-Web",
+        "text": "Mientras controles el campo de batalla, el valor de resultado de cada una de las caras de este dado se incrementa en 1."
     },
     {
         "code": "02006",
@@ -35,8 +35,8 @@
     },
     {
         "code": "02007",
-        "name": "DT-29 Heavy Blaster Pistol",
-        "text": "[special] - Remove an opponent's die showing a resource cost."
+        "name": "Pistola bláster pesada DT-29",
+        "text": "[special] - Retira un dado de un adversario que muestre un coste en recursos."
     },
     {
         "code": "02008",
@@ -59,20 +59,20 @@
     },
     {
         "code": "02011",
-        "flavor": "\"Everything is proceeding as I have foreseen.\"",
+        "flavor": "\"Todo se está desarrollando como yo había previsto.\"",
         "name": "Palpatine",
-        "subtitle": "Galactic Emperor",
-        "text": "After you resolve this die, force an opponent to deal 2 damage to their characters, distributed as they wish."
+        "subtitle": "Emperador galáctico",
+        "text": "Después de que resuelvas este dado, obliga a un adversario a infligir 2 puntos de daño a sus Personajes, distribuyendo el daño como desee."
     },
     {
         "code": "02012",
-        "name": "Royal Guard",
-        "text": "Guardian.\nYou cannot play Blue <i>abilities</i> on this character."
+        "name": "Guardia real",
+        "text": "Guardián.\nNo puedes jugar <i>capacidades</i> de color Azul en este Personaje."
     },
     {
         "code": "02013",
-        "name": "Commando Shuttle",
-        "text": "[special] - Use a special ability ([special]) on one of your characters."
+        "name": "Lanzadera de mando",
+        "text": "[special] - Usa una capacidad especial ([special]) en uno de tus Personajes."
     },
     {
         "code": "02014",
@@ -120,8 +120,8 @@
     },
     {
         "code": "02022",
-        "name": "Slave I",
-        "text": "[special] - Force an opponent to deal damage to their characters equal to the number of dice in their dice pool, distributed as they wish."
+        "name": "Esclavo I",
+        "text": "[special] - Obliga a un adversario a infligir tantos puntos de daño a sus Personajes como la cantidad de dados en tu reserva de dados, distribuyendo el daño como desee."
     },
     {
         "code": "02023",
@@ -147,8 +147,8 @@
     {
         "code": "02027",
         "name": "Mon Mothma",
-        "subtitle": "Skilled Politician",
-        "text": "After you play an event, you may reroll a die of the same color as that event."
+        "subtitle": "Hábil política",
+        "text": "Después de que juegues un Evento, puedes volver a tirar un dado del mismo color que ese Evento."
     },
     {
         "code": "02028",
@@ -164,9 +164,9 @@
     },
     {
         "code": "02030",
-        "flavor": "\"It is I, See-Threepio!\"",
+        "flavor": "\"¡Soy yo, C-3PO!\"",
         "name": "C-3PO",
-        "text": "<b>Action</b> - Remove this die to resolve one of your dice as if it were showing a different symbol (<em>it keeps its original value</em>)."
+        "text": "<b>Acción</b> - Retira este dado para resolver uno de tus dados como si estuviera mostrando un símbolo diferente <em>(conserva su valor de resultado original).</em>"
     },
     {
         "code": "02031",
@@ -180,8 +180,8 @@
     },
     {
         "code": "02033",
-        "flavor": "The most hardened soldiers already know they're dead.",
-        "name": "Overkill"
+        "flavor": "Los soldados más veteranos ya se consideran a sí mismos muertos.",
+        "name": "Máquina de destrucción"
     },
     {
         "code": "02034",
@@ -191,8 +191,8 @@
     {
         "code": "02035",
         "name": "Chirrut Îmwe",
-        "subtitle": "Blind Warrior",
-        "text": "You cannot play Blue <i>abilities</i> on this character.\nAfter you activate this character, you may reroll all of your dice showing blanks ([blank])."
+        "subtitle": "Guerrero ciego",
+        "text": "No puedes jugar <i>capacidades</i> de color Azul en este Personaje.\nDespués de que actives este Personaje, puedes volver a tirar todos tus dados que muestren caras vacías ([blank])."
     },
     {
         "code": "02036",
@@ -216,8 +216,8 @@
     },
     {
         "code": "02039",
-        "name": "Handcrafted Light Bow",
-        "text": "[special] - Deal 3 damage to a character.\n[special] - Remove all shields from a character. Then deal 2 damage to that character."
+        "name": "Arco láser artesanal",
+        "text": "[special] - Inflige 3 puntos de daño a un Personaje.\n[special] - Retira todo los escudos de un Personaje. Luego inflige 2 puntos de daño a ese Personaje."
     },
     {
         "code": "02040",
@@ -277,8 +277,8 @@
     },
     {
         "code": "02050",
-        "name": "Maz's Goggles",
-        "text": "To play, spot a Yellow character.\n[special] - Look at an opponent's hand and discard an event from it."
+        "name": "Gafas de Maz",
+        "text": "Para jugar esta carta, señala un Personaje de color Amarillo.\n[special] - Mira la mano de un adversario y descarta un Evento de ella."
     },
     {
         "code": "02051",
@@ -317,8 +317,8 @@
     },
     {
         "code": "02058",
-        "name": "Quadjumper",
-        "text": "<b>Action</b> - Discard this support to play a support from your hand, decreasing its cost by 3."
+        "name": "Saltador quad",
+        "text": "<b>Acción</b> - Descarta este Apoyo para jugar un Apoyo de tu mano, reduciendo en 3 su coste."
     },
     {
         "code": "02059",
@@ -332,8 +332,8 @@
     },
     {
         "code": "02061",
-        "name": "Battle Formation",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nCount the number of Red characters you have. You may reroll that many of your dice."
+        "name": "Formación de batalla",
+        "text": "Emboscada.\nCuenta la cantidad de Personajes de color Rojo que tienes. Puedes volver a tirar esa misma cantidad de tus dados."
     },
     {
         "code": "02062",
@@ -352,8 +352,8 @@
     },
     {
         "code": "02065",
-        "name": "Traitor!",
-        "text": "Ambush.\nDiscard the top card of your deck. Then remove a die not showing a special ([special]) that has a value equal to or less than the cost of the card you just discarded."
+        "name": "¡Traidor!",
+        "text": "Emboscada.\nDescarta la primera carta de tu mazo. Luego retira un dado que no muestre un resultado especial ([special]) y tenga un valor de resultado igual o inferior al coste de la carta que acabas de descartar."
     },
     {
         "code": "02066",
@@ -372,8 +372,8 @@
     },
     {
         "code": "02069",
-        "name": "Attrition",
-        "text": "After one of your characters is defeated, deal 1 damage to a character."
+        "name": "Guerra de desgaste",
+        "text": "Después de que uno de tus Personajes sea derrotado, inflige 1 punto de daño a un Personaje."
     },
     {
         "code": "02070",
@@ -392,8 +392,8 @@
     },
     {
         "code": "02073",
-        "name": "Manipulate",
-        "text": "Turn one of your dice to a side showing a blank ([blank]). Then turn an opponent's die to a side showing a blank ([blank])."
+        "name": "Manipular",
+        "text": "Gira uno de tus dados a una cara que muestre una cara vacía ([blank]). Luego gira un dado de un adversario a una cara que muestre una cara vacía ([blank])."
     },
     {
         "code": "02074",
@@ -412,8 +412,8 @@
     },
     {
         "code": "02077",
-        "name": "The Price of Failure",
-        "text": "Spot a Blue character and defeat one of your characters to ready a character."
+        "name": "El precio del fracaso",
+        "text": "Señala un Personaje de color Azul y derrota a uno de tus Personajes para preparar un Personaje."
     },
     {
         "code": "02078",
@@ -427,13 +427,13 @@
     },
     {
         "code": "02080",
-        "name": "Doubt",
-        "text": "Reroll an opponent's die. Then that opponent either resolves that die or removes it."
+        "name": "Duda",
+        "text": "Vuelve a tirar un dado de un adversario. Luego ese adversario elige entre resolver ese dado o retirarlo."
     },
     {
         "code": "02081",
-        "name": "Arms Deal",
-        "text": "Discard any number of <i>weapons</i> from your hand. Then gain 1 resource for each card you just discarded."
+        "name": "Venta de armas",
+        "text": "Descarta cualquier cantidad de <i>armas</i> de tu mano. Luego recibes 1 recurso por cada carta que acabas de descartar."
     },
     {
         "code": "02082",
@@ -488,7 +488,8 @@
     {
         "code": "02092",
         "name": "Guerrilla Warfare",
-        "text": "Ambush.\nRemove one of your Red dice to deal 1 damage to a character."
+        "text": "Ambush.\nRemove one of your Red dice to deal 1 damage to a character.",
+        "text": "Emboscada.\nDespués de que uno de tus Personajes sea derrotado, inflige 1 punto de daño a un Personaje."
     },
     {
         "code": "02093",
@@ -522,8 +523,8 @@
     },
     {
         "code": "02099",
-        "name": "Tactical Aptitude",
-        "text": "After you activate attached character, you may draw a card. Then place a card form your hand on the bottom of your deck."
+        "name": "Aptitud táctica",
+        "text": "Después de que actives al Personaje vinculado, puedes robar una carta. Luego coloca una carta de tu mano en la parte inferior de tu mazo."
     },
     {
         "code": "02100",
@@ -567,8 +568,8 @@
     },
     {
         "code": "02108",
-        "name": "Protective Mentor",
-        "text": "Attached character's shields can be used to block damage dealt to any character."
+        "name": "Mentor protector",
+        "text": "Los escudos del Personaje vinculado se pueden usar para anular el daño infligido a cualquier Personaje."
     },
     {
         "code": "02109",
@@ -637,8 +638,8 @@
     },
     {
         "code": "02122",
-        "name": "Suppression",
-        "text": "Remove one of your Red dice showing ranged damage ([ranged]). Then remove an opponent's die."
+        "name": "Fuego de contención",
+        "text": "Retira uno de tus dados de color Rojo que muestre daño a distancia ([ranged]). Luego retira un dado de un adversario."
     },
     {
         "code": "02123",
@@ -652,8 +653,8 @@
     },
     {
         "code": "02125",
-        "name": "Training",
-        "text": "Non-unique Red character only.\nAttached character is elite (<em>place a second copy of its die on its card</em>)."
+        "name": "Instrucción",
+        "text": "Sólo Personaje de color Rojo que no sea único.\nEl Personaje vinculado es élite (<em>coloca sobre su carta una segunda copia de su dado</em>)."
     },
     {
         "code": "02126",
@@ -662,8 +663,8 @@
     },
     {
         "code": "02127",
-        "name": "Decisive Blow",
-        "text": "Resolve one of your dice showing melee damage ([melee]). Then remove all character and upgrade dice of the character you just dealt damage to."
+        "name": "Golpe decisivo",
+        "text": "Retira uno de tus dados que muestre daño cuerpo a cuerpo ([melee]). Luego retira todos los dados de Personaje y de Mejora del Personaje al que acabas de infligir daño."
     },
     {
         "code": "02128",
@@ -717,8 +718,8 @@
     },
     {
         "code": "02138",
-        "name": "Parry",
-        "text": "Remove a die showing melee damage ([melee])."
+        "name": "Parada",
+        "text": "Retira un dado que muestre daño cuerpo a cuerpo ([melee])."
     },
     {
         "code": "02139",
@@ -757,18 +758,18 @@
     },
     {
         "code": "02146",
-        "name": "Friends in Low Places",
-        "text": "Spot a Yellow character to look at an opponent's hand and discard an event from it that costs 1 or less."
+        "name": "Amistades en los bajos fondos",
+        "text": "Señala un Personaje de color Amarillo para mirar la mano de un adversario y descartar un Evento de su mano con un coste igual o inferior a 1."
     },
     {
         "code": "02147",
-        "name": "Sabotage",
-        "text": "Discard cards from your hand equal to the cost of a support in play to discard that support."
+        "name": "Sabotaje",
+        "text": "Descarta tantas cartas de tu mano como el coste de un Apoyo en juego para descartar ese Apoyo."
     },
     {
         "code": "02148",
-        "name": "Improvisation",
-        "text": "Ambush.\n<b>Action</b> - Remove one of your dice showing a blank ([blank]) to reroll any number of your dice."
+        "name": "Improvisación",
+        "text": "Emboscada.\n<b>Acción</b> - Retira uno de tus dados que muestre una cara vacía ([blank]) para volver a tirar cualquier cantidad de tus dados."
     },
     {
         "code": "02149",
@@ -777,8 +778,8 @@
     },
     {
         "code": "02150",
-        "name": "Fast Hands",
-        "text": "After you activate attached character, you may resolve one of its character or upgrade dice."
+        "name": "Manos rápidas",
+        "text": "Después de que actives el Personaje vinculado, puedes resolver uno de sus dados de Personaje o de Mejora."
     },
     {
         "code": "02151",
@@ -836,8 +837,8 @@
     },
     {
         "code": "02160",
-        "name": "War-Torn Streets",
+        "name": "Calles devastadas",
         "subtitle": "Jedha",
-        "text": "<b>Claim</b> - Discard a random card from an opponent's hand."
+        "text": "<b>Reclamar</b> - Descarta una carta escogida al azar de la mano de un adversario."
     }
 ]
