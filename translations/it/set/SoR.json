@@ -477,10 +477,105 @@
         "name": "Armatura di Piastre",
         "text": "Prima che il personaggio con questa miglioria subisca danno, puoi bloccare fino a 2 danni. Poi scarta questa miglioria dal gioco.\n<em>(Traduzione non ufficiale)</em>"
     },
+    {
+        "code": "02090",
+        "name": "Evacuazione d'Emergenza",
+        "text": "Rimuovi tutti i dadi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02091",
+        "name": "Fuoco Amico",
+        "text": "Avvista un personaggio rosso e rimuovi un dado danno a distanza ([ranged]) dell'avversario per infliggere quei danni ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02092",
+        "name": "Guerriglia",
+        "text": "Imboscata. <em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nRimuovi un tuo dado rosso per infliggere 1 danno ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02093",
+        "name": "La Nostra Unica Speranza",
+        "text": "Pesca una carta. Puoi giocarla gratuitamente o scartarla per guadagnare 2 risorse.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02094",
+        "name": "Assalto Ribelle",
+        "text": "Gioca questa carta solo se hai uno o più dadi danno a distanza ([ranged]).\nRimuovi un dado non danno ([ranged] or [melee]) di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02095",
+        "name": "Piazzamento Sensori",
+        "text": "Avvista un personaggio rosso per risovere un dado non danno ([ranged] or [melee]) di un avversario come se fosse un tuo dado.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02096",
+        "name": "Spirito della Ribellione",
+        "text": "Colloca 1 scudi su di un personaggio, o 2 scudi se invece c'è un'altra copia di questo evento nella tua pila degli scarti.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02097",
+        "name": "Rivolta Planetaria",
+        "text": "Dopo che hai rivendicato il campo di battaglia, costringi un avversario ad infliggere 2 danni ai suoi personaggi, distribuiti come preferisce.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02098",
+        "name": "Rete di Spionaggio",
+        "text": "Dopo che un tuo tiro di dadi ha fatto focus ([focus]), puoi esaurire questo supporto per scartare la carta in cima al mazzo di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02099",
+        "name": "Predisposizione Tattica",
+        "text": "Dopo aver attivato il peronaggio con questa miglioria, puoi pescare una carta. Poi metti una carta dalla tua mano in fondo al tuo mazzo.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02100",
+        "name": "Cautela",
+        "text": "Rimuovi un tuo dado personaggio per collocare 3 scudi ad un altro personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02101",
+        "name": "Destino",
+        "text": "Rimuovi un qualsiasi numero di tuoi dadi blu. Gioca gratuitamente una carta dalla tua mano il cui costo è pari o inferiore al valore totale dei dadi blu appena rimossi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02102",
+        "name": "Determinazione",
+        "text": "Gioca questa carta solo se uno hai uno o più dadi con focus ([focus]).\nRisolvi un tuo dado come se mostrasse un simbolo diverso <em>(mantiene il suo valore originale)</em>.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02103",
+        "name": "Stare in Guardia",
+        "text": "Rimuovi un tuo dado blu danno in mischia ([melee]) per rimuovere un numero di dadi di un avversario pari al valore del dado appena rimosso.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02104",
+        "name": "Urlo del Drago Krayt",
+        "text": "Avvista un personaggio blu e scegli un dado di un avversario. Quell'avversario sceglie se rimuovere quel dado o scartare le prime 2 carte del suo mazzo.\n<em>(Traduzione non ufficiale)</em>"
+    },
        {
         "code": "02105",
         "name": "Mio Alleato è la Forza",
         "text": "Imboscata.\nRisolvi 1 tuo dado blu senza rimuoverlo dalla tua riserva."
+    },
+    {
+        "code": "02106",
+        "name": "Sincronismo",
+        "text": "Gioca questa carta solo se hai dadi con danno in mischia ([melee]) e scudi ([shield]).\nInfliggi 2 danni diretti ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02107",
+        "name": "I Tuoi Occhi Possono Ingannarti",
+        "text": "Dopo che un tuo dado ha fatto scudo ([shield]), puoi esaurire questo supporto per girare un dado di un avversario su una faccia qualsiasi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02108",
+        "name": "Mentore Protettivo",
+        "text": "Gli scudi del personaggio con questa miglioria possono essere usati per bloccare danno inflitto a qualsiasi personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02109",
+        "name": "Fiducia in Se Stessi",
+        "text": "Scegli un dado di un avversario e costringilo a risoverlo, se possibile.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02136",
