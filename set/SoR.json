@@ -1345,6 +1345,7 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": true,
+        "illustrator": "Ryan Barger",
         "is_unique": false,
         "name": "Astromech",
         "position": 52,

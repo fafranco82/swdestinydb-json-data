@@ -1,8 +1,8 @@
 [
     {
         "code": "02001",
-        "flavor": "Krennic's personal guard, they defend their commander with extreme prejudice.",
-        "name": "Death Trooper"
+        "flavor": "Como guardia personal de KRennic, estos soldados están dispuestos a todo para defender a su comandante.",
+        "name": "Soldado de la Muerte"
     },
     {
         "code": "02002",
@@ -14,8 +14,8 @@
     {
         "code": "02003",
         "name": "Director Krennic",
-        "subtitle": "Cruel but brilliant",
-        "text": "After you activate this character, if you control the battlefield, roll a Death Trooper ([SoR]1) die into your pool. Set aside that die after it is resolved or removed."
+        "subtitle": "Cruel pero brillante",
+        "text": "Después de que actives a este Personaje, si controlas el campo de batalla, tira un dado de Soldado de la Muerte ([SoR]1) en tu reserva. Deja aparte ese dado después de que sea resuelto o retirado."
     },
     {
         "code": "02004",
@@ -30,13 +30,18 @@
     },
     {
         "code": "02006",
-        "name": "Imperial Discipline",
-        "text": "Red character only.\n<b>Action</b> - Remove this die to turn one of this character's character or upgrade dice to a side showing ranged damage ([ranged]) or a resource ([resource])."
+        "name": "Disciplina Imperial",
+        "text": "Sólo Personaje de color Rojo.\n<b>Acción</b> - REtira este dado para girar uno de los dados de Personaje o de Mejora de este Personaje a una cara que muestre daño a distancia ([ranged]) o un recurso ([resource])."
     },
     {
         "code": "02007",
         "name": "DT-29 Heavy Blaster Pistol",
         "text": "[special] - Remove an opponent's die showing a resource cost."
+    },
+    {
+        "code": "02008",
+        "name": "Z6 Riot Control Baton",
+        "text": "Redeploy.\nAfter you roll this die into your pool, you may reroll it."
     },
     {
         "code": "02009",
@@ -86,8 +91,8 @@
     },
     {
         "code": "02017",
-        "name": "Interrogation Droid",
-        "text": "After you activate this support, look at a random card in an opponent's hand. If that card is an event, you may remove this die to discard it."
+        "name": "Droide interrogador",
+        "text": "Después de que actives este Apoyo, mira una carta escogida al azar en la mano de un adversario. Si esa carta es un Evento, puedes retirar este dado para descartarla."
     },
     {
         "code": "02018",
@@ -152,10 +157,10 @@
     },
     {
         "code": "02029",
-        "flavor": "\"Watch out for ground fire!\"",
+        "flavor": "\"¡Fuego terrestre! ¡Ojo!\"",
         "name": "Temmin \"Snap\" Wexley",
-        "subtitle": "Recon Specialist",
-        "text": "While at least one of this die is in your pool, your opponent must spend 1 resource in order to claim the battlefield."
+        "subtitle": "Especialista de reconocimiento",
+        "text": "Mientras haya al menos uno de estos dados en tu reserva, tu adversario debe gastar 1 recurso para poder reclamar el campo de batalla."
     },
     {
         "code": "02030",
@@ -198,16 +203,16 @@
     },
     {
         "code": "02037",
-        "flavor": "\"Stretch out with your feelings.\"",
+        "flavor": "\"Déjate llevar sólo por tu instinto.\"",
         "name": "Obi-Wan Kenobi",
-        "subtitle": "Mysterious Hermit",
-        "text": "Guardian.\nBefore this character is defeated, you may play a Blue card from your hand or discard pile for free."
+        "subtitle": "Ermitaño misterioso",
+        "text": "Guardian.\nAntes de que este Personaje sea derrotado, puedes jugar sin coste alguno una carta de color Azul de tu mano o desde tu pila de descarte."
     },
     {
         "code": "02038",
-        "flavor": "A favorite of the Jedi during the Clone Wars.",
-        "name": "Delta-7 Interceptor",
-        "text": "[special] - Reroll up to 3 dices (<em>yours and/or your opponent's</em>)."
+        "flavor": "Una de las naves favoritas de los jedi durante las Guerras Clon.",
+        "name": "Interceptor Delta-7",
+        "text": "[special] - Vuelve a tirar hasta 3 dados (<em>tuyos y/o de tus adversarios)."
     },
     {
         "code": "02039",
@@ -226,9 +231,9 @@
     },
     {
         "code": "02042",
-        "flavor": "\"That little droid and I have been through a lot together.\" <cite>Luke Skywalker</cite>",
+        "flavor": "\"Este pequeño droide y yo hemos pasado de todo juntos.\" <cite>Luke Skywalker</cite>",
         "name": "R2-D2",
-        "text": "[special] - Resolve one of your dice, increasing its value by 1."
+        "text": "[special] - Resuelve uno de tus dados, incrementando en 1 su valor de resultado."
     },
     {
         "code": "02043",
@@ -244,15 +249,15 @@
     },
     {
         "code": "02045",
-        "flavor": "If you live long enough, you see the same eyes in different people.",
+        "flavor": "\"Si vives lo suficiente, ves los mismos ojos en diferentes personas.\"",
         "name": "Maz Kanata",
-        "subtitle": "Pirate Queen",
-        "text": "After you activate this character, you may resolve up to 2 of your dice."
+        "subtitle": "Reina pirata",
+        "text": "Después de que actives este Personaje, puedes resolver hasta 2 de tus dados."
     },
     {
         "code": "02046",
-        "name": "Outer Rim Smuggler",
-        "text": "After you play the last card from your hand, gain 1 resource."
+        "name": "Contrabandista del borde exterior",
+        "text": "Después de que juegues la última carta de tu mano, recibes 1 recurso."
     },
     {
         "code": "02047",
@@ -267,8 +272,8 @@
     },
     {
         "code": "02049",
-        "name": "Lone Operative",
-        "text": "[special] - Heal 2 damage from attached character, or 3 damage instead if attached characer is your only character in play."
+        "name": "Agente solitario",
+        "text": "[special] - Cura 2 puntos de daño del Personaje vinculado, o 3 puntos de daño si el Personaje vinculado es tu único Personaje en juego."
     },
     {
         "code": "02050",
@@ -282,13 +287,18 @@
     },
     {
         "code": "02052",
-        "name": "Astromech",
-        "text": "<b>Action</b> - Remove this die to turn a <i>vehicle</i> die to any side."
+        "name": "Droide astromecánico",
+        "text": "<b>Acción</b> - Retira este dado para girar un dado de <i>vehículo</i> a cualquier cara."
     },
     {
         "code": "02053",
         "name": "Rocket Launcher",
         "text": "[special] - Discard a <i>vehicle</i> from play.\n[special] - Deal 2 damage each to up to 2 different characters."
+    },
+    {
+        "code": "02054",
+        "name": "Empujar con la Fuerza",
+        "text": "Sólo Personaje de color Azul.\n[special] - Gira hasta 2 dados de un adversario a caras de tu elección."
     },
     {
         "code": "02055",
@@ -302,8 +312,8 @@
     },
     {
         "code": "02057",
-        "name": "Vibroknife",
-        "text": "Ambush.\nWhile this die is in your pool, melee damage ([melee]) dealt by your dice (<em>including this die</em>) is unblockable."
+        "name": "Vibrocuchillo",
+        "text": "Emboscada.\nMientras este dado esté en tu reserva, el daño cuerpo a cuerpo ([melee]) infligido por tus dados (<em>incluido este dado</em>) no se puede anular."
     },
     {
         "code": "02058",
@@ -336,6 +346,11 @@
         "text": "Ambush.\nSpot two Red characters to take control of the battlefield. (<em>This does not claim the battlefield.</em>)"
     },
     {
+        "code": "02064",
+        "name": "Sustained Fire",
+        "text": "Play only if you have 2 or more dice showing ranged damage ([ranged]).\nRemove all shields from all of an opponent's characters."
+    },
+    {
         "code": "02065",
         "name": "Traitor!",
         "text": "Ambush.\nDiscard the top card of your deck. Then remove a die not showing a special ([special]) that has a value equal to or less than the cost of the card you just discarded."
@@ -366,6 +381,16 @@
         "text": "After one of your dice rolls a disrupt ([disrupt]), you may exhaust this support to return an upgrade in play that costs 2 or less to its owner's hand."
     },
     {
+        "code": "02071",
+        "name": "Anger",
+        "text": "Play only if you have 2 or more dice showing blanks ([blank]).\nResolve an opponent's die showing damage ([ranged] or [melee]) as if it were your die."
+    },
+    {
+        "code": "02072",
+        "name": "Lightsaber Throw",
+        "text": "Play only if you have one or more dice showing melee damage ([melee]).\nDeal 2 damage to a character."
+    },
+    {
         "code": "02073",
         "name": "Manipulate",
         "text": "Turn one of your dice to a side showing a blank ([blank]). Then turn an opponent's die to a side showing a blank ([blank])."
@@ -382,8 +407,8 @@
     },
     {
         "code": "02076",
-        "name": "Rise Again",
-        "text": "Heal 5 damage from a unique Blue character. You may play an upgrade from your discard pile on it for free."
+        "name": "Alzarse de nuevo",
+        "text": "Cura 5 puntos de daño de un Personaje único de color Azul. Puedes jugar sin coste alguno una Mejora desde tu pila de descarte."
     },
     {
         "code": "02077",
@@ -417,13 +442,13 @@
     },
     {
         "code": "02083",
-        "name": "Friends in High Places",
-        "text": "Play only if you have dice showing a combined value of 7 or more.\nLook at the top 3 cards of your deck. You may play one of those cards for free. Discard the cards you don't play."
+        "name": "Amistades en las altas esferas",
+        "text": "Juega esta carta ´sólo si tienes dados que muestren un valor de resultado combinado igual o superior a 7.\nMira las 3 primeras cartas de tu mano. Puedes jugar sin coste alguno una de esas cartas. Descarta las cartas que no juegues."
     },
     {
         "code": "02084",
-        "name": "Loose Ends",
-        "text": "Ambush.\nRemove one of your dice showing ranged damage ([ranged]) to discard the top 4 cards of an opponent's deck."
+        "name": "Cabos sueltos",
+        "text": "Emboscada.\nRetira uno de tus dados que muestre daño a distancia ([ranged]) para descartar las 4 primeras cartas del mazo de un adversario."
     },
     {
         "code": "02085",
@@ -487,8 +512,8 @@
     },
     {
         "code": "02097",
-        "name": "Planetary Uprising",
-        "text": "After you claim the battlefield, force an opponent to deal 2 damage to their characters, distributed as they wish."
+        "name": "Insurrección planetaria",
+        "text": "Después de que reclames el campo de batalla, obliga a un adversario a infligir 2 puntos de daño a sus Personajes, distribuyendo el daño como desee."
     },
     {
         "code": "02098",
@@ -517,8 +542,8 @@
     },
     {
         "code": "02103",
-        "name": "Guard",
-        "text": "Remove one of your Blue dice showing melee damage ([melee]) to remove a number of an opponent's dice equal to the value of the die you just removed."
+        "name": "Estar en guardia",
+        "text": "Retira uno de tus dados de color Azul que muestre daño cuerpo a cuerpo ([melee]) para retirar tantos dados de un adversario como el valor de resultado del dado que acabas de retirar."
     },
     {
         "code": "02104",
@@ -527,8 +552,8 @@
     },
     {
         "code": "02105",
-        "name": "My Ally Is The Force",
-        "text": "Ambush.\nResolve one of your Blue dice without removing it from your pool."
+        "name": "La Fuerza es mi aliada",
+        "text": "Emboscada.\nResuelve uno de tus dados de color Azul sin retirarlo de tu reserva."
     },
     {
         "code": "02106",
@@ -559,6 +584,11 @@
         "code": "02111",
         "name": "Hold On!",
         "text": "Ambush.\nMove any number of shields from one of your character to another character."
+    },
+    {
+        "code": "02112",
+        "name": "Rebel",
+        "text": "Play only if you have one or more dice showing a discard.\nPlay a card from your discard pile, decreasing its cost by 1."
     },
     {
         "code": "02113",
@@ -639,6 +669,11 @@
         "code": "02128",
         "name": "High Ground",
         "text": "Play only if you control the battlefield.\nRemove an opponent's die showing damage ([ranged] or [melee]). Then, if it was a character die, deal 1 damage to that character."
+    },
+    {
+        "code": "02129",
+        "name": "Momentum Shift",
+        "text": "Move 1 shield from an opponent's character to one of your characters."
     },
     {
         "code": "02130",
