@@ -452,13 +452,12 @@
         "name": "Faccende in Sospeso",
         "text": "Imboscata.\nRimuovi un tuo dado danno a distanza ([ranged]) per scartare le 4 carte in cima la mazzo di un avversario. ch\n<em>(Traduzione non ufficiale)</em>"
     },
-        {
+    {
         "code": "02085",
         "name": "Un Quarto di Porzione",
         "text": "Rimuovi un dado di un avversario. Puoi quell'avversario guadagna 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
-
         "code": "02086",
         "name": "Inseguimento Implacabile",
         "text": "Sposta fino a 2 danni da un personaggio a un altro personaggio <em>(ignorando gli scudi)</em>."
@@ -468,12 +467,12 @@
         "name": "Comprare Scarti",
         "text": "Gioca solo se hai 3 o più carte nella tua pila degli scarti.\nAggiungi una carta casuale dalla tua pila degli scarti alla tua mano <em>(mostra la carta agli avversari)</em>.\n<em>(Traduzione non ufficiale)</em>"
     },
-        {
+    {
         "code": "02088",
         "name": "Negozio di Rottami",
         "text": "Dopo che un tuo tiro di dado fa risorsa ([resource]), puoi esaurire questo supporto per costringere un avversario a perdere 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
     },
-        {
+    {
         "code": "02089",
         "name": "Armatura di Piastre",
         "text": "Prima che il personaggio con questa miglioria subisca danno, puoi bloccare fino a 2 danni. Poi scarta questa miglioria dal gioco.\n<em>(Traduzione non ufficiale)</em>"

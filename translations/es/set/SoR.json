@@ -109,8 +109,8 @@
     {
         "code": "02020",
         "name": "IG-88",
-        "subtitle": "Assassin Droid",
-        "text": "[special] - Play a Yellow <i>weapon</i> or <i>equipment</i> from your discard pile on this character, decreasing its cost by 2."
+        "subtitle": "Droide asesino",
+        "text": "[special] - Juega sobre este Personaje un <i>arma</i> o <i>equipo</i> de color Amarillo desde tu pila de descarte, reduciendo en 2 su coste."
     },
     {
         "code": "02021",
@@ -141,8 +141,8 @@
     {
         "code": "02026",
         "name": "Baze Malbus",
-        "subtitle": "Crack Shot",
-        "text": "[special] - Deal 1 damage to each of an opponent's characters."
+        "subtitle": "Tirador extraordinario",
+        "text": "[special] - Inflige 1 punto de daño a cada uno de los Personajes de un adversario."
     },
     {
         "code": "02027",
@@ -152,8 +152,8 @@
     },
     {
         "code": "02028",
-        "name": "Rebel Commando",
-        "text": "[special] - Remove an opponent's die."
+        "name": "Comando rebelde",
+        "text": "[special] - Retira un dado de un adversario"
     },
     {
         "code": "02029",
@@ -170,13 +170,13 @@
     },
     {
         "code": "02031",
-        "name": "U-Wing",
-        "text": "[special] - Deal 2 damage to each of an opponent's characters.\n[special] - Give each of your characters 2 shields."
+        "name": "Ala-U",
+        "text": "[special] - Inflige 2 puntos de daño a cada uno de los Personajes de un adversario.\n[special] - Entrega 2 escudos a cada uno de tus Personajes."
     },
     {
         "code": "02032",
-        "name": "A180 Blaster",
-        "text": "[special] - Deal 1 damage to a character and give attached character 1 shield.\n[special] - Deal 1 damage to each of an opponent's characters.\n[special] - Deal 2 unblockable damage to a character."
+        "name": "Bláster A180",
+        "text": "[special] - Inflige 1 punto de daño a un Personaje y entrega 1 escudo al Personaje vinculado.\n[special] - Inflige 1 punto de daño a cada uno de los Personajes de un adversario.\n[special] - Inflige 2 puntos de daño no anulable a un Personaje."
     },
     {
         "code": "02033",
@@ -282,8 +282,8 @@
     },
     {
         "code": "02051",
-        "name": "Supply Line",
-        "text": "[special] - Reroll any number of your dice."
+        "name": "Línea de suministro",
+        "text": "[special] - Vuelve a tirar cualquier cantidad de tus dados."
     },
     {
         "code": "02052",
@@ -302,8 +302,8 @@
     },
     {
         "code": "02055",
-        "name": "Force Speed",
-        "text": "Blue character only.\n[special] - Take up to 2 additional actions."
+        "name": "Velocidad de la Fuerza",
+        "text": "Sólo Personaje de color Azul.\n[special] - Realiza hasta 2 acciones adicionales."
     },
     {
         "code": "02056",
@@ -322,8 +322,8 @@
     },
     {
         "code": "02059",
-        "name": "Ascension Gun",
-        "text": "[special] - Use the ability on a battlefield that is not being used <em>(but was brought to the game)</em> as if you had just claimed it."
+        "name": "Pistola de ascensión",
+        "text": "[special] - Usa la capacidad de un campo de batalla que no esté siendo usado <em>(pero se ha traído a la partida)</em> como si acabaras de reclamarlo."
     },
     {
         "code": "02060",
@@ -663,7 +663,7 @@
     {
         "code": "02127",
         "name": "Golpe decisivo",
-        "text": "Retira uno de tus dados que muestre daño cuerpo a cuerpo ([melee]). Luego retira todos los dados de Personaje y de Mejora del Personaje al que acabas de infligir daño."
+        "text": "Resuelve uno de tus dados que muestre daño cuerpo a cuerpo ([melee]). Luego retira todos los dados de Personaje y de Mejora del Personaje al que acabas de infligir daño."
     },
     {
         "code": "02128",
