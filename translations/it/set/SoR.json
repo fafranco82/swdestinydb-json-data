@@ -578,6 +578,106 @@
         "text": "Scegli un dado di un avversario e costringilo a risoverlo, se possibile.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
+        "code": "02110",
+        "name": "Il Rottame Andrà Bene",
+        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nRimuovi un tuo dado <i>veicolo</i> per dare ad ognuno dei tuoi personaggi 1 scudo.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02111",
+        "name": "Resisti!",
+        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nSposta un qualsiasi numero di scudi da un tuo personaggio ad un altro personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02112",
+        "name": "Ribellarsi",
+        "text": "Gioca questa cata solo se hai uno o più dadi scarto ([discard]).\nGioca una carta dalla tua pila degli scarti, diminuendo il suo costo di 1.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02113",
+        "name": "Truffa Rischiosa",
+        "text": "Guadagna 3 risorse se c'è un'altra copia di questo evento nella tua pila degli scarti.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02114",
+        "name": "Il Loth-gatto ed il Topo",
+        "text": "Costringi un avversario a scegliere e rimuovere un suo dado. Poi rimuovi un tuo dado.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02115",
+        "name": "Non darmi mai le probabilità",
+        "text": "Scegli un tuo personaggio giallo. Gira un qualsiasi numero di suoi dadi personaggio e miglioria su facce a tua scelta.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02116",
+        "name": "Esplosione Pianificata",
+        "text": "Gioca questa carta solo se i tuoi dadi mostrano un valore totale di 10 o più.\nRimuovi tutti i tuoi dadi e infliggi 10 danni ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02117",
+        "name": "Doppio Gioco",
+        "text": "Dopo che un tuo tiro di dado ha fatto uno speciale ([special]), puoi esaurire questo supporto per guadagnare 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02118",
+        "name": "Debito di Vita",
+        "text": "Solo personaggi gialli.\nDopo aver attivato questo personaggio, puoi spostare 1 danno da un altro personaggio a questo personaggio <em>(ignorando gli scudi).</em>\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02119",
+        "name": "Bombardamento",
+        "text": "Risolvi uno dei tuoi dadi rossi distruzione ([disrupt]). Poi infliggi 1 danno ad ogni personaggio di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02120",
+        "name": "Danni Collaterali",
+        "text": "Risolvi uno o più dadi danno in mischia ([melee]) o danno a distanza ([ranged]). Poi costringi un avversario a perdere una risorsa.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02121",
+        "name": "Raffica",
+        "text": "Risolvi un tuo dado danno a distanza ([ranged]) contro ciascun personaggio di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02122",
+        "name": "Soppressione",
+        "text": "Rimuovi un tuo dado rosso danno a distanza ([ranged]). Poi rimuovi un dado di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02123",
+        "name": "Indomani",
+        "text": "Dopo che un personaggio è stato sconfitto, guadagna 1 risorsa\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02124",
+        "name": "Superiorità Aerea",
+        "text": "Dopo aver giocato questo supporto, metti 3 scudi sopra di esso.\n<b>Azione</b> - Esaurisci questo supporto per spostare 1 scudo da esso ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02125",
+        "name": "Allenamento",
+        "text": "Solo personaggi rossi non unici.\nIl personaggio con questa miglioria è elite <em>(colloca una seconda copia del suo dado sulla sua carta)</em>.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02126",
+        "name": "Ala d'Appoggio",
+        "text": "Solo personaggi rossi.\nDopo aver attivato un personaggio rosso, puoi attivare il personaggio con questa miglioria.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02127",
+        "name": "Colpo Decisivo",
+        "text": "Risolvi un tuo dado danno in mischia ([melee]). Poi rimuovi tutti i dadi personaggio e miglioria del personaggio a cui hai appena inflitto danno.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02128",
+        "name": "Posizione Vantaggiosa",
+        "text": "Gioca questa carta solo se controlli il campo di battaglia.\nRimuovi un dado danno ([ranged] o [melee]) di un avversario. Poi, se era un dado personaggio, infliggi 1 danno a quel personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02129",
+        "name": "Cambio di Velocità",
+        "text": "Sposta 1 scudo da un personaggio di un avversario ad un tuo personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
         "code": "02136",
         "name": "Elusione",
         "text": "Rimuovi 1 dado \"danno a distanza\" ([ranged])."
