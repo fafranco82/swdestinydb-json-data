@@ -765,7 +765,7 @@
     {
         "code": "01145",
         "name": "Deviare",
-        "text": "Avvista un personaggio per rimuovere 1 dado \"danno a distanza\" ([ranged]) e infliggere metà di quei danni <em>(arrotondando per difetto)</em> a un personaggio."
+        "text": "Avvista un personaggio blu per rimuovere 1 dado \"danno a distanza\" ([ranged]) e infliggere metà di quei danni <em>(arrotondando per eccesso)</em> a un personaggio."
     },
     {
         "code": "01146",

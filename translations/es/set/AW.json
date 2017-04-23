@@ -685,7 +685,7 @@
     {
         "code": "01129",
         "name": "Salto al hiperespacio",
-        "text": "Termina la fase de Acciones. Puedes intercambiar el campo de batalla por el campo de batall que no está siendo usado."
+        "text": "Termina la fase de Acciones. Puedes intercambiar el campo de batalla por el campo de batalla que no está siendo usado."
     },
     {
         "code": "01130",
@@ -765,7 +765,7 @@
     {
         "code": "01145",
         "name": "Desviar",
-        "text": "Señala un Personaje de color Azul para retirar un dado que muestre daño a distancia ([ranged]) e infligir la mitdad de ese daño, redondeando hacia arriba, a un Personaje."
+        "text": "Señala un Personaje de color Azul para retirar un dado que muestre daño a distancia ([ranged]) e infligir la mitad de ese daño, redondeando hacia arriba, a un Personaje."
     },
     {
         "code": "01146",
