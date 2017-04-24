@@ -19,9 +19,9 @@
     },
     {
         "code": "02004",
-        "flavor": "\"I can't shake him!\" <cite>Biggs Darklighter</cite>",
-        "name": "Tie Pilot",
-        "text": "While this die is in your pool, your other dice showing ranged damage ([ranged]) cannot be removed by an opponent."
+        "flavor": "\"¡Se pega a mí! ¡No puedo esquivarlo!\" <cite>Biggs Darklighter</cite>",
+        "name": "Piloto de cazas TIE",
+        "text": "Mientras este dado esté en tu reserva, tus otros dados que muestren daño a distancia ([ranged]) no pueden ser retirados por un adversario."
     },
     {
         "code": "02005",
@@ -86,8 +86,8 @@
     },
     {
         "code": "02016",
-        "name": "Lure of Power",
-        "text": "You may resolve the modifier sides <em>(sides with a +)</em> of this die to modify any symbol."
+        "name": "La atracción del poder",
+        "text": "Puedes resolver las caras de modificador <em>(las caras con un +)</em> de este dado para modificar cualquier símbolo."
     },
     {
         "code": "02017",
@@ -121,7 +121,7 @@
     {
         "code": "02022",
         "name": "Esclavo I",
-        "text": "[special] - Obliga a un adversario a infligir tantos puntos de daño a sus Personajes como la cantidad de dados en tu reserva de dados, distribuyendo el daño como desee."
+        "text": "[special] - Obliga a un adversario a infligir tantos puntos de daño a sus Personajes como la cantidad de dados en su reserva de dados, distribuyendo el daño como desee."
     },
     {
         "code": "02023",
@@ -221,8 +221,8 @@
     },
     {
         "code": "02040",
-        "name": "Force Heal",
-        "text": "Blue character only.\n[special] - Heal 1 damage from a character or spend 1 resource to heal 2 damage from a character."
+        "name": "Curar con la Fuerza",
+        "text": "Sólo Personaje de color Azul.\n[special] - Cura 1 punto de daño de un Personaje o gasta 1 recurso para curar 2 puntos de daño de un Personaje."
     },
     {
         "code": "02041",
@@ -337,8 +337,8 @@
     },
     {
         "code": "02062",
-        "name": "Imperial War Machine",
-        "text": "Resolve one of your Red dice showing a resource cost for free."
+        "name": "Máquina de guerra imperial",
+        "text": "Resuelve sin coste alguno uno de tus dados de color Rojo que muestre un coste en recursos."
     },
     {
         "code": "02063",
@@ -347,8 +347,8 @@
     },
     {
         "code": "02064",
-        "name": "Sustained Fire",
-        "text": "Play only if you have 2 or more dice showing ranged damage ([ranged]).\nRemove all shields from all of an opponent's characters."
+        "name": "Bombardeo prolongado",
+        "text": "Juega esta carta sólo si tienes 2 o más dados que muestren daño a distancia ([ranged]).\nRetira todos los escudos de todos los Personaje de un adversario."
     },
     {
         "code": "02065",
@@ -382,8 +382,8 @@
     },
     {
         "code": "02071",
-        "name": "Anger",
-        "text": "Play only if you have 2 or more dice showing blanks ([blank]).\nResolve an opponent's die showing damage ([ranged] or [melee]) as if it were your die."
+        "name": "Ira",
+        "text": "Juega esta carta sólo si tienes 2 o más dados que muestren caran vacías ([blank]).\nResuelve un dado de un adversario que muestre daño ([ranged] o [melee]) como si ese dado fuera tuyo."
     },
     {
         "code": "02072",
@@ -437,8 +437,8 @@
     },
     {
         "code": "02082",
-        "name": "Bait and Switch",
-        "text": "Ambush.\nTurn one of your dice showing a resource ([resource]) to any side."
+        "name": "Tácticas engañosas",
+        "text": "Emboscada.\nGira a cualquier cara uno de tus dados que muestre un recurso ([resource])."
     },
     {
         "code": "02083",
@@ -452,13 +452,13 @@
     },
     {
         "code": "02085",
-        "name": "One-Quarter Portion",
-        "text": "Remove an opponenet's die. Then that opponent gains 1 resource."
+        "name": "Un cuarto de porción",
+        "text": "Retira un dado de un adversario. Luego ese adversario recibe 1 recurso."
     },
     {
         "code": "02086",
-        "name": "Relentless Pursuit",
-        "text": "Move up to 2 damage from an opponent's character to another character (<em>this ignores shields.</em>)"
+        "name": "Persecución implacable",
+        "text": "Transfiere hasta 2 puntos de daño de un Personaje de un adversario a otro Personaje <em>(esta transferencia ignora escudos).</em>"
     },
     {
         "code": "02087",
@@ -497,13 +497,13 @@
     },
     {
         "code": "02094",
-        "name": "Rebel Assault",
-        "text": "Play only if you have one or more dice showing ranged damage ([ranged]).\nRemove an opponent's die not showing damage ([ranged] or [melee])."
+        "name": "Ofensiva rebelde",
+        "text": "Juega esta carta sólo si tienes uno o más dados que muestren daño a distancia ([ranged]).\nRetira un dado de un adversario que no muestre daño ([melee] o [ranged])."
     },
     {
         "code": "02095",
-        "name": "Sensor Placement",
-        "text": "Spot a red character to resolve an opponent's die not showing damage ([ranged] or [melee]) as if it were your die."
+        "name": "Colocación de sensores",
+        "text": "Señala un Personaje de color Rojo para resolver un dado de un adversario que no muestre daño ([ranged] o [melee]) como si ese dado fuera tuyo."
     },
     {
         "code": "02096",
@@ -577,8 +577,8 @@
     },
     {
         "code": "02110",
-        "name": "Garbage'll Do",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nRemove one of your <b>vehicle</b> dice to give each of your characters 1 shield."
+        "name": "La chatarra servirá",
+        "text": "Emboscada.\nRetira uno de tus dados de <i>vehículo</i> para entregar 1 escudo a cada uno de tus Personajes."
     },
     {
         "code": "02111",
@@ -602,8 +602,8 @@
     },
     {
         "code": "02115",
-        "name": "Never Tell Me The Odds",
-        "text": "Choose one of your Yellow characters. Turn any number of its character and upgrade dice to sides of your choice."
+        "name": "No me hables de probabilidades",
+        "text": "Elige uno de tus Personajes de color Amarillo. Gira cualquier cantidad de sus dados de Personaje y de Mejora a caras de tu elección."
     },
     {
         "code": "02116",
@@ -612,8 +612,8 @@
     },
     {
         "code": "02117",
-        "name": "Double-Dealing",
-        "text": "After one of your dice rolls a special ([special]), you may exhaust this support to gain 1 resource."
+        "name": "Jugar a dos bandas",
+        "text": "Después de que uno de tus dados obtenga un resultado especial ([special]), puedes agotar este Apoyo para recibir 1 recurso."
     },
     {
         "code": "02118",
@@ -672,8 +672,8 @@
     },
     {
         "code": "02129",
-        "name": "Momentum Shift",
-        "text": "Move 1 shield from an opponent's character to one of your characters."
+        "name": "Momento de inflexión",
+        "text": "Transfiere 1 escudo de un Personaje de un adversario a uno de tus Personajes."
     },
     {
         "code": "02130",
@@ -687,8 +687,8 @@
     },
     {
         "code": "02132",
-        "name": "Rejuvinate",
-        "text": "Spot a Blue character to heal 1 damage from a character."
+        "name": "Revitalizar",
+        "text": "Señala un Personaje de color Azul para curar 1 punto de daño de un Personaje."
     },
     {
         "code": "02133",
@@ -727,8 +727,8 @@
     },
     {
         "code": "02140",
-        "name": "Resolve",
-        "text": "<b>Action</b> - Discard a card from your hand to reroll an opponent's die."
+        "name": "Entereza",
+        "text": "<b>Acción</b> - Descarta una carta de tu mano para volver a tirar un dado de un adversario."
     },
     {
         "code": "02141",
@@ -788,15 +788,15 @@
     },
     {
         "code": "02152",
-        "name": "Cargo Hold",
+        "name": "Bodega de carga",
         "subtitle": "Eravana",
-        "text": "<b>Reclamar</b> - Move an upgrade from a character to another character controlled by the same player."
+        "text": "<b>Reclamar</b> - Transfiere una Mejora de un Personaje a otro Personaje controlado por el mismo jugador."
     },
     {
         "code": "02153",
-        "name": "Docking Bay",
-        "subtitle": "Finalizer",
-        "text": "<b>Reclamar</b> - Play a support from your hand or discard pile, decreasing its cost by 1."
+        "name": "Muelle de atraque",
+        "subtitle": "Finalizador",
+        "text": "<b>Reclamar</b> - Juega un Apoyo de tu mano o desde tu pila de descarte, reduciendo en 1 su coste."
     },
     {
         "code": "02154",
