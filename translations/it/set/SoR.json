@@ -679,13 +679,103 @@
         "text": "Sposta 1 scudo da un personaggio di un avversario ad un tuo personaggio.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
+        "code": "02130",
+        "name": "Eccesso di Sicurezza",
+        "text": "Avvista un personaggio blu per ripetere il tiro di 2 dadi. Poi rimuovi uno di quei dadi con il valore più basso.<em>(scegli tu in caso di pareggio)</em>.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02131",
+        "name": "Premonizioni",
+        "text": "Scegline una: colloca questa carta da un parte e piazzaci sopra una carta coperta dalla tua mano, oppure gioca gratuitamente la carta piazzata sopra un'altra copia di questa carta e scartala copia messa da parte. \n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02132",
+        "name": "Rinvigorire",
+        "text": "Avvista un personaggio blu per curare 1 danno ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02133",
+        "name": "Fidati del Tuo Istinto",
+        "text": "Avvista un personaggio blu per ripetere il tiro di un qualsiasi numero di suoi dadi personaggio e miglioria. Poi puoi pescare una carta.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02134",
+        "name": "Meditazione",
+        "text": "<b>Azione</b> - Esaurisci questo supporto e rimuovi un tuo dado vuoto ([blank]) per girare un tuo dado su una faccia non danno ([ranged o [melee]).\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02135",
+        "name": "Illusione di Forza",
+        "text": "Prima che il personaggio con questa miglioria subisca danno, puoi scartare carte dalla cima del tuo mazzo pari a quel danno per bloccarlo. Poi scarta questa miglioria dal gioco.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
         "code": "02136",
         "name": "Elusione",
         "text": "Rimuovi 1 dado \"danno a distanza\" ([ranged])."
     },
     {
+        "code": "02137",
+        "name": "Nuovi Ordini",
+        "text": "Scambia il campo di battaglia con quello non in uso <em>(ma presente alla preparazione della partita)</em> e usa la sua abilità di rivendicazione.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
         "code": "02138",
         "name": "Parata",
         "text": "Rimuovi 1 dado \"danno in mischia\" ([melee])."
+    }
+    {
+        "code": "02139",
+        "name": "Rapidità",
+        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nFornisci la parola chiave Imboscata alla prossima carta che giochi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02140",
+        "name": "Determinazione",
+        "text": "<b>Azione</b> - Scarta una carta dalla tua mano per ripetere il tiro di un dado di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02141",
+        "name": "Cintura delle Munizioni",
+        "text": "Prima che un altra miglioria sul personaggio con questa miglioria venga scartata da un effetto di una carta, puoi invece scartare questa miglioria.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02142",
+        "name": "Nascondiglio",
+        "text": "Rimuovi un dado personaggio giallo per dare a quel personaggio 2 scudi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02143",
+        "name": "Barare",
+        "text": "Scambia una carta nella tua mano con una carta nella tua pila degli scarti.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02144",
+        "name": "Diversivo",
+        "text": "Constringi un avversario a perdere 1 risorsa, o 3 risorse se invece c'è un'altra copia di questo evento nella tua pila degli scarti.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02145",
+        "name": "Scambio \"Alla Pari\"",
+        "text": "Risolvi un tuo dado risorsa ([resource]). Poi scambia tutte le tue risorse con tutte quelle di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02146",
+        "name": "Amici nei Bassifondi",
+        "text": "Avvista un personaggio giallo per guardare la mano di un avversario e scartare da essa un evento che costa 1 o meno.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02147",
+        "name": "Sabotaggio",
+        "text": "Scarta carte dalla tua mano pari al costo di un supporto in gioco per scartare quel supporto.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02148",
+        "name": "Improvvisazione",
+        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\n<b>Azione</b> - Rimuovi un tuo dado vuoto ([blank]) per ripetere il tiro di un qualsiasi numero di tuoi dadi.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02149",
+        "name": "Accerchiare",
+        "text": "Dopo che hai rivendicato il campo di battaglia, guadagna 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
     }
 ]
