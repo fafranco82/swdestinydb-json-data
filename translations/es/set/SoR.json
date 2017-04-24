@@ -45,10 +45,10 @@
     },
     {
         "code": "02009",
-        "flavor": "\"Your weakness will not be my downfall!\"",
+        "flavor": "\"¡Tu debilidad no se convertirá en mi caída!\"",
         "name": "Asajj Ventress",
-        "subtitle": "Force Assassin",
-        "text": "After an opponent discards a card from their hand to reroll dice, you may force them to choose and discard another card from their hand."
+        "subtitle": "Asesina de la Fuerza",
+        "text": "Después de que un adversario descarte una carta de su mano para volver a tirar dados, puedes obligarle a elegir y descartar otra carta de su mano."
     },
     {
         "code": "02010",
@@ -226,8 +226,8 @@
     },
     {
         "code": "02041",
-        "name": "Journals of Ben Kenobi",
-        "text": "<b>Action</b> - Remove this die to draw a card."
+        "name": "Diarios de Ben Kenobi",
+        "text": "<b>Acción</b> - Retira este dado para robar una carta."
     },
     {
         "code": "02042",
@@ -244,8 +244,8 @@
     {
         "code": "02044",
         "name": "Jyn Erso",
-        "subtitle": "Relentless Operative",
-        "text": "The cost of the first Yellow event you play each round is decreased by 1."
+        "subtitle": "Agente temeraria",
+        "text": "El coste del primer Evento de color Amarillo que juegues en cada ronda se reduce en 1."
     },
     {
         "code": "02045",
@@ -261,8 +261,8 @@
     },
     {
         "code": "02047",
-        "name": "Smuggling Freighter",
-        "text": "After you resolve one of this die's sides showing a value of 2, place this support on the top of your deck."
+        "name": "Carguero contrabandista",
+        "text": "Después de que resuelvas una de las caras de este dado que muestre un valor de resultado de 2, coloca este Apoyo en la parte superior de tu mazo."
     },
     {
         "code": "02048",
@@ -307,8 +307,8 @@
     },
     {
         "code": "02056",
-        "name": "Makashi Training",
-        "text": "To play, spot a Blue character.\n<b>Action</b> - Remove one of your dice showing melee damage ([melee]) and exhaust this upgrade to remove a die showing melee damage ([melee])."
+        "name": "Entrenamiento en Makashi",
+        "text": "Para jugar esta carta, señala un Personaje de color Azul.\n<b>Acción</b> - Retira uno de tus dados que muestre daño cuerpo a cuerpo ([melee]) y agota esta Mejora para retirar un dado que muestre daño cuerpo a cuerpo ([melee])."
     },
     {
         "code": "02057",
@@ -342,8 +342,8 @@
     },
     {
         "code": "02063",
-        "name": "Lockdown",
-        "text": "Ambush.\nSpot two Red characters to take control of the battlefield. (<em>This does not claim the battlefield.</em>)"
+        "name": "Estado de confinamiento",
+        "text": "Emboscada.\nSeñala dos Personajes de color Rojo para tomar el control del campo de batalla. <em>(Esta no se considera reclamar el campo de batalla.)</em>"
     },
     {
         "code": "02064",
@@ -422,8 +422,8 @@
     },
     {
         "code": "02079",
-        "name": "Now I Am The Master",
-        "text": "After attached character's character or upgrade dice deal damage, you may exhaust this upgrade to turn a die to a side showing a blank ([blank])."
+        "name": "Ahora yo soy el maestro",
+        "text": "Después de infligir daño con los dados de Personaje o de Mejora del Personaje vinculado, puedes agotar esta Mejora para girar un dado a una cara que muestre una cara vacía ([blank])."
     },
     {
         "code": "02080",
@@ -462,8 +462,8 @@
     },
     {
         "code": "02087",
-        "name": "Scrap Buy",
-        "text": "Play only if you have 3 or more cards in your discard pile.\nAdd a random card from your discard pile to your hand (<em>show the card to your opponents</em>)."
+        "name": "Compra de chatarra",
+        "text": "Juega esta carta sólo si tienes 3 o más cartas en tu pila de descarte.\nAñade a tu mano una carta escogida al azar de tu pila de descarte <em>(muestra la carta a tus adversarios).</em>"
     },
     {
         "code": "02088",
@@ -477,18 +477,18 @@
     },
     {
         "code": "02090",
-        "name": "Emergency Evacuation",
-        "text": "Remove all dice."
+        "name": "Evacuación de emergencia",
+        "text": "Retira todos los dados."
     },
     {
         "code": "02091",
-        "name": "Friendly Fire",
-        "text": "Spot a Red character and remove an opponent's dice showing ranged damage ([ranged]) to deal that damage to a character."
+        "name": "Fuego amigo",
+        "text": "Señala un Personaje de color Rojo y retira un dado de un adversario que muestre daño a distancia ([ranged]) para infligir ese daño a un Personaje."
     },
     {
         "code": "02092",
-        "name": "Guerrilla Warfare",
-        "text": "Emboscada.\nDespués de que uno de tus Personajes sea derrotado, inflige 1 punto de daño a un Personaje."
+        "name": "Guerra de guerrillas",
+        "text": "Emboscada.\nRetira uno de tus dados de color Rojo para infligir 1 punto de daño a un Personaje."
     },
     {
         "code": "02093",
@@ -507,8 +507,8 @@
     },
     {
         "code": "02096",
-        "name": "Spirit of Rebellion",
-        "text": "Give a character 1 shield, or 2 shields instead if there is another copy of this event in your discard pile."
+        "name": "Espíritu de rebelión",
+        "text": "Entrega 1 escudo a un Personaje, o 2 escudos si hay otra copia de este Evento en tu pila de descarte."
     },
     {
         "code": "02097",
@@ -517,8 +517,8 @@
     },
     {
         "code": "02098",
-        "name": "Spy Net",
-        "text": "After one of your dice rolls a focus ([focus]), you may exhaust this support to discard the top card of an opponent's deck."
+        "name": "Red de espionaje",
+        "text": "Después de que uno de tus dados obtenga un resultado de concentración ([focus]), puedes agotar este Apoyo para descarta la primera carta del mazo de un adversario."
     },
     {
         "code": "02099",
@@ -527,18 +527,18 @@
     },
     {
         "code": "02100",
-        "name": "Caution",
-        "text": "Remove one of your character dice to give another character 3 shields."
+        "name": "Cautela",
+        "text": "Retira uno de tus dados de Personaje para entregar 3 escudos a otro Personaje."
     },
     {
         "code": "02101",
-        "name": "Destiny",
-        "text": "Remove any number of your Blue dice. Play a card from your hand for free that costs equal to or less than the combined value of the Blue dice you just removed."
+        "name": "Destino",
+        "text": "Retira cualquier cantidad de tus dados de color Azul. Juega sin coste alguno una carta de tu mano que tenga un coste igual o inferior al valor de resultado combinado de los dados de color Azul que acabas de retirar."
     },
     {
         "code": "02102",
-        "name": "Determination",
-        "text": "Play only if you have one or more dice showing a focus ([focus]).\nResolve one of your dice as if it was showing a different symbol <em>(it keeps its original value)</em>"
+        "name": "Determinación",
+        "text": "Juega esta carta sólo si tienes uno o más dados que muestren resultados de concentración ([focus]).\nResuelve uno de tus dados como si estuviera mostrando un símbolo diferente <em>(conserva su valor de resultado original).</em>"
     },
     {
         "code": "02103",
@@ -547,8 +547,8 @@
     },
     {
         "code": "02104",
-        "name": "Krayt Dragon Howl",
-        "text": "Spot a Blue character to choose an opponent's die. That opponent chooses to either remove that die or discard the top 2 cards of their deck."
+        "name": "Aullido de dragón krayt",
+        "text": "Señala un Personaje de color Azul para elegir un dado de un adversario. Ese adversario elige entre retirar ese dado o descartar las 2 primeras cartas de su mazo."
     },
     {
         "code": "02105",
@@ -557,8 +557,8 @@
     },
     {
         "code": "02106",
-        "name": "Synchronicity",
-        "text": "Play only if you have dice showing melee damage ([melee]) and shields ([shield]).\nDeal 2 unblockable damage to a character."
+        "name": "Sincronización",
+        "text": "Juega esta carta sólo si tienes dados que muestren daño cuerpo a cuerpo ([melee]) y escudos ([shield]).\nInflige 2 puntos de daño no anulable a un Personaje."
     },
     {
         "code": "02107",
@@ -572,8 +572,8 @@
     },
     {
         "code": "02109",
-        "name": "Confidence",
-        "text": "Choose an opponent's die and force them to resolve it, if able."
+        "name": "Confianza",
+        "text": "Elige un dado de un adversario y oblígale a resolverlo, si es posible."
     },
     {
         "code": "02110",
@@ -582,8 +582,8 @@
     },
     {
         "code": "02111",
-        "name": "Hold On!",
-        "text": "Ambush.\nMove any number of shields from one of your character to another character."
+        "name": "¡Aguanta!",
+        "text": "Emboscada.\nTransfiere cualquier cantidad de escudos de unos de tus Personajes a otro Personaje."
     },
     {
         "code": "02112",
@@ -592,13 +592,13 @@
     },
     {
         "code": "02113",
-        "name": "Long Con",
-        "text": "Gain 3 resources if there is another copy of this event in your discard pile."
+        "name": "La gran estafa",
+        "text": "Recibes 3 recursos si hay otra copia de este Evento en tu pila de descarte."
     },
     {
         "code": "02114",
-        "name": "Loth-Cat and Mouse",
-        "text": "Force an opponent to choose and remove one of your dice. Then remove one of their dice."
+        "name": "Gato y ratón de Lothal",
+        "text": "Obliga a un adversario a elegir y retirar uno de tus dados. Luego tú retiras uno de sus dados."
     },
     {
         "code": "02115",
@@ -607,8 +607,8 @@
     },
     {
         "code": "02116",
-        "name": "Planned Explosion",
-        "text": "Play only if you have dice showing a combined value of 10 or more.\nRemove all of your dice and deal 10 damage to a character."
+        "name": "Explosión planificada",
+        "text": "Juega esta carta sólo si tienes dados que muestren un valor de resultado combinado igual o superior a 10.\nRetira todos tus dados e inflige 10 puntos de daño a un Personaje."
     },
     {
         "code": "02117",
@@ -617,13 +617,13 @@
     },
     {
         "code": "02118",
-        "name": "Life Debt",
-        "text": "Yellow character only.\nAfter you activate this character, you may move 1 damage from another character to this character <em>(this ignores shields)</em>."
+        "name": "Deuda de vida",
+        "text": "Sólo Personaje de color Amarillo.\nDespués de que actives este personaje, puedes transferir 1 punto de daño de otro Personaje a este Personaje <em>(esta transferencia ignora escudos).</em>"
     },
     {
         "code": "02119",
-        "name": "Bombing Run",
-        "text": "Resolve one of your Red dice showing a disrupt ([disrupt]). Then deal 1 damage to each of an opponent's characters."
+        "name": "Pasada de bombardeo",
+        "text": "Resuelve uno de tus dados de color Rojo que muestre un resultado de interferir ([disrupt]). Luego inflige 1 punto de daño a cada uno de los Personajes de un adversario."
     },
     {
         "code": "02120",
@@ -642,13 +642,13 @@
     },
     {
         "code": "02123",
-        "name": "Aftermath",
-        "text": "After a player is defeated, gain 1 resource."
+        "name": "Secuelas de la batalla",
+        "text": "Después de que un Personaje sea derrotado, recibes 1 recurso."
     },
     {
         "code": "02124",
-        "name": "Air Superiority",
-        "text": "After you play this support, place 3 shields on it.\n<b>Action</b> - Exhaust this support to move 1 shield from it to a character."
+        "name": "Superioridad aérea",
+        "text": "Después de que juegues este Apoyo, coloca 3 escudos sobre él.\n<b>Acción</b> - Agota este Apoyo para transferir 1 escudo de él a un Personaje."
     },
     {
         "code": "02125",
@@ -657,8 +657,8 @@
     },
     {
         "code": "02126",
-        "name": "Wingman",
-        "text": "Red character only.\nAfter you activate a Red character, you may activate attached character."
+        "name": "Piloto de flanco",
+        "text": "Sólo Personaje de color Rojo.\nDespués de que actives un Personaje de color Rojo, puedes activar a tu Personaje vinculado."
     },
     {
         "code": "02127",
@@ -667,8 +667,8 @@
     },
     {
         "code": "02128",
-        "name": "High Ground",
-        "text": "Play only if you control the battlefield.\nRemove an opponent's die showing damage ([ranged] or [melee]). Then, if it was a character die, deal 1 damage to that character."
+        "name": "Terreno elevado",
+        "text": "Juega esta carta sólo si controlas el campo de batalla.\nRetira un dado de un adversario que muestre daño ([ranged] o [melee]). Luego, si era un dado de Personaje, inflige 1 punto de daño a ese Personaje."
     },
     {
         "code": "02129",
@@ -677,8 +677,8 @@
     },
     {
         "code": "02130",
-        "name": "Overconfidence",
-        "text": "Spot a Blue character to reroll 2 dice. Then remove one of those dice with the lowest value (<em>you choose in the case of a tie</em>)."
+        "name": "Exceso de confianza",
+        "text": "Señala un Personaje de color Azul para volver a tirar 2 dados. Luego retira uno de esos dados con el valor de resultado más bajo <em>(en caso de empate tú elijes cuál).</em>"
     },
     {
         "code": "02131",
@@ -692,8 +692,8 @@
     },
     {
         "code": "02133",
-        "name": "Trust Your Instincts",
-        "text": "Spot a Blue character to reroll any number of its character and upgrade dice. Then you may draw a card."
+        "name": "Confía en tus instintos",
+        "text": "Señala un Personaje de color Azul para volver atirar cualquier cantidad de sus dados de Personaje y de Mejora. Luego puedes robar una carta."
     },
     {
         "code": "02134",
@@ -702,18 +702,18 @@
     },
     {
         "code": "02135",
-        "name": "Force Illusion",
-        "text": "Before attached character takes damage, you may discard cards from the top of your deck equal to that damage to block it. Then discard this upgrade from play."
+        "name": "Ilusión de la Fuerza",
+        "text": "Antes de que el Personaje vinculado reciba daño, puedes descartar tantas cartas de la parte superior de tu mazo como esa cantidad de daño para anularlo. Luego descarta esta Mejora del juego."
     },
     {
         "code": "02136",
-        "name": "Evade",
-        "text": "Remove a die showing ranged damage [ranged]"
+        "name": "Evasión",
+        "text": "Retira un dado que muestre daño a distance ([ranged])."
     },
     {
         "code": "02137",
-        "name": "New Orders",
-        "text": "Switch the battlefield with a battlefield that is not being used (<em>but was brought to the game</em>) and use its claim ability."
+        "name": "Nuevas órdenes",
+        "text": "Intercambia el campo de batalla por un campo de batalla que no esté siendo usado <em>(pero se ha traído a la partida)</em> y usa su capacidad \"<b>Reclamar</b>\"."
     },
     {
         "code": "02138",
@@ -722,8 +722,8 @@
     },
     {
         "code": "02139",
-        "name": "Swiftness",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nGive the next card you play this turn the Ambush keyword."
+        "name": "Celeridad",
+        "text": "Emboscada.\nDala la palabra clave Emboscada a la siguiente carta que jueges en este turno."
     },
     {
         "code": "02140",
@@ -737,8 +737,8 @@
     },
     {
         "code": "02142",
-        "name": "Bolt Hole",
-        "text": "Remove one of your Yellow character dice to give that character 2 shields."
+        "name": "Escondrijo",
+        "text": "Retira uno de tus dados de Personaje de color Amarillo para entregar 2 escudos a ese Personaje."
     },
     {
         "code": "02143",
@@ -747,13 +747,13 @@
     },
     {
         "code": "02144",
-        "name": "Diversion",
-        "text": "Force an opponent to lose 1 resource, or 3 resources instead if there is another copy of this event in your discard pile."
+        "name": "Distracción",
+        "text": "Obliga a un adversario a perder 1 recurso, o 3 recursos si hay otra copia de este Evento en tu pila de descarte."
     },
     {
         "code": "02145",
-        "name": "\"Fair\" Trade",
-        "text": "Resolve one of your dice showing a resource ([resource]). Then switch all of your resources with all of an opponent's resources."
+        "name": "Un negocio \"estupendo\"",
+        "text": "Resuelve uno de tus dados que muestre un recurso ([resource]). Luego intercambia todos tus recursos por todos los recursos de un adversario."
     },
     {
         "code": "02146",
@@ -784,55 +784,55 @@
         "code": "02151",
         "name": "Carbon-freezing Chamber",
         "subtitle": "Bespin",
-        "text": "<b>Claim</b> - Choose a character die. That die cannot be rolled during the next round."
+        "text": "<b>Reclamar</b> - Choose a character die. That die cannot be rolled during the next round."
     },
     {
         "code": "02152",
         "name": "Cargo Hold",
         "subtitle": "Eravana",
-        "text": "<b>Claim</b> - Move an upgrade from a character to another character controlled by the same player."
+        "text": "<b>Reclamar</b> - Move an upgrade from a character to another character controlled by the same player."
     },
     {
         "code": "02153",
         "name": "Docking Bay",
         "subtitle": "Finalizer",
-        "text": "<b>Claim</b> - Play a support from your hand or discard pile, decreasing its cost by 1."
+        "text": "<b>Reclamar</b> - Play a support from your hand or discard pile, decreasing its cost by 1."
     },
     {
         "code": "02154",
         "name": "Ewok Village",
         "subtitle": "Endor",
-        "text": "<b>Claim</b> - Remove all shields from a character."
+        "text": "<b>Reclamar</b> - Remove all shields from a character."
     },
     {
         "code": "02155",
-        "name": "Maz's Castle",
+        "name": "Castillo de Maz",
         "subtitle": "Takodana",
-        "text": "<b>Claim</b> - Draw 2 cards. Place any number of cards from your hand on the bottom of your deck (<em>in any order</em>)."
+        "text": "<b>Reclamar</b> - Roba 2 cartas. Coloca cualquier cantidad de cartas de tu mano en la parte inferior de tu mazo <em>(en el orden que quieras).</em>"
     },
     {
         "code": "02156",
         "name": "Moisture Farm",
         "subtitle": "Tatooine",
-        "text": "<b>Claim</b> - Gain 1 resource."
+        "text": "<b>Reclamar</b> - Gain 1 resource."
     },
     {
         "code": "02157",
         "name": "Otoh Gunga",
         "subtitle": "Naboo",
-        "text": "<b>Claim</b> - Heal 1 damage from a character."
+        "text": "<b>Reclamar</b> - Cura 1 punto de daño de un Personaje."
     },
     {
         "code": "02158",
-        "name": "Secluded Beach",
+        "name": "Playa apartada",
         "subtitle": "Scarif",
-        "text": "<b>Claim</b> - Remove an opponent's die showing ranged damage ([ranged])."
+        "text": "<b>Reclamar</b> - Retira un dado de un adversario que muestre daño a distance ([ranged])."
     },
     {
         "code": "02159",
         "name": "Secret Facility",
         "subtitle": "Scarif",
-        "text": "<b>Claim</b> - Resolve up to 3 of your dice showing damage ([ranged] or [melee])."
+        "text": "<b>Reclamar</b> - Resolve up to 3 of your dice showing damage ([ranged] or [melee])."
     },
     {
         "code": "02160",
