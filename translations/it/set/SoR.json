@@ -777,5 +777,70 @@
         "code": "02149",
         "name": "Accerchiare",
         "text": "Dopo che hai rivendicato il campo di battaglia, guadagna 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02150",
+        "name": "Mani Veloci",
+        "text": "Dopo aver attivato il personaggio con questa miglioria, puoi risovere un suo dado personaggio o miglioria.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02151",
+        "name": "Stanza del Congelamento a Carbonite",
+        "subtitle": "Bespin",
+        "text": "<b>Claim</b> - Scegli un dado personaggio. Quel dado non può essere tirato il prossimo round.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02152",
+        "name": "Stiva di Carico",
+        "subtitle": "Eravana",
+        "text": "<b>Claim>/b> - Sposta una miglioria da un personaggio ad un altro personaggio controllato dallo stesso giocatore.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02153",
+        "name": "Molo d'Attracco",
+        "subtitle": "Finalizer",
+        "text": "<b>Claim>/b> - Gioca un supporto dalla tua mano o dalla tua pila degli scarti, diminuendo il suo costo di 1.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02154",
+        "name": "Villaggio Ewok",
+        "subtitle": "Endor",
+        "text": "<b>Claim>/b> - Rimuovi tutti gli scudi da un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02155",
+        "name": "Castello di Maz",
+        "subtitle": "Takodana",
+        "text": "<b>Claim>/b> - Pesca 2 carte. Piazza un qualsiasi numero di carte dalla tua mano in fondo al tua mazzo (<em>(in qualsiasi ordine)</em>.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02155",
+        "name": "Campi di Vapore",
+        "subtitle": "Tatooine",
+        "text": "<b>Claim>/b> - Guadagna 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02156",
+        "name": "Otoh Gunga",
+        "subtitle": "Naboo",
+        "text": "<b>Claim>/b> - Cura 1 danno ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02157",
+        "name": "Spiaggia Isolata",
+        "subtitle": "Scarif",
+        "text": "<b>Claim>/b> - Rimuovi un dado danno a distanza ([ranged]) di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02159",
+        "name": "Struttura Segreta",
+        "subtitle": "Scarif",
+        "text": "<b>Claim>/b> - Risolvi fino a 3 tuoi dadi danno ([ranged] o [melee]).\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "02160",
+        "name": "Strade Devastate Dalla Guerra",
+        "subtitle": "Jedha",
+        "text": "<b>Claim>/b> - Scarta una carta a caso dalla mano di un avversario.\n<em>(Traduzione non ufficiale)</em>"
     }
 ]
