@@ -81,8 +81,8 @@
     },
     {
         "code": "02015",
-        "name": "Lightsaber Pike",
-        "text": "<b>Action</b> - Remove this die to give a non-attached character 1 shield."
+        "name": "Pica sable de luz",
+        "text": "<b>Acción</b> - Retira este dado para entregar 1 escudo a un Personaje que no esté vinculado a esta carta."
     },
     {
         "code": "02016",
@@ -196,10 +196,10 @@
     },
     {
         "code": "02036",
-        "flavor": "\"Synchronize on my mark.\"",
+        "flavor": "\"Sincronizadlos a mi señal.\"",
         "name": "Luminara Unduli",
-        "subtitle": "Inspiring Commander",
-        "text": "[special] - Resolve one of your character dice, increasing its value by 2, or by 3 instead if it is a non-unique character die."
+        "subtitle": "Comandante inspiradora",
+        "text": "[special] - Resuelve uno de tus dados de Personaje, incrementando en 2 su valor de resultado, o en 3 si se trata de un dado de Personaje que no es único."
     },
     {
         "code": "02037",
@@ -367,8 +367,8 @@
     },
     {
         "code": "02068",
-        "name": "We Have Them Now",
-        "text": "Play only if you control de battlefield.\nTurn up to 4 of your dice to sides showing damage ([ranged] or [melee])."
+        "name": "Ya son nuestros",
+        "text": "Juega esta carta sólo si controlas el campo de batalla.\nGira hasta 4 de tus dados a caras que muestren daño ([ranged] o [melee])."
     },
     {
         "code": "02069",
@@ -377,8 +377,8 @@
     },
     {
         "code": "02070",
-        "name": "Imperial Inspection",
-        "text": "After one of your dice rolls a disrupt ([disrupt]), you may exhaust this support to return an upgrade in play that costs 2 or less to its owner's hand."
+        "name": "Inspección imperial",
+        "text": "Después de que uno de tus dados obtenga un resultado de interferir ([disrupt]), puedes agotar este Apoyo para devolver a la mano de su propietario una Mejora en juego con un coste igual o inferior a 2."
     },
     {
         "code": "02071",
@@ -397,13 +397,13 @@
     },
     {
         "code": "02074",
-        "name": "No Disintegrations",
-        "text": "Discard the top card of an opponent's deck, or 3 cards instead if there is another copy of this event in your discard pile."
+        "name": "Nada de desintegraciones",
+        "text": "Descarta la primera carta del mazo de un adversario, o 3 cartas si hay otra copia de este Evento en tu pila de descarte."
     },
     {
         "code": "02075",
-        "name": "Now You Will Die",
-        "text": "Resolve one of your dice as if it were showing melee damage ([melee]) <em>(it keeps its original value)</em>."
+        "name": "Y ahora morirás",
+        "text": "Resuelve uno de tus dados como si estuviera mostrando daño cuerpo a cuerpo ([melee]) <em>(conserva su valor de resultado original)</em>"
     },
     {
         "code": "02076",
@@ -682,8 +682,8 @@
     },
     {
         "code": "02131",
-        "name": "Premonitions",
-        "text": "Choose one: set this card aside and stack a card from your hand on it facedown, or play the card stacked on another copy of this card for free and discard the set aside copy."
+        "name": "Premoniciones",
+        "text": "Elige una de las siguientes opciones: dejar aparte esta carta y poner encima de ella boca abajo una carta de tu mano, o jugar sin coste alguna la carta que hay encima de otra copia de esta carta y descartar la copia que has dejado aparte."
     },
     {
         "code": "02132",
@@ -742,8 +742,8 @@
     },
     {
         "code": "02143",
-        "name": "Cheat",
-        "text": "Switch a card in your hand with a card in your discard pile."
+        "name": "Hacer trampas",
+        "text": "Intercambia una carta en tu mano por una carta en tu pila de descarte."
     },
     {
         "code": "02144",
@@ -782,9 +782,9 @@
     },
     {
         "code": "02151",
-        "name": "Carbon-freezing Chamber",
+        "name": "Cámara de congelación",
         "subtitle": "Bespin",
-        "text": "<b>Reclamar</b> - Choose a character die. That die cannot be rolled during the next round."
+        "text": "<b>Reclamar</b> - Elige un dado de Personaje. Ese dado no se puede tirar durante la siguiente ronda."
     },
     {
         "code": "02152",
