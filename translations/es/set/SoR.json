@@ -52,10 +52,10 @@
     },
     {
         "code": "02010",
-        "flavor": "\"You understimate my power.\"",
+        "flavor": "\"No subestimes mi poder.\"",
         "name": "Darth Vader",
-        "subtitle": "Dark Apprentice",
-        "text": "[special] - Deal 3 damage to a character. Then deal 1 damage to this character."
+        "subtitle": "Aprendiz oscuro",
+        "text": "[special] - Inflige 3 puntos de daño a un Personaje. Luego inflige 1 punto de daño a este Personaje."
     },
     {
         "code": "02011",
@@ -103,8 +103,8 @@
     },
     {
         "code": "02019",
-        "name": "Guavian Enforcer",
-        "text": "<b>Action</b> - Remove this die to remove 1 shield from a character."
+        "name": "Sicario de la banda guaviana",
+        "text": "<b>Acción</b> - Retira este dado para retirar 1 escudo de un Personaje."
     },
     {
         "code": "02020",
@@ -115,8 +115,8 @@
     {
         "code": "02021",
         "name": "Unkar Plutt",
-        "subtitle": "Junk Dealer",
-        "text": "<b>Action</b> - Remove any number of your dice showing a combined value of 3 or more. Then discard a random card from an opponent's hand and gain resources equal to its cost."
+        "subtitle": "Chatarrero",
+        "text": "<b>Acción</b> - Retira cualquier cantidad de tus dados que muestren un valor de resultado combinado igual o superior a 3. Luego descarta una carta escogida al azar de la mano de un adversario y recibe tantos recursos como el coste de esa carta."
     },
     {
         "code": "02022",
@@ -130,8 +130,8 @@
     },
     {
         "code": "02024",
-        "name": "Personal Shield",
-        "text": "Before attached character is dealt 2 or more ranged damage ([ranged]), you may exhaust this upgrade to give attached character 1 shield."
+        "name": "Escudo personal",
+        "text": "Antes de que al Personaje vinculado se le inflijan 2 o más puntos de daño a distancia ([ranged]), puedes agotar esta Mejora para entregar 1 escudo al Personaje vinculado."
     },
     {
         "code": "02025",
@@ -185,8 +185,8 @@
     },
     {
         "code": "02034",
-        "name": "Jedi Acolyte",
-        "text": "Before you resolve this die, increase its value by 1, if it is showing the same symbol as one of your other dice."
+        "name": "Acólito jedi",
+        "text": "Antes de que resuelvas este dado, incrementa en 1 su valor de resultado, si está mostrando el mismo símbolo que uno de tus otros dados."
     },
     {
         "code": "02035",

@@ -244,6 +244,7 @@
         "flavor": "\"You understimate my power.\"",
         "has_die": true,
         "health": 11,
+        "illustrator": "Ryan Valle",
         "is_unique": true,
         "name": "Darth Vader",
         "points": "13/17",
