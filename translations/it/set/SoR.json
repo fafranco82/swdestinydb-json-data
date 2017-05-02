@@ -259,7 +259,7 @@
     {
         "code": "02046",
         "name": "Contrabbandiere della Fascia Esterna",
-        "text": "Dopo che hai giocato l'ultima carta dalla tua mano, ottieni 1 risorsa."
+        "text": "La prima volta ogni round che hai giocato l'ultima carta dalla tua mano, ottieni 1 risorsa. <em>(Errata Maggio2017)</em)"
     },
     {
         "code": "02047",
