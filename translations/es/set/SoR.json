@@ -237,9 +237,10 @@
     },
     {
         "code": "02043",
+        "flavor": "¡Rroooaarrgghh!",
         "name": "Chewbacca",
         "subtitle": "Loyal Friend",
-        "text": "[special] - Turn a opponent's die to a side showing damage ([ranged] or [melee]) to deal that damage to a character."
+        "text": "[special] - Gira un dado de un adversario a una cara que muestre daño ([ranged] o [melee]) para infligir ese daño a un Personaje."
     },
     {
         "code": "02044",

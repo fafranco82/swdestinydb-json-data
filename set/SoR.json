@@ -1110,6 +1110,7 @@
         "code": "02043",
         "deck_limit": 1,
         "faction_code": "yellow",
+        "flavor": "Rroooaarrgghh!",
         "has_die": true,
         "health": 12,
         "illustrator": "Tony Foti",
