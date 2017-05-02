@@ -685,7 +685,7 @@
     {
         "code": "01129",
         "name": "Salto nell'Iperspazio",
-        "text": "Termina la fase di azione. Puoi cambiare il campo di battaglia con quello non utilizzato."
+        "text": "Termina la fase di azione. Puoi cambiare il campo di battaglia con quello non utilizzato. Elimina dal gioco questa carta, invece di scartarla. <em>(Errata Maggio2017)</em>"
     },
     {
         "code": "01130",
