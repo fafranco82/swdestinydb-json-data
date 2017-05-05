@@ -76,8 +76,8 @@
     },
     {
         "code": "02014",
-        "name": "Force Lightning",
-        "text": "Blue character only.\n[special] - Deal 1 damage to a character. You  may remove a die showing a blank ([blank]) to reroll this die instead of removing it from your pool."
+        "name": "Rayo de Fuerza",
+        "text": "Sólo Personaje de color Azul.\n[special] - Inflige 1 punto de daño a un Personaje. Puedes retirar un dado que muestre una cara vacía ([blank]) para volver a tirar este dado en vez de retirarlo de tu reserva."
     },
     {
         "code": "02015",
@@ -125,8 +125,8 @@
     },
     {
         "code": "02023",
-        "name": "Blackmail",
-        "text": "After you roll this die, any opponent may give you 1 resource to remove this die."
+        "name": "Chantaje",
+        "text": "Después de que tires este dado, cualquier adversario puede entregarte 1 recurso para retirar este dado."
     },
     {
         "code": "02024",
