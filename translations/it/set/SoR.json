@@ -434,8 +434,8 @@
     },
     {
         "code": "02081",
-        "name": "Commercio d'Armi",
-        "text": "Scarta un qualsiasi numero di <i>armi</i> dalla tua mano. Poi guadagna 1 risorsa per ogni carta appena scartata.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Traffico d'Armi",
+        "text": "Scarta un qualsiasi numero di carte <i>Arma</i> dalla tua mano, poi ottieni un pari ammontare di risorse."
     },
     {
         "code": "02082",
