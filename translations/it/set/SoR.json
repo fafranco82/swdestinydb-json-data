@@ -282,7 +282,7 @@
         "name": "Occhialoni di Maz",
         "text": "Gioca questa carta solo se avvisti un personaggio Giallo.\n[special] - Guarda la mano di un avversario e scarta un evento da essa."
     },
-    { 
+    {
         "code": "02051",
         "name": "Linea di Rifornimento",
         "text": "[special] - Ripeti il tiro di un qualsiasi numero di tuoi dadi."
@@ -657,7 +657,7 @@
         "name": "Addestramento",
         "text": "Solo personaggi non unici rossi.\nConsidera il personaggio con questa miglioria come se fosse elite <em>(collocando una seconda copia del suo dado sulla sua carta)</em>."
     },
-    
+    {
         "code": "02126",
         "name": "Gregario",
         "text": "Solo personaggi rossi.\nDopo che hai attivato un personaggio rosso, puoi attivare il personaggio con questa miglioria."

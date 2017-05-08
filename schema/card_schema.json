@@ -49,6 +49,9 @@
         "has_die": {
             "type": "boolean"
         },
+        "has_errata": {
+            "type": "boolean"
+        },
         "health": {
             "minimum": 1,
             "type": "integer"
@@ -130,6 +133,7 @@
         "code",
         "deck_limit",
         "has_die",
+        "has_errata",
         "is_unique",
         "name",
         "position",
