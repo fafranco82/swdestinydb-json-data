@@ -48,7 +48,7 @@
         "flavor": "\"La tua debolezza non sarà mia la caduta!\"",
         "name": "Asajj Ventress",
         "subtitle": "Assassina della Forza",
-        "text": "Dopo che un avversario ha scartato 1 carta dalla sua mano per ripetere il tiro dei dadi, puoi obbligarlo a scegliere e scartare 1 altra carta dalla loro mano.<em>(Traduzione non ufficiale)</em>"
+        "text": "Dopo che un avversario ha scartato 1 carta dalla sua mano per ripetere il tiro dei dadi, puoi obbligarlo a scegliere e scartare 1 altra carta dalla sua mano."
     },
     {
         "code": "02010",
@@ -98,8 +98,8 @@
         "code": "02018",
         "flavor": "\"Allora, cosa c'è qui?\"",
         "name": "Aurra Sing",
-        "subtitle": "Colpo Mortale",
-        "text": "Prima di risolvere questo dado, puoi scartare una carta dalla tua mano per aumentare il suo valore di 1.<em>(Traduzione non ufficiale)</em>"
+        "subtitle": "Tiratrice Letale",
+        "text": "Prima di risolvere questo dado, puoi scartare una carta dalla tua mano per aumentare di 1 il suo valore."
     },
     {
         "code": "02019",
@@ -135,8 +135,8 @@
     },
     {
         "code": "02025",
-        "name": "Vibroknuckler",
-        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nPrima di risolvere questo dado, puoi spendere 1 risorsa per aumentare il suo valore di 1.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Vibrotirapugni",
+        "text": "Imboscata.\nPrima di risolvere questo dado, puoi spendere 1 risorsa per aumentare di 1 il suo valore di 1."
     },
     {
         "code": "02026",
@@ -153,7 +153,7 @@
     {
         "code": "02028",
         "name": "Commando Ribelle",
-        "text": "[special] - Rimuovi un dado di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "[special] - Rimuovi 1 dado di un avversario."
     },
     {
         "code": "02029",
@@ -241,7 +241,7 @@
         "flavor": "\"Rrrooaarrgghh!\"",
         "name": "Chewbacca",
         "subtitle": "Amico Fedele",
-        "text": "[special] - Gira 1 dado di un avversario su una faccia \"danno\" ([ranged] or [melee]) per infliggere quei danni a un personaggio."
+        "text": "[special] - Gira 1 dado di un avversario su una faccia \"danno\" ([ranged] o [melee]) per infliggere quei danni a un personaggio."
     },
     {
         "code": "02044",
@@ -251,15 +251,15 @@
     },
     {
         "code": "02045",
-        "flavor": "\"Se sei vissuto abbastanza, vedi gli stessi occhi in persone differenti.\"",
+        "flavor": "\"Se vivi abbastanza a lungo puoi vedere gli stessi occhi in persone diverse.\"",
         "name": "Maz Kanata",
-        "subtitle": "Regina Pirata",
-        "text": "Dopo aver attivato questo personaggio, puoi risolvere fino a 2 dei tuoi dadi.\n<em>(Traduzione non ufficiale)</em>"
+        "subtitle": "Regina dei Pirati",
+        "text": "Dopo che attivato questo personaggio, puoi risolvere fino a 2 dei tuoi dadi."
     },
     {
         "code": "02046",
         "name": "Contrabbandiere della Fascia Esterna",
-        "text": "Dopo che hai giocato l'ultima carta dalla tua mano, ottieni 1 risorsa."
+        "text": "La prima volta ogni round che hai giocato l'ultima carta dalla tua mano, ottieni 1 risorsa. <em>(Errata Maggio2017)</em)"
     },
     {
         "code": "02047",
@@ -359,8 +359,8 @@
     },
     {
         "code": "02066",
-        "name": "Guerra di Trincea",
-        "text": "Gioca solo se hai uno o più dadi che mostrano uno scudo ([shield]).\nGira un qualsiasi numero di dadi dell'avversario su facce che mostrano scudi ([shield]).\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Tattiche di Trincea",
+        "text": "Gioca questa carta solo se hai 1 o più dadi \"scudo\" ([shield]).\nGira un qualsiasi numero di dadi di un avversario su una faccia \"scudo\" ([shield])."
     },
     {
         "code": "02067",
@@ -380,7 +380,7 @@
     {
         "code": "02070",
         "name": "Ispezione Imperiale",
-        "text": "Dopo che uno dei tuoi dadi tirati mostra una distruzione ([disrupt]), puoi esaurire questo supporto per far riprendere una miglioria che costa 2 o meno in mano al proprietario.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Dopo che 1 tuoi dado ha ottenuto \"distruzione\" ([disrupt]), puoi esaurire questo supporto per rimettere nella mano del suo proprietario 1 miglioria dal costo pari o inferiore a 2."
     },
     {
         "code": "02071",
@@ -394,8 +394,8 @@
     },
     {
         "code": "02073",
-        "name": "Manipolare",
-        "text": "Gira uno dei tuoi dadi su una faccia che mostra vuoto ([blank]). Poi gira uno dei dadi dell'avversario su una faccia che mostra vuoto ([blank]).\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Manipolazione",
+        "text": "Gira 1i tuo dado su una faccia \"vuoto\" ([blank]), poi gira 1 dado di un avversario su una faccia \"vuoto\" ([blank])."
     },
     {
         "code": "02074",
@@ -409,8 +409,8 @@
     },
     {
         "code": "02076",
-        "name": "Ancora in Piedi",
-        "text": "Guarisci 5 danni da un personaggio unico Blu. Puoi giocare una miglioria dalla pila degli scarti su di esso gratuitamente.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Resurrezione",
+        "text": "Cura 5 danni a un personaggio unico blu. Puoi giocare gratuitamente una miglioria dalla pila degli scarti su di esso ."
     },
     {
         "code": "02077",
@@ -434,8 +434,8 @@
     },
     {
         "code": "02081",
-        "name": "Commercio d'Armi",
-        "text": "Scarta un qualsiasi numero di <i>armi</i> dalla tua mano. Poi guadagna 1 risorsa per ogni carta appena scartata.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Traffico d'Armi",
+        "text": "Scarta un qualsiasi numero di carte <i>Arma</i> dalla tua mano, poi ottieni un pari ammontare di risorse."
     },
     {
         "code": "02082",
@@ -469,8 +469,8 @@
     },
     {
         "code": "02088",
-        "name": "Negozio di Rottami",
-        "text": "Dopo che un tuo tiro di dado fa risorsa ([resource]), puoi esaurire questo supporto per costringere un avversario a perdere 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Bancarella del Riciclaggio",
+        "text": "Dopo che 1 tuo dado ha ottenuto \"risorsa\" ([resource]), puoi esaurire questo supporto per obbligare un avversario a perdere 1 risorsa."
     },
     {
         "code": "02089",
@@ -485,12 +485,12 @@
     {
         "code": "02091",
         "name": "Fuoco Amico",
-        "text": "Avvista un personaggio rosso e rimuovi un dado danno a distanza ([ranged]) dell'avversario per infliggere quei danni ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Avvista 1 personaggio rosso e rimuovi un dado \"danno a distanza\" ([ranged]) dell'avversario per infliggere quei danni ad un personaggio."
     },
     {
         "code": "02092",
-        "name": "Guerriglia",
-        "text": "Imboscata. <em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nRimuovi un tuo dado rosso per infliggere 1 danno ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Tattiche di Guerriglia",
+        "text": "Imboscata. <em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nRimuovi 1 tuo dado rosso per infliggere 1 danno a un personaggio."
     },
     {
         "code": "02093",
@@ -524,8 +524,8 @@
     },
     {
         "code": "02099",
-        "name": "Predisposizione Tattica",
-        "text": "Dopo aver attivato il peronaggio con questa miglioria, puoi pescare una carta. Poi metti una carta dalla tua mano in fondo al tuo mazzo.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Perizia Tattica",
+        "text": "Dopo che hai attivato il personaggio con questa miglioria, puoi pescare 1 carta. Poi colloca 1 carta dalla tua mano in fondo al tuo mazzo."
     },
     {
         "code": "02100",
@@ -579,8 +579,8 @@
     },
     {
         "code": "02110",
-        "name": "Il Rottame Andrà Bene",
-        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nRimuovi un tuo dado <i>veicolo</i> per dare ad ognuno dei tuoi personaggi 1 scudo.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "La Ferraglia Va Bene",
+        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nRimuovi 1 tuo dado <i>Veicolo</i> per fornire 1 scudo a ogni tuo personaggio."
     },
     {
         "code": "02111",
@@ -594,8 +594,8 @@
     },
     {
         "code": "02113",
-        "name": "Truffa Rischiosa",
-        "text": "Guadagna 3 risorse se c'è un'altra copia di questo evento nella tua pila degli scarti.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Truffa a Lungo Termine",
+        "text": "Se c'è un'altra copia di questo evento nella tua pila degli scarti, ottieni 3 risorse."
     },
     {
         "code": "02114",
@@ -610,12 +610,12 @@
     {
         "code": "02116",
         "name": "Esplosione Pianificata",
-        "text": "Gioca questa carta solo se i tuoi dadi mostrano un valore totale di 10 o più.\nRimuovi tutti i tuoi dadi e infliggi 10 danni ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Gioca questa carta solo se hai dadi di valore totale pari o superiore a 10.\nRimuovi tutti i tuoi dadi e infliggi 10 danni a un personaggio."
     },
     {
         "code": "02117",
         "name": "Doppio Gioco",
-        "text": "Dopo che un tuo tiro di dado ha fatto uno speciale ([special]), puoi esaurire questo supporto per guadagnare 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Dopo che 1 tuo tiro di dado ha ottenuto uno \"speciale\" ([special]), puoi esaurire questo supporto per ottenere 1 risorsa."
     },
     {
         "code": "02118",
@@ -650,7 +650,7 @@
     {
         "code": "02124",
         "name": "Superiorità Aerea",
-        "text": "Dopo aver giocato questo supporto, metti 3 scudi sopra di esso.\n<b>Azione</b> - Esaurisci questo supporto per spostare 1 scudo da esso ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Dopo che hai giocato questo supporto, colloca 3 scudi su di esso.\n<b>Azione</b> - Esaurisci questo supporto per spostare 1 scudo da esso a un personaggio."
     },
     {
         "code": "02125",
@@ -659,13 +659,13 @@
     },
     {
         "code": "02126",
-        "name": "Ala d'Appoggio",
-        "text": "Solo personaggi rossi.\nDopo aver attivato un personaggio rosso, puoi attivare il personaggio con questa miglioria.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Gregario",
+        "text": "Solo personaggi rossi.\nDopo che hai attivato un personaggio rosso, puoi attivare il personaggio con questa miglioria."
     },
     {
         "code": "02127",
         "name": "Colpo Decisivo",
-        "text": "Risolvi un tuo dado danno in mischia ([melee]). Poi rimuovi tutti i dadi personaggio e miglioria del personaggio a cui hai appena inflitto danno.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Risolvi 1 tuo dado \"danno in mischia\" ([melee]), poi rimuovi tutti i dadi personaggio e miglioria del personaggio a cui hai appena inflitto danni."
     },
     {
         "code": "02128",
@@ -674,8 +674,8 @@
     },
     {
         "code": "02129",
-        "name": "Cambio di Velocità",
-        "text": "Sposta 1 scudo da un personaggio di un avversario ad un tuo personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Slancio Impetuoso",
+        "text": "Sposta 1 scudo da un personaggio di un avversario ad un tuo personaggio."
     },
     {
         "code": "02130",
@@ -750,7 +750,7 @@
     {
         "code": "02144",
         "name": "Diversivo",
-        "text": "Constringi un avversario a perdere 1 risorsa, o 3 risorse se invece c'è un'altra copia di questo evento nella tua pila degli scarti.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Obbliga un avversario a perdere 1 risorsa (3 risorse se c'è un'altra copia di questo evento nella tua pila degli scarti."
     },
     {
         "code": "02145",
@@ -770,7 +770,7 @@
     {
         "code": "02148",
         "name": "Improvvisazione",
-        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\n<b>Azione</b> - Rimuovi un tuo dado vuoto ([blank]) per ripetere il tiro di un qualsiasi numero di tuoi dadi.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\n<b>Azione</b> - Rimuovi 1 tuo dado \"vuoto\" ([blank]) per ripetere il tiro di un qualsiasi numero di tuoi dadi."
     },
     {
         "code": "02149",
@@ -786,60 +786,60 @@
         "code": "02151",
         "name": "Stanza del Congelamento a Carbonite",
         "subtitle": "Bespin",
-        "text": "<b>Claim</b> - Scegli un dado personaggio. Quel dado non può essere tirato il prossimo round.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Rivendicazione</b> - Scegli un dado personaggio. Quel dado non può essere tirato il prossimo round.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02152",
         "name": "Stiva di Carico",
         "subtitle": "Eravana",
-        "text": "<b>Claim</b> - Sposta una miglioria da un personaggio ad un altro personaggio controllato dallo stesso giocatore.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Rivendicazione</b> - Sposta una miglioria da un personaggio ad un altro personaggio controllato dallo stesso giocatore.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02153",
         "name": "Molo d'Attracco",
         "subtitle": "Finalizer",
-        "text": "<b>Claim</b> - Gioca un supporto dalla tua mano o dalla tua pila degli scarti, diminuendo il suo costo di 1.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Rivendicazione</b> - Gioca un supporto dalla tua mano o dalla tua pila degli scarti, diminuendo il suo costo di 1.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02154",
         "name": "Villaggio Ewok",
         "subtitle": "Endor",
-        "text": "<b>Claim</b> - Rimuovi tutti gli scudi da un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Rivendicazione</b> - Rimuovi tutti gli scudi da un personaggio.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02155",
         "name": "Castello di Maz",
         "subtitle": "Takodana",
-        "text": "<b>Claim</b> - Pesca 2 carte. Colloca un qualsiasi numero di carte dalla tua mano in fondo al tuo mazzo <em>(nell'ordine che preferisci)</em>.<em>(errata 1.2.2)</em>"
+        "text": "<b>Rivendicazione</b> - Pesca 2 carte. Colloca un qualsiasi numero di carte dalla tua mano in fondo al tuo mazzo <em>(nell'ordine che preferisci)</em>.<em>(errata 1.2.2)</em>"
     },
     {
         "code": "02156",
         "name": "Campi di Vapore",
         "subtitle": "Tatooine",
-        "text": "<b>Claim</b> - Guadagna 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Rivendicazione</b> - Guadagna 1 risorsa.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02157",
         "name": "Otoh Gunga",
         "subtitle": "Naboo",
-        "text": "<b>Claim</b> - Cura 1 danno ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Rivendicazione</b> - Cura 1 danno ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02158",
         "name": "Spiaggia Isolata",
         "subtitle": "Scarif",
-        "text": "<b>Claim</b> - Rimuovi un dado danno a distanza ([ranged]) di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Rivendicazione</b> - Rimuovi un dado danno a distanza ([ranged]) di un avversario.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02159",
         "name": "Struttura Segreta",
         "subtitle": "Scarif",
-        "text": "<b>Claim</b> - Risolvi fino a 3 tuoi dadi danno ([ranged] o [melee]).\n<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Rivendicazione</b> - Risolvi fino a 3 tuoi dadi danno ([ranged] o [melee]).\n<em>(Traduzione non ufficiale)</em>"
     },
     {
         "code": "02160",
         "name": "Strade Devastate Dalla Guerra",
         "subtitle": "Jedha",
-        "text": "<b>Claim</b> - Scarta una carta a caso dalla mano di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Rivendicazione</b> - Scarta una carta a caso dalla mano di un avversario.\n<em>(Traduzione non ufficiale)</em>"
     }
 ]
