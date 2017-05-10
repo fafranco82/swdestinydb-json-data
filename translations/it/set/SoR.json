@@ -182,7 +182,7 @@
         "code": "02033",
         "flavor": "\"I soldati più esperti sanno già di essere morti.\"",
         "name": "Attacco Distruttivo",
-        "text": "<em>(Traduzione non ufficiale)</em>"
+        "text": ""
     },
     {
         "code": "02034",
@@ -213,7 +213,7 @@
         "code": "02038",
         "flavor": "\"Una delle navi preferite dai Jedi durante le Guerre dei Cloni.\"",
         "name": "Intercettore Delta-7",
-        "text": "[special] - Ripeti il tiro di un massimo di 3 dadi <em>(tuoi e/o dei tuoi avversari)</em>.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "[special] - Ripeti il tiro di un massimo di 3 dadi <em>(tuoi e/o dei tuoi avversari)</em>."
     },
     {
         "code": "02039",
@@ -223,7 +223,7 @@
     {
         "code": "02040",
         "name": "Guarigione di Forza",
-        "text": "Solo personaggi Blu.\n[special] - Cura 1 danno ad un personaggio oppure spendi 1 risorsa per curare 2 danni a un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Solo personaggi Blu.\n[special] - Cura 1 danno a un personaggio oppure spendi 1 risorsa per curare 2 danni a un personaggio."
     },
     {
         "code": "02041",
@@ -369,8 +369,8 @@
     },
     {
         "code": "02068",
-        "name": "Adesso Sono Nostri",
-        "text": "Gioca questa carta solo se controlli il campo di battaglia.\nGira fino a 4 dei tuoi dadi su facce che mostrano danno ([ranged] o [melee]).\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Ora Li Teniamo",
+        "text": "Gioca questa carta solo se controlli il campo di battaglia.\nGira fino a 4 tuoi dadi su una faccia \"danno\" ([ranged] o [melee])."
     },
     {
         "code": "02069",
@@ -450,7 +450,7 @@
     {
         "code": "02084",
         "name": "Questioni in Sospeso",
-        "text": "Imboscata.\nRimuovi 1 tuo dado \"danno a distanza\" ([ranged]) per scartare 4 carte dalla cima del mazzo di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Imboscata.\nRimuovi 1 tuo dado \"danno a distanza\" ([ranged]) per scartare 4 carte dalla cima del mazzo di un avversario."
     },
     {
         "code": "02085",
@@ -729,7 +729,7 @@
     },
     {
         "code": "02140",
-        "name": "Determinazione",
+        "name": "Risolutezza",
         "text": "<b>Azione</b> - Scarta una carta dalla tua mano per ripetere il tiro di un dado di un avversario.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
@@ -754,8 +754,8 @@
     },
     {
         "code": "02145",
-        "name": "Scambio \"Alla Pari\"",
-        "text": "Risolvi un tuo dado risorsa ([resource]). Poi scambia tutte le tue risorse con tutte quelle di un avversario.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Scambio \"Equo\"",
+        "text": "Risolvi 1 tuo dado risorsa ([resource]), poi scambia tutte le tue risorse con tutte quelle di un avversario."
     },
     {
         "code": "02146",
