@@ -232,9 +232,9 @@
     },
     {
         "code": "02042",
-        "flavor": "\"Questo piccolo droide ed io ne abbiamo passate tante assieme.\" <cite>Luke Skywalker</cite>",
+        "flavor": "\"Quel piccoletto ed io ne abbiamo viste tante assieme.\" <cite>Luke Skywalker</cite>",
         "name": "R2-D2",
-        "text": "[special] - Risolvi uno dei tuoi dadi aumentando di 1 il suo valore.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "[special] - Risolvi 1 tuo dado aumentando di 1 il suo valore."
     },
     {
         "code": "02043",
