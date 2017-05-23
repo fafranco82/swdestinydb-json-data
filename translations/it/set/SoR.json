@@ -204,10 +204,10 @@
     },
     {
         "code": "02037",
-        "flavor": "\"Estendi le tue percezioni.\"",
+        "flavor": "\"Espandi le tue sensazioni.\"",
         "name": "Obi-Wan Kenobi",
         "subtitle": "Eremita Misterioso",
-        "text": "Protezione.\nPrima che questo personaggio sia sconfitto, puoi giocare gratuitamente una carta Blu dalla tua mano o dalla pila degli scarti.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Protezione.\nPrima che questo personaggio sia sconfitto, puoi giocare gratuitamente 1 carta Blu dalla tua mano o dalla pila degli scarti.\n"
     },
     {
         "code": "02038",
