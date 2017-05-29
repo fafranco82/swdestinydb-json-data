@@ -26,7 +26,7 @@
     {
         "code": "02005",
         "name": "Postazione E-Web",
-        "text": "Fintanto che controlli il campo di battaglia, il valore di ognuna delle facce di questo dado è aumentato di 1.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Finché controlli il campo di battaglia, aumenta di 1 il valore di ogni faccia di questo dado."
     },
     {
         "code": "02006",
@@ -71,8 +71,8 @@
     },
     {
         "code": "02013",
-        "name": "Navetta dei Commando",
-        "text": "[special] - Usa l'abilità speciale ([special]) di uno dei tuoi personaggi.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Navetta di Comando",
+        "text": "[special] - Risolvi 1 capacità speciale ([special]) su un tuo personaggio."
     },
     {
         "code": "02014",
@@ -126,7 +126,7 @@
     {
         "code": "02023",
         "name": "Ricatto",
-        "text": "Dopo aver tirato questo dado, un avversario qualsiasi può darti una risorsa per rimuoverlo.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Dopo che hai tirato questo dado, un qualsiasi avversario può fornirti una risorsa per rimuoverlo."
     },
     {
         "code": "02024",
@@ -141,8 +141,8 @@
     {
         "code": "02026",
         "name": "Baze Balmus",
-        "subtitle": "Colpo da Maestro",
-        "text": "[special] - Infliggi 1 danno ad ogni personaggio di un avversario.<em>(Traduzione non ufficiale)</em>"
+        "subtitle": "Tiratore Infallibile",
+        "text": "[special] - Infliggi 1 danno a ogni personaggio di un avversario."
     },
     {
         "code": "02027",
@@ -176,7 +176,7 @@
     {
         "code": "02032",
         "name": "Blaster A180",
-        "text": "[special] - Infliggi 1 danno ad un personaggio e assegna 1 scudo al personaggio con questa miglioria.\n[special] - Infliggi 1 danno ad ogni personaggio di un avversario.\n[special] - Infliggi 2 danni diretti ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "[special] - Infliggi 1 danno a un personaggio e fornisci 1 scudo al personaggio con questa miglioria.\n[special] - Infliggi 1 danno a ogni personaggio di un avversario.\n[special] - Infliggi 2 danni diretti a un personaggio."
     },
     {
         "code": "02033",
@@ -268,9 +268,9 @@
     },
     {
         "code": "02048",
-        "flavor": "\"Mi piace.\"<cite>Han Solo</cite>",
-        "name": "Balestra",
-        "text": "Riposizionamento.\n[special] - Infliggi 1 danno diretto ognuno a fino a due distinti personaggi.\n<em>(Traduzione non ufficiale)</em>"
+        "flavor": "\"Mi piace quest'affare.\"<cite>Han Solo</cite>",
+        "name": "Balestra Laser",
+        "text": "Riposizionamento.\n[special] - Infliggi 1 danno diretto a un massimo di 2 personaggi."
     },
     {
         "code": "02049",
@@ -390,7 +390,7 @@
     {
         "code": "02072",
         "name": "Lancio Spada Laser",
-        "text": "Gioca solo se hai uno o più dadi che mostrano danno in mischia ([melee]).\nInfliggi due danni ad un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Gioca questa carta solo se hai 1 o più dadi \"danno in mischia\" ([melee]).\nInfliggi due danni ad un personaggio."
     },
     {
         "code": "02073",
@@ -511,7 +511,7 @@
     {
         "code": "02096",
         "name": "Spirito della Ribellione",
-        "text": "Colloca 1 scudi su di un personaggio, o 2 scudi se invece c'è un'altra copia di questo evento nella tua pila degli scarti.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Fornisci 1 scudo a un personaggio (2 scudi se c'è un'altra copia di questo evento nella tua pila degli scarti)."
     },
     {
         "code": "02097",
@@ -565,8 +565,8 @@
     },
     {
         "code": "02107",
-        "name": "I Tuoi Occhi Possono Ingannarti",
-        "text": "Dopo che un tuo dado ha fatto scudo ([shield]), puoi esaurire questo supporto per girare un dado di un avversario su una faccia qualsiasi.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Gli Occhi A Volte Ingannano",
+        "text": "Dopo che 1 tuo dado ha ottenuto scudo ([shield]), puoi esaurire questo supporto per girare 1 dado di un avversario su una faccia a tua scelta."
     },
     {
         "code": "02108",
@@ -696,7 +696,7 @@
     {
         "code": "02133",
         "name": "Fidati del Tuo Istinto",
-        "text": "Avvista un personaggio blu per ripetere il tiro di un qualsiasi numero di suoi dadi personaggio e miglioria. Poi puoi pescare una carta.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Avvista 1 personaggio blu per ripetere il tiro di un qualsiasi numero di suoi dadi personaggio e miglioria. Poi puoi pescare una carta."
     },
     {
         "code": "02134",
@@ -716,7 +716,7 @@
     {
         "code": "02137",
         "name": "Nuovi Ordini",
-        "text": "Scambia il campo di battaglia con quello non in uso <em>(ma presente nella preparazione)</em> e usa la sua abilità di rivendicazione.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Scambia il campo di battaglia con un campo di battaglia non utilizzato <em>(tra quelli presenti nella preparazione)</em> e risolvi la sua capacità di rivendicazione."
     },
     {
         "code": "02138",
