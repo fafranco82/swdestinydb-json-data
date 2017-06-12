@@ -953,6 +953,7 @@
         ],
         "subtitle": "Blind Warrior",
         "text": "You cannot play Blue <i>abilities</i> on this character.\nAfter you activate this character, you may reroll all of your dice showing blanks ([blank]).",
+        "ttscardid": "2234",
         "type_code": "character"
     },
     {
