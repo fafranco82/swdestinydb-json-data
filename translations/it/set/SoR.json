@@ -459,7 +459,7 @@
     {
         "code": "02086",
         "name": "Inseguimento Implacabile",
-        "text": "Sposta fino a 2 danni da un personaggio a un altro personaggio <em>(ignorando gli scudi)</em>."
+        "text": "Sposta fino a 2 danni da un personaggio avversario a un altro personaggio <em>(ignorando gli scudi)</em>."
     },
     {
         "code": "02087",
