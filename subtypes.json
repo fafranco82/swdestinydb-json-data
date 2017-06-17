@@ -12,6 +12,10 @@
         "name": "Equipment"
     },
     {
+        "code": "title",
+        "name": "Title"
+    },
+    {
         "code": "vehicle",
         "name": "Vehicle"
     },

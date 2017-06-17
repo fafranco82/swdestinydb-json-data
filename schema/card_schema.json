@@ -107,6 +107,7 @@
                 "ability",
                 "droid",
                 "equipment",
+                "title",
                 "vehicle",
                 "weapon"
             ]
