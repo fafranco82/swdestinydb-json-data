@@ -96,10 +96,10 @@
     },
     {
         "code": "02018",
-        "flavor": "\"Well, what do we have here?\"",
+        "flavor": "\"Vaya, ¿qué es lo que tenemos aquí?\"",
         "name": "Aurra Sing",
-        "subtitle": "Deadly Shot",
-        "text": "Before you resolve this die, you may discard a card from your hand yo increase its value by 1."
+        "subtitle": "Tiradora mortífera",
+        "text": "Antes de que resuelvas este dado, puedes descartar una carta de tu mano para incrementar en 1 su valor de resultado."
     },
     {
         "code": "02019",
@@ -813,7 +813,7 @@
     },
     {
         "code": "02156",
-        "name": "Granja de humerdad",
+        "name": "Granja de humedad",
         "subtitle": "Tatooine",
         "text": "<b>Reclamar</b> - Recibes 1 recurso."
     },
