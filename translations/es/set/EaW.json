@@ -1,0 +1,49 @@
+[
+    {
+        "code": "03004",
+        "flavor": "\"Estudio el arte de la guerra.\"",
+        "name": "Thrawn",
+        "subtitle": "Maestro estratega",
+        "text": "Después de que actives este Personaje, puedes elegir un número. Luego mira la mano de un adversario y descarta de ella una carta que tenga un coste igual al número elegido."
+    },
+    {
+        "code": "03034",
+        "flavor": "\"La fiesta ha terminado\"",
+        "name": "Mace Windu",
+        "subtitle": "Campeón de los jedi",
+        "text": "<b>Acción</b> - Retira este dado para derrota a un Personaje al que no le queden más de 2 puntos de Salud."
+    },
+    {
+        "code": "03036",
+        "flavor": "\"El consejo se ha reunido.\" <cite>Mace Windu</cite>",
+        "name": "Maestro del Consejo",
+        "text": "Sólo Persona de color Azul.\n[special] - Agota esta Mejora y gasta 2 recursos para preparar un Personaje."
+    },
+    {
+        "code": "03038",
+        "flavor": "\"¡Oiga, que uno tiene que comer!\"",
+        "name": "Ezra Bridger",
+        "subtitle": "Ladrón sensible a la Fuerza",
+        "text": "Puedes jugar Mejoras de color Azul sobre este Personaje, ignorando las restricciones para jugarlas.\n[special] - Coge 1 recurso de un adversario."
+    },
+    {
+        "code": "03065",
+        "name": "Prepare for War",
+        "text": "Play only if this is the first action of this round <em>(no player has taken an action)</em>.\nGain 1 resource."
+    },
+    {
+        "code": "03067",
+        "name": "Ruthless Tactics",
+        "text": "Resolve one of your dice, increasing its value by the resource cost showing on it."
+    },
+    {
+        "code": "03113",
+        "name": "Quick Escape",
+        "text": "Remove up to 2 dice showing damage ([ranged] or [melee]). You must pass all of your future turns this round."
+    },
+    {
+        "code": "03125",
+        "name": "The Day is Ours",
+        "text": "Claim the battlefield, even if an opponent has claimed it this round."
+    }
+]

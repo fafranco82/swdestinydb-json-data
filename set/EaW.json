@@ -4,7 +4,7 @@
         "code": "03004",
         "deck_limit": 1,
         "faction_code": "red",
-        "flavor": "\"I study the art of war\"",
+        "flavor": "\"I study the art of war.\"",
         "has_die": true,
         "has_errata": false,
         "health": 12,
