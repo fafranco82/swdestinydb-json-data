@@ -40,7 +40,7 @@
     },
     {
         "code": "02008",
-        "name": "Z6 Riot Control Baton"
+        "name": "Z6 Riot Control Baton",
         "text": "Redeploy.\nAfter you roll this die into your pool, you may reroll it."
     },
     {
@@ -583,7 +583,7 @@
     },
     {
         "code": "02111",
-        "name": "Halte durch"",
+        "name": "Halte durch",
         "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nVerschiebe eine beliebige Zahl Schilde von 1 deiner Charaktere auf einen anderen Charakter."
     },
     {
@@ -684,7 +684,7 @@
     {
         "code": "02131",
         "name": "Premonitions",
-        "text": "Choose one: set this card aside and stack a card from your hand on it facedown, or play the card stacked on another copy of this card for free and discard the set aside copy.",
+        "text": "Choose one: set this card aside and stack a card from your hand on it facedown, or play the card stacked on another copy of this card for free and discard the set aside copy."
     },
     {
         "code": "02132",
@@ -724,7 +724,7 @@
     {
         "code": "02139",
         "name": "Schnelligkeit",
-        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nGib der nächsten Karte, die du in diesem Zug spielst, das Schlüsselwort Hinterhalt.",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nGib der nächsten Karte, die du in diesem Zug spielst, das Schlüsselwort Hinterhalt."
     },
     {
         "code": "02140",
