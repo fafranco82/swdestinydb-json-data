@@ -9,7 +9,7 @@
         "flavor": "\"Traître !\"",
         "name": "FN-2199",
         "subtitle": "Soldat loyal",
-        "text": "Après avoir joué une <b>arme</b> sur ce personnage, lancez ce dé d'<b>arme</b>, si possible. Vous pouvez le résoudre immédiatement."
+        "text": "Après avoir joué une <i>arme</i> sur ce personnage, lancez ce dé d'<i>arme</i>, si possible. Vous pouvez le résoudre immédiatement."
     },
     {
         "code": "02003",
@@ -19,7 +19,7 @@
     },
     {
         "code": "02004",
-        "flavor": "\"Je m'en sortirai jamais.\" - Biggs Darklighter",
+        "flavor": "\"Je m'en sortirai jamais.\" <cite>Biggs Darklighter</cite>",
         "name": "Pilote de TIE",
         "text": "Lorsque ce dé est dans votre réserve, vos autres dés montrant des dégâts à distance ([ranged]) ne peuvent pas être retirés par un adversaire."
     },
@@ -66,7 +66,7 @@
     {
         "code": "02012",
         "name": "Garde royal",
-        "text": "Gardien.\nVous ne pouvez pas jouer de <b>capacités</b> Bleues sur ce personnage."
+        "text": "Gardien.\nVous ne pouvez pas jouer de <i>capacités</i> Bleues sur ce personnage."
     },
     {
         "code": "02013",
@@ -86,7 +86,7 @@
     {
         "code": "02016",
         "name": "Attrait du pouvoir",
-        "text": "Vous pouvez résoudre les faces de modificateur (les faces avec un +) de ce dé pour modifier n'importe quel symbole."
+        "text": "Vous pouvez résoudre les faces de modificateur <em>(les faces avec un +)</em> de ce dé pour modifier n'importe quel symbole."
     },
     {
         "code": "02017",
@@ -109,7 +109,7 @@
         "code": "02020",
         "name": "IG-88",
         "subtitle": "Droïde assassin",
-        "text": "[special] - Jouer un <b>arme</b> ou un <b>équipement</b> Jaunes de votre pile en défausse sur ce personnsage, en diminuant de 2 son coût."
+        "text": "[special] - Jouer un <i>arme</i> ou un <i>équipement</i> Jaunes de votre pile en défausse sur ce personnsage, en diminuant de 2 son coût."
     },
     {
         "code": "02021",
@@ -164,7 +164,7 @@
         "code": "02030",
         "flavor": "\"C'est moi, C-3PO.\"",
         "name": "C-3PO",
-        "text": "<b>Action</b> - Retirez ce dé pour résoudre un de vos dés comme s'il montrait un symbole différent (il garde sa valeur d'origine)."
+        "text": "<b>Action</b> - Retirez ce dé pour résoudre un de vos dés comme s'il montrait un symbole différent <em>(il garde sa valeur d'origine)</em>."
     },
     {
         "code": "02031",
@@ -190,7 +190,7 @@
         "code": "02035",
         "name": "Chirrut Îmwe",
         "subtitle": "Guerrier aveugle",
-        "text": "Vous ne pouvez pas jouer de <b>capacités</b> Bleues sur ce personnage.\nAprès avoir activé ce personnage, vous pouvez relancer tous vos dés montrant un résultat vierge ([blank])"
+        "text": "Vous ne pouvez pas jouer de <i>capacités</i> Bleues sur ce personnage.\nAprès avoir activé ce personnage, vous pouvez relancer tous vos dés montrant un résultat vierge ([blank])"
     },
     {
         "code": "02036",
@@ -210,7 +210,7 @@
         "code": "02038",
         "flavor": "Un des appareils préférés des Jedi lors de la guerre des Clones.",
         "name": "Intercepteur Delta-7",
-        "text": "[special] - Relancer jusqu'à 3 dés (les vôtres et/ou ceux de vos adversaires)."
+        "text": "[special] - Relancer jusqu'à 3 dés <em>(les vôtres et/ou ceux de vos adversaires)</em>."
     },
     {
         "code": "02039",
@@ -229,7 +229,7 @@
     },
     {
         "code": "02042",
-        "flavor": "\"Ce p'tit droïde et moi, on en a vu de drôles.\" - Luke Skywalker",
+        "flavor": "\"Ce p'tit droïde et moi, on en a vu de drôles.\" <cite>Luke Skywalker</cite>",
         "name": "R2-D2",
         "text": "[special] - Résolvez un de vos dés, en augmentant de 1 sa valeur."
     },
@@ -265,7 +265,7 @@
     },
     {
         "code": "02048",
-        "flavor": "\"J'adore cet engin.\" - Han Solo",
+        "flavor": "\"J'adore cet engin.\" <cite>Han Solo</cite>",
         "name": "Arbalète",
         "text": "Redéploiement.\n[special] - Infligez 1 dégât non blocable à un maximum de 2 personnages différents."
     },
@@ -287,12 +287,12 @@
     {
         "code": "02052",
         "name": "Astromech",
-        "text": "<b>Action</b> - Retirez ce dé pour tourner un dé de <b>véhicule</b> sur n'importe quelle face."
+        "text": "<b>Action</b> - Retirez ce dé pour tourner un dé de <i>véhicule</i> sur n'importe quelle face."
     },
     {
         "code": "02053",
         "name": "Lance-roquettes",
-        "text": "[special] - Défaussez un <b>véhicule</b> du jeu.\n[special] - Infligez 2 dégâts à un maximum de 2 personnages différents."
+        "text": "[special] - Défaussez un <i>véhicule</i> du jeu.\n[special] - Infligez 2 dégâts à un maximum de 2 personnages différents."
     },
     {
         "code": "02054",
@@ -312,7 +312,7 @@
     {
         "code": "02057",
         "name": "Vibrolame",
-        "text": "Embuscade.\nLorsque ce dé est dans votre réserve, les dégâts de mêlée ([melee]) infligés par vos dés (y compris ce dé) sont non blocables."
+        "text": "Embuscade.\nLorsque ce dé est dans votre réserve, les dégâts de mêlée ([melee]) infligés par vos dés <em>(y compris ce dé)</em> sont non blocables."
     },
     {
         "code": "02058",
@@ -322,7 +322,7 @@
     {
         "code": "02059",
         "name": "Pistolet grappin",
-        "text": "[special] - Utilisez la capacité d'un champ de bataille qui n'est pas utilisé (mais a été amené pour la partie) comme si vous veniez de le capturer."
+        "text": "[special] - Utilisez la capacité d'un champ de bataille qui n'est pas utilisé <em>(mais a été amené pour la partie)</em> comme si vous veniez de le capturer."
     },
     {
         "code": "02060",
@@ -342,7 +342,7 @@
     {
         "code": "02063",
         "name": "Confinement",
-        "text": "Embuscade.\nDésigner deux personnages Rouges pour prendre le contrôle du champ de bataille. (Cela ne capture pas le champ de bataille.)"
+        "text": "Embuscade.\nDésigner deux personnages Rouges pour prendre le contrôle du champ de bataille. <em>(Cela ne capture pas le champ de bataille.)</em>"
     },
     {
         "code": "02064",
@@ -402,7 +402,7 @@
     {
         "code": "02075",
         "name": "Maintenant tu vas mourir",
-        "text": "Résolvez un de vos dés comme s'il montrait des dégâts de mêlée ([melee]) (il garde sa valeur d'origine)."
+        "text": "Résolvez un de vos dés comme s'il montrait des dégâts de mêlée ([melee]) <em>(il garde sa valeur d'origine)</em>."
     },
     {
         "code": "02076",
@@ -432,7 +432,7 @@
     {
         "code": "02081",
         "name": "Trafic d'armes",
-        "text": "Défaussez n'importe quel nombre d'<b>armes</b> de votre main. Puis gagnez 1 ressource pour chaque carte que vous venez de défausser."
+        "text": "Défaussez n'importe quel nombre d'<i>armes</i> de votre main. Puis gagnez 1 ressource pour chaque carte que vous venez de défausser."
     },
     {
         "code": "02082",
@@ -457,12 +457,12 @@
     {
         "code": "02086",
         "name": "Poursuite implacable",
-        "text": "Déplacez jusqu'à 2 dégâts d'un personnage d'un adversaire vers un autre personnage (ignorez les boucliers)."
+        "text": "Déplacez jusqu'à 2 dégâts d'un personnage d'un adversaire vers un autre personnage <em>(ignorez les boucliers)</em>."
     },
     {
         "code": "02087",
         "name": "Achat de ferraille",
-        "text": "À ne jouer que si vous avez au moins 3 cartes dans votre pile de défausse.\nAjouter à votre main une carte prise au hasard dans votre pile de défausse (montrez la carte à vos adversaires)."
+        "text": "À ne jouer que si vous avez au moins 3 cartes dans votre pile de défausse.\nAjouter à votre main une carte prise au hasard dans votre pile de défausse <em>(montrez la carte à vos adversaires)</em>."
     },
     {
         "code": "02088",
@@ -537,7 +537,7 @@
     {
         "code": "02102",
         "name": "Détermination",
-        "text": "À ne jouer que si vous avez un ou plusieurs dés montrant une concentration ([focus]).\nRésolvez un de vos dés comme s'il montrait un symbole différent (il garde sa valeur d'origine)."
+        "text": "À ne jouer que si vous avez un ou plusieurs dés montrant une concentration ([focus]).\nRésolvez un de vos dés comme s'il montrait un symbole différent <em>(il garde sa valeur d'origine)</em>."
     },
     {
         "code": "02103",
@@ -577,7 +577,7 @@
     {
         "code": "02110",
         "name": "Ce tas de ferraille fera l'affaire",
-        "text": "Embuscade.\nRetirez un de vos dés <b>véhicule</b> pour donner 1 bouclier à chacun de vos personnages."
+        "text": "Embuscade.\nRetirez un de vos dés <i>véhicule</i> pour donner 1 bouclier à chacun de vos personnages."
     },
     {
         "code": "02111",
@@ -617,7 +617,7 @@
     {
         "code": "02118",
         "name": "Dette de vie",
-        "text": "Personnage Jaune uniquement.\nAprès avoir activé ce personnage, vous pouvez déplacer 1 dégât d'un autre personnage vers ce personnage (ignorez les boucliers)."
+        "text": "Personnage Jaune uniquement.\nAprès avoir activé ce personnage, vous pouvez déplacer 1 dégât d'un autre personnage vers ce personnage <em>(ignorez les boucliers)</em>."
     },
     {
         "code": "02119",
@@ -652,7 +652,7 @@
     {
         "code": "02125",
         "name": "Entraînement",
-        "text": "Personnage Rouge non unique uniquement.\nLe personnage attaché est d'élite (placez un second exemplaire de son dé sur sa carte)."
+        "text": "Personnage Rouge non unique uniquement.\nLe personnage attaché est d'élite <em>(placez un second exemplaire de son dé sur sa carte)</em>."
     },
     {
         "code": "02126",
@@ -677,7 +677,7 @@
     {
         "code": "02130",
         "name": "Arrogance",
-        "text": "Désigner un personnage Bleu pour relancer 2 dés. Puis retirer un dé de ces dés ayant la valeur la plus faible (vous choississez en cas d'égalité)."
+        "text": "Désigner un personnage Bleu pour relancer 2 dés. Puis retirer un dé de ces dés ayant la valeur la plus faible <em>(vous choississez en cas d'égalité)</em>."
     },
     {
         "code": "02131",
@@ -712,7 +712,7 @@
     {
         "code": "02137",
         "name": "Nouveaux ordres",
-        "text": "Échangez le champ de bataille contre un champ de bataille qui n'est pas utilisé (mais a été amené pour la partie) et utilisez sa capacité de capture."
+        "text": "Échangez le champ de bataille contre un champ de bataille qui n'est pas utilisé <em>(mais a été amené pour la partie)</em> et utilisez sa capacité de capture."
     },
     {
         "code": "02138",
@@ -807,7 +807,7 @@
         "code": "02155",
         "name": "Château de Maz",
         "subtitle": "Takodana",
-        "text": "<b>Capture</b> - Piochez 2 cartes. Placez n'importe quel nombre de cartes de votre main sous votre deck (dans n'importe quel ordre)."
+        "text": "<b>Capture</b> - Piochez 2 cartes. Placez n'importe quel nombre de cartes de votre main sous votre deck <em>(dans n'importe quel ordre)</em>."
     },
     {
         "code": "02156",
