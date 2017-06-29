@@ -1,0 +1,844 @@
+[
+    {
+        "code": "02001",
+        "flavor": "Krennic's personal guard, they defend their commander with extreme prejudice.",
+        "name": "Death Trooper"
+    },
+    {
+        "code": "02002",
+        "flavor": "\"Traitor!\"",
+        "name": "FN-2199",
+        "subtitle": "Loyal Trooper",
+        "text": "After you play a <i>weapon</i> on this character, roll that <i>weapon</i> die, if able. You may immediately resolve it."
+    },
+    {
+        "code": "02003",
+        "name": "Director Krennic",
+        "subtitle": "Cruel but Brilliant",
+        "text": "After you activate this character, if you control the battlefield, roll a Death Trooper ([SoR]1) die into your pool. Set aside that die after it is resolved or removed."
+    },
+    {
+        "code": "02004",
+        "flavor": "\"I can't shake him!\" <cite>Biggs Darklighter</cite>",
+        "name": "Tie Pilot",
+        "text": "While this die is in your pool, your other dice showing ranged damage ([ranged]) cannot be removed by an opponent."
+    },
+    {
+        "code": "02005",
+        "name": "E-Web Emplacement",
+        "text": "While you control the battlefield, the value of each of this die's sides is increased by 1."
+    },
+    {
+        "code": "02006",
+        "name": "Imperiale Disziplin",
+        "text": "Nur rote Charaktere.\n<b>Aktion</b> - Entferne diesen Würfel, um 1 Charakter- oder Aufwertungswürfel dieses Charakters auf eine Seite zu drehen, die Fernkampfschaden ([ranged]) oder Ressourcen ([resource]) zeigt."
+    },
+    {
+        "code": "02007",
+        "name": "DT-29 Heavy Blaster Pistol",
+        "text": "[special] - Remove an opponent's die showing a resource cost."
+    },
+    {
+        "code": "02008",
+        "name": "Z6 Riot Control Baton",
+        "text": "Redeploy.\nAfter you roll this die into your pool, you may reroll it."
+    },
+    {
+        "code": "02009",
+        "flavor": "\"Deine Schwäche wird nicht mein Untergang sein.\"",
+        "name": "Asajj Ventress",
+        "subtitle": "Machtbegabte Attentäterin",
+        "text": "Nachdem ein Gegner eine Handykarte abgelegt hat, um seine Würfel neu zu werfen, darfst du ihn dazu zwingen, eine weitere Karte von seiner Hand zu wählen und abzulegen."
+    },
+    {
+        "code": "02010",
+        "flavor": "\"You understimate my power.\"",
+        "name": "Darth Vader",
+        "subtitle": "Dark Apprentice",
+        "text": "[special] - Deal 3 damage to a character. Then deal 1 damage to this character."
+    },
+    {
+        "code": "02011",
+        "flavor": "\"Everything is proceeding as I have foreseen.\"",
+        "name": "Palpatine",
+        "subtitle": "Galactic Emperor",
+        "text": "After you resolve this die, force an opponent to deal 2 damage to their characters, distributed as they wish."
+    },
+    {
+        "code": "02012",
+        "name": "Royal Guard",
+        "text": "Guardian.\nYou cannot play Blue <i>abilities</i> on this character."
+    },
+    {
+        "code": "02013",
+        "name": "Kommandofähre",
+        "text": "[special] - Verwende die Spezialfähigkeit ([special]) von 1 deiner Charaktere"
+    },
+    {
+        "code": "02014",
+        "name": "Force Lightning",
+        "text": "Blue character only.\n[special] - Deal 1 damage to a character. You  may remove a die showing a blank ([blank]) to reroll this die instead of removing it from your pool."
+    },
+    {
+        "code": "02015",
+        "name": "Lichtelanze",
+        "text": "<b>Aktion</b> - Entferne diesen Würfel, um einen Charakter, der nicht mit dieser Kopie von Lichtlanze aufgewertet ist, 1 Schild zu geben."
+    },
+    {
+        "code": "02016",
+        "name": "Verlockung der Macht",
+        "text": "Du darfst die Modifikatorenseiten dieses Würfels <em>(Seiten mit einem +)</em> so abhandeln, dass sie ein beliebiges Symbol modifizieren."
+    },
+    {
+        "code": "02017",
+        "name": "Interrogation Droid",
+        "text": "After you activate this support, look at a random card in an opponent's hand. If that card is an event, you may remove this die to discard it."
+    },
+    {
+        "code": "02018",
+        "flavor": "\"Well, what do we have here?\"",
+        "name": "Aurra Sing",
+        "subtitle": "Deadly Shot",
+        "text": "Before you resolve this die, you may discard a card from your hand you increase its value by 1."
+    },
+    {
+        "code": "02019",
+        "name": "Guavian Enforcer",
+        "text": "<b>Action</b> - Remove this die to remove 1 shield from a character."
+    },
+    {
+        "code": "02020",
+        "name": "IG-88",
+        "subtitle": "Assassin Droid",
+        "text": "[special] - Play a Yellow <i>weapon</i> or <i>equipment</i> from your discard pile on this character, decreasing its cost by 2."
+    },
+    {
+        "code": "02021",
+        "name": "Unkar Plutt",
+        "subtitle": "Junk Dealer",
+        "text": "<b>Action</b> - Remove any number of your dice showing a combined value of 3 or more. Then discard a random card from an opponent's hand and gain resources equal to its cost."
+    },
+    {
+        "code": "02022",
+        "name": "Slave I",
+        "text": "[special] - Force an opponent to deal damage to their characters equal to the number of dice in their dice pool, distributed as they wish."
+    },
+    {
+        "code": "02023",
+        "name": "Blackmail",
+        "text": "After you roll this die, any opponent may give you 1 resource to remove this die."
+    },
+    {
+        "code": "02024",
+        "name": "Personal Shield",
+        "text": "Before attached character is dealt 2 or more ranged damage ([ranged]), you may exhaust this upgrade to give attached character 1 shield."
+    },
+    {
+        "code": "02025",
+        "name": "Vibroknucklers",
+        "text": "Ambush.\nBefore resolving this die, you  may spend 1 resource to increase its value by 1."
+    },
+    {
+        "code": "02026",
+        "name": "Baze Malbus",
+        "subtitle": "Crack Shot",
+        "text": "[special] - Deal 1 damage to each of an opponent's characters."
+    },
+    {
+        "code": "02027",
+        "name": "Mon Mothma",
+        "subtitle": "Skilled Politician",
+        "text": "After you play an event, you may reroll a die of the same color as that event."
+    },
+    {
+        "code": "02028",
+        "name": "Kommandosoldat der Rebellen",
+        "text": "[special] - Entferne einen gegnerischen Würfel"
+    },
+    {
+        "code": "02029",
+        "flavor": "\"Watch out for ground fire!\"",
+        "name": "Temmin \"Snap\" Wexley",
+        "subtitle": "Recon Specialist",
+        "text": "While at least one of this die is in your pool, your opponent must spend 1 resource in order to claim the battlefield."
+    },
+    {
+        "code": "02030",
+        "flavor": "\"It is I, See-Threepio!\"",
+        "name": "C-3PO",
+        "text": "<b>Action</b> - Remove this die to resolve one of your dice as if it were showing a different symbol (<em>it keeps its original value</em>)."
+    },
+    {
+        "code": "02031",
+        "name": "U-Wing",
+        "text": "[special] - Deal 2 damage to each of an opponent's characters.\n[special] - Give each of your characters 2 shields."
+    },
+    {
+        "code": "02032",
+        "name": "A180 Blaster",
+        "text": "[special] - Deal 1 damage to a character and give attached character 1 shield.\n[special] - Deal 1 damage to each of an opponent's characters.\n[special] - Deal 2 unblockable damage to a character."
+    },
+    {
+        "code": "02033",
+        "flavor": "Die abgehärtetsten Soldaten wissen, dass sie bereits tot sind.",
+        "name": "Overkill"
+    },
+    {
+        "code": "02034",
+        "name": "Jedi Acolyte",
+        "text": "Before you resolve this die, increase its value by 1, if it is showing the same symbol as one of your other dice."
+    },
+    {
+        "code": "02035",
+        "name": "Chirrut Îmwe",
+        "subtitle": "Blinder Krieger",
+        "text": "Du kannst keine blauen <b>Fähigkeiten</b> auf diesen Charakter spielen.\nNachdem du diesen Charakter aktiviert hast,darfst du alle deine Würfel, die eine Leerseite ([blank]) zeigen, neu werfen."
+    },
+    {
+        "code": "02036",
+        "flavor": "\"Synchronize on my mark.\"",
+        "name": "Luminara Unduli",
+        "subtitle": "Inspiring Commander",
+        "text": "[special] - Resolve one of your character dice, increasing its value by 2, or by 3 instead if it is a non-unique character die."
+    },
+    {
+        "code": "02037",
+        "flavor": "\"Stretch out with your feelings.\"",
+        "name": "Obi-Wan Kenobi",
+        "subtitle": "Mysterious Hermit",
+        "text": "Guardian.\nBefore this character is defeated, you may play a Blue card from your hand or discard pile for free."
+    },
+    {
+        "code": "02038",
+        "flavor": "Einer der bevorzugtesten Sternjäger der Jedi zur Zeit der Klonkriege.",
+        "name": "Delta-7-Abfangjäger",
+        "text": "[special] - Wirf bis zu 3 Würfel neu (<em>eigene und/oder gegnerische</em>)."
+    },
+    {
+        "code": "02039",
+        "name": "Handcrafted Light Bow",
+        "text": "[special] - Deal 3 damage to a character.\n[special] - Remove all shields from a character. Then deal 2 damage to that character."
+    },
+    {
+        "code": "02040",
+        "name": "Force Heal",
+        "text": "Blue character only.\n[special] - Heal 1 damage from a character or spend 1 resource to heal 2 damage from a character."
+    },
+    {
+        "code": "02041",
+        "name": "Ben Kenobis Tagebücher",
+        "text": "<b>Aktion</b> - Entferne diesen Würfel um eine Karte zu ziehen."
+    },
+    {
+        "code": "02042",
+        "flavor": "\"That little droid and I have been through a lot together.\" <cite>Luke Skywalker</cite>",
+        "name": "R2-D2",
+        "text": "[special] - Resolve one of your dice, increasing its value by 1."
+    },
+    {
+        "code": "02043",
+        "flavor": "Rroooaarrgghh!",
+        "name": "Chewbacca",
+        "subtitle": "Loyal Friend",
+        "text": "[special] - Turn a opponent's die to a side showing damage ([ranged] or [melee]) to deal that damage to a character."
+    },
+    {
+        "code": "02044",
+        "name": "Jyn Erso",
+        "subtitle": "Reckless Operative",
+        "text": "The cost of the first Yellow event you play each round is decreased by 1."
+    },
+    {
+        "code": "02045",
+        "flavor": "If you live long enough, you see the same eyes in different people.",
+        "name": "Maz Kanata",
+        "subtitle": "Pirate Queen",
+        "text": "After you activate this character, you may resolve up to 2 of your dice."
+    },
+    {
+        "code": "02046",
+        "name": "Outer Rim Smuggler",
+        "text": "The first time each round you play the last card from your hand, gain 1 resource."
+    },
+    {
+        "code": "02047",
+        "name": "Schmuggler-Frachter",
+        "text": "Nachdem du 1 Seite dieses Würfels, die den Wert 2 zeigt, abgehandelt hast, lege diese Unterstützung oben auf dein Deck."
+    },
+    {
+        "code": "02048",
+        "flavor": "\"Ich steh auf dieses Teil\" <cite>Han Solo</cite>",
+        "name": "Bogenspanner",
+        "text": "Verlegen.\n[special] - Füge bis zu 2 verschiedenen Charakteren je 1 nicht-blockierbaren Schaden zu."
+    },
+    {
+        "code": "02049",
+        "name": "Lone Operative",
+        "text": "[special] - Heal 2 damage from attached character, or 3 damage instead if attached characer is your only character in play."
+    },
+    {
+        "code": "02050",
+        "name": "Maz's Goggles",
+        "text": "To play, spot a Yellow character.\n[special] - Look at an opponent's hand and discard an event from it."
+    },
+    {
+        "code": "02051",
+        "name": "Supply Line",
+        "text": "[special] - Reroll any number of your dice."
+    },
+    {
+        "code": "02052",
+        "name": "Astromech",
+        "text": "<b>Action</b> - Remove this die to turn a <i>vehicle</i> die to any side."
+    },
+    {
+        "code": "02053",
+        "name": "Rocket Launcher",
+        "text": "[special] - Discard a <i>vehicle</i> from play.\n[special] - Deal 2 damage each to up to 2 different characters."
+    },
+    {
+        "code": "02054",
+        "name": "Force Push",
+        "text": "Blue character only.\n[special] - Turn up to 2 of an opponent's dice to sides of your choice."
+    },
+    {
+        "code": "02055",
+        "name": "Force Speed",
+        "text": "Blue character only.\n[special] - Take up to 2 additional actions."
+    },
+    {
+        "code": "02056",
+        "name": "Makashi Training",
+        "text": "To play, spot a Blue character.\n<b>Action</b> - Remove one of your dice showing melee damage ([melee]) and exhaust this upgrade to remove a die showing melee damage ([melee])."
+    },
+    {
+        "code": "02057",
+        "name": "Vibromesser",
+        "text": "Hinterhalt.\nSolange dieser Würfel in deinem Pool ist, ist aller Nahkampfschaden ([melee]), der durch deine Würfel (<em>inklusive diesem</em>) zugefügt wird, nicht-blockierbar."
+    },
+    {
+        "code": "02058",
+        "name": "Quadjumper",
+        "text": "<b>Action</b> - Discard this support to play a support from your hand, decreasing its cost by 3."
+    },
+    {
+        "code": "02059",
+        "name": "Ascension Gun",
+        "text": "[special] - Use the ability on a battlefield that is not being used <em>(but was brought to the game)</em> as if you had just claimed it."
+    },
+    {
+        "code": "02060",
+        "name": "Con Artist",
+        "text": "Yellow character only.\n[special] - Place 1 damage on this upgrade. Then discard cards from the top of an opponent's deck equal to the amount of damage on this upgrade."
+    },
+    {
+        "code": "02061",
+        "name": "Gefechtsformation",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nZähle die Anzahl deiner roten Charaktere. Du darfst ebenso viele deiner Würfel neu werfen."
+    },
+    {
+        "code": "02062",
+        "name": "Imperiale Kriegsmaschinerie",
+        "text": "Handle 1 deiner roten Würfel, der ein Resourcensymbol zeigt, kostenlos ab."
+    },
+    {
+        "code": "02063",
+        "name": "Lockdown",
+        "text": "Ambush.\nSpot two Red characters to take control of the battlefield. (<em>This does not claim the battlefield.</em>)"
+    },
+    {
+        "code": "02064",
+        "name": "Sustained Fire",
+        "text": "Play only if you have 2 or more dice showing ranged damage ([ranged]).\nRemove all shields from all of an opponent's characters."
+    },
+    {
+        "code": "02065",
+        "name": "Verräter!",
+        "text": "Hinterhalt.\nLege die oberste Karte deines Decks ab. Entferne dann einen Würfel, der keine Spezialfähigkeit ([special]) zeigt und dessen Wert gleich oder geringer ist als die Kosten der gerade abgelegten Karte."
+    },
+    {
+        "code": "02066",
+        "name": "Grabenkrieg",
+        "text": "Spiele diese Karte nur, falls du 1 oder mehrere Würfel hast, die Schilde ([shield]) zeigen.\nDrehe beliebig viele Würfel eines Gegners auf Seiten, die Schilde ([shield]) zeigen."
+    },
+    {
+        "code": "02067",
+        "name": "Grenzenlose Loyalität",
+        "text": "Heile 1 Schaden von einem roten Charakter. Falls eine andere Kopie dieses Ereignisses in deinem Ablagestapel ist, darfst du 1 Ressource ausgeben, um dieses Ereignis oben auf dein Deck zu legen, anstatt es abzulegen."
+    },
+    {
+        "code": "02068",
+        "name": "We Have Them Now",
+        "text": "Play only if you control de battlefield.\nTurn up to 4 of your dice to sides showing damage ([ranged] or [melee])."
+    },
+    {
+        "code": "02069",
+        "name": "Attrition",
+        "text": "After one of your characters is defeated, deal 1 damage to a character."
+    },
+    {
+        "code": "02070",
+        "name": "Imperial Inspection",
+        "text": "After one of your dice rolls a disrupt ([disrupt]), you may exhaust this support to return an upgrade in play that costs 2 or less to its owner's hand."
+    },
+    {
+        "code": "02071",
+        "name": "Anger",
+        "text": "Play only if you have 2 or more dice showing blanks ([blank]).\nResolve an opponent's die showing damage ([ranged] or [melee]) as if it were your die."
+    },
+    {
+        "code": "02072",
+        "name": "Lichtschwertwurf",
+        "text": "Spiele diese Karte nur aus, falls du 1 oder mehrere Würfel hast, die Nahkampfschaden ([melee]) zeigen.\nFüge einem Charakter 2 Schaden zu."
+    },
+    {
+        "code": "02073",
+        "name": "Manipulieren",
+        "text": "Drehe 1 deiner Würfel auf eine Seite, die eine Leerseite ([blank]) zeigt. Drehe dann den Würfel eines Gegners auf eine Seite, die eine Leerseite ([blank]) zeigt."
+    },
+    {
+        "code": "02074",
+        "name": "No Disintegrations",
+        "text": "Discard the top card of an opponent's deck, or 3 cards instead if there is another copy of this event in your discard pile."
+    },
+    {
+        "code": "02075",
+        "name": "Jetzt wirst du sterben",
+        "text": "Handle 1 deiner Würfel ab, als würde er Nahkampfschaden ([melee]) zeigen <em>(er behält seinen ursprünglichen Wert)</em>."
+    },
+    {
+        "code": "02076",
+        "name": "Rise Again",
+        "text": "Heal 5 damage from a unique Blue character. You may play an upgrade from your discard pile on it for free."
+    },
+    {
+        "code": "02077",
+        "name": "Der Preis für dein Versagen",
+        "text": "Sichte einen blauen Charakter und besiege 1 deiner Charaktere, um einen Charakter spielbereit zu machen."
+    },
+    {
+        "code": "02078",
+        "name": "Dark Presence",
+        "text": "After one of your dice rolls a discard ([discard]), you may exhaust this support to force an opponent to choose and remove one of their dice."
+    },
+    {
+        "code": "02079",
+        "name": "Jetzt bin ich der Meister",
+        "text": "Nachdem die Charakter- oder Aufwertungswürfel des aufgewerteten Charakters Schaden zugefügt haben, darfst du diese Aufwertung erschöpfen, um einen Würfel auf eine Seite zu drehen, die eine Leerseite ([blank]) zeigt."
+    },
+    {
+        "code": "02080",
+        "name": "Doubt",
+        "text": "Reroll an opponent's die. Then that opponent either resolves that die or removes it."
+    },
+    {
+        "code": "02081",
+        "name": "Arms Deal",
+        "text": "Discard any number of <i>weapons</i> from your hand. Then gain 1 resource for each card you just discarded."
+    },
+    {
+        "code": "02082",
+        "name": "Lockvogel",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nDrehe 1 deiner Würfel, der Ressourcen ([resource]) zeigt, auf eine beliebige Seite."
+    },
+    {
+        "code": "02083",
+        "name": "Einflussreiche Kontakte",
+        "text": "Spiele diese Karte nur aus, falls du Würfel hast, die einen Gesamtwert von 7 oder mehr zeigen.\nSieh dir die obersten 3 Karten deines Decks an. Du darfst 1 dieser KArten kostenlos spielen. Lege die nicht gespielten Karten ab."
+    },
+    {
+        "code": "02084",
+        "name": "Ungelöste Probleme",
+        "text": "Hinterhalt.\nEntferne 1 deiner Würfel, der Fernkampfschaden ([ranged]) zeigt, um die obersten 4 Karten eines gegnerischen Decks abzulegen"
+    },
+    {
+        "code": "02085",
+        "name": "One-Quarter Portion",
+        "text": "Remove an opponenet's die. Then that opponent gains 1 resource."
+    },
+    {
+        "code": "02086",
+        "name": "Unnachgiebige Jagd",
+        "text": "Verschiebe bis zu 2 Schaden von einem gegnerischen Charakter auf einen anderen Charakter (<em>Schilde werden ignoriert.</em>)"
+    },
+    {
+        "code": "02087",
+        "name": "Scrap Buy",
+        "text": "Play only if you have 3 or more cards in your discard pile.\nAdd a random card from your discard pile to your hand (<em>show the card to your opponents</em>)."
+    },
+    {
+        "code": "02088",
+        "name": "Schrotthändler-Stand",
+        "text": "Nachdem 1 deiner Würfel Ressourcen ([resource]) geworfen hat, darfst du diese Unterstützung erschöpfen, um einen Gegner dazu zu zwingen 1 Ressource zu verlieren."
+    },
+    {
+        "code": "02089",
+        "name": "Armor Plating",
+        "text": "Before attached character takes damage, you may block up to 2 damage. Then discard this upgrade from play."
+    },
+    {
+        "code": "02090",
+        "name": "Emergency Evacuation",
+        "text": "Remove all dice."
+    },
+    {
+        "code": "02091",
+        "name": "Eigenbeschuss",
+        "text": "Sichte einen roten Charakter und entferne einen gegnerischen Würfel, der Fernkampfschaden ([ranged]) zeigt, um den Schaden des entfernten Würfels einem Charakter zuzufügen."
+    },
+    {
+        "code": "02092",
+        "name": "Guerillakrieg",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nEntferne 1 deiner roten Würfel, um einen Charakter 1 Schaden zuzufügen."
+    },
+    {
+        "code": "02093",
+        "name": "Our Only Hope",
+        "text": "Draw a card. You may play that card for free or discard that card to gain 2 resources."
+    },
+    {
+        "code": "02094",
+        "name": "Angriff der Rebellen",
+        "text": "Spiele diese Karte nur, falls du 1 oder mehrere Würfel hast, die Fernkampfschaden ([ranged]) zeigen.\nEntferne einen gegnerischen Würfel, der keinen Schaden ([ranged] oder [melee]) zeigt."
+    },
+    {
+        "code": "02095",
+        "name": "Sensoren-Platzierung",
+        "text": "Sichte einen roten Charakter, um einen gegnerischen Würfel, der keinen Schaden ([ranged] oder [melee]) zeigt, so abzuhandeln, als wäre es dein Würfel."
+    },
+    {
+        "code": "02096",
+        "name": "Geist der Rebellion",
+        "text": "Gib einem Charakter 1 Schild oder stattdessen2 Schilde, falls eine andere Kopie dieses Ereignisses in deinem Ablagestapel ist."
+    },
+    {
+        "code": "02097",
+        "name": "Planetary Uprising",
+        "text": "After you claim the battlefield, force an opponent to deal 2 damage to their characters, distributed as they wish."
+    },
+    {
+        "code": "02098",
+        "name": "Spy Net",
+        "text": "After one of your dice rolls a focus ([focus]), you may exhaust this support to discard the top card of an opponent's deck."
+    },
+    {
+        "code": "02099",
+        "name": "Tactical Aptitude",
+        "text": "After you activate attached character, you may draw a card. Then place a card form your hand on the bottom of your deck."
+    },
+    {
+        "code": "02100",
+        "name": "Caution",
+        "text": "Remove one of your character dice to give another character 3 shields."
+    },
+    {
+        "code": "02101",
+        "name": "Destiny",
+        "text": "Remove any number of your Blue dice. Play a card from your hand for free that costs equal to or less than the combined value of the Blue dice you just removed."
+    },
+    {
+        "code": "02102",
+        "name": "Determination",
+        "text": "Play only if you have one or more dice showing a focus ([focus]).\nResolve one of your dice as if it was showing a different symbol <em>(it keeps its original value)</em>"
+    },
+    {
+        "code": "02103",
+        "name": "Guard",
+        "text": "Remove one of your Blue dice showing melee damage ([melee]) to remove a number of an opponent's dice equal to the value of the die you just removed."
+    },
+    {
+        "code": "02104",
+        "name": "Krayt Dragon Howl",
+        "text": "Spot a Blue character to choose an opponent's die. That opponent chooses to either remove that die or discard the top 2 cards of their deck."
+    },
+    {
+        "code": "02105",
+        "name": "My Ally Is The Force",
+        "text": "Ambush.\nResolve one of your Blue dice without removing it from your pool."
+    },
+    {
+        "code": "02106",
+        "name": "Synchroner Kampfstil",
+        "text": "Spiele diese Karte nur, falls du Würfel hast, die Nahkampfschaden ([melee]) und Schilde ([shield]) zeigen.\nFüge einem Charakter 2 nicht-blockierbare Schaden zu."
+    },
+    {
+        "code": "02107",
+        "name": "Your Eyes Can Deceive You",
+        "text": "After one of your dice rolls a shield ([shield]), you may exhaust this support to turn an opponent's die to any side."
+    },
+    {
+        "code": "02108",
+        "name": "Beschützender Mentor",
+        "text": "Die Schilde des aufgewerteten Charakters können verwendet werden, um Schaden abzublocken, der einem beliebigen Charakter zugefügt wird."
+    },
+    {
+        "code": "02109",
+        "name": "Selbstvertrauen",
+        "text": "Wähle einen Würfel eines Gegners und zwinge ihn dazu, den gewählten Würfel abzuhandeln, falls möglich."
+    },
+    {
+        "code": "02110",
+        "name": "Der Schrott wird's schon tun",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nEntferne 1 deiner <b>Fahrzeuge</b>-Würfel, um jedem deiner Charaktere 1 Schild zu geben."
+    },
+    {
+        "code": "02111",
+        "name": "Halte durch",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nVerschiebe eine beliebige Zahl Schilde von 1 deiner Charaktere auf einen anderen Charakter."
+    },
+    {
+        "code": "02112",
+        "name": "Rebel",
+        "text": "Play only if you have one or more dice showing a discard.\nPlay a card from your discard pile, decreasing its cost by 1."
+    },
+    {
+        "code": "02113",
+        "name": "Grossbetrug",
+        "text": "Du erhälst 3 Ressourcen, falls eine andere Kopie dieses Ereignisses in deinem Ablagestapel ist."
+    },
+    {
+        "code": "02114",
+        "name": "Loth-Cat and Mouse",
+        "text": "Force an opponent to choose and remove one of your dice. Then remove one of their dice."
+    },
+    {
+        "code": "02115",
+        "name": "Sag mir nie, wie meine Chancen stehen",
+        "text": "Wähle 1 deiner Charaktere. Drehe beliebig viele seiner Charakter- und Aufwertungswürfel auf Seiten deiner Wahl."
+    },
+    {
+        "code": "02116",
+        "name": "Geplante Sprengung",
+        "text": "Spiele diese Karte nur, falls du Würfel hast, die einen Gesamtwert von 10 oder mehr zeigen.\nEntferne alle deine Würfel und füge einem Charakter 10 Schaden zu."
+    },
+    {
+        "code": "02117",
+        "name": "Double-Dealing",
+        "text": "After one of your dice rolls a special ([special]), you may exhaust this support to gain 1 resource."
+    },
+    {
+        "code": "02118",
+        "name": "Life Debt",
+        "text": "Yellow character only.\nAfter you activate this character, you may move 1 damage from another character to this character <em>(this ignores shields)</em>."
+    },
+    {
+        "code": "02119",
+        "name": "Bombing Run",
+        "text": "Resolve one of your Red dice showing a disrupt ([disrupt]). Then deal 1 damage to each of an opponent's characters."
+    },
+    {
+        "code": "02120",
+        "name": "Collateral Damage",
+        "text": "Resolve one or more of your dice showing either melee damage ([melee]) or ranged damage ([ranged]). Then force an opponent to lose 1 resource."
+    },
+    {
+        "code": "02121",
+        "name": "Salve",
+        "text": "Handle 1 deiner Würfel, der Fernkampfschaden ([ranged]) zeigt, gegen jeden Charakter eines Gegners ab."
+    },
+    {
+        "code": "02122",
+        "name": "Suppression",
+        "text": "Remove one of your Red dice showing ranged damage ([ranged]). Then remove an opponent's die."
+    },
+    {
+        "code": "02123",
+        "name": "Aftermath",
+        "text": "After a character is defeated, gain 1 resource."
+    },
+    {
+        "code": "02124",
+        "name": "Air Superiority",
+        "text": "After you play this support, place 3 shields on it.\n<b>Action</b> - Exhaust this support to move 1 shield from it to a character."
+    },
+    {
+        "code": "02125",
+        "name": "Training",
+        "text": "Non-unique Red character only.\nAttached character is elite (<em>place a second copy of its die on its card</em>)."
+    },
+    {
+        "code": "02126",
+        "name": "Flügelmann",
+        "text": "Nur rote Charaktere.\nNachdem du einen roten Charakter aktiviert hast, darfst du den aufgewerteten Charakter aktivieren."
+    },
+    {
+        "code": "02127",
+        "name": "Decisive Blow",
+        "text": "Resolve one of your dice showing melee damage ([melee]). Then remove all character and upgrade dice of the character you just dealt damage to."
+    },
+    {
+        "code": "02128",
+        "name": "High Ground",
+        "text": "Play only if you control the battlefield.\nRemove an opponent's die showing damage ([ranged] or [melee]). Then, if it was a character die, deal 1 damage to that character."
+    },
+    {
+        "code": "02129",
+        "name": "Momentum Shift",
+        "text": "Move 1 shield from an opponent's character to one of your characters."
+    },
+    {
+        "code": "02130",
+        "name": "Overconfidence",
+        "text": "Spot a Blue character to reroll 2 dice. Then remove one of those dice with the lowest value (<em>you choose in the case of a tie</em>)."
+    },
+    {
+        "code": "02131",
+        "name": "Premonitions",
+        "text": "Choose one: set this card aside and stack a card from your hand on it facedown, or play the card stacked on another copy of this card for free and discard the set aside copy."
+    },
+    {
+        "code": "02132",
+        "name": "Rejuvenate",
+        "text": "Spot a Blue character to heal 1 damage from a character."
+    },
+    {
+        "code": "02133",
+        "name": "Trust Your Instincts",
+        "text": "Spot a Blue character to reroll any number of its character and upgrade dice. Then you may draw a card."
+    },
+    {
+        "code": "02134",
+        "name": "Meditate",
+        "text": "<b>Action</b> - Exhaust this support and remove one of your dice showing a blank ([blank]) to turn one of your dice to a side not showing damage ([ranged] or [melee])."
+    },
+    {
+        "code": "02135",
+        "name": "Force Illusion",
+        "text": "Before attached character takes damage, you may discard cards from the top of your deck equal to that damage to block it. Then discard this upgrade from play."
+    },
+    {
+        "code": "02136",
+        "name": "Entrinnen",
+        "text": "Entferne einen Würfel, der Fernkampfschaden [ranged] zeigt."
+    },
+    {
+        "code": "02137",
+        "name": "Neue Befehle",
+        "text": "Tausche das Schlachtfeld gegen ein Schlachtfeld aus, das nicht verwendet wird (<em>aber zum Spiel mitgebracht wurde</em>) und verwende seine Beanspruchen-Fähigkeit."
+    },
+    {
+        "code": "02138",
+        "name": "Abwehren",
+        "text": "Entferne einen Würfel, der Nahkampfschaden ([melee]) zeigt."
+    },
+    {
+        "code": "02139",
+        "name": "Schnelligkeit",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nGib der nächsten Karte, die du in diesem Zug spielst, das Schlüsselwort Hinterhalt."
+    },
+    {
+        "code": "02140",
+        "name": "Resolve",
+        "text": "<b>Action</b> - Discard a card from your hand to reroll an opponent's die."
+    },
+    {
+        "code": "02141",
+        "name": "Ammo Belt",
+        "text": "Before another upgrade on attached character would be discarded by a card effect, you may discard this upgrade instead."
+    },
+    {
+        "code": "02142",
+        "name": "Schlupfloch",
+        "text": "Entferne 1 deiner gelben Charakterwürfel, um dem zugehörigen Charakter 2 Schilde zu geben."
+    },
+    {
+        "code": "02143",
+        "name": "Cheat",
+        "text": "Switch a card in your hand with a card in your discard pile."
+    },
+    {
+        "code": "02144",
+        "name": "Ablenkungsmanöver",
+        "text": "Zwinge einen Gegner dazu, 1 Ressource zu verlieren oder stattdessen 3 Ressourcen, falls eine andere Kopie dieses Ereignisses in deinem Ablagestapel ist."
+    },
+    {
+        "code": "02145",
+        "name": "\"Fair\" Trade",
+        "text": "Resolve one of your dice showing a resource ([resource]). Then switch all of your resources with all of an opponent's resources."
+    },
+    {
+        "code": "02146",
+        "name": "Friends in Low Places",
+        "text": "Spot a Yellow character to look at an opponent's hand and discard an event from it that costs 1 or less."
+    },
+    {
+        "code": "02147",
+        "name": "Sabotage",
+        "text": "Lege eine Anzahl Karten in Höhe der Kosten einer Unterstützung im Spiel von deiner Handy ab, um jene Unterstützung abzulegen."
+    },
+    {
+        "code": "02148",
+        "name": "Improvisation",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\n<b>Aktion</b> - Entferne 1 deiner Würfel, der eine Leerseite ([blank]) zeigt, um eine beliebige Zahl deiner Würfel neu zu werfen."
+    },
+    {
+        "code": "02149",
+        "name": "Outmaneuver",
+        "text": "After you claim the battlefield, gain 1 resource."
+    },
+    {
+        "code": "02150",
+        "name": "Fast Hands",
+        "text": "After you activate attached character, you may resolve one of its character or upgrade dice."
+    },
+    {
+        "code": "02151",
+        "name": "Karbon-Gefrierkammer",
+        "subtitle": "Bespin",
+        "text": "<b>Beanspruchen</b> - Wähle einen Charakterwürfel. In der nächsten Runde kann der gewählte Würfel nicht geworfen werden."
+    },
+    {
+        "code": "02152",
+        "name": "Frachtraum",
+        "subtitle": "Eravana",
+        "text": "<b>Beanspruchen</b> - Verschiebe eine Aufwertung von einem Charakter auf einen anderen Charakter, der vom selben Spieler kontrolliert wird."
+    },
+    {
+        "code": "02153",
+        "name": "Landebucht",
+        "subtitle": "Finalizer",
+        "text": "<b>Beanspruchen</b> - Spiele eine Unterstützung von deiner Hand oder aus deinem Ablagestapel und senke dabei ihre Kosten um 1."
+    },
+    {
+        "code": "02154",
+        "name": "Dorf der Ewoks",
+        "subtitle": "Endor",
+        "text": "<b>Beanspruchen</b> - Entferne alle Schilde von einem Charakter."
+    },
+    {
+        "code": "02155",
+        "name": "Maz's Castle",
+        "subtitle": "Takodana",
+        "text": "<b>Claim</b> - Draw 2 cards. Place any number of cards from your hand on the bottom of your deck (<em>in any order</em>)."
+    },
+    {
+        "code": "02156",
+        "name": "Moisture Farm",
+        "subtitle": "Tatooine",
+        "text": "<b>Claim</b> - Gain 1 resource."
+    },
+    {
+        "code": "02157",
+        "name": "Otoh Gunga",
+        "subtitle": "Naboo",
+        "text": "<b>Beanspruchen</b> - Heile 1 Schaden von einem Charakter."
+    },
+    {
+        "code": "02158",
+        "name": "Secluded Beach",
+        "subtitle": "Scarif",
+        "text": "<b>Claim</b> - Remove an opponent's die showing ranged damage ([ranged])."
+    },
+    {
+        "code": "02159",
+        "name": "Secret Facility",
+        "subtitle": "Scarif",
+        "text": "<b>Claim</b> - Resolve up to 3 of your dice showing damage ([ranged] or [melee])."
+    },
+    {
+        "code": "02160",
+        "name": "Umkämpfte Strassen",
+        "subtitle": "Jedha",
+        "text": "<b>Beanspruchen</b> - LEge eine zufällige Karte von der Hand eines Gegners ab."
+    }
+]
