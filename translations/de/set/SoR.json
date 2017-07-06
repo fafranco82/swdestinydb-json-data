@@ -157,26 +157,26 @@
     },
     {
         "code": "02029",
-        "flavor": "\"Watch out for ground fire!\"",
+        "flavor": "\"Achtet auf das Abwehrfeuer!\"",
         "name": "Temmin \"Snap\" Wexley",
-        "subtitle": "Recon Specialist",
-        "text": "While at least one of this die is in your pool, your opponent must spend 1 resource in order to claim the battlefield."
+        "subtitle": "Aufklärungsspezialist",
+        "text": "Solange mindestens 1 dieser Würfel in deinem Pool ist, muss dein Gegner 1 Ressource ausgeben, um das Schlachtfeld zu beanspruchen."
     },
     {
         "code": "02030",
-        "flavor": "\"It is I, See-Threepio!\"",
+        "flavor": "\"Ich bin es, C-3PO!\"",
         "name": "C-3PO",
-        "text": "<b>Action</b> - Remove this die to resolve one of your dice as if it were showing a different symbol (<em>it keeps its original value</em>)."
+        "text": "<b>Aktion</b> - Entferne diesen Würfel, um 1 deiner Würfel so abzuhandeln, als würde er ein anderes Symbol zeigen (<em>er behält seinen ursprünglichen Wert bei</em>)."
     },
     {
         "code": "02031",
-        "name": "U-Wing",
-        "text": "[special] - Deal 2 damage to each of an opponent's characters.\n[special] - Give each of your characters 2 shields."
+        "name": "U-Flügler",
+        "text": "[special] - Füge jedem Charakter eines Gegners 2 Schaden zu.\n[special] - Gib jedem deiner Charaktere 2 Schilde."
     },
     {
         "code": "02032",
-        "name": "A180 Blaster",
-        "text": "[special] - Deal 1 damage to a character and give attached character 1 shield.\n[special] - Deal 1 damage to each of an opponent's characters.\n[special] - Deal 2 unblockable damage to a character."
+        "name": "A180-Blaster",
+        "text": "[special] - Füge einem Charakter 1 Schaden zu und gib dem aufgewerteten Charakter 1 Schild.\n[special] - Füge jedem Charakter eines Gegners 1 Schaden zu.\n[special] - Füge einem Charakter 2 nicht-blockierbare Schaden zu."
     },
     {
         "code": "02033",
@@ -185,8 +185,8 @@
     },
     {
         "code": "02034",
-        "name": "Jedi Acolyte",
-        "text": "Before you resolve this die, increase its value by 1, if it is showing the same symbol as one of your other dice."
+        "name": "Akolyth des Jedi-Ordens",
+        "text": "Bevor du diesen Würfel abhandelst, erhöhe seinen Wert um 1, falls er dasselbe Symbol wie 1 deiner anderen Würfel zeigt."
     },
     {
         "code": "02035",
@@ -196,17 +196,17 @@
     },
     {
         "code": "02036",
-        "flavor": "\"Synchronize on my mark.\"",
+        "flavor": "\"Alle zusammen, auf mein Zeichen.\"",
         "name": "Luminara Unduli",
-        "subtitle": "Inspiring Commander",
-        "text": "[special] - Resolve one of your character dice, increasing its value by 2, or by 3 instead if it is a non-unique character die."
+        "subtitle": "Inspirierende Kommandantin",
+        "text": "[special] - Handle 1 deiner Charakterwürfel ab und erhöhe dabe seinen Wert um 2 oder stattdessen um 3, falls es ein nicht-einzigartiger Charakterwürfel ist."
     },
     {
         "code": "02037",
-        "flavor": "\"Stretch out with your feelings.\"",
+        "flavor": "\"Lass dich von deinen Gefühlen leiten.\"",
         "name": "Obi-Wan Kenobi",
-        "subtitle": "Mysterious Hermit",
-        "text": "Guardian.\nBefore this character is defeated, you may play a Blue card from your hand or discard pile for free."
+        "subtitle": "Geheimnisvoller Eremit",
+        "text": "Beschützer.\nBevor dieser Charakter besiegt wird, darfst du eine blaue Karte kostenlos von deiner Hand oder aus deinem Ablagestapel spielen."
     },
     {
         "code": "02038",
@@ -216,13 +216,13 @@
     },
     {
         "code": "02039",
-        "name": "Handcrafted Light Bow",
-        "text": "[special] - Deal 3 damage to a character.\n[special] - Remove all shields from a character. Then deal 2 damage to that character."
+        "name": "Handgefertigter Lichtbogen",
+        "text": "[special] - Füge einen Charakter 3 Schaden zu.\n[special] - Entferne alle Schilde von einem Charakter. Füge dann jenem Charakter 2 Schaden zu."
     },
     {
         "code": "02040",
-        "name": "Force Heal",
-        "text": "Blue character only.\n[special] - Heal 1 damage from a character or spend 1 resource to heal 2 damage from a character."
+        "name": "Machtheilung",
+        "text": "Nur blaue Charaktere.\n[special] - Heile 1 Schaden von einem Charakter oder gib 1 Ressource aus, um 2 Schaden von einem Charakter zu heilen."
     },
     {
         "code": "02041",
@@ -231,34 +231,34 @@
     },
     {
         "code": "02042",
-        "flavor": "\"That little droid and I have been through a lot together.\" <cite>Luke Skywalker</cite>",
+        "flavor": "\"Wir haben zusammen eine Menge durchgemacht.\" <cite>Luke Skywalker</cite>",
         "name": "R2-D2",
-        "text": "[special] - Resolve one of your dice, increasing its value by 1."
+        "text": "[special] - Handle 1 deiner Würfel ab und erhöhe dabei seinen Wert um 1."
     },
     {
         "code": "02043",
         "flavor": "Rroooaarrgghh!",
         "name": "Chewbacca",
-        "subtitle": "Loyal Friend",
-        "text": "[special] - Turn a opponent's die to a side showing damage ([ranged] or [melee]) to deal that damage to a character."
+        "subtitle": "Treuer Freund",
+        "text": "[special] - Drehe einen gegnerischen Würfel auf eine Seite, die Schaden ([ranged] oder [melee]) zeigt, um diesen Schaden einem Charakter zuzufügen."
     },
     {
         "code": "02044",
         "name": "Jyn Erso",
-        "subtitle": "Reckless Operative",
-        "text": "The cost of the first Yellow event you play each round is decreased by 1."
+        "subtitle": "Verwegene Agentin",
+        "text": "Die Kosten des ersten gelben Ereignisses, das du in jeder Runde spielst, sinken um 1."
     },
     {
         "code": "02045",
-        "flavor": "If you live long enough, you see the same eyes in different people.",
+        "flavor": "Wenn du lange genug lebst, dann siehst du dieselben Augen bei verschiedenen Personen.",
         "name": "Maz Kanata",
-        "subtitle": "Pirate Queen",
-        "text": "After you activate this character, you may resolve up to 2 of your dice."
+        "subtitle": "Piratenfürstin",
+        "text": "Nachdem du diesen Charakter aktiviert hast, darfst du bis zu 2 deiner Würfel abhandeln."
     },
     {
         "code": "02046",
-        "name": "Outer Rim Smuggler",
-        "text": "The first time each round you play the last card from your hand, gain 1 resource."
+        "name": "Schmuggler aus dem äusseren Rand",
+        "text": "<s>Nachdem du</s> <u>Das erste Mal in jeder Runde, wenn du</u> die letzte Karte von deiner Hand gespielt hast, erhälst du 1 Ressource."
     },
     {
         "code": "02047",
