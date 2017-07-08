@@ -34,6 +34,12 @@
         "text": "Puoi giocare migliorie Blu su questo personaggio, ignorando le restrizioni di gioco.\n[special] - Prendi una risorsa da un avversario.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
+        "code": "03046",
+        "flavor": "Sviluppato dai Genosiani, il cannone LR1K generava devastanti colpi sonici.",
+        "name": "Cannone Sonico LR1K",
+        "text": "Prima di risolvere questo dado, puoi esaurire un tuo personaggio. Se lo fai, non devi pagare il costo in risorse su questo dado.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
         "code": "03065",
         "name": "Preparativi alla Guerra",
         "text": "Gioca questa carta solo se è la prima azione di un round <em>(nessun giocatore ha effettuato un'azione)</em>.\nGuadagna una risorsa.\n<em>(Traduzione non ufficiale)</em>"
@@ -49,8 +55,30 @@
         "text": "Rimuovi fino a 2 dadi \"danno\" ([ranged] or [melee]). Sei costretto a passare per i tuoi seguenti turni di questo round.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
+        "code": "03116",
+        "name": "Vernice Termica",
+        "text": "Dopo aver attivato il personaggio con questa miglioria, obbliga un avversario a scegliere e distribuire 1 danno a un suo personaggio. Poi puoi scartare questa miglioria per infliggere 1 danno a quel personaggio.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "03124",
+        "name": "Messi alle corde",
+        "text": "Avvista un <i>Veicolo</i> per rimuovere un dado.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
         "code": "03125",
         "name": "La Giornata è Nostra",
         "text": "Rivendica il campo di battaglia, anche se già rivendicato da un avversario questo turno.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "03151",
+        "flavor": "\"Vieni, BB-8. Sbrigati!\" <cite>Poe Dameron</cite>",
+        "name": "Roll On",
+        "text": "Ritira un tuo dado. Puoi ritirare quel dado. Puoi ritirare quel dado ancora 1 volta.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "03160",
+        "name": "Fabbrica di Armi Alfa",
+        "subtitle": "Cymoon I",
+        "text": "Finché controlli il campo di battaglia, il costo del primo <i>Veicolo</i> che giochi ogni round è diminuito di 1.\n<em>(Traduzione non ufficiale)</em>"
     }
 ]
