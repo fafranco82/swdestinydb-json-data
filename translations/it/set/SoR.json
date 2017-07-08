@@ -736,7 +736,7 @@
     {
         "code": "02141",
         "name": "Cintura delle Munizioni",
-        "text": "Prima che 1 altra miglioria sul personaggio con questa miglioria sia scartata dall'effetto di una carta, puoi invece scartare questa miglioria."
+        "text": "Prima che 1 altra miglioria <i>Arma</i> sul personaggio con questa miglioria sia scartata dall'effetto di una carta, puoi invece scartare questa miglioria.\n<em>(Errata 1.4)</em>"
     },
     {
         "code": "02142",
@@ -781,7 +781,7 @@
     {
         "code": "02150",
         "name": "Mano Svelta",
-        "text": "Dopo che hai attivato il personaggio con questa miglioria, puoi risovere 1 suo dado personaggio o miglioria."
+        "text": "Solo personaggi gialli.\nDopo che hai attivato il personaggio con questa miglioria, puoi risovere 1 suo dado personaggio o miglioria.\n<em>(Errata 1.4)</em>"
     },
     {
         "code": "02151",
