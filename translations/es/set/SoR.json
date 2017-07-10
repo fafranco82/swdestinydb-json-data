@@ -734,7 +734,7 @@
     {
         "code": "02141",
         "name": "Correa de munición",
-        "text": "Antes de que otra Mejora en el Personaje vinculado vaya a ser descartar por el efecto de una carta, puedes descartar esta Mejora en su lugar."
+        "text": "Antes de que una Mejora <i>arma</i> en el Personaje vinculado vaya a ser descartada por el efecto de una carta, puedes descartar esta Mejora en su lugar."
     },
     {
         "code": "02142",
@@ -779,7 +779,7 @@
     {
         "code": "02150",
         "name": "Manos rápidas",
-        "text": "Después de que actives el Personaje vinculado, puedes resolver uno de sus dados de Personaje o de Mejora."
+        "text": "Sólo Personaje de color Amarillo. Después de que actives el Personaje vinculado, puedes resolver uno de sus dados de Personaje o de Mejora."
     },
     {
         "code": "02151",
