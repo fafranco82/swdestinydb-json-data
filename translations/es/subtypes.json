@@ -4,6 +4,10 @@
         "name": "Capacidad"
     },
     {
+        "code": "artillery",
+        "name": "Artillería"
+    },
+    {
         "code": "droid",
         "name": "Droide"
     },

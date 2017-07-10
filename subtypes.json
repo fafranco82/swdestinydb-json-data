@@ -4,6 +4,10 @@
         "name": "Ability"
     },
     {
+        "code": "artillery",
+        "name": "Artillery"
+    },
+    {
         "code": "droid",
         "name": "Droid"
     },

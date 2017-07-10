@@ -105,6 +105,7 @@
         "subtype_code": {
             "enum": [
                 "ability",
+                "artillery",
                 "droid",
                 "equipment",
                 "title",
