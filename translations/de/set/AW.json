@@ -332,7 +332,7 @@
     {
         "code": "01060",
         "name": "Gedanken Erforschen",
-        "text": "Nur blaue Charaktere.\n[special] - Füge einem Gegnerischen Charakter 1 Schaden für jede KArte auf der Hand dieses Gegners zu."
+        "text": "Nur blaue Charaktere.\n[special] - Füge einem Gegnerischen Charakter 1 Schaden für jede Karte auf der Hand dieses Gegners zu."
     },
     {
         "code": "01061",
@@ -428,7 +428,7 @@
     },
     {
         "code": "01079",
-        "name": "LAsst alle Hoffnung fahren",
+        "name": "Lasst alle Hoffnung fahren",
         "text": "Force an opponent to choose to either lose all of their resources or discard all cards in their hand."
     },
     {
@@ -684,7 +684,7 @@
     {
         "code": "01129",
         "name": "Sprung in den Hyperraum",
-        "text": "End the action phase. You may switch the battlefield with the battlefield that is not being used."
+        "text": "Die Aktionsphase endet. Du darfst das Schlachtfeld gegen das Schlachtfeld tauschen, das nicht verwendet wird. <u>Lege diese Karte beiseite, anstatt sie abzulegen</u>"
     },
     {
         "code": "01130",
