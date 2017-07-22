@@ -15,7 +15,7 @@
         "code": "01003",
         "name": "Generale Grievous",
         "subtitle": "Cacciatore di Jedi",
-        "text": "Prima che il personaggio di un avversario sia sconfitto, puoi spostare 1 sua miglioria <b>Capacità</b> su questo personaggio."
+        "text": "Prima che il personaggio di un avversario sia sconfitto, puoi spostare 1 sua miglioria non <b>Capacità</b> su questo personaggio."
     },
     {
         "code": "01004",
