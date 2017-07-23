@@ -138,7 +138,7 @@
     {
         "code": "01025",
         "name": "Bastone Gaffi",
-        "text": "Riposizionamento. <em>Dopo che il personaggio è stato sconfitto, sposta questa carta.</em>\n[special] - Rimuovi 1 tuo dado \"danno in mischia\" ([melee]) per infliggere 3 danni a un personaggio."
+        "text": "Riposizionamento. <em>(Dopo che il personaggio è stato sconfitto, sposta questa carta.)</em>\n[special] - Rimuovi 1 tuo dado \"danno in mischia\" ([melee]) per infliggere 3 danni a un personaggio."
     },
     {
         "code": "01026",
@@ -149,7 +149,7 @@
         "code": "01027",
         "name": "Ammiraglio Ackbar",
         "subtitle": "Tattico Perspicace",
-        "text": "Dopo che un avversario ha giocato o scartato l'ultima carta dalla sua mano, obbligalo a infliggere 2 danni a un suo personaggio."
+        "text": "Dopo che un avversario ha giocato o scartato l'ultima carta dalla sua mano, obbligalo a infliggere 2 danni a un suo personaggio a sua scelta."
     },
     {
         "code": "01028",
@@ -343,7 +343,7 @@
     {
         "code": "01062",
         "name": "Datapad",
-        "text": "[special] - Cambia 1 tuo dado su una faccia non \"danno\"([ranged] o [melee]) a tua scelta."
+        "text": "[special] - Cambia 1 tuo dado su una faccia non \"danno\" ([ranged] o [melee]) a tua scelta."
     },
     {
         "code": "01063",
@@ -862,7 +862,7 @@
     {
         "code": "01164",
         "name": "Accovacciarsi",
-        "text": "Se il personaggio con questa miglioria subisce \"danno in mischia\" ([melee]), scarta questa miglioria.\n<b>Azione</b> - Esaurisci questa miglioria per fornire 1 scudo al personaggio con questa miglioria."
+        "text": "Se il personaggio con questa miglioria subisce danni in mischia ([melee]), scarta questa miglioria.\n<b>Azione</b> - Esaurisci questa miglioria per fornire 1 scudo al personaggio con questa miglioria."
     },
     {
         "code": "01165",
