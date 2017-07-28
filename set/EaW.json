@@ -248,6 +248,32 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "03030",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Darren Tan",
+        "is_unique": false,
+        "name": "A280 Blaster Rifle",
+        "position": 30,
+        "rarity_code": "R",
+        "set_code": "EaW",
+        "sides": [
+            "2RD1",
+            "+1RD",
+            "+2RD",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "weapon",
+        "text": "Redeploy.\n[special] - Give 2 shields to your characters, distributed as you wish.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "03034",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -356,6 +382,32 @@
         "subtitle": "Explosives Expert",
         "text": "Before you activate this character, you may play a <i>weapon</i> from your discard pile on her, decreasing its cost by 1 if it has the word \"Thermal\" in its title.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "03045",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "flavor": "The Incom Corporation T-47 airspeeder was a rugged low-altitude vehicle prized by the Alliance for its durability.",
+        "has_die": true,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "T-47 Airspeeder",
+        "position": 45,
+        "rarity_code": "R",
+        "set_code": "EaW",
+        "sides": [
+            "2RD",
+            "2RD",
+            "1Dc",
+            "1Sh",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "vehicle",
+        "text": "[special] - Exhaust a support or draw 2 cards.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
@@ -611,6 +663,22 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Claim the battlefield, even if an opponent has claimed it this round.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "03149",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "Recycle",
+        "position": 149,
+        "rarity_code": "C",
+        "set_code": "EaW",
+        "text": "Discard one of your supports from play. Then gain resources equal to its cost.",
         "type_code": "event"
     },
     {
