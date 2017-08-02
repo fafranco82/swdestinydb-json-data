@@ -1246,7 +1246,7 @@
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": true,
-        "health": 8,
+        "health": 7,
         "is_unique": false,
         "name": "Outer Rim Smuggler",
         "points": "8",
