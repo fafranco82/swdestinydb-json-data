@@ -348,8 +348,8 @@
     },
     {
         "code": "02064",
-        "name": "Sustained Fire",
-        "text": "Play only if you have 2 or more dice showing ranged damage ([ranged]).\nRemove all shields from all of an opponent's characters."
+        "name": "Dauerfeuer",
+        "text": "Spiele diese Karte nur aus, falls du 2 oder mehr Würfel hast, die Fernkampfschaden ([ranged]) zeigen.\nEntferne alle Schilde von allen Charakteren des Gegners."
     },
     {
         "code": "02065",
@@ -368,23 +368,23 @@
     },
     {
         "code": "02068",
-        "name": "We Have Them Now",
-        "text": "Play only if you control de battlefield.\nTurn up to 4 of your dice to sides showing damage ([ranged] or [melee])."
+        "name": "Jetzt haben wir sie",
+        "text": "Spiele diese Karte nur aus, falls du das Schlachtfeld kontrollierst.\nDrehe bis zu 4 deiner Würfel auf Seiten, die Schaden ([ranged] oder [melee]) zeigen."
     },
     {
         "code": "02069",
-        "name": "Attrition",
-        "text": "After one of your characters is defeated, deal 1 damage to a character."
+        "name": "Zermürbung",
+        "text": "Nachdem 1 deiner Charaktere besiegt worden ist, füge einem Charakter 1 Schaden zu."
     },
     {
         "code": "02070",
-        "name": "Imperial Inspection",
-        "text": "After one of your dice rolls a disrupt ([disrupt]), you may exhaust this support to return an upgrade in play that costs 2 or less to its owner's hand."
+        "name": "Imperiale Inspektion",
+        "text": "Nachdem 1 deiner Würfel Störung ([disrupt]) geworfen hat, darfst du diese Unterstützung erschöpfen, um eine Aufwertung im Spiel, die 2 oder weniger kostet, auf die Hand ihres Besitzers zurückzuschicken."
     },
     {
         "code": "02071",
-        "name": "Anger",
-        "text": "Play only if you have 2 or more dice showing blanks ([blank]).\nResolve an opponent's die showing damage ([ranged] or [melee]) as if it were your die."
+        "name": "Zorn",
+        "text": "Spiele diese Karte nur aus, falls du 2 oder mehr Würfel hast, die eine Leerseite ([blank]) zeigen.\nHandle einen gegnerischen Würfel, der Schaden ([ranged] oder [melee]) zeigt, so ab, als wäre es dein Würfel."
     },
     {
         "code": "02072",
@@ -398,8 +398,8 @@
     },
     {
         "code": "02074",
-        "name": "No Disintegrations",
-        "text": "Discard the top card of an opponent's deck, or 3 cards instead if there is another copy of this event in your discard pile."
+        "name": "Keine Desintegrationen",
+        "text": "Lege die oberste Karte eines gegnerischen Decks ab oder stattdessen die obersten 3 Karten, falls eine andere Kopie dieses Ereignisses in deinem Ablagestapel ist."
     },
     {
         "code": "02075",
@@ -408,8 +408,8 @@
     },
     {
         "code": "02076",
-        "name": "Rise Again",
-        "text": "Heal 5 damage from a unique Blue character. You may play an upgrade from your discard pile on it for free."
+        "name": "Auferstehung",
+        "text": "Heile 5 Schaden von einem einzigartigen blauen Charakter. Du darfst eine Aufwertung aus deinem Ablagestapel kostenlos auf den Charakter spielen."
     },
     {
         "code": "02077",
@@ -418,8 +418,8 @@
     },
     {
         "code": "02078",
-        "name": "Dark Presence",
-        "text": "After one of your dice rolls a discard ([discard]), you may exhaust this support to force an opponent to choose and remove one of their dice."
+        "name": "Finstere Präsenz",
+        "text": "Nachdem 1 deiner Würfel Ablegen ([discard]) geworfen hat, darfst du diese Unterstützung erschöpfen, um einen Gegner dazu zu zwingen, 1 seiner Würfel zu wählen und zu entfernen."
     },
     {
         "code": "02079",
@@ -428,8 +428,8 @@
     },
     {
         "code": "02080",
-        "name": "Doubt",
-        "text": "Reroll an opponent's die. Then that opponent either resolves that die or removes it."
+        "name": "Zweifel",
+        "text": "Wirf einen Würfel eines Gegners neu. Dann handelt dieser Gegner den Würfel entweder ab oder entfernt ihn."
     },
     {
         "code": "02081",
@@ -463,8 +463,8 @@
     },
     {
         "code": "02087",
-        "name": "Scrap Buy",
-        "text": "Play only if you have 3 or more cards in your discard pile.\nAdd a random card from your discard pile to your hand (<em>show the card to your opponents</em>)."
+        "name": "Ankauf von Schrott",
+        "text": "Spiele diese Karte nur, falls du 3 oder mehr Karten in deinem Ablagestapel hast.\nFüge eine zufällige Karte aus deinem Ablagestapel deiner Hand hinzu (<em>zeige die Karte deinen Gegnern</em>)."
     },
     {
         "code": "02088",
@@ -473,13 +473,13 @@
     },
     {
         "code": "02089",
-        "name": "Armor Plating",
-        "text": "Before attached character takes damage, you may block up to 2 damage. Then discard this upgrade from play."
+        "name": "Rüstungsplatten",
+        "text": "Bevor der aufgewertete Charakter Schaden erleidet, darfst du bis zu 2 Schaden blocken. Lege dann diese Aufwertung aus dem Spiel ab."
     },
     {
         "code": "02090",
-        "name": "Emergency Evacuation",
-        "text": "Remove all dice."
+        "name": "Notfall-Evakuierung",
+        "text": "Entferne alle Würfel."
     },
     {
         "code": "02091",
@@ -493,8 +493,8 @@
     },
     {
         "code": "02093",
-        "name": "Our Only Hope",
-        "text": "Draw a card. You may play that card for free or discard that card to gain 2 resources."
+        "name": "Unsere letzte Hoffnung",
+        "text": "Ziehe eine Karte. Du darfst die gezogene Karte kostenlos spielen oder du darfst die gezogene Karte ablegen, um 2 Ressourcen zu erhalten."
     },
     {
         "code": "02094",
@@ -513,33 +513,33 @@
     },
     {
         "code": "02097",
-        "name": "Planetary Uprising",
-        "text": "After you claim the battlefield, force an opponent to deal 2 damage to their characters, distributed as they wish."
+        "name": "Planetenweiter Aufstand",
+        "text": "Nachdem du das Schlachtfeld beansprucht hast, zwinge einen Gegner dazu, seinen Charakteren 2 Schaden zuzufügen, verteilt wie er möchte."
     },
     {
         "code": "02098",
-        "name": "Spy Net",
-        "text": "After one of your dice rolls a focus ([focus]), you may exhaust this support to discard the top card of an opponent's deck."
+        "name": "Spionage-Netzwerk",
+        "text": "Nachdem 1 deiner Würfel Fokussieren ([focus]) geworfen hat, darfst du diese Unterstützung erschöpfen, um die oberste Karte eines gegnerischen Decks abzulegen."
     },
     {
         "code": "02099",
-        "name": "Tactical Aptitude",
-        "text": "After you activate attached character, you may draw a card. Then place a card form your hand on the bottom of your deck."
+        "name": "Taktisches Geschick",
+        "text": "Nachdem du den aufgewerteten Charakter aktiviert hast, darfst du eine Karte ziehen. Lege dann eine Karte von deiner Hand unter dein Deck."
     },
     {
         "code": "02100",
-        "name": "Caution",
-        "text": "Remove one of your character dice to give another character 3 shields."
+        "name": "Vorsicht",
+        "text": "Entferne 1 deiner Charakterwürfel, um einem anderen Charakter 3 Schilde zu geben."
     },
     {
         "code": "02101",
-        "name": "Destiny",
-        "text": "Remove any number of your Blue dice. Play a card from your hand for free that costs equal to or less than the combined value of the Blue dice you just removed."
+        "name": "Bestimmung",
+        "text": "Entferne eine beliebige Zahl deiner blauen Würfel. Spiele eine Karte kostenlos von deiner Hand, deren Kosten gleich oder niedriger sind als der Gesamtwert der blauen Würfel, die du gerade entfernt hast."
     },
     {
         "code": "02102",
-        "name": "Determination",
-        "text": "Play only if you have one or more dice showing a focus ([focus]).\nResolve one of your dice as if it was showing a different symbol <em>(it keeps its original value)</em>"
+        "name": "Zielstrebigkeit",
+        "text": "Spiele diese Karte nur, falls du 1 oder mehrere Würfel hast, die Fokussieren ([focus]) zeigen.\nHandle 1 deiner Würfel ab, als würde er ein anderes Symbol zeigen <em>(er behält seinen ursprünglichen Wert bei)</em>."
     },
     {
         "code": "02103",
@@ -588,8 +588,8 @@
     },
     {
         "code": "02112",
-        "name": "Rebel",
-        "text": "Play only if you have one or more dice showing a discard.\nPlay a card from your discard pile, decreasing its cost by 1."
+        "name": "Rebellieren",
+        "text": "Spiele diese Karte nur dann, falls du 1 oder mehrere Würfel hast, die Ablegen ([discard])zeigen.\nSpiele eine Karte aus deinem Ablagestapel und senke dabei ihre Kosten um 1."
     },
     {
         "code": "02113",
@@ -733,8 +733,8 @@
     },
     {
         "code": "02141",
-        "name": "Ammo Belt",
-        "text": "Before another upgrade on attached character would be discarded by a card effect, you may discard this upgrade instead."
+        "name": "Munitionsgürtel",
+        "text": "Bevor eine andere Aufwertung des aufgewerteten Charakters durch einen Karteneffekt abgelegt werden würde, darfst du stattdessen diese Aufwertung ablegen."
     },
     {
         "code": "02142",
@@ -825,9 +825,9 @@
     },
     {
         "code": "02158",
-        "name": "Secluded Beach",
+        "name": "Einsamer Strand",
         "subtitle": "Scarif",
-        "text": "<b>Claim</b> - Remove an opponent's die showing ranged damage ([ranged])."
+        "text": "<b>Beanspruchen</b> - Entferne einen gegnerischen Würfel, der Fernkampfschaden ([ranged]) zeigt."
     },
     {
         "code": "02159",
@@ -839,6 +839,6 @@
         "code": "02160",
         "name": "Umkämpfte Strassen",
         "subtitle": "Jedha",
-        "text": "<b>Beanspruchen</b> - LEge eine zufällige Karte von der Hand eines Gegners ab."
+        "text": "<b>Beanspruchen</b> - Lege eine zufällige Karte von der Hand eines Gegners ab."
     }
 ]
