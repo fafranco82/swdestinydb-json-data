@@ -297,7 +297,7 @@
             "-"
         ],
         "subtype_code": "vehicle",
-        "text": "[special] - Force an opponent to deal damage to their characters, distributed as they whish, or lose resource, until they have dealt and lost a combined total of 4.",
+        "text": "[special] - Force an opponent to deal damage to their characters, distributed as they wish, or lose resource, until they have dealt and lost a combined total of 4.",
         "type_code": "support"
     },
     {
@@ -650,7 +650,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "<b>Action</b> - Exhaust this support to gain 1 resource if an opponent's character die is showing a blank ([blank]).",
-        "type_code": "event"
+        "type_code": "support"
     },
     {
         "affiliation_code": "hero",
