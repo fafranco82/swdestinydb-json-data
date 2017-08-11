@@ -111,6 +111,33 @@
         "type_code": "support"
     },
     {
+        "affiliation_code": "villain",
+        "code": "03012",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "The TIE/x1 was an advanced prototype flown by Darth Vader at the Battle of Yavin",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Darth Vader's TIE Advanced",
+        "position": 12,
+        "rarity_code": "R",
+        "set_code": "EaW",
+        "sides": [
+            "2RD",
+            "3RD1",
+            "+3RD",
+            "2Sh",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "vehicle",
+        "text": "[special] - Spend 2 resources to deal damage to a character equal to the damage on it.",
+        "type_code": "support"
+    },
+    {
         "affiliation_code": "hero",
         "code": "03024",
         "deck_limit": 1,
@@ -517,6 +544,31 @@
         "type_code": "upgrade"
     },
     {
+        "affiliation_code": "neutral",
+        "code": "03059",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": true,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "Lead by Example",
+        "position": 59,
+        "rarity_code": "R",
+        "set_code": "EaW",
+        "sides": [
+            "+1RD",
+            "+2RD",
+            "1F",
+            "1F",
+            "1R",
+            "-"
+        ],
+        "subtype_code": "ability",
+        "text": "After you activate attached character, you may activate one of your supports.",
+        "type_code": "upgrade"
+    },
+    {
         "affiliation_code": "villain",
         "code": "03064",
         "cost": 2,
@@ -581,6 +633,23 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Resolve one of your dice, increasing its value by the resource cost showing on it.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "03076",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Insidious",
+        "position": 76,
+        "rarity_code": "C",
+        "set_code": "EaW",
+        "text": "<b>Action</b> - Exhaust this support to gain 1 resource if an opponent's character die is showing a blank ([blank]).",
         "type_code": "event"
     },
     {
@@ -649,6 +718,23 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Choose a color <em>(Blue, Red, Yellow, or Gray)</em>. Then discard the top card of an opponent's deck. If that card is the chosen color, gain 1 resource.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "03108",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Javier Charro Martinez",
+        "is_unique": false,
+        "name": "Appraise",
+        "position": 108,
+        "rarity_code": "C",
+        "set_code": "EaW",
+        "text": "Remove one of your dice showing a resource ([resource]) to play a support from your hand, decreasing its cost by 2.",
         "type_code": "event"
     },
     {
