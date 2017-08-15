@@ -112,6 +112,33 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "03010",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Seventh Sister",
+        "points": "11/14",
+        "position": 10,
+        "rarity_code": "L",
+        "set_code": "EaW",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1Dr",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Agile Inquisitor",
+        "text": "After you activate this character, you may roll and ID9 Seeker Droid ([EaW]13) die into your pool <em>(its X value is equal to the number of ID9 Seeker Droid dice in your pool)</em>. Set aside that die after it is resolved or removed.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "03012",
         "cost": 4,
         "deck_limit": 2,
@@ -136,6 +163,32 @@
         "subtype_code": "vehicle",
         "text": "[special] - Spend 2 resources to deal damage to a character equal to the damage on it.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "03013",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "ID9 Seeker Droid",
+        "position": 13,
+        "rarity_code": "R",
+        "set_code": "EaW",
+        "sides": [
+            "0MD",
+            "0F",
+            "0Dr",
+            "0Dc",
+            "0Sh",
+            "-"
+        ],
+        "subtype_code": "droid",
+        "text": "The X on this die is equal to the number of ID9 Seeker Droid dice in your pool <em>(when resolving dice, resolve them one at a time).</em>",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
