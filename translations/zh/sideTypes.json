@@ -1,47 +1,38 @@
 [
     {
         "code": "-",
-        "icon": "blank",
         "name": "空白"
     },
     {
         "code": "Dc",
-        "icon": "discard",
         "name": "弃牌"
     },
     {
         "code": "Dr",
-        "icon": "disrupt",
         "name": "干扰"
     },
     {
         "code": "F",
-        "icon": "focus",
         "name": "集中"
     },
     {
         "code": "MD",
-        "icon": "melee",
         "name": "近战伤害"
     },
     {
         "code": "R",
-        "icon": "resource",
         "name": "资源"
     },
     {
         "code": "RD",
-        "icon": "ranged",
         "name": "远程伤害"
     },
     {
         "code": "Sh",
-        "icon": "shield",
         "name": "护盾"
     },
     {
         "code": "Sp",
-        "icon": "special",
         "name": "特殊"
     }
 ]

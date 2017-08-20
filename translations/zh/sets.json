@@ -1,29 +1,14 @@
 [
     {
-        "cgdb_id_end": 3,
-        "cgdb_id_start": 1,
         "code": "AW",
-        "date_release": "2016-12-01",
-        "name": "觉醒",
-        "position": 1,
-        "size": 174
+        "name": "觉醒"
     },
     {
-        "cgdb_id_end": 4,
-        "cgdb_id_start": 4,
-        "code": "SoR",
-        "date_release": "2017-05-04",
-        "name": "Spirit of Rebellion",
-        "position": 2,
-        "size": 160
-    },
-    {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
         "code": "EaW",
-        "date_release": null,
-        "name": "Empire at War",
-        "position": 3,
-        "size": 160
+        "name": "Empire at War"
+    },
+    {
+        "code": "SoR",
+        "name": "Spirit of Rebellion"
     }
 ]

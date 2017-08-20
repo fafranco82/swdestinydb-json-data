@@ -1,17 +1,14 @@
 [
     {
         "code": "hero",
-        "name": "英雄",
-        "is_primary": true
+        "name": "英雄"
     },
     {
         "code": "neutral",
-        "name": "中立",
-        "is_primary": false
+        "name": "中立"
     },
     {
         "code": "villain",
-        "name": "反派",
-        "is_primary": true
+        "name": "反派"
     }
 ]

@@ -191,7 +191,7 @@ def validate_sets(args, sets_data, locale=None, en_sets=None):
             verbose_print(args, "OK\n", 2)
         except jsonschema.ValidationError as e:
             verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in set: (code: '%s' name: '%s')\n" % (p.get("code"), p.get("name")), 0)
+            verbose_print(args, "Validation error in set: (code: '%s' name: '%s')\n" % (p.get("code").encode('utf-8'), p.get("name").encode('utf-8')), 0)
             validation_errors += 1
             print(e)
             retval = False
