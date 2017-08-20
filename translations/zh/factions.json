@@ -1,0 +1,22 @@
+[
+    {
+        "code": "blue",
+        "name": "原力",
+        "is_primary": true
+    },
+    {
+        "code": "gray",
+        "name": "其他",
+        "is_primary": false
+    },
+    {
+        "code": "red",
+        "name": "权力",
+        "is_primary": true
+    },
+    {
+        "code": "yellow",
+        "name": "侠盗",
+        "is_primary": true
+    }
+]
