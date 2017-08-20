@@ -1,0 +1,30 @@
+[
+    {
+        "code": "ability",
+        "name": "能力"
+    },
+    {
+        "code": "artillery",
+        "name": "Artillery"
+    },
+    {
+        "code": "droid",
+        "name": "机器人"
+    },
+    {
+        "code": "equipment",
+        "name": "装备"
+    },
+    {
+        "code": "title",
+        "name": "Title"
+    },
+    {
+        "code": "vehicle",
+        "name": "载具"
+    },
+    {
+        "code": "weapon",
+        "name": "武器"
+    }
+]
