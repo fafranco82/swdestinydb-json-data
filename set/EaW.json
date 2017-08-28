@@ -761,6 +761,31 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "03052",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Jason Juta",
+        "is_unique": false,
+        "name": "Weapons Cache",
+        "position": 52,
+        "rarity_code": "R",
+        "set_code": "EaW",
+        "sides": [
+            "+2RD",
+            "1F",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "text": "[special] - Play a <i>weapon</i> from your hand, decreasing its cost by 2.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "03057",
         "cost": 0,
         "deck_limit": 2,
@@ -788,6 +813,33 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "03058",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "flavor": "Electromagnetic pulse grenades were extremely effective against weapon platforms with electronic systems.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Jacob Atienza",
+        "is_unique": false,
+        "name": "EMP Grenades",
+        "position": 58,
+        "rarity_code": "R",
+        "set_code": "EaW",
+        "sides": [
+            "1Dr",
+            "2Dr",
+            "2Dc1",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "weapon",
+        "text": "[special] - Discard a <i>droid</i> or <i>vehicle</i> from play. Discard this upgrade from play.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "03059",
         "cost": 2,
         "deck_limit": 2,
@@ -810,6 +862,23 @@
         "subtype_code": "ability",
         "text": "After you activate attached character, you may activate one of your supports.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "03063",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Aleksander Kansz",
+        "is_unique": false,
+        "name": "Drop Your Weapon!",
+        "position": 63,
+        "rarity_code": "U",
+        "set_code": "EaW",
+        "text": "Spot 2 Red characters to discard a <i>weapon</i> from a ready character.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "villain",
@@ -1149,6 +1218,23 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Spot a Blue character to search your deck for a Blue <i>weapon</i>, reveal it, and add it to your hand. Shuffle your deck.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "03131",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Adam Lane",
+        "is_unique": false,
+        "name": "Lightsaber Training",
+        "position": 131,
+        "rarity_code": "C",
+        "set_code": "EaW",
+        "text": "Turn up to 2 of your Blue <i>weapon</i> dice to sides of your choice.",
         "type_code": "event"
     },
     {
