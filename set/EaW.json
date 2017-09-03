@@ -942,7 +942,7 @@
             "-"
         ],
         "subtype_code": "weapon",
-        "text": "<b>Action</i> - Heal 2 damage from attached character. Place this upgrade on the bottom of your deck.",
+        "text": "<b>Action</b> - Heal 2 damage from attached character. Place this upgrade on the bottom of your deck.",
         "type_code": "upgrade"
     },
     {
