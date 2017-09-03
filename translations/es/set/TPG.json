@@ -2,32 +2,32 @@
     {
         "code": "04001",
         "name": "Kylo Ren",
-        "subtitle": "Tormented One",
-        "text": "After you activate this character, you may choose a color <em>(Blue, Red, Yellow or Gray)</em>. Then reveal a random card in an opponent's hand. If that card matches the chosen color, deal 2 damage to a character."
+        "subtitle": "Alma atormentada",
+        "text": "Después de que actives este Personaje, puedes elegir un color <em>(Amarillo, Azul, Rojo, o Gris)</em>. Luego revela una carta escogida al azar de la mano de un adversario. Si el colo de esa carta coincide con el color elegido, inflige 2 puntos de daño a un Personaje."
     },
     {
         "code": "04002",
-        "flavor": "\"You can't be so stupid as to think this will be easy.\"",
-        "name": "Captain Phasma",
-        "subtitle": "Ruthless Tactician",
-        "text": "[special] - Deal 2 damage to a character, or 3 damage instead if that character has 6 or more damage on it."
+        "flavor": "\"No serás tan estúpido de pensar que va a ser fácil.\"",
+        "name": "Capitán Phasma",
+        "subtitle": "Estratega despiadada",
+        "text": "[special] - Inflige 2 puntos de daño a un Personaje, o 3 puntos de daño si ese Personaje tiene 6 o más puntos de daño asignados."
     },
     {
         "code": "04003",
         "flavor": "Though superior to standard battle droids, this model of droid was too expensive to deploy in large numbers.",
-        "name": "Droid Commandos",
+        "name": "Droides comando",
         "text": "[special] - Deal 1 damage each to any number of characters."
     },
     {
         "code": "04004",
-        "flavor": "\"My troops will storm this block and kill you all.\" <cite>Captain Phasma</cite>",
-        "name": "Captain Phasma's Blaster",
-        "text": "While this upgrade is attached to Captain Phasma, it has the Redeploy keyword."
+        "flavor": "\"Mis tropas entrarán y os matarán a todos.\" <cite>Captain Phasma</cite>",
+        "name": "Bláster de la Capitán Phasma",
+        "text": "Mientras esta Mejora esté vinculada a la Capitán Phasma, posee la palabra clave Redesplegar."
     },
     {
         "code": "04005",
-        "name": "Praetorian Guard",
-        "text": "Attached character has the Guardian keyword."
+        "name": "Guardia pretoriana",
+        "text": "El Personaje vinculado posee la palabra clave Guardián."
     },
     {
         "code": "04006",
@@ -36,13 +36,13 @@
     },
     {
         "code": "04007",
-        "name": "Crossguard Lightsaber",
-        "text": "After you play this upgrade on Kylo Ren, deal 1 damage to a character.\n[special] - Deal 2 damage to a character, or 3 damage instead if that character has 1 or more shields."
+        "name": "Sable de luz cruciforme",
+        "text": "´Después de que juegues esta Mejora sobre Kylo Ren, inflige 1 punto de daño a un Personaje.\n[special] - Inflife 2 puntos de daño a un Personaje, o 3 puntos de daño si ese Personaje posee 1 o más escudos."
     },
     {
         "code": "04008",
-        "name": "Force Stasis",
-        "text": "Blue character only.\n[special] - Remove a die showing ranged damage ([ranged]). Then deal 1 damage to a character."
+        "name": "Contener con la Fuerza",
+        "text": "Sólo Personaje de color Azul.\n[special] - Retira un dado que muestre daño a distancia ([ranged]). Luego inflige 1 punto de daño a un Personaje."
     },
     {
         "code": "04009",
@@ -78,8 +78,8 @@
     },
     {
         "code": "04015",
-        "name": "Tactical Mastery",
-        "text": "Spot a Red character to take up to 2 additional actions."
+        "name": "Estrategia brillante",
+        "text": "Señala a un Personaje de color Rojo para realizar hasta 2 acciones adicionales."
     },
     {
         "code": "04016",
@@ -93,8 +93,8 @@
     },
     {
         "code": "04018",
-        "name": "Intimidate",
-        "text": "Remove all shields from a character."
+        "name": "Intimidar",
+        "text": "Retira todos los escudos de un Personaje."
     },
     {
         "code": "04019",
@@ -104,13 +104,13 @@
     },
     {
         "code": "04020",
-        "name": "Doubt",
-        "text": "Reroll an opponent's die. Then that opponent either resolves that die or removes it."
+        "name": "Duda",
+        "text": "Vuelve a tirar un dado de un adversario. Luego ese adversario elige entre resolver ese dado o retirarlo."
     },
     {
         "code": "04021",
-        "name": "Parry",
-        "text": "Remove a die showing melee damage ([melee])."
+        "name": "Parada",
+        "text": "Retira un dado que muestre daño cuerpo a cuerpo ([melee])."
     },
     {
         "code": "04022",
@@ -126,17 +126,17 @@
     },
     {
         "code": "04024",
-        "flavor": "\"The Force, it's calling you.\" <cite>Maz Kanata</cite>",
+        "flavor": "\"La Fuerza, te está llamando a ti.\" <cite>Maz Kanata</cite>",
         "name": "Rey",
-        "subtitle": "Finding The Ways",
-        "text": "After you activate this character, if she has 1 or more shields, you may deal 1 damage to a character."
+        "subtitle": "Hallando el camino",
+        "text": "Después de que actives este Personaje, si posee 1 o más escudos, puedes infligir 1 punto de daño a un Personaje."
     },
     {
         "code": "04025",
-        "flavor": "\"The Resistance will not be intimidated by you.\"",
+        "flavor": "\"La Resistencia no se va a dejar intimidar por ti.\"",
         "name": "Poe Dameron",
-        "subtitle": "More Than A Pilot",
-        "text": "[special] - Give a character 1 shield. You may turn another die to any side."
+        "subtitle": "Mucho más que un piloto",
+        "text": "[special] - Entrega 1 escudo a un Personaje. Puedes girar otro dado a cualquier cara."
     },
     {
         "code": "04026",
@@ -146,8 +146,8 @@
     },
     {
         "code": "04027",
-        "name": "Strike Team",
-        "text": "Ambush.\nDecrease the cost to play this support by 1 if an opponent has 3 or more resources."
+        "name": "Comando de asalto",
+        "text": "Emboscada.\nReduce en 1 el coste para jugar este Apoyo si un adversario posee 3 o más recursos."
     },
     {
         "code": "04028",
@@ -157,18 +157,18 @@
     },
     {
         "code": "04029",
-        "name": "Poe Dameron's Blaster",
-        "text": "[special] - Deal 2 damage to a character, or 3 damage instead if attached character is Poe Dameron."
+        "name": "Bláster de Poe Dameron",
+        "text": "[special] - Inflige 2 puntos de daño a un Personaje, o 3 puntos de daño si el Personaje vinculado es Poe Dameron."
     },
     {
         "code": "04030",
-        "name": "Rey's Lightsaber",
-        "text": "Redeploy.\nAfter you play this upgrade, give attached character 1 shield, or 2 shields instead if attached character is Rey."
+        "name": "Sable de luz de Rey",
+        "text": "Redesplegar.\nDespués de que juegues esta Mejora, entrega 1 escudo al Personaje vinculado, o 2 escudos si el Personaje vinculado es Rey."
     },
     {
         "code": "04031",
-        "name": "Inner Strength",
-        "text": "[special] - Move 1 damage from attached character to an opponent's character with no shields."
+        "name": "Fortaleza interior",
+        "text": "[special] - Transfiere 1 punto de daño del Personaje vinculado a un Personaje de un adversario que no posea ningún escudo."
     },
     {
         "code": "04032",
@@ -178,7 +178,7 @@
     },
     {
         "code": "04033",
-        "name": "Honor Guard",
+        "name": "Guardia de honor",
         "text": "<b>Action</b> - Discard this support from play to remove a die showing damage ([ranged] or [melee])."
     },
     {
@@ -188,8 +188,8 @@
     },
     {
         "code": "04035",
-        "name": "Logistics",
-        "text": "Spot a red character to resolve a die with the resource symbol ([resource]), increasing its value by 1."
+        "name": "Logística",
+        "text": "Señala un Personaje de color Rojo para resolver uno de tus dados que muestre recursos ([resource]), incrementando en 1 su valor de resultado."
     },
     {
         "code": "04036",
@@ -198,8 +198,8 @@
     },
     {
         "code": "04037",
-        "name": "Strategic Planning",
-        "text": "Ready or exhaust a support."
+        "name": "Planificación estratégica",
+        "text": "Prepara o agota un Apoyo."
     },
     {
         "code": "04038",
@@ -209,8 +209,8 @@
     },
     {
         "code": "04039",
-        "name": "Defensive Stance",
-        "text": "Give a character 2 shields."
+        "name": "Postura defensiva",
+        "text": "Entrega 2 escudos a un Personaje."
     },
     {
         "code": "04040",
@@ -232,13 +232,13 @@
     },
     {
         "code": "04043",
-        "name": "Evade",
-        "text": "Remove a die showing ranged damage [ranged]"
+        "name": "Evasión",
+        "text": "Retira un dado que muestre daño a distance ([ranged])."
     },
     {
         "code": "04044",
-        "name": "Flank",
-        "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice."
+        "name": "Flanquear",
+        "text": "Juega esta carta sólo si tienes más Personajes preparados que un adversario.\nRetira uno de los dados de ese adversario."
     },
     {
         "code": "04045",
