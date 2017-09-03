@@ -10,5 +10,9 @@
     {
         "code": "SoR",
         "name": "Espíritu de rebelión"
+    },
+    {
+        "code": "TPG",
+        "name": "Caja de inicio para dos jugadores"
     }
 ]
