@@ -84,6 +84,10 @@
                 "L"
             ]
         },
+        "reprint_of": {
+            "pattern": "^[0-9]{5}$",
+            "type": "string"
+        },
         "set_code": {
             "maxLength": 5,
             "minLength": 2,
