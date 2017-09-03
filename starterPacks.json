@@ -188,5 +188,196 @@
                 "dice": 0
             }
         }
+    },
+    {
+        "code": "TPG",
+        "name": "Two-Player Game",
+        "set_code": "TPG",
+        "slots": {
+            "04001": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04002": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04003": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04004": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04005": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04006": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04007": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04008": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04009": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04010": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04011": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04012": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04013": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04014": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04015": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04016": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04017": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04018": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04019": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04020": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04021": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04022": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04023": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04024": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04025": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04026": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04027": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04028": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04029": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04030": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04031": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04032": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04033": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04034": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04035": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04036": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04037": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04038": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04039": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04040": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04041": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04042": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04043": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04044": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04045": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04046": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
     }
 ]
