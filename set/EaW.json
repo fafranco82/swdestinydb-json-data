@@ -1996,7 +1996,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "03132",
+        "code": "03137",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
@@ -2004,7 +2004,7 @@
         "has_errata": false,
         "is_unique": false,
         "name": "Disable",
-        "position": 132,
+        "position": 137,
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Exhaust a support.",
