@@ -303,7 +303,7 @@
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "\"Dispatch all squadrons…\" <code>General Hux</code>",
+        "flavor": "\"Dispatch all squadrons…\" <cite>General Hux</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": " ",
