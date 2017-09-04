@@ -1127,7 +1127,7 @@
             "-"
         ],
         "subtype_code": "ability",
-        "text": "Blue character only.\n[special] - Draw cards equal to the avlue showing on an <i>equipment</i> or <i>weapon</i> die. You may remove that die.",
+        "text": "Blue character only.\n[special] - Draw cards equal to the value showing on an <i>equipment</i> or <i>weapon</i> die. You may remove that die.",
         "type_code": "upgrade"
     },
     {

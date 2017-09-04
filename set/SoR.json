@@ -1780,7 +1780,7 @@
         "position": 68,
         "rarity_code": "U",
         "set_code": "SoR",
-        "text": "Play only if you control de battlefield.\nTurn up to 4 of your dice to sides showing damage ([ranged] or [melee]).",
+        "text": "Play only if you control the battlefield.\nTurn up to 4 of your dice to sides showing damage ([ranged] or [melee]).",
         "ttscardid": "2267",
         "type_code": "event"
     },
