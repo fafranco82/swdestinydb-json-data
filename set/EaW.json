@@ -435,6 +435,33 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "03019",
+        "deck_limit": 3,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Francisco Rico",
+        "is_unique": false,
+        "name": "Gamorrean Guard",
+        "points": "10",
+        "position": 19,
+        "rarity_code": "R",
+        "set_code": "EaW",
+        "sides": [
+            "1MD",
+            "3MD1",
+            "+2MD",
+            "1Dr",
+            "-",
+            "-"
+        ],
+        "subtitle": "",
+        "text": "Guardian.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "03020",
         "cost": 2,
         "deck_limit": 2,
