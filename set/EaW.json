@@ -220,6 +220,32 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "03009",
+        "deck_limit": 3,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 7,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Servant of the Dark Side",
+        "points": "8",
+        "position": 9,
+        "rarity_code": "R",
+        "set_code": "EaW",
+        "sides": [
+            "1MD",
+            "3MD1",
+            "1F",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "text": "Before one of your other Blue characters is defeated, you may move an upgrade from it to this character <em>(return that upgrade's die to its card)</em>.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "03010",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -1719,6 +1745,23 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Before one of your Blue characters is defeated, you may move an upgrade from it to another one of your characterss <em>(return that upgrade's die to its card)</em>.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "03105",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Yoda's Quarters",
+        "position": 105,
+        "rarity_code": "U",
+        "set_code": "EaW",
+        "text": "<b>Action</b> - Exhaust this support and remove one of your character dice to heal 2 damage from that character.",
         "type_code": "support"
     },
     {
