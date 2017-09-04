@@ -283,7 +283,7 @@
     {
         "affiliation_code": "villain",
         "code": "04013",
-        "cost": 1,
+        "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
@@ -354,7 +354,7 @@
     {
         "affiliation_code": "neutral",
         "code": "04017",
-        "cost": 0,
+        "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
@@ -446,7 +446,7 @@
     {
         "affiliation_code": "villain",
         "code": "04022",
-        "cost": 0,
+        "cost": 2,
         "deck_limit": 2,
         "faction_code": "gray",
         "flavor": "\"I won't have you question my methods.\" <cite>General Hux</cite>",
