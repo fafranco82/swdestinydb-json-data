@@ -2081,7 +2081,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "After you take an action, you may exhaust this support to choose an opponent. That opponent cannot take the same action that you just took on their next turn.",
-        "type_code": "event"
+        "type_code": "support"
     },
     {
         "affiliation_code": "hero",
