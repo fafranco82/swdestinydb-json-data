@@ -1639,6 +1639,23 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "03079",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Bounty Postings",
+        "position": 79,
+        "rarity_code": "C",
+        "set_code": "EaW",
+        "text": "Draw cards equal to the number of characters an opponent has.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "03080",
         "cost": 0,
         "deck_limit": 2,
@@ -1688,6 +1705,23 @@
         "set_code": "EaW",
         "text": "You may play an upgrade from your hand for free on each of your Yellow characters.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "03085",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "The Hutts were powerful gangsters with an interplanetary criminal empire.",
+        "has_die": false,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "Hutt Ties",
+        "position": 85,
+        "rarity_code": "C",
+        "set_code": "EaW",
+        "text": "<b>Action</b> - Exhaust this support to force an opponent to choose to either lose 1 resource or choose and remove one of their dice.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
@@ -2150,6 +2184,23 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Activate one of your characters. Then you may remove all of its character and upgrade dice to ready it.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "03122",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Ryan Valle",
+        "is_unique": false,
+        "name": "Flanking Maneuver",
+        "position": 122,
+        "rarity_code": "U",
+        "set_code": "EaW",
+        "text": "Count the number of support dice in your pool. Deal that much damage to a character.",
         "type_code": "event"
     },
     {
