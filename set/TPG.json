@@ -125,7 +125,7 @@
         "sides": [
             "1MD",
             "1MD",
-            "2MD",
+            "+2MD",
             "1Sh",
             "1R",
             "-"
@@ -610,7 +610,7 @@
             "-"
         ],
         "text": "[special] - Give attached character 1 shield. You may give another character 1 shield.",
-        "type_code": "support"
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
