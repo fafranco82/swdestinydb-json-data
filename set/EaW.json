@@ -2272,6 +2272,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "03129",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Jeff Lee Johnson",
+        "is_unique": false,
+        "name": "Force Vision",
+        "position": 129,
+        "rarity_code": "C",
+        "set_code": "EaW",
+        "text": "Ambush.\nLook at the top 5 cards of a player's deck <em>(do not rearrange them)</em>.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "03130",
         "cost": 0,
         "deck_limit": 2,
