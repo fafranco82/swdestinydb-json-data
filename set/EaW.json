@@ -2424,6 +2424,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "03140",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Antonio Jos Manzanedo",
+        "is_unique": false,
+        "name": "Threaten",
+        "position": 140,
+        "rarity_code": "U",
+        "set_code": "EaW",
+        "text": "Spot a Yellow character to remove an opponent's character die unless they deal damage to that character equal to the value showing on that die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "03141",
         "cost": 1,
         "deck_limit": 2,
