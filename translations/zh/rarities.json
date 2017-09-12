@@ -1,22 +1,22 @@
 [
     {
         "code": "C",
-        "name": "Common"
+        "name": "普通"
     },
     {
         "code": "L",
-        "name": "Legendary"
+        "name": "传奇"
     },
     {
         "code": "R",
-        "name": "Rare"
+        "name": "稀有"
     },
     {
         "code": "S",
-        "name": "Starter"
+        "name": "基础"
     },
     {
         "code": "U",
-        "name": "Uncommon"
+        "name": "特别"
     }
 ]
