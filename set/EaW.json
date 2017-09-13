@@ -1549,6 +1549,31 @@
         "type_code": "upgrade"
     },
     {
+        "affiliation_code": "neutral",
+        "code": "03060",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": true,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "Scatterblaster",
+        "position": 60,
+        "rarity_code": "R",
+        "set_code": "EaW",
+        "sides": [
+            "2RD",
+            "+3RD",
+            "1Dr",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "weapon",
+        "text": "[special] - Deal 1 damage each to up to 4 different characters.\n<b>Action</b> - Remove one of attached character's character dice to turn this die to any side.",
+        "type_code": "upgrade"
+    },
+    {
         "affiliation_code": "villain",
         "code": "03061",
         "cost": 2,
