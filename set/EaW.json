@@ -354,6 +354,33 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "03014",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"You want this, don't you? <cite>Empero Palpatine</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "David Auden Nash",
+        "is_unique": false,
+        "name": "Temptation",
+        "position": 14,
+        "rarity_code": "R",
+        "set_code": "EaW",
+        "sides": [
+            "1Dr",
+            "1Dc",
+            "Sp",
+            "Sp",
+            "-",
+            "-"
+        ],
+        "subtype_code": "ability",
+        "text": "[special] - Choose an opponent. That opponent may draw 2 cards. If they do, you gain 2 resources. If they do not, you draw 2 cards.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "03015",
         "cost": 4,
         "deck_limit": 2,
@@ -2326,6 +2353,23 @@
         "subtype_code": "weapon",
         "text": "After you activate attached character, force an opponent to choose and deal 1 damage to one of their characters. Then you may discard this upgrade to deal 1 damage to that character.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "03117",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Darren Tan",
+        "is_unique": false,
+        "name": "Defiance",
+        "position": 117,
+        "rarity_code": "C",
+        "set_code": "EaW",
+        "text": "Reroll one of your character dice. Then heal damage from that character equal to the value showing on that die.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
