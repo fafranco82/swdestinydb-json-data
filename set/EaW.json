@@ -2657,7 +2657,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "After you claim the battlefield, you may place 1 damage on this support.\n<b>Action</b> - Exhaust this support to move any amoount of damage from it to a character <em>(this ignores shields)</em>.",
-        "type_code": "event"
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
