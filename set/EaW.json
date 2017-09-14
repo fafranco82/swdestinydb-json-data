@@ -2284,7 +2284,6 @@
         "text": "Choose an opponent that has more cards in hand than you. Draw cards up to the number of cards in their hand.",
         "type_code": "event"
     },
-    
     {
         "affiliation_code": "hero",
         "code": "03101",
