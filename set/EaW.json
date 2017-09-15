@@ -491,7 +491,7 @@
     {
         "affiliation_code": "villain",
         "code": "03019",
-        "deck_limit": 1,
+        "deck_limit": 3,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
