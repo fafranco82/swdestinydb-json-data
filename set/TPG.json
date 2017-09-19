@@ -24,6 +24,7 @@
         ],
         "subtitle": "Tormented One",
         "text": "After you activate this character, you may choose a color <em>(Blue, Red, Yellow or Gray)</em>. Then reveal a random card in an opponent's hand. If that card matches the chosen color, deal 2 damage to a character.",
+        "ttscardid": "100",
         "type_code": "character"
     },
     {
@@ -52,6 +53,7 @@
         ],
         "subtitle": "Ruthless Tactician",
         "text": "[special] - Deal 2 damage to a character, or 3 damage instead if that character has 6 or more damage on it.",
+        "ttscardid": "101",
         "type_code": "character"
     },
     {
@@ -79,6 +81,7 @@
         ],
         "subtype_code": "droid",
         "text": "[special] - Deal 1 damage each to any number of characters.",
+        "ttscardid": "102",
         "type_code": "support"
     },
     {
@@ -106,6 +109,7 @@
         ],
         "subtype_code": "weapon",
         "text": "While this upgrade is attached to Captain Phasma, it has the Redeploy keyword.",
+        "ttscardid": "103",
         "type_code": "upgrade"
     },
     {
@@ -132,6 +136,7 @@
         ],
         "subtype_code": "ability",
         "text": "Attached character has the Guardian keyword.",
+        "ttscardid": "104",
         "type_code": "upgrade"
     },
     {
@@ -157,6 +162,7 @@
             "-"
         ],
         "text": "[special] - Draw a card. Reroll this die instead of removing it from your pool.",
+        "ttscardid": "105",
         "type_code": "upgrade"
     },
     {
@@ -183,6 +189,7 @@
         ],
         "subtype_code": "weapon",
         "text": "After you play this upgrade on Kylo Ren, deal 1 damage to a character.\n[special] - Deal 2 damage to a character, or 3 damage instead if that character has 1 or more shields.",
+        "ttscardid": "106",
         "type_code": "upgrade"
     },
     {
@@ -209,6 +216,7 @@
         ],
         "subtype_code": "ability",
         "text": "Blue character only.\n[special] - Remove a die showing ranged damage ([ranged]). Then deal 1 damage to a character.",
+        "ttscardid": "107",
         "type_code": "upgrade"
     },
     {
@@ -227,6 +235,7 @@
         "set_code": "TPG",
         "subtype_code": "title",
         "text": "After you activate attached character, you may remove 1 shield from a character.",
+        "ttscardid": "108",
         "type_code": "upgrade"
     },
     {
@@ -244,6 +253,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "<b>Action</b> - Exhaust this support to reroll one of your Red dice. If that die rolls damage ([ranged] or [melee]), deal 1 damage to a character.",
+        "ttscardid": "109",
         "type_code": "support"
     },
     {
@@ -261,6 +271,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Deal damage to a character equal to the value on an opponent's die showing damage ([ranged] or [melee]).",
+        "ttscardid": "110",
         "type_code": "event"
     },
     {
@@ -278,6 +289,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Turn a die to a side showing damage ([ranged] or [melee]).",
+        "ttscardid": "111",
         "type_code": "event"
     },
     {
@@ -295,6 +307,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Reveal 2 random cards in an opponent's hand. Then deal 1 damage to a character for each event and support just revealed.",
+        "ttscardid": "112",
         "type_code": "event"
     },
     {
@@ -313,6 +326,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Gain 4 resources.",
+        "ttscardid": "113",
         "type_code": "event"
     },
     {
@@ -349,6 +363,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Ambush.\nLook at each opponent's hand.",
+        "ttscardid": "115",
         "type_code": "event"
     },
     {
@@ -366,6 +381,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Turn one of your dice to a side showing melee damage ([melee]). Turn an opponent's die showing melee damage ([melee]) to a blank ([blank]).",
+        "ttscardid": "116",
         "type_code": "event"
     },
     {
@@ -403,6 +419,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Turn an upgrade die to a side showing a blank ([blank]).",
+        "ttscardid": "118",
         "type_code": "event"
     },
     {
@@ -459,6 +476,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Remove a die.",
+        "ttscardid": "121",
         "type_code": "event"
     },
     {
@@ -476,6 +494,7 @@
         "set_code": "TPG",
         "subtitle": "Imperial Fleet",
         "text": "<b>Claim</b> - Reveal the top card of an opponent's deck. If that card is an event or support, deal 1 damage to a character.",
+        "ttscardid": "122",
         "type_code": "battlefield"
     },
     {
@@ -504,6 +523,7 @@
         ],
         "subtitle": "Finding The Ways",
         "text": "After you activate this character, if she has 1 or more shields, you may deal 1 damage to a character.",
+        "ttscardid": "123",
         "type_code": "character"
     },
     {
@@ -532,6 +552,7 @@
         ],
         "subtitle": "More Than A Pilot",
         "text": "[special] - Give a character 1 shield. You may turn another die to any side.",
+        "ttscardid": "124",
         "type_code": "character"
     },
     {
@@ -559,6 +580,7 @@
         ],
         "subtype_code": "droid",
         "text": "[special] - Heal 1 damage from a character.",
+        "ttscardid": "125",
         "type_code": "support"
     },
     {
@@ -584,6 +606,7 @@
             "-"
         ],
         "text": "Ambush.\nDecrease the cost to play this support by 1 if an opponent has 3 or more resources.",
+        "ttscardid": "126",
         "type_code": "support"
     },
     {
@@ -610,6 +633,7 @@
             "-"
         ],
         "text": "[special] - Give attached character 1 shield. You may give another character 1 shield.",
+        "ttscardid": "127",
         "type_code": "upgrade"
     },
     {
@@ -636,6 +660,7 @@
         ],
         "subtype_code": "weapon",
         "text": "[special] - Deal 2 damage to a character, or 3 damage instead if attached character is Poe Dameron.",
+        "ttscardid": "128",
         "type_code": "upgrade"
     },
     {
@@ -662,6 +687,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Redeploy.\nAfter you play this upgrade, give attached character 1 shield, or 2 shields instead if attached character is Rey.",
+        "ttscardid": "129",
         "type_code": "upgrade"
     },
     {
@@ -688,6 +714,7 @@
         ],
         "subtype_code": "ability",
         "text": "[special] - Move 1 damage from attached character to an opponent's character with no shields.",
+        "ttscardid": "130",
         "type_code": "upgrade"
     },
     {
@@ -706,6 +733,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "<b>Action</b> - Place this support on top of your deck from play to give a Blue character 1 shield.",
+        "ttscardid": "131",
         "type_code": "support"
     },
     {
@@ -723,6 +751,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "<b>Action</b> - Discard this support from play to remove a die showing damage ([ranged] or [melee]).",
+        "ttscardid": "132",
         "type_code": "support"
     },
     {
@@ -740,6 +769,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Resolve one of your dice showing damage ([ranged] or [melee]), increasing its value by 2.",
+        "ttscardid": "133",
         "type_code": "event"
     },
     {
@@ -776,6 +806,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Choose a symbol showing on a die. Then turn another die to a side showing the same symbol.",
+        "ttscardid": "135",
         "type_code": "event"
     },
     {
@@ -812,6 +843,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Turn one of your dice to any side. You may spend 1 resource to turn another one of your dice to any side.",
+        "ttscardid": "137",
         "type_code": "event"
     },
     {
@@ -849,6 +881,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Choose 2 dice. Then an opponent chooses and removes one of those dice.",
+        "ttscardid": "139",
         "type_code": "event"
     },
     {
@@ -867,6 +900,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Reroll one of your dice. Then you may resolve it, increasing its value by 1. Otherwise, remove it.",
+        "ttscardid": "140",
         "type_code": "event"
     },
     {
@@ -885,6 +919,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Reroll one of your dice. Then deal damage to a character equal to the value showing on that die.",
+        "ttscardid": "141",
         "type_code": "event"
     },
     {
@@ -940,6 +975,7 @@
         "rarity_code": "S",
         "set_code": "TPG",
         "text": "Reroll any number of an opponent's dice showing damage ([ranged] or [melee]).",
+        "ttscardid": "144",
         "type_code": "event"
     },
     {
@@ -957,6 +993,7 @@
         "set_code": "TPG",
         "subtitle": "Tatooine",
         "text": "<b>Claim</b> - Give a Blue character 1 shield or spend 1 resource to give a non-Blue character 1 shield.",
+        "ttscardid": "145",
         "type_code": "battlefield"
     }
 ]

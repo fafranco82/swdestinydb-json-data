@@ -25,6 +25,7 @@
         ],
         "subtitle": "Adept Pilot",
         "text": "<b>Action</b> - Spend 2 resources to ready a <i>vehicle</i>.",
+        "ttscardid": "3100",
         "type_code": "character"
     },
     {
@@ -53,6 +54,7 @@
         ],
         "subtitle": "Aspiring Commander",
         "text": "[special] - Play a Red event from your hand, decreasing its cost by 1 for each character you have.",
+        "ttscardid": "3101",
         "type_code": "character"
     },
     {
@@ -80,6 +82,7 @@
             "-"
         ],
         "text": "Before this character would be defeated by damage, instead defeat it after this round ends.",
+        "ttscardid": "3102",
         "type_code": "character"
     },
     {
@@ -108,6 +111,7 @@
         ],
         "subtitle": "Master Strategist",
         "text": "After you activate this character, you may choose a number. Then look at an opponent's hand and discard a card from it that costs the chosen number.",
+        "ttscardid": "3103",
         "type_code": "character"
     },
     {
@@ -135,6 +139,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Discard a support that costs 2 or less from play.",
+        "ttscardid": "3104",
         "type_code": "support"
     },
     {
@@ -162,6 +167,7 @@
         ],
         "subtype_code": "droid",
         "text": "Ambush.\n[special] - Look at 2 random cards in an opponent's hand and discard any of those cards that are events.",
+        "ttscardid": "2505",
         "type_code": "support"
     },
     {
@@ -188,6 +194,7 @@
         ],
         "subtype_code": "weapon",
         "text": "To play, spot a Red character.\n<b>Action</b> - Discard a card from your hand to turn this die to the side that has a value 1 higher than the value showing on this die.",
+        "ttscardid": "2506",
         "type_code": "upgrade"
     },
     {
@@ -216,6 +223,7 @@
         ],
         "subtitle": "Dark Disciple",
         "text": "[special] - Deal damage to an opponent's character equal to the number of cards in your hand more than the number of cards in that opponent's hand.",
+        "ttscardid": "3107",
         "type_code": "character"
     },
     {
@@ -242,6 +250,7 @@
             "-"
         ],
         "text": "Before one of your other Blue characters is defeated, you may move an upgrade from it to this character <em>(return that upgrade's die to its card)</em>.",
+        "ttscardid": "2508",
         "type_code": "character"
     },
     {
@@ -269,6 +278,7 @@
         ],
         "subtitle": "Agile Inquisitor",
         "text": "After you activate this character, you may roll and ID9 Seeker Droid ([EaW]13) die into your pool <em>(its X value is equal to the number of ID9 Seeker Droid dice in your pool)</em>. Set aside that die after it is resolved or removed.",
+        "ttscardid": "3109",
         "type_code": "character"
     },
     {
@@ -297,6 +307,7 @@
         ],
         "subtitle": "Sith Loyalist",
         "text": "[special] - Remove a character die showing a blank ([blank]). Then deal 2 damage to that character.",
+        "ttscardid": "3110",
         "type_code": "character"
     },
     {
@@ -324,6 +335,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Spend 2 resources to deal damage to a character equal to the damage on it.",
+        "ttscardid": "2511",
         "type_code": "support"
     },
     {
@@ -350,6 +362,7 @@
         ],
         "subtype_code": "droid",
         "text": "The X on this die is equal to the number of ID9 Seeker Droid dice in your pool <em>(when resolving dice, resolve them one at a time).</em>",
+        "ttscardid": "3112",
         "type_code": "upgrade"
     },
     {
@@ -377,6 +390,7 @@
         ],
         "subtype_code": "ability",
         "text": "[special] - Choose an opponent. That opponent may draw 2 cards. If they do, you gain 2 resources. If they do not, you draw 2 cards.",
+        "ttscardid": "2513",
         "type_code": "upgrade"
     },
     {
@@ -403,6 +417,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Blue character only.\n[special] - Turn a character die to a side showing a blank ([blank]). Reroll this die instead of removing it from your pool.",
+        "ttscardid": "3114",
         "type_code": "upgrade"
     },
     {
@@ -431,6 +446,7 @@
         ],
         "subtitle": "Master Manipulator",
         "text": "[special] - Deal 1 damage to a character, or 3 damage instead if that character has no damage on it.",
+        "ttscardid": "3115",
         "type_code": "character"
     },
     {
@@ -458,6 +474,7 @@
         ],
         "subtitle": "Wookiee Slayer",
         "text": "After you activate this character, you may move 1 damage from an opponent's character to another character <em>(this ignores shields)</em>.",
+        "ttscardid": "3116",
         "type_code": "character"
     },
     {
@@ -486,6 +503,7 @@
         ],
         "subtitle": "Vicious Mercenary",
         "text": "<b>Action</b> - Play an upgrade from your hand on this character <em>(paying its cost)</em>. Then you may activate him.",
+        "ttscardid": "3117",
         "type_code": "character"
     },
     {
@@ -512,6 +530,7 @@
             "-"
         ],
         "text": "Guardian.",
+        "ttscardid": "2518",
         "type_code": "character"
     },
     {
@@ -539,6 +558,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "After you activate this support, you may remove one of your Yellow character dice to gain 1 resource.",
+        "ttscardid": "3119",
         "type_code": "support"
     },
     {
@@ -565,6 +585,7 @@
         ],
         "subtype_code": "equipment",
         "text": "Yellow character only.\n[special] - Choose a character. Remove one of its character dice or spend 1 resource to remove 2 of its character dice.",
+        "ttscardid": "2520",
         "type_code": "upgrade"
     },
     {
@@ -591,6 +612,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Ambush.\nRedeploy.\n[special] - Turn another one of your dice to a side showing ranged damage ([ranged]).",
+        "ttscardid": "3121",
         "type_code": "upgrade"
     },
     {
@@ -617,6 +639,7 @@
         ],
         "subtype_code": "weapon",
         "text": "<b>Action</b> - Spend 2 resources and remove this die showing ranged damage ([ranged]) to deal that damage to each of an opponent's characters.",
+        "ttscardid": "3122",
         "type_code": "upgrade"
     },
     {
@@ -644,6 +667,7 @@
         ],
         "subtitle": "Defensive Mastermind",
         "text": "After you activate this character, you may discard a card from the top of an opponent's deck for each of your other characters with 1 or more shields.",
+        "ttscardid": "3123",
         "type_code": "character"
     },
     {
@@ -672,6 +696,7 @@
         ],
         "subtitle": "Phoenix Leader",
         "text": "[special] - Play a <i>vehicle</i> from your hand for free. After the action phase ends, if that <i>vehicle</i> is still in play, return it to your hand.",
+        "ttscardid": "3124",
         "type_code": "character"
     },
     {
@@ -700,6 +725,7 @@
         ],
         "subtitle": "Reprogrammed Droid",
         "text": "The cost to play a <i>weapon</i> on this character is increased by 2.\nAfter you play or move a <i>weapon</i> onto this character for the first time each game, ready him.",
+        "ttscardid": "3125",
         "type_code": "character"
     },
     {
@@ -727,6 +753,7 @@
             "-"
         ],
         "text": "After you activate this character, you may reroll one of your <i>vehicle</i> dice.",
+        "ttscardid": "3126",
         "type_code": "character"
     },
     {
@@ -754,6 +781,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Resolve another side of this die.",
+        "ttscardid": "3127",
         "type_code": "support"
     },
     {
@@ -780,6 +808,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Force an opponent to deal damage to their characters, distributed as they wish, or lose resource, until they have dealt and lost a combined total of 4.",
+        "ttscardid": "3128",
         "type_code": "support"
     },
     {
@@ -806,6 +835,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Redeploy.\n[special] - Give 2 shields to your characters, distributed as you wish.",
+        "ttscardid": "3129",
         "type_code": "upgrade"
     },
     {
@@ -834,6 +864,7 @@
         ],
         "subtitle": "Force Operative",
         "text": "After you activate this character for the first time each round, you may spend resources equal to the number of dice you just rolled to ready her.",
+        "ttscardid": "3130",
         "type_code": "character"
     },
     {
@@ -860,6 +891,7 @@
             "-"
         ],
         "text": "After you activate this character, you may turn one of your character dice to a side showing the same symbol as this die.",
+        "ttscardid": "3131",
         "type_code": "character"
     },
     {
@@ -888,6 +920,7 @@
         ],
         "subtitle": "Rebel Jedi",
         "text": "Before you take an action, you may resolve one of this die.",
+        "ttscardid": "3132",
         "type_code": "character"
     },
     {
@@ -916,6 +949,7 @@
         ],
         "subtitle": "Jedi Champion",
         "text": "<b>Action</b> - Remove this die to defeat a character with 2 or less remaining health.",
+        "ttscardid": "3133",
         "type_code": "character"
     },
     {
@@ -942,6 +976,7 @@
             "-"
         ],
         "text": "You may resolve the modifier sides on this die to modify any symbol on one of your Blue character dice.",
+        "ttscardid": "3134",
         "type_code": "support"
     },
     {
@@ -969,6 +1004,7 @@
         ],
         "subtype_code": "title",
         "text": "Blue character only.\n[special] - Exhaust this upgrade and spend 2 resources to ready a character.",
+        "ttscardid": "3135",
         "type_code": "upgrade"
     },
     {
@@ -995,6 +1031,7 @@
         ],
         "subtype_code": "ability",
         "text": "[special] - Give each of your characters 1 shield.",
+        "ttscardid": "3136",
         "type_code": "upgrade"
     },
     {
@@ -1023,6 +1060,7 @@
         ],
         "subtitle": "Force-sensitive Thief",
         "text": "You may play Blue upgrades on this character, ignoring play restrictions.\n[special] - Take 1 resource from an opponent.",
+        "ttscardid": "3137",
         "type_code": "character"
     },
     {
@@ -1050,6 +1088,7 @@
         ],
         "subtitle": "Galactic Entrepreneur",
         "text": "You start the game with 1 additional resource.",
+        "ttscardid": "3138",
         "type_code": "character"
     },
     {
@@ -1078,6 +1117,7 @@
         ],
         "subtitle": "Explosives Expert",
         "text": "Before you activate this character, you may play a <i>weapon</i> from your discard pile on her, decreasing its cost by 1 if it has the word \"Thermal\" in its title.",
+        "ttscardid": "3139",
         "type_code": "character"
     },
     {
@@ -1104,6 +1144,7 @@
             "1R",
             "-"
         ],
+        "ttscardid": "2540",
         "type_code": "character"
     },
     {
@@ -1131,6 +1172,7 @@
         ],
         "subtype_code": "droid",
         "text": "[special] - Remove a die showing a value of 2 or less.",
+        "ttscardid": "3141",
         "type_code": "support"
     },
     {
@@ -1157,6 +1199,7 @@
         ],
         "subtype_code": "weapon",
         "text": "After you resolve this die, you may spend 1 resource to reroll it instead of removing it from your pool.",
+        "ttscardid": "3142",
         "type_code": "upgrade"
     },
     {
@@ -1182,6 +1225,7 @@
         ],
         "subtype_code": "ability",
         "text": "[special] - Look at an opponent's hand and choose 2 cards in it. Then discard those cards unless that opponent spends 2 resources.",
+        "ttscardid": "3143",
         "type_code": "upgrade"
     },
     {
@@ -1208,6 +1252,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Exhaust a support or draw 2 cards.",
+        "ttscardid": "3144",
         "type_code": "support"
     },
     {
@@ -1235,6 +1280,7 @@
         ],
         "subtype_code": "artillery",
         "text": "Before resolving this die, you may exhaust one of your characters. If you do, you do not have to pay the resource cost on this die.",
+        "ttscardid": "3145",
         "type_code": "support"
     },
     {
@@ -1261,6 +1307,7 @@
         ],
         "subtype_code": "weapon",
         "text": "The resource cost of attached character's character dice modified by this die is decreased by 1.",
+        "ttscardid": "3146",
         "type_code": "upgrade"
     },
     {
@@ -1287,6 +1334,7 @@
         ],
         "subtype_code": "ability",
         "text": "After you activate attached character, you may ready a <i>vehicle</i>.",
+        "ttscardid": "3147",
         "type_code": "upgrade"
     },
     {
@@ -1313,6 +1361,7 @@
         ],
         "subtype_code": "weapon",
         "text": "<b>Action</b> - Heal 2 damage from attached character. Place this upgrade on the bottom of your deck.",
+        "ttscardid": "3148",
         "type_code": "upgrade"
     },
     {
@@ -1339,6 +1388,7 @@
         ],
         "subtype_code": "ability",
         "text": "Blue character only.\n[special] - Draw cards equal to the value showing on an <i>equipment</i> or <i>weapon</i> die. You may remove that die.",
+        "ttscardid": "2549",
         "type_code": "upgrade"
     },
     {
@@ -1365,6 +1415,7 @@
         ],
         "subtype_code": "weapon",
         "text": "After you activate attached character, if it has another Blue <i>weapon</i>, you may give it 1 shield or remove 1 shield from a character.",
+        "ttscardid": "3150",
         "type_code": "upgrade"
     },
     {
@@ -1390,6 +1441,7 @@
             "-"
         ],
         "text": "[special] - Play a <i>weapon</i> from your hand, decreasing its cost by 2.",
+        "ttscardid": "3151",
         "type_code": "support"
     },
     {
@@ -1416,6 +1468,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Before this die deals damage to a character, you may remove all shields from that character.",
+        "ttscardid": "2552",
         "type_code": "upgrade"
     },
     {
@@ -1441,6 +1494,7 @@
             "-"
         ],
         "text": "Yellow character only.\n[special] - Choose an opponent. If you have more dice showing ranged damage ([ranged]) than that opponent, take 1 resource from them.",
+        "ttscardid": "2553",
         "type_code": "upgrade"
     },
     {
@@ -1468,6 +1522,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Ambush.\n<b>Action</b> - Spend 1 resource to turn this die to any side.",
+        "ttscardid": "3154",
         "type_code": "upgrade"
     },
     {
@@ -1494,6 +1549,7 @@
             "-"
         ],
         "subtype_code": "vehicle",
+        "ttscardid": "2555",
         "type_code": "support"
     },
     {
@@ -1521,6 +1577,7 @@
         ],
         "subtype_code": "equipment",
         "text": "Before you activate attached character, return this upgrade to your hand unless you spend 1 resource.",
+        "ttscardid": "3156",
         "type_code": "upgrade"
     },
     {
@@ -1548,6 +1605,7 @@
         ],
         "subtype_code": "weapon",
         "text": "[special] - Discard a <i>droid</i> or <i>vehicle</i> from play. Discard this upgrade from play.",
+        "ttscardid": "3157",
         "type_code": "upgrade"
     },
     {
@@ -1573,6 +1631,7 @@
         ],
         "subtype_code": "ability",
         "text": "After you activate attached character, you may activate one of your supports.",
+        "ttscardid": "2558",
         "type_code": "upgrade"
     },
     {
@@ -1598,6 +1657,7 @@
         ],
         "subtype_code": "weapon",
         "text": "[special] - Deal 1 damage each to up to 4 different characters.\n<b>Action</b> - Remove one of attached character's character dice to turn this die to any side.",
+        "ttscardid": "2559",
         "type_code": "upgrade"
     },
     {
@@ -1615,6 +1675,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Resolve an opponent's <i>vehicle</i> die as if it were your own. If that die has a resource cost, you do not have to pay it.",
+        "ttscardid": "3160",
         "type_code": "event"
     },
     {
@@ -1633,6 +1694,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Remove a die showing a resource cost or spend 1 resource to remove 2 dice showing a resource cost.",
+        "ttscardid": "2561",
         "type_code": "event"
     },
     {
@@ -1650,6 +1712,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Spot 2 Red characters to discard a <i>weapon</i> from a ready character.",
+        "ttscardid": "3162",
         "type_code": "event"
     },
     {
@@ -1667,6 +1730,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Ambush.\nPlay a support from your hand, decreasing its cost by 1 for each character you have.",
+        "ttscardid": "3163",
         "type_code": "event"
     },
     {
@@ -1683,6 +1747,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Play only if this is the first action of this round <em>(no player has taken an action)</em>.\nGain 1 resource.",
+        "ttscardid": "3164",
         "type_code": "event"
     },
     {
@@ -1700,6 +1765,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Ready a non-unique Red character.",
+        "ttscardid": "3165",
         "type_code": "event"
     },
     {
@@ -1717,6 +1783,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Resolve one of your dice, increasing its value by the resource cost showing on it.",
+        "ttscardid": "3166",
         "type_code": "event"
     },
     {
@@ -1734,6 +1801,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Choose an opponent. Discard 2 random cards from that opponent's hand for each defeated character they have.",
+        "ttscardid": "2567",
         "type_code": "event"
     },
     {
@@ -1750,6 +1818,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Before you resolve a die showing a resource cost, you may exhaust this support to decrease that resource cost by 1.",
+        "ttscardid": "2568",
         "type_code": "support"
     },
     {
@@ -1767,6 +1836,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Resolve one of your character dice as if it were showing a focus ([focus]) <em>(it keeps its value)</em>.",
+        "ttscardid": "2569",
         "type_code": "event"
     },
     {
@@ -1784,6 +1854,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Count the number of dice an opponent has showing a blank ([blank]). Deal that much damage to a character.",
+        "ttscardid": "2600",
         "type_code": "event"
     },
     {
@@ -1802,6 +1873,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Play only if you have exactly one character.\nGive a Blue character 3 shields.",
+        "ttscardid": "2601",
         "type_code": "event"
     },
     {
@@ -1819,6 +1891,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Turn each of an opponent's dice showing a blank ([blank]) to any side. Then resolve any number of those dice in the order of your choice, as if they were your own.",
+        "ttscardid": "3202",
         "type_code": "event"
     },
     {
@@ -1837,6 +1910,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Deal 1 damage to each non-unique character your opponents have.",
+        "ttscardid": "3203",
         "type_code": "event"
     },
     {
@@ -1854,6 +1928,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Resolve any number of your Blue dice showing damage ([ranged] or [melee]) in the order of your choice, treating this damage as unblockable.",
+        "ttscardid": "2604",
         "type_code": "event"
     },
     {
@@ -1871,6 +1946,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "<b>Action</b> - Exhaust this support to gain 1 resource if an opponent's character die is showing a blank ([blank]).",
+        "ttscardid": "2605",
         "type_code": "support"
     },
     {
@@ -1888,6 +1964,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Redeploy.\nAfter you activate attached character, you may deal it 1 damage to deal 1 damage to another character.",
+        "ttscardid": "3206",
         "type_code": "upgrade"
     },
     {
@@ -1905,6 +1982,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Remove one of your Yellow dice. Then deal damage to each of an opponent's characters equal to the value showing on that die.",
+        "ttscardid": "3207",
         "type_code": "event"
     },
     {
@@ -1922,6 +2000,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Draw cards equal to the number of characters an opponent has.",
+        "ttscardid": "3208",
         "type_code": "event"
     },
     {
@@ -1939,6 +2018,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Spend any number of resources. Then discards cards from the top of an opponent's deck equal to the number of resources you just spent.",
+        "ttscardid": "2609",
         "type_code": "event"
     },
     {
@@ -1956,6 +2036,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Spot a Yellow character to reveal an opponent's hand and choose an event in it. They must play that event as their next action, if able.",
+        "ttscardid": "2610",
         "type_code": "event"
     },
     {
@@ -1973,6 +2054,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Remove any number of your Yellow dice. Then gain 1 resource for each die you just removed.",
+        "ttscardid": "2611",
         "type_code": "event"
     },
     {
@@ -1991,6 +2073,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "You may play an upgrade from your hand for free on each of your Yellow characters.",
+        "ttscardid": "3212",
         "type_code": "event"
     },
     {
@@ -2008,6 +2091,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Spot 2 characters with the same title to remove up to 2 dice.",
+        "ttscardid": "2613",
         "type_code": "event"
     },
     {
@@ -2025,6 +2109,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "<b>Action</b> - Exhaust this support to force an opponent to choose to either lose 1 resource or choose and remove one of their dice.",
+        "ttscardid": "2614",
         "type_code": "support"
     },
     {
@@ -2043,6 +2128,7 @@
         "set_code": "EaW",
         "subtype_code": "ability",
         "text": "<b>Action</b> - Exhaust this upgrade and remove one of attached character's dice to deal 2 unblockable damage to a character.",
+        "ttscardid": "2615",
         "type_code": "upgrade"
     },
     {
@@ -2060,6 +2146,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Deal 1 damage to each of an opponent's damaged characters.",
+        "ttscardid": "2616",
         "type_code": "event"
     },
     {
@@ -2077,6 +2164,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "<b>Action</b> - Exhaust this support to remove a character die. Then any player may remove one of their character dice to discard this support from play.",
+        "ttscardid": "2617",
         "type_code": "support"
     },
     {
@@ -2094,6 +2182,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Remove any number of shields from your characters. Then discard cards from the top of an opponent's deck equal to the number of shields you just removed.",
+        "ttscardid": "3218",
         "type_code": "event"
     },
     {
@@ -2111,6 +2200,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Give 5 shields to your characters, distributed as you wish.",
+        "ttscardid": "3219",
         "type_code": "event"
     },
     {
@@ -2128,6 +2218,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Spot a Red character to reroll any number of your dice. Then deal damage to a character equal to the number of dice you just rerolled that are now showing ranged damage ([ranged]).",
+        "ttscardid": "2620",
         "type_code": "event"
     },
     {
@@ -2146,6 +2237,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Count the number of Red dice you have showing a shield ([shield]). Remove up to that many dice.",
+        "ttscardid": "2621",
         "type_code": "event"
     },
     {
@@ -2163,6 +2255,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Choose a die on one of your <i>vehicles</i> in play and roll it into your pool. Then discard that <i>vehicle</i> if its die just rolled a blank ([blank]).",
+        "ttscardid": "3222",
         "type_code": "event"
     },
     {
@@ -2180,6 +2273,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Look at the top 3 cards of an opponent's deck and rearrange them in any order. Then you may discard the top card of that deck.",
+        "ttscardid": "2623",
         "type_code": "event"
     },
     {
@@ -2197,6 +2291,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Remove a die showing a modifier side <em>(a side with a +)</em>.",
+        "ttscardid": "2624",
         "type_code": "event"
     },
     {
@@ -2214,6 +2309,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "<b>Action</b> - Exhaust this support to reveal a random card in your hand. You may play that card, decreasing its cost by 1, or by 2 instead if it's a <i>vehicle</i>.",
+        "ttscardid": "3225",
         "type_code": "support"
     },
     {
@@ -2231,6 +2327,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Before one of your supports would be discard from play by an opponent's card effect or die, you may instead discard this support from play.",
+        "ttscardid": "3226",
         "type_code": "support"
     },
     {
@@ -2248,6 +2345,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Turn each die that has one or more blanks to a side showing a blank ([blank]).",
+        "ttscardid": "3227",
         "type_code": "event"
     },
     {
@@ -2265,6 +2363,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Move a non-<i>ability</i> upgrade from one of your Blue characters to another character <em>(return that upgrade's die to its card)</em>.",
+        "ttscardid": "3228",
         "type_code": "event"
     },
     {
@@ -2282,6 +2381,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Choose an opponent that has more cards in hand than you. Draw cards up to the number of cards in their hand.",
+        "ttscardid": "2629",
         "type_code": "event"
     },
     {
@@ -2299,6 +2399,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Play a Blue card that costs 3 or more from your hand, decreasing its cost by 1.",
+        "ttscardid": "3230",
         "type_code": "event"
     },
     {
@@ -2316,6 +2417,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Choose a color <em>(Blue, Red, Yellow, or Gray)</em>. Then discard the top card of an opponent's deck. If that card is the chosen color, gain 1 resource.",
+        "ttscardid": "3231",
         "type_code": "event"
     },
     {
@@ -2333,6 +2435,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Reroll any number of Blue dice.",
+        "ttscardid": "2632",
         "type_code": "event"
     },
     {
@@ -2350,6 +2453,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Before one of your Blue characters is defeated, you may move an upgrade from it to another one of your characterss <em>(return that upgrade's die to its card)</em>.",
+        "ttscardid": "3233",
         "type_code": "support"
     },
     {
@@ -2367,6 +2471,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "<b>Action</b> - Exhaust this support and remove one of your character dice to heal 2 damage from that character.",
+        "ttscardid": "2634",
         "type_code": "support"
     },
     {
@@ -2385,6 +2490,7 @@
         "set_code": "EaW",
         "subtype_code": "ability",
         "text": "After you activate attached character, you may give it 1 shield and draw a card.",
+        "ttscardid": "3235",
         "type_code": "upgrade"
     },
     {
@@ -2402,6 +2508,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Reroll one of your dice. Then, if it just rerolled the same symbol, you may resolve it, increasing its value by 2.",
+        "ttscardid": "2636",
         "type_code": "event"
     },
     {
@@ -2419,6 +2526,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Remove one of your dice showing a resource ([resource]) to play a support from your hand, decreasing its cost by 2.",
+        "ttscardid": "2637",
         "type_code": "event"
     },
     {
@@ -2436,6 +2544,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Remove one of your dice to reroll any number of dice.",
+        "ttscardid": "2638",
         "type_code": "event"
     },
     {
@@ -2453,6 +2562,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Remove one of your Yellow character dice to resolve an opponent's die as if it were your own.",
+        "ttscardid": "2639",
         "type_code": "event"
     },
     {
@@ -2470,6 +2580,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Move damage among your characters as you wish <em>(this ignores shields and you cannot exceed a character's health while moving this damage)</em>.",
+        "ttscardid": "3240",
         "type_code": "event"
     },
     {
@@ -2487,6 +2598,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Force an opponent to choose to either lose 1 resource or discard the top 2 cards of their deck.",
+        "ttscardid": "2641",
         "type_code": "event"
     },
     {
@@ -2504,6 +2616,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Remove up to 2 dice showing damage ([ranged] or [melee]). You must pass all of your future turns this round.",
+        "ttscardid": "3242",
         "type_code": "event"
     },
     {
@@ -2521,6 +2634,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Play only if an opponent has more characters than you.\nExhaust one of that opponent's characters.",
+        "ttscardid": "3243",
         "type_code": "event"
     },
     {
@@ -2538,6 +2652,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "After you take an action, you may exhaust this support to choose an opponent. That opponent cannot take the same action that you just took on their next turn.",
+        "ttscardid": "2644",
         "type_code": "support"
     },
     {
@@ -2556,6 +2671,7 @@
         "set_code": "EaW",
         "subtype_code": "weapon",
         "text": "After you activate attached character, force an opponent to choose and deal 1 damage to one of their characters. Then you may discard this upgrade to deal 1 damage to that character.",
+        "ttscardid": "3245",
         "type_code": "upgrade"
     },
     {
@@ -2573,6 +2689,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Reroll one of your character dice. Then heal damage from that character equal to the value showing on that die.",
+        "ttscardid": "2646",
         "type_code": "event"
     },
     {
@@ -2590,6 +2707,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Count the number of dice you have showing ranged damage ([ranged]). Reroll up to that many of an opponent's dice.",
+        "ttscardid": "2647",
         "type_code": "event"
     },
     {
@@ -2607,6 +2725,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Activate any number of your supports in the order of your choice.",
+        "ttscardid": "2648",
         "type_code": "event"
     },
     {
@@ -2624,6 +2743,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Each player may choose 1 upgrade, starting with you. Discard all upgrades from play that were not just chosen.",
+        "ttscardid": "3249",
         "type_code": "event"
     },
     {
@@ -2641,6 +2761,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Activate one of your characters. Then you may remove all of its character and upgrade dice to ready it.",
+        "ttscardid": "2650",
         "type_code": "event"
     },
     {
@@ -2658,6 +2779,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Count the number of support dice in your pool. Deal that much damage to a character.",
+        "ttscardid": "2651",
         "type_code": "event"
     },
     {
@@ -2674,6 +2796,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Choose an opponent. That opponent turns any number of their dice to sides showing damage ([ranged] or [melee]). Turn any number of your dice to sides showing damage ([ranged] or [melee]).",
+        "ttscardid": "2652",
         "type_code": "event"
     },
     {
@@ -2690,6 +2813,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Spot a <i>vehicle</i> to remove a die.",
+        "ttscardid": "3253",
         "type_code": "event"
     },
     {
@@ -2707,6 +2831,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Claim the battlefield, even if an opponent has claimed it this round.",
+        "ttscardid": "3254",
         "type_code": "event"
     },
     {
@@ -2724,6 +2849,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "After you claim the battlefield, you may place 1 damage on this support.\n<b>Action</b> - Exhaust this support to move any amoount of damage from it to a character <em>(this ignores shields)</em>.",
+        "ttscardid": "2655",
         "type_code": "support"
     },
     {
@@ -2741,6 +2867,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Before you play a support, you may exhaust this support to decrease its cost by 1.",
+        "ttscardid": "2656",
         "type_code": "support"
     },
     {
@@ -2758,6 +2885,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Each player activates one of their characters, starting with you. Then each player totals the value of the character dice they just rolled, and each player with tie lowest combined value removes theirs.",
+        "ttscardid": "3257",
         "type_code": "event"
     },
     {
@@ -2775,6 +2903,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Ambush.\nLook at the top 5 cards of a player's deck <em>(do not rearrange them)</em>.",
+        "ttscardid": "2658",
         "type_code": "event"
     },
     {
@@ -2792,6 +2921,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Spot a Blue character to search your deck for a Blue <i>weapon</i>, reveal it, and add it to your hand. Shuffle your deck.",
+        "ttscardid": "3259",
         "type_code": "event"
     },
     {
@@ -2809,6 +2939,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Turn up to 2 of your Blue <i>weapon</i> dice to sides of your choice.",
+        "ttscardid": "3260",
         "type_code": "event"
     },
     {
@@ -2826,6 +2957,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Reroll one of your Blue character dice showing a blank ([blank]). Then you may resolve it.",
+        "ttscardid": "3261",
         "type_code": "event"
     },
     {
@@ -2843,6 +2975,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Spot 2 Blue character to reveal a random card from an opponent's hand. Then you may turn a number of dice equal to or less than that card's cost to sides of your choice.",
+        "ttscardid": "2662",
         "type_code": "event"
     },
     {
@@ -2861,6 +2994,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Reroll all dice showing a value of 2 or higher.",
+        "ttscardid": "2663",
         "type_code": "event"
     },
     {
@@ -2879,6 +3013,7 @@
         "set_code": "EaW",
         "subtype_code": "ability",
         "text": "Blue character only.\n<b>Action</b> - Remove one of attached character's character dice to give it 1 shield.",
+        "ttscardid": "2664",
         "type_code": "upgrade"
     },
     {
@@ -2896,6 +3031,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Spot a character that has 6 or more damage on it. Resolve one of that character's character dice showing damage ([ranged] or [melee]), increasing its value by 2.",
+        "ttscardid": "2665",
         "type_code": "event"
     },
     {
@@ -2912,6 +3048,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Exhaust a support.",
+        "ttscardid": "2666",
         "type_code": "event"
     },
     {
@@ -2928,6 +3065,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Choose an opponent who has less resources than you. Then turn one of their dice to any side.",
+        "ttscardid": "2667",
         "type_code": "event"
     },
     {
@@ -2945,6 +3083,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Discard a random card from each opponent's hand. Draw cards equal to the number of cards that were just discarded.",
+        "ttscardid": "2668",
         "type_code": "event"
     },
     {
@@ -2962,6 +3101,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Spot a Yellow character to remove an opponent's character die unless they deal damage to that character equal to the value showing on that die.",
+        "ttscardid": "2669",
         "type_code": "event"
     },
     {
@@ -2979,6 +3119,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Discard your hand. For each card just discarded, you may remove a die showing a value that is equal to that card's cost.",
+        "ttscardid": "3300",
         "type_code": "event"
     },
     {
@@ -2996,6 +3137,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Ambush.\nEach player gains 1 resource.",
+        "ttscardid": "2701",
         "type_code": "event"
     },
     {
@@ -3013,6 +3155,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "After you play this support, exhaust it.\n<b>Action</b> - Exhaust this support to gain 1 resource. Discard this support from play.",
+        "ttscardid": "2702",
         "type_code": "support"
     },
     {
@@ -3030,6 +3173,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Before you play an event, you may discard this upgrade from play to decrease the cost of that event by 2.",
+        "ttscardid": "3303",
         "type_code": "upgrade"
     },
     {
@@ -3049,6 +3193,7 @@
         "set_code": "EaW",
         "subtype_code": "equipment",
         "text": "After you play this upgrade, give attached character 1 shield.\nAttached character can have 1 additional shield.",
+        "ttscardid": "2704",
         "type_code": "upgrade"
     },
     {
@@ -3066,6 +3211,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Turn a die to a side showing a resource cost.",
+        "ttscardid": "2705",
         "type_code": "event"
     },
     {
@@ -3083,6 +3229,7 @@
         "rarity_code": "U",
         "set_code": "EaW",
         "text": "Play only if one or more of your dice were removed during an opponent's last turn this round.\nRoll one of those removed dice into your pool.",
+        "ttscardid": "2706",
         "type_code": "event"
     },
     {
@@ -3100,6 +3247,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Activate one of your characters and one of your supports. Then you may spend 1 resource to take an additional action.",
+        "ttscardid": "3307",
         "type_code": "event"
     },
     {
@@ -3116,6 +3264,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Discard one of your supports from play. Then gain resources equal to its cost.",
+        "ttscardid": "3308",
         "type_code": "event"
     },
     {
@@ -3133,6 +3282,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Discard a support or upgrade that costs 0 from play.",
+        "ttscardid": "2709",
         "type_code": "event"
     },
     {
@@ -3151,6 +3301,7 @@
         "rarity_code": "C",
         "set_code": "EaW",
         "text": "Reroll one of your dice. You may reroll that die. You may reroll that die again.",
+        "ttscardid": "3310",
         "type_code": "event"
     },
     {
@@ -3169,6 +3320,7 @@
         "set_code": "EaW",
         "subtype_code": "equipment",
         "text": "Attached character gains +1 health.",
+        "ttscardid": "2711",
         "type_code": "upgrade"
     },
     {
@@ -3186,6 +3338,7 @@
         "set_code": "EaW",
         "subtitle": "Teth",
         "text": "<b>Claim</b> - Resolve one of your dice showing a modifier side <em>(a side with a +)</em> as if it were not a",
+        "ttscardid": "2712",
         "type_code": "battlefield"
     },
     {
@@ -3203,6 +3356,7 @@
         "set_code": "EaW",
         "subtitle": "Anaxes",
         "text": "While you control this battlefield, each of your characters have the Guardian keyword.",
+        "ttscardid": "2713",
         "type_code": "battlefield"
     },
     {
@@ -3220,6 +3374,7 @@
         "set_code": "EaW",
         "subtitle": "Garel",
         "text": "<b>Claim</b> - Remove one of your dice to gain resources equal to half of the value showing on that die, rounded up.",
+        "ttscardid": "2714",
         "type_code": "battlefield"
     },
     {
@@ -3237,6 +3392,7 @@
         "set_code": "EaW",
         "subtitle": "Lothal",
         "text": "While you control this battlefield, after you activate a support, you may reroll its die.",
+        "ttscardid": "3415",
         "type_code": "battlefield"
     },
     {
@@ -3254,6 +3410,7 @@
         "set_code": "EaW",
         "subtitle": "Vashka",
         "text": "<b>Claim</b> - Move 1 damage from a character to this battlefield or move all damage from this battlefield to a character <em>(this ignores shields)</em>.",
+        "ttscardid": "3416",
         "type_code": "battlefield"
     },
     {
@@ -3271,6 +3428,7 @@
         "set_code": "EaW",
         "subtitle": "Kaliida Shoals",
         "text": "<b>Claim</b> - Heal 1 damage each from up to 2 different characters. Give control of this battlefield to an opponent.",
+        "ttscardid": "2717",
         "type_code": "battlefield"
     },
     {
@@ -3288,6 +3446,7 @@
         "set_code": "EaW",
         "subtitle": "Bespin",
         "text": "While you control this battlefield, each card you play that costs 3 or more has the Ambush keyword.",
+        "ttscardid": "2718",
         "type_code": "battlefield"
     },
     {
@@ -3305,6 +3464,7 @@
         "set_code": "EaW",
         "subtitle": "Cymoon 1",
         "text": "While you control this battlefield, the cost of the first <i>vehicle</i> you play each round is decreased by 1.",
+        "ttscardid": "3419",
         "type_code": "battlefield"
     }
 ]
