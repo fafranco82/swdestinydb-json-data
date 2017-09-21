@@ -1,23 +1,23 @@
 [
     {
         "code": "03001",
-        "flavor": "A veteran of the battles over Endor and Jakku, Captain Ree was an accomplished pilot and commander.",
+        "flavor": "Veterana de las batallas de Endor y Jakku, la capitana Ree era una consumada piloto y comandante.",
         "name": "Ciena Ree",
-        "subtitle": "Adept Pilot",
-        "text": "<b>Action</b> - Spend 2 resources to ready a <i>vehicle</i>."
+        "subtitle": "Piloto avezado",
+        "text": "<b>Acción</b> - Gasta 2 recursos para preparar un <i>vehículo</i>."
     },
     {
         "code": "03002",
-        "flavor": "\"All remaining systems will bow to the First Order!\"",
+        "flavor": "\"¡Todos los dem´s sistemas se sometarán a la Primera Orden!\"",
         "name": "General Hux",
-        "subtitle": "Aspiring Commander",
-        "text": "[special] - Play a Red event from your hand, decreasing its cost by 1 for each character you have."
+        "subtitle": "Comandante ambicioso",
+        "text": "[special] - Juega un Evento de color Rojo de tu mano, reduciendo en 1 su coste por cada Personaje que tienes."
     },
     {
         "code": "03003",
-        "flavor": "The IG-100 MagnaGuard droid could withstand massive damage before total system failure.",
-        "name": "MagnaGuard",
-        "text": "Before this character would be defeated by damage, instead defeat it after this round ends."
+        "flavor": "El droide Magnaguardia IG-100 podía soportar cantidades tremendas de daño antes de que sus sistemas fallaran por completo.",
+        "name": "Magnaguardia",
+        "text": "Antes de que este Personaje vaya a ser derrotado por efectos del daño, en vez de eso derrótalo después de que esta ronda termine."
     },
     {
         "code": "03004",
@@ -28,62 +28,62 @@
     },
     {
         "code": "03005",
-        "flavor": "The All Terrain Defense Pod was a heavily armed walker used to protect Imperial assets on occupied worlds.",
+        "flavor": "El módulo de defensa todoterreno era un andador fuertemente armado que se utilizaba para proteger posesiones imperiales en mundos ocupados.",
         "name": "AT-DP",
-        "text": "[special] - Discard a support that costs 2 or less from play."
+        "text": "[special] - Descarta del juego un Apoyo con un coste igual o inferior a 2."
     },
     {
         "code": "03006",
-        "flavor": "\"We have thousands of probe droids searching the galaxy.\" <cite>Admiral Ozzel</cite>",
-        "name": "Probe Droid",
-        "text": "Ambush.\n[special] - Look at 2 random cards in an opponent's hand and discard any of those cards that are events."
+        "flavor": "\"Tenemos miles de droides de reconocimiento registrando la galaxia.\" <cite>Almirante Ozzel</cite>",
+        "name": "Droide sonda",
+        "text": "Emboscada.\n[special] - Mira 2 cartas escogidas al azar de la mano de un adversario y descarta las que sean un Evento."
     },
     {
         "code": "03007",
-        "name": "T-7 Ion Disruptor Rifle",
-        "text": "To play, spot a Red character.\n<b>Action</b> - Discard a card from your hand to turn this die to the side that has a value 1 higher than the value showing on this die."
+        "name": "Fusil disrupto iónico T-7",
+        "text": "Para jugar esta carta, señala un Personaje de color Rojo.\n<b>Acción</b> - Descarta una carta de tu mano para girar este dado a la cara que tiene un valor de resultado superior en 1 punto al valor que muestra este dado."
     },
     {
         "code": "03008",
-        "flavor": "\"Are you finished messing around?\"",
+        "flavor": "\"¿Has acabado de perder el tiempo?\"",
         "name": "Quinlan Vos",
-        "subtitle": "Dark Disciple",
-        "text": "[special] - Deal damage to an opponent's character equal to the number of cards in your hand more than the number of cards in that opponent's hand."
+        "subtitle": "Discípulo oscuro",
+        "text": "[special] - Inflige tanto daño al Personaje de un adversario como la cantidad de cartas en tu mano que superan la cantidad de cartas en la mano de ese adversario."
     },
     {
         "code": "03009",
-        "name": "Servant of the Dark Side",
-        "text": "Before one of your other Blue characters is defeated, you may move an upgrade from it to this character <em>(return that upgrade's die to its card)</em>."
+        "name": "Siervo del Lado Oscuro",
+        "text": "Antes de que uno de tus otros Personajes de color Azul sea derrotado, puedes transferir  una Mejora de él a este Personaje <em>(devuelve el dado de esa Mejora a su carta).</em>"
     },
     {
         "code": "03010",
-        "name": "Seventh Sister",
-        "subtitle": "Agile Inquisitor",
-        "text": "After you activate this character, you may roll an ID9 Seeker Droid ([EaW]13) die into your pool <em>(its X value is equal to the number of ID9 Seeker Droid dice in your pool)</em>. Set aside that die after it is resolved or removed."
+        "name": "Séptima Hemrana",
+        "subtitle": "Inquisidora acrobática",
+        "text": "Después de que actives este Personaje, puedes tirar un dado de Droide buscador ID9 ([EaW]13) en tu reserva <em>(su valor de resultado X es igual a la cantidad de dados de Droide buscador ID9 en tu reserva).</em> Deja aparte ese dado después de que sea resuelto o retirado."
     },
     {
         "code": "03011",
-        "flavor": "\"At last, a fight that might be worthy of my time.\"",
-        "name": "Grand Inquisitor",
-        "subtitle": "Sith Loyalist",
-        "text": "[special] - Remove a character die showing a blank ([blank]). Then deal 2 damage to that character."
+        "flavor": "\"Por fin, una lucha por la que merece la pena perder un rato.\"",
+        "name": "Gran Inquisidor",
+        "subtitle": "Partidario de los sith",
+        "text": "[special] - Retira un dado de Personaje que muestre una cara vacía ([blank]). Luego inflige 2 puntos de daño a ese Personaje."
     },
     {
         "code": "03012",
-        "flavor": "The TIE/x1 was an advanced prototype flown by Darth Vader at the Battle of Yavin",
-        "name": "Darth Vader's TIE Advanced",
-        "text": "[special] - Spend 2 resources to deal damage to a character equal to the damage on it."
+        "flavor": "El TIE/x1 era un avanzado prototipo de caza que Darth Bader pilotó en la batalla de Yavin.",
+        "name": "TIE Avanzado de Darth Vader",
+        "text": "[special] - Gasta 2 recursos para infligir tanto daño a un Personaje como la cantidad de daño que ese Personaje tiene asignado."
     },
     {
         "code": "03013",
-        "name": "ID9 Seeker Droid",
-        "text": "The X on this die is equal to the number of ID9 Seeker Droid dice in your pool <em>(when resolving dice, resolve them one at a time).</em>"
+        "name": "Droide buscador ID9",
+        "text": "La X en este dado es igual a la cantidad de dados de Droide buscador ID9 en tu reserva <em>(cuando resuelvas dados, resuélvelos de uno en uno).</em>"
     },
     {
         "code": "03014",
-        "flavor": "\"You want this, don't you? <cite>Empero Palpatine</cite>",
-        "name": "Temptation",
-        "text": "[special] - Choose an opponent. That opponent may draw 2 cards. If they do, you gain 2 resources. If they do not, you draw 2 cards."
+        "flavor": "\"¿Quieres esto, verdad?\" <cite>Emperador Palpatine</cite>",
+        "name": "Tentación",
+        "text": "[special] - Elige a un adversario. Ese adversario puede robar 2 cartas. Si lo hace, recibes 2 recursos. Si no lo hace, roba 2 cartas."
     },
     {
         "code": "03015",
@@ -108,7 +108,7 @@
         "flavor": "\"I'll take on any job… for the right price.\"",
         "name": "Cad Bane",
         "subtitle": "Vicious Mercenary",
-        "text": "<b>Action</b> - Play an upgrade from your hand on this character <em>(paying its cost)</em>. Then you may activate him."
+        "text": "<b>Acción</b> - Play an upgrade from your hand on this character <em>(paying its cost)</em>. Then you may activate him."
     },
     {
         "code": "03019",
@@ -134,7 +134,7 @@
     {
         "code": "03023",
         "name": "Relby-V10 Mortar Gun",
-        "text": "<b>Action</b> - Spend 2 resources and remove this die showing ranged damage ([ranged]) to deal that damage to each of an opponent's characters."
+        "text": "<b>Acción</b> - Spend 2 resources and remove this die showing ranged damage ([ranged]) to deal that damage to each of an opponent's characters."
     },
     {
         "code": "03024",
@@ -289,7 +289,7 @@
     {
         "code": "03049",
         "name": "Ancient Lightsaber",
-        "text": "<b>Action</b> - Heal 2 damage from attached character. Place this upgrade on the bottom of your deck."
+        "text": "<b>Acción</b> - Heal 2 damage from attached character. Place this upgrade on the bottom of your deck."
     },
     {
         "code": "03050",
@@ -320,7 +320,7 @@
         "code": "03055",
         "flavor": "The X-8 Night Sniper's computerized scope and built-in silencer made it a weapon of choice for Lando Calrissian.",
         "name": "X-8 Night Sniper",
-        "text": "Ambush.\n<b>Action</b> - Spend 1 resource to turn this die to any side."
+        "text": "Ambush.\n<b>Acción</b> - Spend 1 resource to turn this die to any side."
     },
     {
         "code": "03056",
@@ -347,63 +347,63 @@
     {
         "code": "03060",
         "name": "Scatterblaster",
-        "text": "[special] - Deal 1 damage each to up to 4 different characters.\n<b>Action</b> - Remove one of attached character's character dice to turn this die to any side."
+        "text": "[special] - Deal 1 damage each to up to 4 different characters.\n<b>Acción</b> - Remove one of attached character's character dice to turn this die to any side."
     },
     {
         "code": "03061",
-        "name": "Commandeer",
-        "text": "Resolve an opponent's <i>vehicle</i> die as if it were your own. If that die has a resource cost, you do not have to pay it."
+        "name": "Requisar",
+        "text": "Resuelve un dado de <i>vehículo</i> de un adversario como si ese dado fuera tuyo. Si ese dado tiene un coste en recursos, no tienes que pagarlo."
     },
     {
         "code": "03062",
-        "flavor": "\"Watch that crossfire, boys.\" <cite>Luke Skywalker</cite>",
-        "name": "Crossfire",
-        "text": "Remove a die showing a resource cost or spend 1 resource to remove 2 dice showing a resource cost."
+        "flavor": "\"Atentos a ese fuego cruzado, chicos.\" <cite>Luke Skywalker</cite>",
+        "name": "Fuego cruzado",
+        "text": "Retira un dado que muestre un coste en recursos o gasta 1 recurso para retirar 2 dados que muestren un coste en recursos."
     },
     {
         "code": "03063",
-        "name": "Drop Your Weapon!",
-        "text": "Spot 2 Red characters to discard a <i>weapon</i> from a ready character."
+        "name": "¡Tira tu arma!",
+        "text": "Señala 2 Personajes de color Rojo para descartar un <i>arma</i> de un Personaje preparado."
     },
     {
         "code": "03064",
-        "name": "Imperial Backing",
-        "text": "Ambush.\nPlay a support from your hand, decreasing its cost by 1 for each character you have."
+        "name": "Respaldo imperial",
+        "text": "Emboscada.\nJuega un Apoyo de tu mano, reduciendo en 1 su coste por cada Personaje que tienes."
     },
     {
         "code": "03065",
-        "name": "Prepare for War",
-        "text": "Play only if this is the first action of this round <em>(no player has taken an action)</em>.\nGain 1 resource."
+        "name": "Preparativos para la guerra",
+        "text": "Juega esta carta sólo si ésta es la primera acción de esta ronda <em>(ningún jugador ha realizado una acción).</em>\nRecibes 1 recurso."
     },
     {
         "code": "03066",
-        "name": "Red Alert",
-        "text": "Ready a non-unique Red character."
+        "name": "Alerta roja",
+        "text": "Prepara un Personaje de color Rojo que no sea único."
     },
     {
         "code": "03067",
-        "name": "Ruthless Tactics",
-        "text": "Resolve one of your dice, increasing its value by the resource cost showing on it."
+        "name": "Tácticas despiadadas",
+        "text": "Resuelve uno de tus dados, incrementando su valor de resultado en una cantidad igual al coste en recursos que muestre ese dado."
     },
     {
         "code": "03068",
-        "name": "Take Prisoner",
-        "text": "Choose an opponent. Discard 2 random cards from that opponent's hand for each defeated character they have."
+        "name": "Hacer prisionero",
+        "text": "Elige a un adversario. Descarta 2 cartas escogidas al azar de la mano de ese adversario por cada Personaje derrotado que tenga."
     },
     {
         "code": "03069",
-        "name": "Imperial HQ",
-        "text": "Before you resolve a die showing a resource cost, you may exhaust this support to decrease that resource cost by 1."
+        "name": "Cuartel general imperial",
+        "text": "Antes de que resuelvas un dado que muestre un coste en recursos, puedes agotar este Apoyo para reducir en 1 ese coste en recursos."
     },
     {
         "code": "03070",
-        "name": "As You Command",
-        "text": "Resolve one of your character dice as if it were showing a focus ([focus]) <em>(it keeps its value)</em>."
+        "name": "Como vos ordenéis",
+        "text": "Resuelve uno de tus dados de Personaje como si estuviera mostrando un resultado de concentración ([focus]) <em>(el dado conserva su valor de resultado)."
     },
     {
         "code": "03071",
-        "name": "Cornered Prey",
-        "text": "Count the number of dice an opponent has showing a blank ([blank]). Deal that much damage to a character."
+        "name": "Presa arrinconada",
+        "text": "Cuenta la cantidad de dados que un advesario tiene que muestren una cara vacía ([blank]). Inflige esa misma cantidad de daño a un Personaje."
     },
     {
         "code": "03072",
@@ -429,13 +429,13 @@
     },
     {
         "code": "03076",
-        "name": "Insidious",
-        "text": "<b>Action</b> - Exhaust this support to gain 1 resource if an opponent's character die is showing a blank ([blank])."
+        "name": "Insidioso",
+        "text": "<b>Acción</b> - Agota este Apoyo para recibir 1 recurso si el dado de Personaje de un adversario muestra una cara vacía ([blank])."
     },
     {
         "code": "03077",
-        "name": "Hate",
-        "text": "Redeploy.\nAfter you activate attached character, you may deal it 1 damage to deal 1 damage to another character."
+        "name": "Odio",
+        "text": "Redesplegar.\nDespués de que actives al Personaje vinculado, puedes infligirle 1 punto de daño para infligir 1 punto de daño a otro Personaje."
     },
     {
         "code": "03078",
@@ -477,12 +477,12 @@
         "code": "03085",
         "flavor": "The Hutts were powerful gangsters with an interplanetary criminal empire.",
         "name": "Hutt Ties",
-        "text": "<b>Action</b> - Exhaust this support to force an opponent to choose to either lose 1 resource or choose and remove one of their dice."
+        "text": "<b>Acción</b> - Exhaust this support to force an opponent to choose to either lose 1 resource or choose and remove one of their dice."
     },
     {
         "code": "03086",
         "name": "Deadly",
-        "text": "<b>Action</b> - Exhaust this upgrade and remove one of attached character's dice to deal 2 unblockable damage to a character."
+        "text": "<b>Acción</b> - Exhaust this upgrade and remove one of attached character's dice to deal 2 unblockable damage to a character."
     },
     {
         "code": "03087",
@@ -492,7 +492,7 @@
     {
         "code": "03088",
         "name": "Detention Center",
-        "text": "<b>Action</b> - Exhaust this support to remove a character die. Then any player may remove one of their character dice to discard this support from play."
+        "text": "<b>Acción</b> - Exhaust this support to remove a character die. Then any player may remove one of their character dice to discard this support from play."
     },
     {
         "code": "03089",
@@ -533,7 +533,7 @@
     {
         "code": "03096",
         "name": "Rally Aid",
-        "text": "<b>Action</b> - Exhaust this support to reveal a random card in your hand. You may play that card, decreasing its cost by 1, or by 2 instead if it's a <i>vehicle</i>."
+        "text": "<b>Acción</b> - Exhaust this support to reveal a random card in your hand. You may play that card, decreasing its cost by 1, or by 2 instead if it's a <i>vehicle</i>."
     },
     {
         "code": "03097",
@@ -579,7 +579,7 @@
     {
         "code": "03105",
         "name": "Yoda's Quarters",
-        "text": "<b>Action</b> - Exhaust this support and remove one of your character dice to heal 2 damage from that character."
+        "text": "<b>Acción</b> - Exhaust this support and remove one of your character dice to heal 2 damage from that character."
     },
     {
         "code": "03106",
@@ -684,7 +684,7 @@
     {
         "code": "03126",
         "name": "Drop Zone",
-        "text": "After you claim the battlefield, you may place 1 damage on this support.\n<b>Action</b> - Exhaust this support to move any amoount of damage from it to a character <em>(this ignores shields)</em>."
+        "text": "After you claim the battlefield, you may place 1 damage on this support.\n<b>Acción</b> - Exhaust this support to move any amoount of damage from it to a character <em>(this ignores shields)</em>."
     },
     {
         "code": "03127",
@@ -730,7 +730,7 @@
     {
         "code": "03135",
         "name": "Keen Instincts",
-        "text": "Blue character only.\n<b>Action</b> - Remove one of attached character's character dice to give it 1 shield."
+        "text": "Blue character only.\n<b>Acción</b> - Remove one of attached character's character dice to give it 1 shield."
     },
     {
         "code": "03136",
@@ -770,7 +770,7 @@
     {
         "code": "03143",
         "name": "Stolen Cache",
-        "text": "After you play this support, exhaust it.\n<b>Action</b> - Exhaust this support to gain 1 resource. Discard this support from play."
+        "text": "After you play this support, exhaust it.\n<b>Acción</b> - Exhaust this support to gain 1 resource. Discard this support from play."
     },
     {
         "code": "03144",
