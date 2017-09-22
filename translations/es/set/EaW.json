@@ -92,34 +92,34 @@
     },
     {
         "code": "03016",
-        "flavor": "\"Inform the First Order… I've found the droid.\"",
+        "flavor": "\"Avisad a la Primera Orden… he encontrado al droide.\"",
         "name": "Bazine Netal",
-        "subtitle": "Master Manipulator",
-        "text": "[special] - Deal 1 damage to a character, or 3 damage instead if that character has no damage on it."
+        "subtitle": "Manipuladora nata",
+        "text": "[special] - Inflige 1 punto de daño a un Personaje, o 3 puntos de daño si ese Personaje no tiene ningún daño asignado."
     },
     {
         "code": "03017",
         "name": "Bossk",
-        "subtitle": "Wookiee Slayer",
-        "text": "After you activate this character, you may move 1 damage from an opponent's character to another character <em>(this ignores shields)</em>."
+        "subtitle": "Esclavista de wookiees",
+        "text": "Después de que actives este Personaje, puedes transferir 1 punto de daño del Personaje de un adversario a otro Personaje <em>(esta transferencia ignora escudos).</em>"
     },
     {
         "code": "03018",
-        "flavor": "\"I'll take on any job… for the right price.\"",
+        "flavor": "\"Acepto cualquier encargo… por un precio justo.\"",
         "name": "Cad Bane",
-        "subtitle": "Vicious Mercenary",
-        "text": "<b>Acción</b> - Play an upgrade from your hand on this character <em>(paying its cost)</em>. Then you may activate him."
+        "subtitle": "Mercenario desalmado",
+        "text": "<b>Acción</b> - Juega una Mejora de tu mano sobre este Personaje <em>(pagando su coste)</em>. Luego puedes activar este Personaje."
     },
     {
         "code": "03019",
-        "name": "Gamorrean Guard",
-        "text": "Guardian."
+        "name": "Guardia gamorreano",
+        "text": "Guardián."
     },
     {
         "code": "03020",
-        "flavor": "Bossk's ship was a YV-666 light freighter modified to serve the bounty hunter's needs.",
-        "name": "Hound's Tooth",
-        "text": "After you activate this support, you may remove one of your Yellow character dice to gain 1 resource."
+        "flavor": "La nave personal de Bossk era un carguero ligero YV-666 modificado para satisfacer las necesidades del cazarrecompensas.",
+        "name": "Diente de Perro",
+        "text": "Después de que actives este Apoyo, puedes retirar uno de tus dados de Personaje de color Amarillo para recibir 1 recurso."
     },
     {
         "code": "03021",
@@ -128,55 +128,55 @@
     },
     {
         "code": "03022",
-        "name": "LL-30 Blaster Pistol",
-        "text": "Ambush.\nRedeploy.\n[special] - Turn another one of your dice to a side showing ranged damage ([ranged])."
+        "name": "Pistola bláster LL-30",
+        "text": "Emboscada. Redesplegar.\n[special] - Gira otro de tus dados a una cara que muestre daño a distancia ([ranged])."
     },
     {
         "code": "03023",
-        "name": "Relby-V10 Mortar Gun",
-        "text": "<b>Acción</b> - Spend 2 resources and remove this die showing ranged damage ([ranged]) to deal that damage to each of an opponent's characters."
+        "name": "Fusil lanzagranadas Relby-V10",
+        "text": "<b>Acción</b> - Gasta 2 recursos y, si este dado muestra daño a distancia ([ranged]), retíralo para infligir esa cantidad de daño a cada uno de los Personajes de un adversario."
     },
     {
         "code": "03024",
         "name": "General Rieekan",
-        "subtitle": "Defensive Mastermind",
-        "text": "After you activate this character, you may discard a card from the top of an opponent's deck for each of your other characters with 1 or more shields."
+        "subtitle": "Genio de la defensa",
+        "text": "Después de que actives este Personaje, puedes descartar una carta de la parte superior del mazo de un adversario por cada uno de tus otros Personajes que posee 1 o más escudos."
     },
     {
         "code": "03025",
-        "flavor": "\"If all you do is fight for your own life, then your life is worth nothing!\"",
+        "flavor": "\"¡Si lo único que haces es luchar por tu propia vida, tu vida no vale nada!\"",
         "name": "Hera Syndulla",
-        "subtitle": "Phoenix Leader",
-        "text": "[special] - Play a <i>vehicle</i> from your hand for free. After the action phase ends, if that <i>vehicle</i> is still in play, return it to your hand."
+        "subtitle": "Jefe Fénix",
+        "text": "[special] - Juega un <i>vehículo</i> de tu mano sin pagar coste alguno. Después de que termine la fase de Acciones, si ese <i>vehículo</i> sigue en juego, devuélvelo a tu mano."
     },
     {
         "code": "03026",
-        "flavor": "\"Why does she get a blaster and I don't?\"",
+        "flavor": "\"¿Por qué ella tiene un bláster y yo no?\"",
         "name": "K-2SO",
-        "subtitle": "Reprogrammed Droid",
-        "text": "The cost to play a <i>weapon</i> on this character is increased by 2.\nAfter you play or move a <i>weapon</i> onto this character for the first time each game, ready him."
+        "subtitle": "Droide reprogramado",
+        "text": "El coste para jugar un <i>arma</i> sobre este Personaje se incrementa en 2.\nDespués de que juegues o transfieras un <i>arma</i> sobre este Personaje por primera vez en cada partida, prepara este Personaje."
     },
     {
         "code": "03027",
-        "flavor": "The first time in the cockpit was always thrilling… even if it was the last.",
-        "name": "Rookie Pilot",
-        "text": "After you activate this character, you may reroll one of your <i>vehicle</i> dice."
+        "flavor": "La primera vez que un piloto subía a la carlinga de un caza siempre era emocionante… incluso cuando también era la última.",
+        "name": "Piloto novato",
+        "text": "Después de que actives este Personaje, puedes volver a tirar uno de tus dados de <i>vehículo</i>."
     },
     {
         "code": "03028",
-        "flavor": "The Ghost was a specialized VCX-100 light freighter that served as the base of operations for Hera Syndulla's rebel cell.",
-        "name": "Ghost",
-        "text": "[special] - Resolve another side of this die."
+        "flavor": "El Espíritu era un carguero ligero VCX-100 modificado que la célula rebelde de Hera Syndulla utilizó como base de operaciones.",
+        "name": "Espíritu",
+        "text": "[special] - Resuelve otra cara de este dado."
     },
     {
         "code": "03029",
-        "name": "Y-Wing",
-        "text": "[special] - Force an opponent to deal damage to their characters, distributed as they wish, or lose resource, until they have dealt and lost a combined total of 4."
+        "name": "Ala-Y",
+        "text": "[special] - Obliga a un adversario a infligir daño a sus Personajes, distribuido como desee, o perder recursos, hasta que haya infligido y perdido un valor total combinado de 4 puntos de daño y/o recursos."
     },
     {
         "code": "03030",
-        "name": "A280 Blaster Rifle",
-        "text": "Redeploy.\n[special] - Give 2 shields to your characters, distributed as you wish."
+        "name": "Fusil bláster A280",
+        "text": "Redesplegar.\n[special] - Entrega 2 escudos a tus Personajes, distribuidos como desees."
     },
     {
         "code": "03031",
@@ -407,25 +407,25 @@
     },
     {
         "code": "03072",
-        "flavor": "\"Your feeble skills are no match for the power of the dark side.\" <cite>Emperor Palpatine</cite>",
-        "name": "Indomitable",
-        "text": "Play only if you have exactly one character.\nGive a Blue character 3 shields."
+        "flavor": "\"Tus débiles habilidades no pueden competir con el poder del Lado Oscuro.\" <cite>Emperador Palpatine</cite>",
+        "name": "Indómito",
+        "text": "Juega esta carta sólo si tienes exactamente un Personaje.\nEntrega 3 escudos a un Personaje de color Azul."
     },
     {
         "code": "03073",
-        "name": "It Will Be All Mine",
-        "text": "Turn each of an opponent's dice showing a blank ([blank]) to any side. Then resolve any number of those dice in the order of your choice, as if they were your own."
+        "name": "Será todo mío",
+        "text": "Gira a cualquier cara que desees cada uno de los dados de un adversario que muestren una cara vacía ([blank]). Luego resuelve cualquier cantidad de esos dados en el orden que prefieras, como si esos dados fueran tuyos."
     },
     {
         "code": "03074",
-        "flavor": "The First Order executed every member of the village on Jakku rather than leave any witnesses.",
-        "name": "Kill Them All",
-        "text": "Deal 1 damage to each non-unique character your opponents have."
+        "flavor": "La Primera Orden ejecutó a todos los habitantes de la aldea de Jakku para no dejar ningún testigo de lo que había ocurrido allí.",
+        "name": "Matadlos a todos",
+        "text": "Inflige 1 punto de daño a cada uno de los Personajes de tus adversarios que no sean únicos."
     },
     {
         "code": "03075",
-        "name": "Unyielding",
-        "text": "Resolve any number of your Blue dice showing damage ([ranged] or [melee]) in the order of your choice, treating this damage as unblockable."
+        "name": "Inconmovible",
+        "text": "Resuelve cualquier cantidad de tus dados de color Azul que muestren daño ([ranged] o [melee]) en el orden que prefieras, considerando ese daño como no anulable."
     },
     {
         "code": "03076",
@@ -439,18 +439,18 @@
     },
     {
         "code": "03078",
-        "name": "Anarchy",
-        "text": "Remove one of your Yellow dice. Then deal damage to each of an opponent's characters equal to the value showing on that die."
+        "name": "Anarquía",
+        "text": "Retira uno de tus dados de color Amarillo. Luego inflige tantos puntos de daño a cada uno de los Personajes de un adversario como el valor de resultado que mostraba ese dado."
     },
     {
         "code": "03079",
-        "name": "Bounty Postings",
-        "text": "Draw cards equal to the number of characters an opponent has."
+        "name": "Listado de recompensas",
+        "text": "Roba tantas cartas como la cantidad de Personajes que tiene un adversario."
     },
     {
         "code": "03080",
-        "name": "Buy Out",
-        "text": "Spend any number of resources. Then discards cards from the top of an opponent's deck equal to the number of resources you just spent."
+        "name": "Adquisición",
+        "text": "Gasta cualquier cantidad de recursos. Luego descarta tantas cartas de la parte superior del mazo de un adversario como la cantidad de recursos que acabas de gastar."
     },
     {
         "code": "03081",
@@ -459,8 +459,8 @@
     },
     {
         "code": "03082",
-        "name": "Only Business Matters",
-        "text": "Remove any number of your Yellow dice. Then gain 1 resource for each die you just removed."
+        "name": "Mero interés empresarial",
+        "text": "Retira cualquier cantidad de tus dados de color Amarillo. Luego recibes 1 recurso por cada dado que acabas de retirar."
     },
     {
         "code": "03083",
@@ -470,29 +470,29 @@
     },
     {
         "code": "03084",
-        "name": "Twin Shadows",
-        "text": "Spot 2 characters with the same title to remove up to 2 dice."
+        "name": "Sombras gemelas",
+        "text": "Señala 2 Personajes que tengan el mismo título para retirar hasta 2 dados."
     },
     {
         "code": "03085",
-        "flavor": "The Hutts were powerful gangsters with an interplanetary criminal empire.",
-        "name": "Hutt Ties",
-        "text": "<b>Acción</b> - Exhaust this support to force an opponent to choose to either lose 1 resource or choose and remove one of their dice."
+        "flavor": "Los hutts eran los poderosos amos de un imperio criminal interplanetario.",
+        "name": "Lazos con los hutt",
+        "text": "<b>Acción</b> - Agota este Apoyo para obligar a un adversario a elegir entre perder 1 recurso o elegir y retirar uno de sus dados."
     },
     {
         "code": "03086",
-        "name": "Deadly",
-        "text": "<b>Acción</b> - Exhaust this upgrade and remove one of attached character's dice to deal 2 unblockable damage to a character."
+        "name": "Letal",
+        "text": "<b>Acción</b> - Agota esta Mejora y retira uno de los dados de Personaje del Personaje vinculado para infligir 2 puntos de daño no anulable a un Personaje."
     },
     {
         "code": "03087",
-        "name": "No Survivors",
-        "text": "Deal 1 damage to each of an opponent's damaged characters."
+        "name": "Sin supervivientes",
+        "text": "Inflige 1 punto de daño a cada uno de los Personajes dañados de un adversario."
     },
     {
         "code": "03088",
-        "name": "Detention Center",
-        "text": "<b>Acción</b> - Exhaust this support to remove a character die. Then any player may remove one of their character dice to discard this support from play."
+        "name": "Centro de detención",
+        "text": "<b>Acción</b> - Agota este Apoyo para retirar un dado de Personaje. Luego cualquier jugador puede retirar uno de sus dados de Personaje para descartar este Apoyo del juego."
     },
     {
         "code": "03089",
