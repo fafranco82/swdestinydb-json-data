@@ -87,8 +87,8 @@
     },
     {
         "code": "03015",
-        "name": "Grand Inquisitor's Lightsaber",
-        "text": "Blue character only.\n[special] - Turn a character die to a side showing a blank ([blank]). Reroll this die instead of removing it from your pool."
+        "name": "Sable de luz del Gran Inquisidor",
+        "text": "Sólo Personaje de color Azul.\n[special] - Gira un dado de Personaje a una cara que muestre una cara vacía ([blank]). Vuelve a tirar este dado en vez de retirarlo de tu reserva."
     },
     {
         "code": "03016",
@@ -123,8 +123,8 @@
     },
     {
         "code": "03021",
-        "name": "Cable Launcher",
-        "text": "Yellow character only.\n[special] - Choose a character. Remove one of its character dice or spend 1 resource to remove 2 of its character dice."
+        "name": "Lanzacables",
+        "text": "Sólo Personaje de color Amarillo.\n[special] - Elige un Personaje. Retira uno de sus dados de Personaje o gasta 1 recurso para retirar 2 de sus dados de Personaje."
     },
     {
         "code": "03022",
@@ -454,8 +454,8 @@
     },
     {
         "code": "03081",
-        "name": "Coercion",
-        "text": "Spot a Yellow character to reveal an opponent's hand and choose an event in it. They must play that event as their next action, if able."
+        "name": "Coacción",
+        "text": "Señala un Personaje de color Amarillo para revelar la mano de un adversario y elegir un Evento en ella. El adversario debe jugar ese Evento como su siguiente acción, si le es posible."
     },
     {
         "code": "03082",
@@ -464,9 +464,9 @@
     },
     {
         "code": "03083",
-        "flavor": "The best gear is hard to come by legality.",
-        "name": "Pilfered Goods",
-        "text": "You may play an upgrade from your hand for free on each of your Yellow characters."
+        "flavor": "El mejor equipo es difícil de conseguir por vías legales.",
+        "name": "Bienes robados",
+        "text": "Puedes jugar una Mejora de tu mano sin pagar coste alguno sobre cada uno de tus Personaje de color Amarillo."
     },
     {
         "code": "03084",
@@ -608,8 +608,8 @@
     },
     {
         "code": "03111",
-        "name": "Impersonate",
-        "text": "Move damage among your characters as you wish <em>(this ignores shields and you cannot exceed a character's health while moving this damage)</em>."
+        "name": "Suplantar identidad",
+        "text": "Transfiere el daño entre tus Personajes como desees <em>(esta transferencia ignora escudos y no puedes exceder la Salud de un Personaje al transferir este daño)</em>."
     },
     {
         "code": "03112",
@@ -678,8 +678,8 @@
     },
     {
         "code": "03125",
-        "name": "The Day is Ours",
-        "text": "Claim the battlefield, even if an opponent has claimed it this round."
+        "name": "La victoria es nuestra",
+        "text": "Reclama el campo de batalla, incluso si un adversario ya lo ha reclamado en esta ronda."
     },
     {
         "code": "03126",
