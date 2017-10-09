@@ -9,246 +9,246 @@
         "code": "04002",
         "flavor": "\"You can't be so stupid as to think this will be easy.\"",
         "name": "Captain Phasma",
-        "subtitle": "Ruthless Tactician",
-        "text": "[special] - Deal 2 damage to a character, or 3 damage instead if that character has 6 or more damage on it."
+        "subtitle": "Rücksichtslose Taktikerin",
+        "text": "[special] - Füge einem Charakter 2 Schaden zu oder stattdessen 3 Schaden, falls jener Charakter 6 oder mehr Schaden auf sich hat."
     },
     {
         "code": "04003",
         "flavor": "Though superior to standard battle droids, this model of droid was too expensive to deploy in large numbers.",
-        "name": "Droid Commandos",
-        "text": "[special] - Deal 1 damage each to any number of characters."
+        "name": "Droidenkommandos",
+        "text": "[special] - Füge einer beliebigen Anzahl Charakter jeweils 1 Schaden zu."
     },
     {
         "code": "04004",
         "flavor": "\"My troops will storm this block and kill you all.\" <cite>Captain Phasma</cite>",
-        "name": "Captain Phasma's Blaster",
-        "text": "While this upgrade is attached to Captain Phasma, it has the Redeploy keyword."
+        "name": "Captain Phasmas Blaster",
+        "text": "Solange diese Aufwertung an Captain Phasma angelegt ist, hat sie das Schlüsselwort Verlegen."
     },
     {
         "code": "04005",
-        "name": "Praetorian Guard",
-        "text": "Attached character has the Guardian keyword."
+        "name": "Prätorianergarde",
+        "text": "Der aufgewertete Charakter hat das Schlüsselwort Beschützer.<em>(Bevor du diesen Charakter aktivierst, darfst du einen Würfel entfernen, der Schaden zeigt, um diesen Charakter den Schaden zuzufügen.)</em>"
     },
     {
         "code": "04006",
-        "name": "Dark Counsel",
-        "text": "[special] - Draw a card. Reroll this die instead of removing it from your pool."
+        "name": "Dunkler Berater",
+        "text": "[special] - Ziehe eine Karte. Wirf diesen Würfel neu, anstatt ihn aus deinem Pool zu entfernen."
     },
     {
         "code": "04007",
-        "name": "Crossguard Lightsaber",
-        "text": "After you play this upgrade on Kylo Ren, deal 1 damage to a character.\n[special] - Deal 2 damage to a character, or 3 damage instead if that character has 1 or more shields."
+        "name": "Parierstangen-Lichtschwert",
+        "text": "Nachdem du diese Aufwertung auf Kylo Ren gespielt hast, füge einem Charakter 1 Schaden zu.\n[special] - Füge einem Charakter 2 Schaden zu oder stattdessen 3 Schaden, falls der Charakter1 oder mehr Schilde hat."
     },
     {
         "code": "04008",
-        "name": "Force Stasis",
-        "text": "Blue character only.\n[special] - Remove a die showing ranged damage ([ranged]). Then deal 1 damage to a character."
+        "name": "Machtstasis",
+        "text": "Nur blaue Charaktere.\n[special] - Entferne einen Würfel, der Fernkampfschaden ([ranged]) zeigt. Dann füge einem Charakter 1 Schaden zu."
     },
     {
         "code": "04009",
         "flavor": "\"I will find them quickly, Master.\" <cite>Darth Maul</cite>",
-        "name": "Jedi Rival",
-        "text": "After you activate attached character, you may remove 1 shield from a character."
+        "name": "Rivale der Jedi",
+        "text": "Nachdem du den aufgewerteten Charakter aktiviert hast, darfst du 1 Schild von einem Charakter entfernen."
     },
     {
         "code": "04010",
-        "name": "Armored Support",
-        "text": "<b>Action</b> - Exhaust this support to reroll one of your Red dice. If that die rolls damage ([ranged] or [melee]), deal 1 damage to a character."
+        "name": "Gepanzerte Unterstützung",
+        "text": "<b>Aktion</b> - Erschöpfe diese Unterstützung, um 1 deiner roten Würfel neu zu werfen. Falls jener Würfel Schaden ([ranged] oder [melee]) geworfen hat, füge einem Charakter 1 Schaden zu."
     },
     {
         "code": "04011",
-        "name": "First Strike",
-        "text": "Deal damage to a character equal to the value on an opponent's die showing damage ([ranged] or [melee])."
+        "name": "Erstschlag",
+        "text": "Füge einem Charakter Schaden in Höhe des Wertes auf einem gegnerischen Würfel zu, der Schaden zeigt ([ranged] oder [melee])."
     },
     {
         "code": "04012",
-        "name": "I Have You Now",
-        "text": "Turn a die to a side showing damage ([ranged] or [melee])."
+        "name": "Jetzt hab ich dich",
+        "text": "Drehe einen Würfel auf eine Seite, die Schaden ([ranged] oder [melee]) zeigt."
     },
     {
         "code": "04013",
-        "name": "Imperial Envoy",
-        "text": "Reveal 2 random cards in an opponent's hand. Then deal 1 damage to a character for each event and support just revealed."
+        "name": "Imperialer Abgesandter",
+        "text": "Decke 2 zufällige Karten von der Hand eines Gegners auf. Dann füge einem Charakter für jedes Ereignis und jede Unterstützung, die gerade aufgedeckt wurde, 1 Schaden zu."
     },
     {
         "code": "04014",
         "flavor": "\"Dispatch all squadrons…\" <cite>General Hux</cite>",
-        "name": "Mobilize",
-        "text": "Gain 4 resources."
+        "name": "Mobilisieren",
+        "text": "Erhalte 4 Ressourcen."
     },
     {
         "code": "04015",
-        "name": "Tactical Mastery",
-        "text": "Spot a Red character to take up to 2 additional actions."
+        "name": "Taktische Überlegenheit",
+        "text": "Sichte einen roten Charakter, um bis zu 2 zusätzliche Aktionen auszuführen."
     },
     {
         "code": "04016",
-        "name": "As I Have Foreseen",
-        "text": "Ambush.\nLook at each opponent's hand."
+        "name": "Wie ich es vorausgesehen habe",
+        "text": "Hinterhalt.\nSieh dir die Handkarten jedes Gegners an."
     },
     {
         "code": "04017",
-        "name": "Clash",
-        "text": "Turn one of your dice to a side showing melee damage ([melee]). Turn an opponent's die showing melee damage ([melee]) to a blank ([blank])."
+        "name": "Zusammenprall",
+        "text": "Drehe 1 deiner Würfel auf eine Seite, die Nahkampfschaden ([melee]) zeigt. Drehe einen Würfel eines Gegners, der Nahkampfschaden ([melee]) zeigt, auf eine Leerseite ([blank])."
     },
     {
         "code": "04018",
-        "name": "Intimidate",
-        "text": "Remove all shields from a character."
+        "name": "Einschüchtern",
+        "text": "Entferne alle Schilde von einem Charakter."
     },
     {
         "code": "04019",
         "flavor": "\"I see you have constructed a new lightsaber.\" <cite>Darth Vader</cite>",
-        "name": "Your Skills Are Complete",
-        "text": "Turn an upgrade die to a side showing a blank ([blank])."
+        "name": "Deine Fähigkeiten sind bemerkenswert",
+        "text": "Drehe einen Aufwertungswürfel auf eine Seite, die eine Leerseite ([blank]) zeigt."
     },
     {
         "code": "04020",
-        "name": "Doubt",
-        "text": "Reroll an opponent's die. Then that opponent either resolves that die or removes it."
+        "name": "Zweifel",
+        "text": "Wirf einen Würfel eines Gegners neu. Dann handelt dieser Gegner den Würfel entweder ab oder entfernt ihn."
     },
     {
         "code": "04021",
-        "name": "Parry",
-        "text": "Remove a die showing melee damage ([melee])."
+        "name": "Abwehren",
+        "text": "Entferne einen Würfel, der Nahkmapfschaden ([melee]) zeigt."
     },
     {
         "code": "04022",
         "flavor": "\"I won't have you question my methods.\" <cite>General Hux</cite>",
-        "name": "Subjugate",
-        "text": "Remove a die."
+        "name": "Unterwerfen",
+        "text": "Entferne einen Würfel."
     },
     {
         "code": "04023",
-        "name": "Hangar Bay",
-        "subtitle": "Imperial Fleet",
-        "text": "<b>Claim</b> - Reveal the top card of an opponent's deck. If that card is an event or support, deal 1 damage to a character."
+        "name": "Hangarbucht",
+        "subtitle": "Imperiale Flotte",
+        "text": "<b>Beanspruchen</b> - Decke die oberste Karte eines gegnerischen Decks auf. Falls diese Karte ein Ereignis oder eine Unterstützung ist, füge einem Charakter 1 Schaden zu."
     },
     {
         "code": "04024",
-        "flavor": "\"The Force, it's calling you.\" <cite>Maz Kanata</cite>",
+        "flavor": "\"Die Macht, sie ruft nach dir.\" <cite>Maz Kanata</cite>",
         "name": "Rey",
-        "subtitle": "Finding The Ways",
-        "text": "After you activate this character, if she has 1 or more shields, you may deal 1 damage to a character."
+        "subtitle": "Den Weg finden",
+        "text": "Nachdem du diesen Charakter aktiviert hast, falls sie 1 oder mehr Schilde hat, darfst du einen Charakter 1 Schaden zufügen."
     },
     {
         "code": "04025",
-        "flavor": "\"The Resistance will not be intimidated by you.\"",
+        "flavor": "\"Der Widerstand lässt sich ganz bestimmt nicht von Euch einschüchtern.\"",
         "name": "Poe Dameron",
-        "subtitle": "More Than A Pilot",
-        "text": "[special] - Give a character 1 shield. You may turn another die to any side."
+        "subtitle": "Mehr als nur ein Pilot",
+        "text": "[special] - Gib einem Charakter 1 Schild. Du darfst einen anderen Würfel auf eine beliebige Seite drehen."
     },
     {
         "code": "04026",
-        "flavor": "Unlike biological doctors, medical droids could heal most species due to their extensive databanks.",
-        "name": "Medical Droid",
-        "text": "[special] - Heal 1 damage from a character."
+        "flavor": "Im Gegensatz zu biologischen Ärzten sind Medidroiden aufgrund ihrer gewaltigen Datenbanken in der Lage, die meisten Spezies zu behandeln.",
+        "name": "Medidroide",
+        "text": "[special] - Heile 1 Schaden von einem Charakter."
     },
     {
         "code": "04027",
-        "name": "Strike Team",
-        "text": "Ambush.\nDecrease the cost to play this support by 1 if an opponent has 3 or more resources."
+        "name": "Angriffsteam",
+        "text": "Hinterhalt.\nSenke die Kosten, um diese Unterstützung zu spielen, um 1, falls ein Gegner 3 oder mehr Ressourcen hat."
     },
     {
         "code": "04028",
         "flavor": "\"Why I should stick my neck out for you is far beyond my opacity!\" <cite>C-3P0</cite>",
         "name": "Teamwork",
-        "text": "[special] - Give attached character 1 shield. You may give another character 1 shield."
+        "text": "[special] - Gib dem aufgewerteten Charakter 1 Schild. Du darfst einem anderen Charakter 1 Schild geben."
     },
     {
         "code": "04029",
-        "name": "Poe Dameron's Blaster",
-        "text": "[special] - Deal 2 damage to a character, or 3 damage instead if attached character is Poe Dameron."
+        "name": "Poe Damerons Blaster",
+        "text": "[special] - Füge einem Charakter 2 Schaden zu oder stattdessen 3 Schaden, falls der aufgewertete Charakter Poe Dameron ist."
     },
     {
         "code": "04030",
-        "name": "Rey's Lightsaber",
-        "text": "Redeploy.\nAfter you play this upgrade, give attached character 1 shield, or 2 shields instead if attached character is Rey."
+        "name": "Reys Lichtschwert",
+        "text": "Verlegen.\nNachdem du diese Aufwertung gespielt hast, gib dem aufgewerteten Charakter 1 Schild oder stattdessen 2 Schilde, falls der aufgewertete Charakter Rey ist."
     },
     {
         "code": "04031",
-        "name": "Inner Strength",
-        "text": "[special] - Move 1 damage from attached character to an opponent's character with no shields."
+        "name": "Innere Stärke",
+        "text": "[special] - Verschiebe 1 Schaden von dem aufgewerteten Charakter auf einen gegnerischen Charakter ohne Schilde."
     },
     {
         "code": "04032",
         "flavor": "\"If Skywalker returns, the new Jedi will rise.\" <cite>Snoke</cite>",
-        "name": "Luke's Protection",
-        "text": "<b>Action</b> - Place this support on top of your deck from play to give a Blue character 1 shield."
+        "name": "Lukes Schutz",
+        "text": "<b>Aktion</b> - Lege diese Unterstützung aus dem Spiel oben auf dein Deck, um einen blauen Charakter 1 Schild zu geben."
     },
     {
         "code": "04033",
-        "name": "Honor Guard",
-        "text": "<b>Action</b> - Discard this support from play to remove a die showing damage ([ranged] or [melee])."
+        "name": "Ehrenwache",
+        "text": "<b>Aktion</b> - Lege diese Unterstützung aus dem Spiel ab, um einen Würfel zu entfernen, der Schaden ([ranged] oder [melee]) zeigt."
     },
     {
         "code": "04034",
-        "name": "Direct Hit",
-        "text": "Resolve one of your dice showing damage ([ranged] or [melee]), increasing its value by 2."
+        "name": "Direkter Treffer",
+        "text": "Handle 1 deiner Würfel ab, der Schaden ([ranged] oder [melee]) zeigt, und erhöhe dabei seinen Wert um 2."
     },
     {
         "code": "04035",
-        "name": "Logistics",
-        "text": "Spot a red character to resolve a die with the resource symbol ([resource]), increasing its value by 1."
+        "name": "Logistik",
+        "text": "Sichte einen roten Charakter, um 1 deiner Würfel abzuhandeln, der Ressourcen ([resource]) zeigt, und erhöhe dabei seinen Wert um 1."
     },
     {
         "code": "04036",
-        "name": "Recon",
-        "text": "Choose a symbol showing on a die. Then turn another die to a side showing the same symbol."
+        "name": "Aufklärung",
+        "text": "Wähle ein Symbol, das von einem Würfel gezeigt wird. Drehe dann einen anderen Würfel auf eine Seite, die dasselbe Symbol zeigt."
     },
     {
         "code": "04037",
-        "name": "Strategic Planning",
-        "text": "Ready or exhaust a support."
+        "name": "Strategische Planung",
+        "text": "Erschöpfe eine Unterstützung oder mache eine Unterstützung spielbereit."
     },
     {
         "code": "04038",
         "flavor": "\"Through the Force, things you will see.\" <cite>Yoda</cite>",
-        "name": "Concentrate",
-        "text": "Turn one of your dice to any side. You may spend 1 resource to turn another one of your dice to any side."
+        "name": "Konzentrieren",
+        "text": "Drehe 1 deiner Würfel auf eine beliebige Seite. Du darfst 1 Ressource ausgeben, um 1 anderen deiner Würfel auf eine beliebige Seite zu drehen."
     },
     {
         "code": "04039",
-        "name": "Defensive Stance",
-        "text": "Give a character 2 shields."
+        "name": "Verteidigungshaltung",
+        "text": "Gib einem Charakter 2 Schilde."
     },
     {
         "code": "04040",
         "flavor": "\"Maybe it's another drill.\" <cite>Stormtrooper</cite>",
-        "name": "Distraction",
-        "text": "Choose 2 dice. Then an opponent chooses and removes one of those dice."
+        "name": "Ablenkung",
+        "text": "Wähle 2 Würfel. Dann wählt ein Gegner 1 dieser Würfel und entfernt ihn."
     },
     {
         "code": "04041",
         "flavor": "\"There is no try.\" <cite>Yoda</cite>",
-        "name": "Do Or Do Not",
-        "text": "Reroll one of your dice. Then you may resolve it, increasing its value by 1. Otherwise, remove it."
+        "name": "Tue es oder tue es nicht",
+        "text": "Wirf 1 deiner Würfel neu. Dann darfst du den Würfel abhandeln und dabei seinen Wert um 1 erhöhen. Andernfalls entferne den Würfel."
     },
     {
         "code": "04042",
         "flavor": "\"I'll never turn to the dark side.\" <cite>Luke Skywalker</cite>",
-        "name": "Fierce Resolve",
-        "text": "Reroll one of your dice. Then deal damage to a character equal to the value showing on that die."
+        "name": "Unerschütterlicher Entschlossenheit",
+        "text": "Wirf 1 deiner Würfel neu. Füge dann einem Charakter soviel Schaden zu, wie der Wert auf dem Würfel zeigt."
     },
     {
         "code": "04043",
-        "name": "Evade",
-        "text": "Remove a die showing ranged damage [ranged]"
+        "name": "Entrinnen",
+        "text": "Entferne einen Würfel, der Fernkampfschaden [ranged] zeigt."
     },
     {
         "code": "04044",
-        "name": "Flank",
-        "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice."
+        "name": "In den Rücken fallen",
+        "text": "Spiele diese Karte nur, falls du mehr spielbereite Charaktere als ein Gegner hast.\nEntferne 1 Würfel dieses Gegners."
     },
     {
         "code": "04045",
-        "name": "Sound The Alarm",
-        "text": "Reroll any number of an opponent's dice showing damage ([ranged] or [melee])."
+        "name": "Alarm blasen",
+        "text": "Wirf beliebig viele gegnerische Würfel neu, die Schaden ([ranged] oder [melee]) zeigen."
     },
     {
         "code": "04046",
-        "name": "Obi-Wan's Hut",
+        "name": "Obi-Wans Hütte",
         "subtitle": "Tatooine",
-        "text": "<b>Claim</b> - Give a Blue character 1 shield or spend 1 resource to give a non-Blue character 1 shield."
+        "text": "<b>Beanspruchen</b> - Gin einem blauen Charakter 1 Schild oder gib 1 Ressource aus, um einem nicht-blauen Charakter 1 Schild zu geben."
     }
 ]
