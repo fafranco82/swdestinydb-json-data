@@ -1,0 +1,84 @@
+[
+    {
+        "code": "05013",
+        "flavor": "The elite soldier of the Imperial Military, trained for complete obedience to the command hierarchy, as well as the Galactic Emperor Palpatine.",
+        "name": "Veteran Stormtrooper"
+    },
+    {
+        "code": "05019",
+        "flavor": "\"Don't get in my way.\"",
+        "name": "Boba Fett",
+        "subtitle": "Deadly Mercenary",
+        "text": "[special] - Deal damage to a character equal to the value showing on a die <em>(yours or an opponent's)</em>."
+    },
+    {
+        "code": "05020",
+        "name": "Doctor Aphra",
+        "subtitle": "Artifact Hunter",
+        "text": "The cost of the first <i>droid</i> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card."
+    },
+    {
+        "code": "05024",
+        "name": "BT-1",
+        "text": "After you activate this support, deal 1 indirect damage ([indirect]) to yourself. Then deal 1 indirect damage ([indirect]) to an opponent."
+    },
+    {
+        "code": "05031",
+        "flavor": "\"I want to learn the ways of the Force and become a Jedi like my father.\"",
+        "name": "Luke Skywalker",
+        "subtitle": "Unlikely Hero",
+        "text": "<b>Power Action</b> - Spend 2 resources to resolve one of this character's character or upgrade dice, increasing its value by 2."
+    },
+    {
+        "code": "05032",
+        "flavor": "\"Your move\"",
+        "name": "Obi-Wan Kenobi",
+        "subtitle": "Jedi Master",
+        "text": "After you activate this character, you may give a character 1 shield."
+    },
+    {
+        "code": "05037",
+        "name": "Obi-Wan Kenobi's Lightsaber",
+        "text": "Blue character only.\n[special] - Give attached character 1 shield. Deal unblockable damage to a character equal to the number of shields on attached character."
+    },
+    {
+        "code": "05041",
+        "flavor": "\"Making my run now.\"",
+        "name": "Wedge Antilles",
+        "subtitle": "Squad Leader",
+        "text": "<b>Power Action</b> - Turn one of your <i>vehicle</i> dice to any side."
+    },
+    {
+        "code": "05043",
+        "name": "Resistance Bomber",
+        "text": "After this die is resolved, place 1 damage on this support.\nDiscard this support if it has 3 or more damage on it."
+    },
+    {
+        "code": "05046",
+        "flavor": "\"Hokey religions and ancient weapons are no match for a good blaster at your side, kid.\"",
+        "name": "Han Solo",
+        "subtitle": "Savvy Smuggler",
+        "text": "After you activate this character, you may reroll a die <em>(yours or an opponent's)</em>."
+    },
+    {
+        "code": "05092",
+        "flavor": "\"That was fun. Let's never do that again.\" <cite>Doctor Aphra</cite>",
+        "name": "Delve",
+        "text": "Deal 1 indirect damage ([indirect]) to yourself to play a support or upgrade from your hand for free."
+    },
+    {
+        "code": "05145",
+        "name": "Bubble Shield",
+        "text": "You may distribute indirect damage ([indirect]) to this support as if it were a character with 3 health.\nDiscard this support if it has 3 or more damage on it."
+    },
+    {
+        "code": "05168",
+        "name": "Espionage",
+        "text": "After setup, discard the top card from each deck."
+    },
+    {
+        "code": "05171",
+        "name": "Profitable Connection",
+        "text": "You start the game with 1 additional resource."
+    }
+]

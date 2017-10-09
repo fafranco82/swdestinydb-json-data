@@ -34,5 +34,14 @@
         "name": "Two-Player Game",
         "position": 4,
         "size": 46
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "LEG",
+        "date_release": null,
+        "name": "Legacies",
+        "position": 5,
+        "size": 174
     }
 ]

@@ -95,7 +95,7 @@
         },
         "sides": {
             "items": {
-                "pattern": "^[+]?(\\d+)?(MD|RD|F|Dr|Dc|Sh|R|Sp|-|X)(\\d+)?$",
+                "pattern": "^[+]?(\\d+)?(MD|RD|ID|F|Dr|Dc|Sh|R|Sp|-|X)(\\d+)?$",
                 "type": "string"
             },
             "maxItems": 6,
@@ -131,7 +131,8 @@
                 "character",
                 "upgrade",
                 "event",
-                "support"
+                "support",
+                "plot"
             ]
         }
     },

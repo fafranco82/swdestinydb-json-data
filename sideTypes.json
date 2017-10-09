@@ -43,5 +43,10 @@
         "code": "Sp",
         "icon": "special",
         "name": "Special"
+    },
+    {
+        "code": "ID",
+        "icon": "indirect",
+        "name": "Indirect Damage"
     }
 ]
