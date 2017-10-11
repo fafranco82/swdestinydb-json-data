@@ -23,6 +23,7 @@
             "-",
             "-"
         ],
+        "subtype_code": "trooper",
         "type_code": "character"
     },
     {
@@ -50,6 +51,7 @@
             "-"
         ],
         "subtitle": "Deadly Mercenary",
+        "subtype_code": "bounty-hunter",
         "text": "[special] - Deal damage to a character equal to the value showing on a die <em>(yours or an opponent's)</em>.",
         "type_code": "character"
     },
@@ -77,6 +79,7 @@
             "-"
         ],
         "subtitle": "Artifact Hunter",
+        "subtype_code": "scoundrel",
         "text": "The cost of the first <i>droid</i> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card.",
         "type_code": "character"
     },
@@ -159,6 +162,7 @@
             "-"
         ],
         "subtitle": "Jedi Master",
+        "subtype_code": "jedi",
         "text": "After you activate this character, you may give a character 1 shield.",
         "type_code": "character"
     },
@@ -213,6 +217,7 @@
             "-"
         ],
         "subtitle": "Squad Leader",
+        "subtype_code": "pilot",
         "text": "<b>Power Action</b> - Turn one of your <i>vehicle</i> dice to any side.",
         "type_code": "character"
     },
@@ -267,6 +272,7 @@
             "-"
         ],
         "subtitle": "Savvy Smuggler",
+        "subtype_code": "scoundrel",
         "text": "After you activate this character, you may reroll a die <em>(yours or an opponent's)</em>.",
         "type_code": "character"
     },

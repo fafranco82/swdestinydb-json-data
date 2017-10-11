@@ -2,11 +2,8 @@
     "additionalProperties": false,
     "properties": {
         "affiliation_code": {
-            "enum": [
-                "hero",
-                "neutral",
-                "villain"
-            ]
+            "minLength": 1,
+            "type": "string"
         },
         "code": {
             "pattern": "^[0-9]{5}$",
@@ -35,12 +32,8 @@
             ]
         },
         "faction_code": {
-            "enum": [
-                "red",
-                "blue",
-                "gray",
-                "yellow"
-            ]
+            "minLength": 1,
+            "type": "string"
         },
         "flavor": {
             "minLength": 1,
@@ -107,15 +100,8 @@
             "type": "string"
         },
         "subtype_code": {
-            "enum": [
-                "ability",
-                "artillery",
-                "droid",
-                "equipment",
-                "title",
-                "vehicle",
-                "weapon"
-            ]
+            "minLength": 1,
+            "type": "string"
         },
         "text": {
             "minLength": 1,
@@ -126,14 +112,8 @@
             "type": "string"
         },
         "type_code": {
-            "enum": [
-                "battlefield",
-                "character",
-                "upgrade",
-                "event",
-                "support",
-                "plot"
-            ]
+            "minLength": 1,
+            "type": "string"
         }
     },
     "required": [

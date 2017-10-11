@@ -1,22 +1,22 @@
 [
     {
         "code": "blue",
-        "name": "Force",
-        "is_primary": true
+        "is_primary": true,
+        "name": "Force"
     },
     {
         "code": "gray",
-        "name": "General",
-        "is_primary": false
+        "is_primary": false,
+        "name": "General"
     },
     {
         "code": "red",
-        "name": "Command",
-        "is_primary": true
+        "is_primary": true,
+        "name": "Command"
     },
     {
         "code": "yellow",
-        "name": "Rogue",
-        "is_primary": true
+        "is_primary": true,
+        "name": "Rogue"
     }
 ]

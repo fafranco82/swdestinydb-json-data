@@ -1,7 +1,7 @@
 [
     {
         "code": "ability",
-        "name": "Zdolno\u015b\u0107"
+        "name": "Zdolność"
     },
     {
         "code": "droid",
@@ -17,6 +17,6 @@
     },
     {
         "code": "weapon",
-        "name": "Bro\u0144"
+        "name": "Broń"
     }
 ]

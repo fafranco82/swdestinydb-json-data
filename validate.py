@@ -6,12 +6,254 @@ import jsonschema
 import os
 import sys
 
-SET_DIR="set"
-SCHEMA_DIR="schema"
-TRANS_DIR="translations"
+def pluralize(word):
+    if word[-1] == 'y':
+        return word[:-1]+'ies'
+    elif word[-1] == 's' or word[-2:]=='sh':
+        return word+'es'
+    else:
+        return word+'s'
 
-formatting_errors = 0
-validation_errors = 0
+class Logger:
+    def __init__(self, verbose, indent=0, prefix=None):
+        self.verbose = verbose
+        self.indent = indent
+        self.prefix = prefix or ""
+        self.togglePrefix = True
+
+    def verbose_print(self, text, minimum_verbosity=0):
+        if self.verbose >= minimum_verbosity:
+            if self.togglePrefix:
+                sys.stdout.write((" "*self.indent))
+                sys.stdout.write(self.prefix)
+            self.togglePrefix = False
+            sys.stdout.write(text)
+            if "\n" in text:
+                self.togglePrefix = True
+
+class ValidatorBase:
+    def __init__(self, base_path, logger, fix_formatting):
+        self.formatting_errors = 0
+        self.validation_errors = 0
+        self.logger = logger
+        self.fix_formatting = fix_formatting
+        self.collections = {}
+        self.base_path = base_path
+        self.data_path = base_path
+        self.schema_path = os.path.join(base_path, "schema")
+
+
+    def validate(self):
+        check_dir_access(self.data_path)
+        check_dir_access(self.schema_path)
+        self.logger.verbose_print("Validating data...\n", 0)
+
+        for thing in ['affiliation', 'faction', 'rarity', 'type', 'subtype', 'sideType', 'set']:
+            collection = self.load_collection(thing)
+            if collection:
+                self.load_collections(thing, collection)
+            else:
+                self.load_collections(thing, [])
+
+        self.load_sets_collection()
+
+    def show_results(self):
+        self.logger.verbose_print("Found %s formatting and %s validation errors\n" % (self.formatting_errors, self.validation_errors), 0)
+        if self.formatting_errors == 0 and self.validation_errors == 0:
+            sys.exit(0)
+        else:
+            sys.exit(1)
+
+    def load_collection(self, thing):
+        plural_thing = pluralize(thing)
+        self.logger.verbose_print("Loading collection of %s\n" % plural_thing, 1)
+
+        json_path = os.path.join(self.data_path, "%s.json" % plural_thing)
+        check_file_access(json_path)
+
+        things_data = self.load_json_file(json_path)
+
+        if not self.validate_collection(thing, things_data):
+            return None
+
+        return things_data
+
+    def load_sets_collection(self):
+        self.logger.verbose_print("Loading collection of cards\n", 1)
+
+        json_dir = os.path.join(self.data_path, "%s" % 'set')
+        check_dir_access(json_dir)
+
+        for setcode in [s.get('code') for s in sorted(self.collections['set'].values(), key=lambda s: s.get('position'))]:
+            self.logger.verbose_print("Loading cards from set '%s'...\n" % setcode, 1)
+            json_path = os.path.join(json_dir, "%s.json" % setcode)
+            check_file_access(json_path)
+            cards = self.load_json_file(json_path)
+
+            if self.validate_collection('card', cards):
+                self.load_collections('card', cards)
+
+
+    def load_collections(self, thing, collection):
+        if not thing in self.collections:
+            self.collections[thing] = {}
+
+        for item in collection:
+            #if not item.get("code") in self.collections[thing]:
+            #    self.collections[thing][item.get("code")] = []
+
+            #self.collections[thing][item.get("code")].append(item)
+            self.collections[thing][item.get("code")] = item
+
+    def validate_collection(self, thing, things_data):
+        plural_thing = pluralize(thing)
+        self.logger.verbose_print("Validating collection of %s\n" % plural_thing, 1)
+
+        schema_path = os.path.join(self.schema_path, "%s_schema.json" % thing)
+        check_file_access(schema_path)
+        schema_data = self.load_json_file(schema_path)
+
+        if not isinstance(things_data, list):
+            self.logger.verbose_print("Insides of %s collection file are not a list!\n", 0)
+            return False
+        if not schema_data:
+            return False
+        if not self.check_json_schema(schema_data, schema_path):
+            return False
+
+        retval = True
+        for thing_data in things_data:
+            retval = self.validate_schema(thing, thing_data, schema_data) and retval
+
+        return retval
+
+    def validate_schema(self, thing, thing_data, schema_data):
+        self.logger.verbose_print("Validating %s %s..." % (thing, thing_data.get("code")), 2)
+        try:
+            jsonschema.validate(thing_data, schema_data)
+            self.custom_check(thing, thing_data)
+            self.logger.verbose_print(" OK\n", 2)
+        except jsonschema.ValidationError as e:
+            self.logger.verbose_print("ERROR\n", 2)
+            self.logger.verbose_print("Validation error in %s: (code: '%s')\n" % (thing, thing_data.get("code")), 0)
+            self.validation_errors += 1
+            for line in str(e).split('\n'):
+                self.logger.verbose_print(" |    "+line+"\n", 0)
+            return False
+        return True
+
+    def custom_check(self, thing, thing_data):
+        custom_check_method = "custom_check_%s" % thing
+        if hasattr(self, custom_check_method) and callable(getattr(self, custom_check_method)):
+            getattr(self, custom_check_method)(thing_data)
+
+    def custom_check_card(self, card):
+        validations = []
+        #check foreing codes
+        for collection in ["affiliation", "faction", "rarity", "type", "subtype"]:
+            field = collection + "_code"
+            if field in card and not card.get(field) in self.collections[collection]:
+                validations.append("%s code '%s' does not exists in card '%s'" % (collection, card.get(field), card.get('code')))
+
+        #check reprint of
+        if 'reprint_of' in card and not card.get('reprint_of') in self.collections['card']:
+            validations.append("Reprinted card %s does not exists" % (card.get('reprint_of')))
+
+        if validations:
+            raise jsonschema.ValidationError("\n".join(["- %s" % v for v in validations]))
+
+
+    def load_json_file(self, path):
+        try:
+            with open(path, "rb") as data_file:
+                bin_data = data_file.read()
+            raw_data = bin_data.decode("utf-8")
+            json_data = json.loads(raw_data)
+        except ValueError as e:
+            self.logger.verbose_print("%s: File is not valid JSON.\n" % path, 0)
+            self.validation_errors += 1
+            print(e)
+            return None
+
+        self.logger.verbose_print("%s: Checking JSON formatting...\n" % path, 4)
+        formatted_raw_data = self.format_json(json_data)
+
+        if formatted_raw_data != raw_data:
+            self.logger.verbose_print("%s: File is not correctly formatted JSON.\n" % path, 0)
+            self.formatting_errors += 1
+            if self.fix_formatting and len(formatted_raw_data) > 0:
+                self.logger.verbose_print("%s: Fixing JSON formatting...\n" % path, 0)
+                try:
+                    with open(path, "wb") as json_file:
+                        bin_formatted_data = formatted_raw_data.encode("utf-8")
+                        json_file.write(bin_formatted_data)
+                except IOError as e:
+                    self.logger.verbose_print("%s: Cannot open file to write.\n" % path, 0)
+                    print(e)
+        return json_data
+
+    def format_json(self, json_data):
+        formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
+        formatted_data += "\n"
+        return formatted_data
+
+    def check_json_schema(self, data, path):
+        try:
+            jsonschema.Draft4Validator.check_schema(data)
+            return True
+        except jsonschema.exceptions.SchemaError as e:
+            self.logger.verbose_print("%s: Schema file is not valid Draft 4 JSON schema.\n" % path, 0)
+            self.validation_errors += 1
+            print(e)
+            return False    
+
+class Validator(ValidatorBase):
+    def __init__(self, base_path, logger, fix_formatting):
+        ValidatorBase.__init__(self, base_path, logger, fix_formatting)
+        self.i18n_path = os.path.join(base_path, "translations")
+
+    def validate(self):
+        ValidatorBase.validate(self)
+
+        self.validate_locales()
+
+    def validate_locales(self):
+        if os.path.exists(self.i18n_path):
+            self.logger.verbose_print("Validating I18N files...\n", 0)
+            check_dir_access(self.i18n_path)
+            locales_path = self.i18n_path
+            if os.path.exists(locales_path):
+                check_dir_access(locales_path)
+                for locale in [l for l in os.listdir(locales_path) if os.path.isdir(os.path.join(locales_path, l))]:
+                    self.logger.verbose_print("Validating I18N files for locale '%s'...\n" % locale, 1)
+                    i18nValidator = I18NValidator(self, locale, self.i18n_path, self.logger)
+                    i18nValidator.validate()
+                    self.formatting_errors += i18nValidator.formatting_errors
+                    self.validation_errors += i18nValidator.validation_errors
+
+class I18NValidator(ValidatorBase):
+    def __init__(self, parent, locale, base_path, logger):
+        ValidatorBase.__init__(self, base_path, Logger(logger.verbose, logger.indent+4, "[%s] " % locale), parent.fix_formatting)
+        self.parent = parent
+        self.locale = locale
+        self.data_path = os.path.join(base_path, locale)
+        self.schema_path = os.path.join(parent.schema_path, 'translations')
+
+    def custom_check(self, thing, thing_data):
+        if thing_data.has_key("code") and not self.parent.collections[thing].has_key(thing_data["code"]):
+            raise jsonschema.ValidationError("- %s code '%s' does not exists in '%s' %s translations" % (thing, thing_data["code"], self.locale, thing))
+
+
+def parse_commandline():
+    argparser = argparse.ArgumentParser(description="Validate JSON in the swdestinydb data repository.")
+    argparser.add_argument("-f", "--fix_formatting", default=False, action="store_true", help="write suggested formatting changes to files")
+    argparser.add_argument("-v", "--verbose", default=0, action="count", help="verbose mode")
+    argparser.add_argument("-b", "--base_path", default=os.getcwd(), help="root directory of JSON repo (default: current directory)")
+    args = argparser.parse_args()
+
+    check_dir_access(args.base_path)
+
+    return args
 
 def check_dir_access(path):
     if not os.path.isdir(path):
@@ -27,220 +269,14 @@ def check_file_access(path):
     elif os.access(path, os.R_OK):
         return
     else:
-        sys.exit("%s is not a readable file")
-
-def check_json_schema(args, data, path):
-    global validation_errors
-    try:
-        jsonschema.Draft4Validator.check_schema(data)
-        return True
-    except jsonschema.exceptions.SchemaError as e:
-        verbose_print(args, "%s: Schema file is not valid Draft 4 JSON schema.\n" % path, 0)
-        validation_errors += 1
-        print(e)
-        return False
-
-def custom_card_check(args, card, set_code, locale=None):
-    "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
-    if locale:
-        pass #no checks by the moment
-    else:
-        if card["set_code"] != set_code:
-            raise jsonschema.ValidationError("Pack code '%s' of the card '%s' doesn't match the set code '%s' of the file it appears in." % (card["set_code"], card["code"], set_code))
-
-def custom_set_check(args, set, locale=None, en_sets=None):
-    if locale:
-        if set["code"] not in [p["code"] for p in en_sets]:
-            raise jsonschema.ValidationError("Pack code '%s' in translation file for '%s' locale does not exists in original locale." % (set["code"], locale))
-    else:
-        pass #no checks by the moment
-
-def format_json(json_data):
-    formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
-    formatted_data += "\n"
-    return formatted_data
-
-def load_json_file(args, path):
-    global formatting_errors
-    global validation_errors
-    try:
-        with open(path, "rb") as data_file:
-            bin_data = data_file.read()
-        raw_data = bin_data.decode("utf-8")
-        json_data = json.loads(raw_data)
-    except ValueError as e:
-        verbose_print(args, "%s: File is not valid JSON.\n" % path, 0)
-        validation_errors += 1
-        print(e)
-        return None
-
-    verbose_print(args, "%s: Checking JSON formatting...\n" % path, 1)
-    formatted_raw_data = format_json(json_data)
-
-    if formatted_raw_data != raw_data:
-        verbose_print(args, "%s: File is not correctly formatted JSON.\n" % path, 0)
-        formatting_errors += 1
-        if args.fix_formatting and len(formatted_raw_data) > 0:
-            verbose_print(args, "%s: Fixing JSON formatting...\n" % path, 0)
-            try:
-                with open(path, "wb") as json_file:
-                    bin_formatted_data = formatted_raw_data.encode("utf-8")
-                    json_file.write(bin_formatted_data)
-            except IOError as e:
-                verbose_print(args, "%s: Cannot open file to write.\n" % path, 0)
-                print(e)
-    return json_data
-
-def load_set_index(args, locale=None, en_sets=None):
-    verbose_print(args, "Loading set index file...\n", 1)
-    sets_base_path = locale and os.path.join(args.trans_path, locale) or args.base_path
-    sets_path = os.path.join(sets_base_path, "sets.json")
-    sets_data = load_json_file(args, sets_path)
-
-    if not validate_sets(args, sets_data, locale, en_sets):
-        return None
-
-    for p in sets_data:
-        set_filename = "{}.json".format(p["code"])
-        sets_dir = locale and os.path.join(args.trans_path, locale, SET_DIR) or args.set_path
-        set_path = os.path.join(sets_dir, set_filename)
-        check_file_access(set_path)
-
-    return sets_data
-
-def parse_commandline():
-    argparser = argparse.ArgumentParser(description="Validate JSON in the netrunner cards repository.")
-    argparser.add_argument("-f", "--fix_formatting", default=False, action="store_true", help="write suggested formatting changes to files")
-    argparser.add_argument("-v", "--verbose", default=0, action="count", help="verbose mode")
-    argparser.add_argument("-b", "--base_path", default=os.getcwd(), help="root directory of JSON repo (default: current directory)")
-    argparser.add_argument("-p", "--set_path", default=None, help=("set directory of JSON repo (default: BASE_PATH/%s/)" % SET_DIR))
-    argparser.add_argument("-c", "--schema_path", default=None, help=("schema directory of JSON repo (default: BASE_PATH/%s/" % SCHEMA_DIR))
-    argparser.add_argument("-t", "--trans_path", default=None, help=("translations directory of JSON repo (default: BASE_PATH/%s/)" % TRANS_DIR))
-    args = argparser.parse_args()
-
-    # Set all the necessary paths and check if they exist
-    if getattr(args, "schema_path", None) is None:
-        setattr(args, "schema_path", os.path.join(args.base_path,SCHEMA_DIR))
-    if getattr(args, "set_path", None) is None:
-        setattr(args, "set_path", os.path.join(args.base_path,SET_DIR))
-    if getattr(args, "trans_path", None) is None:
-        setattr(args, "trans_path", os.path.join(args.base_path,TRANS_DIR))
-    check_dir_access(args.base_path)
-    check_dir_access(args.schema_path)
-    check_dir_access(args.set_path)
-
-    return args
-
-def validate_card(args, card, card_schema, set_code, locale=None):
-    global validation_errors
-
-    try:
-        verbose_print(args, "Validating card %s... " % (locale and ("%s-%s" % (card["code"], locale)) or card["name"]), 2)
-        jsonschema.validate(card, card_schema)
-        custom_card_check(args, card, set_code, locale)
-        verbose_print(args, "OK\n", 2)
-    except jsonschema.ValidationError as e:
-        verbose_print(args, "ERROR\n",2)
-        verbose_print(args, "Validation error in card: (set code: '%s' card code: '%s' name: '%s')\n" % (set_code, card.get("code"), card.get("name")), 0)
-        validation_errors += 1
-        print(e)
-
-def validate_cards(args, sets_data, locale=None):
-    global validation_errors
-
-    card_schema_path = os.path.join(args.schema_path, locale and "card_schema_trans.json" or "card_schema.json")
-
-    CARD_SCHEMA = load_json_file(args, card_schema_path)
-    if not CARD_SCHEMA:
-        return
-    if not check_json_schema(args, CARD_SCHEMA, card_schema_path):
-        return
-
-    for p in sets_data:
-        verbose_print(args, "Validating cards from %s...\n" % (locale and "%s-%s" % (p["code"], locale) or p["name"]), 1)
-
-        set_base_path = locale and os.path.join(args.trans_path, locale, SET_DIR) or args.set_path
-        set_path = os.path.join(set_base_path, "{}.json".format(p["code"]))
-        set_data = load_json_file(args, set_path)
-        if not set_data:
-            continue
-
-        for card in set_data:
-            validate_card(args, card, CARD_SCHEMA, p["code"], locale)
-
-def validate_sets(args, sets_data, locale=None, en_sets=None):
-    global validation_errors
-
-    verbose_print(args, "Validating set index file...\n", 1)
-    set_schema_path = os.path.join(args.schema_path, locale and "set_schema_trans.json" or "set_schema.json")
-    SET_SCHEMA = load_json_file(args, set_schema_path)
-    if not isinstance(sets_data, list):
-        verbose_print(args, "Insides of set index file are not a list!\n", 0)
-        return False
-    if not SET_SCHEMA:
-        return False
-    if not check_json_schema(args, SET_SCHEMA, set_schema_path):
-        return False
-
-    retval = True
-    for p in sets_data:
-        try:
-            verbose_print(args, "Validating set %s... " % p.get("name"), 2)
-            jsonschema.validate(p, SET_SCHEMA)
-            custom_set_check(args, p, locale, en_sets)
-            verbose_print(args, "OK\n", 2)
-        except jsonschema.ValidationError as e:
-            verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in set: (code: '%s' name: '%s')\n" % (p.get("code").encode('utf-8'), p.get("name").encode('utf-8')), 0)
-            validation_errors += 1
-            print(e)
-            retval = False
-
-    return retval
-
-def validate_locales(args, en_sets):
-    verbose_print(args, "Validating I18N files...\n", 1)
-    if os.path.exists(args.trans_path):
-        check_dir_access(args.trans_path)
-        for locale in [l for l in os.listdir(args.trans_path) if os.path.isdir(os.path.join(args.trans_path, l))]:
-            verbose_print(args, "Validating I18N files for locale '%s'...\n" % locale, 1)
-
-            sets = load_set_index(args, locale, en_sets)
-
-            if sets:
-                validate_cards(args, sets, locale)
-            else:
-                verbose_print(args, "Couldn't open sets file correctly, skipping card validation...\n", 0)
+        sys.exit("%s is not a readable file")    
 
 
-def verbose_print(args, text, minimum_verbosity=0):
-    if args.verbose >= minimum_verbosity:
-        sys.stdout.write(text)
-
-def main():
-    # Initialize global counters for encountered validation errors
-    global formatting_errors
-    global validation_errors
-    formatting_errors = 0
-    validation_errors = 0
-
-    args = parse_commandline()
-
-
-    sets = load_set_index(args)
-
-    if sets:
-        validate_cards(args, sets)
-    else:
-        verbose_print(args, "Couldn't open sets file correctly, skipping card validation...\n", 0)
-
-    validate_locales(args, sets)
-
-    sys.stdout.write("Found %s formatting and %s validation errors\n" % (formatting_errors, validation_errors))
-    if formatting_errors == 0 and validation_errors == 0:
-        sys.exit(0)
-    else:
-        sys.exit(1)
 
 if __name__ == "__main__":
-    main()
+    args = parse_commandline()    
+    logger = Logger(args.verbose)
+    validator = Validator(args.base_path, logger, args.fix_formatting)
+    validator.validate()
+
+    validator.show_results()

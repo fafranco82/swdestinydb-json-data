@@ -5,8 +5,9 @@
             "minLength": 1,
             "type": "string"
         },
-        "is_primary": {
-            "type": "boolean"
+        "icon": {
+            "minLength": 1,
+            "type": "string"
         },
         "name": {
             "minLength": 1,
@@ -15,7 +16,7 @@
     },
     "required": [
         "code",
-        "is_primary",
+        "icon",
         "name"
     ],
     "type": "object"

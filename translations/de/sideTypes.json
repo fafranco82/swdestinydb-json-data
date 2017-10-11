@@ -1,47 +1,38 @@
 [
     {
         "code": "-",
-        "icon": "blank",
         "name": "Leerseite"
     },
     {
         "code": "Dc",
-        "icon": "discard",
         "name": "Ablegen"
     },
     {
         "code": "Dr",
-        "icon": "disrupt",
         "name": "Störung"
     },
     {
         "code": "F",
-        "icon": "focus",
         "name": "Fokussieren"
     },
     {
         "code": "MD",
-        "icon": "melee",
         "name": "Nahkampfschaden"
     },
     {
         "code": "R",
-        "icon": "resource",
         "name": "Ressourcen"
     },
     {
         "code": "RD",
-        "icon": "ranged",
         "name": "Fernkampfschaden"
     },
     {
         "code": "Sh",
-        "icon": "shield",
         "name": "Schild"
     },
     {
         "code": "Sp",
-        "icon": "special",
         "name": "Spezialfähigkeit"
     }
 ]
