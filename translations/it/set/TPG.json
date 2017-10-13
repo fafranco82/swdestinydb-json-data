@@ -43,7 +43,7 @@
         {
         "code": "04008",
         "name": "Stasi di Forza",
-        "text": "Solo personaggli blu."\n[special] - Rimuovi un dado \"danno a distanza\" ([ranged]). Poi infliggi 1 danno a un personaggio.
+        "text": "Solo personaggli blu.\n[special] - Rimuovi un dado \"danno a distanza\" ([ranged]). Poi infliggi 1 danno a un personaggio."
     },
             {
         "code": "04009",
@@ -164,10 +164,83 @@
     },
             {
         "code": "04030",
-        "flavor": "",
-        "name": "",
-        "subtitle": "",
-        "text": ""
+        "name": "Spada Laser di Rey",
+        "text": "Riposizionamento. <em>(Dopo che il personaggio è stato sconfitto, sposta questa carta.)</em>\nDopo che hai giocato questa miglioria fornisci 1 scudo al personaggio con questa miglioria (2 scudi se il personaggio con questa miglioria è Rey)."
+    },
+                {
+        "code": "04031",
+        "name": "Forza Interiore",
+        "text": "[special] - Sposta 1 danno dal personaggio con questa miglioria a un personaggio privo di scudi di un avversario."
+    },
+                    {
+        "code": "04032",
+        "flavor": "Se Skywalker tornasse, allora i Jedi risorgerebbero. <cite>Snoke</cite>",             
+        "name": "Protezione di Luke",
+        "text": "<b>Azione<b> - Colloca questo supporto dal gioc in cima al tuo mazzo per fornire 1 scudo a un personaggio blu."
+    },
+                    {
+        "code": "04033",
+        "name": "Guardia d'Onore",
+        "text": "<b>Azione<b> - Scarta questo supporto dal gioco per rimuovere 1 dado \"danno\" ([ranged] o [melee])."
+    },
+                    {
+        "code": "04034",
+        "name": "Colpito In Pieno",
+        "text": "Risolvi 1 tuo dado \"danno\" ([ranged] o [melee]) aumentando di 2 il suo valore."
+    },
+                    {
+        "code": "04035",
+        "name": "Logistica",
+        "text": "Avvista un personaggio rosso per risolvere 1 tuo dado \"risorsa\" ([resource]), aumentando di 1 il suo valore."
+    },
+                    {
+        "code": "04036",
+        "name": "Ricognizione",
+        "text": "Scegli un simbolo mostrato su un dado, poi gira 1 altro dado su una faccia con quel simbolo."
+    },
+                    {
+        "code": "04037",
+        "name": "Pianificazione Strategica",
+        "text": "Ripristina oppure esaurisci un supporto."
+    },
+                    {
+        "code": "04038",
+        "flavor": "\"Grazie alla Forza altre cose vedrai.\" <cite>Yoda</cite>",             
+        "name": "Raccoglimento",
+        "text": "Gira 1 dado su una faccia a tua scelta. Puoi spendere 1 risorsa per girare 1 altro dado su una faccia a tua scelta."
+    },
+    {
+        "code": "04039",
+        "name": "Posizione Difensiva",
+        "text": "Fornisci 2 scudi a un personaggio."
+    },
+    {
+        "code": "04040",
+        "flavor": "\"Forse è un'altra esercitazione.\" <cite>Assaltatore</cite>",             
+        "name": "Distrazione",
+        "text": "Scegli 2 dadi. poi un avversario sceglie e rimuove 1 di quei dadi."
+    },
+    {
+        "code": "04041",
+        "flavor": "\"Non c'è provare.\" <cite>Yoda</cite>",             
+        "name": "Fare O Non Fare",
+        "text": "Ripeti il tiro di 1 tuo dado. Poi puoi risolverlo aumentando di 1 il suo valore. Se non lo fai rimuovi quel dado."
+    },
+    {
+        "code": "04042",
+        "flavor": "\"Non passerò mai al Lato Oscuro.\" <cite>Luke Skywalker</cite>",             
+        "name": "Determinazione Incrollabile",
+        "text": "Ripeti il tiro di 1 tuo dado. poi infliggi un ammontare di danni pari al valore di quel dado a un personaggio."
+    },
+     {
+        "code": "04043",
+        "name": "Elusione",
+        "text": "Rimuovi 1 dado \"danno a distanza\" ([ranged])."
+    },
+                    {
+        "code": "04044",
+        "name": "Attacco ai Fianchi",
+        "text": "Gioca queta carta solo se hai più personaggi pronti di un avversario.\n Rimuovi 1 dado di quell'avversario."
     },
                 {
         "code": "04045",
@@ -181,4 +254,4 @@
         "text": "<b>Rivendicazione</b> - Fornisci 1 scudo a un personaggio blu oppure spendi 1 risorsa per fornire 1 scudo a un personaggio non blu."
     }
     
-    ]
+]
