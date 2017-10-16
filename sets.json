@@ -43,5 +43,14 @@
         "name": "Legacies",
         "position": 5,
         "size": 174
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "RIV",
+        "date_release": null,
+        "name": "Rivals",
+        "position": 6,
+        "size": 20
     }
 ]
