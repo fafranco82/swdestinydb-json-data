@@ -543,18 +543,18 @@
     },
     {
         "code": "02103",
-        "name": "Guard",
-        "text": "Remove one of your Blue dice showing melee damage ([melee]) to remove a number of an opponent's dice equal to the value of the die you just removed."
+        "name": "Schutz",
+        "text": "Entferne 1 deiner blauen Würfel, der Nahkampfschaden ([melee]) zeigt, um eine Anzahl Würfel eines Gegners zu entfernen, die dem Wert des gerade entfernten Würfels entspricht."
     },
     {
         "code": "02104",
-        "name": "Krayt Dragon Howl",
-        "text": "Spot a Blue character to choose an opponent's die. That opponent chooses to either remove that die or discard the top 2 cards of their deck."
+        "name": "Krayt-Drachenschrei",
+        "text": "Sichte einen blauen Charakter, um einen Würfel eines Gegners zu wählen. Dieser Gegner wählt dann zwischen folgenden Optionen: Entweder er entfernt den gewählten Würfel oder er legt die obersten 2 Karten seines Decks ab."
     },
     {
         "code": "02105",
-        "name": "My Ally Is The Force",
-        "text": "Ambush.\nResolve one of your Blue dice without removing it from your pool."
+        "name": "Die Macht ist mein Verbündeter",
+        "text": "Hinterhalt.\nHandle 1 deiner blauen Würfel ab, ohne ihn aus deinem Pool zu entfernen."
     },
     {
         "code": "02106",
@@ -563,8 +563,8 @@
     },
     {
         "code": "02107",
-        "name": "Your Eyes Can Deceive You",
-        "text": "After one of your dice rolls a shield ([shield]), you may exhaust this support to turn an opponent's die to any side."
+        "name": "Deine Augen können dich täuschen",
+        "text": "Nachdem 1 deiner Würfel Schilde ([shield]) geworfen hat, darfst du diese Unterstützung erschöpfen, um einen gegnerischen Würfel auf eine beliebige Seite zu drehen."
     },
     {
         "code": "02108",
@@ -598,8 +598,8 @@
     },
     {
         "code": "02114",
-        "name": "Loth-Cat and Mouse",
-        "text": "Force an opponent to choose and remove one of your dice. Then remove one of their dice."
+        "name": "Loth-Katz und Maus",
+        "text": "Zwinge einen Gegner dazu, 1 deiner Würfel zu wählen und zu entfernen. Entferne dann 1 seiner Würfel."
     },
     {
         "code": "02115",
@@ -613,23 +613,23 @@
     },
     {
         "code": "02117",
-        "name": "Double-Dealing",
-        "text": "After one of your dice rolls a special ([special]), you may exhaust this support to gain 1 resource."
+        "name": "Doppeltes Spiel",
+        "text": "Nachdem 1 deiner Würfel Spezialfähigkeit ([special]) geworfen hat, darfst du diese Unterstützung erschöpfen um 1 Ressource zu erhalten."
     },
     {
         "code": "02118",
-        "name": "Life Debt",
-        "text": "Yellow character only.\nAfter you activate this character, you may move 1 damage from another character to this character <em>(this ignores shields)</em>."
+        "name": "Lebensschuld",
+        "text": "Nur gelbe Charaktere.\nNachdem du diesen Charakter aktiviert hast, darfst du 1 Schaden von einem anderen Charakter auf diesen Charakter verschieben<em>(Schilde werden ignoriert)</em>."
     },
     {
         "code": "02119",
-        "name": "Bombing Run",
-        "text": "Resolve one of your Red dice showing a disrupt ([disrupt]). Then deal 1 damage to each of an opponent's characters."
+        "name": "Bombenabwurf",
+        "text": "Handle 1 deiner roten Würfel ab, der Störung ([disrupt]) zeigt. Füge dann jedem Charakter eines Gegners 1 Schaden zu."
     },
     {
         "code": "02120",
-        "name": "Collateral Damage",
-        "text": "Resolve one or more of your dice showing either melee damage ([melee]) or ranged damage ([ranged]). Then force an opponent to lose 1 resource."
+        "name": "Kollateralschaden",
+        "text": "Handle 1 oder mehrere deiner Würfel ab die entweder Nahkampfschaden ([melee]) oder Fernkampfschaden ([ranged]) zeigen. Zwinge dann einen Genger dazu, 1 Ressource zu verlieren."
     },
     {
         "code": "02121",
@@ -638,23 +638,23 @@
     },
     {
         "code": "02122",
-        "name": "Suppression",
-        "text": "Remove one of your Red dice showing ranged damage ([ranged]). Then remove an opponent's die."
+        "name": "Niederhalten",
+        "text": "Entferne 1 deiner roten Würfel, der Fernkampfschaden ([ranged]) zeigt. Entferne dann einen gegnerischen Würfel."
     },
     {
         "code": "02123",
-        "name": "Aftermath",
-        "text": "After a character is defeated, gain 1 resource."
+        "name": "Nachspiel",
+        "text": "Nachdem ein Charakter besiegt worden ist, erhälst du 1 Ressource."
     },
     {
         "code": "02124",
-        "name": "Air Superiority",
-        "text": "After you play this support, place 3 shields on it.\n<b>Action</b> - Exhaust this support to move 1 shield from it to a character."
+        "name": "Luftüberlegenheit",
+        "text": "Nachdem du diese Unterstützung gespielt hast, lege 3 Schilde auf sie.\n<b>Aktion</b> - Erschöpfe diese Unterstützung, um 1 Schild von ihr auf einen Charakter zu verschieben."
     },
     {
         "code": "02125",
         "name": "Training",
-        "text": "Non-unique Red character only.\nAttached character is elite (<em>place a second copy of its die on its card</em>)."
+        "text": "Nur nicht-einzigartige, rote Charaktere.\nDer aufgewertete Charakter ist Elite (<em>lege einen zweite Kopie seines Würfels auf seine Karte</em>)."
     },
     {
         "code": "02126",
@@ -663,8 +663,8 @@
     },
     {
         "code": "02127",
-        "name": "Decisive Blow",
-        "text": "Resolve one of your dice showing melee damage ([melee]). Then remove all character and upgrade dice of the character you just dealt damage to."
+        "name": "Entscheidener Schlag",
+        "text": "Handle 1 deiner Würfel ab, der Nahkampfschaden ([melee]) zeigt. Entferne dann alle Charakter- und Aufwertungswürfel des Charakters, dem du gerade Schaden zugefügt hast."
     },
     {
         "code": "02128",
@@ -673,18 +673,18 @@
     },
     {
         "code": "02129",
-        "name": "Momentum Shift",
-        "text": "Move 1 shield from an opponent's character to one of your characters."
+        "name": "Dynamikwechsel",
+        "text": "Verschiebe 1 Schild von einem gegnerischen Charakter auf 1 deiner Charaktere."
     },
     {
         "code": "02130",
-        "name": "Overconfidence",
-        "text": "Spot a Blue character to reroll 2 dice. Then remove one of those dice with the lowest value (<em>you choose in the case of a tie</em>)."
+        "name": "Überheblichkeit",
+        "text": "Sichte einen blauen Charakter, um 2 Würfel neu zu werfen. Entferne dann 1 dieser Würfel mit dem niedrigeren Wert (<em>bei Gleichstand wählst du einen aus</em>)."
     },
     {
         "code": "02131",
-        "name": "Premonitions",
-        "text": "Choose one: set this card aside and stack a card from your hand on it facedown, or play the card stacked on another copy of this card for free and discard the set aside copy."
+        "name": "Vorahnungen",
+        "text": "Wähle 1 der folgenden Optionen: Lege diese Karte beiseite und staple eine Karte von deiner Hand verdeckt darauf oder spiele die Karte, die auf einer anderen Kopie dieser Karte gestapelt liegt kostenlos und lege die beiseitegelegte Kopie ab."
     },
     {
         "code": "02132",
@@ -693,18 +693,18 @@
     },
     {
         "code": "02133",
-        "name": "Trust Your Instincts",
-        "text": "Spot a Blue character to reroll any number of its character and upgrade dice. Then you may draw a card."
+        "name": "Vertraue deinen Instinkten",
+        "text": "Sichte einen blauen Charakter, um beliebig viele seiner Charakter- und Aufwertungswürfel neu zu werfen. Dann darfst du eine Karte ziehen."
     },
     {
         "code": "02134",
-        "name": "Meditate",
-        "text": "<b>Action</b> - Exhaust this support and remove one of your dice showing a blank ([blank]) to turn one of your dice to a side not showing damage ([ranged] or [melee])."
+        "name": "Meditieren",
+        "text": "<b>Aktion</b> - Erschöpfe diese Unterstützung und entferne 1 deiner Würfel, der eine Leerseite ([blank]) zeigt, um 1 deiner Würfel auf eine Seite zu drehen, die keinen Schaden ([ranged] oder [melee]) zeigt."
     },
     {
         "code": "02135",
-        "name": "Force Illusion",
-        "text": "Before attached character takes damage, you may discard cards from the top of your deck equal to that damage to block it. Then discard this upgrade from play."
+        "name": "Machtillusion",
+        "text": "Bevor der aufgewertete Charakter Schaden erleidet, darfst du eine Anzahl Karten in Höhe des Schadens oben von deinem Deck ablegen, um den Schaden zu blocken. Lege dann diese Aufwertung aus dem Spiel ab."
     },
     {
         "code": "02136",
@@ -743,8 +743,8 @@
     },
     {
         "code": "02143",
-        "name": "Cheat",
-        "text": "Switch a card in your hand with a card in your discard pile."
+        "name": "Falschspiel",
+        "text": "Tausche eine Karte von deiner Hand mit einer Karte aus deinem Ablagestapel."
     },
     {
         "code": "02144",
@@ -758,8 +758,8 @@
     },
     {
         "code": "02146",
-        "name": "Friends in Low Places",
-        "text": "Spot a Yellow character to look at an opponent's hand and discard an event from it that costs 1 or less."
+        "name": "Zwielichtige Kontakte",
+        "text": "Sichte einen gelben Charakter, um dir die Handkarten eines Gegners anzusehen und ein Ereignis davon abzulegen, das 1 oder weniger kostet."
     },
     {
         "code": "02147",
@@ -773,13 +773,13 @@
     },
     {
         "code": "02149",
-        "name": "Outmaneuver",
-        "text": "After you claim the battlefield, gain 1 resource."
+        "name": "Ausmanövieren",
+        "text": "Nachdem du das Schlachtfeld beansprucht hast, erhälst du 1 Ressource."
     },
     {
         "code": "02150",
-        "name": "Fast Hands",
-        "text": "After you activate attached character, you may resolve one of its character or upgrade dice."
+        "name": "Schnelle Hände",
+        "text": "Nachdem du den aufgewerteten Charakter aktiviert hast, darfst du 1 seiner Charakter- oder Aufwertungswürfel abhandeln."
     },
     {
         "code": "02151",
@@ -809,7 +809,7 @@
         "code": "02155",
         "name": "Maz's Castle",
         "subtitle": "Takodana",
-        "text": "<b>Claim</b> - Draw 2 cards. Place any number of cards from your hand on the bottom of your deck (<em>in any order</em>)."
+        "text": "<b>Beanspruchen</b> - Ziehe 2 Karten. Lege beliebig viele Karten von deiner Hand unter dein Deck (<em>in beliebiger Reihenfolge</em>)."
     },
     {
         "code": "02156",
@@ -831,9 +831,9 @@
     },
     {
         "code": "02159",
-        "name": "Secret Facility",
+        "name": "Geheime Einrichtung",
         "subtitle": "Scarif",
-        "text": "<b>Claim</b> - Resolve up to 3 of your dice showing damage ([ranged] or [melee])."
+        "text": "<b>Beanspruchen</b> - Handle bis zu 3 deiner Würfel ab, die Schaden ([ranged] oder [melee]) zeigen."
     },
     {
         "code": "02160",
