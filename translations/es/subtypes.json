@@ -8,6 +8,10 @@
         "name": "Artillería"
     },
     {
+        "code": "bounty-hunter",
+        "name": "Cazarrecompensas"
+    },
+    {
         "code": "droid",
         "name": "Droide"
     },
@@ -16,8 +20,28 @@
         "name": "Equipo"
     },
     {
+        "code": "jawa",
+        "name": "Jawa"
+    },
+    {
+        "code": "jedi",
+        "name": "Jedi"
+    },
+    {
+        "code": "pilot",
+        "name": "Piloto"
+    },
+    {
+        "code": "scoundrel",
+        "name": "Granuja"
+    },
+    {
         "code": "title",
         "name": "Título"
+    },
+    {
+        "code": "trooper",
+        "name": "Soldado"
     },
     {
         "code": "vehicle",

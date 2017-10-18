@@ -20,6 +20,10 @@
         "name": "Equipment"
     },
     {
+        "code": "jawa",
+        "name": "Jawa"
+    },
+    {
         "code": "jedi",
         "name": "Jedi"
     },

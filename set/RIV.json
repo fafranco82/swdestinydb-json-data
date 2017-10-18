@@ -79,6 +79,7 @@
             "-"
         ],
         "subtitle": "Black Sun Operative",
+        "subtype_code": "bounty-hunter",
         "text": "Before one of your characters is defeated, you may move a <i>weapon</i> from them to this character.",
         "type_code": "character"
     },
@@ -106,6 +107,7 @@
             "-",
             "-"
         ],
+        "subtype_code": "jawa",
         "text": "After you activate this character, you may discard one of your supports or upgrades that costs 2 or more from play to gain 1 resource.",
         "type_code": "character"
     },

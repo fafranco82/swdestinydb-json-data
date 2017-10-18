@@ -1,0 +1,33 @@
+[
+    {
+        "code": "06001",
+        "name": "Anakin Skywalker",
+        "subtitle": "Aprendiz turbado",
+        "text": "No puedes tener a Darth Vader en tu equipo.\n[special] - Descarta una carta de héroe de tu mano para entregar 2 escudos a un Personaje, o descarta una carta de villano de tu mano para infligir 2 puntos de daño a un Personaje."
+    },
+    {
+        "code": "06002",
+        "flavor": "\"Mis decisiones son responsabilidad mía.\"",
+        "name": "Lobot",
+        "subtitle": "Ayudante cíborg",
+        "text": "Mientras controles el campo de batalla, este Personaje posee la palabra clave Guardián.\n[special] - Resuelve uno de tus dados, incrementando en 2 su valor de resultado."
+    },
+    {
+        "code": "06003",
+        "flavor": "\"¿Amiga? Un término muy genereso teniendo en cuenta lo que pasó.\"",
+        "name": "Ketsu Onyo",
+        "subtitle": "Agente del Sol Negro",
+        "text": "Antes de que uno de tus Personajes sea derrotado, puedes transferir un <i>arma</i> de ese Personaje a éste."
+    },
+    {
+        "code": "06004",
+        "flavor": "\"No soporto a estos jawas. ¡Son criaturas desagradables!\" <cite>C-3PO</cite>",
+        "name": "Carroñero jawa",
+        "text": "Después de que actives este Personaje, puedes descartar del juego de uno de tus Apoyos o Mejoras que tenga un coste igual o superior a 2 para recibir 1 recurso."
+    },
+    {
+        "code": "06013",
+        "name": "Ingenioso",
+        "text": "Señala un Personaje de color Gris y retira uno de tus dados para recibir 1 recurso."
+    }
+]
