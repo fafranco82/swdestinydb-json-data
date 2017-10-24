@@ -38,7 +38,7 @@
         "illustrator": "Audrey Hotte",
         "is_unique": true,
         "name": "FN-2199",
-        "points": "10/13",
+        "points": "12/15",
         "position": 2,
         "rarity_code": "R",
         "set_code": "SoR",
@@ -561,7 +561,7 @@
         "illustrator": "Sam Lamont",
         "is_unique": true,
         "name": "Unkar Plutt",
-        "points": "10/13",
+        "points": "12/15",
         "position": 21,
         "rarity_code": "R",
         "set_code": "SoR",
@@ -1556,7 +1556,7 @@
             "-"
         ],
         "subtype_code": "weapon",
-        "text": "Ambush.\nWhile this die is in your pool, melee damage ([melee]) dealt by your dice (<em>including this die</em>) is unblockable.",
+        "text": "Ambush.\nDamage dealt by this die or by dice it modifies is unblockable.",
         "ttscardid": "2256",
         "type_code": "upgrade"
     },
@@ -1816,7 +1816,7 @@
         "position": 70,
         "rarity_code": "U",
         "set_code": "SoR",
-        "text": "After one of your dice rolls a disrupt ([disrupt]), you may exhaust this support to return an upgrade in play that costs 2 or less to its owner's hand.",
+        "text": "After one of your dice rolls a disrupt ([disrupt]), you may set this support aside to return an upgrade in play that costs 2 or less to its owner's hand.",
         "ttscardid": "2269",
         "type_code": "support"
     },
