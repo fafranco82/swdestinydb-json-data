@@ -2790,7 +2790,7 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
-        "has_errata": false,
+        "has_errata": true,
         "is_unique": false,
         "name": "Heat Of Battle",
         "position": 123,

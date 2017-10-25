@@ -34,7 +34,7 @@
         "faction_code": "red",
         "flavor": "\"You can't be so stupid as to think this will be easy.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Leonid Kozienko",
         "is_unique": true,
