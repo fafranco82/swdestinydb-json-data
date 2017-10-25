@@ -781,7 +781,7 @@
         "illustrator": "Tony Foti",
         "is_unique": true,
         "name": "Poe Dameron",
-        "points": "14/18",
+        "points": "16/20",
         "position": 29,
         "rarity_code": "L",
         "set_code": "AW",
@@ -2543,7 +2543,7 @@
         "position": 107,
         "rarity_code": "U",
         "set_code": "AW",
-        "text": "Ambush.\nChoose a symbol showing on an opponent's die. Then turn any number of your Red dice to sides showing that symbol.",
+        "text": "Choose a symbol showing on an opponent's die. Then turn up to 2 of your Red dice to sides showing that symbol.",
         "ttscardid": "1436",
         "type_code": "event"
     },

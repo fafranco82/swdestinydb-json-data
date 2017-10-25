@@ -2796,7 +2796,7 @@
         "position": 123,
         "rarity_code": "C",
         "set_code": "EaW",
-        "text": "Choose an opponent. That opponent turns any number of their dice to sides showing damage ([ranged] or [melee]). Turn any number of your dice to sides showing damage ([ranged] or [melee]).",
+        "text": "Choose an opponent. That opponent turns up to 2 of their dice to sides showing damage ([ranged] or [melee]). Turn up to 2 of your dice to sides showing damage ([ranged] or [melee]).",
         "ttscardid": "2652",
         "type_code": "event"
     },
