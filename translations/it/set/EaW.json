@@ -1,5 +1,12 @@
 [
     {
+        "code": "03000",
+        "flavor": "",
+        "name": "",
+        "subtitle": "",
+        "text": ""
+    },
+    {
         "code": "03004",
         "flavor": "\"Studio l'arte della guerra.\"",
         "name": "Thrawn",
@@ -7,7 +14,20 @@
         "text": "Dopo che hai attivato questo personaggio, puoi scegliere un numero. Poi guarda la mano di un avversario e scarta da essa una carta con costo pari al numero scelto.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
-        "code": "03026,
+        "code": "03020",
+        "flavor": "La nave di Bossk era un mercantile leggero YV-666 modificato per soddisfare le necessità del cacciatore di taglie.",
+        "name": "Hound's Tooth",
+        "text": "Dopo che hai attivato questo supporto, puoirimuovere 1 tuo dado giallo per ottenere 1 risorsa."
+    },
+                            {
+        "code": "03000",
+        "flavor": "",
+        "name": "",
+        "subtitle": "",
+        "text": ""
+    },
+    {
+        "code": "03026",
         "flavor": "\"Perchè lei può avere un blaster ed io no?\"",
         "name": "K-2S0",
         "subtitle": "Droide Riprogrammmato",
@@ -39,6 +59,29 @@
         "name": "Cannone Sonico LR1K",
         "text": "Prima di risolvere questo dado, puoi esaurire un tuo personaggio. Se lo fai, non devi pagare il costo in risorse su questo dado.\n<em>(Traduzione non ufficiale)</em>"
     },
+        {
+        "code": "03056",
+        "flavor": "Lo Z-95 Headhunter, sviluppato dalla Incom Corporation a dalla Subpro, ran un caccia versatile che continuò ad essere utilizzato a lungo, anche dopo essere stato surclassato dall'Ala-X T-65.",
+        "name": "Z-95 Headhunter",
+    },
+    {
+        "code": "03057",
+        "flavor": "\"Noi lascia che fato decide.\" <cite>Watto</cite>",
+        "name": "Cubo di Sorte",
+        "text": "Prima di attivare il personaggio con questa miglioria, rimetti questa miglioria nella tua mano a meno che tu non spenda 1 risorsa."
+    },
+            {
+        "code": "03058",
+        "flavor": "Particolarmente efficaci contro le piattaforme armate dotate di sistemi elettronici.",
+        "name": "Granate EMP",
+        "text": "[special] - Scarta 1 <b>Droide</b> o 1 <b>Veicolo</b> dal gioco. Scarta questa miglioria dal gioco."
+    },
+        {
+        "code": "03060",
+        "name": "Scatterblaster",
+        "text": "[special] - Infliggi 1 danno a un massimo di 4 personaggi.\n<b>Azione</b> - Rimuovi 1 dado personaggio del personaggio con questa miglioria per girare questo dado su 1 faccia a tua scelta."
+    },
+
     {
         "code": "03065",
         "name": "Preparativi alla Guerra",
@@ -48,6 +91,16 @@
         "code": "03067",
         "name": "Tattiche Spietate",
         "text": "Risolvi un tuo dado, aumentando il suo valore del suo costo in risorse.\n<em>(Traduzione non ufficiale)</em>"
+    },
+                    {
+        "code": "03087",
+        "name": "Nessun Sopravvissuto",
+        "text": "Infliggi 1 danno a ogni personaggio dannneggiato di 1 avvversario."
+    },  
+                    {
+        "code": "03088",
+        "name": "Centro di Detenzione",
+        "text": "<b>Azione</b> - Esaurisci questo supporto per rimuovere 1 dado peronaggio. Poi qualsiasi giocatore può rimuovere 1 suo dado personaggio per scartare questo supporto."
     },
     {
         "code": "03113",
@@ -60,6 +113,11 @@
         "text": "Dopo aver attivato il personaggio con questa miglioria, obbliga un avversario a scegliere e distribuire 1 danno a un suo personaggio. Poi puoi scartare questa miglioria per infliggere 1 danno a quel personaggio.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
+        "code": "03117",
+        "name": "Sprezzo del Pericolo",
+        "text": "Ripeti il tiro di 1 tuo dado personaggio. Poi cura un ammontare di danni pari al valore di quel dado a quel personaggio."
+    },
+    {
         "code": "03124",
         "name": "Messi alle corde",
         "text": "Avvista un <i>Veicolo</i> per rimuovere un dado.\n<em>(Traduzione non ufficiale)</em>"
@@ -69,12 +127,34 @@
         "name": "La Giornata è Nostra",
         "text": "Rivendica il campo di battaglia, anche se già rivendicato da un avversario questo turno.\n<em>(Traduzione non ufficiale)</em>"
     },
+            {
+        "code": "03146",
+        "name": "Missione Pericolosa",
+        "text": "Gira 1 dado su una faccia con un costo in risorse."
+    },
+                    {
+        "code": "03147",
+        "name": "Resistenza Fisica",
+        "text": "Gioca questa carta solo se 1 o più dadi sono stati rimossi durante l'ultimo turno di un avversario in questo round.\nTira 1 di quei dadi rimossi nella riserva."
+    },
+                    {
+        "code": "03150",
+        "flavor": "Al momento di affrontare un avversasio di potenza superiore, la precisione può avere la meglio sulla forza bruta.",
+        "name": "Spaccare",
+        "text": "Scarta dal gioco 1 carta supporto o miglioria dal costo pari a 0."
+    },
     {
         "code": "03151",
-        "flavor": "\"Vieni, BB-8. Sbrigati!\" <cite>Poe Dameron</cite>",
-        "name": "Roll On",
-        "text": "Ritira un tuo dado. Puoi ritirare quel dado. Puoi ritirare quel dado ancora 1 volta.\n<em>(Traduzione non ufficiale)</em>"
+        "flavor": "\"Andiamo, BB-8. Sbrigati!\" <cite>Poe Dameron</cite>",
+        "name": "Rotolare",
+        "text": "Ripeti il tiro di 1 tuo dado. Puoi ripetere il tiro di quel dado. Puoi ripetere di nuovo il tiro di quel dado."
     },
+     {
+        "code": "03152",
+        "name": "Armatura in Plastoide",
+        "text": "Aumenta di 1 la salute del personaggio con questa miglioria."
+    },
+
     {
         "code": "03160",
         "name": "Fabbrica di Armi Alfa",
