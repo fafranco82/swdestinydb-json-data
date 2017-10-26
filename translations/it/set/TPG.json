@@ -54,7 +54,7 @@
             {
         "code": "04010",
         "name": "Supporto Corazzato",
-        "text": "<b>Azione<b> - Esaurisci questo supporto per ripetere il tiro di 1 tuo dado rosso. Se ottieni \"danno\" ([ranged] o [melee]), infliggi 1 danno a un personaggio."
+        "text": "<b>Azione</b> - Esaurisci questo supporto per ripetere il tiro di 1 tuo dado rosso. Se ottieni \"danno\" ([ranged] o [melee]), infliggi 1 danno a un personaggio."
     },
             {
         "code": "04011",
@@ -123,7 +123,7 @@
         "code": "04023",
         "name": "Hangar Navale",
         "subtitle": "Flotta Imperiale",
-        "text": "<b>Rivendicazione<b> - Rivela 1 carta in cima al mazzo di un avversario. Se quella carta è un evento o un supporto, infliggi 1 danno a un personaggio."
+        "text": "<b>Rivendicazione</b> - Rivela 1 carta in cima al mazzo di un avversario. Se quella carta è un evento o un supporto, infliggi 1 danno a un personaggio."
     },
             {
         "code": "04024",
@@ -176,12 +176,12 @@
         "code": "04032",
         "flavor": "Se Skywalker tornasse, allora i Jedi risorgerebbero. <cite>Snoke</cite>",             
         "name": "Protezione di Luke",
-        "text": "<b>Azione<b> - Colloca questo supporto dal gioc in cima al tuo mazzo per fornire 1 scudo a un personaggio blu."
+        "text": "<b>Azione</b> - Colloca questo supporto dal gioc in cima al tuo mazzo per fornire 1 scudo a un personaggio blu."
     },
                     {
         "code": "04033",
         "name": "Guardia d'Onore",
-        "text": "<b>Azione<b> - Scarta questo supporto dal gioco per rimuovere 1 dado \"danno\" ([ranged] o [melee])."
+        "text": "<b>Azione</b> - Scarta questo supporto dal gioco per rimuovere 1 dado \"danno\" ([ranged] o [melee])."
     },
                     {
         "code": "04034",
