@@ -19,13 +19,17 @@
         "name": "Hound's Tooth",
         "text": "Dopo che hai attivato questo supporto, puoirimuovere 1 tuo dado giallo per ottenere 1 risorsa."
     },
-                            {
-        "code": "03000",
-        "flavor": "",
-        "name": "",
-        "subtitle": "",
-        "text": ""
+        {
+        "code": "03021",
+        "name": "Lancia-Cavi",
+        "text": "Solo personaggi gialli.\n[special] - Scegli 1 personaggio. Rimuovi 1 suo dado personaggio oppure spendi 1 risorsa per rimuovere 2 suoi dadi personaggio."
     },
+     {
+        "code": "03023",
+        "name": "Lanciarazzi Relby-V10",
+        "text": "<b>Action</b> - Spendi 2 risorse e rimuovi questo dado \"danno a distanza\" ([ranged]) per infliggere quei danni a ogni personaggio di un avversario."
+    },
+                           
     {
         "code": "03026",
         "flavor": "\"Perchè lei può avere un blaster ed io no?\"",
@@ -53,11 +57,27 @@
         "subtitle": "Ladro sensibile alla Forza",
         "text": "Puoi giocare migliorie Blu su questo personaggio, ignorando le restrizioni di gioco.\n[special] - Prendi una risorsa da un avversario.\n<em>(Traduzione non ufficiale)</em>"
     },
+     {
+        "code": "03043",
+        "name": "Fionda ad Energia",
+        "text": "Dopo che hai risolto questo dado, puoi spendere 1 risorsa per ripetere il suo tiro invece di rimuoverlo dalla riserva."
+    }, 
     {
         "code": "03046",
         "flavor": "Sviluppato dai Genosiani, il cannone LR1K generava devastanti colpi sonici.",
         "name": "Cannone Sonico LR1K",
         "text": "Prima di risolvere questo dado, puoi esaurire un tuo personaggio. Se lo fai, non devi pagare il costo in risorse su questo dado.\n<em>(Traduzione non ufficiale)</em>"
+    },
+    {
+        "code": "03052",
+        "name": "Scorte di Armi",
+        "text": "[special] - Gioca 1 <i>Arma</i> dalla tua mano, riducendo di 2 il suo costo."
+    },
+
+    {
+        "code": "03054",
+        "name": "Estorsione",
+        "text": "Solo personaggi gialli.\n[special] - Scegli un avversario. Se hai più dadi \"danno a distanza \" ([ranged]) di quell'avversario, prendigli 1 risorsa."
     },
         {
         "code": "03056",
@@ -102,10 +122,25 @@
         "name": "Centro di Detenzione",
         "text": "<b>Azione</b> - Esaurisci questo supporto per rimuovere 1 dado peronaggio. Poi qualsiasi giocatore può rimuovere 1 suo dado personaggio per scartare questo supporto."
     },
+            {
+        "code": "03107",
+        "name": "Ripeti il tiro di 1 tuo dado. Poi, se hai appena ottenuto lo stesso simbolo, puoi risolverlo aumentando di 2 il suo valore.",
+        "text": "Contro Ogni Pronostico"
+    },
+            {
+        "code": "03109",
+        "name": "Brutto Presentimento",
+        "text": "Rimuovi 1 tuo dado per ripetere il tiro di un qualsiasi numero di dadi."
+    },
     {
         "code": "03113",
         "name": "Fuga Rapida",
-        "text": "Rimuovi fino a 2 dadi \"danno\" ([ranged] or [melee]). Sei costretto a passare per i tuoi seguenti turni di questo round.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Rimuovi fino a 2 dadi \"danno\" ([ranged] o [melee]). Devi passare per tutti i tuoi prossimi turni in questo round."
+    },
+        {
+        "code": "03114",
+        "name": "Tenacia",
+        "text": "Gioca questa carta solo se hai meno personaggi di un avversario. Esaurisci 1 personaggio di quell'avversario."
     },
     {
         "code": "03116",
@@ -127,6 +162,55 @@
         "name": "La Giornata è Nostra",
         "text": "Rivendica il campo di battaglia, anche se già rivendicato da un avversario questo turno.\n<em>(Traduzione non ufficiale)</em>"
     },
+     {
+        "code": "03136",
+        "name": "Furia in Combattimento",
+        "text": "Avvista 1 personaggio con 6 o più danni. Risolvi 1 dado personaggio \"danno\" ([melee] or [ranged]) di quel personaggio, aumentando di 2 il suo valore."
+    },
+     {
+        "code": "03137",
+        "name": "Disattivare",
+        "text": "Esaurisci 1 supporto."
+    },
+         {
+        "code": "03138",
+        "name": "Persuadere",
+        "text": "Scegli un avversario con meno risorse di te. Poi gira 1 suo dado su una faccia a tua scelta."
+    },
+                         {
+        "code": "03139",
+        "name": "Borseggiare",
+        "text": "Scarta 1 carta casuale dalla mano di 1 avversario. Pesca un ammontare di carte pari al numero di carte appena scartate."
+    },
+                 {
+        "code": "03140",
+        "name": "Minacciare",
+        "text": "Avvista 1 personaggio giallo per rimuovere 1 dado personaggio di 1 avversario, a meno che quest'ultimo non infligga un ammontare di danni pari al valore di quel dado al personaggio corrispondente."
+    },
+    {
+        "code": "03141",
+        "name": "Inganno",
+        "text": "Scarta la tua mano. Per ogni carta che hai appena scartato, puoi rimuovere 1 dado di valore pari al costo di quella carta."
+    },
+
+            {
+        "code": "03142",
+        "name": "Tregua",
+        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nOgni giocatore ottiene 1 risorsa."
+    }, 
+                     {
+        "code": "03143",
+        "name": "Scorte Rubate",
+        "text": "Dopo che hai giocato questo supporto, esauriscilo.\n<b>Azione</b> - Easurisci questo supporto per ottenere 1 risorsa. Scarta questo supporto dal gioco."
+    },
+
+             {
+        "code": "03145",
+        "flavor": "Erano note per la loro resistenza",
+        "name": "Armatura Mandaloriana",
+        "text": "Dopo che hai giocato questa miglioria, fornisci 1 scudo al personaggio con questa miglioria.\nIl personaggio con questa miglioria puà possedere 1 scudo aggiuntivo."
+    },
+
             {
         "code": "03146",
         "name": "Missione Pericolosa",
