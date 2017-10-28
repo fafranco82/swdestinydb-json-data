@@ -301,6 +301,7 @@
     {
         "affiliation_code": "hero",
         "code": "05052",
+        "cost": 4,
         "deck_limit": 2,
         "faction_code": "yellow",
         "flavor": "\"Chewie… we're home.\" <cite>Han Solo</cite>",
@@ -356,6 +357,7 @@
     {
         "affiliation_code": "neutral",
         "code": "05056",
+        "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
@@ -381,6 +383,7 @@
     {
         "affiliation_code": "neutral",
         "code": "05058",
+        "cost": 3,
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,

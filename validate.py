@@ -159,9 +159,33 @@ class ValidatorBase:
         if 'reprint_of' in card and not card.get('reprint_of') in self.collections['card']:
             validations.append("Reprinted card %s does not exists" % (card.get('reprint_of')))
 
+        #checks by type
+        check_by_type_method = "custom_check_%s_card" % card.get('type_code')
+        if hasattr(self, check_by_type_method) and callable(getattr(self, check_by_type_method)):
+            validations.extend(getattr(self, check_by_type_method)(card))
+
         if validations:
             raise jsonschema.ValidationError("\n".join(["- %s" % v for v in validations]))
 
+    def custom_check_character_card(self, card):
+        validations = []
+        if not card.has_key('points'):
+            validations.append("Character card %s must have attribute 'Points'" % card.get('code'))
+
+        return validations
+
+    def custom_check_event_card(self, card):
+        validations = []
+        if not card.has_key('cost'):
+            validations.append("Character card %s must have attribute 'cost'" % card.get('code'))
+
+        return validations
+
+    def custom_check_upgrade_card(self, card):
+        return self.custom_check_event_card(card)
+
+    def custom_check_support_card(self, card):
+        return self.custom_check_event_card(card)
 
     def load_json_file(self, path):
         try:
@@ -242,6 +266,18 @@ class I18NValidator(ValidatorBase):
     def custom_check(self, thing, thing_data):
         if thing_data.has_key("code") and not self.parent.collections[thing].has_key(thing_data["code"]):
             raise jsonschema.ValidationError("- %s code '%s' does not exists in '%s' %s translations" % (thing, thing_data["code"], self.locale, thing))
+
+    def custom_check_character_card(self, card):
+        return []
+
+    def custom_check_event_card(self, card):
+        return []
+
+    def custom_check_upgrade_card(self, card):
+        return self.custom_check_event_card(card)
+
+    def custom_check_support_card(self, card):
+        return self.custom_check_event_card(card)
 
 
 def parse_commandline():
