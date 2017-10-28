@@ -112,32 +112,99 @@
         "name": "Tattiche Spietate",
         "text": "Risolvi un tuo dado, aumentando il suo valore del suo costo in risorse.\n<em>(Traduzione non ufficiale)</em>"
     },
-                    {
+            {
+        "code": "03078",
+        "name": "Anarchia",
+        "text": "Rimuovi 1 tuo dado giallo. poi infliggi a ogni personaggio di un avversario un ammontare di danni pari al valore di quel dado."
+    },
+    {
+        "code": "03079",
+        "name": "Avvisi di Taglia",
+        "text": "Pesca un ammontare di carti pari al numero di personaggi di un avversario."
+    },
+    {
+        "code": "03080",
+        "name": "Acquisizione",
+        "text": "Spendi un qualsiasi numero di risorse. Poi scarta un pari ammontare di carte dalla cima del mazzo di un avversario."
+    },
+    {
+        "code": "03081",
+        "name": "Coercizione",
+        "text": "Avvista 1 personaggio giallo per rivelare la mano di un avversario e scegliere 1 evento in essa. Quell'avversario dovrà giocare quell'evento come sua prossima azione , se possibile."
+    },
+    {
+        "code": "03082",
+        "name": "Solo una Questione di Affari",
+        "text": "Rimuovi un qualsiasi numero di tuoi dadi gialli. Poi ottieni un pari ammontare di risorse."
+    },
+    {
+        "code": "03083",
+        "flavor": "E' raro che l'attrezzatura migliore sia disponibile legalmente.",
+        "name": "Merce Saccheggiata",
+        "text": "Puoi giocare gratuitamente 1 miglioria dalla tua mano su ogni tuo personaggio giallo."
+    },
+    {
+        "code": "03084",
+        "name": "Ombre Gemelle",
+        "text": "Avvista 2 personaggio con lo stesso nome per rimuovere fiono a 2 dadi."
+    },
+                {
+        "code": "03085",
+        "flavor": "Gli Hutt erano potenti gangster a capo di un impero criminale interplanetario.",
+        "name": "Contatti con gli Hutt",
+        "text": "<b>Azione</b> - Esaurisci questo supporto per obbligare un avversario a scegliere se perdere 1 risorsa oppure scegliere e rimuovere 1 suo dado."
+    },
+    {
+        "code": "03086",
+        "name": "Letale",
+        "text": "<b>Azione</b> - Esaurisci questa miglioria e rimuovi 1 dado personaggio del personaggio con questa miglioria per infliggere 2 danni diretti a un personaggio."
+    },
+    {
         "code": "03087",
         "name": "Nessun Sopravvissuto",
         "text": "Infliggi 1 danno a ogni personaggio dannneggiato di 1 avvversario."
     },  
-                    {
+    {
         "code": "03088",
         "name": "Centro di Detenzione",
         "text": "<b>Azione</b> - Esaurisci questo supporto per rimuovere 1 dado peronaggio. Poi qualsiasi giocatore può rimuovere 1 suo dado personaggio per scartare questo supporto."
     },
-            {
+    {
         "code": "03107",
         "name": "Ripeti il tiro di 1 tuo dado. Poi, se hai appena ottenuto lo stesso simbolo, puoi risolverlo aumentando di 2 il suo valore.",
         "text": "Contro Ogni Pronostico"
     },
-            {
+    {
+        "code": "03108",
+        "name": "Valutazione",
+        "text": "Rimuovi 1 tuo dado \"risorsa\" ([resource]) per giocare 1 supporto dalla tua mano, riducendo di 2 il suo costo."
+    },
+    {
         "code": "03109",
         "name": "Brutto Presentimento",
         "text": "Rimuovi 1 tuo dado per ripetere il tiro di un qualsiasi numero di dadi."
+    },
+    {
+        "code": "03110",
+        "name": "Doppia Faccia",
+        "text": "Rimuovi 1 tuo dado personaggio giallo per risolvere 1 dado di un avversario come fosse un tuo dado."
+    },
+    {
+        "code": "03111",
+        "name": "Impersonare",
+        "text": "Sposta i danni tra i tuoi personaggi come preferisci <em>(ignorando gli scudi; non puoi superare la salute di un personaggio spostando questi danni)</em>."
+    },
+    {
+        "code": "03112",
+        "name": "Pattuglia Locale",
+        "text": "Obbliga un avversario a scegliere se perdere 1 risorsa oppure scartare 2 carte dalla cima del mazzo."
     },
     {
         "code": "03113",
         "name": "Fuga Rapida",
         "text": "Rimuovi fino a 2 dadi \"danno\" ([ranged] o [melee]). Devi passare per tutti i tuoi prossimi turni in questo round."
     },
-        {
+    {
         "code": "03114",
         "name": "Tenacia",
         "text": "Gioca questa carta solo se hai meno personaggi di un avversario. Esaurisci 1 personaggio di quell'avversario."
@@ -162,27 +229,27 @@
         "name": "La Giornata è Nostra",
         "text": "Rivendica il campo di battaglia, anche se già rivendicato da un avversario questo turno.\n<em>(Traduzione non ufficiale)</em>"
     },
-     {
+    {
         "code": "03136",
         "name": "Furia in Combattimento",
         "text": "Avvista 1 personaggio con 6 o più danni. Risolvi 1 dado personaggio \"danno\" ([melee] or [ranged]) di quel personaggio, aumentando di 2 il suo valore."
     },
-     {
+    {
         "code": "03137",
         "name": "Disattivare",
         "text": "Esaurisci 1 supporto."
     },
-         {
+    {
         "code": "03138",
         "name": "Persuadere",
         "text": "Scegli un avversario con meno risorse di te. Poi gira 1 suo dado su una faccia a tua scelta."
     },
-                         {
+    {
         "code": "03139",
         "name": "Borseggiare",
         "text": "Scarta 1 carta casuale dalla mano di 1 avversario. Pesca un ammontare di carte pari al numero di carte appena scartate."
     },
-                 {
+    {
         "code": "03140",
         "name": "Minacciare",
         "text": "Avvista 1 personaggio giallo per rimuovere 1 dado personaggio di 1 avversario, a meno che quest'ultimo non infligga un ammontare di danni pari al valore di quel dado al personaggio corrispondente."
@@ -192,36 +259,38 @@
         "name": "Inganno",
         "text": "Scarta la tua mano. Per ogni carta che hai appena scartato, puoi rimuovere 1 dado di valore pari al costo di quella carta."
     },
-
-            {
+    {
         "code": "03142",
         "name": "Tregua",
         "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nOgni giocatore ottiene 1 risorsa."
     }, 
-                     {
+    {
         "code": "03143",
         "name": "Scorte Rubate",
         "text": "Dopo che hai giocato questo supporto, esauriscilo.\n<b>Azione</b> - Easurisci questo supporto per ottenere 1 risorsa. Scarta questo supporto dal gioco."
     },
-
-             {
+    {
+        "code": "03144",
+        "name": "Obiettivo Segreto",
+        "text": "<b>Azione</b> - Gioca 1 evento dalla tua mano, riducendo di 2 il suo costo. Scarta questa miglioria dal gioco."
+    },
+    {
         "code": "03145",
         "flavor": "Erano note per la loro resistenza",
         "name": "Armatura Mandaloriana",
         "text": "Dopo che hai giocato questa miglioria, fornisci 1 scudo al personaggio con questa miglioria.\nIl personaggio con questa miglioria puà possedere 1 scudo aggiuntivo."
     },
-
-            {
+    {
         "code": "03146",
         "name": "Missione Pericolosa",
         "text": "Gira 1 dado su una faccia con un costo in risorse."
     },
-                    {
+    {
         "code": "03147",
         "name": "Resistenza Fisica",
         "text": "Gioca questa carta solo se 1 o più dadi sono stati rimossi durante l'ultimo turno di un avversario in questo round.\nTira 1 di quei dadi rimossi nella riserva."
     },
-                    {
+    {
         "code": "03150",
         "flavor": "Al momento di affrontare un avversasio di potenza superiore, la precisione può avere la meglio sulla forza bruta.",
         "name": "Spaccare",
@@ -233,12 +302,11 @@
         "name": "Rotolare",
         "text": "Ripeti il tiro di 1 tuo dado. Puoi ripetere il tiro di quel dado. Puoi ripetere di nuovo il tiro di quel dado."
     },
-     {
+    {
         "code": "03152",
         "name": "Armatura in Plastoide",
         "text": "Aumenta di 1 la salute del personaggio con questa miglioria."
     },
-
     {
         "code": "03160",
         "name": "Fabbrica di Armi Alfa",
