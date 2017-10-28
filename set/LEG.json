@@ -113,7 +113,7 @@
         "affiliation_code": "villain",
         "code": "05025",
         "cost": 3,
-        "deck_limit": 1,
+        "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
@@ -132,7 +132,7 @@
             "-"
         ],
         "subtype_code": "vehicle",
-        "text": "<b>Power Action</b> - Reroll one of your Yellow dice. Then you may remove an opponent's die showing a value equal to the value showing on the die you just rerolled. (Use each power action only once per round.)",
+        "text": "<b>Power Action</b> - Reroll one of your Yellow dice. Then you may remove an opponent's die showing a value equal to the value showing on the die you just rerolled.",
         "type_code": "support"
     },
     {
@@ -301,11 +301,12 @@
     {
         "affiliation_code": "hero",
         "code": "05052",
-        "deck_limit": 1,
+        "deck_limit": 2,
         "faction_code": "yellow",
-        "flavor": "\"Chewie... we're home.\" <cite>Han Solo</cite>",
+        "flavor": "\"Chewie… we're home.\" <cite>Han Solo</cite>",
         "has_die": true,
         "has_errata": false,
+        "illustrator": "Matt Bradbury",
         "is_unique": true,
         "name": "Millennium Falcon",
         "position": 52,
@@ -320,7 +321,7 @@
             "-"
         ],
         "subtype_code": "vehicle",
-        "text": "After to activate this support, you activate one of your characters.",
+        "text": "After to activate this support, you may activate one of your characters.",
         "type_code": "support"
     },
     {
@@ -359,6 +360,7 @@
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
+        "illustrator": "Tony Foti",
         "is_unique": false,
         "name": "Force Focus",
         "position": 56,
@@ -372,9 +374,8 @@
             "1Sp",
             "-"
         ],
-        "subtitle": "Savvy Smuggler",
         "subtype_code": "ability",
-        "text": "[special] - Turn one of your dice to any side. You may reveal a Blue card from your hand to turn an opponent's die to any side.",
+        "text": "To play, spot a Blue character.\n[special] - Turn one of your dice to any side. You may reveal a Blue card from your hand to turn an opponent's die to any side.",
         "type_code": "upgrade"
     },
     {
@@ -384,6 +385,7 @@
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
+        "illustrator": " ",
         "is_unique": false,
         "name": "Heirloom Lightsaber",
         "position": 58,
@@ -398,7 +400,7 @@
             "-"
         ],
         "subtype_code": "weapon",
-        "text": "This upgrade has the Reploy keyword while it's on a Blue character. (After its character is defeated, move this card.)",
+        "text": "This upgrade has the Reploy keyword while it's on a Blue character.",
         "type_code": "upgrade"
     },
     {
@@ -427,12 +429,13 @@
         "faction_code": "yellow",
         "has_die": false,
         "has_errata": false,
+        "illustrator": "Mark Bulahao",
         "is_unique": false,
         "name": "Impulsive",
         "position": 119,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Ambush. (You may take one additional action after you play this card.)\nResolve one of your dice.",
+        "text": "Ambush.\nResolve one of your dice.",
         "type_code": "event"
     },
     {
@@ -444,6 +447,7 @@
         "flavor": "Maz Kanata amassed a large collection of curiosities from her many travels throughout the galaxy.",
         "has_die": false,
         "has_errata": false,
+        "illustrator": " ",
         "is_unique": true,
         "name": "Maz's Vault",
         "position": 122,
@@ -460,12 +464,13 @@
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
+        "illustrator": "Jacob Murray",
         "is_unique": false,
         "name": "Crash Landing",
         "position": 137,
         "rarity_code": "S",
         "set_code": "LEG",
-        "text": "Remove a die showing damage. Then deal indirect damage to yourself equal to the value showing on that die.",
+        "text": "Remove a die showing damage ([ranged], [melee] or [indirect]). Then deal indirect damage ([indirect]) to yourself equal to the value showing on that die.",
         "type_code": "event"
     },
     {
@@ -476,12 +481,13 @@
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
+        "illustrator": " ",
         "is_unique": false,
         "name": "Locked and Loaded",
         "position": 139,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Spot a Red character to turn up to 2 of your dice to sides showing indirect damage.",
+        "text": "Spot a Red character to turn up to 2 of your dice to sides showing indirect damage ([indirect]).",
         "type_code": "event"
     },
     {
@@ -559,6 +565,7 @@
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
+        "illustrator": "Matt Bradbury",
         "is_unique": false,
         "name": "Outer Rim Outpost",
         "position": 178,
