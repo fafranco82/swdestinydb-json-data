@@ -50,5 +50,9 @@
     {
         "code": "weapon",
         "name": "Weapon"
+    },
+    {
+        "code": "witch",
+        "name": "Witch"
     }
 ]
