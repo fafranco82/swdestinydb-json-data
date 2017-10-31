@@ -133,6 +133,7 @@
             "-"
         ],
         "subtype_code": "vehicle",
+        "text": "[special] - Spend 2 resources to add a Battle Droid ([LEG]9) to your team. Discard this support from play.",
         "type_code": "support"
     },
     {
