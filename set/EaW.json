@@ -2885,7 +2885,7 @@
         "position": 128,
         "rarity_code": "U",
         "set_code": "EaW",
-        "text": "Each player activates one of their characters, starting with you. Then each player totals the value of the character dice they just rolled, and each player with tie lowest combined value removes theirs.",
+        "text": "Each player activates one of their characters, starting with you. Then each player totals the value of the character dice they just rolled, and each player with the lowest combined value removes theirs.",
         "ttscardid": "2657",
         "type_code": "event"
     },
