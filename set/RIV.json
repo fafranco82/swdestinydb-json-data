@@ -8,7 +8,7 @@
         "has_errata": false,
         "health": 10,
         "illustrator": "Ryan Valle",
-        "is_unique": false,
+        "is_unique": true,
         "name": "Anakin Skywalker",
         "points": "10/13",
         "position": 1,
