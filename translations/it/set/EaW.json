@@ -1,4 +1,8 @@
-[
+[   {
+        "code": "03000",
+        "name": "",
+        "text": ""
+    },
     {
         "code": "03000",
         "flavor": "",
@@ -14,7 +18,19 @@
         "text": "Dopo che hai attivato questo personaggio, puoi scegliere un numero. Poi guarda la mano di un avversario e scarta da essa una carta con costo pari al numero scelto."
     },
     {
-        "code": "03000",
+        "code": "03005",
+        "flavor": "Il Guscio Difensivo Multiterreno era un camminatore pesantemente armato usato per proteggere le risorse imperiali nei mondi occupati.",
+        "name": "AT-DP",
+        "text": "[special] - Scarta dal gioco 1 supporto dal costo pari o superiore a 2."
+    },
+    {
+        "code": "03006",
+        "flavor": "\"Abbiamo migliaia di sonde in ricognizione nella galassia\". <cite>Ammiraglio Ozzel</cite>",
+        "name": "Droide Sonda",
+        "text": "Imboscata.\n[special] - Guarda 2 carte casuali nella mano di un avversario e scarta tutti gli eventi visti in questo modo."
+    },
+    {
+        "code": "03013",
         "name": "Droide Cercatore ID9",
         "text": "La X su questo dado è pari al numero di dadi Droide Cercatore ID9 nella tua riserva <em>(quando risolvi i dadi, risolvili uno alla volta)</em>."
     },
@@ -90,7 +106,17 @@
         "name": "Cannone Sonico LR1K",
         "text": "Prima di risolvere questo dado, puoi esaurire un tuo personaggio. Se lo fai, non devi pagare il costo in risorse su questo dado.\n<em>(Traduzione non ufficiale)</em>"
     },
-        {
+    {
+        "code": "03047",
+        "name": "Elettrobastone",
+        "text": "Riduci di 1 il costo in risorse dei dadi personaggio delpersonaggio con questa miglioria modificati da questo dado."
+    },
+    {
+        "code": "03048",
+        "name": "Pilota Nato",
+        "text": "Dopo che hai attivato il personaggio con questa miglioria, puoi ripristinare 1 <i>Veicolo</i>."
+    },
+    {
         "code": "03050",
         "name": "Psicometria",
         "text": "Solo personaggi blu.\n[special] - Pesca un ammontare di carte pari al valore di 1 dado <i>Arma</i> o <i>Equipaggiamento</i>.\nPuoi rimuovere quel dado."
@@ -128,21 +154,56 @@
         "name": "Granate EMP",
         "text": "[special] - Scarta 1 <b>Droide</b> o 1 <b>Veicolo</b> dal gioco. Scarta questa miglioria dal gioco."
     },
-        {
+    {
+        "code": "03061",
+        "name": "Veicolo Requisito",
+        "text": "Risolvi 1 dado <i>Veicolo</i> di un avversario come se fosse un tuo dado, ignorando il suo eventuale costo in risorse."
+    },
+    {
         "code": "03060",
         "name": "Scatterblaster",
         "text": "[special] - Infliggi 1 danno a un massimo di 4 personaggi.\n<b>Azione</b> - Rimuovi 1 dado personaggio del personaggio con questa miglioria per girare questo dado su 1 faccia a tua scelta."
     },
-
+    {
+        "code": "03062",
+        "flavor": "\"Occhio al fuoco incrociato, però.\"<cite>Luke Skywalker</cite>",
+        "name": "Fuoco Incrociato",
+        "text": "Rimuovi 1 dado con un costo in risorse oppure spendi 1 risorsa per rimuovere 2 dadi con un costo in risorse."
+    },
+    {
+        "code": "03063",
+        "name": "Armi a Terra!",
+        "text": "Avvista 2 personaggi rossi per scartare 1 <i>Arma</i> da un personaggio pronto."
+    },
+    {
+        "code": "03064",
+        "name": "Rinforzi Imperiali",
+        "text": "Imboscata. <em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nGioca 1 supporto dalla tua mano riducendo di 1 il suo costo per ogni tuo personaggio."
+    },
     {
         "code": "03065",
-        "name": "Preparativi alla Guerra",
-        "text": "Gioca questa carta solo se è la prima azione di un round <em>(nessun giocatore ha effettuato un'azione)</em>.\nGuadagna una risorsa.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Prepararsi alla Guerra",
+        "text": "Gioca questa carta solo come prima azione di questo round <em>(nessun giocatore ha effettuato azioni)</em>.\Ottieni 1 risorsa."
+    },
+    {
+        "code": "03066",
+        "name": "Allarme Rosso",
+        "text": "Ripristina 1 personaggio non unico rosso."
     },
     {
         "code": "03067",
         "name": "Tattiche Spietate",
-        "text": "Risolvi un tuo dado, aumentando il suo valore del suo costo in risorse.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Risolvi 1 tuo dado, aumentando del suo costo in risorse il suo valore."
+    },
+    {
+        "code": "03068",
+        "name": "Fare Prigionieri",
+        "text": "Scegli un avversario. Scarta 2 carte casuali dalla sua mano per ogni suo personaggio sconfitto."
+    },
+    {
+        "code": "03069",
+        "name": "Quartier Generale Imperiale",
+        "text": "Prima di risolvere 1 dado con un costo in risorse, puoi esaurire questo supporto per ridurre di 1 quel costo in risorse."
     },
     {
         "code": "03070",
@@ -237,6 +298,47 @@
         "code": "03088",
         "name": "Centro di Detenzione",
         "text": "<b>Azione</b> - Esaurisci questo supporto per rimuovere 1 dado peronaggio. Poi qualsiasi giocatore può rimuovere 1 suo dado personaggio per scartare questo supporto."
+    },
+    {
+        "code": "03089",
+        "name": "Niente di Nuovo sul Fronte",
+        "text": "Rimuovi un qualsiasi numero di scudi dai tuoi personaggi. Poi scarta un pari ammontare di carte dalla cima del mazzo di un avversario."
+    },
+    {
+        "code": "03090",
+        "name": "in Trincea",
+        "text": "Fornisci un totale di 5 scudi ai tuoi personaggi, distribuendoli come preferisci."
+    },
+    { 
+        "code": "03091",
+        "name": "Colpo Fortuito",
+        "text": "Avvista 1 personaggio rosso per ripetere il tiro di un qualsiasi numero di tuoi dadi. Poi infliggi a un personaggio un ammontare di danni pari al numero di dadi di cui hai ripetuto il tiro e che ora sono \"danno a distanza\" ([ranged])".
+    },
+    {
+        "code": "03095",
+        "name": "Colpo Rapido",
+        "text": "Rimuovi un dado modificatore <em>(con un \"+\")</em>."
+    },
+    {
+        "code": "03096",
+        "name": "Richiesta di Aiuto",
+        "text": "<b>Azione</b> - Esaurisci questo supporto per rivelare una carta casuale dalla tua mano. puoi giocare quella carta, riducendo di 1 il suo costo (di 2 se è un <i>Veicolo</i>)."
+    },
+    {
+        "code": "03097",
+        "flavor": "\"E' un rischio ma non possiamo resistere ancora a lungo\"<cite>Leia Organa</cite>",
+        "name": "Retrovie",
+        "text": "Conta il numero di dadi rossi \"scudo\" ([shield]) che possiedi. Rimuovi un ammontare di dadi pari o inferiore a quel numero."
+    }, 
+    {
+        "code": "03094",
+        "name": "Guarda 3 carte",
+        "text":  "Guarda 3 carte in cima al mazzo di un avversario e riordinale come preferisci. Poi puoi scartare 1 carta dalla cima di quel mazzo."
+    },
+    {
+        "code": "03097",
+        "name": "Generatore dello Scudo",
+        "text": "Prima che 1 tuo supporto stia per essere scartato dal gioco a causa dell'effetto di una carta o di un dado dell'avversario, puoi invece scartare questo supporto dal gioco."
     },
     {
         "code": "03098",
@@ -335,6 +437,21 @@
         "text": "Ripeti il tiro di 1 tuo dado personaggio. Poi cura un ammontare di danni pari al valore di quel dado a quel personaggio."
     },
     {
+        "code": "03118",
+        "name": "Fuoco di Copertura",
+        "text": "Conta il numero di dadi \"danno a distanza\" ([ranged]) che possiedi. Ripeti il tiro di un ammontare di dadi pari o inferiore a quel numero."
+    },
+    {
+        "code": "03120",
+        "name": "Ripiegamento",
+        "text": "A partire da te, ogni giocatore può scegliere 1 miglioria. Scarta dal gioco tutte le migliorie che non sono state appena scelte."
+    },
+    {
+        "code": "03121",
+        "name": "Finta",
+        "text": "Attiva 1 personaggio. Poi puoi rimuovere tutti i suoi dadi personaggio e miglioria per ripristinarlo."
+    },
+    {
         "code": "03124",
         "name": "Messi alle corde",
         "text": "Avvista un <i>Veicolo</i> per rimuovere un dado.\n<em>(Traduzione non ufficiale)</em>"
@@ -342,7 +459,17 @@
     {
         "code": "03125",
         "name": "La Vittoria è Nostra",
-        "text": "Rivendica il campo di battaglia, anche se già rivendicato da un avversario questo turno.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Rivendica il campo di battaglia, anche se un avversario lo ha già rivendicato in questo round."
+    },
+    {
+        "code": "03126",
+        "name": "Zona di Sbarco",
+        "text": "Dopo che hai rivendicato il campo di battaglia, puoi collocare 1 danno su questo supporto.\n<b>Azione</b> - Esaurisci questo supporto per spostare un qualsiasi ammontare di danni da esso a un personaggio <em>(ignorando gli scudi)</em>."
+    },
+    {
+        "code": "03127",
+        "name": "Squadra Tecnica",
+        "text": "Prima ancora di giocare un supporto, puoi esaurire questo supporto per ridurre di 1 il suo costo."
     },
     {
         "code": "03128",
