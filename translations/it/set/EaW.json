@@ -159,7 +159,7 @@
     },
     {
         "code": "03029",
-        "name": "Y-Wing"
+        "name": "Y-Wing",
         "text": "[special] - Obbliga un avversario a infliggere danni ai suoi personaggi, distribuendoli come preferisce, e/o a perdere risorse finché non hai inflitto perso un totale di 4 danni e/o risorse."
     },
      {
@@ -255,7 +255,7 @@
     {
         "code": "03045",
       "flavor": "L'airspeeder T-47 della Incom Corporation era un solido velilvolo atmosferico, apprezzato dall'Alleanza per la sua resistenza.",
-        "name": "Airspeeder T-47"
+        "name": "Airspeeder T-47",
         "text": "[special] - Esaurisci 1 supporto oppure pesca 2 carte."
     },
     {
@@ -295,7 +295,7 @@
     },
     {
         "code": "03053",
-        "name": "Vibro-ascia Cutter BD-1"
+        "name": "Vibro-ascia Cutter BD-1",
         "text": "Prima che questo dado infligga danni a un personaggio, puoi rimuovere tutti gli scudi da quel personaggio."
     },
     {
