@@ -40,10 +40,7 @@
     },
     {
         "code": "03007",
-        "flavor": "",
-        "name": "",
-        "subtitle": "",
-        "text": ""
+        "name": "T-7 Ion Disruptor Rifle",
     },
     {
         "code": "03008",
@@ -57,15 +54,15 @@
         "name": "Servitore del Lato Oscuro",
         "text": "Prima che un tuo altro personaggio blu sia sconfitto, puoi spostare 1 miglioria da quel personaggio a questo <em>(rimetti il dado di quella miglioria sulla sua carta)</em>."
     },
- {
+    {
         "code": "03010",
         "name": "Settima Sorella"
     },
- {
+    {
         "code": "03011",
         "name": "Grande Inquisitore"
     },
- {
+    {
         "code": "03012",
         "name": "TIE Advanced di Darth Vader"
     },
@@ -80,7 +77,7 @@
         "name": "Tentazione",
         "text": "[special] - Scegli un avversario. Quell'avversario può pescare 2 carte. Se lo fa ottieni 2 risorse. Se non lo fa, pesca 2 carte."
     },
- {
+    {
         "code": "03015",
         "name": "Spada Laser del Grande Inquisitore"
     },
@@ -104,7 +101,7 @@
         "subtitle": "Mercenario Letale",
         "text": "<b>Azione</b> - Gioca 1 miglioria dalla tua mano su questo personaggio <em>(pagandone il costo)</em>. Poi puoi attivarlo."
     },
- {
+    {
         "code": "03019",
         "name": "Guardia Gamorreana"
     },
@@ -114,16 +111,16 @@
         "name": "Hound's Tooth",
         "text": "Dopo che hai attivato questo supporto, puoirimuovere 1 tuo dado giallo per ottenere 1 risorsa."
     },
-        {
+    {
         "code": "03021",
         "name": "Lancia-Cavi",
         "text": "Solo personaggi gialli.\n[special] - Scegli 1 personaggio. Rimuovi 1 suo dado personaggio oppure spendi 1 risorsa per rimuovere 2 suoi dadi personaggio."
     },
- {
+    {
         "code": "03022",
         "name": "Pistola Blaster LL-30"
     },
-     {
+    {
         "code": "03023",
         "name": "Lanciarazzi Relby-V10",
         "text": "<b>Action</b> - Spendi 2 risorse e rimuovi questo dado \"danno a distanza\" ([ranged]) per infliggere quei danni a ogni personaggio di un avversario."
@@ -154,19 +151,22 @@
         "name": "Pilota Matricola",
         "text": "Dopo che hai attivato questo personaggio, puoi ripetere il tiro di 1 tuo dado <i>Veicolo</i>."
     },
- {
+    {
         "code": "03028",
-        "name": "Ghost"
+        "flavor": "Il Ghost era un mercantile leggero VCX-100 specializzato che fungeva da base operativa per la cellula ribelle di Hera Syndulla.",
+        "name": "Ghost",
+        "text": "[special] - Risolvi 1 altra faccia di questo dado."
     },
- {
+    {
         "code": "03029",
         "name": "Y-Wing"
+        "text": "[special] - Obbliga un avversario a infliggere danni ai suoi personaggi, distribuendoli come preferisce, e/o a perdere risorse finché non hai inflitto perso un totale di 4 danni e/o risorse."
     },
      {
         "code": "03030",
         "name": "Fucile Blaster A280",
         "text": "Riposizionamento. <em>(Dopo che il suo personaggio è stato sconfitto, sposta questa carta.)</em>"
-    }
+    },
     {
         "code": "03031",
         "flavor": "Io non sono un Jedi.",
@@ -191,7 +191,7 @@
         "code": "03034",
         "flavor": "\"La festa è finita.\"",
         "name": "Mace Windu",
-        "subtitle": "Campione dei Jedi",
+        "subtitle": "Campione Jedi",
         "text": "<b>Azione</b> - Rimuovi questo dado per sconfiggere un personaggio con 2 o meno punti vita.\n<em>(Traduzione non ufficiale)</em>"
     },
     {
@@ -232,26 +232,31 @@
         "subtitle": "Esperta in Esplosivi",
         "text": "Prima di attivare questo personaggio, puoi giocare 1 <i>Arma</i> dalla tua pila degli scarti su di esso, riducendo di 1 il suo costo se il suo nome contiene il termine \"termico\" (o una sua variante)."
     },
- {
+    {
         "code": "03041",
+        "flavor": "\"Non è prudente far innervosire un Wookie.\"<cite>Han Solo</cite>",
         "name": "Guerriero Wookie"
     },
- {
-        "code": "03000",
-        "name": "Chopper"
+    {
+        "code": "03042",
+        "flavor": "C1-10P era un irascibile droide astromeccanico, più noto presso i membri della sua cellula ribelle come \"Chopper\".",
+        "name": "Chopper",
+        "text": "[special] - Rimuovi 1 dado di valore pari o inferiore a 2."
     },
-     {
+    {
         "code": "03043",
         "name": "Fionda ad Energia",
         "text": "Dopo che hai risolto questo dado, puoi spendere 1 risorsa per ripetere il suo tiro invece di rimuoverlo dalla riserva."
     },
- {
+    {
         "code": "03044",
         "name": "Trattativa Agguerrita"
     },
- {
+    {
         "code": "03045",
-        "name": "T-47 Airspeeder"
+      "flavor": "L'airspeeder T-47 della Incom Corporation era un solido velilvolo atmosferico, apprezzato dall'Alleanza per la sua resistenza.",
+        "name": "Airspeeder T-47"
+        "text": "[special] - Esaurisci 1 supporto oppure pesca 2 carte."
     },
     {
         "code": "03046",
@@ -281,14 +286,14 @@
         {
         "code": "03051",
         "name": "Spada Laser Shoto",
-        "text": "Dopo che hai attivato il personaggio con questa miglioria, se possiede un'altra <i>Arma</i> blu, puoi fornigli 1scudo oppure rimuovere 1 scudo da 1 personaggio."
+        "text": "Dopo che hai attivato il personaggio con questa miglioria, se possiede un'altra <i>Arma</i> blu, puoi fornigli 1 scudo oppure rimuovere 1 scudo da 1 personaggio."
     },
     {
         "code": "03052",
         "name": "Scorte di Armi",
         "text": "[special] - Gioca 1 <i>Arma</i> dalla tua mano, riducendo di 2 il suo costo."
     },
-        {
+    {
         "code": "03053",
         "name": "Vibro-ascia Cutter BD-1"
         "text": "Prima che questo dado infligga danni a un personaggio, puoi rimuovere tutti gli scudi da quel personaggio."
@@ -298,14 +303,14 @@
         "name": "Estorsione",
         "text": "Solo personaggi gialli.\n[special] - Scegli un avversario. Se hai più dadi \"danno a distanza \" ([ranged]) di quell'avversario, prendigli 1 risorsa."
     },
-        {
+    {
         "code": "03055",
         "name": "X-8 Night Sniper"
     },
-        {
+     {
         "code": "03056",
         "flavor": "Lo Z-95 Headhunter, sviluppato dalla Incom Corporation a dalla Subpro, ran un caccia versatile che continuò ad essere utilizzato a lungo, anche dopo essere stato surclassato dall'Ala-X T-65.",
-        "name": "Z-95 Headhunter",
+        "name": "Z-95 Headhunter"
     },
     {
         "code": "03057",
@@ -319,7 +324,7 @@
         "name": "Granate EMP",
         "text": "[special] - Scarta 1 <b>Droide</b> o 1 <b>Veicolo</b> dal gioco. Scarta questa miglioria dal gioco."
     },
-        {
+    {
         "code": "03059",
         "name": "Comandante Esemplare",
         "text": "Dopo che hai attivato il personaggio con questa miglioria, puoi attivare 1 tuo supporto."
@@ -329,7 +334,7 @@
         "name": "Scatterblaster",
         "text": "[special] - Infliggi 1 danno a un massimo di 4 personaggi.\n<b>Azione</b> - Rimuovi 1 dado personaggio del personaggio con questa miglioria per girare questo dado su 1 faccia a tua scelta."
     },
-        {
+    {
         "code": "03061",
         "name": "Veicolo Requisito",
         "text": "Risolvi 1 dado <i>Veicolo</i> di un avversario come se fosse un tuo dado, ignorando il suo eventuale costo in risorse."
@@ -495,9 +500,9 @@
         "name": "Retrovie",
         "text": "Conta il numero di dadi rossi \"scudo\" ([shield]) che possiedi. Rimuovi un ammontare di dadi pari o inferiore a quel numero."
     }, 
-                {
+    {
         "code": "03093",
-        "name": "Reckless Reentry",
+        "name": "Reckless Reentry"
     }
     {
         "code": "03094",
@@ -625,9 +630,9 @@
         "name": "Fuoco di Copertura",
         "text": "Conta il numero di dadi \"danno a distanza\" ([ranged]) che possiedi. Ripeti il tiro di un ammontare di dadi pari o inferiore a quel numero."
     },
-        {
+    {
         "code": "03119",
-        "name": "Schierare la Squadriglia",
+        "name": "Squadriglia Schierata"
     },
     {
         "code": "03120",
@@ -639,19 +644,20 @@
         "name": "Finta",
         "text": "Attiva 1 personaggio. Poi puoi rimuovere tutti i suoi dadi personaggio e miglioria per ripristinarlo."
     },
-            {
+    {
         "code": "03122",
-        "name": "Manovra di Fiancheggiamento",
+        "name": "Manovra di Accerchiamento",
+        "text": "Conta il numero di dadi supporto nella tua riserva. Infliggi un pari ammontare di danni a un personaggio."
     },
-        {
+    {
         "code": "03123",
         "name": "Foga della Battaglia",
         "text": "Scegli un avversario. Quell'avversario gira fino a 2 dadi su una faccia \"danno\" ([melee] o [ranged]. Gira fino a 2 tuoi dadi su una faccia \"danno\" ([melee] o [ranged].)\n<em>Errata 1.5</em>"
     },
     {
         "code": "03124",
-        "name": "Messi alle corde",
-        "text": "Avvista un <i>Veicolo</i> per rimuovere un dado.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Alle Strette",
+        "text": "Avvista un <i>Veicolo</i> per rimuovere un dado."
     },
     {
         "code": "03125",
@@ -770,7 +776,7 @@
         "name": "Resistenza Fisica",
         "text": "Gioca questa carta solo se 1 o più dadi sono stati rimossi durante l'ultimo turno di un avversario in questo round.\nTira 1 di quei dadi rimossi nella riserva."
     },
-        {
+    {
         "code": "03148",
         "name": "In Società",
         "text": "Attiva 1 tuo personaggio e 1 tuo supporto. poi puoi spendere 1 risorsa per effettuare un'azione aggiuntiva."
@@ -797,7 +803,7 @@
         "name": "Armatura in Plastoide",
         "text": "Aumenta di 1 la salute del personaggio con questa miglioria."
     },
-        {
+    {
         "code": "03153",
         "name": "Monastero B'Omarr",
         "subtitle": "Teth",
