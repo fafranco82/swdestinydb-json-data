@@ -28,6 +28,10 @@
         "name": "Jedi"
     },
     {
+        "code": "location",
+        "name": "Location"
+    },
+    {
         "code": "pilot",
         "name": "Pilot"
     },

@@ -583,8 +583,9 @@
         "position": 122,
         "rarity_code": "U",
         "set_code": "LEG",
+        "subtype_code": "location",
         "text": "Each player gains 1 additional resource during the upkeep phase.",
-        "type_code": "event"
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
