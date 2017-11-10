@@ -13,7 +13,7 @@
         "subtitle": "Aspirante Comandante",
         "text": "[special] - Gioca 1 evento rosso dalla tua mano, riducendo di 1 il suo costo per ogni tuo personaggio."
     }, 
-        {
+    {
         "code": "03003",
         "flavor": "Il droide MagnaGuard IG-100 poteva reggere a danni ingenti prima che i suoi sistemi cedessero definitivamente.",
         "name": "MagnaGuard",
@@ -131,7 +131,7 @@
         "subtitle": "Stratega Difensivo",
         "text": "Dopo che hai attivato questo personaggio, puoi scartare 1 carta dalla cima del mazzo di un avversario per ogni altro tuo personaggio con 1 o più scudi."
     },
-     {
+    {
         "code": "03025",
         "flavor": "Se pensi di combattere solo per la tua vita, la tua vita non vale niente!",
         "name": "Hera Syndulla",
@@ -145,7 +145,7 @@
         "subtitle": "Droide Riprogrammmato",
         "text": "Aumenta di 2 il costo per giocare un'<i>Arma</i> su questo personaggio.\nDopo che hai giocato o spostato un'<i>Arma</i> su questo personaggio per la prima volta ogni partita, ripristinalo."
     },
-     {
+    {
         "code": "03027",
         "flavor": "La prima volta ai comandi di un caccia era sempre emozionante...anche se avrebbe potuto essere l'ultima.",
         "name": "Pilota Matricola",
@@ -162,7 +162,7 @@
         "name": "Y-Wing",
         "text": "[special] - Obbliga un avversario a infliggere danni ai suoi personaggi, distribuendoli come preferisce, e/o a perdere risorse finché non hai inflitto perso un totale di 4 danni e/o risorse."
     },
-     {
+    {
         "code": "03030",
         "name": "Fucile Blaster A280",
         "text": "Riposizionamento. <em>(Dopo che il suo personaggio è stato sconfitto, sposta questa carta.)</em>"
@@ -218,7 +218,7 @@
         "subtitle": "Ladro sensibile alla Forza",
         "text": "Puoi giocare le migliorie blu su questo personaggio ignorando le restrizioni di gioco.\n[special] - Prendi 1 risorsa da un avversario."
     },
-     {
+    {
         "code": "03039",
         "flavor": "Sì, sono diventato responsabile. Questo è il prezzo che paghi quando hai successo.",
         "name": "Lando Calrissian",
@@ -274,7 +274,7 @@
         "name": "Pilota Nato",
         "text": "Dopo che hai attivato il personaggio con questa miglioria, puoi ripristinare 1 <i>Veicolo</i>."
     },
- {
+    {
         "code": "03049",
         "name": "Spada Laser Antica"
     },
@@ -283,7 +283,7 @@
         "name": "Psicometria",
         "text": "Solo personaggi blu.\n[special] - Pesca un ammontare di carte pari al valore di 1 dado <i>Arma</i> o <i>Equipaggiamento</i>.\nPuoi rimuovere quel dado."
     },
-        {
+    {
         "code": "03051",
         "name": "Spada Laser Shoto",
         "text": "Dopo che hai attivato il personaggio con questa miglioria, se possiede un'altra <i>Arma</i> blu, puoi fornigli 1 scudo oppure rimuovere 1 scudo da 1 personaggio."
@@ -307,7 +307,7 @@
         "code": "03055",
         "name": "X-8 Night Sniper"
     },
-     {
+    {
         "code": "03056",
         "flavor": "Lo Z-95 Headhunter, sviluppato dalla Incom Corporation a dalla Subpro, ran un caccia versatile che continuò ad essere utilizzato a lungo, anche dopo essere stato surclassato dall'Ala-X T-65.",
         "name": "Z-95 Headhunter"
@@ -503,7 +503,7 @@
     {
         "code": "03093",
         "name": "Reckless Reentry"
-    }
+    },
     {
         "code": "03094",
         "name": "Piano d'Attacco",
@@ -615,7 +615,7 @@
         "name": "Azione di Interferenza",
         "text": "Dopo che hai effettuato un'azione, puoi esaurire questo supporto per scegliere un avversario, Nel suo prossimo turno, quell'avversario non può effettuare l'azione che hai appena effettuato."
     },    
-        {
+    {
         "code": "03116",
         "name": "Vernice Termica",
         "text": "Dopo che hai attivato il personaggio con questa miglioria, obbliga un avversario a scegliere 1 suo personaggio e a infliggergli 1 danno. Poi puoi scartare questa miglioria per infliggere 1 danno a quel personaggio."
@@ -827,7 +827,7 @@
         "subtitle": "Lothal",
         "text": "Finché controlli questo campo di battaglia, dopo che hai attivato 1 supporto, puoi ripetere il tiro del suo dado."
     },
-     {
+    {
         "code": "03157",
         "name": "Piazza Principale",
         "subtitle": "Vashka",
