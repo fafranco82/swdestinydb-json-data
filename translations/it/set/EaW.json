@@ -40,7 +40,8 @@
     },
     {
         "code": "03007",
-        "name": "T-7 Ion Disruptor Rifle"
+        "name": "T-7 Ion Disruptor Rifle",
+        "text": "Gioca questa carta solo se avvisti un personaggio rosso.\n<b>Azione</b> - Scarta 1 carta dalla tua mano per girare questo dado su una faccia di valore superiore di 1 rispetto al valore di questo dado."
     },
     {
         "code": "03008",
@@ -56,15 +57,21 @@
     },
     {
         "code": "03010",
-        "name": "Settima Sorella"
+        "name": "Settima Sorella",
+        "subtitle": "Agile Inquisitrice",
+        "text": "Dopo che hai attivato questo personaggio, puoi tirare 1 dado Droide Cercatore ID9 ([EaW]13) nella tua riserva <em>(il suo valore X è pari al numero di dadi Droide Cercatore ID9 nella tua riserva)</em>. Dopo che è stato risolto o rimosso metti da parte quel dado."
     },
     {
         "code": "03011",
-        "name": "Grande Inquisitore"
+        "flavor": "\"Finalmente uno scontro che non sia soltanto una perdita di tempo.\""
+        "name": "Grande Inquisitore",
+        "subtitle": "Lealista Sith",
+        "text": "[special] - Rimuovi 1 dado personaggio \"vuoto\" ([blank]). Poi infliggi 2 danni a quel personaggio."
     },
     {
         "code": "03012",
-        "name": "TIE Advanced di Darth Vader"
+        "name": "TIE Advanced di Darth Vader",
+        "text": "[special] - Spendi 2 risorse per infliggere a un personaggio un ammontare di danni pari ai danni su di esso."
     },
     {
         "code": "03013",
@@ -79,7 +86,8 @@
     },
     {
         "code": "03015",
-        "name": "Spada Laser del Grande Inquisitore"
+        "name": "Spada Laser del Grande Inquisitore",
+        "text": "Solo personaggi blu.\n[special] - Gira 1 dado personaggio su una faccia \"vuoto\" ([blank]). Ripeti il tiro di questo dado invece di rimuoverlo dalla riserva."
     },
     {
         "code": "03016",
@@ -103,7 +111,8 @@
     },
     {
         "code": "03019",
-        "name": "Guardia Gamorreana"
+        "name": "Guardia Gamorreana",
+        "text": "Protezione.<em>(Prima di attivare questo personaggio, puoi rimuovere 1 dado \"danno\" e infliggere quei danni a questo personaggio.)</em>."
     },
     {
         "code": "03020",
@@ -118,7 +127,8 @@
     },
     {
         "code": "03022",
-        "name": "Pistola Blaster LL-30"
+        "name": "Pistola Blaster LL-30",
+        "text": "Imboscata. Riposizionamento.\n[special] - Gira 1 altro tuo dado su una faccia \"danno a distanza\" ([ranged])"
     },
     {
         "code": "03023",
@@ -192,7 +202,7 @@
       "flavor": "\"La festa è finita.\"",
         "name": "Mace Windu",
     "subtitle": "Campione Jedi",
-        "text": "<b>Azione</b> - Rimuovi questo dado per sconfiggere un personaggio con 2 o meno punti vita.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "<b>Azione</b> - Rimuovi questo dado per sconfiggere un personaggio con 2 o meno salute rimanente.</em>"
     },
     {
         "code": "03035",
@@ -250,7 +260,8 @@
     },
     {
         "code": "03044",
-        "name": "Trattativa Agguerrita"
+        "name": "Trattativa Agguerrita",
+        "text": "[special] - Guarda la mano di un avversario e scegli 2 carte da essa. Poi scarta quelle carte a meno che quell'avversario non spenda 2 risorse."
     },
     {
         "code": "03045",
@@ -260,9 +271,9 @@
     },
     {
         "code": "03046",
-        "flavor": "Sviluppato dai Genosiani, il cannone LR1K generava devastanti colpi sonici.",
+        "flavor": "Il cannone LR1K, sviluppato dai Genosiani, generava micidiali scariche soniche.",
         "name": "Cannone Sonico LR1K",
-        "text": "Prima di risolvere questo dado, puoi esaurire un tuo personaggio. Se lo fai, non devi pagare il costo in risorse su questo dado.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Prima di risolvere questo dado, puoi esaurire 1 tuo personaggio. Se lo fai, ignora il costo in risorse su questo dado."
     },
     {
         "code": "03047",
@@ -276,7 +287,8 @@
     },
     {
         "code": "03049",
-        "name": "Spada Laser Antica"
+        "name": "Spada Laser Antica",
+        "text": "<b>Azione</b> - Cura 2 danni al personaggio con questa miglioria. Colloca questa miglioria in fondo al mazzo."
     },
     {
         "code": "03050",
@@ -304,8 +316,10 @@
         "text": "Solo personaggi gialli.\n[special] - Scegli un avversario. Se hai più dadi \"danno a distanza \" ([ranged]) di quell'avversario, prendigli 1 risorsa."
     },
     {
-        "code": "03055",
-        "name": "X-8 Night Sniper"
+        "code": "03055",        
+        "flavor": "Il mirino computerizzato e il silenziatore integrato del Night Sniper X-8 facevano di questo modello l'arma preferita di Lando Calrissian.",
+        "name": "Night Sniper X-8",
+        "text": "Imboscata.\n<b>Azione</b> - Spendi 1 risorsa per girare questo dado su una faccia a tua scelta."
     },
     {
         "code": "03056",
@@ -396,11 +410,7 @@
         "name": "Indomito",
         "text": "Gioca questa carta solo se hai esattamente 1 personaggio.\nFornisci 3 scudi a un personaggio blu."
     },
-    {
-        "code": "03073",
-        "name": "Sarà Tutto Mio"
 
-    },
     {
         "code": "03074",
         "flavor": "Il Primo Ordine giustiziò ogni membro del villaggio di Jakku per non lasciare alcun testimone.",
@@ -502,7 +512,8 @@
     }, 
     {
         "code": "03093",
-        "name": "Reckless Reentry"
+        "name": "Rientro Precipitoso",
+        "text": "Sceli 1 dado su un tuo <i>Veicolo</i> in gioco e tiralo nella riserva. Poi, se il dado appena tirato ha ottenuto \"vuoto\" ([blank]), scarta quel <i>Veicolo</i>."
     },
     {
         "code": "03094",
