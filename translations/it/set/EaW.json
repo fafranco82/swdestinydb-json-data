@@ -63,7 +63,7 @@
     },
     {
         "code": "03011",
-        "flavor": "\"Finalmente uno scontro che non sia soltanto una perdita di tempo.\""
+        "flavor": "\"Finalmente uno scontro che non sia soltanto una perdita di tempo.\"",
         "name": "Grande Inquisitore",
         "subtitle": "Lealista Sith",
         "text": "[special] - Rimuovi 1 dado personaggio \"vuoto\" ([blank]). Poi infliggi 2 danni a quel personaggio."
@@ -372,7 +372,7 @@
     {
         "code": "03065",
         "name": "Prepararsi alla Guerra",
-        "text": "Gioca questa carta solo come prima azione di questo round <em>(nessun giocatore ha effettuato azioni)</em>.\Ottieni 1 risorsa."
+        "text": "Gioca questa carta solo come prima azione di questo round <em>(nessun giocatore ha effettuato azioni)</em>.\nOttieni 1 risorsa."
     },
     {
         "code": "03066",
