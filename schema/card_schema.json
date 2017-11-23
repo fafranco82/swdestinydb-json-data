@@ -88,7 +88,7 @@
         },
         "sides": {
             "items": {
-                "pattern": "^[+]?(\\d+)?(MD|RD|ID|F|Dr|Dc|Sh|R|Sp|-|X)(\\d+)?$",
+                "pattern": "^((([+]?(\\d+)(MD|RD|ID|F|Dr|Dc|Sh|R|X)|Sp)(\\d+)?)|-)$",
                 "type": "string"
             },
             "maxItems": 6,
