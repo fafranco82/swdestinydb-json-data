@@ -1,0 +1,245 @@
+[
+    {
+        "code": "05002",
+        "flavor": "\"Formerly Darth, now just Maul.\"",
+        "name": "Maul",
+        "subtitle": "Vengeful One",
+        "text": "After one or more of this character's character or upgrade dice are removed by an opponent's card effect, you may remove one of their dice."
+    },
+    {
+        "code": "05003",
+        "flavor": "\"I use dark magick to achieve power.\"",
+        "name": "Mother Talzin",
+        "subtitle": "Nightsister Matriarch",
+        "text": "After you activate this character, you may reveal the top card of a player's deck. If its cost is an odd number, turn one of that player's dice to any side."
+    },
+    {
+        "code": "05004",
+        "flavor": "\"There is no mercy.\"",
+        "name": "Palpatine",
+        "subtitle": "Darth Sidious",
+        "text": "<b>Power Action</b> - Play an event from your hand, decreasing its cost by the number of different damage symbols ([ranged], [melee] or [indirect]) showing on your dice."
+    },
+    {
+        "code": "05006",
+        "name": "Crystal Ball",
+        "text": "After you activate attached character, you may look at the top card of a deck."
+    },
+    {
+        "code": "05008",
+        "name": "Maul's Lightsaber",
+        "text": "Blue character only.\n<b>Power Action</b> - If an opponent has no shields on all of their characters, roll this die into your pool."
+    },
+    {
+        "code": "05009",
+        "flavor": "\"Roger, Roger.\"",
+        "name": "Battle Droid",
+        "text": "After you activate this character, if this die just rolled indirect damage ([indirect]), you may activate one of your other Battle Droids ([LEG]9)."
+    },
+    {
+        "code": "05013",
+        "flavor": "The elite soldier of the Imperial Military, trained for complete obedience to the command hierarchy, as well as the Galactic Emperor Palpatine.",
+        "name": "Veteran Stormtrooper"
+    },
+    {
+        "code": "05014",
+        "flavor": "A heavy transport starship used by the Trade Federation for transporting and deploying droid battalions planet side.",
+        "name": "Separatist Landing Craft",
+        "text": "[special] - Spend 2 resources to add a Battle Droid ([LEG]9) to your team. Discard this support from play."
+    },
+    {
+        "code": "05019",
+        "flavor": "\"Don't get in my way.\"",
+        "name": "Boba Fett",
+        "subtitle": "Deadly Mercenary",
+        "text": "[special] - Deal damage to a character equal to the value showing on a die <em>(yours or an opponent's)</em>."
+    },
+    {
+        "code": "05020",
+        "name": "Doctor Aphra",
+        "subtitle": "Artifact Hunter",
+        "text": "The cost of the first <i>droid</i> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card."
+    },
+    {
+        "code": "05024",
+        "name": "BT-1",
+        "text": "After you activate this support, deal 1 indirect damage ([indirect]) to yourself. Then deal 1 indirect damage ([indirect]) to an opponent."
+    },
+    {
+        "code": "05025",
+        "name": "Slave I",
+        "text": "<b>Power Action</b> - Reroll one of your Yellow dice. Then you may remove an opponent's die showing a value equal to the value showing on the die you just rerolled."
+    },
+    {
+        "code": "05027",
+        "name": "Wrist Rockets",
+        "text": "Yellow character only.\n[special] - Deal one damage to a character. You may spend 1 resource to deal 2 damage to a character."
+    },
+    {
+        "code": "05029",
+        "flavor": "\"Sometimes it takes courage to stick to one's beliefs.\"",
+        "name": "Aayla Secura",
+        "subtitle": "Jedi General",
+        "text": "[special] - Turn one of your Blue or Red dice to any side. Turn an opponent's die to any side."
+    },
+    {
+        "code": "05031",
+        "flavor": "\"I want to learn the ways of the Force and become a Jedi like my father.\"",
+        "name": "Luke Skywalker",
+        "subtitle": "Unlikely Hero",
+        "text": "<b>Power Action</b> - Spend 2 resources to resolve one of this character's character or upgrade dice, increasing its value by 2."
+    },
+    {
+        "code": "05032",
+        "flavor": "\"Your move\"",
+        "name": "Obi-Wan Kenobi",
+        "subtitle": "Jedi Master",
+        "text": "After you activate this character, you may give a character 1 shield."
+    },
+    {
+        "code": "05033",
+        "flavor": "\"Do. Or do not. There is not try.\"",
+        "name": "Yoda",
+        "subtitle": "Wizened Master",
+        "text": "[special]- Choose and do two of the following: gain 1 resource, give a characeter 1 shield, turn one of your dice to any side, or dicard the top card of a deck."
+    },
+    {
+        "code": "05036",
+        "name": "Force Meditation",
+        "text": "To play, spot a Blue character.\n[special] - Discard the top 2 cards of a deck."
+    },
+    {
+        "code": "05037",
+        "name": "Obi-Wan Kenobi's Lightsaber",
+        "text": "Blue character only.\n[special] - Give attached character 1 shield. Deal unblockable damage to a character equal to the number of shields on attached character."
+    },
+    {
+        "code": "05041",
+        "flavor": "\"Making my run now.\"",
+        "name": "Wedge Antilles",
+        "subtitle": "Squad Leader",
+        "text": "<b>Power Action</b> - Turn one of your <i>vehicle</i> dice to any side."
+    },
+    {
+        "code": "05043",
+        "name": "Resistance Bomber",
+        "text": "After this die is resolved, place 1 damage on this support.\nDiscard this support if it has 3 or more damage on it."
+    },
+    {
+        "code": "05046",
+        "flavor": "\"Hokey religions and ancient weapons are no match for a good blaster at your side, kid.\"",
+        "name": "Han Solo",
+        "subtitle": "Savvy Smuggler",
+        "text": "After you activate this character, you may reroll a die <em>(yours or an opponent's)</em>."
+    },
+    {
+        "code": "05052",
+        "flavor": "\"Chewie… we're home.\" <cite>Han Solo</cite>",
+        "name": "Millennium Falcon",
+        "text": "After to activate this support, you may activate one of your characters."
+    },
+    {
+        "code": "05056",
+        "name": "Force Focus",
+        "text": "To play, spot a Blue character.\n[special] - Turn one of your dice to any side. You may reveal a Blue card from your hand to turn an opponent's die to any side."
+    },
+    {
+        "code": "05058",
+        "name": "Heirloom Lightsaber",
+        "text": "This upgrade has the Reploy keyword while it's on a Blue character."
+    },
+    {
+        "code": "05077",
+        "name": "Double Strike",
+        "text": "Resolve one of your dice showing melee damage ([melee]) without removing it from your pool."
+    },
+    {
+        "code": "05080",
+        "name": "Snare",
+        "text": "Play only if you have one or more exhausted characters.\nExhaust a character."
+    },
+    {
+        "code": "05083",
+        "name": "Nightsister Coven",
+        "text": "After a character die rolls a blank ([blank]), you may exhaust this support to reveal the top card of a deck. If its cost is an odd number, deal 1 damage to that character."
+    },
+    {
+        "code": "05092",
+        "flavor": "\"That was fun. Let's never do that again.\" <cite>Doctor Aphra</cite>",
+        "name": "Delve",
+        "text": "Deal 1 indirect damage ([indirect]) to yourself to play a support or upgrade from your hand for free."
+    },
+    {
+        "code": "05100",
+        "name": "Adapt",
+        "text": "Remove 1 shield from one of your characters to gain 1 resource."
+    },
+    {
+        "code": "05101",
+        "name": "Ataru Strike",
+        "text": "Resolve one of your Blue character dice showing melee damage ([melee]), increaing its value by the number of shields on that character."
+    },
+    {
+        "code": "05106",
+        "name": "Defensive Teaching",
+        "text": "Each of your Blue characters can have 1 additional shield."
+    },
+    {
+        "code": "05119",
+        "name": "Impulsive",
+        "text": "Ambush.\nResolve one of your dice."
+    },
+    {
+        "code": "05122",
+        "flavor": "Maz Kanata amassed a large collection of curiosities from her many travels throughout the galaxy.",
+        "name": "Maz's Vault",
+        "text": "Each player gains 1 additional resource during the upkeep phase."
+    },
+    {
+        "code": "05137",
+        "name": "Crash Landing",
+        "text": "Remove a die showing damage ([ranged], [melee] or [indirect]). Then deal indirect damage ([indirect]) to yourself equal to the value showing on that die."
+    },
+    {
+        "code": "05139",
+        "name": "Locked and Loaded",
+        "text": "Spot a Red character to turn up to 2 of your dice to sides showing indirect damage ([indirect])."
+    },
+    {
+        "code": "05140",
+        "name": "Reinforce",
+        "text": "Roll a character die on one of your character into your pool if you have another copy of that character in play."
+    },
+    {
+        "code": "05141",
+        "name": "Strength in Numbers",
+        "text": "Deal indirect damage ([indirect]) to an opponent equal to the number of exhausted characters you have."
+    },
+    {
+        "code": "05145",
+        "name": "Bubble Shield",
+        "text": "You may distribute indirect damage ([indirect]) to this support as if it were a character with 3 health.\nDiscard this support if it has 3 or more damage on it."
+    },
+    {
+        "code": "05168",
+        "name": "Espionage",
+        "text": "After setup, discard the top card from each deck."
+    },
+    {
+        "code": "05171",
+        "name": "Profitable Connection",
+        "text": "You start the game with 1 additional resource."
+    },
+    {
+        "code": "05174",
+        "name": "Arid Wasteland",
+        "subtitle": "Geonosis",
+        "text": "<b>Claim</b> - Force an opponent to lose 1 resource."
+    },
+    {
+        "code": "05178",
+        "name": "Outer Rim Outpost",
+        "subtitle": "Nal Hutta",
+        "text": "<b>Claim</b> - Gain 1 resource and draw a card."
+    }
+]

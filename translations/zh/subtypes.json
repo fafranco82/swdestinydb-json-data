@@ -8,6 +8,10 @@
         "name": "Artillery"
     },
     {
+        "code": "bounty-hunter",
+        "name": "Bounty Hunter"
+    },
+    {
         "code": "droid",
         "name": "机器人"
     },
@@ -16,8 +20,36 @@
         "name": "装备"
     },
     {
+        "code": "jawa",
+        "name": "Jawa"
+    },
+    {
+        "code": "jedi",
+        "name": "Jedi"
+    },
+    {
+        "code": "location",
+        "name": "Location"
+    },
+    {
+        "code": "pilot",
+        "name": "Pilot"
+    },
+    {
+        "code": "scoundrel",
+        "name": "Scoundrel"
+    },
+    {
+        "code": "sith",
+        "name": "Sith"
+    },
+    {
         "code": "title",
         "name": "Title"
+    },
+    {
+        "code": "trooper",
+        "name": "Trooper"
     },
     {
         "code": "vehicle",
@@ -26,5 +58,9 @@
     {
         "code": "weapon",
         "name": "武器"
+    },
+    {
+        "code": "witch",
+        "name": "Witch"
     }
 ]
