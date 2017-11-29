@@ -320,7 +320,7 @@
         "has_die": true,
         "has_errata": false,
         "illustrator": "Sacha Diener",
-        "is_unique": false,
+        "is_unique": true,
         "name": "Darth Vader's TIE Advanced",
         "position": 12,
         "rarity_code": "R",
