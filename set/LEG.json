@@ -680,7 +680,7 @@
             "-"
         ],
         "subtype_code": "weapon",
-        "text": "This upgrade has the Reploy keyword while it's on a Blue character.",
+        "text": "This upgrade has the Redeploy keyword while it's on a Blue character.",
         "type_code": "upgrade"
     },
     {
