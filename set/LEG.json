@@ -738,7 +738,7 @@
             "-"
         ],
         "subtype_code": "artillery",
-        "text": "<b>Power Action</b> - Spend 1 resource to roll a Runaway Boomas ([LEG]51) die into your pool. Set aside that die after it is resolved or removed.\n(<i>Use each power action only once per round.</i>)",
+        "text": "<b>Power Action</b> - Spend 1 resource to roll a Runaway Boomas ([LEG]51) die into your pool. Set aside that die after it is resolved or removed.",
         "type_code": "support"
     },
     {
