@@ -62,5 +62,17 @@
     {
         "code": "sith",
         "name": "Sith"
+    },
+    {
+        "code": "leader",
+        "name": "Leader"
+    },
+    {
+        "code": "gungan",
+        "name": "Gungan"
+    },
+    {
+        "code": "artillery",
+        "name": "Artillery"
     }
 ]
