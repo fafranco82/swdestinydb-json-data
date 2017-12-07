@@ -688,7 +688,7 @@
         "type_code": "character"
     },
     {
-        "affiliation_code": "villain",
+        "affiliation_code": "hero",
         "code": "05049",
         "deck_limit": 1,
         "faction_code": "yellow",
