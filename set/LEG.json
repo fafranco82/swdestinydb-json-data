@@ -1,6 +1,32 @@
 [
     {
         "affiliation_code": "villain",
+        "code": "05001",
+        "deck_limit": 3,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "Tony Foti",
+        "is_unique": false,
+        "name": "Dark Advisor",
+        "points": "8",
+        "position": 1,
+        "rarity_code": "R",
+        "set_code": "LEG",
+        "sides": [
+            "1ID",
+            "2ID",
+            "1F",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "text": "[special] - Draw 3 cards. Then place a card from your hand on the top or bottom of your deck.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "05002",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -84,6 +110,32 @@
         "subtype_code": "sith",
         "text": "<b>Power Action</b> - Play an event from your hand, decreasing its cost by the number of different damage symbols ([ranged], [melee] or [indirect]) showing on your dice.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "05005",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Matt Bradbury",
+        "is_unique": true,
+        "name": "Kylo Ren's Starfighter",
+        "position": 5,
+        "rarity_code": "L",
+        "set_code": "LEG",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1Sh",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "vehicle",
+        "text": "[special] - Choose a color. Then reveal an opponent's hand and deal indirect damage ([indirect]) to them equal to the number of cards in their hand that match the chosen color.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
@@ -1016,6 +1068,31 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "05060",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Tony Foti",
+        "is_unique": false,
+        "name": "Ground Battalion",
+        "position": 60,
+        "rarity_code": "R",
+        "set_code": "LEG",
+        "sides": [
+            "2RD",
+            "2ID",
+            "3ID",
+            "4ID1",
+            "1Sh",
+            "-"
+        ],
+        "text": "After you activate this support, you may take control of the battlefield. <em>(This does not claim the battlefield.)</em>",
+        "type_code": "support"
+      },
+      {
+        "affiliation_code": "neutral",
         "code": "05063",
         "cost": 2,
         "deck_limit": 2,
@@ -1187,6 +1264,23 @@
         "rarity_code": "C",
         "set_code": "LEG",
         "text": "Heal up to 2 damage from an opponent's character. Gain resources equal to the amount of damage you just healed.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "05099",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Ryan Valle",
+        "is_unique": false,
+        "name": "Outnumber",
+        "position": 99,
+        "rarity_code": "C",
+        "set_code": "LEG",
+        "text": "Play only if an opponent has fewer characters in play than you.\nRemove one of that opponent's dice.",
         "type_code": "event"
     },
     {
@@ -1476,6 +1570,23 @@
         "rarity_code": "U",
         "set_code": "LEG",
         "text": "Deal 1 damage to an opponent's character. Then that opponent may discard a card from their hand to repeat this effect.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "05157",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Well-Connected",
+        "position": 157,
+        "rarity_code": "C",
+        "set_code": "LEG",
+        "text": "Spot a Yellow character to gain 1 resource. Each opponent may draw a card.",
         "type_code": "event"
     },
     {
