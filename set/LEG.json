@@ -1090,8 +1090,8 @@
         ],
         "text": "After you activate this support, you may take control of the battlefield. <em>(This does not claim the battlefield.)</em>",
         "type_code": "support"
-      },
-      {
+    },
+    {
         "affiliation_code": "neutral",
         "code": "05063",
         "cost": 2,
