@@ -1,6 +1,32 @@
 [
     {
         "affiliation_code": "villain",
+        "code": "05001",
+        "deck_limit": 3,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "Tony Foti",
+        "is_unique": false,
+        "name": "Dark Advisor",
+        "points": "8",
+        "position": 1,
+        "rarity_code": "R",
+        "set_code": "LEG",
+        "sides": [
+            "1ID",
+            "2ID",
+            "1F",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "text": "[special] - Draw 3 cards. Then place a card from your hand on the top or bottom of your deck.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "05002",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -981,6 +1007,23 @@
         "type_code": "event"
     },
     {
+        "affiliation_code": "villain",
+        "code": "05099",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Ryan Valle",
+        "is_unique": false,
+        "name": "Outnumber",
+        "position": 99,
+        "rarity_code": "C",
+        "set_code": "LEG",
+        "text": "Play only if an opponent has fewer characters in play than you.\nRemove one of that opponent's dice.",
+        "type_code": "event"
+    },
+    {
         "affiliation_code": "hero",
         "code": "05100",
         "cost": 0,
@@ -1183,6 +1226,23 @@
         "rarity_code": "U",
         "set_code": "LEG",
         "text": "Deal 1 damage to an opponent's character. Then that opponent may discard a card from their hand to repeat this effect.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "05157",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Well-Connected",
+        "position": 157,
+        "rarity_code": "C",
+        "set_code": "LEG",
+        "text": "Spot a Yellow character to gain 1 resource. Each opponent may draw a card.",
         "type_code": "event"
     },
     {
