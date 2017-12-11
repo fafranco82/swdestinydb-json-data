@@ -87,6 +87,32 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "05005",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Matt Bradbury",
+        "is_unique": true,
+        "name": "Kylo Ren's Starfighter",
+        "position": 5,
+        "rarity_code": "L",
+        "set_code": "LEG",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1Sh",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "vehicle",
+        "text": "[special] - Choose a color. Then reveal an opponent's hand and deal indirect damage ([indirect]) to them equal to the number of cards in their hand that match the chosen color.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "05006",
         "cost": 1,
         "deck_limit": 1,
@@ -848,6 +874,31 @@
         "subtype_code": "weapon",
         "text": "This upgrade has the Redeploy keyword while it's on a Blue character.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "05060",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Tony Foti",
+        "is_unique": false,
+        "name": "Ground Battalion",
+        "position": 60,
+        "rarity_code": "R",
+        "set_code": "LEG",
+        "sides": [
+            "2RD",
+            "2ID",
+            "3ID",
+            "4ID1",
+            "1Sh",
+            "-"
+        ],
+        "text": "After you activate this support, you may take control of the battlefield. <em>(This does not claim the battlefield.)</em>",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
