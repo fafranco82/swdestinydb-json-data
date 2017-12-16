@@ -40,6 +40,10 @@
         "name": "Scoundrel"
     },
     {
+        "code": "spectre",
+        "name": "Spectre"
+    },
+    {
         "code": "title",
         "name": "Title"
     },
