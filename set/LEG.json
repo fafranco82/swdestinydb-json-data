@@ -554,6 +554,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 7,
+        "illustrator": " ",
         "is_unique": true,
         "name": "Greedo",
         "points": "7/11",
@@ -571,6 +572,32 @@
         "subtitle": "Unlucky Mercenary",
         "subtype_code": "bounty-hunter",
         "text": "Before this character is defeated, roll any number of his character dice into your pool. Then resolve any number of his character dice in the order of your choice.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "05022",
+        "deck_limit": 3,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Rebel Traitor",
+        "points": "8",
+        "position": 22,
+        "rarity_code": "R",
+        "set_code": "LEG",
+        "sides": [
+            "1ID",
+            "2ID",
+            "1Dr",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "text": "After you activate this character, you may force an opponent to activate one of their character as their next action this round, if able.",
         "type_code": "character"
     },
     {
@@ -651,6 +678,32 @@
         "subtype_code": "vehicle",
         "text": "<b>Power Action</b> - Reroll one of your Yellow dice. Then you may remove an opponent's die showing a value equal to the value showing on the die you just rerolled.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "05026",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Hunter Instinct",
+        "position": 26,
+        "rarity_code": "S",
+        "set_code": "LEG",
+        "sides": [
+            "1F",
+            "1Dr",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "ability",
+        "text": "[special] - Deal 1 damage to a character, or 2 damage instead if that character has 3 or more damage on it.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "villain",
@@ -874,6 +927,33 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "05035",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"I've never seen a jam he couldn't beep his way out of.\" <cite>Leia Organa</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "R2-D2",
+        "position": 35,
+        "rarity_code": "S",
+        "set_code": "LEG",
+        "sides": [
+            "1MD",
+            "1Dr",
+            "1Sh",
+            "1R",
+            "Sp",
+            "Sp"
+        ],
+        "subtype_code": "droid",
+        "text": "[special] - Draw a card. You may turn one of your dice to any side.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "05036",
         "cost": 2,
         "deck_limit": 2,
@@ -1062,6 +1142,32 @@
         "subtype_code": "pilot",
         "text": "<b>Power Action</b> - Turn one of your <i>vehicle</i> dice to any side.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "05042",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Mortar Team",
+        "position": 42,
+        "rarity_code": "R",
+        "set_code": "LEG",
+        "sides": [
+            "1ID",
+            "1ID",
+            "2ID",
+            "2ID",
+            "1Dr",
+            "-"
+        ],
+        "subtype_code": "artillery",
+        "text": "While you control the battlefield, you may resolve the indirect damage ([indirect]) sides of this die as if they were ranged damage ([ranged]).",
+        "type_code": "support"
     },
     {
         "affiliation_code": "hero",
@@ -1496,6 +1602,32 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "05059",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Hush-98 Comlink",
+        "position": 59,
+        "rarity_code": "R",
+        "set_code": "LEG",
+        "sides": [
+            "1F",
+            "2F",
+            "1Sh",
+            "1R",
+            "+1R",
+            "-"
+        ],
+        "subtype_code": "equipment",
+        "text": "<b>Action</b> - Remove this die to activate any number of your characters and/or supports in the order of your choice.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "05060",
         "cost": 4,
         "deck_limit": 2,
@@ -1655,6 +1787,33 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "05066",
+        "cost": 5,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"But you know what I always say: speak softly, and drive a big tank.\" <cite>Hondo Ohnaka</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Pirate Speeder Tank",
+        "position": 66,
+        "rarity_code": "L",
+        "set_code": "LEG",
+        "sides": [
+            "3RD",
+            "4ID",
+            "5ID1",
+            "2Sh",
+            "Sp",
+            "-"
+        ],
+        "subtype_code": "vehicle",
+        "text": "[special] - Deal 2 damage to a character, give a character 2 shields, and take one additional action.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "05067",
         "cost": 1,
         "deck_limit": 2,
@@ -1676,7 +1835,32 @@
             "-"
         ],
         "subtype_code": "ability",
-        "text": "[special] - Gain1 resource. You may force each player to draw a card.",
+        "text": "[special] - Gain 1 resource. You may force each player to draw a card.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "05068",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Gang Up",
+        "position": 68,
+        "rarity_code": "R",
+        "set_code": "LEG",
+        "sides": [
+            "0ID",
+            "0ID",
+            "0F",
+            "0Dr",
+            "0Sh",
+            "-"
+        ],
+        "text": "X is equal to the number of Yellow characters you have in play.",
         "type_code": "upgrade"
     },
     {
@@ -1707,6 +1891,32 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "05070",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Modified HWK-290",
+        "position": 70,
+        "rarity_code": "R",
+        "set_code": "LEG",
+        "sides": [
+            "2RD",
+            "3RD1",
+            "3ID",
+            "4ID1",
+            "1R",
+            "-"
+        ],
+        "subtype_code": "vehicle",
+        "text": "After you play this support, place 2 damage on it.\nAfter you activate this support, deal indirect damage ([indirect]) to yourself equal to the damage on it.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "05071",
         "cost": 3,
         "deck_limit": 2,
@@ -1729,6 +1939,32 @@
         ],
         "subtype_code": "weapon",
         "text": "Redeploy.\n[special] - Deal 2 damage to a character, or 3 damage instead if it is a villain.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "05072",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Hidden Blaster",
+        "position": 72,
+        "rarity_code": "S",
+        "set_code": "LEG",
+        "sides": [
+            "1RD",
+            "+2RD",
+            "+2RD",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtype_code": "weapon",
+        "text": "Ambush.\nAfter you play this upgrade, you may remove 1 shield from a character.",
         "type_code": "upgrade"
     },
     {
