@@ -848,7 +848,7 @@
     {
         "affiliation_code": "hero",
         "code": "05034",
-        "cost": 2,
+        "cost": 3,
         "deck_limit": 2,
         "faction_code": "blue",
         "flavor": "The ETA-2 Interceptor was the starfighter of choice of Jedi during the Clone Wars.",
