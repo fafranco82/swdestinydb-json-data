@@ -393,7 +393,7 @@
         "illustrator": "Mark Molnar",
         "is_unique": false,
         "name": "Fragmentation Grenade",
-        "position": 16,
+        "position": 15,
         "rarity_code": "R",
         "set_code": "LEG",
         "sides": [
@@ -1810,7 +1810,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "[special] - Deal 2 damage to a character, give a character 2 shields, and take one additional action.",
-        "type_code": "upgrade"
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
