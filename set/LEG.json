@@ -2474,7 +2474,7 @@
     {
         "affiliation_code": "neutral",
         "code": "05141",
-        "cost": 1,
+        "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
