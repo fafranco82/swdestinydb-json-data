@@ -980,32 +980,6 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "05036",
-        "cost": 2,
-        "deck_limit": 2,
-        "faction_code": "blue",
-        "has_die": true,
-        "has_errata": false,
-        "illustrator": "Tony Foti",
-        "is_unique": false,
-        "name": "Force Meditation",
-        "position": 36,
-        "rarity_code": "R",
-        "set_code": "LEG",
-        "sides": [
-            "1F",
-            "1Sh",
-            "1R",
-            "Sp",
-            "Sp",
-            "-"
-        ],
-        "subtype_code": "ability",
-        "text": "To play, spot a Blue character.\n[special] - Discard the top 2 cards of a deck.",
-        "type_code": "upgrade"
-    },
-    {
-        "affiliation_code": "hero",
         "code": "05037",
         "cost": 3,
         "deck_limit": 2,
@@ -2171,23 +2145,6 @@
         "set_code": "LEG",
         "text": "After a character die rolls a blank ([blank]), you may exhaust this support to reveal the top card of a deck. If its cost is an odd number, deal 1 damage to that character.",
         "type_code": "support"
-    },
-    {
-        "affiliation_code": "villain",
-        "code": "05084",
-        "cost": 1,
-        "deck_limit": 2,
-        "faction_code": "red",
-        "has_die": false,
-        "has_errata": false,
-        "illustrator": " ",
-        "is_unique": false,
-        "name": "Battle Fatigue",
-        "position": 84,
-        "rarity_code": "C",
-        "set_code": "LEG",
-        "text": "Play only if each of an opponent's characters has one or more damage on them.\\nRemove one of that opponent's dice.",
-        "type_code": "event"
     },
     {
         "affiliation_code": "villain",
