@@ -379,5 +379,203 @@
                 "dice": 0
             }
         }
+    },
+    {
+        "code": "LEG-V",
+        "name": "Boba Fett Starter Set",
+        "set_code": "LEG",
+        "slots": {
+            "05013": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05019": {
+                "quantity": 1,
+                "dice": 2
+            },
+            "05025": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05026": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05027": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05064": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05072": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05073": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05084": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05086": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05096": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05097": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05098": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05136": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05137": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05139": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05143": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05151": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05152": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05155": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05160": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05163": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05174": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
+    },
+    {
+        "code": "LEG-H",
+        "name": "Luke Skywalker Starter Set",
+        "set_code": "LEG",
+        "slots": {
+            "05031": {
+                "quantity": 1,
+                "dice": 2
+            },
+            "05035": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05046": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05052": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05056": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05058": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05072": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05073": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05102": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05116": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05119": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05121": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05122": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05125": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05128": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05130": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05133": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05134": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05147": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05150": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05153": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05155": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05178": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
     }
 ]
