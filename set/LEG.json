@@ -2542,7 +2542,7 @@
         "affiliation_code": "hero",
         "code": "05107",
         "cost": 2,
-        "deck_limit": 1,
+        "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
         "has_errata": false,
