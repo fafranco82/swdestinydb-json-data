@@ -267,6 +267,7 @@
             "1R",
             "-"
         ],
+        "subtitle": "Agent of the Empire",
         "text": "<b>Power Action</b> - Turn this die showing ranged damage ([ranged]) to a side showing melee damage ([melee]), or vice versa.",
         "type_code": "character"
     },
@@ -294,6 +295,7 @@
             "+1R",
             "-"
         ],
+        "subtitle": "Separatist Viceroy",
         "subtype_code": "leader",
         "text": "Each opponent gains 1 fewer resource during the upkeep phase, to a minimum of 1, unless that opponent discards the top 2 cards of their deck.",
         "type_code": "character"
@@ -542,7 +544,7 @@
         ],
         "subtitle": "Artifact Hunter",
         "subtype_code": "scoundrel",
-        "text": "The cost of the first <i>droid</i> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card.",
+        "text": "The cost of the first <b>droid</b> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card.",
         "type_code": "character"
     },
     {
@@ -728,7 +730,7 @@
             "-"
         ],
         "subtype_code": "weapon",
-        "text": "Yellow character only.\n[special] - Deal one damage to a character. You may spend 1 resource to deal 2 damage to a character.",
+        "text": "Yellow character only.\n[special] - Deal 2 damage to a character. You may spend 1 resource to deal 2 damage to a character.",
         "type_code": "upgrade"
     },
     {
@@ -809,6 +811,7 @@
             "1R",
             "-"
         ],
+        "subtype_code": "jedi",
         "text": "Guardian.",
         "type_code": "character"
     },
@@ -1114,7 +1117,7 @@
         ],
         "subtitle": "Squad Leader",
         "subtype_code": "pilot",
-        "text": "<b>Power Action</b> - Turn one of your <i>vehicle</i> dice to any side.",
+        "text": "<b>Power Action</b> - Turn one of your <b>vehicle</b> dice to any side.",
         "type_code": "character"
     },
     {
@@ -1302,7 +1305,7 @@
             "1R",
             "-"
         ],
-        "text": "After you deal indirect damage ([indirect]) yo an opponent for the first time each round, you may discard the top card of a deck.",
+        "text": "After you deal indirect damage ([indirect]) to an opponent for the first time each round, you may discard the top card of a deck.",
         "type_code": "character"
     },
     {
@@ -1475,11 +1478,11 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "gray",
-        "flavor": "<em>pending</em>",
+        "flavor": "These ships were painted red when used to transport diplomats as a warning not to attack.",
         "has_die": true,
         "has_errata": false,
         "illustrator": " ",
-        "is_unique": true,
+        "is_unique": false,
         "name": "Republic Cruiser",
         "position": 55,
         "rarity_code": "R",
@@ -1545,7 +1548,7 @@
             "-"
         ],
         "subtype_code": "ability",
-        "text": "Blue character only.\n[special] - Deal 3 damage to a character. Then deal 2 damage to a another character. Then deal 1 damage to a third character.",
+        "text": "Blue character only.\n[special] - Deal 3 damage to a character. Deal 2 damage to a another character. Deal 1 damage to a third character.",
         "type_code": "upgrade"
     },
     {
@@ -1657,7 +1660,7 @@
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "<em>Pending</em>",
+        "flavor": "Sometimes the best tactic is to not aim.",
         "has_die": true,
         "has_errata": false,
         "illustrator": " ",
@@ -1947,7 +1950,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "gray",
-        "flavor": "Slugthrowers, like the 6-2Aug2, were commonly found on backwater planets like Tatooine",
+        "flavor": "Slugthrowers, like the 6-2Aug2, were commonly found on backwater planets like Tatooine.",
         "has_die": true,
         "has_errata": false,
         "illustrator": "Jason Juta",
