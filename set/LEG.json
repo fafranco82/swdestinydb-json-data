@@ -336,7 +336,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 9,
-        "illustrator": " ",
+        "illustrator": "Jacob Atienza",
         "is_unique": false,
         "name": "Veteran Stormtrooper",
         "points": "9",
@@ -728,7 +728,7 @@
             "-"
         ],
         "subtype_code": "weapon",
-        "text": "Yellow character only.\n[special] - Deal one damage to a character. You may spend 1 resource to deal 2 damage to a character.",
+        "text": "Yellow character only.\n[special] - Deal 2 damage to a character. You may spend 1 resource to deal 2 damage to a character.",
         "type_code": "upgrade"
     },
     {
@@ -3353,7 +3353,7 @@
         "position": 154,
         "rarity_code": "U",
         "set_code": "LEG",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\\nChoose an opponent's character or support and force them to activate it, if able.",
+        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nChoose an opponent's character or support and force them to activate it, if able.",
         "type_code": "event"
     },
     {
@@ -3421,7 +3421,7 @@
         "position": 158,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\\nRemove up to 3 dice showing melee damage ([melee]).",
+        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nRemove up to 3 dice showing melee damage ([melee]).",
         "type_code": "event"
     },
     {
@@ -3438,7 +3438,7 @@
         "position": 159,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\\nRemove up to 3 dice showing ranged damage ([ranged]).",
+        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nRemove up to 3 dice showing ranged damage ([ranged]).",
         "type_code": "event"
     },
     {
@@ -3560,7 +3560,7 @@
         "rarity_code": "U",
         "set_code": "LEG",
         "subtype_code": "title",
-        "text": "Non-unique character only.\\nAttached character has the Guardian keyword. <em>(Before you activate this character, you may remove an opponent's die showing damage to deal that damage to this character.)</em>",
+        "text": "Non-unique character only.\nAttached character has the Guardian keyword. <em>(Before you activate this character, you may remove an opponent's die showing damage to deal that damage to this character.)</em>",
         "type_code": "upgrade"
     },
     {
