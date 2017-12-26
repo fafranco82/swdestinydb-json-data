@@ -273,6 +273,7 @@
             "1R",
             "-"
         ],
+        "subtitle": "Agent of the Empire",
         "text": "<b>Power Action</b> - Turn this die showing ranged damage ([ranged]) to a side showing melee damage ([melee]), or vice versa.",
         "type_code": "character"
     },
@@ -300,6 +301,7 @@
             "+1R",
             "-"
         ],
+        "subtitle": "Separatist Viceroy",
         "subtype_code": "leader",
         "text": "Each opponent gains 1 fewer resource during the upkeep phase, to a minimum of 1, unless that opponent discards the top 2 cards of their deck.",
         "type_code": "character"
@@ -823,6 +825,7 @@
             "1R",
             "-"
         ],
+        "subtype_code": "jedi",
         "text": "Guardian.",
         "type_code": "character"
     },
@@ -1324,7 +1327,7 @@
             "1R",
             "-"
         ],
-        "text": "After you deal indirect damage ([indirect]) yo an opponent for the first time each round, you may discard the top card of a deck.",
+        "text": "After you deal indirect damage ([indirect]) to an opponent for the first time each round, you may discard the top card of a deck.",
         "type_code": "character"
     },
     {
@@ -1498,11 +1501,11 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "gray",
-        "flavor": "<em>pending</em>",
+        "flavor": "These ships were painted red when used to transport diplomats as a warning not to attack.",
         "has_die": true,
         "has_errata": false,
         "illustrator": " ",
-        "is_unique": true,
+        "is_unique": false,
         "name": "Republic Cruiser",
         "position": 55,
         "rarity_code": "R",
@@ -1569,7 +1572,7 @@
             "-"
         ],
         "subtype_code": "ability",
-        "text": "Blue character only.\n[special] - Deal 3 damage to a character. Then deal 2 damage to a another character. Then deal 1 damage to a third character.",
+        "text": "Blue character only.\n[special] - Deal 3 damage to a character. Deal 2 damage to a another character. Deal 1 damage to a third character.",
         "type_code": "upgrade"
     },
     {
@@ -1682,7 +1685,7 @@
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "<em>Pending</em>",
+        "flavor": "Sometimes the best tactic is to not aim.",
         "has_die": true,
         "has_errata": false,
         "illustrator": " ",
@@ -1972,7 +1975,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "gray",
-        "flavor": "Slugthrowers, like the 6-2Aug2, were commonly found on backwater planets like Tatooine",
+        "flavor": "Slugthrowers, like the 6-2Aug2, were commonly found on backwater planets like Tatooine.",
         "has_die": true,
         "has_errata": false,
         "illustrator": "Jason Juta",
@@ -2033,7 +2036,7 @@
         "position": 75,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Deal 1 damage to one of your blue characters to turn a dies to a side showing a blank ([blank]).",
+        "text": "Deal 1 damage to one of your blue characters to turn a die to a side showing a blank ([blank]).",
         "type_code": "event"
     },
     {
@@ -2098,7 +2101,7 @@
         "has_errata": false,
         "illustrator": "Andreas Zafiratos",
         "is_unique": false,
-        "name": "Frighten",
+        "name": "I Am Your Father",
         "position": 79,
         "rarity_code": "U",
         "set_code": "LEG",
@@ -2153,7 +2156,7 @@
         "position": 82,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Reveal the top 3 cards of your deck (do not rearrange them). Heal damage from a character equal to the number of cards you just revealed that cost an odd number.",
+        "text": "Reveal the top 3 cards of your deck <em>(do not rearrange them)</em>. Heal damage from a character equal to the number of cards you just revealed that cost an odd number.",
         "type_code": "event"
     },
     {
@@ -2188,7 +2191,7 @@
         "position": 84,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Play only if each of an opponent's characters has one or more damage on them. Remove one of that opponent's dice.",
+        "text": "Play only if each of an opponent's characters has one or more damage on them.\nRemove one of that opponent's dice.",
         "type_code": "event"
     },
     {
@@ -2205,7 +2208,7 @@
         "position": 85,
         "rarity_code": "U",
         "set_code": "LEG",
-        "text": "Remove a die showing damage ([ranged], [melee] or [indirect]). Then deal indirect damage ([indirect]) to an opponent equal to half of the value showing on that die, round up.",
+        "text": "Remove a die showing damage ([ranged], [melee] or [indirect]). Then deal indirect damage ([indirect]) to an opponent equal to half of the value showing on that die, rounded up.",
         "type_code": "event"
     },
     {
@@ -2222,7 +2225,7 @@
         "position": 86,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Resolve one of your dice increasing its value by 2.",
+        "text": "Resolve one of your dice, increasing its value by 2.",
         "type_code": "event"
     },
     {
@@ -2239,7 +2242,7 @@
         "position": 87,
         "rarity_code": "U",
         "set_code": "LEG",
-        "text": "Play only if you control the battlefield. Deal indirect damage [([indirect]) to an opponent equal to the number of dice in your pool.",
+        "text": "Play only if you control the battlefield.\nDeal indirect damage ([indirect]) to an opponent equal to the number of dice in their pool.",
         "type_code": "event"
     },
     {
@@ -2307,7 +2310,8 @@
         "position": 91,
         "rarity_code": "U",
         "set_code": "LEG",
-        "text": "Exhaust this support to activate 2 of your non-unique characters in the order of your choice.",
+        "subtype_code": "location",
+        "text": "<b>Action</b> - Exhaust this support to activate 2 of your non-unique characters in the order of your choice.",
         "type_code": "support"
     },
     {
@@ -2618,7 +2622,7 @@
         "position": 109,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Move a <b>weapon</b> from one of your characters to another character <i>return its die to its card</i>.",
+        "text": "Move a <b>weapon</b> from one of your characters to another character <em>(return its die to its card)</em>.",
         "type_code": "event"
     },
     {
@@ -2754,7 +2758,7 @@
         "position": 117,
         "rarity_code": "U",
         "set_code": "LEG",
-        "text": "Spot a Yellow character to remove 2 dice showing the same symbol and value <i>ignoring modifiers and resource costs</i>.",
+        "text": "Spot a Yellow character to remove 2 dice showing the same symbol and value <em>(ignoring modifiers and resource costs)</em>.",
         "type_code": "event"
     },
     {
@@ -2894,7 +2898,7 @@
         "position": 125,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Turn up to 2 dice to the sides of your choice <i>(yours and/or your opponents')</i>.",
+        "text": "Turn up to 2 dice to the sides of your choice <em>(yours and/or your opponents')</em>.",
         "type_code": "event"
     },
     {
@@ -3064,7 +3068,7 @@
         "position": 135,
         "rarity_code": "U",
         "set_code": "LEG",
-        "text": "After an opponent's card effect removes one of the attached character's character dice, you may exhaust this upgrade to roll that die into your pool.",
+        "text": "After an opponent's card effect removes one of attached character's character dice, you may exhaust this upgrade to roll that die into your pool.",
         "type_code": "upgrade"
     },
     {
@@ -3112,7 +3116,7 @@
         "has_errata": false,
         "illustrator": " ",
         "is_unique": false,
-        "name": "Law And Order",
+        "name": "Law and Order",
         "position": 138,
         "rarity_code": "C",
         "set_code": "LEG",
@@ -3204,7 +3208,7 @@
         "position": 143,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Play only if you control the battlefield.\\nRemove a die.",
+        "text": "Play only if you control the battlefield.\nRemove a die.",
         "type_code": "event"
     },
     {
@@ -3256,7 +3260,7 @@
         "position": 146,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Action – Exhaust this support to resolve one of your dice showing indirect damage ([indirect]), increasing its value by 1.",
+        "text": "<b>Action</b> – Exhaust this support to resolve one of your dice showing indirect damage ([indirect]), increasing its value by 1.",
         "type_code": "support"
     },
     {
@@ -3375,7 +3379,7 @@
         "position": 153,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Give control of the battlefield to remove a die showing damage ([ranged],[melee], or [indirect]).",
+        "text": "Give control of the battlefield to an opponent to remove a die showing damage ([ranged],[melee], or [indirect]).",
         "type_code": "event"
     },
     {
@@ -3392,7 +3396,7 @@
         "position": 154,
         "rarity_code": "U",
         "set_code": "LEG",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nChoose an opponent's character or support and force them to activate it, if able.",
+        "text": "Ambush.\nChoose an opponent's character or support and force them to activate it, if able.",
         "type_code": "event"
     },
     {
@@ -3409,7 +3413,7 @@
         "position": 155,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Play a <i>weapon</i> from your hand on one of your characters <em>(paying its cost)</em>. You may activate that character.",
+        "text": "Play a <b>weapon</b> from your hand on one of your characters <em>(paying its cost)</em>. You may activate that character.",
         "type_code": "event"
     },
     {
@@ -3460,7 +3464,7 @@
         "position": 158,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nRemove up to 3 dice showing melee damage ([melee]).",
+        "text": "Ambush.\nRemove up to 3 dice showing melee damage ([melee]).",
         "type_code": "event"
     },
     {
@@ -3477,7 +3481,7 @@
         "position": 159,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nRemove up to 3 dice showing ranged damage ([ranged]).",
+        "text": "Ambush.\nRemove up to 3 dice showing ranged damage ([ranged]).",
         "type_code": "event"
     },
     {
@@ -3599,7 +3603,7 @@
         "rarity_code": "U",
         "set_code": "LEG",
         "subtype_code": "title",
-        "text": "Non-unique character only.\nAttached character has the Guardian keyword. <em>(Before you activate this character, you may remove an opponent's die showing damage to deal that damage to this character.)</em>",
+        "text": "Non-unique character only.\nAttached character has the Guardian keyword.",
         "type_code": "upgrade"
     },
     {
@@ -3617,7 +3621,7 @@
         "rarity_code": "C",
         "set_code": "LEG",
         "subtype_code": "equipment",
-        "text": "After you activate attached character, you may reroll any number of their <i>weapon</i> dice.",
+        "text": "After you activate attached character, you may reroll any number of their <b>weapon</b> dice.",
         "type_code": "upgrade"
     },
     {
