@@ -553,7 +553,7 @@
         ],
         "subtitle": "Artifact Hunter",
         "subtype_code": "scoundrel",
-        "text": "The cost of the first <i>droid</i> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card.",
+        "text": "The cost of the first <b>droid</b> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card.",
         "ttscardid": "46914",
         "type_code": "character"
     },
@@ -742,7 +742,7 @@
             "-"
         ],
         "subtype_code": "weapon",
-        "text": "Yellow character only.\n[special] - Deal one damage to a character. You may spend 1 resource to deal 2 damage to a character.",
+        "text": "Yellow character only.\n[special] - Deal 2 damage to a character. You may spend 1 resource to deal 2 damage to a character.",
         "ttscardid": "46917",
         "type_code": "upgrade"
     },
@@ -1136,7 +1136,7 @@
         ],
         "subtitle": "Squad Leader",
         "subtype_code": "pilot",
-        "text": "<b>Power Action</b> - Turn one of your <i>vehicle</i> dice to any side.",
+        "text": "<b>Power Action</b> - Turn one of your <b>vehicle</b> dice to any side.",
         "ttscardid": "46924",
         "type_code": "character"
     },
@@ -3153,7 +3153,7 @@
         "position": 140,
         "rarity_code": "U",
         "set_code": "LEG",
-        "text": "Roll a character die on one of your character into your pool if you have another copy of that character in play.",
+        "text": "Roll a character die on one of your characters into your pool if you have another copy of that character in play.",
         "ttscardid": "46941",
         "type_code": "event"
     },
