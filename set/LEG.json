@@ -553,7 +553,7 @@
         ],
         "subtitle": "Artifact Hunter",
         "subtype_code": "scoundrel",
-        "text": "The cost of the first <b>droid</b> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card.",
+        "text": "The cost of the first <i>droid</i> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card.",
         "ttscardid": "46914",
         "type_code": "character"
     },
@@ -1136,7 +1136,7 @@
         ],
         "subtitle": "Squad Leader",
         "subtype_code": "pilot",
-        "text": "<b>Power Action</b> - Turn one of your <b>vehicle</b> dice to any side.",
+        "text": "<b>Power Action</b> - Turn one of your <i>vehicle</i> dice to any side.",
         "ttscardid": "46924",
         "type_code": "character"
     },
@@ -2621,7 +2621,7 @@
         "position": 109,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Move a <b>weapon</b> from one of your characters to another character <em>(return its die to its card)</em>.",
+        "text": "Move a <i>weapon</i> from one of your characters to another character <em>(return its die to its card)</em>.",
         "type_code": "event"
     },
     {
@@ -2689,7 +2689,7 @@
         "position": 113,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Play a <b>vehicle</b> from your hand, decreasing its cost by 1. Then place 1 damage on it.",
+        "text": "Play a <i>vehicle</i> from your hand, decreasing its cost by 1. Then place 1 damage on it.",
         "type_code": "event"
     },
     {
@@ -3410,7 +3410,7 @@
         "position": 155,
         "rarity_code": "C",
         "set_code": "LEG",
-        "text": "Play a <b>weapon</b> from your hand on one of your characters <em>(paying its cost)</em>. You may activate that character.",
+        "text": "Play a <i>weapon</i> from your hand on one of your characters <em>(paying its cost)</em>. You may activate that character.",
         "type_code": "event"
     },
     {
@@ -3618,7 +3618,7 @@
         "rarity_code": "C",
         "set_code": "LEG",
         "subtype_code": "equipment",
-        "text": "After you activate attached character, you may reroll any number of their <b>weapon</b> dice.",
+        "text": "After you activate attached character, you may reroll any number of their <i>weapon</i> dice.",
         "type_code": "upgrade"
     },
     {
