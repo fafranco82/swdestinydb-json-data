@@ -20,6 +20,10 @@
         "name": "Equipo"
     },
     {
+        "code": "gungan",
+        "name": "Gungan"
+    },
+    {
         "code": "jawa",
         "name": "Jawa"
     },
@@ -28,12 +32,28 @@
         "name": "Jedi"
     },
     {
+        "code": "leader",
+        "name": "Leader"
+    },
+    {
+        "code": "location",
+        "name": "Location"
+    },
+    {
         "code": "pilot",
         "name": "Piloto"
     },
     {
         "code": "scoundrel",
         "name": "Granuja"
+    },
+    {
+        "code": "sith",
+        "name": "Sith"
+    },
+    {
+        "code": "spectre",
+        "name": "Spectre"
     },
     {
         "code": "title",
@@ -50,5 +70,9 @@
     {
         "code": "weapon",
         "name": "Arma"
+    },
+    {
+        "code": "witch",
+        "name": "Witch"
     }
 ]
