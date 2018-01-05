@@ -4,7 +4,19 @@
         "name": "Risvegli"
     },
     {
-        "code": "SoR",
+        "code": "SOR",
         "name": "Spirito della Ribellione"
+    },
+{
+        "code": "EAW",
+        "name": "Impero in Guerra"
+    },
+    {
+        "code": "TPG",
+        "name": "Set per Due Giocatori"
+    },
+    {
+        "code": "LEG",
+        "name": "Eredità"
     }
 ]
