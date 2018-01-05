@@ -6,10 +6,10 @@
     },
     {
         "code": "05002",
-        "flavor": "\"Formerly Darth, now just Maul.\"",
+        "flavor": "\"Prima ero Darth, ora solo Maul.\"",
         "name": "Maul",
-        "subtitle": "Vengeful One",
-        "text": "After one or more of this character's character or upgrade dice are removed by an opponent's card effect, you may remove one of their dice."
+        "subtitle": "In Cerca di Vendetta",
+        "text": "Dopo che 1 o più dadi personaggio o miglioria di questo personaggio sono stati rimossi dall'effetto di una carta di un avversario, puoi rimuovere 1 dado di quell'avversario."
     },
     {
         "code": "05003",
@@ -42,8 +42,8 @@
     },
     {
         "code": "05008",
-        "name": "Maul's Lightsaber",
-        "text": "Blue character only.\n<b>Azione Straordinaria</b> - If an opponent has no shields on all of their characters, roll this die into your pool."
+        "name": "Spada Laser di Maul",
+        "text": "Solo personaggi blu.\n<b>Azione Straordinaria</b> - Se ogni personaggio di un avversario è privo di scudi, tira questo dado nella tua riserva."
     },
     {
         "code": "05009",
