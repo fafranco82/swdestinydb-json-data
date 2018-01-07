@@ -80,7 +80,7 @@
     },
     {
         "code": "03014",
-      "flavor": "\"Tu vuoi questa, non è vero?\"<cite>imperatore Palpatine</cite>",
+        "flavor": "\"Tu vuoi questa, non è vero?\"<cite>imperatore Palpatine</cite>",
         "name": "Tentazione",
         "text": "[special] - Scegli un avversario. Quell'avversario può pescare 2 carte. Se lo fa ottieni 2 risorse. Se non lo fa, pesca 2 carte."
     },
@@ -138,21 +138,21 @@
     {
         "code": "03024",
         "name": "Generale Rieekan",
-    "subtitle": "Stratega Difensivo",
+        "subtitle": "Stratega Difensivo",
         "text": "Dopo che hai attivato questo personaggio, puoi scartare 1 carta dalla cima del mazzo di un avversario per ogni altro tuo personaggio con 1 o più scudi."
     },
     {
         "code": "03025",
-      "flavor": "Se pensi di combattere solo per la tua vita, la tua vita non vale niente!",
+        "flavor": "Se pensi di combattere solo per la tua vita, la tua vita non vale niente!",
         "name": "Hera Syndulla",
-    "subtitle": "Capo Phoenix",
+        "subtitle": "Capo Phoenix",
         "text": "[special] - Gioca gratuitamente 1 <i>Veicolo</i> dalla tua mano. Dopo che la fase di Azione è terminata, se quel <i>Veicolo</i> è ancora in gioco, rimettilo nella tua mano."
     },                      
     {
         "code": "03026",
-      "flavor": "\"Perchè la ragazza ha un blaster ed io no?\"",
+        "flavor": "\"Perchè la ragazza ha un blaster ed io no?\"",
         "name": "K-2SO",
-    "subtitle": "Droide Riprogrammmato",
+        "subtitle": "Droide Riprogrammmato",
         "text": "Aumenta di 2 il costo per giocare un'<i>Arma</i> su questo personaggio.\nDopo che hai giocato o spostato un'<i>Arma</i> su questo personaggio per la prima volta ogni partita, ripristinalo."
     },
     {
@@ -163,7 +163,7 @@
     },
     {
         "code": "03028",
-      "flavor": "Il Ghost era un mercantile leggero VCX-100 specializzato che fungeva da base operativa per la cellula ribelle di Hera Syndulla.",
+        "flavor": "Il Ghost era un mercantile leggero VCX-100 specializzato che fungeva da base operativa per la cellula ribelle di Hera Syndulla.",
         "name": "Ghost",
         "text": "[special] - Risolvi 1 altra faccia di questo dado."
     },
@@ -236,11 +236,11 @@
         "text": "Inizia la partita con una risorsa aggiuntiva."
     },
     {
-      "code": "03040",
-      "flavor": "Ora danneggio te, se non la pianti.",
-      "name": "Sabine Wren",
-      "subtitle": "Esperta in Esplosivi",
-      "text": "Prima di attivare questo personaggio, puoi giocare 1 <i>Arma</i> dalla tua pila degli scarti su di esso, riducendo di 1 il suo costo se il suo nome contiene il termine \"termico\" (o una sua variante)."
+        "code": "03040",
+        "flavor": "Ora danneggio te, se non la pianti.",
+        "name": "Sabine Wren",
+        "subtitle": "Esperta in Esplosivi",
+        "text": "Prima di attivare questo personaggio, puoi giocare 1 <i>Arma</i> dalla tua pila degli scarti su di esso, riducendo di 1 il suo costo se il suo nome contiene il termine \"termico\" (o una sua variante)."
     },
     {
         "code": "03041",
@@ -265,7 +265,7 @@
     },
     {
         "code": "03045",
-      "flavor": "L'airspeeder T-47 della Incom Corporation era un solido velilvolo atmosferico, apprezzato dall'Alleanza per la sua resistenza.",
+        "flavor": "L'airspeeder T-47 della Incom Corporation era un solido velilvolo atmosferico, apprezzato dall'Alleanza per la sua resistenza.",
         "name": "Airspeeder T-47",
         "text": "[special] - Esaurisci 1 supporto oppure pesca 2 carte."
     },
@@ -459,7 +459,7 @@
     },
     {
         "code": "03083",
-      "flavor": "E' raro che l'attrezzatura migliore sia disponibile legalmente.",
+        "flavor": "E' raro che l'attrezzatura migliore sia disponibile legalmente.",
         "name": "Merce Saccheggiata",
         "text": "Puoi giocare gratuitamente 1 miglioria dalla tua mano su ogni tuo personaggio giallo."
     },
