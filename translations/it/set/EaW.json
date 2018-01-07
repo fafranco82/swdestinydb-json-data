@@ -8,33 +8,33 @@
     },
     {
         "code": "03002",
-      "flavor": "\"Tutti i rimanenti sistemi si piegheranno al Primo Ordine!\"",
+        "flavor": "\"Tutti i rimanenti sistemi si piegheranno al Primo Ordine!\"",
         "name": "Generale Hux",
-    "subtitle": "Aspirante Comandante",
+        "subtitle": "Aspirante Comandante",
         "text": "[special] - Gioca 1 evento rosso dalla tua mano, riducendo di 1 il suo costo per ogni tuo personaggio."
     }, 
     {
         "code": "03003",
-      "flavor": "Il droide MagnaGuard IG-100 poteva reggere a danni ingenti prima che i suoi sistemi cedessero definitivamente.",
+        "flavor": "Il droide MagnaGuard IG-100 poteva reggere a danni ingenti prima che i suoi sistemi cedessero definitivamente.",
         "name": "MagnaGuard",
         "text": "Prima che questo personaggio stia per essere sconfitto a causa dei danni, sconfiggilo invece dopo la fine del round."
     },
     {
         "code": "03004",
-      "flavor": "\"Studio l'arte della guerra.\"",
+        "flavor": "\"Studio l'arte della guerra.\"",
         "name": "Thrawn",
-    "subtitle": "Maestro Stratega",
+        "subtitle": "Maestro Stratega",
         "text": "Dopo che hai attivato questo personaggio, puoi scegliere un numero. Poi guarda la mano di un avversario e scarta da essa una carta con costo pari al numero scelto."
     },
     {
         "code": "03005",
-      "flavor": "Il Guscio Difensivo Multiterreno era un camminatore pesantemente armato usato per proteggere le risorse imperiali nei mondi occupati.",
+        "flavor": "Il Guscio Difensivo Multiterreno era un camminatore pesantemente armato usato per proteggere le risorse imperiali nei mondi occupati.",
         "name": "AT-DP",
         "text": "[special] - Scarta dal gioco 1 supporto dal costo pari o superiore a 2."
     },
     {
         "code": "03006",
-      "flavor": "\"Abbiamo migliaia di sonde in ricognizione nella galassia\". <cite>Ammiraglio Ozzel</cite>",
+        "flavor": "\"Abbiamo migliaia di sonde in ricognizione nella galassia\". <cite>Ammiraglio Ozzel</cite>",
         "name": "Droide Sonda",
         "text": "Imboscata.\n[special] - Guarda 2 carte casuali nella mano di un avversario e scarta tutti gli eventi visti in questo modo."
     },
@@ -45,9 +45,9 @@
     },
     {
         "code": "03008",
-      "flavor": "Hai finito di perdere tempo?",
+        "flavor": "\"Hai finito di perdere tempo?\"",
         "name": "Quinlan Vos",
-    "subtitle": "Discepolo Oscuro",
+        "subtitle": "Discepolo Oscuro",
         "text": "[special] - Infliggi a un personaggio di un avversario un ammontare di danni pari al numero di carte nella tua mano di cui superi il numero di carte nella mano di quell'avversario."
     },
     {
@@ -91,9 +91,9 @@
     },
     {
         "code": "03016",
-      "flavor": "Informa il Primo Ordine...Ho trovato il droide",
+        "flavor": "Informa il Primo Ordine...Ho trovato il droide",
         "name": "Bazine Netal",
-    "subtitle": "Abile Manipolatrice",
+        "subtitle": "Abile Manipolatrice",
         "text": "[special] - Infliggi 1 danno a un personaggio (3 danni se su quel personaggio non c'è alcun danno)."
     },
     {
@@ -104,9 +104,9 @@
     },
     {
         "code": "03018",
-      "flavor": "Pronto ad assumere qualunque incarico...al prezzo adeguato",
+        "flavor": "Pronto ad assumere qualunque incarico...al prezzo adeguato",
         "name": "Cad Bane",
-    "subtitle": "Mercenario Letale",
+        "subtitle": "Mercenario Letale",
         "text": "<b>Azione</b> - Gioca 1 miglioria dalla tua mano su questo personaggio <em>(pagandone il costo)</em>. Poi puoi attivarlo."
     },
     {
@@ -179,40 +179,40 @@
     },
     {
         "code": "03031",
-      "flavor": "Io non sono un Jedi.",
+        "flavor": "Io non sono un Jedi.",
         "name": "Ahsoka Tano",
-    "subtitle": "Agente della Forza",
+        "subtitle": "Agente della Forza",
         "text": "Dopo che hai attivato questo personaggio per la prima volta ogni round, puoi spendere un ammontare di risorse pari al numero di dadi che hai appena tirato per ripristinarlo."
     },
     {
         "code": "03032",
-      "flavor": "I Jedi tramandano la loro sapienza e saggezza da Maestro a Padawan.",
+        "flavor": "I Jedi tramandano la loro sapienza e saggezza da Maestro a Padawan.",
         "name": "Istruttore Jedi",
         "text": "Dopo che hai attivato questo personaggio, puoi girare 1 tuo dado personaggio su una faccia che mostra lo stesso simbolo di questo dado."
     },
     {
         "code": "03033",
-      "flavor": "La posta in palio è più alta di quanto pensi.",
+        "flavor": "La posta in palio è più alta di quanto pensi.",
         "name": "Kanan Jarrus",
-    "subtitle": "Jedi Ribelle",
+        "subtitle": "Jedi Ribelle",
         "text": "Prima di effettuare un'azione, puoi risolvere questo dado."
     },    
     {
         "code": "03034",
-      "flavor": "\"La festa è finita.\"",
+        "flavor": "\"La festa è finita.\"",
         "name": "Mace Windu",
-    "subtitle": "Campione Jedi",
+        "subtitle": "Campione Jedi",
         "text": "<b>Azione</b> - Rimuovi questo dado per sconfiggere un personaggio con 2 o meno salute rimanente.</em>"
     },
     {
         "code": "03035",
-      "flavor": "\"Senti, un'azione contro i remoti è una cosa. Ma un'azione contro i vivi, eh? E' una cosa diversa.\"<cite>Han Solo</cite>",
+        "flavor": "\"Senti, un'azione contro i remoti è una cosa. Ma un'azione contro i vivi, eh? É una cosa diversa.\" <cite>Han Solo</cite>",
         "name": "Remoto da Addestramento",
         "text": "Puoi risolvere le facce modificatore <em>(con un \"+\")</em> di questo dado allo stesso tempo di un qualsiasi altro tuo dado personaggio blu."
     },
     {
         "code": "03036",
-      "flavor": "\"Il consiglio è riunito.\" <cite>Mace Windu</cite>",
+        "flavor": "\"Il consiglio è riunito.\" <cite>Mace Windu</cite>",
         "name": "Maestro del Consiglio",
         "text": "Solo personaggi blu.\n[special] - Esaurisci questa miglioria e spendi 2 risorse per ripristinare 1 personaggio."
     },
@@ -223,24 +223,24 @@
     },
     {
         "code": "03038",
-      "flavor": "\"Ehi, i ragazzini mangiano.\"",
+        "flavor": "\"Ehi, i ragazzini mangiano.\"",
         "name": "Ezra Bridger",
-    "subtitle": "Ladro sensibile alla Forza",
+        "subtitle": "Ladro sensibile alla Forza",
         "text": "Puoi giocare le migliorie blu su questo personaggio ignorando le restrizioni di gioco.\n[special] - Prendi 1 risorsa da un avversario."
     },
     {
         "code": "03039",
-      "flavor": "Sì, sono diventato responsabile. Questo è il prezzo che paghi quando hai successo.",
+        "flavor": "Sì, sono diventato responsabile. Questo è il prezzo che paghi quando hai successo.",
         "name": "Lando Calrissian",
-    "subtitle": "Imprenditore Galattico",
+        "subtitle": "Imprenditore Galattico",
         "text": "Inizia la partita con una risorsa aggiuntiva."
     },
     {
-        "code": "03040",
+      "code": "03040",
       "flavor": "Ora danneggio te, se non la pianti.",
-        "name": "Sabine Wren",
-    "subtitle": "Esperta in Esplosivi",
-        "text": "Prima di attivare questo personaggio, puoi giocare 1 <i>Arma</i> dalla tua pila degli scarti su di esso, riducendo di 1 il suo costo se il suo nome contiene il termine \"termico\" (o una sua variante)."
+      "name": "Sabine Wren",
+      "subtitle": "Esperta in Esplosivi",
+      "text": "Prima di attivare questo personaggio, puoi giocare 1 <i>Arma</i> dalla tua pila degli scarti su di esso, riducendo di 1 il suo costo se il suo nome contiene il termine \"termico\" (o una sua variante)."
     },
     {
         "code": "03041",
