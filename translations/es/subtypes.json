@@ -33,11 +33,11 @@
     },
     {
         "code": "leader",
-        "name": "Leader"
+        "name": "Líder"
     },
     {
         "code": "location",
-        "name": "Location"
+        "name": "Lugar"
     },
     {
         "code": "pilot",
@@ -73,6 +73,6 @@
     },
     {
         "code": "witch",
-        "name": "Witch"
+        "name": "Bruja"
     }
 ]

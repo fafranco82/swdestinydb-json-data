@@ -1,29 +1,29 @@
 [
     {
         "code": "05001",
-        "name": "Dark Advisor",
-        "text": "[special] - Draw 3 cards. Then place a card from your hand on the top or bottom of your deck."
+        "name": "Consejero oscuro",
+        "text": "[special] - Roba 3 cartas. Luego coloca una carta de tu mano en la parte superior o inferior de tu mazo."
     },
     {
         "code": "05002",
-        "flavor": "\"Formerly Darth, now just Maul.\"",
+        "flavor": "\"Antes Darth, ahora sólo Maul.\"",
         "name": "Maul",
-        "subtitle": "Vengeful One",
-        "text": "After one or more of this character's character or upgrade dice are removed by an opponent's card effect, you may remove one of their dice."
+        "subtitle": "Buscador de venganza",
+        "text": "Después de que uno o más de los dados de Personaje o Mejora de este Personaje sean retirados por el efecto de la carta de un adversario, puedes retirar uno de los dados de ese adversario."
     },
     {
         "code": "05003",
-        "flavor": "\"I use dark magick to achieve power.\"",
-        "name": "Mother Talzin",
-        "subtitle": "Nightsister Matriarch",
-        "text": "After you activate this character, you may reveal the top card of a player's deck. If its cost is an odd number, turn one of that player's dice to any side."
+        "flavor": "\"Obtengo mi poder mediante la magia negra.\"",
+        "name": "Madre Talzin",
+        "subtitle": "Matriarca de las hermanas nocturnas",
+        "text": "Después de que actives este Personaje, puedes revelar la primera carta del mazo de un jugador. Si el coste de esa carta es un número impar, gira a cualquier cara uno de los dados de ese jugador."
     },
     {
         "code": "05004",
-        "flavor": "\"There is no mercy.\"",
+        "flavor": "\"No hay compasión.\"",
         "name": "Palpatine",
         "subtitle": "Darth Sidious",
-        "text": "<b>Power Action</b> - Play an event from your hand, decreasing its cost by the number of different damage symbols ([ranged], [melee] or [indirect]) showing on your dice."
+        "text": "<b>Acción potenciada</b> - Juega un Evento de tu mano, reduciendo su coste en una cantidad igual al número de distintos símbolos de daño ([ranged], [melee] o [indirect]) que muestren tus dados."
     },
     {
         "code": "05005",
@@ -32,8 +32,8 @@
     },
     {
         "code": "05006",
-        "name": "Crystal Ball",
-        "text": "After you activate attached character, you may look at the top card of a deck."
+        "name": "Bola de cristal",
+        "text": "Después de que actives al Personaje vinculado, puedes mirar la primera carta de un mazo."
     },
     {
         "code": "05007",
@@ -42,14 +42,14 @@
     },
     {
         "code": "05008",
-        "name": "Maul's Lightsaber",
-        "text": "Blue character only.\n<b>Power Action</b> - If an opponent has no shields on all of their characters, roll this die into your pool."
+        "name": "Sable de luz de Maul",
+        "text": "Sólo Personaje de color Azul.\n<b>Acción potenciada</b> - Si un adversario no tiene ningún escudo en ninguno de sus Personajes, tira este dado en tu reserva."
     },
     {
         "code": "05009",
         "flavor": "\"Roger, Roger.\"",
-        "name": "Battle Droid",
-        "text": "After you activate this character, if this die just rolled indirect damage ([indirect]), you may activate one of your other Battle Droids ([LEG]9)."
+        "name": "Droide de combate",
+        "text": "Después de que actives este Personaje, si este dado acaba de obtener un resultado de daño indirecto ([indirect]), puedes activar uno de tus otros Droides de combate ([LEG]9)."
     },
     {
         "code": "05010",
@@ -60,10 +60,10 @@
     },
     {
         "code": "05011",
-        "flavor": "\"Ah, victory!\"",
+        "flavor": "\"¡Ah, victoria!\"",
         "name": "Nute Gunray",
-        "subtitle": "Separatist Viceroy",
-        "text": "Each opponent gains 1 fewer resource during the upkeep phase, to a minimum of 1, unless that opponent discards the top 2 cards of their deck."
+        "subtitle": "Virrey separatista",
+        "text": "Cada adversario recibe 1 recurso menos durante la fase de Mantenimiento, hasta un mínimo de 1, a menos que ese adversario descarte las 2 primeras cartas de su mazo."
     },
     {
         "code": "05012",
@@ -74,20 +74,20 @@
     },
     {
         "code": "05013",
-        "flavor": "The elite soldier of the Imperial Military, trained for complete obedience to the command hierarchy, as well as the Galactic Emperor Palpatine.",
-        "name": "Veteran Stormtrooper"
+        "flavor": "El soldado de élite de las fuerzas armadas imperiales, entrenado para mostrar una obediencia inquebrantable a la cadena de mando, así como al emperador galáctico Palpatine.",
+        "name": "Soldado de asalto veterano"
     },
     {
         "code": "05014",
-        "flavor": "A heavy transport starship used by the Trade Federation for transporting and deploying droid battalions planet side.",
-        "name": "Separatist Landing Craft",
-        "text": "[special] - Spend 2 resources to add a Battle Droid ([LEG]9) to your team. Discard this support from play."
+        "flavor": "Una pesada nave estelar de transporte por la Federación de Comercio para llevar batallones de droides hasta la superficie de un planeta y desembarcarlos en ella.",
+        "name": "Nave de desembarco separatista",
+        "text": "[special] - Gasta 2 recursos para añadir un Droide de combate ([LEG]9) a tu equipo. Descarta este Apoyo del juego."
     },
     {
         "code": "05015",
-        "flavor": "Commonly used by the Galactic Empire's death troopers and coastal defender stormtroopers.",
-        "name": "Fragmentation Grenade",
-        "text": "After this die is resolved, discard this upgrade from play unless you spend 1 resource."
+        "flavor": "Usadas habitualmente por los soldados de la muerte y las tropas de asalto de defensa costera del Imperio Galáctico.",
+        "name": "Granada de fragmentación",
+        "text": "Después de resolver este dado, descarta esta Mejora del juego a menos que gastes 1 recurso."
     },
     {
         "code": "05016",
@@ -96,22 +96,22 @@
     },
     {
         "code": "05017",
-        "name": "Kallus' Bo-Rifle",
-        "text": "Ambush."
+        "name": "Fusil bo de Kallus",
+        "text": "Emboscada."
     },
     {
         "code": "05018",
         "flavor": "\"Nudd Chaa.\"",
         "name": "Bib Fortuna",
-        "subtitle": "Majordomo",
-        "text": "[special] - Roll a character die on one of your other characters into your pool."
+        "subtitle": "Mayordomo",
+        "text": "[special] - Tira en tu reserva un dado de Personaje que esté sobre uno de tus otros Personajes."
     },
     {
         "code": "05019",
-        "flavor": "\"Don't get in my way.\"",
+        "flavor": "\"No te cruces en mi camino.\"",
         "name": "Boba Fett",
-        "subtitle": "Deadly Mercenary",
-        "text": "[special] - Deal damage to a character equal to the value showing on a die <em>(yours or an opponent's)</em>."
+        "subtitle": "Mercenario mortífero",
+        "text": "[special] - Inflige tantos puntos de daño a un Personaje como el valor de resultado que muestre un dado <em>(tuyo o de un adversario)</em>."
     },
     {
         "code": "05020",
@@ -121,10 +121,10 @@
     },
     {
         "code": "05021",
-        "flavor": "\"Going somewhere, Solo?\"",
+        "flavor": "\"¿Vas a alguna parte, Solo?\"",
         "name": "Greedo",
-        "subtitle": "Unlucky Mercenary",
-        "text": "Before this character is defeated, roll any number of his character dice into your pool. Then resolve any number of his character dice in the order of your choice."
+        "subtitle": "Mercenario desafortunado",
+        "text": "Antes de que este Personaje sea derrotado, tira cualquier cantidad de sus dados de Personaje en tu reserva. Luego resuelve cualquier cantidad de sus dados de Personaje en el orden que prefieras."
     },
     {
         "code": "05022",
@@ -133,29 +133,29 @@
     },
     {
         "code": "05023",
-        "flavor": "\"Welcome aboard the Ark Angel, sir Darth Vader. Big Fan. Huge!\" <cite>Dr. Aphra</cite>",
-        "name": "Ark Angel",
-        "text": "After you activate this support, activate up to 2 of your other supports in the order of your choice."
+        "flavor": "\"Bienvenido a bordo del Arcángel, señor Darth Vader. Soy una gran admiradora suya. ¡Grandísima!\" <cite>Doctora Aphra</cite>",
+        "name": "Arcángel",
+        "text": "Después de que actives este Apoyo, activa hasta 2 de tus otros Apoyos en el orden que prefieras."
     },
     {
         "code": "05024",
         "name": "BT-1",
-        "text": "After you activate this support, deal 1 indirect damage ([indirect]) to yourself. Then deal 1 indirect damage ([indirect]) to an opponent."
+        "text": "Después de que actives este Apoyo, inflige 1 punto de daño indirecto ([indirect]) a ti mismo. Luego inflige 1 punto de daño indirecto ([indirect]) a un adversario."
     },
     {
         "code": "05025",
-        "name": "Slave I",
-        "text": "<b>Power Action</b> - Reroll one of your Yellow dice. Then you may remove an opponent's die showing a value equal to the value showing on the die you just rerolled."
+        "name": "Esclavo I",
+        "text": "<b>Acción potenciada</b> - Vuelve a tirar uno de tus dados de color Amarillo. Luego puedes retirar un dado de un adversario que muestre un valor de resultado igual al valor que muestra el dado que acabas de volver a tirar."
     },
     {
         "code": "05026",
-        "name": "Hunter Instinct",
-        "text": "[special] - Deal 1 damage to a character, or 2 damage instead if that character has 3 or more damage on it."
+        "name": "Instinto de cazador",
+        "text": "[special] - Inflige 1 punto de daño a un Personaje, o 2 puntos de daño si ese Personaje tiene 3 o más puntos de daño asignados."
     },
     {
         "code": "05027",
-        "name": "Wrist Rockets",
-        "text": "Yellow character only.\n[special] - Deal 2 damage to a character. You may spend 1 resource to deal 2 damage to a character."
+        "name": "Lanzacohetes de muñeca",
+        "text": "Sólo Personaje de color Amarillo.\n[special] - Inflige 2 puntos de daño a un Personaje. Puedes gastar 1 recurso para infligir 2 puntos de daño a un Personaje."
     },
     {
         "code": "05028",
@@ -426,43 +426,43 @@
     },
     {
         "code": "05075",
-        "name": "Consumed By The Dark Side",
-        "text": "Deal 1 damage to one of your blue characters to turn a die to a side showing a blank ([blank])."
+        "name": "Consumido por el lado oscuro",
+        "text": "Inflige 1 punto de daño a uno de tus Personajes de color Azul para girar un dado a una cara que muestre una cara vacía ([blank])."
     },
     {
         "code": "05076",
-        "name": "Dark Scheme",
-        "text": "Look at the top 5 cards of an opponent's deck. Discard one of them and place the rest on the top of their deck in the order of your choice."
+        "name": "Maquinaciones siniestras",
+        "text": "Mira las 5 primeras cartas del mazo de un adversario. Descarta una de ellas y coloca el resto en la parte superior de su mazo en el orden que prefieras."
     },
     {
         "code": "05077",
-        "name": "Double Strike",
-        "text": "Resolve one of your dice showing melee damage ([melee]) without removing it from your pool."
+        "name": "Golpe doble",
+        "text": "Resuelve uno de tus dados que muestre daño cuerpo a cuerpo ([melee]) sin retirarlo de tu reserva."
     },
     {
         "code": "05078",
-        "name": "Frighten",
-        "text": "Ambush.\nRemove a total of up to 3 shields from any number of characters."
+        "name": "Atemorizar",
+        "text": "Emboscada.\nRetira un total de hasta 3 escudos de cualquier cantidad de Personajes."
     },
     {
         "code": "05079",
-        "name": "I Am Your Father",
-        "text": "Resolve an opponent's character die as if it were your own unless that opponent discards all cards from their hand."
+        "name": "Yo soy tu padre",
+        "text": "Resuelve un dado de Personaje de un adversario como si ese dado fuera tuyo a menos que ese adversario descarte todas las cartas de su mano."
     },
     {
         "code": "05080",
-        "name": "Snare",
-        "text": "Play only if you have one or more exhausted characters.\nExhaust a character."
+        "name": "Atrapar",
+        "text": "Juega esta carta sólo si tienes uno o más Personajes agotados.\nAgota un Personaje."
     },
     {
         "code": "05081",
-        "name": "Spell of Removal",
-        "text": "Spot a Blue character to discard the top card of a deck. If its cost is an odd number, remove a die."
+        "name": "Hechizo de erradicación",
+        "text": "Señala un Personaje de color Azul para descartar la primera carta de un mazo. Si el coste de esa carta es un número impar, retira un dado."
     },
     {
         "code": "05082",
-        "name": "Witch Magick",
-        "text": "Reveal the top 3 cards of your deck <em>(do not rearrange them)</em>. Heal damage from a character equal to the number of cards you just revealed that cost an odd number."
+        "name": "Brujería",
+        "text": "Revela las 3 primeras cartas de tu mazo <em>(no alteres su orden)</em>. Cura tantos puntos de daño a un Personaje como la cantidad de cartas que acabas de revelar cuyo coste sea un número impar."
     },
     {
         "code": "05083",
@@ -471,38 +471,38 @@
     },
     {
         "code": "05084",
-        "name": "Battle Fatigue",
-        "text": "Play only if each of an opponent's characters has one or more damage on them.\nRemove one of that opponent's dice."
+        "name": "Fatiga de combate",
+        "text": "Juega esta carta sólo si cada uno de los Personajes de un adversario tiene 1 o más puntos de daño asignados.\nRetira uno de los dados de ese adversario."
     },
     {
         "code": "05085",
-        "name": "Crush the Rebellion",
-        "text": "Remove a die showing damage ([ranged], [melee] or [indirect]). Then deal indirect damage ([indirect]) to an opponent equal to half of the value showing on that die, rounded up."
+        "name": "Aplastar a la rebelión",
+        "text": "Retira un dado que muestre daño ([ranged], [melee] o [indirect]). Luego inflige tantos puntos de daño indirecto ([indirect]) a un adversario como la mitad del valor de resultado que mostraba ese dado, redondeando hacia arriba."
     },
     {
         "code": "05086",
-        "name": "Imperial Might",
-        "text": "Resolve one of your dice, increasing its value by 2."
+        "name": "Poderío imperial",
+        "text": "Resuelve uno de tus dados, incrementando en 2 su valor de resultado."
     },
     {
         "code": "05087",
-        "name": "Scorched Earth",
-        "text": "Play only if you control the battlefield.\nDeal indirect damage ([indirect]) to an opponent equal to the number of dice in their pool."
+        "name": "Tierra quemada",
+        "text": "Juega esta carta sólo si controlas el campo de batalla.\nInflige tantos puntos de daño indirecto ([indirect]) a un adversario como la cantidad de dados que hay en su reserva."
     },
     {
         "code": "05088",
-        "name": "Shrapnel Blast",
-        "text": "Deal 1 indirect damage ([indirect]) to an opponent. Then you may remove a character die belonging to the character that was just dealt indirect damage ([indirect])."
+        "name": "Estallido de metralla",
+        "text": "Inflige 1 punto de daño indirecto ([indirect]) a un adversario. Luego puedes retirar un dado de Personaje que pertenezca al Personaje al que acabas de infligir daño indirecto ([indirect])."
     },
     {
         "code": "05089",
-        "name": "Target Practice",
-        "text": "Reroll any number of your Red dice. Then reroll any number of your Red dice."
+        "name": "Prácticas de tiro",
+        "text": "Vuelve a tirar cualquier cantidad de tus dados de color Rojo. Luego vuelve a tirar cualquier cantidad de tus dados de color Rojo."
     },
     {
         "code": "05090",
-        "name": "Three Steps Ahead",
-        "text": "Take up to 3 additional actions."
+        "name": "Tres paso por delante",
+        "text": "Realiza hasta 3 acciones adicionales."
     },
     {
         "code": "05091",
@@ -511,44 +511,44 @@
     },
     {
         "code": "05092",
-        "flavor": "\"That was fun. Let's never do that again.\" <cite>Doctor Aphra</cite>",
-        "name": "Delve",
-        "text": "Deal 1 indirect damage ([indirect]) to yourself to play a support or upgrade from your hand for free."
+        "flavor": "\"Por divertido que haya sido… no lo hagamos nunca más.\" <cite>Doctora Aphra</cite>",
+        "name": "Fisgonear",
+        "text": "Inflige 1 punto de daño indirecto ([indirect]) a ti mismo para jugar un Apoyo o Mejora de tu mano sin pagar coste alguno."
     },
     {
         "code": "05093",
-        "name": "Free-For-All",
-        "text": "Remove any number of your dice. Then deal indirect damage ([indirect]) to an opponent equal to the number of dice you just removed."
+        "name": "Todos contra todos",
+        "text": "Retira cualquier cantidad de tus dados. Luego inflige tantos puntos de daño indirecto ([indirect]) a un adversario como la cantidad de dados que acabas de retirar."
     },
     {
         "code": "05094",
-        "name": "In Pursuit",
-        "text": "Play only if an opponent activated one or more characters during their last turn this round.\nActivate any number of your Yellow characters in the order of your choice."
+        "name": "Perseguidores pertinaces",
+        "text": "Juega esta carta sólo si un adversario activó uno o más Personajes durante su último turno de esta ronda.\nActiva cualquier cantidad de tus Personajes de color Amarillo en el orden que prefieras."
     },
     {
         "code": "05095",
-        "name": "No Good To Me Dead",
-        "text": "Heal up to 2 damage from an opponent's character. Gain resources equal to the amount of damage you just healed."
+        "name": "Muerto no me sirve",
+        "text": "Cuara hasta 2 puntos de daño del Personaje de un adversario. Recibes tantos recursos como la cantidad de daño que acabas de curar."
     },
     {
         "code": "05096",
-        "name": "Rumors",
-        "text": "Force an opponent to choose a card in their hand. Then look at all of the other cards in their hand and discard one of them."
+        "name": "Rumores",
+        "text": "Obliga a un adversario a elegir una carta de su mano. Luego mira todas las demás cartas que tiene un su mano y descarta una de ellas."
     },
     {
         "code": "05097",
-        "name": "Subdue",
-        "text": "Choose a character that has 3 or more damage on it. Remove one of its character or upgrade dice."
+        "name": "Someter",
+        "text": "Elige un Personaje que tenga asignados 3 o más puntos de daño. Retira uno de sus dados de Personaje o de Mejora."
     },
     {
         "code": "05098",
-        "name": "Take Flight",
-        "text": "Ambush.\nReroll up to 2 of your Yellow dice."
+        "name": "Alzar el vuelo",
+        "text": "Emboscada.\nVuelve a tirar hasta 2 de tus dados de color Amarillo."
     },
     {
         "code": "05099",
-        "name": "Outnumber",
-        "text": "Play only if an opponent has fewer characters in play than you.\nRemove one of that opponent's dice."
+        "name": "Superar en número",
+        "text": "Juega esta carta sólo si un adversario tiene menos Personajes en juego que tú.\nRetira uno de los dados de ese adversario."
     },
     {
         "code": "05100",
