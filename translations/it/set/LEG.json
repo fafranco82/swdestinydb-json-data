@@ -108,7 +108,7 @@
     },
     {
         "code": "05019",
-        "flavor": "\"non metterti sulla mia strada.\"",
+        "flavor": "\"Non metterti sulla mia strada.\"",
         "name": "Boba Fett",
         "subtitle": "Mercenario Letale",
         "text": "[special] - Infliggi un ammontare di danni pari al valore di 1 dado <em>(tuo o di un avversario)</em> a un personaggio."
@@ -598,7 +598,7 @@
     {
         "code": "05109",
         "name": "Equip",
-        "text": "Move a <i>weapon</i> from one of your characters to another character <em>(return its die to its card)</em>."
+        "text": "Move a <i>Arma</i> from one of your characters to another character <em>(return its die to its card)</em>."
     },
     {
         "code": "05110",

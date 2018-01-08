@@ -1,0 +1,49 @@
+[
+    {
+        "code": "03004",
+        "flavor": "\"J'étudie l'art de la guerre.\"",
+        "name": "Thrawn",
+        "subtitle": "Maître stratège",
+        "text": "Après avoir activé ce personnage, vous pouvez choisir un nombre. Puis regardez la main d'un adversaire et défaussez une de ses cartes ayant un coût égal à ce nombre."
+    },
+    {
+        "code": "03034",
+        "flavor": "\"La fête est terminée.\"",
+        "name": "Mace Windu",
+        "subtitle": "Champion Jedi",
+        "text": "<b>Action</b> - Retirez ce dé pour vaincre un personnage avec 2 ou moins de santé restante."
+    },
+    {
+        "code": "03036",
+        "flavor": "\"Le conseil s'est réuni.\" <cite>Mace Windu</cite>",
+        "name": "Maître du conseil",
+        "text": "Personnage Bleu uniquement.\n[special] - Inclinez cette amélioration et dépensez 2 ressouces pour redresser un personnage."
+    },
+    {
+        "code": "03038",
+        "flavor": "\"Hey, les enfants doivent bien manger\"",
+        "name": "Ezra Bridger",
+        "subtitle": "Voleur sensible à la force",
+        "text": "Vous pouvez jouer des améliorations Bleues sur ce personnage, en ignorant les restrictions de jeu.\n[special] - Prenez 1 ressource à l'un de vos adversaires."
+    },
+    {
+        "code": "03065",
+        "name": "Prépare la Guerre",
+        "text": "Vous pouvez jouer cette carte uniquement si c'est la première action de ce tour <em>(aucun autre joueur n'a entrepris d'action)</em>.\nRecevez 1 ressource."
+    },
+    {
+        "code": "03067",
+        "name": "Tactique Implacable",
+        "text": "Résolver un de vos dés, augmentant sa valeur par le coût en ressource affiché sur le dé."
+    },
+    {
+        "code": "03113",
+        "name": "Fuite Rapide",
+        "text": "Retirer jusqu'à deux dés montrant des dégâts ([ranged] or [melee]). Vous devez passer toutes actions futures ce tour-ci."
+    },
+    {
+        "code": "03125",
+        "name": "La Victoire est à Nous",
+        "text": "Réclamez le champ de bataille, même si un adversaire l'a déjà réclamé curant le tour."
+    }
+]

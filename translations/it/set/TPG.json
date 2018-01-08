@@ -3,7 +3,7 @@
         "code": "04001",
         "name": "Kylo Ren",
         "subtitle": "Il Tormentato",
-        "text": "Dopo che hai attivato questo personaggio,puoi scegliere un colore <em>(blu, rosso, giallo o grigio)</em>, poi rivela 1 carta casuale nella mano di un avversario. Se quella carta è del colore scelto, infliggi 2 danni a un personaggio."
+        "text": "Dopo che hai attivato questo personaggio,puoi scegliere un colore <em>(blu, rosso, giallo o grigio), poi rivela 1 carta casuale nella mano di un avversario. Se quella carta è del colore scelto, infliggi 2 danni a un personaggio.</em>. Luego revela una carta escogida al azar de la mano de un adversario. Si el colo de esa carta coincide con el color elegido, inflige 2 puntos de daño a un Personaje."
     },
     {
         "code": "04002",
@@ -18,13 +18,13 @@
         "name": "Droidi Commando",
         "text": "[special] - Infliggi 1 danno a un qualsiasi numero di personaggi."
     },
-    {
+        {
         "code": "04004",
         "flavor": "Le mie truppe assalteranno questo blocco e vi uccideranno. <cite>Capitano Phasma</cite>",
         "name": "Blaster del Capitano Phasma",
         "text": "Finchè questa miglioria è assegnata al Capitano Phasma, forniscile la parola chiave Riposizionamento."
     },
-    {
+        {
         "code": "04005",
         "name": "Guardia Pretoriana",
         "text": "Fornisci la parola chiave Protezione al personaggio con questa miglioria. <em>(Prima di attivare questo personaggio, puoi rimuovere 1 dado \"danno\" e infliggere quei danni a questo personaggio.)</em>"
@@ -34,117 +34,119 @@
         "name": "Consiglio Oscuro",
         "text": "[special] - Pesca 1 carta. Ripeti il tiro di questo dado invece di rimuoverlo dalla tua riserva."
     },
-    {
+
+        {
         "code": "04007",
         "name": "Spada Laser a Guardia Crociata",
         "text": "Dopo che hai giocato questa miglioria su Kylo Ren, infliggi 1 danno a un personaggio.\n[special] - Infliggi 2 danni a un personaggio (3 danni se quel personaggio possiede 1 i più scudi)."
     },
-    {
+        {
         "code": "04008",
         "name": "Stasi di Forza",
         "text": "Solo personaggli blu.\n[special] - Rimuovi un dado \"danno a distanza\" ([ranged]). Poi infliggi 1 danno a un personaggio."
     },
-    {
+            {
         "code": "04009",
         "flavor": "\"Li troverò rapidamente, Maestro.\"<cite>Darth Maul</cite>",
         "name": "Rivale dei Jedi",
         "text": "Dopo che hai attivato il personaggio con questa miglioria, puoi rimuovere 1 scudo da un personaggio."
     },
-    {
+            {
         "code": "04010",
         "name": "Supporto Corazzato",
-        "text": "<b>Azione</b> - Esaurisci questo supporto per ripetere il tiro di 1 tuo dado rosso. Se ottieni \"danno\" ([ranged] o [melee]), infliggi 1 danno a un personaggio."
+        "text": "<b>Azione<b> - Esaurisci questo supporto per ripetere il tiro di 1 tuo dado rosso. Se ottieni \"danno\" ([ranged] o [melee]), infliggi 1 danno a un personaggio."
     },
-    {
+            {
         "code": "04011",
         "name": "Primo Colpo",
         "text": "Infliggi 1 ammontare di danni pari al valore di 1 dado \"danno\" ([ranged] o [melee]) di un avversario a un personaggio. "
     },
-    {
+            {
         "code": "04012",
         "name": "Ora Ti Tengo",
         "text": "Gira 1 dado su una faccia \"danno\" ([ranged] o [melee])."
-    },
+    },       
     {
         "code": "04013",
-        "flavor": "\"Inviate tutte le squadriglie...\" <cite>Generale Hux</cite>",
+        "flavor": "\"Inviate tutte le squadriglie...\" <cite>Generale Hux</cite>",        
         "name": "Emissario Imperiale",
         "text": "Rivela 2 carte casuali nella mano di un avversario. poi infliggi 1 danno per ogni evento o supporto appena rivelato."
     },
-    {
+        {
         "code": "04014",
         "name": "Mobilitazione",
         "text": "Ottieni 4 risorse."
     },
-    {
+        {
         "code": "04015",
         "name": "Maestria Tattica",
         "text": "Avvista un personaggio rosso per effettuare fino a due azioni aggiuntive."
     },
-    {
+        {
         "code": "04016",
         "name": "Come Avevo Previsto",
         "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nGuarda la mano di ogni avversario."
     },
-    {
+        {
         "code": "04017",
         "name": "Scontro",
         "text": "Gira 1 tuo dado su una faccia \"danno in mischia\" ([melee]). Gira 1 dado \"danno in mischia\" ([melee]) di un avversario su una faccia \"vuoto\" ([blank])."
     },
-    {
+        {
         "code": "04018",
         "name": "Intimidire",
         "text": "Rimuovi tutti gli scudi da un personaggio."
     },
-    {
+        {
         "code": "04019",
         "flavor": "\"Vedo che hai fabbricato una nuova spada laser.\" <cite>Darth Vader</cite>",
         "name": "Le Tue Facoltà Sono Complete",
         "text": "Gira 1 dado miglioria su una faccia \"vuoto\" ([blank].)"
     },
-    {
+        {
         "code": "04020",
         "name": "Dubbio",
         "text": "Ripeti il tiro di 1 dado di un avversario, poi quell'avversario risolve quel dado oppure lo rimuove. <em>(Errata 1.2.2)</em>"
     },
-    {
+            {
         "code": "04021",
         "name": "Parata",
-        "text": "Rimuovi 1 dado \"danno in mischia\" ([melee])."
+        "text": "Rimuovi 1 dado \"danno in mischia\" ([melee]."
     },
-    {
+            {
         "code": "04022",
-        "flavor": "\"Non le permetto di discutere i miei metodi.\" <cite>Generale Hux</cite>",
+        "flavor": "\"Non le permetto di discutere i miei metodi.\"<cite>Generale Hux</cite>",
         "name": "Soggiogare",
         "text": "Rimuovi 1 dado."
     },
-    {
+            {
         "code": "04023",
         "name": "Hangar Navale",
         "subtitle": "Flotta Imperiale",
-        "text": "<i>Rivendicazione</i> - Rivela 1 carta in cima al mazzo di un avversario. Se quella carta è un evento o un supporto, infliggi 1 danno a un personaggio."
+        "text": "<b>Rivendicazione<b> - Rivela 1 carta in cima al mazzo di un avversario. Se quella carta è un evento o un supporto, infliggi 1 danno a un personaggio."
     },
-    {
+            {
         "code": "04024",
-        "flavor": "\"La Forza ti sta chiamando.\" <cite>Maz Kanata</cite>",
+        "flavor": "\"LA Forza ti sta chiamando.\" <cite>Maz Kanata</cite>",
         "name": "Rey",
         "subtitle": "In Cerca Della Via",
         "text": "Dopo che hai attivato questo personaggio, se possiede 1 o più scudi, puoi infliggere 1 danno a un personaggio."
     },
-    {
+            {
         "code": "04025",
         "flavor": "\"La Resistenza non si lascerà intimidire da te.\"",
         "name": "Poe Dameron",
         "subtitle": "Più di un Pilota",
         "text": "[special] - Fornisci 1 scudo a un personaggio. Puoi girare 1 altro dado su una faccia a tua scelta."
     },
-    {
+            {
         "code": "04026",
         "flavor": "A differenza dei dottori biologici, i droidi medici possono curare la maggior parte delle specie grazie alle loro vaste banche dati.",
         "name": "Droide Medico",
         "text": "[special] - Cura 1 danno a un personaggio."
+
     },
-    {
+            {
         "code": "04027",
         "name": "Squadra d'Attacco",
         "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nSe un avversario possiede 3 o più risorse, riduci di 1 il costo per giocare questo supporto."
@@ -155,55 +157,55 @@
         "name": "Lavoro di Squadra",
         "text": "[special] - Fornisci 1 scudo al personaggio con questa miglioria. Puoi fornire 1 scudo a un altro personaggio."
     },
-    {
+            {
         "code": "04029",
         "name": "Blaster di Poe Dameron",
         "text": "[special] - Infliggi 2 danni a un personaggio (3 danni se il personaggio con questa miglioria è Poe Dameron)."
     },
-    {
+            {
         "code": "04030",
         "name": "Spada Laser di Rey",
         "text": "Riposizionamento. <em>(Dopo che il personaggio è stato sconfitto, sposta questa carta.)</em>\nDopo che hai giocato questa miglioria fornisci 1 scudo al personaggio con questa miglioria (2 scudi se il personaggio con questa miglioria è Rey)."
     },
-    {
+                {
         "code": "04031",
         "name": "Forza Interiore",
         "text": "[special] - Sposta 1 danno dal personaggio con questa miglioria a un personaggio privo di scudi di un avversario."
     },
-    {
+                    {
         "code": "04032",
-        "flavor": "Se Skywalker tornasse, allora i Jedi risorgerebbero. <cite>Snoke</cite>",
+        "flavor": "Se Skywalker tornasse, allora i Jedi risorgerebbero. <cite>Snoke</cite>",             
         "name": "Protezione di Luke",
-        "text": "<b>Azione</b> - Colloca questo supporto dal gioco in cima al tuo mazzo per fornire 1 scudo a un personaggio blu."
+        "text": "<b>Azione<b> - Colloca questo supporto dal gioc in cima al tuo mazzo per fornire 1 scudo a un personaggio blu."
     },
-    {
+                    {
         "code": "04033",
         "name": "Guardia d'Onore",
-        "text": "<b>Azione</b> - Scarta questo supporto dal gioco per rimuovere 1 dado \"danno\" ([ranged] o [melee])."
+        "text": "<b>Azione<b> - Scarta questo supporto dal gioco per rimuovere 1 dado \"danno\" ([ranged] o [melee])."
     },
-    {
+                    {
         "code": "04034",
         "name": "Colpito In Pieno",
         "text": "Risolvi 1 tuo dado \"danno\" ([ranged] o [melee]) aumentando di 2 il suo valore."
     },
-    {
+                    {
         "code": "04035",
         "name": "Logistica",
         "text": "Avvista un personaggio rosso per risolvere 1 tuo dado \"risorsa\" ([resource]), aumentando di 1 il suo valore."
     },
-    {
+                    {
         "code": "04036",
         "name": "Ricognizione",
         "text": "Scegli un simbolo mostrato su un dado, poi gira 1 altro dado su una faccia con quel simbolo."
     },
-    {
+                    {
         "code": "04037",
         "name": "Pianificazione Strategica",
         "text": "Ripristina oppure esaurisci un supporto."
     },
-    {
+                    {
         "code": "04038",
-        "flavor": "\"Grazie alla Forza altre cose vedrai.\" <cite>Yoda</cite>",
+        "flavor": "\"Grazie alla Forza altre cose vedrai.\" <cite>Yoda</cite>",             
         "name": "Raccoglimento",
         "text": "Gira 1 dado su una faccia a tua scelta. Puoi spendere 1 risorsa per girare 1 altro dado su una faccia a tua scelta."
     },
@@ -214,41 +216,42 @@
     },
     {
         "code": "04040",
-        "flavor": "\"Forse è un'altra esercitazione.\" <cite>Assaltatore</cite>",
+        "flavor": "\"Forse è un'altra esercitazione.\" <cite>Assaltatore</cite>",             
         "name": "Distrazione",
         "text": "Scegli 2 dadi. poi un avversario sceglie e rimuove 1 di quei dadi."
     },
     {
         "code": "04041",
-        "flavor": "\"Non c'è provare.\" <cite>Yoda</cite>",
+        "flavor": "\"Non c'è provare.\" <cite>Yoda</cite>",             
         "name": "Fare O Non Fare",
         "text": "Ripeti il tiro di 1 tuo dado. Poi puoi risolverlo aumentando di 1 il suo valore. Se non lo fai rimuovi quel dado."
     },
     {
         "code": "04042",
-        "flavor": "\"Non passerò mai al Lato Oscuro.\" <cite>Luke Skywalker</cite>",
+        "flavor": "\"Non passerò mai al Lato Oscuro.\" <cite>Luke Skywalker</cite>",             
         "name": "Determinazione Incrollabile",
         "text": "Ripeti il tiro di 1 tuo dado. poi infliggi un ammontare di danni pari al valore di quel dado a un personaggio."
     },
-    {
+     {
         "code": "04043",
         "name": "Elusione",
         "text": "Rimuovi 1 dado \"danno a distanza\" ([ranged])."
     },
-    {
+                    {
         "code": "04044",
         "name": "Attacco ai Fianchi",
         "text": "Gioca queta carta solo se hai più personaggi pronti di un avversario.\n Rimuovi 1 dado di quell'avversario."
     },
-    {
+                {
         "code": "04045",
         "name": "Suonare L'Allarme",
         "text": "Ripeti il tiro di un qualsiasi numero di dadi \"danno\" ([ranged] o [melee]) di un avversario."
     },
-    {
+                {
         "code": "04046",
         "name": "Capanna di Obi-Wan",
         "subtitle": "Tatooine",
         "text": "<b>Rivendicazione</b> - Fornisci 1 scudo a un personaggio blu oppure spendi 1 risorsa per fornire 1 scudo a un personaggio non blu."
     }
+    
 ]

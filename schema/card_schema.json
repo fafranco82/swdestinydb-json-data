@@ -2,11 +2,8 @@
     "additionalProperties": false,
     "properties": {
         "affiliation_code": {
-            "enum": [
-                "hero",
-                "neutral",
-                "villain"
-            ]
+            "minLength": 1,
+            "type": "string"
         },
         "code": {
             "pattern": "^[0-9]{5}$",
@@ -35,18 +32,17 @@
             ]
         },
         "faction_code": {
-            "enum": [
-                "red",
-                "blue",
-                "gray",
-                "yellow"
-            ]
+            "minLength": 1,
+            "type": "string"
         },
         "flavor": {
             "minLength": 1,
             "type": "string"
         },
         "has_die": {
+            "type": "boolean"
+        },
+        "has_errata": {
             "type": "boolean"
         },
         "health": {
@@ -81,6 +77,10 @@
                 "L"
             ]
         },
+        "reprint_of": {
+            "pattern": "^[0-9]{5}$",
+            "type": "string"
+        },
         "set_code": {
             "maxLength": 5,
             "minLength": 2,
@@ -88,7 +88,7 @@
         },
         "sides": {
             "items": {
-                "pattern": "^[+]?(\\d+)?(MD|RD|F|Dr|Dc|Sh|R|Sp|-|X)(\\d+)?$",
+                "pattern": "^((([+]?(\\d+)(MD|RD|ID|F|Dr|Dc|Sh|R|X)|Sp)(\\d+)?)|-)$",
                 "type": "string"
             },
             "maxItems": 6,
@@ -100,36 +100,27 @@
             "type": "string"
         },
         "subtype_code": {
-            "enum": [
-                "ability",
-                "droid",
-                "equipment",
-                "vehicle",
-                "weapon"
-            ]
+            "minLength": 1,
+            "type": "string"
         },
         "text": {
             "minLength": 1,
             "type": "string"
         },
         "ttscardid": {
-            "pattern": "^[0-9]{4}$",
+            "pattern": "^[0-9]{3,5}$",
             "type": "string"
         },
         "type_code": {
-            "enum": [
-                "battlefield",
-                "character",
-                "upgrade",
-                "event",
-                "support"
-            ]
+            "minLength": 1,
+            "type": "string"
         }
     },
     "required": [
         "code",
         "deck_limit",
         "has_die",
+        "has_errata",
         "is_unique",
         "name",
         "position",

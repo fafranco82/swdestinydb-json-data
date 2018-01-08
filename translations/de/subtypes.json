@@ -4,12 +4,20 @@
         "name": "Fähigkeit"
     },
     {
+        "code": "artillery",
+        "name": "Artillerie"
+    },
+    {
         "code": "droid",
         "name": "Droide"
     },
     {
         "code": "equipment",
         "name": "Ausrüstung"
+    },
+    {
+        "code": "title",
+        "name": "Titel"
     },
     {
         "code": "vehicle",

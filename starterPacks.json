@@ -188,5 +188,394 @@
                 "dice": 0
             }
         }
+    },
+    {
+        "code": "TPG",
+        "name": "Two-Player Game",
+        "set_code": "TPG",
+        "slots": {
+            "04001": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04002": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04003": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04004": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04005": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04006": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04007": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04008": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04009": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04010": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04011": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04012": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04013": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04014": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04015": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04016": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04017": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04018": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04019": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04020": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04021": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04022": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04023": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04024": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04025": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04026": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04027": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04028": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04029": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04030": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04031": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "04032": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04033": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04034": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04035": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04036": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04037": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04038": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04039": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04040": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04041": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04042": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04043": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04044": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04045": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "04046": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
+    },
+    {
+        "code": "LEG-V",
+        "name": "Boba Fett Starter Set",
+        "set_code": "LEG",
+        "slots": {
+            "05013": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05019": {
+                "quantity": 1,
+                "dice": 2
+            },
+            "05025": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05026": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05027": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05064": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05072": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05073": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05084": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05086": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05096": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05097": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05098": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05136": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05137": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05139": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05143": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05151": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05152": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05155": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05160": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05163": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05174": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
+    },
+    {
+        "code": "LEG-H",
+        "name": "Luke Skywalker Starter Set",
+        "set_code": "LEG",
+        "slots": {
+            "05031": {
+                "quantity": 1,
+                "dice": 2
+            },
+            "05035": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05046": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05052": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05056": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05058": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05072": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05073": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "05102": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05116": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05119": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05121": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05122": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05125": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05128": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05130": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05133": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05134": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05147": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05150": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05153": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05155": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "05178": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
     }
 ]

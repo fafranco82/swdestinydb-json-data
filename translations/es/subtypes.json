@@ -4,6 +4,14 @@
         "name": "Capacidad"
     },
     {
+        "code": "artillery",
+        "name": "Artillería"
+    },
+    {
+        "code": "bounty-hunter",
+        "name": "Cazarrecompensas"
+    },
+    {
         "code": "droid",
         "name": "Droide"
     },
@@ -12,11 +20,59 @@
         "name": "Equipo"
     },
     {
+        "code": "gungan",
+        "name": "Gungan"
+    },
+    {
+        "code": "jawa",
+        "name": "Jawa"
+    },
+    {
+        "code": "jedi",
+        "name": "Jedi"
+    },
+    {
+        "code": "leader",
+        "name": "Líder"
+    },
+    {
+        "code": "location",
+        "name": "Lugar"
+    },
+    {
+        "code": "pilot",
+        "name": "Piloto"
+    },
+    {
+        "code": "scoundrel",
+        "name": "Granuja"
+    },
+    {
+        "code": "sith",
+        "name": "Sith"
+    },
+    {
+        "code": "spectre",
+        "name": "Spectre"
+    },
+    {
+        "code": "title",
+        "name": "Título"
+    },
+    {
+        "code": "trooper",
+        "name": "Soldado"
+    },
+    {
         "code": "vehicle",
         "name": "Vehículo"
     },
     {
         "code": "weapon",
         "name": "Arma"
+    },
+    {
+        "code": "witch",
+        "name": "Bruja"
     }
 ]

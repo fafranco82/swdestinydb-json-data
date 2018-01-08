@@ -16,7 +16,7 @@
     "required": [
         "code",
         "is_primary",
-        "name"       
+        "name"
     ],
     "type": "object"
 }

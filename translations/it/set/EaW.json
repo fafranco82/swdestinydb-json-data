@@ -45,7 +45,7 @@
     },
     {
         "code": "03008",
-        "flavor": "\"Hai finito di perdere tempo?\"",
+        "flavor": "Hai finito di perdere tempo?",
         "name": "Quinlan Vos",
         "subtitle": "Discepolo Oscuro",
         "text": "[special] - Infliggi a un personaggio di un avversario un ammontare di danni pari al numero di carte nella tua mano di cui superi il numero di carte nella mano di quell'avversario."
@@ -206,7 +206,7 @@
     },
     {
         "code": "03035",
-        "flavor": "\"Senti, un'azione contro i remoti è una cosa. Ma un'azione contro i vivi, eh? É una cosa diversa.\" <cite>Han Solo</cite>",
+        "flavor": "\"Senti, un'azione contro i remoti è una cosa. Ma un'azione contro i vivi, eh? E' una cosa diversa.\"<cite>Han Solo</cite>",
         "name": "Remoto da Addestramento",
         "text": "Puoi risolvere le facce modificatore <em>(con un \"+\")</em> di questo dado allo stesso tempo di un qualsiasi altro tuo dado personaggio blu."
     },

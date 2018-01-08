@@ -4,7 +4,23 @@
         "name": "Despertares"
     },
     {
+        "code": "EaW",
+        "name": "El imperio en guerra"
+    },
+    {
+        "code": "LEG",
+        "name": "Legados"
+    },
+    {
+        "code": "RIV",
+        "name": "Rivales"
+    },
+    {
         "code": "SoR",
         "name": "Espíritu de rebelión"
+    },
+    {
+        "code": "TPG",
+        "name": "Caja de inicio para dos jugadores"
     }
 ]

@@ -1,0 +1,254 @@
+[
+    {
+        "code": "04001",
+        "name": "Kylo Ren",
+        "subtitle": "Alma atormentada",
+        "text": "Después de que actives este Personaje, puedes elegir un color <em>(Amarillo, Azul, Rojo, o Gris)</em>. Luego revela una carta escogida al azar de la mano de un adversario. Si el colo de esa carta coincide con el color elegido, inflige 2 puntos de daño a un Personaje."
+    },
+    {
+        "code": "04002",
+        "flavor": "\"No serás tan estúpido de pensar que va a ser fácil.\"",
+        "name": "Capitán Phasma",
+        "subtitle": "Estratega despiadada",
+        "text": "[special] - Inflige 2 puntos de daño a un Personaje, o 3 puntos de daño si ese Personaje tiene 6 o más puntos de daño asignados."
+    },
+    {
+        "code": "04003",
+        "flavor": "Aunque era superior a los droides de batalla corrientes, este modelo resultaba demasiado caro para poder desplegarlo en grandes cantidades.",
+        "name": "Droides comando",
+        "text": "[special] - Inflige 1 punto de daños a cada uno de cualquier cantidad de Personajes."
+    },
+    {
+        "code": "04004",
+        "flavor": "\"Mis tropas entrarán y os matarán a todos.\" <cite>Captain Phasma</cite>",
+        "name": "Bláster de la Capitán Phasma",
+        "text": "Mientras esta Mejora esté vinculada a la Capitán Phasma, posee la palabra clave Redesplegar."
+    },
+    {
+        "code": "04005",
+        "name": "Guardia pretoriana",
+        "text": "El Personaje vinculado posee la palabra clave Guardián."
+    },
+    {
+        "code": "04006",
+        "name": "Consejos tenebrosos",
+        "text": "[special] - Roba una carta. Vuelve a tirar este dado en vez de retirarlo de tu reserva."
+    },
+    {
+        "code": "04007",
+        "name": "Sable de luz cruciforme",
+        "text": "´Después de que juegues esta Mejora sobre Kylo Ren, inflige 1 punto de daño a un Personaje.\n[special] - Inflife 2 puntos de daño a un Personaje, o 3 puntos de daño si ese Personaje posee 1 o más escudos."
+    },
+    {
+        "code": "04008",
+        "name": "Contener con la Fuerza",
+        "text": "Sólo Personaje de color Azul.\n[special] - Retira un dado que muestre daño a distancia ([ranged]). Luego inflige 1 punto de daño a un Personaje."
+    },
+    {
+        "code": "04009",
+        "flavor": "\"Les encontraré rápidamente, maestro.\" <cite>Darth Maul</cite>",
+        "name": "Antagonista Jedi",
+        "text": "Después de que actives al Personaje vinculado, puedes retirar 1 escudo de un Personaje."
+    },
+    {
+        "code": "04010",
+        "name": "Apoyo blindado",
+        "text": "<b>Acción</b> - Agota este Apoyo para volver a tirar uno de tus dados de color Rojo. Si en ese dado obtienes un resultado de daño ([ranged] o [melee]), inflige 1 punto de daño a un Personaje."
+    },
+    {
+        "code": "04011",
+        "name": "Primer golpe",
+        "text": "Inflige tanto daño a un Personaje como el valor de resultado del dado de un adversario que muestre daño ([ranged] o [melee])."
+    },
+    {
+        "code": "04012",
+        "name": "Ya te tengo",
+        "text": "Gira un dado a una cara que muestre daño ([ranged] o [melee])."
+    },
+    {
+        "code": "04013",
+        "name": "Emisario imperial",
+        "text": "Revela 2 cartas de la mano de un adversario seleccionadas al azar. Luego inflige 1 punto de daño a un Personaje por cada Evento y Apoyo que acabas de revelar."
+    },
+    {
+        "code": "04014",
+        "flavor": "\"Envíen todos los escuadrones…\" <code>General Hux</code>",
+        "name": "Movilizar",
+        "text": "Recibes 4 recursos."
+    },
+    {
+        "code": "04015",
+        "name": "Estrategia brillante",
+        "text": "Señala a un Personaje de color Rojo para realizar hasta 2 acciones adicionales."
+    },
+    {
+        "code": "04016",
+        "name": "Como yo había previsto",
+        "text": "Emboscada.\nMira la mano de cada adversario."
+    },
+    {
+        "code": "04017",
+        "name": "Confrontación",
+        "text": "Gira uno de tus dados a una cara que muestre daño cuerpo a cuerpo ([melee]). Gira un dado de un adversario que muestre daño cuerpo a cuerpo ([melee]) a una cara vacía ([blank])."
+    },
+    {
+        "code": "04018",
+        "name": "Intimidar",
+        "text": "Retira todos los escudos de un Personaje."
+    },
+    {
+        "code": "04019",
+        "flavor": "\"Veo que has construido un nuevo sable de luz.\" <cite>Darth Vader</cite>",
+        "name": "Tus habilidades están completamente desarrolladas",
+        "text": "Gira un dado de Mejora a una cara que muestre una cara vacía ([blank])."
+    },
+    {
+        "code": "04020",
+        "name": "Duda",
+        "text": "Vuelve a tirar un dado de un adversario. Luego ese adversario elige entre resolver ese dado o retirarlo."
+    },
+    {
+        "code": "04021",
+        "name": "Parada",
+        "text": "Retira un dado que muestre daño cuerpo a cuerpo ([melee])."
+    },
+    {
+        "code": "04022",
+        "flavor": "\"No permito que cuestion mis métodos.\" <cite>General Hux</cite>",
+        "name": "Subyugar",
+        "text": "Retira un dado."
+    },
+    {
+        "code": "04023",
+        "name": "Hangar",
+        "subtitle": "Flota imperial",
+        "text": "<b>Reclamar</b> - Revela la primera carta del mazo de un adversario. Si esa carta es un Evento o un Apoyo, inflige 1 punto de daño a un Personaje."
+    },
+    {
+        "code": "04024",
+        "flavor": "\"La Fuerza, te está llamando a ti.\" <cite>Maz Kanata</cite>",
+        "name": "Rey",
+        "subtitle": "Hallando el camino",
+        "text": "Después de que actives este Personaje, si posee 1 o más escudos, puedes infligir 1 punto de daño a un Personaje."
+    },
+    {
+        "code": "04025",
+        "flavor": "\"La Resistencia no se va a dejar intimidar por ti.\"",
+        "name": "Poe Dameron",
+        "subtitle": "Mucho más que un piloto",
+        "text": "[special] - Entrega 1 escudo a un Personaje. Puedes girar otro dado a cualquier cara."
+    },
+    {
+        "code": "04026",
+        "flavor": "A diferencia de los doctores biológicos, los droides médicos estaban capacitados para tratar a casi todas las especies gracias a sus vastos bancos de datos.",
+        "name": "Droide médico",
+        "text": "[special] - Cura 1 punto de daño de un Personaje."
+    },
+    {
+        "code": "04027",
+        "name": "Comando de asalto",
+        "text": "Emboscada.\nReduce en 1 el coste para jugar este Apoyo si un adversario posee 3 o más recursos."
+    },
+    {
+        "code": "04028",
+        "flavor": "\"¡Nunca comprenderé por qué siempre me arriesgo por ti!\" <cite>C-3P0</cite>",
+        "name": "Trabajo en equipo",
+        "text": "[special] - Entrega 1 escudo al Personaje vinculado. Puedes entregar 1 escudo a otro Personaje."
+    },
+    {
+        "code": "04029",
+        "name": "Bláster de Poe Dameron",
+        "text": "[special] - Inflige 2 puntos de daño a un Personaje, o 3 puntos de daño si el Personaje vinculado es Poe Dameron."
+    },
+    {
+        "code": "04030",
+        "name": "Sable de luz de Rey",
+        "text": "Redesplegar.\nDespués de que juegues esta Mejora, entrega 1 escudo al Personaje vinculado, o 2 escudos si el Personaje vinculado es Rey."
+    },
+    {
+        "code": "04031",
+        "name": "Fortaleza interior",
+        "text": "[special] - Transfiere 1 punto de daño del Personaje vinculado a un Personaje de un adversario que no posea ningún escudo."
+    },
+    {
+        "code": "04032",
+        "flavor": "\"Si Skywalker regresa, los nuevos jedi se alzarán.\" <cite>Snoke</cite>",
+        "name": "La protección de Luke",
+        "text": "<b>Acción</b> - Retira este Apoyo del juego y colócalo en la parte superior de tu mazo para entregar 1 escudo a un Personaje de color Azul."
+    },
+    {
+        "code": "04033",
+        "name": "Guardia de honor",
+        "text": "<b>Acción</b> - Descarta este Apoyo del juego para retirar un dado que muestre daño ([ranged] o [melee])."
+    },
+    {
+        "code": "04034",
+        "name": "Impacto directo",
+        "text": "Resuelve uno de tus dados que muestre daño ([ranged] o [melee]), incrementando en 2 su valor de resultado."
+    },
+    {
+        "code": "04035",
+        "name": "Logística",
+        "text": "Señala un Personaje de color Rojo para resolver uno de tus dados que muestre recursos ([resource]), incrementando en 1 su valor de resultado."
+    },
+    {
+        "code": "04036",
+        "name": "Reconocimiento",
+        "text": "Elige un símbolo que se muestre en un dado. Luego gira otro dado a una cara que muestre ese mismo símbolo."
+    },
+    {
+        "code": "04037",
+        "name": "Planificación estratégica",
+        "text": "Prepara o agota un Apoyo."
+    },
+    {
+        "code": "04038",
+        "flavor": "\"A través de la Fuerza, verás cosas, otros lugares.\" <cite>Yoda</cite>",
+        "name": "Concentrarse",
+        "text": "Gira uno de tus dados a cualquier cara. Puedes gastar 1 recurso para girar otro de tus dados a cualquier cara."
+    },
+    {
+        "code": "04039",
+        "name": "Postura defensiva",
+        "text": "Entrega 2 escudos a un Personaje."
+    },
+    {
+        "code": "04040",
+        "flavor": "\"Algún nuevo tipo de maniobras.\" <cite>Soldado de asalto</cite>",
+        "name": "Distraer",
+        "text": "Elige 2 dados. A continuación, un adversario elige y retira uno de esos dados."
+    },
+    {
+        "code": "04041",
+        "flavor": "\"Pero no lo intentes.\" <cite>Yoda</cite>",
+        "name": "Hazlo o no lo hagas",
+        "text": "Vuelve a tirar uno de tus dados. A continuación puedes resolverlo, incrementando en 1 su valor de resultado. En caso contrario, retíralo."
+    },
+    {
+        "code": "04042",
+        "flavor": "\"No entraré en el Lado Oscuro.\" <cite>Luke Skywalker</cite>",
+        "name": "Feroz determinación",
+        "text": "Vuelve a tirar uno de tus dados. Luego inflige a un Personaje tantos puntos de daño como el valor de resultado que muestra ese dado."
+    },
+    {
+        "code": "04043",
+        "name": "Evasión",
+        "text": "Retira un dado que muestre daño a distance ([ranged])."
+    },
+    {
+        "code": "04044",
+        "name": "Flanquear",
+        "text": "Juega esta carta sólo si tienes más Personajes preparados que un adversario.\nRetira uno de los dados de ese adversario."
+    },
+    {
+        "code": "04045",
+        "name": "Dar la alarma",
+        "text": "Vuelve a tirar cualquier cantidad de dados de un adversario que muestren daño ([ranged] o [melee])."
+    },
+    {
+        "code": "04046",
+        "name": "Choza de Obi-Wan",
+        "subtitle": "Tatooine",
+        "text": "<b>Reclamar</b> - Entrega 1 escudo a un Personaje de color Azul o gasta 1 recurso para entregar 1 escudo a un personaje que no sea de color Azul."
+    }
+]

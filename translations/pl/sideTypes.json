@@ -1,7 +1,7 @@
 [
     {
         "code": "-",
-        "name": "Pusta \u015bcianka"
+        "name": "Pusta ścianka"
     },
     {
         "code": "Dc",
@@ -9,7 +9,7 @@
     },
     {
         "code": "Dr",
-        "name": "Zak\u0142\u00f3cenie"
+        "name": "Zakłócenie"
     },
     {
         "code": "F",
@@ -17,7 +17,7 @@
     },
     {
         "code": "MD",
-        "name": "Obra\u017cenia wr\u0119cz"
+        "name": "Obrażenia wręcz"
     },
     {
         "code": "R",
@@ -25,11 +25,11 @@
     },
     {
         "code": "RD",
-        "name": "Obra\u017cenia dystansowe"
+        "name": "Obrażenia dystansowe"
     },
     {
         "code": "Sh",
-        "name": "Os\u0142ona"
+        "name": "Osłona"
     },
     {
         "code": "Sp",

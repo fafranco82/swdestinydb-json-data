@@ -16,6 +16,10 @@
         "name": "Concentración"
     },
     {
+        "code": "ID",
+        "name": "Daño indirecto"
+    },
+    {
         "code": "MD",
         "name": "Daño cuerpo a cuerpo"
     },

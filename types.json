@@ -18,5 +18,9 @@
     {
         "code": "upgrade",
         "name": "Upgrade"
+    },
+    {
+        "code": "plot",
+        "name": "Plot"
     }
 ]
