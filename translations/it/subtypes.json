@@ -4,6 +4,14 @@
         "name": "Capacità"
     },
     {
+        "code": "artillery",
+        "name": "Artiglieria"
+    },
+    {
+        "code": "bounty-hunter",
+        "name": "Cacciatore di Taglie"
+    },
+    {
         "code": "droid",
         "name": "Droide"
     },
@@ -12,11 +20,58 @@
         "name": "Equipaggiamento"
     },
     {
+        "code": "jawa",
+        "name": "Jawa"
+    },
+        "code": "jedi",
+        "name": "Jedi"
+    },
+    {
+        "code": "location",
+        "name": "Location"
+    },
+    {
+        "code": "pilot",
+        "name": "Pilota"
+    },
+    {
+        "code": "scoundrel",
+        "name": "Canaglia"
+    },
+    {
+        "code": "spectre",
+        "name": "Spectre"
+    },
+    {
+        "code": "title",
+        "name": "Titolo"
+    },
+    {
+        "code": "trooper",
+        "name": "Soldato"
+    },
+    {
         "code": "vehicle",
         "name": "Veicolo"
     },
     {
         "code": "weapon",
         "name": "Arma"
+    },
+    {
+        "code": "witch",
+        "name": "Strega"
+    },
+    {
+        "code": "sith",
+        "name": "Sith"
+    },
+    {
+        "code": "leader",
+        "name": "Leader"
+    },
+    {
+        "code": "gungan",
+        "name": "Gungan"
     }
 ]
