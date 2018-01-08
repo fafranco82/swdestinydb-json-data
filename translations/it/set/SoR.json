@@ -182,7 +182,7 @@
         "code": "02033",
         "flavor": "\"I soldati più esperti sanno già di essere morti.\"",
         "name": "Attacco Distruttivo",
-        "text": ""
+        "text": " "
     },
     {
         "code": "02034",
@@ -282,7 +282,7 @@
         "name": "Occhialoni di Maz",
         "text": "Gioca questa carta solo se avvisti un personaggio Giallo.\n[special] - Guarda la mano di un avversario e scarta un evento da essa."
     },
-    { 
+    {
         "code": "02051",
         "name": "Linea di Rifornimento",
         "text": "[special] - Ripeti il tiro di un qualsiasi numero di tuoi dadi."
@@ -452,13 +452,12 @@
         "name": "Questioni in Sospeso",
         "text": "Imboscata.\nRimuovi 1 tuo dado \"danno a distanza\" ([ranged]) per scartare 4 carte dalla cima del mazzo di un avversario."
     },
-        {
+    {
         "code": "02085",
         "name": "Un Quarto di Porzione",
         "text": "Rimuovi 1 dado di un avversario, poi quell'avversario ottiene 1 risorsa."
     },
     {
-
         "code": "02086",
         "name": "Inseguimento Implacabile",
         "text": "Sposta fino a 2 danni da un personaggio avversario a un altro personaggio <em>(ignorando gli scudi)</em>."
@@ -468,12 +467,12 @@
         "name": "Rottami in Vendita",
         "text": "Gioca questa carta solo se hai 3 o più carte nella tua pila degli scarti.\nAggiungi alla tua mano 1 carta casuale dalla tua pila degli scarti <em>(mostrandola agli avversari)</em>."
     },
-        {
+    {
         "code": "02088",
         "name": "Bancarella del Riciclaggio",
         "text": "Dopo che 1 tuo dado ha ottenuto \"risorsa\" ([resource]), puoi esaurire questo supporto per obbligare un avversario a perdere 1 risorsa."
     },
-        {
+    {
         "code": "02089",
         "name": "Piastre per Armatura",
         "text": "Prima che il personaggio con questa miglioria subisca danni, puoi bloccare fino a 2 danni. Poi scarta dal gioco questa miglioria."
@@ -658,7 +657,7 @@
         "name": "Addestramento",
         "text": "Solo personaggi non unici rossi.\nConsidera il personaggio con questa miglioria come se fosse elite <em>(collocando una seconda copia del suo dado sulla sua carta)</em>."
     },
-    
+    {
         "code": "02126",
         "name": "Gregario",
         "text": "Solo personaggi rossi.\nDopo che hai attivato un personaggio rosso, puoi attivare il personaggio con questa miglioria."
@@ -722,7 +721,7 @@
         "code": "02138",
         "name": "Parata",
         "text": "Rimuovi 1 dado \"danno in mischia\" ([melee])."
-    }
+    },
     {
         "code": "02139",
         "name": "Rapidità",

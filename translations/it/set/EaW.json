@@ -1,4 +1,4 @@
-[   
+[
     {
         "code": "03001",
         "flavor": "Il Capitano Ree, una veterana delle battaglie di Endor e Jakku, era un pilota e comandante di grande esperienza",
@@ -12,7 +12,7 @@
         "name": "Generale Hux",
         "subtitle": "Aspirante Comandante",
         "text": "[special] - Gioca 1 evento rosso dalla tua mano, riducendo di 1 il suo costo per ogni tuo personaggio."
-    }, 
+    },
     {
         "code": "03003",
         "flavor": "Il droide MagnaGuard IG-100 poteva reggere a danni ingenti prima che i suoi sistemi cedessero definitivamente.",
@@ -147,7 +147,7 @@
         "name": "Hera Syndulla",
         "subtitle": "Capo Phoenix",
         "text": "[special] - Gioca gratuitamente 1 <i>Veicolo</i> dalla tua mano. Dopo che la fase di Azione è terminata, se quel <i>Veicolo</i> è ancora in gioco, rimettilo nella tua mano."
-    },                      
+    },
     {
         "code": "03026",
         "flavor": "\"Perchè la ragazza ha un blaster ed io no?\"",
@@ -157,7 +157,7 @@
     },
     {
         "code": "03027",
-      "flavor": "La prima volta ai comandi di un caccia era sempre emozionante...anche se avrebbe potuto essere l'ultima.",
+        "flavor": "La prima volta ai comandi di un caccia era sempre emozionante...anche se avrebbe potuto essere l'ultima.",
         "name": "Pilota Matricola",
         "text": "Dopo che hai attivato questo personaggio, puoi ripetere il tiro di 1 tuo dado <i>Veicolo</i>."
     },
@@ -196,7 +196,7 @@
         "name": "Kanan Jarrus",
         "subtitle": "Jedi Ribelle",
         "text": "Prima di effettuare un'azione, puoi risolvere questo dado."
-    },    
+    },
     {
         "code": "03034",
         "flavor": "\"La festa è finita.\"",
@@ -316,7 +316,7 @@
         "text": "Solo personaggi gialli.\n[special] - Scegli un avversario. Se hai più dadi \"danno a distanza \" ([ranged]) di quell'avversario, prendigli 1 risorsa."
     },
     {
-        "code": "03055",        
+        "code": "03055",
         "flavor": "Il mirino computerizzato e il silenziatore integrato del Night Sniper X-8 facevano di questo modello l'arma preferita di Lando Calrissian.",
         "name": "Night Sniper X-8",
         "text": "Imboscata.\n<b>Azione</b> - Spendi 1 risorsa per girare questo dado su una faccia a tua scelta."
@@ -352,7 +352,7 @@
         "code": "03061",
         "name": "Veicolo Requisito",
         "text": "Risolvi 1 dado <i>Veicolo</i> di un avversario come se fosse un tuo dado, ignorando il suo eventuale costo in risorse."
-    }, 
+    },
     {
         "code": "03062",
         "flavor": "\"Occhio al fuoco incrociato, però.\"<cite>Luke Skywalker</cite>",
@@ -410,7 +410,6 @@
         "name": "Indomito",
         "text": "Gioca questa carta solo se hai esattamente 1 personaggio.\nFornisci 3 scudi a un personaggio blu."
     },
-
     {
         "code": "03074",
         "flavor": "Il Primo Ordine giustiziò ogni membro del villaggio di Jakku per non lasciare alcun testimone.",
@@ -483,7 +482,7 @@
         "code": "03087",
         "name": "Nessun Sopravvissuto",
         "text": "Infliggi 1 danno a ogni personaggio dannneggiato di 1 avvversario."
-    },  
+    },
     {
         "code": "03088",
         "name": "Centro di Detenzione",
@@ -499,17 +498,17 @@
         "name": "in Trincea",
         "text": "Fornisci un totale di 5 scudi ai tuoi personaggi, distribuendoli come preferisci."
     },
-    { 
+    {
         "code": "03091",
         "name": "Colpo Fortuito",
         "text": "Avvista 1 personaggio rosso per ripetere il tiro di un qualsiasi numero di tuoi dadi. Poi infliggi a un personaggio un ammontare di danni pari al numero di dadi di cui hai ripetuto il tiro e che ora sono \"danno a distanza\" ([ranged])."
     },
-     {
+    {
         "code": "03092",
         "flavor": "\"E' un rischio ma non possiamo resistere ancora a lungo\"<cite>Leia Organa</cite>",
         "name": "Retrovie",
         "text": "Conta il numero di dadi rossi \"scudo\" ([shield]) che possiedi. Rimuovi un ammontare di dadi pari o inferiore a quel numero."
-    }, 
+    },
     {
         "code": "03093",
         "name": "Rientro Precipitoso",
@@ -518,7 +517,7 @@
     {
         "code": "03094",
         "name": "Piano d'Attacco",
-        "text":  "Guarda 3 carte in cima al mazzo di un avversario e riordinale come preferisci. Poi puoi scartare 1 carta dalla cima di quel mazzo."
+        "text": "Guarda 3 carte in cima al mazzo di un avversario e riordinale come preferisci. Poi puoi scartare 1 carta dalla cima di quel mazzo."
     },
     {
         "code": "03095",
@@ -625,7 +624,7 @@
         "code": "03115",
         "name": "Azione di Interferenza",
         "text": "Dopo che hai effettuato un'azione, puoi esaurire questo supporto per scegliere un avversario, Nel suo prossimo turno, quell'avversario non può effettuare l'azione che hai appena effettuato."
-    },    
+    },
     {
         "code": "03116",
         "name": "Vernice Termica",
@@ -760,7 +759,7 @@
         "code": "03142",
         "name": "Tregua",
         "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nOgni giocatore ottiene 1 risorsa."
-    }, 
+    },
     {
         "code": "03143",
         "name": "Scorte Rubate",
