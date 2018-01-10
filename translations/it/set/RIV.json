@@ -74,7 +74,7 @@
     {
         "code": "06014",
         "name": "Surprise Attack",
-         "text": "Resolve one of your dice showing damage ([ranged], [melee], or [indirect]), increasing its value by 1."
+        "text": "Resolve one of your dice showing damage ([ranged], [melee], or [indirect]), increasing its value by 1."
     },
     {
         "code": "06015",
