@@ -18,5 +18,9 @@
     {
         "code": "upgrade",
         "name": "Miglioria"
+    },
+    {
+        "code": "plot",
+        "name": "Trama"
     }
 ]

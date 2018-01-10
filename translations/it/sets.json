@@ -10,5 +10,17 @@
     {
         "code": "EaW",
         "name": "L'Impero in Guerra"
+    },
+    {
+        "code": "TPG",
+        "name": "Set per Due Giocatori"
+    },
+    {
+        "code": "LEG",
+        "name": "Eredità"
+    },
+    {
+        "code": "RIV",
+        "name": "Rivali"
     }
 ]
