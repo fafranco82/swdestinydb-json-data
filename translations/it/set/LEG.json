@@ -13,10 +13,10 @@
     },
     {
         "code": "05003",
-        "flavor": "\"I use dark magick to achieve power.\"",
-        "name": "Mother Talzin",
-        "subtitle": "Nightsister Matriarch",
-        "text": "After you activate this character, you may reveal the top card of a player's deck. If its cost is an odd number, turn one of that player's dice to any side."
+        "flavor": "\"Mi servo della magia nera per ottenere quel potere.\"",
+        "name": "Madre Talzin",
+        "subtitle": "Matriarca delle Sorelle della Notte",
+        "text": "Dopo che hai attivato questo personaggio, puoi rivelare 1 carta dalla cima del mazzo di un giocatore. Se il suo costo è un numero dispari, gira un dado di quel giocatore su una faccia a tua scelta."
     },
     {
         "code": "05004",
@@ -673,8 +673,8 @@
     },
     {
         "code": "05124",
-        "name": "Into The Garbage Chute",
-        "text": "Exhaust one of your characters to remove up to 2 dice showing damage ([ranged], [melee], or [indirect])."
+        "name": "Nello Scarico di Rifiuti",
+        "text": "Esaurisci 1 tuo personaggio per rimuovere fino a 2 dadi \"danno\" ([ranged], [melee], or [indirect])."
     },
     {
         "code": "05125",
@@ -848,8 +848,8 @@
     },
     {
         "code": "05159",
-        "name": "Dive",
-        "text": "Imboscata.\nRemove up to 3 dice showing ranged damage ([ranged])."
+        "name": "Tuffo",
+        "text": "Imboscata.\nRimuovi fino a 3 dadi \"danno a distanza\" ([ranged])."
     },
     {
         "code": "05160",
