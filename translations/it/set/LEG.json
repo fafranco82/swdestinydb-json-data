@@ -298,8 +298,8 @@
     },
     {
         "code": "05051",
-        "name": "Runaway Boomas",
-        "text": "<b>Azione Straordinaria</b> - Spend 1 resource to roll a Runaway Boomas ([LEG]51) die into your pool. Set aside that die after it is resolved or removed."
+        "name": "Booma Rotolanti",
+        "text": "<b>Azione Straordinaria</b> - Spendi 1 risorsa per tirare 1 dado Booma Rotolanti ([LEG]51) nella tua riserva. Metti da parte quel dado dopo che è stato risolto o rimosso."
     },
     {
         "code": "05052",
@@ -778,8 +778,8 @@
     },
     {
         "code": "05145",
-        "name": "Bubble Shield",
-        "text": "You may distribute indirect damage ([indirect]) to this support as if it were a character with 3 health.\nDiscard this support if it has 3 or more damage on it."
+        "name": "Scudo Sferico",
+        "text": "Puoi distribuire i danni secondari ([indirect]) a questo supporto come se fosse un personaggio con 3 salute.\nSe questo supporto possiede 3 o più danni, scartalo."
     },
     {
         "code": "05146",
