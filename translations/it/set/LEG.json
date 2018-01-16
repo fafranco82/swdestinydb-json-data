@@ -32,8 +32,8 @@
     },
     {
         "code": "05006",
-        "name": "Crystal Ball",
-        "text": "After you activate attached character, you may look at the top card of a deck."
+        "name": "Sfera di Cristallo",
+        "text": "Dopo che hai attivato il personaggio con questa miglioria, puoi guardare 1 carta in cima a un mazzo."
     },
     {
         "code": "05007",
@@ -48,8 +48,8 @@
     {
         "code": "05009",
         "flavor": "\"Roger, Roger.\"",
-        "name": "Battle Droid",
-        "text": "After you activate this character, if this die just rolled indirect damage ([indirect]), you may activate one of your other Battle Droids ([LEG]9)."
+        "name": "Droide da Battaglia",
+        "text": "Dopo che hai attivato questo personaggio, se questo dado ha appena ottenuto \"danno secondario\" ([indirect]), puoi attivare 1 altro tuo Droide da Battaglia ([LEG]9)."
     },
     {
         "code": "05010",
@@ -121,10 +121,10 @@
     },
     {
         "code": "05021",
-        "flavor": "\"Going somewhere, Solo?\"",
+        "flavor": "\"Vai da qualche parte, Solo?\"",
         "name": "Greedo",
-        "subtitle": "Unlucky Mercenary",
-        "text": "Before this character is defeated, roll any number of his character dice into your pool. Then resolve any number of his character dice in the order of your choice."
+        "subtitle": "Mercenario Sfortunato",
+        "text": "Prima che questo personaggio sia sconfitto, tira un qualsiasi numero di suoi dadi personaggio nella tua riserva. Poi risolvi un qualsiasi numero di suoi dadi personaggio nell'ordine che preferisci."
     },
     {
         "code": "05022",
@@ -133,14 +133,14 @@
     },
     {
         "code": "05023",
-        "flavor": "\"Welcome aboard the Ark Angel, sir Darth Vader. Big Fan. Huge!\" <cite>Dr. Aphra</cite>",
+        "flavor": "\"Benvenuto a bordo dell'Ark Angel, padron Darth Vader. Sono una grande fan. Davvero!\" <cite>Dottoressa Aphra</cite>",
         "name": "Ark Angel",
-        "text": "After you activate this support, activate up to 2 of your other supports in the order of your choice."
+        "text": "Dopo che hai attivato questo supporto, attiva fino a 2 altri tuoi supporti nell'ordine che preferisci."
     },
     {
         "code": "05024",
         "name": "BT-1",
-        "text": "After you activate this support, deal 1 indirect damage ([indirect]) to yourself. Then deal 1 indirect damage ([indirect]) to an opponent."
+        "text": "Dopo che hai attivato questo supporto, infliggi 1 danno secondario ([indirect]) a te stesso. Poi infliggi 1 danno secondario ([indirect]) a un avversario."
     },
     {
         "code": "05025",
@@ -164,10 +164,10 @@
     },
     {
         "code": "05029",
-        "flavor": "\"Sometimes it takes courage to stick to one's beliefs.\"",
+        "flavor": "\"A volte richiede più coraggio attenersi alle proprie convinzioni.\"",
         "name": "Aayla Secura",
-        "subtitle": "Jedi General",
-        "text": "[special] - Turn one of your Blue or Red dice to any side. Turn an opponent's die to any side."
+        "subtitle": "Generale Jedi",
+        "text": "[special] - Gira 1 tuo dado Blu o Rosso su una faccia a tua scelta. Gira 1 dado di un avversario su una faccia a tua scelta."
     },
     {
         "code": "05030",
@@ -238,10 +238,10 @@
     },
     {
         "code": "05041",
-        "flavor": "\"Making my run now.\"",
+        "flavor": "\"Ora tocca a me.\"",
         "name": "Wedge Antilles",
-        "subtitle": "Squad Leader",
-        "text": "<b>Azione Straordinaria</b> - Turn one of your <i>vehicle</i> dice to any side."
+        "subtitle": "Capo Squadriglia",
+        "text": "<b>Azione Straordinaria</b> - Gira un tuo dado <i>Veicolo</i> su una faccia a tua scelta."
     },
     {
         "code": "05042",
@@ -272,10 +272,10 @@
     },
     {
         "code": "05047",
-        "flavor": "\"Dissen ganna be messy!\"",
+        "flavor": "\"Esto va a eser macello!\"",
         "name": "Jar Jar Binks",
-        "subtitle": "Clumsy Outcast",
-        "text": "Any player may take an action to force you to activate this character.\nAfter you activate this character, reroll all dice showing a symbol not showing on his character dice."
+        "subtitle": "Reietto Maldestro",
+        "text": "Qualsiasi giocatore può effettuare un'azione per obbligarti ad attivare questo personaggio.\nDopo che hai attivato questo personaggio, ripeti il tiro di tutti i dadi che mostrano un simbolo non mostrato sui suoi dadi personaggio."
     },
     {
         "code": "05048",
@@ -284,10 +284,10 @@
     },
     {
         "code": "05049",
-        "flavor": "\"Save the Rebellion! Save the dream.\"",
+        "flavor": "\"Salva la Ribellione! Salva il sogno.\"",
         "name": "Saw Gerrera",
-        "subtitle": "Extremist Leader",
-        "text": "[special] - Discard a random card from a player's hand. Then deal indirect damage ([indirect]) to an opponent equal to its cost."
+        "subtitle": "Leader Estremista",
+        "text": "[special] - Scarta 1 carta casuale dalla mano di un giocatore. Poi infliggi un ammontare di danni secondari ([indirect]) pari al suo costo di un avversario."
     },
     {
         "code": "05050",
@@ -309,8 +309,8 @@
     },
     {
         "code": "05053",
-        "name": "Roguish Charm",
-        "text": "Yellow character only.\n[special] - Remove a die showing damage ([ranged], [melee] or [indirect]). Gain resources equal to the resource cost showing on it <em>(not its value)</em>."
+        "name": "Fascino da Canaglia",
+        "text": "Solo personaggi Gialli.\n[special] - Rimuovi 1 dado \"danno\" ([ranged], [melee] o [indirect]). Ottieni un ammontare di risorse pari al suo costo in risorse <em>(non al suo valore)</em>."
     },
     {
         "code": "05054",
@@ -331,12 +331,12 @@
     },
     {
         "code": "05057",
-        "name": "Force Wave",
-        "text": "Blue character only.\n[special] - Deal 3 damage to a character. Deal 2 damage to a another character. Deal 1 damage to a third character."
+        "name": "Onda di Forza",
+        "text": "Solo personaggi Blu.\n[special] - Infliggi 3 danni a un personaggio. Infliggi 2 danni a un altro personaggio. Infliggi 1 danno a un terzo personaggio."
     },
     {
         "code": "05058",
-        "name": "Heirloom Lightsaber",
+        "name": "Spada Laser Ereditata",
         "text": "Finché è assegnata a un personaggio Blu, questa miglioria possiede la parola chiave Riposizionamento."
     },
     {
@@ -372,10 +372,10 @@
     },
     {
         "code": "05065",
-        "flavor": "\"Well that's just good business.\"",
+        "flavor": "\"Beh, questo si chiama un vero affare.\"",
         "name": "Hondo Ohnaka",
-        "subtitle": "Respected Businessman",
-        "text": "[special] - Deal 3 damage to an opponent's character unless that opponent gives you 1 resource."
+        "subtitle": "Affarista Rispettabile",
+        "text": "[special] - Infliggi 3 danni a un personaggio di un avversario a meno che quell'avversario non ti fornisca 1 risorsa."
     },
     {
         "code": "05066",
@@ -400,8 +400,8 @@
     },
     {
         "code": "05070",
-        "name": "Modified HWK-290",
-        "text": "After you play this support, place 2 damage on it.\nAfter you activate this support, deal indirect damage ([indirect]) to yourself equal to the damage on it."
+        "name": "HWK-290 Modificato",
+        "text": "Dopo che hai giocato questo supporto, colloca 2 danni su di esso.\n Dopo che hai attivato questo supporto, infliggi un ammontare di danni secondari ([indirect]) a te stesso pari ai danni su di esso."
     },
     {
         "code": "05071",
@@ -421,28 +421,28 @@
     },
     {
         "code": "05074",
-        "name": "Stun Baton",
-        "text": "After a character takes damage from this die, you may spend 1 resource to remove one that character's character dice."
+        "name": "Manganello Stordente",
+        "text": "Dopo che un personaggio ha subito danni a causa di questo dado, puoi spendere 1 risorsa per rimuovere 1 dado personaggio di quel personaggio."
     },
     {
         "code": "05075",
-        "name": "Consumed By The Dark Side",
-        "text": "Deal 1 damage to one of your blue characters to turn a die to a side showing a blank ([blank])."
+        "name": "Consumato dal Lato Oscuro",
+        "text": "Ingliggi 1 danno a un tuo personaggio Blu per girare 1 dado su una faccia \"vuoto\" ([blank])."
     },
     {
         "code": "05076",
-        "name": "Dark Scheme",
-        "text": "Look at the top 5 cards of an opponent's deck. Discard one of them and place the rest on the top of their deck in the order of your choice."
+        "name": "Complotto Oscuro",
+        "text": "Guarda 5 carte in cima al mazzo di un avversario. Scartane 1 e colloca le altre in cima a quel mazzo nell'ordine che preferisci."
     },
     {
         "code": "05077",
-        "name": "Double Strike",
-        "text": "Resolve one of your dice showing melee damage ([melee]) without removing it from your pool."
+        "name": "Doppio Colpo",
+        "text": "Risolvi 1 tuo dado \"danno in mischia\" ([melee]) senza rimuoverlo dalla tua riserva."
     },
     {
         "code": "05078",
-        "name": "Frighten",
-        "text": "Imboscata.\nRemove a total of up to 3 shields from any number of characters."
+        "name": "Spaventare",
+        "text": "Imboscata.\nRimuovi fino a un totale di 3 scudi da un qualsiasi numero di personaggi."
     },
     {
         "code": "05079",
@@ -451,13 +451,13 @@
     },
     {
         "code": "05080",
-        "name": "Snare",
-        "text": "Play only if you have one or more exhausted characters.\nExhaust a character."
+        "name": "Trappola",
+        "text": "Gioca questa carta solo se hai 1 o più personaggi esauriti.\nEsaurisci 1 personaggio."
     },
     {
         "code": "05081",
-        "name": "Spell of Removal",
-        "text": "Spot a Blue character to discard the top card of a deck. If its cost is an odd number, remove a die."
+        "name": "Incantesimo di Rimozione",
+        "text": "Avvista 1 personaggio Blu per scartare 1 carta dalla cima di un mazzo. Se il suo costo è dispari, rimuovi 1 dado."
     },
     {
         "code": "05082",
@@ -466,8 +466,8 @@
     },
     {
         "code": "05083",
-        "name": "Nightsister Coven",
-        "text": "After a character die rolls a blank ([blank]), you may exhaust this support to reveal the top card of a deck. If its cost is an odd number, deal 1 damage to that character."
+        "name": "Congrega della Sorelle della Notte",
+        "text": "Dopo che 1 dado personaggio ha ottenuto \"vuoto\" ([blank]), puoi esaurire questo supporto per rivelare 1 carta dalla cima di un mazzo. Se il suo costo è dispari, infliggi 1 danno a quel personaggio."
     },
     {
         "code": "05084",
@@ -511,9 +511,9 @@
     },
     {
         "code": "05092",
-        "flavor": "\"That was fun. Let's never do that again.\" <cite>Doctor Aphra</cite>",
-        "name": "Delve",
-        "text": "Deal 1 indirect damage ([indirect]) to yourself to play a support or upgrade from your hand for free."
+        "flavor": "\"É stato divertente. Ma non facciamolo più.\" <cite>Dottoressa Aphra</cite>",
+        "name": "Caccia al Reperto",
+        "text": "Infliggi 1 danno secondario ([indirect]) a te stesso per giocare gratuitamente 1 carta supporto o miglioria dalla tua mano."
     },
     {
         "code": "05093",
@@ -522,13 +522,13 @@
     },
     {
         "code": "05094",
-        "name": "In Pursuit",
-        "text": "Play only if an opponent activated one or more characters during their last turn this round.\nActivate any number of your Yellow characters in the order of your choice."
+        "name": "Inseguimento",
+        "text": "Gioca questa carta solo se un avversario ha attivato 1 o più personaggi durante il suo ultimo turno in questo round.\n. Attiva un qualsiasi numero di tuoi personaggi Gialli nell'ordine che preferisci."
     },
     {
         "code": "05095",
-        "name": "No Good To Me Dead",
-        "text": "Heal up to 2 damage from an opponent's character. Gain resources equal to the amount of damage you just healed."
+        "name": "Non Mi Serve a Niente Morto",
+        "text": "Cura fino a 2 danni a un personaggio di un avversario. Ottieni un ammontare di risorse pari all'ammontare di danni che hai appena curato."
     },
     {
         "code": "05096",
@@ -552,13 +552,13 @@
     },
     {
         "code": "05100",
-        "name": "Adapt",
-        "text": "Remove 1 shield from one of your characters to gain 1 resource."
+        "name": "Adattamento",
+        "text": "Rimuovi 1 scudo da un tuo personaggio per ottenere 1 risorsa."
     },
     {
         "code": "05101",
-        "name": "Ataru Strike",
-        "text": "Resolve one of your Blue character dice showing melee damage ([melee]), increaing its value by the number of shields on that character."
+        "name": "Colpo Ataru",
+        "text": "Risolvi 1 tuo dado personaggio blu \"danno in mischia\" ([melee]), aumentando il suo valore del numero di scudi su quel personaggio."
     },
     {
         "code": "05102",
@@ -567,18 +567,18 @@
     },
     {
         "code": "05103",
-        "name": "Investigate",
-        "text": "Look at the top 5 cards of your deck. Add one of them to your hand and place the rest on the top of your deck in the order of your choice."
+        "name": "Indagine",
+        "text": "Guarda 5 carte in cima al tuo mazzo. Aggiungine 1 alla tua mano e colloca le altre in cima al tuo mazzo nell'ordine che preferisci."
     },
     {
         "code": "05104",
-        "name": "Strength Through Weakness",
-        "text": "Discard the top 4 cards of a deck."
+        "name": "Forza Attraverso la Debolezza",
+        "text": "Scarta 4 carte dalla cima di un mazzo."
     },
     {
         "code": "05105",
-        "name": "Unbreakable",
-        "text": "Remove a die showing a value equal to or less than the number of shields on your characters."
+        "name": "Irriducibile",
+        "text": "Rimuovi 1 dado di valore pari o oinferiore al numero di scudi posseduti dai tuoi personaggi."
     },
     {
         "code": "05106",
@@ -592,13 +592,13 @@
     },
     {
         "code": "05108",
-        "name": "Attack Run",
-        "text": "Imboscata.\nActive one of your supports."
+        "name": "Percorso d'Attacco",
+        "text": "Imboscata.\nAttiva 1 tuo supporto."
     },
     {
         "code": "05109",
-        "name": "Equip",
-        "text": "Move a <i>Arma</i> from one of your characters to another character <em>(return its die to its card)</em>."
+        "name": "Equipaggiarsi",
+        "text": "Sposta 1 <i>Arma</i> da un tuo personaggio a un altro personaggio <em>(rimetti il suo dado sulla sua carta)</em>."
     },
     {
         "code": "05110",
@@ -607,8 +607,8 @@
     },
     {
         "code": "05111",
-        "name": "Light 'Em Up",
-        "text": "Reroll one of your dice. If it just rolled ranged damage ([ranged]), you may resolve that die and another one of your dice showing ranged damaged, increasing one of their values by 2."
+        "name": "Fate Fuoco e Fiamme",
+        "text": "Ripeti il tiro di 1 tuo dado. Se hai appena ottenuto \"danno a distanza\" ([ranged]), puoi risolvere quel dado e 1 altro tuo dado \"danno a distanza\", aumentando di 2 uno dei loro valori."
     },
     {
         "code": "05112",
@@ -642,8 +642,8 @@
     },
     {
         "code": "05118",
-        "name": "Explosive Tactics",
-        "text": "Discard the top card of a deck. Then deal indirect damage ([indirect]) to an opponent equal to its cost."
+        "name": "Tattiche Esplosive",
+        "text": "Scarta 1 carta dalla cima di 1 mazzo. poi infliggi un ammontare di danni secondari ([indirect]) pari al suo costo a un avversario."
     },
     {
         "code": "05119",
@@ -652,8 +652,8 @@
     },
     {
         "code": "05120",
-        "name": "Scruffy Looking Nerf-Herder",
-        "text": "Choose one of the following card types: event, support, or upgrade. Then look at an opponent's hand and discard a card of the chosen type from it."
+        "name": "Strapezzente e Cafone",
+        "text": "Scegli un tipo di carta tra evento, supporto o  miglioria. Poi guarda la mano di un avversario e scarta 1 carta del tipo scelto da essa."
     },
     {
         "code": "05121",
@@ -668,8 +668,8 @@
     },
     {
         "code": "05123",
-        "name": "Diplomatic Protection",
-        "text": "Before attached character is defeated, you may discard this upgrade to give each of your other characters 2 shields."
+        "name": "Protezione Diplomatica",
+        "text": "Prima che il personaggio con questa miglioria sia sconfitto, puoi scartare questa miglioria per fornire 2 scudi a ogni altro tuo personaggio."
     },
     {
         "code": "05124",
@@ -683,8 +683,8 @@
     },
     {
         "code": "05126",
-        "name": "Ancient Wisdom",
-        "text": "Draw 2 cards."
+        "name": "Antica Saggezza",
+        "text": "Pesca 2 carte."
     },
     {
         "code": "05127",
@@ -743,8 +743,8 @@
     },
     {
         "code": "05138",
-        "name": "Law and Order",
-        "text": "Spot a Red character to discard an upgrade from play."
+        "name": "Legge e Ordine",
+        "text": "Avvista 1 personaggio rosso per scartare 1 miglioria dal gioco."
     },
     {
         "code": "05139",
@@ -753,8 +753,8 @@
     },
     {
         "code": "05140",
-        "name": "Reinforce",
-        "text": "Roll a character die on one of your characters into your pool if you have another copy of that character in play."
+        "name": "Rinforzare",
+        "text": "Se hai un'altra copia di un tuo personaggio in gioco, tira 1 dado personaggio di quel personaggio nella tua riserva."
     },
     {
         "code": "05141",
@@ -793,8 +793,8 @@
     },
     {
         "code": "05148",
-        "name": "Cantina Brawl",
-        "text": "Deal 1 damage to an opponent's character. Then that opponent may discard a card from their hand to repeat this effect."
+        "name": "Rissa in Taverna",
+        "text": "Infliggi 1 danno a un personaggio di un avversario. Poi quell'avversario può scartare 1 carta dalla sua mano per ripetere questo effetto."
     },
     {
         "code": "05149",
@@ -823,8 +823,8 @@
     },
     {
         "code": "05154",
-        "name": "Lure",
-        "text": "Imboscata.\nChoose an opponent's character or support and force them to activate it, if able."
+        "name": "Adescare",
+        "text": "Imboscata.\nScegli 1 personaggio o 1 supporto di un avversario e obbliga quell'avversario ad attivarlo, se possibile."
     },
     {
         "code": "05155",
@@ -833,13 +833,13 @@
     },
     {
         "code": "05156",
-        "name": "Vandalize",
-        "text": "Remove a number of your character dice equal to the cost of a support or upgrade in play to discard it."
+        "name": "Vandalizzare",
+        "text": "Rimuovi un ammontare di tuoi dadi personaggio pari al costo di 1 carta supporto o miglioria in gioco per scartarla."
     },
     {
         "code": "05157",
-        "name": "Well-Connected",
-        "text": "Spot a Yellow character to gain 1 resource. Each opponent may draw a card."
+        "name": "Contatti Multipli",
+        "text": "Avvista 1 personaggio Giallo per ottenere 1 risorsa. Ogni avversario può pescare 1 carta."
     },
     {
         "code": "05158",
@@ -863,8 +863,8 @@
     },
     {
         "code": "05162",
-        "name": "Shelter",
-        "text": "Remove a die showing indirect damage ([indirect])."
+        "name": "Rifugio",
+        "text": "Rimuovi 1 dado \"danno secondario\" ([indirect])."
     },
     {
         "code": "05163",
@@ -873,13 +873,13 @@
     },
     {
         "code": "05164",
-        "name": "Remote Stockpile",
-        "text": "<b>Azione</b> - Exaust this support to place 1 resource on it or take all resources from it."
+        "name": "Deposito Secondario",
+        "text": "<b>Azione</b> - Esaurisci questo supporto per collocare 1 risorsa su di esso oppure prendere tutte le risorse da esso."
     },
     {
         "code": "05165",
-        "name": "Scrap Heap",
-        "text": "After you discard one or more cards from an opponent's deck, you may exhaust this support to gain 1 resource."
+        "name": "Cumulo di Rottami",
+        "text": "Dopo che hai scartato 1 o più carte dal mazzo di un avversario, puoi esaurire questo supporto per ottenere 1 risorsa."
     },
     {
         "code": "05166",
@@ -893,13 +893,13 @@
     },
     {
         "code": "05168",
-        "name": "Espionage",
-        "text": "After setup, discard the top card from each deck."
+        "name": "Spionaggio",
+        "text": "Dopo la preparazione, scarta 1 carta dalla cima di ogni mazzo."
     },
     {
         "code": "05169",
-        "name": "Fortify",
-        "text": "After setup, give a character 1 shield."
+        "name": "Rafforzare",
+        "text": "Dopo la preparazione, fornisci 1 scudo a un personaggio."
     },
     {
         "code": "05170",
@@ -929,21 +929,21 @@
     },
     {
         "code": "05175",
-        "name": "Citadel Landing Zone",
+        "name": "Piattaforma della Cittadella",
         "subtitle": "Scarif",
-        "text": "<b>Rivendicazione</b> - Reroll any number of your dice. Then you may resolve one of your dice."
+        "text": "<b>Rivendicazione</b> - Ripeti il tiro di un qualsiasi numero di tuoi dadi. Poi puoi risolvere 1 tuo dado."
     },
     {
         "code": "05176",
-        "name": "Imperial Palace",
+        "name": "Palazzo Imperiale",
         "subtitle": "Coruscant",
-        "text": "<b>Rivendicazione</b> - Look at an opponent's hand and discard a card from it."
+        "text": "<b>Rivendicazione</b> - Guarda la mano di un avversario e scarta 1 carta da essa."
     },
     {
         "code": "05177",
-        "name": "Launch Deck",
+        "name": "Ponte di Lancio",
         "subtitle": "Home One",
-        "text": "<b>Rivendicazione</b> - Remove one of your dice to deal indirect damage ([indirect]) to an opponent equal to half of the value showing on it, rounded up."
+        "text": "<b>Rivendicazione</b> - Rimuovi 1 tuo dado per infliggere un ammontare di danni secondari ([indirect]) pari alla metà del suo valore (arrotondando per eccesso) a un avversario."
     },
     {
         "code": "05178",
@@ -953,9 +953,9 @@
     },
     {
         "code": "05179",
-        "name": "Petranaki Arena",
+        "name": "Arena Petranaki",
         "subtitle": "Geonosis",
-        "text": "<b>Rivendicazione</b> - Deal 1 indirect damage ([indirect]) to yourself to deal 1 unblockable damage to a character."
+        "text": "<b>Rivendicazione</b> - Infliggi 1 danno secondario ([indirect]) a te stesso per infliggere 1 danno diretto a un personaggio."
     },
     {
         "code": "05180",
