@@ -28,12 +28,20 @@
         "name": "Jedi"
     },
     {
+        "code": "location",
+        "name": "Location"
+    },
+    {
         "code": "pilot",
         "name": "Pilot"
     },
     {
         "code": "scoundrel",
         "name": "Scoundrel"
+    },
+    {
+        "code": "spectre",
+        "name": "Spectre"
     },
     {
         "code": "title",
@@ -54,5 +62,21 @@
     {
         "code": "witch",
         "name": "Witch"
+    },
+    {
+        "code": "sith",
+        "name": "Sith"
+    },
+    {
+        "code": "leader",
+        "name": "Leader"
+    },
+    {
+        "code": "gungan",
+        "name": "Gungan"
+    },
+    {
+        "code": "artillery",
+        "name": "Artillery"
     }
 ]

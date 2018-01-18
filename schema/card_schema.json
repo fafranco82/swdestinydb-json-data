@@ -88,7 +88,7 @@
         },
         "sides": {
             "items": {
-                "pattern": "^[+]?(\\d+)?(MD|RD|ID|F|Dr|Dc|Sh|R|Sp|-|X)(\\d+)?$",
+                "pattern": "^((([+]?(\\d+)(MD|RD|ID|F|Dr|Dc|Sh|R|X)|Sp)(\\d+)?)|-)$",
                 "type": "string"
             },
             "maxItems": 6,
@@ -108,7 +108,7 @@
             "type": "string"
         },
         "ttscardid": {
-            "pattern": "^[0-9]{3,4}$",
+            "pattern": "^[0-9]{3,5}$",
             "type": "string"
         },
         "type_code": {

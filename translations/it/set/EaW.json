@@ -1,84 +1,864 @@
 [
     {
+        "code": "03001",
+        "flavor": "Il Capitano Ree, una veterana delle battaglie di Endor e Jakku, era un pilota e comandante di grande esperienza",
+        "name": "Ciena Ree",
+        "subtitle": "Abile Pilota",
+        "text": "<b>Azione</b> - Spendi 2 risorse per ripristinare 1 <i>Veicolo</i>."
+    },
+    {
+        "code": "03002",
+        "flavor": "\"Tutti i rimanenti sistemi si piegheranno al Primo Ordine!\"",
+        "name": "Generale Hux",
+        "subtitle": "Aspirante Comandante",
+        "text": "[special] - Gioca 1 evento rosso dalla tua mano, riducendo di 1 il suo costo per ogni tuo personaggio."
+    },
+    {
+        "code": "03003",
+        "flavor": "Il droide MagnaGuard IG-100 poteva reggere a danni ingenti prima che i suoi sistemi cedessero definitivamente.",
+        "name": "MagnaGuard",
+        "text": "Prima che questo personaggio stia per essere sconfitto a causa dei danni, sconfiggilo invece dopo la fine del round."
+    },
+    {
         "code": "03004",
         "flavor": "\"Studio l'arte della guerra.\"",
         "name": "Thrawn",
         "subtitle": "Maestro Stratega",
-        "text": "Dopo che hai attivato questo personaggio, puoi scegliere un numero. Poi guarda la mano di un avversario e scarta da essa una carta con costo pari al numero scelto.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Dopo che hai attivato questo personaggio, puoi scegliere un numero. Poi guarda la mano di un avversario e scarta da essa una carta con costo pari al numero scelto."
+    },
+    {
+        "code": "03005",
+        "flavor": "Il Guscio Difensivo Multiterreno era un camminatore pesantemente armato usato per proteggere le risorse imperiali nei mondi occupati.",
+        "name": "AT-DP",
+        "text": "[special] - Scarta dal gioco 1 supporto dal costo pari o superiore a 2."
+    },
+    {
+        "code": "03006",
+        "flavor": "\"Abbiamo migliaia di sonde in ricognizione nella galassia\". <cite>Ammiraglio Ozzel</cite>",
+        "name": "Droide Sonda",
+        "text": "Imboscata.\n[special] - Guarda 2 carte casuali nella mano di un avversario e scarta tutti gli eventi visti in questo modo."
+    },
+    {
+        "code": "03007",
+        "name": "T-7 Ion Disruptor Rifle",
+        "text": "Gioca questa carta solo se avvisti un personaggio rosso.\n<b>Azione</b> - Scarta 1 carta dalla tua mano per girare questo dado su una faccia di valore superiore di 1 rispetto al valore di questo dado."
+    },
+    {
+        "code": "03008",
+        "flavor": "Hai finito di perdere tempo?",
+        "name": "Quinlan Vos",
+        "subtitle": "Discepolo Oscuro",
+        "text": "[special] - Infliggi a un personaggio di un avversario un ammontare di danni pari al numero di carte nella tua mano di cui superi il numero di carte nella mano di quell'avversario."
+    },
+    {
+        "code": "03009",
+        "name": "Servitore del Lato Oscuro",
+        "text": "Prima che un tuo altro personaggio blu sia sconfitto, puoi spostare 1 miglioria da quel personaggio a questo <em>(rimetti il dado di quella miglioria sulla sua carta)</em>."
+    },
+    {
+        "code": "03010",
+        "name": "Settima Sorella",
+        "subtitle": "Agile Inquisitrice",
+        "text": "Dopo che hai attivato questo personaggio, puoi tirare 1 dado Droide Cercatore ID9 ([EaW]13) nella tua riserva <em>(il suo valore X è pari al numero di dadi Droide Cercatore ID9 nella tua riserva)</em>. Dopo che è stato risolto o rimosso metti da parte quel dado."
+    },
+    {
+        "code": "03011",
+        "flavor": "\"Finalmente uno scontro che non sia soltanto una perdita di tempo.\"",
+        "name": "Grande Inquisitore",
+        "subtitle": "Lealista Sith",
+        "text": "[special] - Rimuovi 1 dado personaggio \"vuoto\" ([blank]). Poi infliggi 2 danni a quel personaggio."
+    },
+    {
+        "code": "03012",
+        "name": "TIE Advanced di Darth Vader",
+        "text": "[special] - Spendi 2 risorse per infliggere a un personaggio un ammontare di danni pari ai danni su di esso."
+    },
+    {
+        "code": "03013",
+        "name": "Droide Cercatore ID9",
+        "text": "La X su questo dado è pari al numero di dadi Droide Cercatore ID9 nella tua riserva <em>(quando risolvi i dadi, risolvili uno alla volta)</em>."
+    },
+    {
+        "code": "03014",
+        "flavor": "\"Tu vuoi questa, non è vero?\"<cite>imperatore Palpatine</cite>",
+        "name": "Tentazione",
+        "text": "[special] - Scegli un avversario. Quell'avversario può pescare 2 carte. Se lo fa ottieni 2 risorse. Se non lo fa, pesca 2 carte."
+    },
+    {
+        "code": "03015",
+        "name": "Spada Laser del Grande Inquisitore",
+        "text": "Solo personaggi blu.\n[special] - Gira 1 dado personaggio su una faccia \"vuoto\" ([blank]). Ripeti il tiro di questo dado invece di rimuoverlo dalla riserva."
+    },
+    {
+        "code": "03016",
+        "flavor": "Informa il Primo Ordine...Ho trovato il droide",
+        "name": "Bazine Netal",
+        "subtitle": "Abile Manipolatrice",
+        "text": "[special] - Infliggi 1 danno a un personaggio (3 danni se su quel personaggio non c'è alcun danno)."
+    },
+    {
+        "code": "03017",
+        "name": "Bossk",
+        "subtitle": "Sterminatore di Wookie",
+        "text": "Dopo che hai attivato questo personaggio, puoi spostare 1 danno da un personaggio di un avversario a un altro personaggio <em>(ignorando gli scudi)</em>."
+    },
+    {
+        "code": "03018",
+        "flavor": "Pronto ad assumere qualunque incarico...al prezzo adeguato",
+        "name": "Cad Bane",
+        "subtitle": "Mercenario Letale",
+        "text": "<b>Azione</b> - Gioca 1 miglioria dalla tua mano su questo personaggio <em>(pagandone il costo)</em>. Poi puoi attivarlo."
+    },
+    {
+        "code": "03019",
+        "name": "Guardia Gamorreana",
+        "text": "Protezione.<em>(Prima di attivare questo personaggio, puoi rimuovere 1 dado \"danno\" e infliggere quei danni a questo personaggio.)</em>."
+    },
+    {
+        "code": "03020",
+        "flavor": "La nave di Bossk era un mercantile leggero YV-666 modificato per soddisfare le necessità del cacciatore di taglie.",
+        "name": "Hound's Tooth",
+        "text": "Dopo che hai attivato questo supporto, puoirimuovere 1 tuo dado giallo per ottenere 1 risorsa."
+    },
+    {
+        "code": "03021",
+        "name": "Lancia-Cavi",
+        "text": "Solo personaggi gialli.\n[special] - Scegli 1 personaggio. Rimuovi 1 suo dado personaggio oppure spendi 1 risorsa per rimuovere 2 suoi dadi personaggio."
+    },
+    {
+        "code": "03022",
+        "name": "Pistola Blaster LL-30",
+        "text": "Imboscata. Riposizionamento.\n[special] - Gira 1 altro tuo dado su una faccia \"danno a distanza\" ([ranged])"
+    },
+    {
+        "code": "03023",
+        "name": "Lanciarazzi Relby-V10",
+        "text": "<b>Action</b> - Spendi 2 risorse e rimuovi questo dado \"danno a distanza\" ([ranged]) per infliggere quei danni a ogni personaggio di un avversario."
+    },
+    {
+        "code": "03024",
+        "name": "Generale Rieekan",
+        "subtitle": "Stratega Difensivo",
+        "text": "Dopo che hai attivato questo personaggio, puoi scartare 1 carta dalla cima del mazzo di un avversario per ogni altro tuo personaggio con 1 o più scudi."
+    },
+    {
+        "code": "03025",
+        "flavor": "Se pensi di combattere solo per la tua vita, la tua vita non vale niente!",
+        "name": "Hera Syndulla",
+        "subtitle": "Capo Phoenix",
+        "text": "[special] - Gioca gratuitamente 1 <i>Veicolo</i> dalla tua mano. Dopo che la fase di Azione è terminata, se quel <i>Veicolo</i> è ancora in gioco, rimettilo nella tua mano."
     },
     {
         "code": "03026",
-        "flavor": "\"Perchè lei può avere un blaster ed io no?\"",
-        "name": "K-2S0",
+        "flavor": "\"Perchè la ragazza ha un blaster ed io no?\"",
+        "name": "K-2SO",
         "subtitle": "Droide Riprogrammmato",
-        "text": "Il costo per giocare un'<i>Arma</i> su questo personaggio è aumentato di 2.\nDopo aver giocato o spostato un'<i>Arma</i> su questo personaggio per la prima volta nella partita, rendilo pronto.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Aumenta di 2 il costo per giocare un'<i>Arma</i> su questo personaggio.\nDopo che hai giocato o spostato un'<i>Arma</i> su questo personaggio per la prima volta ogni partita, ripristinalo."
+    },
+    {
+        "code": "03027",
+        "flavor": "La prima volta ai comandi di un caccia era sempre emozionante...anche se avrebbe potuto essere l'ultima.",
+        "name": "Pilota Matricola",
+        "text": "Dopo che hai attivato questo personaggio, puoi ripetere il tiro di 1 tuo dado <i>Veicolo</i>."
+    },
+    {
+        "code": "03028",
+        "flavor": "Il Ghost era un mercantile leggero VCX-100 specializzato che fungeva da base operativa per la cellula ribelle di Hera Syndulla.",
+        "name": "Ghost",
+        "text": "[special] - Risolvi 1 altra faccia di questo dado."
+    },
+    {
+        "code": "03029",
+        "name": "Y-Wing",
+        "text": "[special] - Obbliga un avversario a infliggere danni ai suoi personaggi, distribuendoli come preferisce, e/o a perdere risorse finché non hai inflitto perso un totale di 4 danni e/o risorse."
+    },
+    {
+        "code": "03030",
+        "name": "Fucile Blaster A280",
+        "text": "Riposizionamento. <em>(Dopo che il suo personaggio è stato sconfitto, sposta questa carta.)</em>"
+    },
+    {
+        "code": "03031",
+        "flavor": "Io non sono un Jedi.",
+        "name": "Ahsoka Tano",
+        "subtitle": "Agente della Forza",
+        "text": "Dopo che hai attivato questo personaggio per la prima volta ogni round, puoi spendere un ammontare di risorse pari al numero di dadi che hai appena tirato per ripristinarlo."
+    },
+    {
+        "code": "03032",
+        "flavor": "I Jedi tramandano la loro sapienza e saggezza da Maestro a Padawan.",
+        "name": "Istruttore Jedi",
+        "text": "Dopo che hai attivato questo personaggio, puoi girare 1 tuo dado personaggio su una faccia che mostra lo stesso simbolo di questo dado."
+    },
+    {
+        "code": "03033",
+        "flavor": "La posta in palio è più alta di quanto pensi.",
+        "name": "Kanan Jarrus",
+        "subtitle": "Jedi Ribelle",
+        "text": "Prima di effettuare un'azione, puoi risolvere questo dado."
     },
     {
         "code": "03034",
         "flavor": "\"La festa è finita.\"",
         "name": "Mace Windu",
-        "subtitle": "Campione dei Jedi",
-        "text": "<b>Azione</b> - Rimuovi questo dado per sconfiggere un personaggio con 2 o meno punti vita.\n<em>(Traduzione non ufficiale)</em>"
+        "subtitle": "Campione Jedi",
+        "text": "<b>Azione</b> - Rimuovi questo dado per sconfiggere un personaggio con 2 o meno salute rimanente.</em>"
+    },
+    {
+        "code": "03035",
+        "flavor": "\"Senti, un'azione contro i remoti è una cosa. Ma un'azione contro i vivi, eh? E' una cosa diversa.\"<cite>Han Solo</cite>",
+        "name": "Remoto da Addestramento",
+        "text": "Puoi risolvere le facce modificatore <em>(con un \"+\")</em> di questo dado allo stesso tempo di un qualsiasi altro tuo dado personaggio blu."
     },
     {
         "code": "03036",
-        "flavor": "\"Il consiglio si è riunito.\" <cite>Mace Windu</cite>",
+        "flavor": "\"Il consiglio è riunito.\" <cite>Mace Windu</cite>",
         "name": "Maestro del Consiglio",
-        "text": "Solo Personaggi Blu.\n[special] - Esaurisci questa miglioria e spendi 2 risorse per rendere pronto un personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Solo personaggi blu.\n[special] - Esaurisci questa miglioria e spendi 2 risorse per ripristinare 1 personaggio."
+    },
+    {
+        "code": "03037",
+        "name": "Coordinazione",
+        "text": "[special] - Fornisci 1 scudo a ogni personaggio."
     },
     {
         "code": "03038",
-        "flavor": "\"Ehi, un ragazzo deve pur mangiare!\"",
+        "flavor": "\"Ehi, i ragazzini mangiano.\"",
         "name": "Ezra Bridger",
         "subtitle": "Ladro sensibile alla Forza",
-        "text": "Puoi giocare migliorie Blu su questo personaggio, ignorando le restrizioni di gioco.\n[special] - Prendi una risorsa da un avversario.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Puoi giocare le migliorie blu su questo personaggio ignorando le restrizioni di gioco.\n[special] - Prendi 1 risorsa da un avversario."
+    },
+    {
+        "code": "03039",
+        "flavor": "Sì, sono diventato responsabile. Questo è il prezzo che paghi quando hai successo.",
+        "name": "Lando Calrissian",
+        "subtitle": "Imprenditore Galattico",
+        "text": "Inizia la partita con una risorsa aggiuntiva."
+    },
+    {
+        "code": "03040",
+        "flavor": "Ora danneggio te, se non la pianti.",
+        "name": "Sabine Wren",
+        "subtitle": "Esperta in Esplosivi",
+        "text": "Prima di attivare questo personaggio, puoi giocare 1 <i>Arma</i> dalla tua pila degli scarti su di esso, riducendo di 1 il suo costo se il suo nome contiene il termine \"termico\" (o una sua variante)."
+    },
+    {
+        "code": "03041",
+        "flavor": "\"Non è prudente far innervosire un Wookie.\"<cite>Han Solo</cite>",
+        "name": "Guerriero Wookie"
+    },
+    {
+        "code": "03042",
+        "flavor": "C1-10P era un irascibile droide astromeccanico, più noto presso i membri della sua cellula ribelle come \"Chopper\".",
+        "name": "Chopper",
+        "text": "[special] - Rimuovi 1 dado di valore pari o inferiore a 2."
+    },
+    {
+        "code": "03043",
+        "name": "Fionda ad Energia",
+        "text": "Dopo che hai risolto questo dado, puoi spendere 1 risorsa per ripetere il suo tiro invece di rimuoverlo dalla riserva."
+    },
+    {
+        "code": "03044",
+        "name": "Trattativa Agguerrita",
+        "text": "[special] - Guarda la mano di un avversario e scegli 2 carte da essa. Poi scarta quelle carte a meno che quell'avversario non spenda 2 risorse."
+    },
+    {
+        "code": "03045",
+        "flavor": "L'airspeeder T-47 della Incom Corporation era un solido velilvolo atmosferico, apprezzato dall'Alleanza per la sua resistenza.",
+        "name": "Airspeeder T-47",
+        "text": "[special] - Esaurisci 1 supporto oppure pesca 2 carte."
     },
     {
         "code": "03046",
-        "flavor": "Sviluppato dai Genosiani, il cannone LR1K generava devastanti colpi sonici.",
+        "flavor": "Il cannone LR1K, sviluppato dai Genosiani, generava micidiali scariche soniche.",
         "name": "Cannone Sonico LR1K",
-        "text": "Prima di risolvere questo dado, puoi esaurire un tuo personaggio. Se lo fai, non devi pagare il costo in risorse su questo dado.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Prima di risolvere questo dado, puoi esaurire 1 tuo personaggio. Se lo fai, ignora il costo in risorse su questo dado."
+    },
+    {
+        "code": "03047",
+        "name": "Elettrobastone",
+        "text": "Riduci di 1 il costo in risorse dei dadi personaggio delpersonaggio con questa miglioria modificati da questo dado."
+    },
+    {
+        "code": "03048",
+        "name": "Pilota Nato",
+        "text": "Dopo che hai attivato il personaggio con questa miglioria, puoi ripristinare 1 <i>Veicolo</i>."
+    },
+    {
+        "code": "03049",
+        "name": "Spada Laser Antica",
+        "text": "<b>Azione</b> - Cura 2 danni al personaggio con questa miglioria. Colloca questa miglioria in fondo al mazzo."
+    },
+    {
+        "code": "03050",
+        "name": "Psicometria",
+        "text": "Solo personaggi blu.\n[special] - Pesca un ammontare di carte pari al valore di 1 dado <i>Arma</i> o <i>Equipaggiamento</i>.\nPuoi rimuovere quel dado."
+    },
+    {
+        "code": "03051",
+        "name": "Spada Laser Shoto",
+        "text": "Dopo che hai attivato il personaggio con questa miglioria, se possiede un'altra <i>Arma</i> blu, puoi fornigli 1 scudo oppure rimuovere 1 scudo da 1 personaggio."
+    },
+    {
+        "code": "03052",
+        "name": "Scorte di Armi",
+        "text": "[special] - Gioca 1 <i>Arma</i> dalla tua mano, riducendo di 2 il suo costo."
+    },
+    {
+        "code": "03053",
+        "name": "Vibro-ascia Cutter BD-1",
+        "text": "Prima che questo dado infligga danni a un personaggio, puoi rimuovere tutti gli scudi da quel personaggio."
+    },
+    {
+        "code": "03054",
+        "name": "Estorsione",
+        "text": "Solo personaggi gialli.\n[special] - Scegli un avversario. Se hai più dadi \"danno a distanza \" ([ranged]) di quell'avversario, prendigli 1 risorsa."
+    },
+    {
+        "code": "03055",
+        "flavor": "Il mirino computerizzato e il silenziatore integrato del Night Sniper X-8 facevano di questo modello l'arma preferita di Lando Calrissian.",
+        "name": "Night Sniper X-8",
+        "text": "Imboscata.\n<b>Azione</b> - Spendi 1 risorsa per girare questo dado su una faccia a tua scelta."
+    },
+    {
+        "code": "03056",
+        "flavor": "Lo Z-95 Headhunter, sviluppato dalla Incom Corporation a dalla Subpro, ran un caccia versatile che continuò ad essere utilizzato a lungo, anche dopo essere stato surclassato dall'Ala-X T-65.",
+        "name": "Z-95 Headhunter"
+    },
+    {
+        "code": "03057",
+        "flavor": "\"Noi lascia che fato decide.\" <cite>Watto</cite>",
+        "name": "Cubo di Sorte",
+        "text": "Prima di attivare il personaggio con questa miglioria, rimetti questa miglioria nella tua mano a meno che tu non spenda 1 risorsa."
+    },
+    {
+        "code": "03058",
+        "flavor": "Particolarmente efficaci contro le piattaforme armate dotate di sistemi elettronici.",
+        "name": "Granate EMP",
+        "text": "[special] - Scarta 1 <b>Droide</b> o 1 <b>Veicolo</b> dal gioco. Scarta questa miglioria dal gioco."
+    },
+    {
+        "code": "03059",
+        "name": "Comandante Esemplare",
+        "text": "Dopo che hai attivato il personaggio con questa miglioria, puoi attivare 1 tuo supporto."
+    },
+    {
+        "code": "03060",
+        "name": "Scatterblaster",
+        "text": "[special] - Infliggi 1 danno a un massimo di 4 personaggi.\n<b>Azione</b> - Rimuovi 1 dado personaggio del personaggio con questa miglioria per girare questo dado su 1 faccia a tua scelta."
+    },
+    {
+        "code": "03061",
+        "name": "Veicolo Requisito",
+        "text": "Risolvi 1 dado <i>Veicolo</i> di un avversario come se fosse un tuo dado, ignorando il suo eventuale costo in risorse."
+    },
+    {
+        "code": "03062",
+        "flavor": "\"Occhio al fuoco incrociato, però.\"<cite>Luke Skywalker</cite>",
+        "name": "Fuoco Incrociato",
+        "text": "Rimuovi 1 dado con un costo in risorse oppure spendi 1 risorsa per rimuovere 2 dadi con un costo in risorse."
+    },
+    {
+        "code": "03063",
+        "name": "Armi a Terra!",
+        "text": "Avvista 2 personaggi rossi per scartare 1 <i>Arma</i> da un personaggio pronto."
+    },
+    {
+        "code": "03064",
+        "name": "Rinforzi Imperiali",
+        "text": "Imboscata. <em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nGioca 1 supporto dalla tua mano riducendo di 1 il suo costo per ogni tuo personaggio."
     },
     {
         "code": "03065",
-        "name": "Preparativi alla Guerra",
-        "text": "Gioca questa carta solo se è la prima azione di un round <em>(nessun giocatore ha effettuato un'azione)</em>.\nGuadagna una risorsa.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Prepararsi alla Guerra",
+        "text": "Gioca questa carta solo come prima azione di questo round <em>(nessun giocatore ha effettuato azioni)</em>.\nOttieni 1 risorsa."
+    },
+    {
+        "code": "03066",
+        "name": "Allarme Rosso",
+        "text": "Ripristina 1 personaggio non unico rosso."
     },
     {
         "code": "03067",
         "name": "Tattiche Spietate",
-        "text": "Risolvi un tuo dado, aumentando il suo valore del suo costo in risorse.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Risolvi 1 tuo dado, aumentando del suo costo in risorse il suo valore."
+    },
+    {
+        "code": "03068",
+        "name": "Fare Prigionieri",
+        "text": "Scegli un avversario. Scarta 2 carte casuali dalla sua mano per ogni suo personaggio sconfitto."
+    },
+    {
+        "code": "03069",
+        "name": "Quartier Generale Imperiale",
+        "text": "Prima di risolvere 1 dado con un costo in risorse, puoi esaurire questo supporto per ridurre di 1 quel costo in risorse."
+    },
+    {
+        "code": "03070",
+        "name": "Come Desideri",
+        "text": "Risovi 1 tuo dado come se \"fosse concentrazione\" ([focus] <em>(conservando il suo valore)</em>)."
+    },
+    {
+        "code": "03071",
+        "name": "Preda all'Angolo",
+        "text": "Conta un numero di dadi \"vuoto\" ([blank]) di un avversario. Infliggi un pari ammontare di danni a un personaggio."
+    },
+    {
+        "code": "03072",
+        "flavor": "\"Le tue deboli facoltà non possono competere col Lato Oscuro della Forza.\" <cite>Imperatore Palpatine</cite>",
+        "name": "Indomito",
+        "text": "Gioca questa carta solo se hai esattamente 1 personaggio.\nFornisci 3 scudi a un personaggio blu."
+    },
+    {
+        "code": "03074",
+        "flavor": "Il Primo Ordine giustiziò ogni membro del villaggio di Jakku per non lasciare alcun testimone.",
+        "name": "Uccideteli Tutti",
+        "text": "Infliggi 1 danno a ogni personaggio non unico dei tuoi avversari."
+    },
+    {
+        "code": "03075",
+        "name": "Inarrestabile",
+        "text": "Risolvi un qualsiasi numero di tuoi dadi blu \"danno\" ([melee] o [ranged]) nell'ordine che preferisci, come se fossero danni diretti."
+    },
+    {
+        "code": "03076",
+        "name": "Insidioso",
+        "text": "<b>Azione</b> - Esaurisci questo supporto per ottenere 1 risorsa se un avversario ha un dado personaggio \"vuoto\" ([blank])."
+    },
+    {
+        "code": "03077",
+        "name": "Odio",
+        "text": "Riposizionamento.\nDopo che hai attivato il personaggio con questa miglioria, puoi infliggergli 1 danno per infliggere 1 danno ad un altro personaggio."
+    },
+    {
+        "code": "03078",
+        "name": "Anarchia",
+        "text": "Rimuovi 1 tuo dado giallo. poi infliggi a ogni personaggio di un avversario un ammontare di danni pari al valore di quel dado."
+    },
+    {
+        "code": "03079",
+        "name": "Avvisi di Taglia",
+        "text": "Pesca un ammontare di carti pari al numero di personaggi di un avversario."
+    },
+    {
+        "code": "03080",
+        "name": "Acquisizione",
+        "text": "Spendi un qualsiasi numero di risorse. Poi scarta un pari ammontare di carte dalla cima del mazzo di un avversario."
+    },
+    {
+        "code": "03081",
+        "name": "Coercizione",
+        "text": "Avvista 1 personaggio giallo per rivelare la mano di un avversario e scegliere 1 evento in essa. Quell'avversario dovrà giocare quell'evento come sua prossima azione , se possibile."
+    },
+    {
+        "code": "03082",
+        "name": "Solo una Questione di Affari",
+        "text": "Rimuovi un qualsiasi numero di tuoi dadi gialli. Poi ottieni un pari ammontare di risorse."
+    },
+    {
+        "code": "03083",
+        "flavor": "E' raro che l'attrezzatura migliore sia disponibile legalmente.",
+        "name": "Merce Saccheggiata",
+        "text": "Puoi giocare gratuitamente 1 miglioria dalla tua mano su ogni tuo personaggio giallo."
+    },
+    {
+        "code": "03084",
+        "name": "Ombre Gemelle",
+        "text": "Avvista 2 personaggio con lo stesso nome per rimuovere fiono a 2 dadi."
+    },
+    {
+        "code": "03085",
+        "flavor": "Gli Hutt erano potenti gangster a capo di un impero criminale interplanetario.",
+        "name": "Contatti con gli Hutt",
+        "text": "<b>Azione</b> - Esaurisci questo supporto per obbligare un avversario a scegliere se perdere 1 risorsa oppure scegliere e rimuovere 1 suo dado."
+    },
+    {
+        "code": "03086",
+        "name": "Letale",
+        "text": "<b>Azione</b> - Esaurisci questa miglioria e rimuovi 1 dado personaggio del personaggio con questa miglioria per infliggere 2 danni diretti a un personaggio."
+    },
+    {
+        "code": "03087",
+        "name": "Nessun Sopravvissuto",
+        "text": "Infliggi 1 danno a ogni personaggio dannneggiato di 1 avvversario."
+    },
+    {
+        "code": "03088",
+        "name": "Centro di Detenzione",
+        "text": "<b>Azione</b> - Esaurisci questo supporto per rimuovere 1 dado peronaggio. Poi qualsiasi giocatore può rimuovere 1 suo dado personaggio per scartare questo supporto."
+    },
+    {
+        "code": "03089",
+        "name": "Niente di Nuovo sul Fronte",
+        "text": "Rimuovi un qualsiasi numero di scudi dai tuoi personaggi. Poi scarta un pari ammontare di carte dalla cima del mazzo di un avversario."
+    },
+    {
+        "code": "03090",
+        "name": "in Trincea",
+        "text": "Fornisci un totale di 5 scudi ai tuoi personaggi, distribuendoli come preferisci."
+    },
+    {
+        "code": "03091",
+        "name": "Colpo Fortuito",
+        "text": "Avvista 1 personaggio rosso per ripetere il tiro di un qualsiasi numero di tuoi dadi. Poi infliggi a un personaggio un ammontare di danni pari al numero di dadi di cui hai ripetuto il tiro e che ora sono \"danno a distanza\" ([ranged])."
+    },
+    {
+        "code": "03092",
+        "flavor": "\"E' un rischio ma non possiamo resistere ancora a lungo\"<cite>Leia Organa</cite>",
+        "name": "Retrovie",
+        "text": "Conta il numero di dadi rossi \"scudo\" ([shield]) che possiedi. Rimuovi un ammontare di dadi pari o inferiore a quel numero."
+    },
+    {
+        "code": "03093",
+        "name": "Rientro Precipitoso",
+        "text": "Sceli 1 dado su un tuo <i>Veicolo</i> in gioco e tiralo nella riserva. Poi, se il dado appena tirato ha ottenuto \"vuoto\" ([blank]), scarta quel <i>Veicolo</i>."
+    },
+    {
+        "code": "03094",
+        "name": "Piano d'Attacco",
+        "text": "Guarda 3 carte in cima al mazzo di un avversario e riordinale come preferisci. Poi puoi scartare 1 carta dalla cima di quel mazzo."
+    },
+    {
+        "code": "03095",
+        "name": "Colpo Rapido",
+        "text": "Rimuovi un dado modificatore <em>(con un \"+\")</em>."
+    },
+    {
+        "code": "03096",
+        "name": "Richiesta di Aiuto",
+        "text": "<b>Azione</b> - Esaurisci questo supporto per rivelare una carta casuale dalla tua mano. puoi giocare quella carta, riducendo di 1 il suo costo (di 2 se è un <i>Veicolo</i>)."
+    },
+    {
+        "code": "03097",
+        "name": "Generatore dello Scudo",
+        "text": "Prima che 1 tuo supporto stia per essere scartato dal gioco a causa dell'effetto di una carta o di un dado dell'avversario, puoi invece scartare questo supporto dal gioco."
+    },
+    {
+        "code": "03098",
+        "name": "In Pace",
+        "text": "Gira ogni dado che possiede 1 o più facce \"vuoto\" ([blank]) su una faccia \"vuoto\" ([blank])."
+    },
+    {
+        "code": "03099",
+        "flavor": "\"E' la spada laser di tuo padre.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Tramandare",
+        "text": "Sposta 1 miglioria non <i>Capacità</i> da un tuo personaggio blu a un altro personaggio <em>(rimetti il dado di quella miglioria sulla sua carta)</em>."
+    },
+    {
+        "code": "03100",
+        "name": "Riportare l'Equilibrio",
+        "text": "Scegli un avversario con più carte in mano di te. Pesca fino ad avere lo stesso numero di carte di quell'avversario."
+    },
+    {
+        "code": "03101",
+        "name": "Raccogliere il Cristallo",
+        "text": "Gioca dalla tua mano 1 carta blu dal costo pari o superiore a 3, riducendo di 1 il suo costo."
+    },
+    {
+        "code": "03102",
+        "name": "Missione Segreta",
+        "text": "Scegli un colore <em>(blu, rosso, giallo o grigio)</em>. Poi scarta 1 carta dalla cima del mazzo di 1 avversario. Se quella carta è del colore scelto, ottieni 1 risorsa."
+    },
+    {
+        "code": "03103",
+        "name": "Fiducia Nella Forza",
+        "text": "Ripeti il tiro di un qualsiasi numero di dadi blu."
+    },
+    {
+        "code": "03104",
+        "name": "Pira Funeraria",
+        "text": "Prima che un tuo personaggio blu sia sconfitto, puoi spostare 1 miglioria da quel personaggio a un altro tuo personaggio <em>(rimetti il dado di quella miglioria sulla sua carta)</em>."
+    },
+    {
+        "code": "03105",
+        "name": "Alloggi di Yoda",
+        "text": "<b>Azione</b> - Esaurisci questo supporto e rimuovi 1 tuo dado personaggio per curare 2 danni a quel personaggio."
+    },
+    {
+        "code": "03106",
+        "name": "Senza Paura",
+        "text": "Dopo che hai attivato il personaggio con questa miglioria, puoi fornigli 1 scudo e pescare 1 carta."
+    },
+    {
+        "code": "03107",
+        "name": "Contro Ogni Pronostico",
+        "text": "Ripeti il tiro di 1 tuo dado. Poi, se hai appena ottenuto lo stesso simbolo, puoi risolverlo aumentando di 2 il suo valore."
+    },
+    {
+        "code": "03108",
+        "name": "Valutazione",
+        "text": "Rimuovi 1 tuo dado \"risorsa\" ([resource]) per giocare 1 supporto dalla tua mano, riducendo di 2 il suo costo."
+    },
+    {
+        "code": "03109",
+        "name": "Brutto Presentimento",
+        "text": "Rimuovi 1 tuo dado per ripetere il tiro di un qualsiasi numero di dadi."
+    },
+    {
+        "code": "03110",
+        "name": "Doppia Faccia",
+        "text": "Rimuovi 1 tuo dado personaggio giallo per risolvere 1 dado di un avversario come fosse un tuo dado."
+    },
+    {
+        "code": "03111",
+        "name": "Impersonare",
+        "text": "Sposta i danni tra i tuoi personaggi come preferisci <em>(ignorando gli scudi; non puoi superare la salute di un personaggio spostando questi danni)</em>."
+    },
+    {
+        "code": "03112",
+        "name": "Pattuglia Locale",
+        "text": "Obbliga un avversario a scegliere se perdere 1 risorsa oppure scartare 2 carte dalla cima del mazzo."
     },
     {
         "code": "03113",
         "name": "Fuga Rapida",
-        "text": "Rimuovi fino a 2 dadi \"danno\" ([ranged] or [melee]). Sei costretto a passare per i tuoi seguenti turni di questo round.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Rimuovi fino a 2 dadi \"danno\" ([ranged] o [melee]). Devi passare per tutti i tuoi prossimi turni in questo round."
+    },
+    {
+        "code": "03114",
+        "name": "Tenacia",
+        "text": "Gioca questa carta solo se hai meno personaggi di un avversario. Esaurisci 1 personaggio di quell'avversario."
+    },
+    {
+        "code": "03115",
+        "name": "Azione di Interferenza",
+        "text": "Dopo che hai effettuato un'azione, puoi esaurire questo supporto per scegliere un avversario, Nel suo prossimo turno, quell'avversario non può effettuare l'azione che hai appena effettuato."
     },
     {
         "code": "03116",
         "name": "Vernice Termica",
-        "text": "Dopo aver attivato il personaggio con questa miglioria, obbliga un avversario a scegliere e distribuire 1 danno a un suo personaggio. Poi puoi scartare questa miglioria per infliggere 1 danno a quel personaggio.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Dopo che hai attivato il personaggio con questa miglioria, obbliga un avversario a scegliere 1 suo personaggio e a infliggergli 1 danno. Poi puoi scartare questa miglioria per infliggere 1 danno a quel personaggio."
+    },
+    {
+        "code": "03117",
+        "name": "Sprezzo del Pericolo",
+        "text": "Ripeti il tiro di 1 tuo dado personaggio. Poi cura un ammontare di danni pari al valore di quel dado a quel personaggio."
+    },
+    {
+        "code": "03118",
+        "name": "Fuoco di Copertura",
+        "text": "Conta il numero di dadi \"danno a distanza\" ([ranged]) che possiedi. Ripeti il tiro di un ammontare di dadi pari o inferiore a quel numero."
+    },
+    {
+        "code": "03119",
+        "name": "Squadriglia Schierata"
+    },
+    {
+        "code": "03120",
+        "name": "Ripiegamento",
+        "text": "A partire da te, ogni giocatore può scegliere 1 miglioria. Scarta dal gioco tutte le migliorie che non sono state appena scelte."
+    },
+    {
+        "code": "03121",
+        "name": "Finta",
+        "text": "Attiva 1 personaggio. Poi puoi rimuovere tutti i suoi dadi personaggio e miglioria per ripristinarlo."
+    },
+    {
+        "code": "03122",
+        "name": "Manovra di Accerchiamento",
+        "text": "Conta il numero di dadi supporto nella tua riserva. Infliggi un pari ammontare di danni a un personaggio."
+    },
+    {
+        "code": "03123",
+        "name": "Foga della Battaglia",
+        "text": "Scegli un avversario. Quell'avversario gira fino a 2 dadi su una faccia \"danno\" ([melee] o [ranged]. Gira fino a 2 tuoi dadi su una faccia \"danno\" ([melee] o [ranged].)\n<em>Errata 1.5</em>"
     },
     {
         "code": "03124",
-        "name": "Messi alle corde",
-        "text": "Avvista un <i>Veicolo</i> per rimuovere un dado.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "Alle Strette",
+        "text": "Avvista un <i>Veicolo</i> per rimuovere un dado."
     },
     {
         "code": "03125",
-        "name": "La Giornata è Nostra",
-        "text": "Rivendica il campo di battaglia, anche se già rivendicato da un avversario questo turno.\n<em>(Traduzione non ufficiale)</em>"
+        "name": "La Vittoria è Nostra",
+        "text": "Rivendica il campo di battaglia, anche se un avversario lo ha già rivendicato in questo round."
+    },
+    {
+        "code": "03126",
+        "name": "Zona di Sbarco",
+        "text": "Dopo che hai rivendicato il campo di battaglia, puoi collocare 1 danno su questo supporto.\n<b>Azione</b> - Esaurisci questo supporto per spostare un qualsiasi ammontare di danni da esso a un personaggio <em>(ignorando gli scudi)</em>."
+    },
+    {
+        "code": "03127",
+        "name": "Squadra Tecnica",
+        "text": "Prima ancora di giocare un supporto, puoi esaurire questo supporto per ridurre di 1 il suo costo."
+    },
+    {
+        "code": "03128",
+        "name": "Scontro di Volontà",
+        "text": "A partire da te, ogni giocatore attiva 1 suo personaggio. Poi ogni giocatore somma il valore dei dadi personaggio che ha appena tirato e ogni giocatore con il valore totale più basso rimuove i suoi dadi."
+    },
+    {
+        "code": "03129",
+        "name": "Visione Nella Forza",
+        "text": "Imboscata. <em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nGuarda 5 carte in cima al mazzo di un giocatore <em>(senza riordinarle)</em>."
+    },
+    {
+        "code": "03130",
+        "name": "Richiamare la Spada Laser",
+        "text": "Avvista 1 personaggio blu per cercare nel tuo mazzo 1 <i>Arma</i> blu, rivelarla e aggiungerla alla tua mano. Rimescola il tuo mazzo."
+    },
+    {
+        "code": "03131",
+        "name": "Addestramento Nella Spada Laser",
+        "text": "Gira fino a 2 tuoi dadi <i>Arma</i> blu su una faccia a tua scelta."
+    },
+    {
+        "code": "03132",
+        "name": "Nessuna Resa",
+        "text": "Ripeti il tiro di 1 tuo dado personaggio blu \"vuoto\" ([blank]). Poi puoi risolverlo."
+    },
+    {
+        "code": "03133",
+        "name": "Qualcosa di Familiare",
+        "text": "Avvista 2 personaggi blu per rivelare 1 carta casuale dalla mano di un avversario. poi puoi girare un ammontare di dadi pari o inferiore al costo di quella carta su una faccia a tua scelta."
+    },
+    {
+        "code": "03134",
+        "flavor": "\"Ho sentito come una perturbazione nella Forza...\"<cite>Obi-Wan Kenobi</cite>",
+        "name": "Voci Che Gridano",
+        "text": "Ripeti il tiro di tutti i dadi di valore pari o superiore a 2."
+    },
+    {
+        "code": "03135",
+        "name": "Istinti Affinati",
+        "text": "Solo personaggi blu.\n<b>Azione</b> - Rimuovi 1 dado personaggio del personaggio con questa miglioria per fornigli 1 scudo."
+    },
+    {
+        "code": "03136",
+        "name": "Furia in Combattimento",
+        "text": "Avvista 1 personaggio con 6 o più danni. Risolvi 1 dado personaggio \"danno\" ([melee] or [ranged]) di quel personaggio, aumentando di 2 il suo valore."
+    },
+    {
+        "code": "03137",
+        "name": "Disattivare",
+        "text": "Esaurisci 1 supporto."
+    },
+    {
+        "code": "03138",
+        "name": "Persuadere",
+        "text": "Scegli un avversario con meno risorse di te. Poi gira 1 suo dado su una faccia a tua scelta."
+    },
+    {
+        "code": "03139",
+        "name": "Borseggiare",
+        "text": "Scarta 1 carta casuale dalla mano di 1 avversario. Pesca un ammontare di carte pari al numero di carte appena scartate."
+    },
+    {
+        "code": "03140",
+        "name": "Minacciare",
+        "text": "Avvista 1 personaggio giallo per rimuovere 1 dado personaggio di 1 avversario, a meno che quest'ultimo non infligga un ammontare di danni pari al valore di quel dado al personaggio corrispondente."
+    },
+    {
+        "code": "03141",
+        "name": "Inganno",
+        "text": "Scarta la tua mano. Per ogni carta che hai appena scartato, puoi rimuovere 1 dado di valore pari al costo di quella carta."
+    },
+    {
+        "code": "03142",
+        "name": "Tregua",
+        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nOgni giocatore ottiene 1 risorsa."
+    },
+    {
+        "code": "03143",
+        "name": "Scorte Rubate",
+        "text": "Dopo che hai giocato questo supporto, esauriscilo.\n<b>Azione</b> - Easurisci questo supporto per ottenere 1 risorsa. Scarta questo supporto dal gioco."
+    },
+    {
+        "code": "03144",
+        "name": "Obiettivo Segreto",
+        "text": "<b>Azione</b> - Gioca 1 evento dalla tua mano, riducendo di 2 il suo costo. Scarta questa miglioria dal gioco."
+    },
+    {
+        "code": "03145",
+        "flavor": "Erano note per la loro resistenza",
+        "name": "Armatura Mandaloriana",
+        "text": "Dopo che hai giocato questa miglioria, fornisci 1 scudo al personaggio con questa miglioria.\nIl personaggio con questa miglioria puà possedere 1 scudo aggiuntivo."
+    },
+    {
+        "code": "03146",
+        "name": "Missione Pericolosa",
+        "text": "Gira 1 dado su una faccia con un costo in risorse."
+    },
+    {
+        "code": "03147",
+        "name": "Resistenza Fisica",
+        "text": "Gioca questa carta solo se 1 o più dadi sono stati rimossi durante l'ultimo turno di un avversario in questo round.\nTira 1 di quei dadi rimossi nella riserva."
+    },
+    {
+        "code": "03148",
+        "name": "In Società",
+        "text": "Attiva 1 tuo personaggio e 1 tuo supporto. poi puoi spendere 1 risorsa per effettuare un'azione aggiuntiva."
+    },
+    {
+        "code": "03149",
+        "name": "Rottamare",
+        "text": "Scarta 1 tuo supporto dal gioco. Poi ottieni un ammontare di risorse pari al suo costo."
+    },
+    {
+        "code": "03150",
+        "flavor": "Al momento di affrontare un avversasio di potenza superiore, la precisione può avere la meglio sulla forza bruta.",
+        "name": "Spaccare",
+        "text": "Scarta dal gioco 1 carta supporto o miglioria dal costo pari a 0."
     },
     {
         "code": "03151",
-        "flavor": "\"Vieni, BB-8. Sbrigati!\" <cite>Poe Dameron</cite>",
-        "name": "Roll On",
-        "text": "Ritira un tuo dado. Puoi ritirare quel dado. Puoi ritirare quel dado ancora 1 volta.\n<em>(Traduzione non ufficiale)</em>"
+        "flavor": "\"Andiamo, BB-8. Sbrigati!\" <cite>Poe Dameron</cite>",
+        "name": "Rotolare",
+        "text": "Ripeti il tiro di 1 tuo dado. Puoi ripetere il tiro di quel dado. Puoi ripetere di nuovo il tiro di quel dado."
+    },
+    {
+        "code": "03152",
+        "name": "Armatura in Plastoide",
+        "text": "Aumenta di 1 la salute del personaggio con questa miglioria."
+    },
+    {
+        "code": "03153",
+        "name": "Monastero B'Omarr",
+        "subtitle": "Teth",
+        "text": "<b>Rivendicazione</b> - Risovi 1 tuo dado modificatore <em>(con un \"+\")</em> come se non fosse modificatore."
+    },
+    {
+        "code": "03154",
+        "name": "Forte Anaxes",
+        "subtitle": "Anaxes",
+        "text": "Finchè controlli questo campo di battaglia, ogni tuo personaggio possiede la parola chiave Protezione."
+    },
+    {
+        "code": "03155",
+        "name": "Spazioporto di Garel",
+        "subtitle": "Garel",
+        "text": "<b>Rivendicazione</b> - Rimuovi 1 tuo dado per ottenere un ammontare di risorse pari alla metà del valore di quel dado, arrotondato per eccesso."
+    },
+    {
+        "code": "03156",
+        "name": "Accademia Imperiale",
+        "subtitle": "Lothal",
+        "text": "Finché controlli questo campo di battaglia, dopo che hai attivato 1 supporto, puoi ripetere il tiro del suo dado."
+    },
+    {
+        "code": "03157",
+        "name": "Piazza Principale",
+        "subtitle": "Vashka",
+        "text": "<b>Rivendicazione</b> - Sposta 1 danno da un personaggio a questo campo di battaglia o sposta tutti i danni da questo campo di battaglia a un personaggio <em>(ignorando gli scudi)>/em>."
+    },
+    {
+        "code": "03158",
+        "name": "Centro Medico",
+        "subtitle": "Nebulosa di Kalida",
+        "text": "<b>Rivendicazione</b> - Cura 1 danno a un massimo di 2 personaggi. Cedi il controllo di questo campo di battaglia a un avversario."
+    },
+    {
+        "code": "03159",
+        "name": "Distretto Portuale",
+        "subtitle": "Bespin",
+        "text": "Finchè controlli questo campo di battaglia, ogni carta dal costo pari o superiore a 3 che giochi possiede la parola chiave Imboscata."
     },
     {
         "code": "03160",
         "name": "Fabbrica di Armi Alfa",
         "subtitle": "Cymoon I",
-        "text": "Finché controlli il campo di battaglia, il costo del primo <i>Veicolo</i> che giochi ogni round è diminuito di 1.\n<em>(Traduzione non ufficiale)</em>"
+        "text": "Finché controlli questo campo di battaglia, riduci di 1 il costo del primo <i>Veicolo</i> che giochi ogni round."
     }
 ]

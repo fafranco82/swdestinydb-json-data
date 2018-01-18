@@ -5,10 +5,22 @@
     },
     {
         "code": "EaW",
-        "name": "Empire at War"
+        "name": "战争帝国"
+    },
+    {
+        "code": "LEG",
+        "name": "Legacies"
+    },
+    {
+        "code": "RIV",
+        "name": "Rivals"
     },
     {
         "code": "SoR",
         "name": "Spirit of Rebellion"
+    },
+    {
+        "code": "TPG",
+        "name": "双人对战"
     }
 ]

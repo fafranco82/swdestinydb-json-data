@@ -16,6 +16,10 @@
         "name": "集中"
     },
     {
+        "code": "ID",
+        "name": "Indirect Damage"
+    },
+    {
         "code": "MD",
         "name": "近战伤害"
     },

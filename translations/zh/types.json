@@ -12,6 +12,10 @@
         "name": "事件"
     },
     {
+        "code": "plot",
+        "name": "Plot"
+    },
+    {
         "code": "support",
         "name": "支援"
     },
