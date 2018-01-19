@@ -3167,7 +3167,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
-        "has_errata": true,
+        "has_errata": false,
         "illustrator": "Aldo Katayanagi",
         "is_unique": false,
         "name": "Hidden Agenda",
