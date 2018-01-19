@@ -86,7 +86,7 @@
     {
         "affiliation_code": "villain",
         "code": "02004",
-        "deck_limit": 2,
+        "deck_limit": 3,
         "faction_code": "red",
         "flavor": "\"I can't shake him!\" <cite>Biggs Darklighter</cite>",
         "has_die": true,
@@ -94,7 +94,7 @@
         "health": 7,
         "illustrator": "Nicholas Stohlman",
         "is_unique": false,
-        "name": "Tie Pilot",
+        "name": "TIE Pilot",
         "points": "8",
         "position": 4,
         "rarity_code": "R",
