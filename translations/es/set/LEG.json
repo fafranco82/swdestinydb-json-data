@@ -164,15 +164,15 @@
     },
     {
         "code": "05029",
-        "flavor": "\"Sometimes it takes courage to stick to one's beliefs.\"",
+        "flavor": "\"Hace falta coraje para ser fiel a unos ideales.\"",
         "name": "Aayla Secura",
-        "subtitle": "Jedi General",
-        "text": "[special] - Turn one of your Blue or Red dice to any side. Turn an opponent's die to any side."
+        "subtitle": "General jedi",
+        "text": "[special] - Gira uno de tus dados de color Azul o Rojo a cualquier cara. Gira un dado de un adversario a cualquier cara."
     },
     {
         "code": "05030",
-        "name": "Jedi Temple Guard",
-        "text": "Guardian."
+        "name": "Guardia del templo jedi",
+        "text": "Guardián."
     },
     {
         "code": "05031",
@@ -209,8 +209,8 @@
     },
     {
         "code": "05036",
-        "name": "Force Meditation",
-        "text": "To play, spot a Blue character.\n[special] - Discard the top 2 cards of a deck."
+        "name": "Meditar con la Fuerza",
+        "text": "Para jugar esta carta, señala un Personaje de color Azul.\n[special] - Descarta las 2 primeras cartas de un mazo."
     },
     {
         "code": "05037",
@@ -231,17 +231,17 @@
     },
     {
         "code": "05040",
-        "flavor": "\"I work behind pipes all day.\"",
+        "flavor": "\"Me paso todo el día trabajando entre tuberías.\"",
         "name": "Rose",
-        "subtitle": "Skilled Mechanic",
-        "text": "[special] - Gain 1 resource. You may remove 1 damage from a support."
+        "subtitle": "Mecánica talentosa",
+        "text": "[special] - Recibes 1 recurso. Puedes respirar 1 punto de daño de un Apoyo."
     },
     {
         "code": "05041",
-        "flavor": "\"Making my run now.\"",
+        "flavor": "\"Inicio mi ataque.\"",
         "name": "Wedge Antilles",
-        "subtitle": "Squad Leader",
-        "text": "<b>Power Action</b> - Turn one of your <i>vehicle</i> dice to any side."
+        "subtitle": "Jefe de escuadrón",
+        "text": "<b>Acción potenciada</b> - Gira uno de tus dados de <i>vehículo</i> a cualquier cara."
     },
     {
         "code": "05042",
@@ -250,13 +250,13 @@
     },
     {
         "code": "05043",
-        "name": "Resistance Bomber",
-        "text": "After this die is resolved, place 1 damage on this support.\nDiscard this support if it has 3 or more damage on it."
+        "name": "Bombardero de la resistencia",
+        "text": "Después de que este dado sea resuelto, coloca 1 punto de daño sobre este Apoyo.\nDescarta este apoyo si hay 3 o más puntos de daño sobre él."
     },
     {
         "code": "05044",
-        "name": "Camouflaged Rifle",
-        "text": "[special] - Deal 2 damage to a character, or 3 damage instead if you control the battlefield."
+        "name": "Fusil camuflado",
+        "text": "[special] - Inflige 2 puntos de daño a un Personaje, o 3 puntos de daño si controlas el campo de batalla."
     },
     {
         "code": "05045",
@@ -272,15 +272,15 @@
     },
     {
         "code": "05047",
-        "flavor": "\"Dissen ganna be messy!\"",
+        "flavor": "\"¡Oh, eston serán desastre!\"",
         "name": "Jar Jar Binks",
-        "subtitle": "Clumsy Outcast",
-        "text": "Any player may take an action to force you to activate this character.\nAfter you activate this character, reroll all dice showing a symbol not showing on his character dice."
+        "subtitle": "Exiliado patoso",
+        "text": "Todo jugador puede realizar una acción para obligarte a activar este Personaje.\nDespués de que actives este Personaje, vuelve a tirar todos los dados que muestren un símbolo que los dados de este Personaje no muestren también."
     },
     {
         "code": "05048",
-        "name": "Jedha Partisan",
-        "text": "After you deal indirect damage ([indirect]) to an opponent for the first time each round, you may discard the top card of a deck."
+        "name": "Partisano de Jedha",
+        "text": "Después de que inflijas daño indirecto ([indirect]) a un adversario por primera vez en cada ronda, puedes descartar la primera carta de un mazo."
     },
     {
         "code": "05049",
@@ -309,20 +309,20 @@
     },
     {
         "code": "05053",
-        "name": "Roguish Charm",
-        "text": "Yellow character only.\n[special] - Remove a die showing damage ([ranged], [melee] or [indirect]). Gain resources equal to the resource cost showing on it <em>(not its value)</em>."
+        "name": "Encanto de granuja",
+        "text": "Sólo Personajes de color Amarillo.\n[special] - Retira un dado que muestre daño ([ranged], [melee] o [indirect]). Recibes tantos recursos como el coste en recursos que mostraba ese dado <em>(no su valor de resultado)</em>."
     },
     {
         "code": "05054",
-        "flavor": "\"Only the Honor Guard of Lasan may carry a bo-rifle!\" <cite>Zeb Orrelios</cite>",
-        "name": "Zeb Orrelios' Bo-Rifle",
-        "text": "<b>Action</b> - Spend 1 resource to resolve this die showing a modifier <em>(a side with a +)</em> as if it did not have a modifier."
+        "flavor": "\"¡Sólo la Guardia de Honor de Lasan puede llevar un fusil bo!\" <cite>Zeb Orrelios</cite>",
+        "name": "Fusil bo de Zeb Orrelios",
+        "text": "<b>Acción</b> - Gasta 1 recurso para, si este dado está mostrando un modificador <em>(una cara con un +)</em>, resolverlo como si no lo tuviera."
     },
     {
         "code": "05055",
-        "flavor": "These ships were painted red when used to transport diplomats as a warning not to attack.",
-        "name": "Republic Cruiser",
-        "text": "[special] - Give a unique character 2 shields or give each of your unique characters 1 shield."
+        "flavor": "Cuando estas naves se empleaban para transportar diplomáticos, su fuselaje se pintaba de color rojo como señal de advertencia de que no debían ser atacadas.",
+        "name": "Crucero de la República",
+        "text": "[special] - Entrega 2 escudos a un Personaje único o entrega 1 escudo a cada uno de tus Personajes únicos."
     },
     {
         "code": "05056",
@@ -356,19 +356,19 @@
     },
     {
         "code": "05062",
-        "flavor": "Sometimes the best tactic is to not aim.",
-        "name": "Auto Cannon"
+        "flavor": "Algunas veces, la mejor táctica a seguir consiste en no apuntar.",
+        "name": "Cañón automático"
     },
     {
         "code": "05063",
-        "flavor": "Standard issue for Imperial stormtroopers, the E-11 blaster was often found in rebel hands.",
-        "name": "E-11 Blaster",
-        "text": "Redeploy."
+        "flavor": "A pesar de tratarse del arma reglamentaria de las tropas de asalto imperiales, el bláster E-11 también era de uso habitual entre las fuerzas rebeldes.",
+        "name": "Bláster E-11",
+        "text": "Redesplegar."
     },
     {
         "code": "05064",
-        "name": "74-Z Speeder Bike",
-        "text": "<b>Action</b> - Resolve this die and one of attached character's character dice in the order of your choice."
+        "name": "Moto deslizadora 74-Z",
+        "text": "<b>Acción</b> - Resuelve este dado y uno de los dados de Personaje del Personaje vinculado en el orden que prefieras."
     },
     {
         "code": "05065",
@@ -552,13 +552,13 @@
     },
     {
         "code": "05100",
-        "name": "Adapt",
-        "text": "Remove 1 shield from one of your characters to gain 1 resource."
+        "name": "Adaptarse",
+        "text": "Retira 1 escudo de uno de tus Personajes para recibir 1 recurso."
     },
     {
         "code": "05101",
-        "name": "Ataru Strike",
-        "text": "Resolve one of your Blue character dice showing melee damage ([melee]), increaing its value by the number of shields on that character."
+        "name": "Golpe de Ataru",
+        "text": "Resuelve uno de tus dados de Personaje de color Azul que muestre daño cuerpo a cuerpo ([melee]), incrementando su valor de resultado en la cantidad de escudos que hay sobre ese Personaje."
     },
     {
         "code": "05102",
@@ -567,18 +567,18 @@
     },
     {
         "code": "05103",
-        "name": "Investigate",
-        "text": "Look at the top 5 cards of your deck. Add one of them to your hand and place the rest on the top of your deck in the order of your choice."
+        "name": "Investigar",
+        "text": "Mira las 5 primeras cartas de tu mazo. Añade una de ellas a tu mano y coloca el resto en la parte superior de tu mazo en el orden que prefieras."
     },
     {
         "code": "05104",
-        "name": "Strength Through Weakness",
-        "text": "Discard the top 4 cards of a deck."
+        "name": "Sacar fuerzas de flaqueza",
+        "text": "Descarta las 4 primeras cartas de un mazo."
     },
     {
         "code": "05105",
-        "name": "Unbreakable",
-        "text": "Remove a die showing a value equal to or less than the number of shields on your characters."
+        "name": "Inasequible al desánimo",
+        "text": "Retira un dado que muestre un valor de resultado igual o inferior a la cantidad de escudos que hay en tus Personajes."
     },
     {
         "code": "05106",
@@ -587,38 +587,38 @@
     },
     {
         "code": "05107",
-        "name": "Yoda's Hut",
-        "text": "<b>Action</b> - Exhaust this support to give a character 1 shield. Gain 1 resource if that character has 3 or more shields."
+        "name": "Choza de Yoda",
+        "text": "<b>Acción</b> - Agota este Apoyo para entregar 1 escudo a un Personaje. Recibes 1 recurso si ese Personaje posee 3 o más escudos."
     },
     {
         "code": "05108",
-        "name": "Attack Run",
-        "text": "Ambush.\nActive one of your supports."
+        "name": "Pasada de ataque",
+        "text": "Emboscada.\nActiva uno de tus apoyos."
     },
     {
         "code": "05109",
-        "name": "Equip",
-        "text": "Move a <i>weapon</i> from one of your characters to another character <em>(return its die to its card)</em>."
+        "name": "Pertrecharse",
+        "text": "Transfiere un <i>arma</i> de uno de tus Personajes a otro Personaje <em>(devuelve el dado de esa <i>arma</i> a su correspondiente carta)</em>."
     },
     {
         "code": "05110",
-        "name": "Final Moment",
-        "text": "Ready each of your characters. After the action phase ends, you lose the game."
+        "name": "Momento final",
+        "text": "Prepara cada uno de tus Personajes. Después de que finalice la fase de Acciones, pierdes la partida."
     },
     {
         "code": "05111",
-        "name": "Light 'Em Up",
-        "text": "Reroll one of your dice. If it just rolled ranged damage ([ranged]), you may resolve that die and another one of your dice showing ranged damaged, increasing one of their values by 2."
+        "name": "Arrasarlo todo",
+        "text": "Vuelve a tirar uno de tus dados. Si en ese dado acabas de obtener un resultado de daño a distancia ([ranged]), puedes resolver ese dado y uno de tus otros dados que muestre daño a distancia, incrementando en 2 uno de sus valores de resultado."
     },
     {
         "code": "05112",
-        "name": "Mend",
-        "text": "Heal 3 damage from a character or remove 3 damage from a support."
+        "name": "Recomponer",
+        "text": "Cura 3 puntos de daño de un Personaje o retira 3 puntos de daño de un Apoyo."
     },
     {
         "code": "05113",
-        "name": "Refit",
-        "text": "Play a <i>vehicle</i> from your hand, decreasing its cost by 1. Then place 1 damage on it."
+        "name": "Reequipar",
+        "text": "Juega un <i>vehículo</i> de tu mano, reduciendo en 1 su coste. Luego coloca 1 punto de daño sobre él."
     },
     {
         "code": "05114",
@@ -632,44 +632,44 @@
     },
     {
         "code": "05116",
-        "name": "Bravado",
-        "text": "Spot a Yellow character to remove an opponent's die. Then deal 2 damage to a character."
+        "name": "Alarde de valor",
+        "text": "Señala un Personaje de color Amarillo para retirar un dado de un adversario. Luego inflige 2 puntos de daño a un Personaje."
     },
     {
         "code": "05117",
-        "name": "Easy Pickings",
-        "text": "Spot a Yellow character to remove 2 dice showing the same symbol and value <em>(ignoring modifiers and resource costs)</em>."
+        "name": "Esto será fácil",
+        "text": "Señala un Personaje de color Amarillo para retirar 2 dados que muestren el mismo símbolo y valor de resultado <em>(los modificadores y costes en recursos se ignoran)</em>."
     },
     {
         "code": "05118",
-        "name": "Explosive Tactics",
-        "text": "Discard the top card of a deck. Then deal indirect damage ([indirect]) to an opponent equal to its cost."
+        "name": "Tácticas explosivas",
+        "text": "Descarta la primera carta de un mazo. Luego infige tantos puntos de daño indirect ([indirect]) a un adversario como el coste que tenía esa carta."
     },
     {
         "code": "05119",
-        "name": "Impulsive",
-        "text": "Ambush.\nResolve one of your dice."
+        "name": "Talante impulsivo",
+        "text": "Emboscada.\nResuelve uno de tus dados."
     },
     {
         "code": "05120",
-        "name": "Scruffy Looking Nerf-Herder",
-        "text": "Choose one of the following card types: event, support, or upgrade. Then look at an opponent's hand and discard a card of the chosen type from it."
+        "name": "Pastor de nerfs piojosos",
+        "text": "Elige uno de los siguientes tipos de carta: Evento, Apoyo o Mejora. Luego mira la mano de un adversario y descarta de ella una carta que sea del tipo que has elegido."
     },
     {
         "code": "05121",
-        "name": "Smuggler's Run",
-        "text": "Activate one of your Yellow characters. If one or more of its character or upgrade dice just rolled a resource ([resource]), gain 1 resource."
+        "name": "Viaje de contrabando",
+        "text": "Activa uno de tus Personajes de color Amarillo. Si en uno o más de sus dados de Personaje o de Mejora que acabas de tirar has obtenido un resultado de recurso ([resource]), recibes 1 recurso."
     },
     {
         "code": "05122",
-        "flavor": "Maz Kanata amassed a large collection of curiosities from her many travels throughout the galaxy.",
-        "name": "Maz's Vault",
-        "text": "Each player gains 1 additional resource during the upkeep phase."
+        "flavor": "Maz Kanata acumuló una vasta colección de objetos curiosos obtenidos durante sus muchos viajes por la galaxia.",
+        "name": "Sótano de Maz",
+        "text": "Cada jugador recibe 1 recurso adicional durante la fase de Mantenimiento."
     },
     {
         "code": "05123",
-        "name": "Diplomatic Protection",
-        "text": "Before attached character is defeated, you may discard this upgrade to give each of your other characters 2 shields."
+        "name": "Protección diplomática",
+        "text": "Antes de que el Personaje vinculado sea derrotado, puedes descartar esta Mejora para entregar 2 escudos a cada uno de tus otros Personajes."
     },
     {
         "code": "05124",
@@ -733,23 +733,23 @@
     },
     {
         "code": "05136",
-        "name": "Crackdown",
-        "text": "Play only if each of an opponent's characters has one or more damage on them.\nGain 1 resource."
+        "name": "Redada",
+        "text": "Juega esta carta sólo si cada uno de los Personajes de un adversario tiene 1 o más puntos de daño asignados.\nRecibes 1 recurso."
     },
     {
         "code": "05137",
-        "name": "Crash Landing",
-        "text": "Remove a die showing damage ([ranged], [melee] or [indirect]). Then deal indirect damage ([indirect]) to yourself equal to the value showing on that die."
+        "name": "Aterrizaje forzoso",
+        "text": "Retira un dado que muestre daño ([ranged], [melee] o [indirect]). Luego inflige tantos puntos de daño indirecto ([indirect]) a ti mismo como el valor de resultado que mostraba ese dado."
     },
     {
         "code": "05138",
-        "name": "Law and Order",
-        "text": "Spot a Red character to discard an upgrade from play."
+        "name": "Ley y orden",
+        "text": "Señala un Personaje de color Rojo para descartar una Mejora del juego."
     },
     {
         "code": "05139",
-        "name": "Locked and Loaded",
-        "text": "Spot a Red character to turn up to 2 of your dice to sides showing indirect damage ([indirect])."
+        "name": "A punto para el combate",
+        "text": "Señala un Personaje de color Rojo para girar hasta 2 de tus dados a caras que muestren daño indirecto ([indirect])."
     },
     {
         "code": "05140",
@@ -758,8 +758,8 @@
     },
     {
         "code": "05141",
-        "name": "Strength in Numbers",
-        "text": "Deal indirect damage ([indirect]) to an opponent equal to the number of exhausted characters you have."
+        "name": "Superioridad numérica",
+        "text": "Inflige tantos puntos de daño indirecto ([indirect]) a un adversario como la cantidad de Personajes agotados que tienes."
     },
     {
         "code": "05142",
@@ -783,8 +783,8 @@
     },
     {
         "code": "05146",
-        "name": "Cover Team",
-        "text": "<b>Action</b> – Exhaust this support to resolve one of your dice showing indirect damage ([indirect]), increasing its value by 1."
+        "name": "Equipo de cobertura",
+        "text": "<b>Acción</b> – Agota este Apoyo para resolver uno de tus dados que muestre daño indirecto ([indirect]), incrementando en 1 su valor de resultado."
     },
     {
         "code": "05147",
