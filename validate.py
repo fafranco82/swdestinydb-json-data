@@ -57,6 +57,13 @@ class ValidatorBase:
 
         self.load_sets_collection()
 
+        for thing in ['format']:
+            collection = self.load_collection(thing)
+            if collection:
+                self.load_collections(thing, collection)
+            else:
+                self.load_collections(thing, [])
+
     def show_results(self):
         self.logger.verbose_print("Found %s formatting and %s validation errors\n" % (self.formatting_errors, self.validation_errors), 0)
         if self.formatting_errors == 0 and self.validation_errors == 0:
@@ -195,6 +202,20 @@ class ValidatorBase:
 
     def custom_check_support_card(self, card):
         return self.custom_check_event_card(card)
+
+    def custom_check_format(self, format):
+        validations = []
+
+        for set in format.get('data').get('sets'):
+            if not set in self.collections['set']:
+                validations.append("Set code '%s' does not exist in format '%s'" % (set, format.get('code')))
+
+        for card, points in format.get('data').get('balance').items():
+            if not card in self.collections['card']:
+                validations.append("Card code '%s' does not exist in format '%s' balance of the force" % (card, format.get('code')))
+
+        if validations:
+            raise jsonschema.ValidationError("\n".join(["- %s" % v for v in validations]))
 
     def load_json_file(self, path):
         try:
