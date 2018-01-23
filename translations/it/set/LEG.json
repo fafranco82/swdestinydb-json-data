@@ -85,9 +85,9 @@
     },
     {
         "code": "05015",
-        "flavor": "Commonly used by the Galactic Empire's death troopers and coastal defender stormtroopers.",
-        "name": "Fragmentation Grenade",
-        "text": "After this die is resolved, discard this upgrade from play unless you spend 1 resource."
+        "flavor": "Solitamente in dotazione agli assaltatori della morte e agli assaltatori di difesa costiera dall'Impero Galattico.",
+        "name": "Granata a Frammentazione",
+        "text": "Dopo che questo dado è stato risolto, scarta questa miglioria dal gioco a meno che tu non spenda una risorsa."
     },
     {
         "code": "05016",
@@ -160,7 +160,7 @@
     {
         "code": "05028",
         "name": "BB-9E",
-        "text": "[special] - Reroll an opponent's die. Reroll this die instead of removing it from your pool."
+        "text": "[special] - Ripeti il tiro di 1 dado di un avversario. Ripeti il tiro di questo dado invece di rimuoverlo dalla tua riserva."
     },
     {
         "code": "05029",
@@ -501,13 +501,13 @@
     },
     {
         "code": "05090",
-        "name": "Three Steps Ahead",
-        "text": "Take up to 3 additional actions."
+        "name": "Tre Passi Avanti",
+        "text": "Effettua fino a 3 azioni aggiuntive."
     },
     {
         "code": "05091",
-        "name": "Command Bridge",
-        "text": "<b>Azione</b> - Exhaust this support to activate 2 of your non-unique characters in the order of your choice."
+        "name": "Ponte di comando",
+        "text": "<b>Azione</b> - Esaurisci questo supporto per attivare 2 tuoi personaggi non unici nell'ordine che preferisci."
     },
     {
         "code": "05092",
@@ -622,8 +622,8 @@
     },
     {
         "code": "05114",
-        "name": "Special Modification",
-        "text": "Remove 3 damage from a support or turn a support die to any side."
+        "name": "Modifiche Speciali",
+        "text": "Rimuovi 3 danni da un supporto o gira 1 dado supporto su una faccia a tua scelta."
     },
     {
         "code": "05115",
@@ -698,8 +698,8 @@
     },
     {
         "code": "05129",
-        "name": "Legacies",
-        "text": "Spot a Blue character to resolve one of your dice showing a modifier <em>(a side with a +)</em> as if it did not have a modifier."
+        "name": "Eredità",
+        "text": "Avvista 1 personaggio Blu per risolvere 1 tuo dado modificatore <em>(con un \"+\")</em> come se non fosse modificatore."
     },
     {
         "code": "05130",
