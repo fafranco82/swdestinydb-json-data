@@ -27,8 +27,8 @@
     },
     {
         "code": "05005",
-        "name": "Kylo Ren's Starfighter",
-        "text": "[special] - Choose a color. Then reveal an opponent's hand and deal indirect damage ([indirect]) to them equal to the number of cards in their hand that match the chosen color."
+        "name": "Caza esteler de Kylo Ren",
+        "text": "[special] - Elige un color. Luego revela la mano de un adversario e inflígele tantos puntos de daño indirecto ([indirect]) como la cantidad de cartas que hay en su mano cuyo color coincide con el que has elegido."
     },
     {
         "code": "05006",
@@ -37,8 +37,8 @@
     },
     {
         "code": "05007",
-        "name": "Force Rend",
-        "text": "Blue character only.\n[special] - Spend resources equal to the cost of a support or upgrade in play to discard it."
+        "name": "Desgarrar con la Fuerza",
+        "text": "Sólo Personaje de color Azul.\n[special] - Gasta tantos recursos como el coste de un Apoyo o Mejora que esté en juego para descartar dicho Apoyo o Mejora."
     },
     {
         "code": "05008",
@@ -53,10 +53,10 @@
     },
     {
         "code": "05010",
-        "flavor": "\"Face me!\"",
+        "flavor": "\"¡Enfréntate a mí!\"",
         "name": "Kallus",
-        "subtitle": "Agent of the Empire",
-        "text": "<b>Power Action</b> - Turn this die showing ranged damage ([ranged]) to a side showing melee damage ([melee]), or vice versa."
+        "subtitle": "Agente del Imperio",
+        "text": "<b>Acción potenciada</b> - Giara este dado de una cara que muestre daño a distancia ([ranged]) a una que muestre daño cuerpo a cuerpo ([melee]) o viceversa."
     },
     {
         "code": "05011",
@@ -67,10 +67,10 @@
     },
     {
         "code": "05012",
-        "flavor": "\"Fear will keep the local systems in line.\"",
+        "flavor": "\"El miedo mantendrá en orden los sistemas locales.\"",
         "name": "Tarkin",
         "subtitle": "Grand Moff",
-        "text": "<b>Power Action</b> - Remove 2 of your dice showing the same symbol to deal 4 indirect damage ([indirect]) to an opponent."
+        "text": "<b>Acción potenciada</b> - Retira 2 de tus dados que muestren el mismo símbolo para infligir 4 puntos de daño indirecto ([indirect]) a un adversario."
     },
     {
         "code": "05013",
@@ -92,7 +92,7 @@
     {
         "code": "05016",
         "name": "Grand Moff",
-        "text": "Unique Red characer only.\n<b>Power Action</b> - Use the \"Claim\" ability on the battlefield or switch the battlefield with a battlefield that is not being used <em>(but was brought to the game)</em>."
+        "text": "Sólo Personaje único de color Rojo.\n<b>Acción potenciada</b> - Utiliza la capacidad \"Reclamar\" del campo de batalla o intercambia el campo de batalla actual por un campo de batalla que no esté siendo usado <em>(pero que ha sido traído a la partida)</em>."
     },
     {
         "code": "05017",
@@ -115,9 +115,9 @@
     },
     {
         "code": "05020",
-        "name": "Doctor Aphra",
-        "subtitle": "Artifact Hunter",
-        "text": "The cost of the first <i>droid</i> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card."
+        "name": "Doctora Aphra",
+        "subtitle": "Cazatesoros",
+        "text": "El coste del primero <i>droide</i> que juegues en cada ronda se reduce en 1.\nDespués de que inflijas daño indirecto ([indirect]) a ti mismo, puedes robar una carta."
     },
     {
         "code": "05021",
@@ -128,8 +128,8 @@
     },
     {
         "code": "05022",
-        "name": "Rebel Traitor",
-        "text": "After you activate this character, you may force an opponent to activate one of their character as their next action this round, if able."
+        "name": "Traidor a la Rebelión",
+        "text": "Después de que actives este Personaje, puedes obligar a un adversario a elegir y activar uno de sus Personajes como su siguiente acción de esta ronda, si le es posible."
     },
     {
         "code": "05023",
@@ -160,7 +160,7 @@
     {
         "code": "05028",
         "name": "BB-9E",
-        "text": "[special] - Reroll an opponent's die. Reroll this die instead of removing it from your pool."
+        "text": "[special] - Vuelve a tirar un dado de un adversario. Vuelve a tirar este dado en vez de retirarlo de tu reserva."
     },
     {
         "code": "05029",
@@ -176,36 +176,36 @@
     },
     {
         "code": "05031",
-        "flavor": "\"I want to learn the ways of the Force and become a Jedi like my father.\"",
+        "flavor": "\"Quiero aprender los caminos de la Fuerza y ser un jedi como mi padre.\"",
         "name": "Luke Skywalker",
-        "subtitle": "Unlikely Hero",
-        "text": "<b>Power Action</b> - Spend 2 resources to resolve one of this character's character or upgrade dice, increasing its value by 2."
+        "subtitle": "Héroe improbable",
+        "text": "<b>Acción potenciada</b> - Gasta 2 recursos para resolver uno de los dados de Personaje o de Mejora de este Personaje, incrementando en 2 su valor de resultado."
     },
     {
         "code": "05032",
-        "flavor": "\"Your move\"",
+        "flavor": "\"Comience.\"",
         "name": "Obi-Wan Kenobi",
-        "subtitle": "Jedi Master",
-        "text": "After you activate this character, you may give a character 1 shield."
+        "subtitle": "Maestro jedi",
+        "text": "Después de que actives este Personaje, puedes entregar 1 escudo a un Personaje."
     },
     {
         "code": "05033",
-        "flavor": "\"Do. Or do not. There is not try.\"",
+        "flavor": "\"Hazlo. O no lo hagas. Pero no lo intentes.\"",
         "name": "Yoda",
-        "subtitle": "Wizened Master",
-        "text": "[special]- Choose and do two of the following: gain 1 resource, give a characeter 1 shield, turn one of your dice to any side, or dicard the top card of a deck."
+        "subtitle": "Maestro venerable",
+        "text": "[special] - Elige y lleva a cabo dos de las siguientes opciones: recibir 1 recurso, entregar 1 escudo a un Personaje, girar uno de tus dados a cualquier cara, o descartar la primera carta de un mazo."
     },
     {
         "code": "05034",
-        "flavor": "The ETA-2 Interceptor was the starfighter of choice of Jedi during the Clone Wars.",
-        "name": "ETA-2 Interceptor",
-        "text": "<b>Action</b> - Remove this die or one of your dice showing a shield ([shield]) to exhaust a support."
+        "flavor": "El interceptor Eta-2 fue el caza estelar predilecto de los jedi durante las Guerras Clon.",
+        "name": "Interceptor ETA-2",
+        "text": "<b>Acción</b> - Retira este dado o uno de tus dados que muestre un escudo ([shield]) para agotar un Apoyo."
     },
     {
         "code": "05035",
-        "flavor": "\"I've never seen a jam he couldn't beep his way out of.\" <cite>Leia Organa</cite>",
+        "flavor": "\"Te aseguro que R2 es capaz de salir de cualquier embrollo.\" <cite>Leia Organa</cite>",
         "name": "R2-D2",
-        "text": "[special] - Draw a card. You may turn one of your dice to any side."
+        "text": "[special] - Roba una carta. Puedes girar uno de tus dados a cualquier cara."
     },
     {
         "code": "05036",
@@ -214,20 +214,20 @@
     },
     {
         "code": "05037",
-        "name": "Obi-Wan Kenobi's Lightsaber",
-        "text": "Blue character only.\n[special] - Give attached character 1 shield. Deal unblockable damage to a character equal to the number of shields on attached character."
+        "name": "Sable de luz de Obi-Wan Kenobi",
+        "text": "Sólo Personaje de color Azul.\n[special] - Entrega 1 escudo al Personaje vinculado. Inflige tantos puntos de daño no anulable a un Personaje como la cantidad de escudos que tiene el Personaje vinculado."
     },
     {
         "code": "05038",
-        "flavor": "\"Someone's out to start a war.\" <cite>Mace Windu</cite>",
-        "name": "Clone Trooper",
-        "text": "After you activate this character, you may reroll this die, or, if you control the battlefield, you may reroll one of your character dice."
+        "flavor": "\"Alguien se propone iniciar una guerra.\" <cite>Mace Windu</cite>",
+        "name": "Soldado clon",
+        "text": "Después de que actives este Personaje, puedes volver a tirar este dado o, si controlas el campo de batalla, puedes volver a tirar uno de tus dados de Personaje."
     },
     {
         "code": "05039",
         "name": "Finn",
-        "subtitle": "Soldier of Necessity",
-        "text": "[special] - Move 1 damage from a card to another card in play <em>(this ignores shields)</em>."
+        "subtitle": "Soldado por necesidad",
+        "text": "[special] - Transfiere 1 punto de daño de una carta a otra carta que esté en juego <em>(esta transferencia ignora escudos)</em>."
     },
     {
         "code": "05040",
@@ -245,8 +245,8 @@
     },
     {
         "code": "05042",
-        "name": "Mortar Team",
-        "text": "While you control the battlefield, you may resolve the indirect damage ([indirect]) sides of this die as if they were ranged damage ([ranged])."
+        "name": "Dotación de mortero",
+        "text": "Mientras controles el campo de batalla, puedes resolver las caras de daño indireco ([indirect]) de este dado como si fueran daño a distancia ([ranged])."
     },
     {
         "code": "05043",
@@ -260,15 +260,15 @@
     },
     {
         "code": "05045",
-        "name": "Rebellion Leader",
-        "text": "Unique Red character only.\n<b>Power Action</b> - Remove an opponent's die showing the same symbol as one of your dice."
+        "name": "Líder de la Rebelión",
+        "text": "Sólo Personaje único de color Rojo.\n<b>Acción potenciada</b> - Retira un dado de un adversario que muestre el mismo símbolo que uno de tus dados."
     },
     {
         "code": "05046",
-        "flavor": "\"Hokey religions and ancient weapons are no match for a good blaster at your side, kid.\"",
+        "flavor": "\"Las religiones y las armas antiguas no valen nada comparadas con un buen bláster.\"",
         "name": "Han Solo",
-        "subtitle": "Savvy Smuggler",
-        "text": "After you activate this character, you may reroll a die <em>(yours or an opponent's)</em>."
+        "subtitle": "Contrabandista avispado",
+        "text": "Después de que actives este Personaje, puedes volver a tirar un dado <em>(tuyo o de un adversario)</em>."
     },
     {
         "code": "05047",
@@ -284,28 +284,28 @@
     },
     {
         "code": "05049",
-        "flavor": "\"Save the Rebellion! Save the dream.\"",
+        "flavor": "\"¡Salvad la Rebelión! Salvad el sueño.\"",
         "name": "Saw Gerrera",
-        "subtitle": "Extremist Leader",
-        "text": "[special] - Discard a random card from a player's hand. Then deal indirect damage ([indirect]) to an opponent equal to its cost."
+        "subtitle": "Líder extremista",
+        "text": "[special] - Descarta una carta escogida al azar de la mano de un jugador. Luego inflige a un adversario tantos puntos de daño indirecto ([indirect]) como el coste de esa carta."
     },
     {
         "code": "05050",
-        "flavor": "\"There's just something about the feeling of their helmets on my fists.\"",
+        "flavor": "\"Me encanta el tacto de sus cascos en mis puños.\"",
         "name": "Zeb Orrelios",
-        "subtitle": "The Last Lasat",
-        "text": "You may resolve the melee damage ([melee]) sides of this die as if they were ranged damage ([ranged])."
+        "subtitle": "El último lasat",
+        "text": "Puedes resolver las caras de daño cuerpo a cuerpo ([melee]) de este dado como si fueran daño a distancia ([ranged])."
     },
     {
         "code": "05051",
-        "name": "Runaway Boomas",
-        "text": "<b>Power Action</b> - Spend 1 resource to roll a Runaway Boomas ([LEG]51) die into your pool. Set aside that die after it is resolved or removed."
+        "name": "Bumas sueltas",
+        "text": "<b>Acción potenciada</b> - Gasta 1 recurso para tirar un dado de Bumas sueltas ([LEG]51) en tu reserva. Deja aparte ese dado después de que sea resuelto o retirado."
     },
     {
         "code": "05052",
-        "flavor": "\"Chewie… we're home.\" <cite>Han Solo</cite>",
-        "name": "Millennium Falcon",
-        "text": "After to activate this support, you may activate one of your characters."
+        "flavor": "\"Chewie… estamos en casa.\" <cite>Han Solo</cite>",
+        "name": "Halcón Milenario",
+        "text": "Después de que actives este Apoyo, puedes activar uno de tus Personajes."
     },
     {
         "code": "05053",
@@ -476,7 +476,7 @@
     },
     {
         "code": "05085",
-        "name": "Aplastar a la rebelión",
+        "name": "Aplastar a la Rebelión",
         "text": "Retira un dado que muestre daño ([ranged], [melee] o [indirect]). Luego inflige tantos puntos de daño indirecto ([indirect]) a un adversario como la mitad del valor de resultado que mostraba ese dado, redondeando hacia arriba."
     },
     {
