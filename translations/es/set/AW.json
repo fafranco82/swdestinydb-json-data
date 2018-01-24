@@ -128,7 +128,7 @@
     {
         "code": "01023",
         "name": "Señor del crimen",
-        "text": "[special] - Gasta 5 recursos para elegir un Personaje. Ese Personaje es derrotado después de que termine esta ronda."
+        "text": "Sólo Personajes de color Amarillo.\n[special] - Gasta 5 recursos para elegir un Personaje. Ese Personaje es derrotado después de que termine esta ronda."
     },
     {
         "code": "01024",
