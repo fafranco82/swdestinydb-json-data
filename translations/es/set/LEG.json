@@ -234,7 +234,7 @@
         "flavor": "\"Me paso todo el día trabajando entre tuberías.\"",
         "name": "Rose",
         "subtitle": "Mecánica talentosa",
-        "text": "[special] - Recibes 1 recurso. Puedes respirar 1 punto de daño de un Apoyo."
+        "text": "[special] - Recibes 1 recurso. Puedes retirar 1 punto de daño de un Apoyo."
     },
     {
         "code": "05041",
@@ -341,8 +341,8 @@
     },
     {
         "code": "05059",
-        "name": "Hush-98 Comlink",
-        "text": "<b>Action</b> - Remove this die to activate any number of your characters and/or supports in the order of your choice."
+        "name": "Comunicador Silente-98",
+        "text": "<b>Acción</b> - Retira este dado para activar cualquier cantidad de tus Personajes y/o Apoyos en el orden que prefieras."
     },
     {
         "code": "05060",
@@ -351,8 +351,8 @@
     },
     {
         "code": "05061",
-        "name": "Lookout Post",
-        "text": "Play only if you control the battlefield."
+        "name": "Puesto de vigía",
+        "text": "Juega esta carta sólo si controlas el campo de batalla."
     },
     {
         "code": "05062",
@@ -372,16 +372,16 @@
     },
     {
         "code": "05065",
-        "flavor": "\"Well that's just good business.\"",
+        "flavor": "\"Bueno, eso ya es todo un negocio.\"",
         "name": "Hondo Ohnaka",
-        "subtitle": "Respected Businessman",
-        "text": "[special] - Deal 3 damage to an opponent's character unless that opponent gives you 1 resource."
+        "subtitle": "Empresario respetable",
+        "text": "[special] - Inflige 3 puntos de daño a un Personaje de un adversario a menos que ese adversario te entregue 1 recurso."
     },
     {
         "code": "05066",
-        "flavor": "\"But you know what I always say: speak softly, and drive a big tank.\" <cite>Hondo Ohnaka</cite>",
-        "name": "Pirate Speeder Tank",
-        "text": "[special] - Deal 2 damage to a character, give a character 2 shields, and take one additional action."
+        "flavor": "\"Pero ya conocéis mi lema: habla con dulzura encima de un tanque bien armado.\" <cite>Hondo Ohnaka</cite>",
+        "name": "Tanque repulsor pirata",
+        "text": "[special] - Inflige 2 puntos de daño a un Personaje, entrega 2 escudos a un Personaje y realiza una acción adicional."
     },
     {
         "code": "05067",
@@ -390,18 +390,18 @@
     },
     {
         "code": "05068",
-        "name": "Gang Up",
-        "text": "X is equal to the number of Yellow characters you have in play."
+        "name": "Unir fuerzas",
+        "text": "El valor X es igual a la cantidad de Personajes de color Amarillo que tienes en juego."
     },
     {
         "code": "05069",
-        "name": "Vibrocutlass",
-        "text": "Redeploy.\nDecrease the resource cost on this die by 1 while this upgrade is on a Yellow character."
+        "name": "Vibroalfanje",
+        "text": "Redesplegar.\nMientras esta mejora esté sobre un Personaje de color Amarillo, reduce en 1 el coste en recursos de este dado."
     },
     {
         "code": "05070",
-        "name": "Modified HWK-290",
-        "text": "After you play this support, place 2 damage on it.\nAfter you activate this support, deal indirect damage ([indirect]) to yourself equal to the damage on it."
+        "name": "HWK-290 modificado",
+        "text": "Después de que juegues este Apoyo, coloca 2 puntos de daño sobre él.\nDespués de que actives este Apoyo, inflige tantos puntos de daño indirecto ([indirect]) a ti mismo como la cantidad de puntos de daño que hay sobre él."
     },
     {
         "code": "05071",
@@ -410,19 +410,19 @@
     },
     {
         "code": "05072",
-        "name": "Hidden Blaster",
-        "text": "Ambush.\nAfter you play this upgrade, you may remove 1 shield from a character."
+        "name": "Bláster oculto",
+        "text": "Emboscada.\nDespués de que juegues esta Mejora, puedes retirar 1 escudo de un Personaje."
     },
     {
         "code": "05073",
-        "flavor": "Slugthrowers, like the 6-2Aug2, were commonly found on backwater planets like Tatooine.",
-        "name": "Hunting Rifle",
+        "flavor": "Las armas que disparaban proyectiles sólidos, como el fusil 6-2Aug2, era abundantes en planetas atrasados como Tatooine.",
+        "name": "Fusil de caza",
         "text": " "
     },
     {
         "code": "05074",
-        "name": "Stun Baton",
-        "text": "After a character takes damage from this die, you may spend 1 resource to remove one that character's character dice."
+        "name": "Porra aturdidora",
+        "text": "Después de que un Personaje sufra daño procedente de este dado, puedes gastar 1 recurso para retirar unos de los dados de Personaje de ese Personaje."
     },
     {
         "code": "05075",
@@ -678,18 +678,18 @@
     },
     {
         "code": "05125",
-        "name": "Alter",
-        "text": "Turn up to 2 dice to the sides of your choice <em>(yours and/or your opponents')</em>."
+        "name": "Alterar",
+        "text": "Giara hasta 2 dados a cartas de tu elección <em>(tuyos y/o de tus adversarios)</em>."
     },
     {
         "code": "05126",
-        "name": "Ancient Wisdom",
-        "text": "Draw 2 cards."
+        "name": "Sabiduría ancestral",
+        "text": "Roba 2 cartas."
     },
     {
         "code": "05127",
-        "name": "Feel The Force",
-        "text": "Turn a Blue die to any side."
+        "name": "Sentir la Fuerza",
+        "text": "Gira un dado de color Azul a cualquier cara."
     },
     {
         "code": "05128",
@@ -698,38 +698,38 @@
     },
     {
         "code": "05129",
-        "name": "Legacies",
-        "text": "Spot a Blue character to resolve one of your dice showing a modifier <em>(a side with a +)</em> as if it did not have a modifier."
+        "name": "Legados",
+        "text": "Señala a un Personaje de color Azul para resolver uno de tus dados que muestre un modificador <em>(una cara con un +)</em> como si no lo tuviera,"
     },
     {
         "code": "05130",
-        "name": "Mislead",
-        "text": "Remove a character die showing a value of 2 or less."
+        "name": "Despistar",
+        "text": "Retira un dado de Personaje que muestre un valor de resultado de 2 o menos."
     },
     {
         "code": "05131",
-        "name": "Respite",
-        "text": "Exhaust one of your characters to gain 1 resource and draw a card."
+        "name": "Respiro",
+        "text": "Agota uno de tus Personajes para recibir 1 recurso y robar una carta."
     },
     {
         "code": "05132",
-        "name": "Stronger You Have Become",
-        "text": "Count the number of upgrades you have in play. Reroll up to that many dice <em>(yours and/or your opponents')</em>."
+        "name": "Más fuerte te has vuelto",
+        "text": "Cuenta el número de Mejoras que tienes en juego. Vuelve a tirar hasta esa misma cantidad de dados <em>(tuyos y/o de tus adversarios)</em>."
     },
     {
         "code": "05133",
-        "name": "The Force Is With Me",
-        "text": "Remove a die showing ranged damage ([ranged]) or indirect damage ([indirect])."
+        "name": "La Fuerza está conmigo",
+        "text": "Retira un dado que muestre daño a distancia ([ranged]) o daño indirecto ([indirect])."
     },
     {
         "code": "05134",
-        "name": "Perserverance",
-        "text": "<b>Action</b> - Exhaust this support to reroll one of your dice. Then you may reroll it again."
+        "name": "Perserverancia",
+        "text": "<b>Acción</b> - Agota este Apoyo para volver a tirar uno de tus dados. Luego puedes volver a tirar ese dado."
     },
     {
         "code": "05135",
-        "name": "Resilient",
-        "text": "After an opponent's card effect removes one of attached character's character dice, you may exhaust this upgrade to roll that die into your pool."
+        "name": "Incansable",
+        "text": "Después de que un efecto de una carta de un adversario retire uno de los dados de Personaje del Personaje vinculado, puedes agotar esta Mejora para tirar ese dado en tu reserva."
     },
     {
         "code": "05136",
@@ -763,18 +763,18 @@
     },
     {
         "code": "05142",
-        "name": "Sudden Impact",
-        "text": "Remove one of your dice showing damage ([ranged],[melee], or [indirect]). Then deal damage to each of an opponent's characters equal to half of the value showing on that die, rounded up."
+        "name": "Impacto repentino",
+        "text": "Retira uno de tus dados que muestre daño ([ranged], [melee] o [indirect]). Luego inflige tantos puntos de daño a cada  uno de los Personajes de un adversario como la mitad del valor de resultado que mostraba ese dado, redondeando hacia arriba."
     },
     {
         "code": "05143",
-        "name": "Superior Position",
-        "text": "Play only if you control the battlefield.\nRemove a die."
+        "name": "Posición inasaltable",
+        "text": "Juega esta carta sólo si controlas el campo de batalla.\nRetira un dado."
     },
     {
         "code": "05144",
-        "name": "Target Intel",
-        "text": "Resolve one of your dice showing indirect damage ([indirect]) as if it were ranged damage ([ranged])."
+        "name": "Datos sobre el objetivo",
+        "text": "Resuelve uno de tus dados que muestre daño indirecto ([indirect]) como si fuera daño a distancia ([ranged])."
     },
     {
         "code": "05145",
@@ -788,73 +788,73 @@
     },
     {
         "code": "05147",
-        "name": "Bamboozle",
-        "text": "Reroll an opponent's die. If it just rolled a blank ([blank]), take 1 resource from them."
+        "name": "Embaucar",
+        "text": "Vuelve a tirar un dado de un adversario. Si en ese dado acabas de obtener un resultado de cara vacía ([blank]), coge 1 recurso de ese adversario."
     },
     {
         "code": "05148",
-        "name": "Cantina Brawl",
-        "text": "Deal 1 damage to an opponent's character. Then that opponent may discard a card from their hand to repeat this effect."
+        "name": "Reyerta de cantina",
+        "text": "Inflige 1 punto de daño a un Personaje de un adversario. Luego ese adversario puede descartar una carta de su mano para repetir este efecto."
     },
     {
         "code": "05149",
-        "name": "Counter Strike",
-        "text": "Resolve one of your dice showing damage ([ranged],[melee], or [indirect]), increasing its value by 2 if an opponent resolved one or more dice showing that same damage symbol during their last turn this round."
+        "name": "Contraofensiva",
+        "text": "Resuelve uno de tus dados que muestre daño ([ranged], [melee] o [indirect]), incrementando en 2 su valor de resultado si un adversario resolvió uno o más dados que mostraban ese mismo símbolo de daño durante su último turno de esta ronda."
     },
     {
         "code": "05150",
-        "name": "Dangerous Maneuver",
-        "text": "Heal 2 damage from one of your characters. Deal 2 indirect damage ([indirect]) to yourself."
+        "name": "Maniobra peligrosa",
+        "text": "Cura 2 puntos de daño de uno de tus Personajes. Inflige 2 puntos de daño indirecto ([indirect]) a ti mismo."
     },
     {
         "code": "05151",
-        "name": "Entangle",
-        "text": "Spot a Yellow character to remove up to 2 dice showing a combined value of 3 or less."
+        "name": "Enredar",
+        "text": "Señala un Personaje de color Amarillo para retirar hasta 2 dados que muestren un valor de resultado combinado de 3 o menos."
     },
     {
         "code": "05152",
-        "name": "Face-Off",
-        "text": "Reroll one of your character dice and an opponent's character die <em>(you choose)</em>. Then deal 2 damage to each character whose die just rolled the lowest value <em>(both characters if it is a tie)</em>."
+        "name": "Enfrentamiento",
+        "text": "Vuelve a tirar uno de tus dados de Personaje y uno de los dados de Personaje de un adversario <em>(tú eliges cuál)</em>. Luego inflige 2 puntos de daño al Personaje cuyo dado que acabas de tirar ha obtenido el menor valor de resultado <em>(en caso de empate, inflige 2 puntos de daño a cada uno de ambos Personajes)</em>."
     },
     {
         "code": "05153",
-        "name": "Hasty Exit",
-        "text": "Give control of the battlefield to an opponent to remove a die showing damage ([ranged],[melee], or [indirect])."
+        "name": "Partida apresurada",
+        "text": "Entrega el control del campo de batalla a un adversario para retirar un dado que muestre daño ([ranged], [melee] o [indirect])."
     },
     {
         "code": "05154",
-        "name": "Lure",
-        "text": "Ambush.\nChoose an opponent's character or support and force them to activate it, if able."
+        "name": "Atraer a una trampa",
+        "text": "Emboscada.\nElige un Personaje o Apoyo de un adversario y oblígale a activarlo, si le es posible."
     },
     {
         "code": "05155",
-        "name": "Quick Draw",
-        "text": "Play a <i>weapon</i> from your hand on one of your characters <em>(paying its cost)</em>. You may activate that character."
+        "name": "Desenfundado rápido",
+        "text": "Juega un <i>arma</i> de tu mano sobre uno de tus Personajes <em>(pagando su coste)</em>. Puedes activar ese Personaje."
     },
     {
         "code": "05156",
-        "name": "Vandalize",
-        "text": "Remove a number of your character dice equal to the cost of a support or upgrade in play to discard it."
+        "name": "Vandalizar",
+        "text": "Retira tantos de tus dados de Personaje como el coste de un Apoyo o Mejora que esté en juego para descartar dicho Apoyo o Mejora."
     },
     {
         "code": "05157",
-        "name": "Well-Connected",
-        "text": "Spot a Yellow character to gain 1 resource. Each opponent may draw a card."
+        "name": "Contactos influyentes",
+        "text": "Señala un Personaje de color Amarillo para recibir 1 recurso. Cada adversario puede robar una carta."
     },
     {
         "code": "05158",
-        "name": "Defend",
-        "text": "Ambush.\nRemove up to 3 dice showing melee damage ([melee])."
+        "name": "Defenderse",
+        "text": "Emboscada.\nRetira hasta 3 dados que muestren daño cuerpo a cuerpo ([melee])."
     },
     {
         "code": "05159",
-        "name": "Dive",
-        "text": "Ambush.\nRemove up to 3 dice showing ranged damage ([ranged])."
+        "name": "Tirarse al suelo",
+        "text": "Emboscada.\nRetira hasta 3 dados que muestren daño a distancia ([ranged])."
     },
     {
         "code": "05160",
-        "name": "Ice Storm",
-        "text": "Remove 1 shield from each character."
+        "name": "Tormenta de hielo",
+        "text": "Retira 1 escudo de cada Personaje."
     },
     {
         "code": "05161",
@@ -863,18 +863,18 @@
     },
     {
         "code": "05162",
-        "name": "Shelter",
-        "text": "Remove a die showing indirect damage ([indirect])."
+        "name": "Cobijo",
+        "text": "Retir aun dado que muestre daño indirecto ([indirect])."
     },
     {
         "code": "05163",
-        "name": "Backup Specialist",
-        "text": "<b>Action</b> - Exhaust this support to reroll up to 2 of your dice."
+        "name": "Especialista de respaldo",
+        "text": "<b>Acción</b> - Agota este Apoyo para volver a tirar hasta 2 de tus dados."
     },
     {
         "code": "05164",
-        "name": "Remote Stockpile",
-        "text": "<b>Action</b> - Exaust this support to place 1 resource on it or take all resources from it."
+        "name": "Almacén apartado",
+        "text": "<b>Acción</b> - Agota este Apoyo para colocar 1 recurso sobre él o para coger todos los recursos que hay sobre él."
     },
     {
         "code": "05165",
@@ -888,8 +888,8 @@
     },
     {
         "code": "05167",
-        "name": "Quickdraw Holster",
-        "text": "After you activate attached character, you may reroll any number of their <i>weapon</i> dice."
+        "name": "Pistolera de desenfundado rápido",
+        "text": "Después de que actives al Personaje vinculado, puedes volver a tirar cualquier cantidad de sus dados de <i>arma</i>."
     },
     {
         "code": "05168",
@@ -898,13 +898,13 @@
     },
     {
         "code": "05169",
-        "name": "Fortify",
-        "text": "After setup, give a character 1 shield."
+        "name": "Fortificar",
+        "text": "Después de la preparación de la partida, entrega 1 escudo a un Personaje."
     },
     {
         "code": "05170",
-        "name": "Preemptive Strike",
-        "text": "After setup, deal 2 indirect damage ([indirect]) to an opponent."
+        "name": "Ataque preventivo",
+        "text": "Después de la preparación de la partida, inflige 2 puntos de daño indirecto ([indirect]) a un adversario."
     },
     {
         "code": "05171",
@@ -913,8 +913,8 @@
     },
     {
         "code": "05172",
-        "name": "Stolen Intel",
-        "text": "After setup, draw a card."
+        "name": "Datos robados",
+        "text": "Después de la preparación de la partida, roba una carta."
     },
     {
         "code": "05173",
@@ -923,44 +923,44 @@
     },
     {
         "code": "05174",
-        "name": "Arid Wasteland",
+        "name": "Yermo desértico",
         "subtitle": "Geonosis",
-        "text": "<b>Claim</b> - Force an opponent to lose 1 resource."
+        "text": "<b>Reclamar</b> - Obliga a un adversario a perder 1 recurso."
     },
     {
         "code": "05175",
-        "name": "Citadel Landing Zone",
+        "name": "Zona de aterrizaje de la ciudadela",
         "subtitle": "Scarif",
-        "text": "<b>Claim</b> - Reroll any number of your dice. Then you may resolve one of your dice."
+        "text": "<b>Reclamar</b> - Vuelve a tirar cualquier cantidad de tus dados. Luego puedes resolver uno de tus dados."
     },
     {
         "code": "05176",
-        "name": "Imperial Palace",
+        "name": "Palacio imperial",
         "subtitle": "Coruscant",
-        "text": "<b>Claim</b> - Look at an opponent's hand and discard a card from it."
+        "text": "<b>Reclamar</b> - Mira la mano de un adversario y descarta una carta de ella."
     },
     {
         "code": "05177",
-        "name": "Launch Deck",
-        "subtitle": "Home One",
-        "text": "<b>Claim</b> - Remove one of your dice to deal indirect damage ([indirect]) to an opponent equal to half of the value showing on it, rounded up."
+        "name": "Cubierta de vuelo",
+        "subtitle": "Hogar Uno",
+        "text": "<b>Reclamar</b> - Retira uno de tus dados para infligir tantos puntos de daño indirecto ([indirect]) a un adversario como la mitad de valor de resultado que mostraba ese dado, redondeando hacia arriba."
     },
     {
         "code": "05178",
         "name": "Outer Rim Outpost",
         "subtitle": "Nal Hutta",
-        "text": "<b>Claim</b> - Gain 1 resource and draw a card."
+        "text": "<b>Reclamar</b> - Gain 1 resource and draw a card."
     },
     {
         "code": "05179",
-        "name": "Petranaki Arena",
+        "name": "Coliseo Petranaki",
         "subtitle": "Geonosis",
-        "text": "<b>Claim</b> - Deal 1 indirect damage ([indirect]) to yourself to deal 1 unblockable damage to a character."
+        "text": "<b>Reclamar</b> - Inflige punto de daño indirecto ([indirect]) a ti mismo para infligir 1 punto de daño no alunable a un Personaje."
     },
     {
         "code": "05180",
         "name": "Power Generator Trench",
         "subtitle": "Death Star I",
-        "text": "<b>Claim</b> - Turn a die to any side."
+        "text": "<b>Reclamar</b> - Turn a die to any side."
     }
 ]
