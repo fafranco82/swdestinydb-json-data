@@ -326,18 +326,18 @@
     },
     {
         "code": "05056",
-        "name": "Force Focus",
-        "text": "To play, spot a Blue character.\n[special] - Turn one of your dice to any side. You may reveal a Blue card from your hand to turn an opponent's die to any side."
+        "name": "Concentrarse con la Fuerza",
+        "text": "Para jugar esta carta, señala un Personaje de color Azul.\n[special] - Gira uno de tus dados a cualquier cara. Puedes revelar una carta de color Azul que tengas en tu mano para girar a cualquier cara un dado de un adversario."
     },
     {
         "code": "05057",
-        "name": "Force Wave",
-        "text": "Blue character only.\n[special] - Deal 3 damage to a character. Deal 2 damage to a another character. Deal 1 damage to a third character."
+        "name": "Oleada de Fuerza",
+        "text": "Sólo Personaje de color Azul.\n[special] - Inflige 3 puntos de daño a un Personaje. Inflige 2 puntos de daño a otro Personaje. Inflige 1 punto de daño a un tercer Personaje."
     },
     {
         "code": "05058",
-        "name": "Heirloom Lightsaber",
-        "text": "This upgrade has the Redeploy keyword while it's on a Blue character."
+        "name": "Sable de luz heredado",
+        "text": "Esta Mejora posee la palabra clave Redesplegar mientras esté vinculada a un Personaje de color Azul."
     },
     {
         "code": "05059",
@@ -346,8 +346,8 @@
     },
     {
         "code": "05060",
-        "name": "Ground Battalion",
-        "text": "After you activate this support, you may take control of the battlefield. <em>(This does not claim the battlefield.)</em>"
+        "name": "Batallón terrestre",
+        "text": "Después de que actives este Apoyo, puedes tomar el control del campo de batalla. <em>(Esto no reclama el campo de batalla.)</em>"
     },
     {
         "code": "05061",
@@ -385,8 +385,8 @@
     },
     {
         "code": "05067",
-        "name": "Bartering",
-        "text": "[special] - Gain 1 resource. You may force each player to draw a card."
+        "name": "Trueque",
+        "text": "[special] - Recibes 1 recurso. Puedes obligar a cada jugador a robar 1 carta."
     },
     {
         "code": "05068",
@@ -405,8 +405,8 @@
     },
     {
         "code": "05071",
-        "name": "Canto Bight Pistol",
-        "text": "Redeploy.\n[special] - Deal 2 damage to a character, or 3 damage instead if it is a villain."
+        "name": "Pistola de Canto Bight",
+        "text": "Redesplegar.\n[special] - Inflige 2 puntos de daño a un Personaje, o 3 puntos de daño si se trata de un villano."
     },
     {
         "code": "05072",
@@ -466,8 +466,8 @@
     },
     {
         "code": "05083",
-        "name": "Nightsister Coven",
-        "text": "After a character die rolls a blank ([blank]), you may exhaust this support to reveal the top card of a deck. If its cost is an odd number, deal 1 damage to that character."
+        "name": "Cofradía de hermanas nocturas",
+        "text": "Después de que un dado de Personaje obtenga un resultado de cara vacía ([blank]), puedes agotar este Apoyo para revelar la primera carta de un mazo. Si el coste de esa carta es un número impar, inflige 1 punto de daño a ese Personaje."
     },
     {
         "code": "05084",
@@ -506,8 +506,8 @@
     },
     {
         "code": "05091",
-        "name": "Command Bridge",
-        "text": "<b>Action</b> - Exhaust this support to activate 2 of your non-unique characters in the order of your choice."
+        "name": "Puente de mando",
+        "text": "<b>Acción</b> - Agota este Apoyo para activar 2 de tus Personajes que no sean únicos en el orden que prefieras."
     },
     {
         "code": "05092",
@@ -562,8 +562,8 @@
     },
     {
         "code": "05102",
-        "name": "Heightened Awareness",
-        "text": "Ambush.\nGive a character 3 shields."
+        "name": "Percepción agudizada",
+        "text": "Emboscada.\nEntrega 3 escudos a un Personaje."
     },
     {
         "code": "05103",
@@ -582,8 +582,8 @@
     },
     {
         "code": "05106",
-        "name": "Defensive Teaching",
-        "text": "Each of your Blue characters can have 1 additional shield."
+        "name": "Instrucción defensiva",
+        "text": "Cada uno de tus Personajes de color Azul puede poseer 1 escudo adicional."
     },
     {
         "code": "05107",
@@ -622,13 +622,13 @@
     },
     {
         "code": "05114",
-        "name": "Special Modification",
-        "text": "Remove 3 damage from a support or turn a support die to any side."
+        "name": "Modificación especial",
+        "text": "Retira 3 puntos de daño de un Apoyo o gira un dado de Apoyo a cualquier cara."
     },
     {
         "code": "05115",
-        "name": "Suppression Field",
-        "text": "Discard this support if it has 3 or more damage on it.\n<b>Action</b> - Exhaust this support to remove a die showing damage ([ranged], [melee] or [indirect]). Place damage on this support equal to the value showing on that die."
+        "name": "Campo de contención",
+        "text": "Descarta este Apoyo si hay 3 o más puntos de daño sobre él.\n<b>Acción</b> - Agota este Apoyo para retirar un dado que muestre daño ([ranged], [melee] o [indirect]). Coloca sobre este Apoyo tantos puntos de daño como el valor de resultado que mostraba ese dado."
     },
     {
         "code": "05116",
@@ -673,8 +673,8 @@
     },
     {
         "code": "05124",
-        "name": "Into The Garbage Chute",
-        "text": "Exhaust one of your characters to remove up to 2 dice showing damage ([ranged], [melee], or [indirect])."
+        "name": "Al vertedero de desperdicios",
+        "text": "Agota uno de tus Personajes para retirar hasta 2 dados que muestren daño ([ranged], [melee] o [indirect])."
     },
     {
         "code": "05125",
@@ -693,8 +693,8 @@
     },
     {
         "code": "05128",
-        "name": "Invigorate",
-        "text": "Spot a Blue character to heal 1 damage from each of your characters."
+        "name": "Vigorizar",
+        "text": "Señala a un Personaje de color Azul para curar 1 punto de daño a cada uno de tus Personajes."
     },
     {
         "code": "05129",
@@ -753,8 +753,8 @@
     },
     {
         "code": "05140",
-        "name": "Reinforce",
-        "text": "Roll a character die on one of your characters into your pool if you have another copy of that character in play."
+        "name": "Traer refuerzos",
+        "text": "Tira en tu reserva un dado de Personaje que esté sobre uno de tus Personajes, si tienes en juego otra copia de ese Personaje."
     },
     {
         "code": "05141",
@@ -778,8 +778,8 @@
     },
     {
         "code": "05145",
-        "name": "Bubble Shield",
-        "text": "You may distribute indirect damage ([indirect]) to this support as if it were a character with 3 health.\nDiscard this support if it has 3 or more damage on it."
+        "name": "Escudo de burbuja",
+        "text": "Puedes asignar daño indirecto ([indirect]) a este Apoyo como si se tratara de un Personaje con Salud 3.\nDescarta este Apoyo si tiene 3 o más puntos de daño sobre él."
     },
     {
         "code": "05146",
@@ -858,8 +858,8 @@
     },
     {
         "code": "05161",
-        "name": "No Cheating",
-        "text": "Deal damage to an opponent's character equal to the number of additional actions that opponent took during their last turn this round."
+        "name": "Nada de trampas",
+        "text": "Inflige tantos puntos de daño a un Personaje de un adversario como la cantidad de acciones adicionales que ese adversario llevó a cabo durante su último turno de esta ronda."
     },
     {
         "code": "05162",
@@ -878,13 +878,13 @@
     },
     {
         "code": "05165",
-        "name": "Scrap Heap",
-        "text": "After you discard one or more cards from an opponent's deck, you may exhaust this support to gain 1 resource."
+        "name": "Depósito de chatarra",
+        "text": "Después de que descartes una o más cartas del mazo de un adversario, puedes agotar este Apoyo para recibir 1 recurso."
     },
     {
         "code": "05166",
-        "name": "Bodyguard",
-        "text": "Non-unique character only.\nAttached character has the Guardian keyword."
+        "name": "Guardaespaldas",
+        "text": "Sólo Personaje que no sea único.\nEl Personaje vinculado posee la palabra clave Guardián."
     },
     {
         "code": "05167",
@@ -893,8 +893,8 @@
     },
     {
         "code": "05168",
-        "name": "Espionage",
-        "text": "After setup, discard the top card from each deck."
+        "name": "Espionaje",
+        "text": "Después de la preparación de la partida, descarta la primera carta de cada mazo."
     },
     {
         "code": "05169",
@@ -908,8 +908,8 @@
     },
     {
         "code": "05171",
-        "name": "Profitable Connection",
-        "text": "You start the game with 1 additional resource."
+        "name": "Acuerdo beneficioso",
+        "text": "Empiezas la partida con 1 recurso adicional."
     },
     {
         "code": "05172",
@@ -947,9 +947,9 @@
     },
     {
         "code": "05178",
-        "name": "Outer Rim Outpost",
+        "name": "Asentamiento en el borde exterior",
         "subtitle": "Nal Hutta",
-        "text": "<b>Reclamar</b> - Gain 1 resource and draw a card."
+        "text": "<b>Reclamar</b> - Recibe 1 recurso y roba una carta."
     },
     {
         "code": "05179",
@@ -959,8 +959,8 @@
     },
     {
         "code": "05180",
-        "name": "Power Generator Trench",
-        "subtitle": "Death Star I",
-        "text": "<b>Reclamar</b> - Turn a die to any side."
+        "name": "Pozo del generador de energía",
+        "subtitle": "Estrella de la Muerte",
+        "text": "<b>Reclamar</b> - Gira un dado a cualquier cara."
     }
 ]
