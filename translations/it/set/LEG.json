@@ -128,8 +128,8 @@
     },
     {
         "code": "05022",
-        "name": "Rebel Traitor",
-        "text": "After you activate this character, you may force an opponent to activate one of their character as their next action this round, if able."
+        "name": "Traditore Ribelle",
+        "text": "Dopo che hai attivato questo personaggio, puoi obbligare 1 avversario ad attivare 1 suo personaggio come prossima azione in questo round, se possibile."
     },
     {
         "code": "05023",
@@ -214,8 +214,8 @@
     },
     {
         "code": "05037",
-        "name": "Obi-Wan Kenobi's Lightsaber",
-        "text": "Blue character only.\n[special] - Give attached character 1 shield. Deal unblockable damage to a character equal to the number of shields on attached character."
+        "name": "Spada Laser di Obi-Wan Kenobi",
+        "text": "Solo personaggi Blu.\n[special] - Fornisci 1 scudo al personaggio con questa miglioria. Infliggi a un personaggio un ammontare di danni diretti pari al numero di scudi sul personaggio con questa miglioria."
     },
     {
         "code": "05038",
@@ -255,8 +255,8 @@
     },
     {
         "code": "05044",
-        "name": "Camouflaged Rifle",
-        "text": "[special] - Deal 2 damage to a character, or 3 damage instead if you control the battlefield."
+        "name": "Fucile Mimetico",
+        "text": "[special] - Infliggi 2 danni a un personaggio (3 danni se controlli il campo di battaglia)."
     },
     {
         "code": "05045",
@@ -320,9 +320,9 @@
     },
     {
         "code": "05055",
-        "flavor": "These ships were painted red when used to transport diplomats as a warning not to attack.",
-        "name": "Republic Cruiser",
-        "text": "[special] - Give a unique character 2 shields or give each of your unique characters 1 shield."
+        "flavor": "Queste navi venivano verniciate in rosso quando trasportavano diplomatici, per indicare di non attaccare.",
+        "name": "Incrociatore della Repubblica",
+        "text": "[special] - Fornisci 2 scudi a un personaggio unico oppure fornisci 1 scudo a ogni tuo personaggio unico."
     },
     {
         "code": "05056",
@@ -346,8 +346,8 @@
     },
     {
         "code": "05060",
-        "name": "Ground Battalion",
-        "text": "After you activate this support, you may take control of the battlefield. <em>(This does not claim the battlefield.)</em>"
+        "name": "Battaglione Terrestre",
+        "text": "Dopo che hai attivato questo supporto puoi prendere il controllo del campo di battaglia <em>(senza rivendicarlo)</em>."
     },
     {
         "code": "05061",
@@ -356,8 +356,8 @@
     },
     {
         "code": "05062",
-        "flavor": "Sometimes the best tactic is to not aim.",
-        "name": "Auto Cannon"
+        "flavor": "A volte la tattica migliore è non mirare.",
+        "name": "Cannone Automatico"
     },
     {
         "code": "05063",
@@ -476,8 +476,8 @@
     },
     {
         "code": "05085",
-        "name": "Crush the Rebellion",
-        "text": "Remove a die showing damage ([ranged], [melee] or [indirect]). Then deal indirect damage ([indirect]) to an opponent equal to half of the value showing on that die, rounded up."
+        "name": "Schiacciare la Ribellione",
+        "text": "Rimuovi 1 dado \"danno\" ([ranged], [melee] o [indirect]). Poi infliggi un ammontare di danni secondari ([indirect]) pari alla metà del valore di quel dado (arrotondando per eccesso) a un avversario."
     },
     {
         "code": "05086",
@@ -517,8 +517,8 @@
     },
     {
         "code": "05093",
-        "name": "Free-For-All",
-        "text": "Remove any number of your dice. Then deal indirect damage ([indirect]) to an opponent equal to the number of dice you just removed."
+        "name": "Tutti Contro Tutti",
+        "text": "Rimuovi un qualsiasi numero di tuoi dadi. Poi infliggi un ammontare di danni secondari ([indirect]) pari al numero di dadi che hai appena rimosso a un avversario."
     },
     {
         "code": "05094",
@@ -582,8 +582,8 @@
     },
     {
         "code": "05106",
-        "name": "Defensive Teaching",
-        "text": "Each of your Blue characters can have 1 additional shield."
+        "name": "Insegnamenti Difensivi",
+        "text": "Ogni tuo perosnaggio Blu può possedere 1 scudo aggiuntivo."
     },
     {
         "code": "05107",
@@ -602,8 +602,8 @@
     },
     {
         "code": "05110",
-        "name": "Final Moment",
-        "text": "Ready each of your characters. After the action phase ends, you lose the game."
+        "name": "Momento Finale",
+        "text": "Ripristina ogni tuo personaggio. Dopo che la fase azione è terminata, perdi la partita."
     },
     {
         "code": "05111",
@@ -763,8 +763,8 @@
     },
     {
         "code": "05142",
-        "name": "Sudden Impact",
-        "text": "Remove one of your dice showing damage ([ranged],[melee], or [indirect]). Then deal damage to each of an opponent's characters equal to half of the value showing on that die, rounded up."
+        "name": "Impatto Improvviso",
+        "text": "Rimuovi 1 tuo dado \"danno\" ([ranged],[melee], o [indirect]). Poi infliggi un ammontare di danni pari alla metà del valore di quel dado (arrotondando per eccesso) a ogni personaggio di un avversario."
     },
     {
         "code": "05143",
