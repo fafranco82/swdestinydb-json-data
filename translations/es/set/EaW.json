@@ -807,7 +807,7 @@
         "code": "03150",
         "flavor": "Al tener que hacer frente a un adversario demasiado poderoso, la precisión suele prevalecer ante la fuerza bruta.",
         "name": "Hendir",
-        "text": "Descarta del juego un Apoyo o Mejora con un coste igual o superior a 0."
+        "text": "Descarta del juego un Apoyo o Mejora con un coste igual a 0."
     },
     {
         "code": "03151",
