@@ -20,12 +20,20 @@
         "name": "Equipment"
     },
     {
+        "code": "gungan",
+        "name": "Gungan"
+    },
+    {
         "code": "jawa",
         "name": "Jawa"
     },
     {
         "code": "jedi",
         "name": "Jedi"
+    },
+    {
+        "code": "leader",
+        "name": "Leader"
     },
     {
         "code": "location",
@@ -38,6 +46,10 @@
     {
         "code": "scoundrel",
         "name": "Scoundrel"
+    },
+    {
+        "code": "sith",
+        "name": "Sith"
     },
     {
         "code": "spectre",
@@ -62,21 +74,5 @@
     {
         "code": "witch",
         "name": "Witch"
-    },
-    {
-        "code": "sith",
-        "name": "Sith"
-    },
-    {
-        "code": "leader",
-        "name": "Leader"
-    },
-    {
-        "code": "gungan",
-        "name": "Gungan"
-    },
-    {
-        "code": "artillery",
-        "name": "Artillery"
     }
 ]
