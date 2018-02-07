@@ -914,7 +914,7 @@
         ],
         "subtitle": "Wizened Master",
         "subtype_code": "jedi",
-        "text": "[special]- Choose and do two of the following: gain 1 resource, give a characeter 1 shield, turn one of your dice to any side, or dicard the top card of a deck.",
+        "text": "[special]- Choose and do two of the following: gain 1 resource, give a character 1 shield, turn one of your dice to any side, or discard the top card of a deck.",
         "ttscardid": "46921",
         "type_code": "character"
     },
