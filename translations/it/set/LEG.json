@@ -67,10 +67,10 @@
     },
     {
         "code": "05012",
-        "flavor": "\"Fear will keep the local systems in line.\"",
+        "flavor": "\"La paura terrà in buon ordine i sistemi locali.\"",
         "name": "Tarkin",
-        "subtitle": "Grand Moff",
-        "text": "<b>Azione Straordinaria</b> - Remove 2 of your dice showing the same symbol to deal 4 indirect damage ([indirect]) to an opponent."
+        "subtitle": "Gran Moff",
+        "text": "<b>Azione Straordinaria</b> - Rimuovi 2 tuoi dadi con lo stesso simbolo per infliggere 4 danni secondari ([indirect]) a un avversario."
     },
     {
         "code": "05013",
@@ -115,9 +115,9 @@
     },
     {
         "code": "05020",
-        "name": "Doctor Aphra",
-        "subtitle": "Artifact Hunter",
-        "text": "The cost of the first <i>droid</i> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card."
+        "name": "Dottoressa Aphra",
+        "subtitle": "Cacciatrice di Artefatti",
+        "text": "Riduci di 1 il costo del primo <i>Droide</i> che giochi ogni round.\n Dopo che hai inflitto danni secondari ([indirect]) a te stesso, puoi pescare 1 carta."
     },
     {
         "code": "05021",
@@ -197,9 +197,9 @@
     },
     {
         "code": "05034",
-        "flavor": "The ETA-2 Interceptor was the starfighter of choice of Jedi during the Clone Wars.",
-        "name": "ETA-2 Interceptor",
-        "text": "<b>Azione</b> - Remove this die or one of your dice showing a shield ([shield]) to exhaust a support."
+        "flavor": "L'intercettore ETA-2 era l'astrocaccia di ordinanza dei Jedi durante le guerre dei Cloni.",
+        "name": "Intercettore ETA-2",
+        "text": "<b>Azione</b> - Rimuovi questo dado o 1 tuo dado \"scudo\" ([shield]) per esaurire un supporto."
     },
     {
         "code": "05035",
@@ -245,8 +245,8 @@
     },
     {
         "code": "05042",
-        "name": "Mortar Team",
-        "text": "While you control the battlefield, you may resolve the indirect damage ([indirect]) sides of this die as if they were ranged damage ([ranged])."
+        "name": "Squadra Mortaio",
+        "text": "Finché controlli il campo di battaglia, puoi risolvere le facce \"danno secondario\" ([indirect]) di questo dado come se fossero \"danno a distanza\" ([ranged])."
     },
     {
         "code": "05043",
@@ -396,7 +396,7 @@
     {
         "code": "05069",
         "name": "Vibrocutlass",
-        "text": "Redeploy.\nDecrease the resource cost on this die by 1 while this upgrade is on a Yellow character."
+        "text": "Riposizionamento.\nFinché questa miglioria è assegnata a un personaggio Giallo, riduci di 1 il costo in risorse di questo dado."
     },
     {
         "code": "05070",
@@ -405,8 +405,8 @@
     },
     {
         "code": "05071",
-        "name": "Canto Bight Pistol",
-        "text": "Redeploy.\n[special] - Deal 2 damage to a character, or 3 damage instead if it is a villain."
+        "name": "Pistola di Canto Bight",
+        "text": "Riposizionamento.\n[special] - Infliggi 2 danni a un personaggio (3 danni se quel personaggio è un malvagio)."
     },
     {
         "code": "05072",
@@ -462,7 +462,7 @@
     {
         "code": "05082",
         "name": "Magia delle Streghe",
-        "text": "Rivela 3 carte dalla cima del tuo mazzo <em>(senza cambiarne l'ordine)</em>. Cura a un personaggio un ammontare di danni pari al numero di carte dal costo pari al numero di carte dal costo dispari appena rivelato."
+        "text": "Rivela 3 carte dalla cima del tuo mazzo <em>(senza cambiarne l'ordine)</em>. Cura a un personaggio un ammontare di danni pari al numero di carte dal costo dispari che hai appena rivelato."
     },
     {
         "code": "05083",
@@ -486,8 +486,8 @@
     },
     {
         "code": "05087",
-        "name": "Scorched Earth",
-        "text": "Play only if you control the battlefield.\nDeal indirect damage ([indirect]) to an opponent equal to the number of dice in their pool."
+        "name": "Terra Bruciata",
+        "text": "Gioca questa carta solo se controlli il campo di battaglia.\nInfliggi a un avversario un ammontare di danni secondari ([indirect]) pari al numero di dadi nella sua riserva."
     },
     {
         "code": "05088",
@@ -496,8 +496,8 @@
     },
     {
         "code": "05089",
-        "name": "Target Practice",
-        "text": "Reroll any number of your Red dice. Then reroll any number of your Red dice."
+        "name": "Tiro al Bersaglio",
+        "text": "Ripeti il tiro di un qualsiasi numero di tuoi dadi rossi. Poi ripeti il tiro di un qualsiasi numero di tuoi dadi rossi."
     },
     {
         "code": "05090",
@@ -713,8 +713,8 @@
     },
     {
         "code": "05132",
-        "name": "Stronger You Have Become",
-        "text": "Count the number of upgrades you have in play. Reroll up to that many dice <em>(yours and/or your opponents')</em>."
+        "name": "Più forte sei diventato",
+        "text": "Conta il numero di migliorie che hai in gioco. Ripeti il tiro di un ammontare di dadi <em>(tuoi o dei tuoi avversari)</em> pari o inferiore a quel momento."
     },
     {
         "code": "05133",
@@ -858,8 +858,8 @@
     },
     {
         "code": "05161",
-        "name": "No Cheating",
-        "text": "Deal damage to an opponent's character equal to the number of additional actions that opponent took during their last turn this round."
+        "name": "Vietato Imbrogliare",
+        "text": "Infliggi a un personaggio di un avversario un ammontare di danni pari al numero di azioni aggiuntive che quell'avversario ha effettuato durante il suo ultimo turno in questo round."
     },
     {
         "code": "05162",
@@ -883,8 +883,8 @@
     },
     {
         "code": "05166",
-        "name": "Bodyguard",
-        "text": "Non-unique character only.\nAttached character has the Guardian keyword."
+        "name": "Guardia del Corpo",
+        "text": "Solo personaggi non unici.\nIl personaggio con questa miglioria possiede la parola chiave Protezione."
     },
     {
         "code": "05167",
