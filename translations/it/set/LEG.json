@@ -53,17 +53,17 @@
     },
     {
         "code": "05010",
-        "flavor": "\"Face me!\"",
+        "flavor": "\"Affrontami!\"",
         "name": "Kallus",
-        "subtitle": "Agent of the Empire",
-        "text": "<b>Azione Straordinaria</b> - Turn this die showing ranged damage ([ranged]) to a side showing melee damage ([melee]), or vice versa."
+        "subtitle": "Agente dell'Impero",
+        "text": "<b>Azione Straordinaria</b> - Gira questo dado \"danno a distanza \" ([ranged]) su una faccia \"danno in mischia\" ([melee]), o viceversa."
     },
     {
         "code": "05011",
-        "flavor": "\"Ah, victory!\"",
+        "flavor": "\"Ah, vittoria!\"",
         "name": "Nute Gunray",
-        "subtitle": "Separatist Viceroy",
-        "text": "Each opponent gains 1 fewer resource during the upkeep phase, to a minimum of 1, unless that opponent discards the top 2 cards of their deck."
+        "subtitle": "Vicerè Separatista",
+        "text": "Durante la fase di gestione, ogni avversario ottiene 1 risorsa in meno (minimo 1) a meno che quell'avversario non scarti 2 carte dalla cima del suo mazzo."
     },
     {
         "code": "05012",
@@ -190,10 +190,10 @@
     },
     {
         "code": "05033",
-        "flavor": "\"Do. Or do not. There is not try.\"",
+        "flavor": "\"Fare. O Non Fare. Non c'è provare.\"",
         "name": "Yoda",
-        "subtitle": "Wizened Master",
-        "text": "[special]- Choose and do two of the following: gain 1 resource, give a characeter 1 shield, turn one of your dice to any side, or dicard the top card of a deck."
+        "subtitle": "Maestro Venerando",
+        "text": "[special]- Scegli e risolvi due effetti tra: ottieni 1 risorsa; fornisci 1 scudo a un personaggio; gira 1 tuo su una faccia a tua scelta; scarta 1 carta dalla cima di 1 mazzo."
     },
     {
         "code": "05034",
@@ -341,8 +341,8 @@
     },
     {
         "code": "05059",
-        "name": "Hush-98 Comlink",
-        "text": "<b>Azione</b> - Remove this die to activate any number of your characters and/or supports in the order of your choice."
+        "name": "Comlink Hush-98",
+        "text": "<b>Azione</b> - Rimuovi questo dado per attivare un qualsiasi numero di tuoi personaggi e/o supporti nell'ordine che preferisci."
     },
     {
         "code": "05060",
@@ -390,8 +390,8 @@
     },
     {
         "code": "05068",
-        "name": "Gang Up",
-        "text": "X is equal to the number of Yellow characters you have in play."
+        "name": "Assalto di Gruppo",
+        "text": "X è pari al numero di personaggi gialli che hai in gioco."
     },
     {
         "code": "05069",
@@ -446,8 +446,8 @@
     },
     {
         "code": "05079",
-        "name": "I Am Your Father",
-        "text": "Resolve an opponent's character die as if it were your own unless that opponent discards all cards from their hand."
+        "name": "Io Sono Tuo Padre",
+        "text": "Risolvi 1 dado personaggio di un avversario come se fosse tuo, a meno che quell'avversario non scarti tute le carte dalla sua mano."
     },
     {
         "code": "05080",
