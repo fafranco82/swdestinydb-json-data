@@ -13,7 +13,8 @@
                 "SoR",
                 "EaW",
                 "TPG",
-                "LEG"
+                "LEG",
+                "RIV"
             ]
         },
         "name": "Standard"
@@ -26,7 +27,8 @@
             },
             "sets": [
                 "TPG",
-                "LEG"
+                "LEG",
+                "RIV"
             ]
         },
         "name": "Trilogy"
@@ -45,7 +47,8 @@
                 "SoR",
                 "EaW",
                 "TPG",
-                "LEG"
+                "LEG",
+                "RIV"
             ]
         },
         "name": "Infinite"
