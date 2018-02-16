@@ -1,8 +1,8 @@
 [
     {
         "code": "05001",
-        "name": "Dark Advisor",
-        "text": "[special] - Draw 3 cards. Then place a card from your hand on the top or bottom of your deck."
+        "name": "Consigliere Oscuro",
+        "text": "[special] - Pesca 3 carte. Poi colloca 1 carta dalla tua mano in cima o in fondo al tuo mazzo."
     },
     {
         "code": "05002",
@@ -172,7 +172,7 @@
     {
         "code": "05030",
         "name": "Jedi Temple Guard",
-        "text": "Guardian."
+        "text": "Protezione."
     },
     {
         "code": "05031",
@@ -183,10 +183,10 @@
     },
     {
         "code": "05032",
-        "flavor": "\"Your move\"",
+        "flavor": "\"A te la mossa.\"",
         "name": "Obi-Wan Kenobi",
-        "subtitle": "Jedi Master",
-        "text": "After you activate this character, you may give a character 1 shield."
+        "subtitle": "Maestro Jedi",
+        "text": "Dopo aver attivato questo personaggio, puoi fornire 1 scudo a un personaggio."
     },
     {
         "code": "05033",
@@ -291,10 +291,10 @@
     },
     {
         "code": "05050",
-        "flavor": "\"There's just something about the feeling of their helmets on my fists.\"",
+        "flavor": "\"Non resisto alla sensazione dei loro caschi sotto ai miei pugni.\"",
         "name": "Zeb Orrelios",
-        "subtitle": "The Last Lasat",
-        "text": "You may resolve the melee damage ([melee]) sides of this die as if they were ranged damage ([ranged])."
+        "subtitle": "L'Ultimo Lasat",
+        "text": "Puoi risolvere le facce \"danno in mischia\" ([melee]) di questo dado come se fossero \"danno a distanza\" ([ranged])."
     },
     {
         "code": "05051",
@@ -361,9 +361,9 @@
     },
     {
         "code": "05063",
-        "flavor": "Standard issue for Imperial stormtroopers, the E-11 blaster was often found in rebel hands.",
-        "name": "E-11 Blaster",
-        "text": "Redeploy."
+        "flavor": "Il blaster E-11, l'arma d'ordinanza degli assaltatori Imperiali, finiva spesso nelle mani dei Ribelli.",
+        "name": "Blaster E-11",
+        "text": "Riposizionamento."
     },
     {
         "code": "05064",
@@ -637,8 +637,8 @@
     },
     {
         "code": "05117",
-        "name": "Easy Pickings",
-        "text": "Spot a Yellow character to remove 2 dice showing the same symbol and value <em>(ignoring modifiers and resource costs)</em>."
+        "name": "Prede Facili",
+        "text": "Avvista un personaggio Giallo per rimuovere 2 dadi con lo stesso simbolo e lo stesso valore <em>(ignorando i modificatori e i costi in risorse)</em>."
     },
     {
         "code": "05118",
@@ -908,8 +908,8 @@
     },
     {
         "code": "05171",
-        "name": "Profitable Connection",
-        "text": "You start the game with 1 additional resource."
+        "name": "Contatto Proficuo",
+        "text": "Inizia la partita con 1 risorsa aggiuntiva."
     },
     {
         "code": "05172",
@@ -918,8 +918,8 @@
     },
     {
         "code": "05173",
-        "name": "Taking Ground",
-        "text": "Add 2 to the value of your roll for the battlefield during setup."
+        "name": "Controllo Del Territorio",
+        "text": "Durante la fase di preparazione, aumenta di 2 il valore del tuo tiro per il campo di battaglia."
     },
     {
         "code": "05174",
@@ -959,8 +959,8 @@
     },
     {
         "code": "05180",
-        "name": "Power Generator Trench",
-        "subtitle": "Death Star I",
-        "text": "<b>Rivendicazione</b> - Turn a die to any side."
+        "name": "Canalone del Generatore",
+        "subtitle": "Morte Nera I",
+        "text": "<b>Rivendicazione</b> - Gira 1 dado su una faccia a tua scelta."
     }
 ]
