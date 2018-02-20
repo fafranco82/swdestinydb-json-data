@@ -231,10 +231,10 @@
     },
     {
         "code": "05040",
-        "flavor": "\"I work behind pipes all day.\"",
+        "flavor": "\"Lavoro in mezzo ai tubi tutto il giorno.\"",
         "name": "Rose",
-        "subtitle": "Skilled Mechanic",
-        "text": "[special] - Gain 1 resource. You may remove 1 damage from a support."
+        "subtitle": "Abile Riparatrice",
+        "text": "[special] - Ottieni 1 risorsa. Puoi rimuovere 1 danno da un supporto."
     },
     {
         "code": "05041",
@@ -351,8 +351,8 @@
     },
     {
         "code": "05061",
-        "name": "Lookout Post",
-        "text": "Play only if you control the battlefield."
+        "name": "Postazione Di Vedetta",
+        "text": "Gioca questa carta solo se controlli il campo di battaglia."
     },
     {
         "code": "05062",
@@ -587,8 +587,8 @@
     },
     {
         "code": "05107",
-        "name": "Yoda's Hut",
-        "text": "<b>Azione</b> - Exhaust this support to give a character 1 shield. Gain 1 resource if that character has 3 or more shields."
+        "name": "Capanna di Yoda",
+        "text": "<b>Azione</b> - Esaurisci questo supporto per fornire 1 scudo a un personaggio. Se quel personaggio possiede 3 o più scudi, ottieni 1 risorsa."
     },
     {
         "code": "05108",
@@ -612,8 +612,8 @@
     },
     {
         "code": "05112",
-        "name": "Mend",
-        "text": "Heal 3 damage from a character or remove 3 damage from a support."
+        "name": "Intervento Riparatore",
+        "text": "Cura 3 danni a un personaggio o rimuovi 3 danni da un supporto."
     },
     {
         "code": "05113",
@@ -903,8 +903,8 @@
     },
     {
         "code": "05170",
-        "name": "Preemptive Strike",
-        "text": "After setup, deal 2 indirect damage ([indirect]) to an opponent."
+        "name": "Attacco Preventivo",
+        "text": "Dopo la preparazione, infliggi 2 danni secondari ([indirect]) a un avversario."
     },
     {
         "code": "05171",
