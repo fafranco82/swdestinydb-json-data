@@ -27,8 +27,8 @@
     },
     {
         "code": "05005",
-        "name": "Kylo Ren's Starfighter",
-        "text": "[special] - Choose a color. Then reveal an opponent's hand and deal indirect damage ([indirect]) to them equal to the number of cards in their hand that match the chosen color."
+        "name": "Astrocaccia di Kylo Ren",
+        "text": "[special] - Scegli un colore. Poi rivela la mano di un avversario e infliggi a quell'avversario un ammontare di danni secondari ([indirect]) pari al numero di carte del colore scelto nella sua mano."
     },
     {
         "code": "05006",
@@ -37,8 +37,8 @@
     },
     {
         "code": "05007",
-        "name": "Force Rend",
-        "text": "Blue character only.\n[special] - Spend resources equal to the cost of a support or upgrade in play to discard it."
+        "name": "Distruzione di Forza",
+        "text": "Solo personaggi Blu.\n[special] - Spendi un ammontare di risorse pari al costo di 1 carta supporto o miglioria in gioco per scartarla."
     },
     {
         "code": "05008",
@@ -79,9 +79,9 @@
     },
     {
         "code": "05014",
-        "flavor": "A heavy transport starship used by the Trade Federation for transporting and deploying droid battalions planet side.",
-        "name": "Separatist Landing Craft",
-        "text": "[special] - Spend 2 resources to add a Battle Droid ([LEG]9) to your team. Discard this support from play."
+        "flavor": "Un'astronave da trasporto pesante usata dalla Federazione dei Mercanti per schierare i battaglioni di droidi sulla superficie di un pianeta.",
+        "name": "Nave Da Sbarco Separatista",
+        "text": "[special] - Spendi 2 risorse per aggiungere 1 Droide da Battaglia ([LEG]9) alla tua squadra. Scarta questo supporto dal gioco."
     },
     {
         "code": "05015",
@@ -96,15 +96,15 @@
     },
     {
         "code": "05017",
-        "name": "Kallus' Bo-Rifle",
+        "name": "Fucile-Bo di Kallus",
         "text": "Imboscata."
     },
     {
         "code": "05018",
         "flavor": "\"Nudd Chaa.\"",
         "name": "Bib Fortuna",
-        "subtitle": "Majordomo",
-        "text": "[special] - Roll a character die on one of your other characters into your pool."
+        "subtitle": "Maggiordomo",
+        "text": "[special] - Tira 1 dado personaggio di un altro tuo personaggio nella tua riserva."
     },
     {
         "code": "05019",
@@ -226,8 +226,8 @@
     {
         "code": "05039",
         "name": "Finn",
-        "subtitle": "Soldier of Necessity",
-        "text": "[special] - Move 1 damage from a card to another card in play <em>(this ignores shields)</em>."
+        "subtitle": "Arruolato a Viva Forza",
+        "text": "[special] - Sposta 1 danno da una carta a un'altra carta in gioco <em>(ignorando gli scudi)</em>."
     },
     {
         "code": "05040",
@@ -250,8 +250,8 @@
     },
     {
         "code": "05043",
-        "name": "Resistance Bomber",
-        "text": "After this die is resolved, place 1 damage on this support.\nDiscard this support if it has 3 or more damage on it."
+        "name": "Bombardiere Della Resistenza",
+        "text": "Dopo che questo dado è stato risolto, colloca 1 danno su questo supporto.\nSe questo supporto possiede 3 o più danni, scartalo."
     },
     {
         "code": "05044",
@@ -260,8 +260,8 @@
     },
     {
         "code": "05045",
-        "name": "Rebellion Leader",
-        "text": "Unique Red character only.\n<b>Azione Straordinaria</b> - Remove an opponent's die showing the same symbol as one of your dice."
+        "name": "Leader Della Ribellione",
+        "text": "Solo personaggi Rossi unici.\n<b>Azione Straordinaria</b> - Rimuovi 1 dado di un avversario con lo stesso simbolo di un tuo dado."
     },
     {
         "code": "05046",
@@ -379,14 +379,14 @@
     },
     {
         "code": "05066",
-        "flavor": "\"But you know what I always say: speak softly, and drive a big tank.\" <cite>Hondo Ohnaka</cite>",
-        "name": "Pirate Speeder Tank",
-        "text": "[special] - Deal 2 damage to a character, give a character 2 shields, and take one additional action."
+        "flavor": "\"Ma come dico sempre io, parlare poco e mettere in moto un grosso carro.\" <cite>Hondo Ohnaka</cite>",
+        "name": "Carro Speeder Pirata",
+        "text": "[special] - Infliggi 2 danni a un personaggio, fornisci 2 scudi a un personaggio ed effettua 1 azione aggiuntiva."
     },
     {
         "code": "05067",
-        "name": "Bartering",
-        "text": "[special] - Gain 1 resource. You may force each player to draw a card."
+        "name": "Contrattare",
+        "text": "[special] - Ottieni 1 risorsa. Puoi obbligare ogni giocatore a pescare 1 carta."
     },
     {
         "code": "05068",
@@ -627,8 +627,8 @@
     },
     {
         "code": "05115",
-        "name": "Suppression Field",
-        "text": "Discard this support if it has 3 or more damage on it.\n<b>Azione</b> - Exhaust this support to remove a die showing damage ([ranged], [melee] or [indirect]). Place damage on this support equal to the value showing on that die."
+        "name": "Campo Di Soppressione",
+        "text": "Se questo supporto possiede 3 o più danni scartalo.\n<b>Azione</b> - Esaurisci questo supporto per rimuovere 1 dado \"danno\" ([ranged], [melee] or [indirect]). Colloca un ammontare di danni pari al valore di quel dado su questo supporto."
     },
     {
         "code": "05116",
@@ -728,8 +728,8 @@
     },
     {
         "code": "05135",
-        "name": "Resilient",
-        "text": "After an opponent's card effect removes one of attached character's character dice, you may exhaust this upgrade to roll that die into your pool."
+        "name": "Resilienza",
+        "text": "Dopo che l'effetto di una carta di un avversario ha rimosso 1 dado personaggio del personaggio con questa miglioria, puoi esaurire questa miglioria per tirare quel dado nella tua riserva."
     },
     {
         "code": "05136",
