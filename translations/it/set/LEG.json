@@ -23,7 +23,7 @@
         "flavor": "\"There is no mercy.\"",
         "name": "Palpatine",
         "subtitle": "Darth Sidious",
-        "text": "<b>Azione Straordinaria</b> - Play an event from your hand, decreasing its cost by the number of different damage symbols ([ranged], [melee] or [indirect]) showing on your dice."
+        "text": "<b>Azione Straordinaria</b> - Gioca un evento dalla tua mano, riducendo il suo costo di un ammontare pari al numero di simboli \"danno\" ([ranged], [melee] or [indirect]) diversi sui tuoi dadi."
     },
     {
         "code": "05005",
