@@ -2,111 +2,115 @@
     {
         "code": "06001",
         "name": "Anakin Skywalker",
-        "subtitle": "Conflicted Apprentice",
-        "text": "You cannot have Darth Vader on your team.\n[special] - Discard a hero card from your hand to give a character 2 shields or discard a villian card from your hand to deal 2 damage to a character."
+        "subtitle": "Apprendista Combattuto",
+        "text": "Non puoi includere Darth Vader nella tua squadra.\n[special] - Scarta 1 carta eroe dalla tua mano per fornire 2 scudi a un personaggio oppure scarta 1 carta malvagio dalla tua mano per infliggere 2 danni a un personaggio."
     },
     {
         "code": "06002",
+        "flavor": "Accetto le conseguenze delle mie scelte.",
         "name": "Lobot",
-        "subtitle": "Cyborg Aide",
-        "text": "While you control the battlefield, this character has the Guardian keyword.\n[special] - Resolve one of your dice, increasing its value by 2."
+        "subtitle": "Assistente Cyborg",
+        "text": "Finché controlli il campo di battaglia, questo personaggio possiede la parola chiave Protezione.\n[special] - Risolvi 1 tuo dado, aumentando di 2 il suo valore."
     },
     {
         "code": "06003",
+        "flavor": "Amica? Che termine generoso, considerato quello che è accaduto",
         "name": "Ketsu Onyo",
-        "subtitle": "Black Sun Operative",
-        "text": "Before one of your characters is defeated, you may move a <i>weapon</i> from them to this character."
+        "subtitle": "Agente del Sole Nero",
+        "text": "Prima che un tuo personaggio sia sconfitto, puoi spostare 1 <i>Arma</i> da quel personaggio a questo."
     },
     {
         "code": "06004",
-        "name": "Jawa Scavenger",
-        "text": "After you activate this character, you may discard one of your supports or upgrades that costs 2 or more from play to gain 1 resource."
+        "flavor": "\"Non li reggo proprio questi Jawa. Creature disgustose!\" <cite>C-3PO</cite>",
+        "name": "Jawa Saccheggiatore",
+        "text": "Dopo che hai attivato questo personaggio, puoi scartare dal gioco 1 tua carta supporto o miglioria dal costo pari o superiore a 2 per ottenere 1 risorsa."
     },
     {
         "code": "06005",
-        "flavor": "\"To defeat your enemy, you must know your enemy.\" <cite>Maul</cite>",
-        "name": "Hidden Motive",
-        "text": "Choose a symbol. Then reroll an opponent's die. If that die just rolled the chosen symbol, remove it."
+        "flavor": "\"Per sconfiggere il tuo nemico devi conoscere il tuo nemico.\" <cite>Maul</cite>",
+        "name": "Motivazioni Nascoste",
+        "text": "Scegli un simbolo. Poi ripeti il tiro di 1 dado di un avversario. Se il dado appena tirato ha ottenuto il simbolo scelto, rimuovilo."
     },
     {
         "code": "06006",
-        "name": "Crafted Lightsaber",
-        "text": "Play only on an exhasted character."
+        "name": "Spada Laser Artigianale",
+        "text": "Gioca questa carta solo su un personaggio esaurito."
     },
     {
         "code": "06007",
-        "flavor": "\"Stay on target!\" <cite>Gold Five</cite>",
-        "name": "Targeting Computer",
-        "text": "Turn a support or upgrade die to any side."
+        "flavor": "\"Stai sul bersaglio!\" <cite>Oro Cinque</cite>",
+        "name": "Computer D'Attacco",
+        "text": "Gira 1 dado supporto o miglioria su una faccia a tua scelta."
     },
     {
         "code": "06008",
-        "flavor": "Swift and highly maneuverable, this fighter was designed and flown by the Mandalorian Protectors.",
-        "name": "Fang Fighter",
+        "flavor": "Questo caccia, veloce e altamente manovrabile, era progettato e pilotati dai Protettori Mandaloriani.",
+        "name": "Caccia Fang",
         "text": "Ambush.\n"
     },
     {
         "code": "06009",
-        "name": "Tinker",
-        "text": "Turn one of your dice to a side showing a value of 1."
+        "name": "Modifiche Illegali",
+        "text": "Gira 1 tuo dado su una faccia di valore pari a 1."
     },
     {
         "code": "06010",
-        "flavor": "This projectile weapon uses magnetic field technology, making its operation nearly silent.",
-        "name": "Verpine Sniper Rifle",
-        "text": "[special] - Deal 2 unblockable damage to a character."
+        "flavor": "Quest'arma a proiettili fa uso di una tecnologia a campi elettromagnetici che le permette di sparare quasi senza fare alcun rumore.",
+        "name": "Fucile Da Cecchino Verpine",
+        "text": "[special] - Infliggi 2 danni diretti a un personaggio."
     },
     {
         "code": "06011",
-        "name": "Emulate",
-        "text": "Turn a character die to any side if there are 2 or more copies of that character in play."
+        "name": "Emulazione",
+        "text": "Se ci sono 2 o più copie di un personaggio in gioco, gira 1 suo dado personaggio su una faccia a tua scelta."
     },
     {
         "code": "06012",
-        "name": "Fight Back",
-        "text": "Remove one of your dice to remove a die showing damage ([ranged], [melee], or [indirect])."
+        "name": "Contrattacco",
+        "text": "Rimuovi 1 tuo dado per rimuovere 1 dado \"danno\" ([ranged], [melee], or [indirect])."
     },
     {
         "code": "06013",
-        "name": "Resourceful",
-        "text": "Spot a Gray character and remove one of your dice to gain 1 resource."
+        "name": "Intraprendenza",
+        "text": "Avvista un personaggio Grigio e rimuovi 1 tuo dado per ottenere 1 risorsa."
     },
     {
         "code": "06014",
-        "name": "Surprise Attack",
-        "text": "Resolve one of your dice showing damage ([ranged], [melee], or [indirect]), increasing its value by 1."
+        "name": "Attacco A Sorpresa",
+        "text": "Risolvi 1 tuo dado \"danno\" ([ranged], [melee], or [indirect]), aumentando di 1 il suo valore."
     },
     {
         "code": "06015",
-        "name": "Supply Pack",
-        "text": "<b>Action</b> - Exhaust this upgrade to reroll any number of attached character's character or upgrade dice."
+        "name": "Zaino Delle Scorte",
+        "text": "<b>Azione</b> - Esaurisci questa miglioria per ripetere il tiro di un qualsiasi numero di dadi personaggio o miglioria del personaggio con questa miglioria."
     },
     {
         "code": "06016",
-        "name": "T-21 Repeating Blaster",
-        "text": "[special] - Deal 2 damage to a character. Then you may reroll ths die instead of removing it from your pool."
+        "name": "Blaster A Ripetizione T-21",
+        "text": "[special] - Infliggi 2 danni a un personaggio. Poi puoi ripetere il tiro di questo dado invece di rimuoverlo dalla tua riserva."
     },
     {
         "code": "06017",
-        "name": "Vibrosword",
-        "text": "Redeploy."
+        "flavor": "Anche se pesanti e ingombranti, le vibrospade potevano essere brandite a una mano da alcune specie.",
+        "name": "Vibrospada",
+        "text": "Riposizionamento.\n."
     },
     {
         "code": "06018",
-        "flavor": "The Bespin Wing Guard patrolled Cloud City to enforce order.",
-        "name": "Bespin Wing Guard",
-        "text": "<b>Action</b> - Exhaust this support and spend 1 resource to force an opponent to choose and discard a card from their hand."
+        "flavor": "Le Guardie di Sicurezza di Bespin pattugliavano Cloud City per garantire l'ordine in città.",
+        "name": "Guardie Di Sicurezza Di Bespin",
+        "text": "<b>Azione</b> - Esaurisci questo supporto e spendi 1 risorsa per obbligare un avversario a scegliere e scartare 1 carta dalla tua mano."
     },
     {
         "code": "06019",
-        "name": "Dry Fields",
+        "name": "Campi Inariditi",
         "subtitle": "Atollon",
-        "text": "<b>Claim</b> - Gain 1 resource if you have no resources."
+        "text": "<b>Rivendicazione</b> - Se non possiedi risorse, ottieni 1 risorsa."
     },
     {
         "code": "06020",
-        "name": "Sith Temple",
+        "name": "Tempio Sith",
         "subtitle": "Malachor",
-        "text": "<b>Claim</b> - Remove one of your dice to deal 1 unblockable damage to a character."
+        "text": "<b>Rivendicazione</b> - Rimuovi 1 tuo dado per infliggere 1 danno diretto a un personaggio."
     }
 ]
