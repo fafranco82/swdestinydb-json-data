@@ -58,5 +58,15 @@
         "name": "Rivals",
         "position": 6,
         "size": 20
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "WotF",
+        "cycle_code": "LEG",
+        "date_release": null,
+        "name": "Way of the Force",
+        "position": 7,
+        "size": 160
     }
 ]
