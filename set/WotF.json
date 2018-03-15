@@ -25,6 +25,7 @@
         "subtitle": "Fearsome Cyborg",
         "subtype_code": "leader",
         "text": "Ignore all play restrictions on <i>weapons</i> played on this character. He can have one additional upgrade.\n<b>Power Action</b> - If 4 of this character's <i>weapon</i> dice are in your pool, deal 4 damage to a character.",
+        "ttscardid": "",
         "type_code": "character"
     },
     {
@@ -42,6 +43,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Spot 2 Red characters or General Grievous to roll all <i>weapon</i> dice on one of your characters into your pool.",
+        "ttscardid": "",
         "type_code": "event"
     },
     {
@@ -69,6 +71,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "<b>Power Action</b> - Spend 1 resource or spot General Grievous to ready this support.",
+        "ttscardid": "",
         "type_code": "support"
     },
     {
@@ -95,6 +98,7 @@
         ],
         "subtype_code": "ability",
         "text": "[special] - Deal 1 damage to an opponent's character. If that damage was not blocked, you may move an <i>equipment</i> or <i>weapon</i> from that character to another one of that opponent's characters.",
+        "ttscardid": "",
         "type_code": "upgrade"
     },
     {
@@ -121,6 +125,7 @@
         ],
         "subtype_code": "ability",
         "text": "[special] - Deal 1 indirect damage ([indirect]) to an opponent. You may resolve another one of your dice.",
+        "ttscardid": "",
         "type_code": "upgrade"
     },
     {
@@ -149,6 +154,7 @@
         "subtitle": "Reluctant Instructor",
         "subtype_code": "jedi",
         "text": "You may resolve the shield ([shield]) sides of this die as if they were melee damage ([melee]).\n<b>Power Action</b> - Move a Blue <i>ability</i> from this character to another Blue character.",
+        "ttscardid": "",
         "type_code": "character"
     },
     {
@@ -175,6 +181,7 @@
         ],
         "subtype_code": "equipment",
         "text": "While this upgrade is attached to Luke Skywalker, you may resole the melee damage ([melee]) sides of this die as if they were shields ([shield]).",
+        "ttscardid": "",
         "type_code": "upgrade"
     },
     {
@@ -204,6 +211,7 @@
         "subtitle": "Deathwatch Lieutenant",
         "subtype_code": "trooper",
         "text": "You can include Yellow villain upgrades in your deck.\n[special] - Deal 2 damage to a character, or 3 damage instead if this character has 1 or more villain upgrades.",
+        "ttscardid": "",
         "type_code": "character"
     },
     {
@@ -220,6 +228,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Each of your unique upgrades has the Redeploy keyword.\nAfter you play a unique upgrade, you may exhaust this plot to gain 1 resource.",
+        "ttscardid": "",
         "type_code": "plot"
     }
 ]
