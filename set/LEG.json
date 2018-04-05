@@ -203,7 +203,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "Andreas Zafiratos",
         "is_unique": true,
         "name": "Maul's Lightsaber",
@@ -219,7 +219,7 @@
             "-"
         ],
         "subtype_code": "weapon",
-        "text": "Blue character only.\n<b>Power Action</b> - If an opponent has no shields on all of their characters, roll this die into your pool.",
+        "text": "Blue character only.\n<b>Power Action</b> - If an opponent has no shields on all of their characters, spend 1 resource to roll this die into your pool.",
         "ttscardid": "47107",
         "type_code": "upgrade"
     },
