@@ -202,12 +202,14 @@
         "code": "03034",
         "flavor": "\"This party's over.\"",
         "name": "Mace Windu",
-        "subtitle": "Jedi Champion"
+        "subtitle": "Jedi Champion",
+        "text": "<b>Action</b> - Remove this die to defeat a character with 2 or less remaining health."
     },
     {
         "code": "03035",
         "flavor": "\"Look, good against remotes is one thing. Good against the living? That's something else.\" <cite>Han Solo</cite>",
-        "name": "Übungsdrohne"
+        "name": "Übungsdrohne",
+        "text": "You may resolve the modifier sides on this die to modify any symbol on one of your Blue character dice."
     },
     {
         "code": "03036",

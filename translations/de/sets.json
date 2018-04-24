@@ -4,15 +4,27 @@
         "name": "Erwachen"
     },
     {
-        "code": "SoR",
-        "name": "Geist der Rebellion"
-    },
-    {
         "code": "EaW",
         "name": "Imperium im Krieg"
     },
     {
+        "code": "LEG",
+        "name": "Legacies"
+    },
+    {
+        "code": "RIV",
+        "name": "Rivals"
+    },
+    {
+        "code": "SoR",
+        "name": "Geist der Rebellion"
+    },
+    {
         "code": "TPG",
         "name": "Starter-Set für 2 Spieler"
+    },
+    {
+        "code": "WotF",
+        "name": "Way of the Force"
     }
 ]

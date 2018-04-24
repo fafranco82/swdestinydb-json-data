@@ -16,6 +16,10 @@
         "name": "Fokussieren"
     },
     {
+        "code": "ID",
+        "name": "Indirect Damage"
+    },
+    {
         "code": "MD",
         "name": "Nahkampfschaden"
     },
