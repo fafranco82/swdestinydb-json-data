@@ -2,12 +2,12 @@
     {
         "code": "04001",
         "name": "Kylo Ren",
-        "subtitle": "Tormented One",
-        "text": "After you activate this character, you may choose a color <em>(Blue, Red, Yellow or Gray)</em>. Then reveal a random card in an opponent's hand. If that card matches the chosen color, deal 2 damage to a character."
+        "subtitle": "Gepeinigter",
+        "text": "Nachdem du diesen Charakter aktiviert hast, darfst du eine Farbe wählen <em>(Blau, Rot, Gelb oder Grau)</em>. Decke dann eine zufällige Karte von der Hand eines Gegners auf. Falls die Karte mit der gewählten Farbe übereinstimmt, füge einem Charakter 2 Schaden zu."
     },
     {
         "code": "04002",
-        "flavor": "\"You can't be so stupid as to think this will be easy.\"",
+        "flavor": "\"Ihr könnt nicht so dumm sein und glauben das wäre leicht.\"",
         "name": "Captain Phasma",
         "subtitle": "Rücksichtslose Taktikerin",
         "text": "[special] - Füge einem Charakter 2 Schaden zu oder stattdessen 3 Schaden, falls jener Charakter 6 oder mehr Schaden auf sich hat."

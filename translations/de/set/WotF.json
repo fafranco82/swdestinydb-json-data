@@ -1,0 +1,53 @@
+[
+    {
+        "code": "07021",
+        "name": "General Grievous",
+        "subtitle": "Fearsome Cyborg",
+        "text": "Ignore all play restrictions on <i>weapons</i> played on this character. He can have one additional upgrade.\n<b>Power Action</b> - If 4 of this character's <i>weapon</i> dice are in your pool, deal 4 damage to a character."
+    },
+    {
+        "code": "07023",
+        "flavor": "\"How does it feel to die?\" <cite>General Grievous</cite>",
+        "name": "Furious Assault",
+        "text": "Spot 2 Red characters or General Grievous to roll all <i>weapon</i> dice on one of your characters into your pool."
+    },
+    {
+        "code": "07031",
+        "flavor": "\"I'll enjoy crushing you!\" <cite>General Grievous</cite>",
+        "name": "General Grievous' Wheel Bike",
+        "text": "<b>Power Action</b> - Spend 1 resource or spot General Grievous to ready this support."
+    },
+    {
+        "code": "07051",
+        "name": "Formidable",
+        "text": "[special] - Deal 1 damage to an opponent's character. If that damage was not blocked, you may move an <i>equipment</i> or <i>weapon</i> from that character to another one of that opponent's characters."
+    },
+    {
+        "code": "07052",
+        "name": "Underhanded Tactics",
+        "text": "[special] - Deal 1 indirect damage ([indirect]) to an opponent. You may resolve another one of your dice."
+    },
+    {
+        "code": "07056",
+        "name": "Luke Skywalker",
+        "subtitle": "Reluctant Instructor",
+        "text": "You may resolve the shield ([shield]) sides of this die as if they were melee damage ([melee]).\n<b>Power Action</b> - Move a Blue <i>ability</i> from this character to another Blue character."
+    },
+    {
+        "code": "07069",
+        "name": "Luke Skywalker's Lightning Rod",
+        "text": "While this upgrade is attached to Luke Skywalker, you may resole the melee damage ([melee]) sides of this die as if they were shields ([shield])."
+    },
+    {
+        "code": "07089",
+        "flavor": "\"You ever use one of these before?\"",
+        "name": "Bo-Katan Kryze",
+        "subtitle": "Deathwatch Lieutenant",
+        "text": "You can include Yellow villain upgrades in your deck.\n[special] - Deal 2 damage to a character, or 3 damage instead if this character has 1 or more villain upgrades."
+    },
+    {
+        "code": "07115",
+        "name": "Built to Last",
+        "text": "Each of your unique upgrades has the Redeploy keyword.\nAfter you play a unique upgrade, you may exhaust this plot to gain 1 resource."
+    }
+]

@@ -12,6 +12,10 @@
         "name": "Ereignis"
     },
     {
+        "code": "plot",
+        "name": "Strategie"
+    },
+    {
         "code": "support",
         "name": "Unterstützung"
     },

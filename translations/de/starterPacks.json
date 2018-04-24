@@ -13,5 +13,15 @@
         "code": "TPG",
         "name": "Starter-Set für 2 Spieler",
         "set_code": "TPG",
+    },
+    {
+        "code": "LEG-H",
+        "name": "Luke Skywalker Starter-Set",
+        "set_code": "LEG",
+    },
+    {
+        "code": "LEG-V",
+        "name": "Boba Fett Starter-Set",
+        "set_code": "LEG",
     }
 ]
