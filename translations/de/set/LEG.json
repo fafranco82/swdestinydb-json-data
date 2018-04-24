@@ -32,8 +32,8 @@
     },
     {
         "code": "05006",
-        "name": "Crystal Ball",
-        "text": "After you activate attached character, you may look at the top card of a deck."
+        "name": "Kristallkugel",
+        "text": "Nachdem du den aufgewerteten Charakter aktiviert hast, darfst du die oberste Karte eines Decks ansehen."
     },
     {
         "code": "05007",
@@ -42,8 +42,8 @@
     },
     {
         "code": "05008",
-        "name": "Maul's Lightsaber",
-        "text": "Blue character only.\n<b>Power Action</b> - If an opponent has no shields on all of their characters, spend 1 resource to roll this die into your pool."
+        "name": "Mauls Lichtschwert",
+        "text": "Nur blaue Charaktere.\n<b>Mächtige Aktion</b> - Falls ein Gegner auf keinem seiner Charaktere Schilde hat, gib 1 Ressource aus, wirf diesen Würfel und lege ihn in deinen Pool."
     },
     {
         "code": "05009",
@@ -160,7 +160,7 @@
     {
         "code": "05028",
         "name": "BB-9E",
-        "text": "[special] - Reroll an opponent's die. Reroll this die instead of removing it from your pool."
+        "text": "[special] - Wirf einen gegnerischen Würfel neu. Wirf diesen Würfel neu, anstatt ihn aus deinem Pool zu entfernen."
     },
     {
         "code": "05029",
@@ -176,10 +176,10 @@
     },
     {
         "code": "05031",
-        "flavor": "\"I want to learn the ways of the Force and become a Jedi like my father.\"",
+        "flavor": "\"Ich will mich mit der Macht vertraut machen und ein Jedi wie mein Vater werden.\"",
         "name": "Luke Skywalker",
-        "subtitle": "Unlikely Hero",
-        "text": "<b>Power Action</b> - Spend 2 resources to resolve one of this character's character or upgrade dice, increasing its value by 2."
+        "subtitle": "Ungewöhnlicher Held",
+        "text": "<b>Mächtige Aktion</b> - Gib 2 Ressourcen aus, um 1 der Charakter- oder Aufwertungswürfel dieses Charakters abzuhandeln und seinen Wert dabei um 2 zu erhöhen."
     },
     {
         "code": "05032",
@@ -203,9 +203,9 @@
     },
     {
         "code": "05035",
-        "flavor": "\"I've never seen a jam he couldn't beep his way out of.\" <cite>Leia Organa</cite>",
+        "flavor": "\"Ich habe noch keinen Schlamassel erlebt, aus dem er sich nicht herauspiepsen konnte.\" <cite>Leia Organa</cite>",
         "name": "R2-D2",
-        "text": "[special] - Draw a card. You may turn one of your dice to any side."
+        "text": "[special] - Ziehe eine Karte. Du darfst 1 deiner Würfel auf eine beliebige Seite drehen."
     },
     {
         "code": "05036",
@@ -265,10 +265,10 @@
     },
     {
         "code": "05046",
-        "flavor": "\"Hokey religions and ancient weapons are no match for a good blaster at your side, kid.\"",
+        "flavor": "\"Antiquierte Waffen und Religionen können es nicht mit einer guten Laserkanone aufnehmen.\"",
         "name": "Han Solo",
-        "subtitle": "Savvy Smuggler",
-        "text": "After you activate this character, you may reroll a die <em>(yours or an opponent's)</em>."
+        "subtitle": "Gerissener Schmuggler",
+        "text": "Nachdem du diesen Charakter aktiviert hast, darfst du einen Würfel neu werfen <em>(einen eigenen oder einen gegnerischen)</em>."
     },
     {
         "code": "05047",
@@ -303,9 +303,9 @@
     },
     {
         "code": "05052",
-        "flavor": "\"Chewie… we're home.\" <cite>Han Solo</cite>",
-        "name": "Millennium Falcon",
-        "text": "After to activate this support, you may activate one of your characters."
+        "flavor": "\"Chewie… wir sind zu Hause.\" <cite>Han Solo</cite>",
+        "name": "Millennium Falke",
+        "text": "Nachdem du diese Unterstützung aktiviert hast, darfst 1 deiner Charaktere aktivieren."
     },
     {
         "code": "05053",
@@ -326,8 +326,8 @@
     },
     {
         "code": "05056",
-        "name": "Force Focus",
-        "text": "To play, spot a Blue character.\n[special] - Turn one of your dice to any side. You may reveal a Blue card from your hand to turn an opponent's die to any side."
+        "name": "Machtkonzentration",
+        "text": "Sichte einen blauen Charakter, um diese Karte zu spielen.\n[special] - Drehe 1 deiner Würfel auf eine beliebige Seite. Du darfst eine blaue Karte von deiner Hand aufdecken, um einen gegnerischen Würfel auf eine beliebige Seite zu drehen."
     },
     {
         "code": "05057",
@@ -336,8 +336,8 @@
     },
     {
         "code": "05058",
-        "name": "Heirloom Lightsaber",
-        "text": "This upgrade has the Redeploy keyword while it's on a Blue character."
+        "name": "Geerbtes Lichtschwert",
+        "text": "Solange diese Aufwertung an einem blauen Charakter liegt, hat sie das Schlüsselwort Verlegen. <em>(Nachdem ihr Charakter besiegt worden ist, verschiebe diese Karte.)</em>"
     },
     {
         "code": "05059",
@@ -361,9 +361,9 @@
     },
     {
         "code": "05063",
-        "flavor": "Standard issue for Imperial stormtroopers, the E-11 blaster was often found in rebel hands.",
-        "name": "E-11 Blaster",
-        "text": "Redeploy."
+        "flavor": "Nicht selten geriet das E-11, ein Standardgewehr der imperialen Sturmtruppen, in die Hände der Rebellen",
+        "name": "E-11-Blastergewehr",
+        "text": "Verlegen. <em>(Nachdem ihr Charakter besiegt worden ist, verschiebe diese Karte.)</em>"
     },
     {
         "code": "05064",
@@ -410,13 +410,13 @@
     },
     {
         "code": "05072",
-        "name": "Hidden Blaster",
-        "text": "Ambush.\nAfter you play this upgrade, you may remove 1 shield from a character."
+        "name": "Versteckter Blaster",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nNachdem du diese Aufwertung gespielt hast, darfst du 1 Schild von einem Charakter entfernen."
     },
     {
         "code": "05073",
-        "flavor": "Slugthrowers, like the 6-2Aug2, were commonly found on backwater planets like Tatooine.",
-        "name": "Hunting Rifle",
+        "flavor": "Projektilwaffen wie das 6-2Aug2 waren vor allem auf Hinterwäldlerplaneten wie Tatooine weit verbreitet.",
+        "name": "Jagdgewehr",
         "text": " "
     },
     {
@@ -426,8 +426,8 @@
     },
     {
         "code": "05075",
-        "name": "Consumed By The Dark Side",
-        "text": "Deal 1 damage to one of your blue characters to turn a die to a side showing a blank ([blank])."
+        "name": "Von der dunklen Seite verzehrt",
+        "text": "Füge 1 deiner blauen Charaktere 1 Schaden zu, um einen Würfel auf eine Seite zu drehen, die eine Leerseite ([blank]) zeigt."
     },
     {
         "code": "05076",
@@ -486,8 +486,8 @@
     },
     {
         "code": "05087",
-        "name": "Scorched Earth",
-        "text": "Play only if you control the battlefield.\nDeal indirect damage ([indirect]) to an opponent equal to the number of dice in their pool."
+        "name": "Verbrannte Erde",
+        "text": "Spiele diese Karte nur, falls du das Schlachtfeld kontrollierst.\nFüge einem Gegner indirekten Schaden ([indirect]) in Höhe der Anzahl der Würfel in seinem Pool zu."
     },
     {
         "code": "05088",
@@ -501,29 +501,29 @@
     },
     {
         "code": "05090",
-        "name": "Three Steps Ahead",
-        "text": "Take up to 3 additional actions."
+        "name": "Drei Schritte voraus",
+        "text": "Führe bis zu 3 zusätzliche Aktionen aus."
     },
     {
         "code": "05091",
-        "name": "Command Bridge",
-        "text": "<b>Action</b> - Exhaust this support to activate 2 of your non-unique characters in the order of your choice."
+        "name": "Kommandobrücke",
+        "text": "<b>Aktion</b> - Erschöpfe diese Unterstützung, um 2 deiner nicht-einzigartigen Charaktere in Reihenfolge deiner Wahl zu aktivieren."
     },
     {
         "code": "05092",
-        "flavor": "\"That was fun. Let's never do that again.\" <cite>Doctor Aphra</cite>",
-        "name": "Delve",
-        "text": "Deal 1 indirect damage ([indirect]) to yourself to play a support or upgrade from your hand for free."
+        "flavor": "\"Das hat Spaß gemacht! Aber lasst uns das nie wieder tun.\" <cite>Doktor Aphra</cite>",
+        "name": "Forschen",
+        "text": "Füge dir selbst 1 indirekten Schaden ([indirect]) zu, um eine Unterstützung oder Aufwertung kostenlos von deiner Hand zu spielen."
     },
     {
         "code": "05093",
-        "name": "Free-For-All",
-        "text": "Remove any number of your dice. Then deal indirect damage ([indirect]) to an opponent equal to the number of dice you just removed."
+        "name": "Jeder gegen Jeden",
+        "text": "Entferne eine beliebige Anzahl deiner Würfel. Füge dann einem Gegner indirekten Schaden ([indirect]) in Höhe der Anzahl der gerade entfernten Würfel zu."
     },
     {
         "code": "05094",
-        "name": "In Pursuit",
-        "text": "Play only if an opponent activated one or more characters during their last turn this round.\nActivate any number of your Yellow characters in the order of your choice."
+        "name": "Auf den Fersen",
+        "text": "Spiele diese Karte nur, falls ein Gegner während seines letzen Zuges in dieser Runde 1 oder mehrere Charaktere aktiviert hat.\nAktiviere eine beliebige Anzahl deiner gelben Charaktere in Reihenfolge deiner Wahl."
     },
     {
         "code": "05095",
@@ -537,18 +537,18 @@
     },
     {
         "code": "05097",
-        "name": "Subdue",
-        "text": "Choose a character that has 3 or more damage on it. Remove one of its character or upgrade dice."
+        "name": "Unschädlich machen",
+        "text": "Wähle einen Charakter mit 3 oder mehr Schaden. Entferne 1 seiner Charakter- oder Aufwertungswürfel."
     },
     {
         "code": "05098",
-        "name": "Take Flight",
-        "text": "Ambush.\nReroll up to 2 of your Yellow dice."
+        "name": "Abheben",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nWirf bis zu 2 deiner gelben Würfel neu."
     },
     {
         "code": "05099",
-        "name": "Outnumber",
-        "text": "Play only if an opponent has fewer characters in play than you.\nRemove one of that opponent's dice."
+        "name": "Zahlenmässige Überlegenheit",
+        "text": "Spiele diese Karte nur, falls ein Gegner weniger Charaktere im Spiel hast als du.\nEntferne 1 Würfel dieses Gegners."
     },
     {
         "code": "05100",
@@ -562,8 +562,8 @@
     },
     {
         "code": "05102",
-        "name": "Heightened Awareness",
-        "text": "Ambush.\nGive a character 3 shields."
+        "name": "Geschärfte Sinne",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nGib einem Charaker 3 Schilde."
     },
     {
         "code": "05103",
@@ -582,18 +582,18 @@
     },
     {
         "code": "05106",
-        "name": "Defensive Teaching",
-        "text": "Each of your Blue characters can have 1 additional shield."
+        "name": "Lektionen in Verteidigung",
+        "text": "Jeder deiner blauen Charaktere kann 1 zusätzlichen Schild haben."
     },
     {
         "code": "05107",
-        "name": "Yoda's Hut",
-        "text": "<b>Action</b> - Exhaust this support to give a character 1 shield. Gain 1 resource if that character has 3 or more shields."
+        "name": "Yodas Hütte",
+        "text": "<b>Aktion</b> - Erschöpfe diese Unterstützung, um einem Charakter 1 Schild zu geben. Falls dieser Charakter 3 oder mehr Schilde hat, erhälst du 1 Ressource."
     },
     {
         "code": "05108",
-        "name": "Attack Run",
-        "text": "Ambush.\nActive one of your supports."
+        "name": "Angriffsflug",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nAktiviere 1 deiner Unterstützungen."
     },
     {
         "code": "05109",
@@ -602,8 +602,8 @@
     },
     {
         "code": "05110",
-        "name": "Final Moment",
-        "text": "Ready each of your characters. After the action phase ends, you lose the game."
+        "name": "Letzte Augenblicke",
+        "text": "Mache jeden deiner Charaktere spielbereit. Nachdem die Aktionsphase beendet ist, verlierst du das Spiel."
     },
     {
         "code": "05111",
@@ -612,8 +612,8 @@
     },
     {
         "code": "05112",
-        "name": "Mend",
-        "text": "Heal 3 damage from a character or remove 3 damage from a support."
+        "name": "Wiederherstellen",
+        "text": "Heile 3 Schaden von einem Charakter oder entferne 3 Schaden von einer Unterstützung."
     },
     {
         "code": "05113",
@@ -627,13 +627,13 @@
     },
     {
         "code": "05115",
-        "name": "Suppression Field",
-        "text": "Discard this support if it has 3 or more damage on it.\n<b>Action</b> - Exhaust this support to remove a die showing damage ([ranged], [melee] or [indirect]). Place damage on this support equal to the value showing on that die."
+        "name": "Dämpfungsfeld",
+        "text": "Lege diese Unterstützung ab, falls sie 3 oder mehr Schaden hat.\n<b>Aktion</b> - Erschöpfe diese Unterstüzung, um einen Würfel, der Schaden ([ranged], [melee] oder [indirect]) zeigt, zu entfernen. Lege Schaden in Höhe des Wertes des entfernten Würfels auf diese Unterstützung."
     },
     {
         "code": "05116",
-        "name": "Bravado",
-        "text": "Spot a Yellow character to remove an opponent's die. Then deal 2 damage to a character."
+        "name": "Draufgänger",
+        "text": "Sichte einen gelben Charakter, um einen gegnerischen Würfel zu entfernen. Füge dann einem Charakter 2 Schaden zu."
     },
     {
         "code": "05117",
@@ -642,13 +642,13 @@
     },
     {
         "code": "05118",
-        "name": "Explosive Tactics",
-        "text": "Discard the top card of a deck. Then deal indirect damage ([indirect]) to an opponent equal to its cost."
+        "name": "Explosive Taktik",
+        "text": "Lege die oberste Karte eines Decks ab. Füge dann einem Gegner indirekten Schaden ([indirect]) in Höhe der Kosten der abgelegten Karte zu."
     },
     {
         "code": "05119",
-        "name": "Impulsive",
-        "text": "Ambush.\nResolve one of your dice."
+        "name": "Impulsiv",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nHandle 1 deiner Würfel ab."
     },
     {
         "code": "05120",
@@ -657,14 +657,14 @@
     },
     {
         "code": "05121",
-        "name": "Smuggler's Run",
-        "text": "Activate one of your Yellow characters. If one or more of its character or upgrade dice just rolled a resource ([resource]), gain 1 resource."
+        "name": "Schmuggelflug",
+        "text": "Aktiviere 1 deiner gelben Charaktere. Falls du mit 1 oder mehreren seiner Charakter- oder Aufwertungswürfel gerade eine Ressource ([resource]) geworfen hast, erhältst du 1 Ressource."
     },
     {
         "code": "05122",
-        "flavor": "Maz Kanata amassed a large collection of curiosities from her many travels throughout the galaxy.",
-        "name": "Maz's Vault",
-        "text": "Each player gains 1 additional resource during the upkeep phase."
+        "flavor": "Im Laufe ihrer vielen Reisen quer durch die Galaxis hat Maz Kanata ein buntes Sammelsurium an Kuriositäten angehäuft.",
+        "name": "Maz Kanatas Gewölbe",
+        "text": "Jeder Spieler erhählt während der Auffrischphase 1 zusätzliche Ressource."
     },
     {
         "code": "05123",
@@ -673,38 +673,38 @@
     },
     {
         "code": "05124",
-        "name": "Into The Garbage Chute",
-        "text": "Exhaust one of your characters to remove up to 2 dice showing damage ([ranged], [melee], or [indirect])."
+        "name": "Los, in den Müllschacht",
+        "text": "Erschöpfe 1 deiner Charaktere, um bis zu 2 Würfel, die Schaden ([ranged], [melee], oder [indirect]) zeigen, zu entfernen."
     },
     {
         "code": "05125",
-        "name": "Alter",
-        "text": "Turn up to 2 dice to the sides of your choice <em>(yours and/or your opponents')</em>."
+        "name": "Verändern",
+        "text": "Drehe bis zu 2 Würfel <em>(eigene und/oder gegnerische)</em> auf Seiten deiner Wahl."
     },
     {
         "code": "05126",
-        "name": "Ancient Wisdom",
-        "text": "Draw 2 cards."
+        "name": "Uralte Weisheiten",
+        "text": "Ziehe 2 Karten."
     },
     {
         "code": "05127",
-        "name": "Feel The Force",
-        "text": "Turn a Blue die to any side."
+        "name": "Fühle die Macht",
+        "text": "Drehe einen blauen Würfel auf eine beliebige Seite."
     },
     {
         "code": "05128",
-        "name": "Invigorate",
-        "text": "Spot a Blue character to heal 1 damage from each of your characters."
+        "name": "Stärken",
+        "text": "Sichte einen blauen Charakter, um von jedem deiner Charaktere 1 Schaden zu heilen."
     },
     {
         "code": "05129",
-        "name": "Legacies",
-        "text": "Spot a Blue character to resolve one of your dice showing a modifier <em>(a side with a +)</em> as if it did not have a modifier."
+        "name": "Vermächtnisse",
+        "text": "Sichte einen blauen Charakter, um 1 deiner Würfel, der einen Modifikator <em>(eine Seite mit einem +)</em> zeigt, so abzuhandeln, als wäre es kein Modifikator."
     },
     {
         "code": "05130",
-        "name": "Mislead",
-        "text": "Remove a character die showing a value of 2 or less."
+        "name": "Täuschen",
+        "text": "Entferne einen Charakterwürfel, der einen Wert von 2 oder niedriger zeigt."
     },
     {
         "code": "05131",
@@ -713,18 +713,18 @@
     },
     {
         "code": "05132",
-        "name": "Stronger You Have Become",
-        "text": "Count the number of upgrades you have in play. Reroll up to that many dice <em>(yours and/or your opponents')</em>."
+        "name": "Stärker du geworden bist",
+        "text": "Zähle die Anzahl der Aufwertungen, die du im Spiel hast. Wirf ebenso viele Würfel neu <em>(eigene und/oder gegnerische)</em>."
     },
     {
         "code": "05133",
-        "name": "The Force Is With Me",
-        "text": "Remove a die showing ranged damage ([ranged]) or indirect damage ([indirect])."
+        "name": "Die Macht ist mit mir",
+        "text": "Entferne einen Würfel, der Fernkampfschaden ([ranged]) oder indirekten Schaden ([indirect]) zeigt."
     },
     {
         "code": "05134",
-        "name": "Perserverance",
-        "text": "<b>Action</b> - Exhaust this support to reroll one of your dice. Then you may reroll it again."
+        "name": "Durchhaltevermögen",
+        "text": "<b>Aktion</b> - Erschöpfe diese Unterstützung, um 1 deiner Würfel neu zu werfen. Dann darfst du ihn nochmals neu werfen."
     },
     {
         "code": "05135",
@@ -743,13 +743,13 @@
     },
     {
         "code": "05138",
-        "name": "Law and Order",
-        "text": "Spot a Red character to discard an upgrade from play."
+        "name": "Recht und Ordnung",
+        "text": "Sichte einen roten Charakter, um eine Aufwertung aus dem Spiel abzulegen."
     },
     {
         "code": "05139",
-        "name": "Locked and Loaded",
-        "text": "Spot a Red character to turn up to 2 of your dice to sides showing indirect damage ([indirect])."
+        "name": "Geladen und entsichert",
+        "text": "Sichte einen roten Charakter, um bis zu 2 deiner Würfel auf Seiten zu drehen, die indirekten Schaden ([indirect]) zeigen."
     },
     {
         "code": "05140",
@@ -763,8 +763,8 @@
     },
     {
         "code": "05142",
-        "name": "Sudden Impact",
-        "text": "Remove one of your dice showing damage ([ranged],[melee], or [indirect]). Then deal damage to each of an opponent's characters equal to half of the value showing on that die, rounded up."
+        "name": "Plötzlicher Einschlag",
+        "text": "Entferne 1 deiner Würfel, der Schaden ([ranged],[melee], oder [indirect]) zeigt. Füge dann jedem Charakter eines Gegners Schaden in Höhe der Hälfte des Wertes des entfernten Würfel zu (aufgerundet)."
     },
     {
         "code": "05143",
@@ -788,8 +788,8 @@
     },
     {
         "code": "05147",
-        "name": "Bamboozle",
-        "text": "Reroll an opponent's die. If it just rolled a blank ([blank]), take 1 resource from them."
+        "name": "Foppen",
+        "text": "Wirf einen gegnerischen Würfel neu. Falls du mit diesem Würfel gerade eine Leerseite ([blank]) geworfen hast, nimm 1 Ressource von diesem Gegner."
     },
     {
         "code": "05148",
@@ -799,12 +799,12 @@
     {
         "code": "05149",
         "name": "Counter Strike",
-        "text": "Resolve one of your dice showing damage ([ranged],[melee], or [indirect]), increasing its value by 2 if an opponent resolved one or more dice showing that same damage symbol during their last turn this round."
+        "text": "Resolve one of your dice showing damage ([ranged],[melee], oder [indirect]), increasing its value by 2 if an opponent resolved one or more dice showing that same damage symbol during their last turn this round."
     },
     {
         "code": "05150",
-        "name": "Dangerous Maneuver",
-        "text": "Heal 2 damage from one of your characters. Deal 2 indirect damage ([indirect]) to yourself."
+        "name": "Riskantes Manöver",
+        "text": "Heile 2 Schaden von 1 deiner Charaktere. Füge dir selbst 2 indirekte Schaden ([indirect]) zu."
     },
     {
         "code": "05151",
@@ -813,13 +813,13 @@
     },
     {
         "code": "05152",
-        "name": "Face-Off",
-        "text": "Reroll one of your character dice and an opponent's character die <em>(you choose)</em>. Then deal 2 damage to each character whose die just rolled the lowest value <em>(both characters if it is a tie)</em>."
+        "name": "Konfrontation",
+        "text": "Wirf 1 deiner Charakterwürfel und einen gegnerischen Charakterwürfel <em>(deiner Wahl)</em> neu. Füge dann jedem Charakter, mit dessen Würfel du gerade den niedrigsten Wert geworfen hast, 2 Schaden zu <em>(bei Gleichstand beiden Charakteren)</em>."
     },
     {
         "code": "05153",
-        "name": "Hasty Exit",
-        "text": "Give control of the battlefield to an opponent to remove a die showing damage ([ranged],[melee], or [indirect])."
+        "name": "Schneller Abgang",
+        "text": "Gib die Kontrolle über das Schlachtfeld an einen Gegner, um einen Würfel, der Schaden ([ranged],[melee], oder [indirect]) zeigt, zu entfernen."
     },
     {
         "code": "05154",
@@ -833,23 +833,23 @@
     },
     {
         "code": "05156",
-        "name": "Vandalize",
-        "text": "Remove a number of your character dice equal to the cost of a support or upgrade in play to discard it."
+        "name": "Vandalismus",
+        "text": "Entferne eine Anzahl deiner Charakterwürfel in Höhe der Kosten einer im Spiel befindlichen Unterstützung oder Aufwertung, um diese abzulegen."
     },
     {
         "code": "05157",
-        "name": "Well-Connected",
-        "text": "Spot a Yellow character to gain 1 resource. Each opponent may draw a card."
+        "name": "Gut vernetzt",
+        "text": "Sichte einen gelben Charakter, um 1 Ressource zu erhalten. Jeder Gegner darf eine Karte ziehen."
     },
     {
         "code": "05158",
         "name": "Defend",
-        "text": "Ambush.\nRemove up to 3 dice showing melee damage ([melee])."
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nEntferne bis zu 3 Würfel, die Nahkampfschaden ([melee]) zeigen."
     },
     {
         "code": "05159",
-        "name": "Dive",
-        "text": "Ambush.\nRemove up to 3 dice showing ranged damage ([ranged])."
+        "name": "Hechtsprung",
+        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nEntferne bis zu 3 Würfel, die Fernkampfschaden ([ranged]) zeigen."
     },
     {
         "code": "05160",
@@ -858,8 +858,8 @@
     },
     {
         "code": "05161",
-        "name": "No Cheating",
-        "text": "Deal damage to an opponent's character equal to the number of additional actions that opponent took during their last turn this round."
+        "name": "Hier wird nicht geschummelt",
+        "text": "Füge einem Charakter eines Gegners Schaden in Höhe der Anzahl der zusätzlichen Aktionen, die dieser Gegner während seines letzten Zuges in dieser Runde ausgeführt hat, zu."
     },
     {
         "code": "05162",
@@ -878,8 +878,8 @@
     },
     {
         "code": "05165",
-        "name": "Scrap Heap",
-        "text": "After you discard one or more cards from an opponent's deck, you may exhaust this support to gain 1 resource."
+        "name": "Schrotthaufen",
+        "text": "Nachdem du 1 oder mehrere Karten von einem gegnerischen Deck abgelegt hast, darfst du diese Unterstützung erschöpfen, um 1 Ressource zu erhalten."
     },
     {
         "code": "05166",
@@ -888,18 +888,18 @@
     },
     {
         "code": "05167",
-        "name": "Quickdraw Holster",
-        "text": "After you activate attached character, you may reroll any number of their <i>weapon</i> dice."
+        "name": "Schnellzieh-Holster",
+        "text": "Nachdem du den aufgewerteten Charakter aktiviert hast, darfst du eine beliebige Anzahl seiner <i>Waffen-</i>Würfel neu werfen."
     },
     {
         "code": "05168",
-        "name": "Espionage",
-        "text": "After setup, discard the top card from each deck."
+        "name": "Spionage",
+        "text": "Lege nach dem Spielaufbau die oberste Karte von jedem Deck ab."
     },
     {
         "code": "05169",
-        "name": "Fortify",
-        "text": "After setup, give a character 1 shield."
+        "name": "Befestigen",
+        "text": "Gib nach dem Spielaufbau einem Charakter 1 Schild."
     },
     {
         "code": "05170",
@@ -925,42 +925,42 @@
         "code": "05174",
         "name": "Arid Wasteland",
         "subtitle": "Geonosis",
-        "text": "<b>Claim</b> - Force an opponent to lose 1 resource."
+        "text": "<b>Beanspruchen</b> - Force an opponent to lose 1 resource."
     },
     {
         "code": "05175",
-        "name": "Citadel Landing Zone",
+        "name": "Landezone der Zitadelle",
         "subtitle": "Scarif",
-        "text": "<b>Claim</b> - Reroll any number of your dice. Then you may resolve one of your dice."
+        "text": "<b>Beanspruchen</b> - Wirf eine beliebige Anzahl deiner Würfel neu. Dann darfst du 1 deiner Würfel abhandeln."
     },
     {
         "code": "05176",
         "name": "Imperial Palace",
         "subtitle": "Coruscant",
-        "text": "<b>Claim</b> - Look at an opponent's hand and discard a card from it."
+        "text": "<b>Beanspruchen</b> - Look at an opponent's hand and discard a card from it."
     },
     {
         "code": "05177",
-        "name": "Launch Deck",
-        "subtitle": "Home One",
-        "text": "<b>Claim</b> - Remove one of your dice to deal indirect damage ([indirect]) to an opponent equal to half of the value showing on it, rounded up."
+        "name": "Hangardeck",
+        "subtitle": "Heimat Eins",
+        "text": "<b>Beanspruchen</b> - Entferne 1 deiner Würfel, um einem Gegner indirekten Schaden ([indirect]) in Höhe der Hälfte des Wertes des entfernten Würfels zuzufügen (abgerundet)."
     },
     {
         "code": "05178",
-        "name": "Outer Rim Outpost",
+        "name": "Handelsposten im äusseren Rand",
         "subtitle": "Nal Hutta",
-        "text": "<b>Claim</b> - Gain 1 resource and draw a card."
+        "text": "<b>Beanspruchen</b> - Du erhältst 1 Ressource und ziehst 1 Karte."
     },
     {
         "code": "05179",
         "name": "Petranaki Arena",
         "subtitle": "Geonosis",
-        "text": "<b>Claim</b> - Deal 1 indirect damage ([indirect]) to yourself to deal 1 unblockable damage to a character."
+        "text": "<b>Beanspruchen</b> - Deal 1 indirect damage ([indirect]) to yourself to deal 1 unblockable damage to a character."
     },
     {
         "code": "05180",
         "name": "Power Generator Trench",
         "subtitle": "Death Star I",
-        "text": "<b>Claim</b> - Turn a die to any side."
+        "text": "<b>Beanspruchen</b> - Turn a die to any side."
     }
 ]
