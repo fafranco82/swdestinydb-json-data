@@ -17,7 +17,7 @@
     },
     {
         "code": "ID",
-        "name": "Indirect Damage"
+        "name": "Indirekter Schaden"
     },
     {
         "code": "MD",
@@ -37,6 +37,6 @@
     },
     {
         "code": "Sp",
-        "name": "Spezialfähigkeit"
+        "name": "Spezial"
     }
 ]

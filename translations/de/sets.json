@@ -9,11 +9,11 @@
     },
     {
         "code": "LEG",
-        "name": "Legacies"
+        "name": "Vermächtnisse"
     },
     {
         "code": "RIV",
-        "name": "Rivals"
+        "name": "Rivalen - Draft-Set"
     },
     {
         "code": "SoR",
@@ -25,6 +25,6 @@
     },
     {
         "code": "WotF",
-        "name": "Way of the Force"
+        "name": "Weg der Macht"
     }
 ]
