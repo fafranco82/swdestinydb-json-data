@@ -183,7 +183,7 @@
         ],
         "subtitle": "Jedi Protector",
         "subtype_code": "jedi",
-        "text": "The character has the abilities of each non-unique character you have in play.",
+        "text": "This character has the abilities of each non-unique character you have in play.",
         "ttscardid": "",
         "type_code": "character"
     },
