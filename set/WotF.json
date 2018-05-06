@@ -287,5 +287,31 @@
         "text": "Each of your unique upgrades has the Redeploy keyword.\nAfter you play a unique upgrade, you may exhaust this plot to gain 1 resource.",
         "ttscardid": "",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "07142",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Martin Diego Sadaba",
+        "is_unique": true,
+        "name": "Darksaber",
+        "position": 142,
+        "rarity_code": "L",
+        "set_code": "WotF",
+        "sides": [
+            "2MD",
+            "3MD",
+            "2F",
+            "1Dc",
+            "1Sh",
+            "1R"
+        ],
+        "subtype_code": "weapon",
+        "text": "Redeploy.\nBefore you resolve this die, increase its value by 1 if attached character is 15 or more points, or by 2 instead if attached character is 20 or more points.",
+        "type_code": "upgrade"
     }
 ]
