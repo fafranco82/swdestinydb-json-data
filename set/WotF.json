@@ -280,7 +280,7 @@
         "has_errata": false,
         "health": 6,
         "illustrator": "Ameen Naksewee",
-        "is_unique": true,
+        "is_unique": false,
         "name": "Gungan Warrior",
         "points": "6",
         "position": 72,
