@@ -272,6 +272,35 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "07074",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"In my book, experience outranks everything.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Rex",
+        "points": "11/14",
+        "position": 74,
+        "rarity_code": "L",
+        "set_code": "WotF",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2ID",
+            "1F",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Clone Captain",
+        "subtype_code": "leader",
+        "text": "Before you activate this character, you may spend 1 resource or spot a Clone Trooper to take control of the battlefield.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "07072",
         "deck_limit": 5,
         "faction_code": "red",
@@ -296,6 +325,23 @@
         ],
         "subtype_code": "gungan",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "07081",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Long-Term Plan",
+        "points": "3",
+        "position": 81,
+        "rarity_code": "U",
+        "set_code": "WotF",
+        "text": "<b>Action</b> - Exhaust this plot to place 1 resource on it or resolve one of your dice, increasing its value by the number of resources on this plot.",
+        "type_code": "plot"
     },
     {
         "affiliation_code": "hero",
@@ -386,5 +432,30 @@
         "subtype_code": "weapon",
         "text": "Redeploy.\nBefore you resolve this die, increase its value by 1 if attached character is 15 or more points, or by 2 instead if attached character is 20 or more points.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "07157",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Bendu's Lair",
+        "position": 157,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1RD",
+            "2ID",
+            "1F",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Atollon",
+        "text": "<b>Power Action</b> - Roll this die into your pool.\nAfter you take control of this battlefield, remove its die.",
+        "type_code": "battlefield"
     }
 ]

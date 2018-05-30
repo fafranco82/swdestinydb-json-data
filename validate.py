@@ -269,7 +269,10 @@ class Validator(ValidatorBase):
     def validate(self):
         ValidatorBase.validate(self)
 
-        self.validate_locales()
+        if self.validation_errors == 0:
+            self.validate_locales()
+        else:
+            self.logger.verbose_print("There were errors in main files. Validation of translated files skipped.\n", 0)
 
     def validate_locales(self):
         if os.path.exists(self.i18n_path):
