@@ -1,844 +1,844 @@
 [
     {
         "code": "02001",
-        "flavor": "Krennic's personal guard, they defend their commander with extreme prejudice.",
-        "name": "Death Trooper"
+        "flavor": "克伦尼克的私人守卫，他们誓死保护着指挥官。",
+        "name": "死亡士兵"
     },
     {
         "code": "02002",
-        "flavor": "\"Traitor!\"",
+        "flavor": "\"叛徒！\"",
         "name": "FN-2199",
-        "subtitle": "Loyal Trooper",
-        "text": "After you play a <i>weapon</i> on this character, roll that <i>weapon</i> die, if able. You may immediately resolve it."
+        "subtitle": "忠诚的士兵",
+        "text": "在你给这名角色打出<i>武器</i>卡之后，如果卡牌带有骰子，投掷那个<i>武器</i>骰，你可以立刻结算那个骰子。"
     },
     {
         "code": "02003",
-        "name": "Director Krennic",
-        "subtitle": "Cruel but Brilliant",
-        "text": "After you activate this character, if you control the battlefield, roll a Death Trooper ([SoR]1) die into your pool. Set aside that die after it is resolved or removed."
+        "name": "克伦尼克总监",
+        "subtitle": "冷酷而卓越",
+        "text": "在你启动这名角色之后，如果你控制战场，投掷一个死亡士兵([SoR]1)骰并放入你的骰池。那个骰子在结算或被移除时放回待用区。"
     },
     {
         "code": "02004",
-        "flavor": "\"I can't shake him!\" <cite>Biggs Darklighter</cite>",
-        "name": "Tie Pilot",
-        "text": "While this die is in your pool, your other dice showing ranged damage ([ranged]) cannot be removed by an opponent."
+        "flavor": "\"我没法击退他！\" <cite>比格斯·夜明者</cite>",
+        "name": "TIE 驾驶员",
+        "text": "只要该角色骰在你的骰池中，你其他显示远程伤害面([ranged]) 的骰子不能被对手移除。"
     },
     {
         "code": "02005",
-        "name": "E-Web Emplacement",
-        "text": "While you control the battlefield, the value of each of this die's sides is increased by 1."
+        "name": "E-WEB  炮台",
+        "text": "只要你控制战场，该骰子每一面数值上升1点。"
     },
     {
         "code": "02006",
-        "name": "Imperial Discipline",
-        "text": "Red character only.\n<b>Action</b> - Remove this die to turn one of this character's character or upgrade dice to a side showing ranged damage ([ranged]) or a resource ([resource])."
+        "name": "帝国的纪律",
+        "text": "红色角色专用。\n<b>行动</b> - 移除这个骰子，将强化角色的一个角色骰或强化骰转到远程伤害面([ranged])或资源面([resource])。"
     },
     {
         "code": "02007",
-        "name": "DT-29 Heavy Blaster Pistol",
-        "text": "[special] - Remove an opponent's die showing a resource cost."
+        "name": "DT-29 重型爆能手枪",
+        "text": "[special] - 移除一位对手的一个显示有费用的骰子。"
     },
     {
         "code": "02008",
-        "name": "Z6 Riot Control Baton",
-        "text": "Redeploy.\nAfter you roll this die into your pool, you may reroll it."
+        "name": "Z6 防暴警棍",
+        "text": "调配。\n在你投掷这个骰子之后，你可以重掷该骰子。"
     },
     {
         "code": "02009",
-        "flavor": "\"Your weakness will not be my downfall!\"",
-        "name": "Asajj Ventress",
-        "subtitle": "Force Assassin",
-        "text": "After an opponent discards a card from their hand to reroll dice, you may force them to choose and discard another card from their hand."
+        "flavor": "\"你的弱点是我的机会！\"",
+        "name": "阿萨吉·文崔斯",
+        "subtitle": "原力暗杀者",
+        "text": "在一位对手丢弃手牌来重掷骰子之后，你可以强制该对手再选择一张手牌丢弃。"
     },
     {
         "code": "02010",
-        "flavor": "\"You understimate my power.\"",
-        "name": "Darth Vader",
-        "subtitle": "Dark Apprentice",
-        "text": "[special] - Deal 3 damage to a character. Then deal 1 damage to this character."
+        "flavor": "\"你低估了我的实力。\"",
+        "name": "达斯·维德",
+        "subtitle": "黑暗学徒",
+        "text": "[special] - 一名角色造成3点伤害。然后对自身造成1点伤害。"
     },
     {
         "code": "02011",
-        "flavor": "\"Everything is proceeding as I have foreseen.\"",
-        "name": "Palpatine",
-        "subtitle": "Galactic Emperor",
-        "text": "After you resolve this die, force an opponent to deal 2 damage to their characters, distributed as they wish."
+        "flavor": "\"所有事情都如同我预见的一样进行。\"",
+        "name": "帕尔帕廷",
+        "subtitle": "银河皇帝",
+        "text": "在你结算这个骰子之后，强制一位对手对其角色造成攻击2点伤害，对手可以自由分配伤害。"
     },
     {
         "code": "02012",
-        "name": "Royal Guard",
-        "text": "Guardian.\nYou cannot play Blue <i>abilities</i> on this character."
+        "name": "禁卫军",
+        "text": "守卫者.\n你不能给该角色打出蓝色<i>技能</i>卡。"
     },
     {
         "code": "02013",
-        "name": "Command Shuttle",
-        "text": "[special] - Use a special ability ([special]) on one of your characters."
+        "name": "指挥穿梭机",
+        "text": "[special] - 使用你一名角色的一个特殊能力 ([special])。"
     },
     {
         "code": "02014",
-        "name": "Force Lightning",
-        "text": "Blue character only.\n[special] - Deal 1 damage to a character. You  may remove a die showing a blank ([blank]) to reroll this die instead of removing it from your pool."
+        "name": "原力闪电",
+        "text": "蓝色角色专用。\n[special] - 对一名角色造成1点伤害。你可以移除一个空白面([blank])的骰子，来重掷该强化骰，并放入你的骰池中。"
     },
     {
         "code": "02015",
-        "name": "Lightsaber Pike",
-        "text": "<b>Action</b> - Remove this die to give a non-attached character 1 shield."
+        "name": "光剑矛",
+        "text": "<b>行动</b> - 移除这个骰子，给一名未持有任何强化卡的角色1个护盾。"
     },
     {
         "code": "02016",
-        "name": "Lure of Power",
-        "text": "You may resolve the modifier sides <em>(sides with a +)</em> of this die to modify any symbol."
+        "name": "力量的诱惑",
+        "text": "你可以将该骰子的修正值面<em>(带有+号的面)</em>与任意图标一同结算。"
     },
     {
         "code": "02017",
-        "name": "Interrogation Droid",
-        "text": "After you activate this support, look at a random card in an opponent's hand. If that card is an event, you may remove this die to discard it."
+        "name": "审讯机器人",
+        "text": "在你启动该支援卡之后，随机查看一位对手一张手牌，如果那是一张事件卡，你可以移除这个骰子将那张卡牌丢弃。"
     },
     {
         "code": "02018",
-        "flavor": "\"Well, what do we have here?\"",
-        "name": "Aurra Sing",
-        "subtitle": "Deadly Shot",
-        "text": "Before you resolve this die, you may discard a card from your hand you increase its value by 1."
+        "flavor": "\"看看这是什么？\"",
+        "name": "奥拉·辛",
+        "subtitle": "死亡射手",
+        "text": "在你结算这个角色骰之前，你可以丢弃一张手牌，令骰子数值上升1点。"
     },
     {
         "code": "02019",
-        "name": "Guavian Enforcer",
-        "text": "<b>Action</b> - Remove this die to remove 1 shield from a character."
+        "name": "瓜维亚打手",
+        "text": "<b>行动</b> - 移除这个骰子，移除一名角色的一个护盾。"
     },
     {
         "code": "02020",
         "name": "IG-88",
-        "subtitle": "Assassin Droid",
-        "text": "[special] - Play a Yellow <i>weapon</i> or <i>equipment</i> from your discard pile on this character, decreasing its cost by 2."
+        "subtitle": "暗杀机器人",
+        "text": "[special] - 从你弃牌堆中打出一张黄色<i>武器</i>卡或<i>装备</i>卡给这名角色，其费用降低2点。"
     },
     {
         "code": "02021",
-        "name": "Unkar Plutt",
-        "subtitle": "Junk Dealer",
-        "text": "<b>Action</b> - Remove any number of your dice showing a combined value of 3 or more. Then discard a random card from an opponent's hand and gain resources equal to its cost."
+        "name": "昂卡·普拉特",
+        "subtitle": "废品商",
+        "text": "<b>行动</b> - 移除你总计数值大于等于3的任意数量骰子。然后随机丢弃一位对手一张手牌，获得等同于该牌费用的资源。"
     },
     {
         "code": "02022",
-        "name": "Slave I",
-        "text": "[special] - Force an opponent to deal damage to their characters equal to the number of dice in their dice pool, distributed as they wish."
+        "name": "奴隶I号",
+        "text": "[special] - 强制一位对手对其角色造成等于其骰池中骰子数量的伤害，对手可以自由分配伤害。"
     },
     {
         "code": "02023",
-        "name": "Blackmail",
-        "text": "After you roll this die, any opponent may give you 1 resource to remove this die."
+        "name": "敲诈",
+        "text": "在你投掷这个骰子之后，任意一位对手可以给你1个资源来移除这个骰子。"
     },
     {
         "code": "02024",
-        "name": "Personal Shield",
-        "text": "Before attached character is dealt 2 or more ranged damage ([ranged]), you may exhaust this upgrade to give attached character 1 shield."
+        "name": "私人护盾",
+        "text": "在强化角色受到至少2点远程伤害([ranged])之前，你可以消耗该强化卡，给强化角色1个护盾。"
     },
     {
         "code": "02025",
-        "name": "Vibroknucklers",
-        "text": "Ambush.\nBefore resolving this die, you  may spend 1 resource to increase its value by 1."
+        "name": "振动指虎",
+        "text": "伏击。\n在结算该骰子之前，你可以花费1个资源，令其数值上升1点。"
     },
     {
         "code": "02026",
-        "name": "Baze Malbus",
-        "subtitle": "Crack Shot",
-        "text": "[special] - Deal 1 damage to each of an opponent's characters."
+        "name": "贝兹·马彪斯",
+        "subtitle": "神枪手",
+        "text": "[special] - 一位对手所有角色各受到1点伤害。"
     },
     {
         "code": "02027",
-        "name": "Mon Mothma",
-        "subtitle": "Skilled Politician",
-        "text": "After you play an event, you may reroll a die of the same color as that event."
+        "name": "蒙·莫思马",
+        "subtitle": "熟练的政治家",
+        "text": "在你打出一张事件卡之后，你可以重掷一个与该事件相同颜色的骰子。"
     },
     {
         "code": "02028",
-        "name": "Rebel Commando",
-        "text": "[special] - Remove an opponent's die."
+        "name": "义军突击队",
+        "text": "[special] - 移除一位对手的一个骰子。"
     },
     {
         "code": "02029",
-        "flavor": "\"Watch out for ground fire!\"",
-        "name": "Temmin \"Snap\" Wexley",
-        "subtitle": "Recon Specialist",
-        "text": "While at least one of this die is in your pool, your opponent must spend 1 resource in order to claim the battlefield."
+        "flavor": "\"小心地面炮火！\"",
+        "name": "\"快嘴\" 特明·韦克斯利",
+        "subtitle": "侦查专家",
+        "text": "只要至少一个该角色骰在你的骰池中，你的对手宣告战场需要花费1个资源。"
     },
     {
         "code": "02030",
-        "flavor": "\"It is I, See-Threepio!\"",
+        "flavor": "\"我就是西三皮欧！!\"",
         "name": "C-3PO",
-        "text": "<b>Action</b> - Remove this die to resolve one of your dice as if it were showing a different symbol (<em>it keeps its original value</em>)."
+        "text": "<b>行动</b> - 移除该骰子，结算你的一个骰子，将其图标视为另外一个不同的图标(<em>骰子数值保持不变</em>)。 "
     },
     {
         "code": "02031",
-        "name": "U-Wing",
-        "text": "[special] - Deal 2 damage to each of an opponent's characters.\n[special] - Give each of your characters 2 shields."
+        "name": "U翼战斗机",
+        "text": "[special] - 对一位对手所有角色各造成2点伤害。\n[special] - 给你每名角色2个护盾。"
     },
     {
         "code": "02032",
-        "name": "A180 Blaster",
-        "text": "[special] - Deal 1 damage to a character and give attached character 1 shield.\n[special] - Deal 1 damage to each of an opponent's characters.\n[special] - Deal 2 unblockable damage to a character."
+        "name": "A180 爆能枪",
+        "text": "[special] - 对一名角色造成1点伤害，给强化角色1个护盾。\n[special] - 对一位对手所有角色各造成1点伤害。\n[special] - 对一名角色造成2点不可阻挡的伤害。"
     },
     {
         "code": "02033",
-        "flavor": "The most hardened soldiers already know they're dead.",
-        "name": "Overkill"
+        "flavor": "虽然最冷酷的战士知道他们已经死了",
+        "name": "过度杀戮"
     },
     {
         "code": "02034",
-        "name": "Jedi Acolyte",
-        "text": "Before you resolve this die, increase its value by 1, if it is showing the same symbol as one of your other dice."
+        "name": "绝地祭司",
+        "text": "在你结算这个骰子之前，如果你骰池中有骰子的图标与该骰子一致，该骰子数值上升1点."
     },
     {
         "code": "02035",
-        "name": "Chirrut Îmwe",
-        "subtitle": "Blind Warrior",
-        "text": "You cannot play Blue <i>abilities</i> on this character.\nAfter you activate this character, you may reroll all of your dice showing blanks ([blank])."
+        "name": "奇鲁特·英威",
+        "subtitle": "盲武士",
+        "text": "你不能给该角色打出蓝色<i>技能</i>卡。\n在你启动这名角色之后，你可以重掷你所有显示空白面([blank])的骰子。"
     },
     {
         "code": "02036",
-        "flavor": "\"Synchronize on my mark.\"",
-        "name": "Luminara Unduli",
-        "subtitle": "Inspiring Commander",
-        "text": "[special] - Resolve one of your character dice, increasing its value by 2, or by 3 instead if it is a non-unique character die."
+        "flavor": "\"跟着我的指挥做。\"",
+        "name": "卢米娜拉·昂杜利",
+        "subtitle": "鼓舞人心的指挥官",
+        "text": "[special] - 结算你的一个角色骰，其数值上升2点，如果是一个非独特角色骰则上升3点。"
     },
     {
         "code": "02037",
-        "flavor": "\"Stretch out with your feelings.\"",
-        "name": "Obi-Wan Kenobi",
-        "subtitle": "Mysterious Hermit",
-        "text": "Guardian.\nBefore this character is defeated, you may play a Blue card from your hand or discard pile for free."
+        "flavor": "\"用你的心去感受。\"",
+        "name": "欧比-旺·克诺比",
+        "subtitle": "神秘的隐士",
+        "text": "守卫者。\n在这名角色被击败之前，你可以从手牌或弃牌堆免费打出一张蓝色卡牌。"
     },
     {
         "code": "02038",
-        "flavor": "A favorite of the Jedi during the Clone Wars.",
-        "name": "Delta-7 Interceptor",
-        "text": "[special] - Reroll up to 3 dices (<em>yours and/or your opponent's</em>)."
+        "flavor": "克隆战争中，绝地武士的最爱。",
+        "name": "德尔塔-7 截击机",
+        "text": "[special] - 重掷最多3个骰子(<em>(你的和/或你对手的)</em>)。"
     },
     {
         "code": "02039",
-        "name": "Handcrafted Light Bow",
-        "text": "[special] - Deal 3 damage to a character.\n[special] - Remove all shields from a character. Then deal 2 damage to that character."
+        "name": "手造光弓",
+        "text": "[special] - 对一名角色造成3点伤害。\n[special] - 移除一名角色所有护盾，然后对那名角色造成2点伤害。"
     },
     {
         "code": "02040",
-        "name": "Force Heal",
-        "text": "Blue character only.\n[special] - Heal 1 damage from a character or spend 1 resource to heal 2 damage from a character."
+        "name": "原力治疗",
+        "text": "蓝色角色专用。\n[special] - 治愈一名角色1点伤害，或者花费1个资源治愈一名角色2点伤害。"
     },
     {
         "code": "02041",
-        "name": "Journals of Ben Kenobi",
-        "text": "<b>Action</b> - Remove this die to draw a card."
+        "name": "本·克诺比的日记",
+        "text": "<b>行动</b> - 移除这个骰子，抽取1张卡牌。"
     },
     {
         "code": "02042",
-        "flavor": "\"That little droid and I have been through a lot together.\" <cite>Luke Skywalker</cite>",
+        "flavor": "\"我和这个小机器人合作很久。\" <cite>卢克·天行者</cite>",
         "name": "R2-D2",
-        "text": "[special] - Resolve one of your dice, increasing its value by 1."
+        "text": "[special] - 结算你的一个骰子，其数值上升1点。"
     },
     {
         "code": "02043",
-        "flavor": "Rroooaarrgghh!",
-        "name": "Chewbacca",
-        "subtitle": "Loyal Friend",
-        "text": "[special] - Turn a opponent's die to a side showing damage ([ranged] or [melee]) to deal that damage to a character."
+        "flavor": "嗷~~~~~！",
+        "name": "丘巴卡",
+        "subtitle": "忠实的朋友",
+        "text": "[special] - 将一位对手一个骰子转到显示伤害图标([ranged] or [melee])的一面，然后对一名角色造成那个骰子数值的伤害。"
     },
     {
         "code": "02044",
-        "name": "Jyn Erso",
-        "subtitle": "Reckless Operative",
-        "text": "The cost of the first Yellow event you play each round is decreased by 1."
+        "name": "琴·厄索",
+        "subtitle": "鲁莽的探员",
+        "text": "你每轮打出的第一张黄色事件卡费用减低1点。"
     },
     {
         "code": "02045",
-        "flavor": "If you live long enough, you see the same eyes in different people.",
-        "name": "Maz Kanata",
-        "subtitle": "Pirate Queen",
-        "text": "After you activate this character, you may resolve up to 2 of your dice."
+        "flavor": "如果你活得够久，你会在很多不同的人看到相同的眼睛",
+        "name": "玛兹·卡纳塔",
+        "subtitle": "海盗女王",
+        "text": "在你启动这名角色之后，你可以结算最多2个你的骰子。"
     },
     {
         "code": "02046",
-        "name": "Outer Rim Smuggler",
-        "text": "The first time each round you play the last card from your hand, gain 1 resource."
+        "name": "外环走私者",
+        "text": "每轮中第一次，在你打出最后一张手牌之后，获得1个资源。"
     },
     {
         "code": "02047",
-        "name": "Smuggling Freighter",
-        "text": "After you resolve one of this die's sides showing a value of 2, place this support on the top of your deck."
+        "name": "走私货船",
+        "text": "在你结算该骰子数值显示为2的一面之后，将该载具卡放置于你牌堆顶部。"
     },
     {
         "code": "02048",
-        "flavor": "\"I like this thing.\" <cite>Han Solo</cite>",
-        "name": "Bowcaster",
-        "text": "Redeploy.\n[special] - Deal 1 unblockable damage each to up to 2 different characters."
+        "flavor": "\"我喜欢这个。\" <cite>汉·索洛</cite>",
+        "name": "弩枪",
+        "text": "调配。\n[special] - 对最多2名角色各造成1点不可阻挡的伤害。"
     },
     {
         "code": "02049",
-        "name": "Lone Operative",
-        "text": "[special] - Heal 2 damage from attached character, or 3 damage instead if attached characer is your only character in play."
+        "name": "单独行动",
+        "text": "[special] - 治愈强化角色2点伤害，如果强化角色是你在场的唯一一名角色则治愈3点伤害。"
     },
     {
         "code": "02050",
-        "name": "Maz's Goggles",
-        "text": "To play, spot a Yellow character.\n[special] - Look at an opponent's hand and discard an event from it."
+        "name": "玛兹的眼镜",
+        "text": "你必须与一名黄色角色保持联络才能打出此牌。\n[special] - 查看一位对手的手牌，并从中丢弃一张事件卡。"
     },
     {
         "code": "02051",
-        "name": "Supply Line",
-        "text": "[special] - Reroll any number of your dice."
+        "name": "补给线",
+        "text": "[special] - 重掷你任意数量的骰子。"
     },
     {
         "code": "02052",
-        "name": "Astromech",
-        "text": "<b>Action</b> - Remove this die to turn a <i>vehicle</i> die to any side."
+        "name": "宇航技工",
+        "text": "<b>行动</b> - 移除这个骰子，将一个<i>载具</i>骰转到任意一面。"
     },
     {
         "code": "02053",
-        "name": "Rocket Launcher",
-        "text": "[special] - Discard a <i>vehicle</i> from play.\n[special] - Deal 2 damage each to up to 2 different characters."
+        "name": "火箭发射器",
+        "text": "[special] -丢弃场上一张<i>载具</i>卡。\n[special] - 对最多2名角色各造成2点伤害。"
     },
     {
         "code": "02054",
-        "name": "Force Push",
-        "text": "Blue character only.\n[special] - Turn up to 2 of an opponent's dice to sides of your choice."
+        "name": "原力推击",
+        "text": "蓝色角色专用。\n[special] - T将一位对手最多2个骰子转到你选择的面。"
     },
     {
         "code": "02055",
-        "name": "Force Speed",
-        "text": "Blue character only.\n[special] - Take up to 2 additional actions."
+        "name": "原力加速",
+        "text": "蓝色角色专用。\n[special] - 可以再执行最多两个行动。"
     },
     {
         "code": "02056",
-        "name": "Makashi Training",
-        "text": "To play, spot a Blue character.\n<b>Action</b> - Remove one of your dice showing melee damage ([melee]) and exhaust this upgrade to remove a die showing melee damage ([melee])."
+        "name": "争斗训练",
+        "text": "你必须与一名蓝色角色保持联络才能打出此牌。\n<b>行动</b> - 移除你一个显示近战伤害面([melee])的骰子并消耗该强化卡，移除一个显示近战伤害面([melee])的骰子。"
     },
     {
         "code": "02057",
-        "name": "Vibroknife",
-        "text": "Ambush.\nWhile this die is in your pool, melee damage ([melee]) dealt by your dice (<em>including this die</em>) is unblockable."
+        "name": "振动匕首",
+        "text": "伏击。\n该骰子或被该骰子修正的骰子，所造成的伤害都视为不可阻挡。"
     },
     {
         "code": "02058",
-        "name": "Quadjumper",
-        "text": "<b>Action</b> - Discard this support to play a support from your hand, decreasing its cost by 3."
+        "name": "四跃飞船",
+        "text": "<b>行动</b> - 丢弃该支援卡，从你手牌打出一张支援卡，其费用降低3点。"
     },
     {
         "code": "02059",
-        "name": "Ascension Gun",
-        "text": "[special] - Use the ability on a battlefield that is not being used <em>(but was brought to the game)</em> as if you had just claimed it."
+        "name": "攀绳枪",
+        "text": "[special] - 立刻使用未被选择的一张战场卡<em>(带来游戏但未选择的那张)</em>的宣告技能，这次效果中你被视为战场控制者。"
     },
     {
         "code": "02060",
-        "name": "Con Artist",
-        "text": "Yellow character only.\n[special] - Place 1 damage on this upgrade. Then discard cards from the top of an opponent's deck equal to the amount of damage on this upgrade."
+        "name": "行骗高手",
+        "text": "黄色角色专用。\n[special] -在该强化卡上放置1点伤害。然后丢弃一位对手牌堆顶部，等同于该卡上伤害数量的卡牌。"
     },
     {
         "code": "02061",
-        "name": "Battle Formation",
-        "text": "Ambush.\nCount the number of Red characters you have. You may reroll that many of your dice."
+        "name": "战斗队形",
+        "text": "伏击。\n记录你的红色角色数，重掷你等同于那个数量的骰子。"
     },
     {
         "code": "02062",
-        "name": "Imperial War Machine",
-        "text": "Resolve one of your Red dice showing a resource cost for free."
+        "name": "帝国战争机器",
+        "text": "免费结算你一个带有费用的红色骰子。"
     },
     {
         "code": "02063",
-        "name": "Lockdown",
-        "text": "Ambush.\nSpot two Red characters to take control of the battlefield. (<em>This does not claim the battlefield.</em>)"
+        "name": "行动封锁",
+        "text": "伏击。\n如果你与两名红色角色保持联络，立刻控制战场。(<em>这不会令你宣告战场。</em>)"
     },
     {
         "code": "02064",
-        "name": "Sustained Fire",
-        "text": "Play only if you have 2 or more dice showing ranged damage ([ranged]).\nRemove all shields from all of an opponent's characters."
+        "name": "持续射击",
+        "text": "你必须有至少2个显示远程伤害面([ranged])的骰子才能打出此牌。\n移除一名对手所有角色的所有护盾。"
     },
     {
         "code": "02065",
-        "name": "Traitor!",
-        "text": "Ambush.\nDiscard the top card of your deck. Then remove a die not showing a special ([special]) that has a value equal to or less than the cost of the card you just discarded."
+        "name": "叛徒！",
+        "text": "伏击。\n丢弃你牌堆顶部1张卡牌。然后移除一个未显示特殊面([special])，并且数值小于等于丢弃卡牌费用的骰子。"
     },
     {
         "code": "02066",
-        "name": "Trench Warfare",
-        "text": "Play only if you have one or more dice showing a shield ([shield]).\nTurn any number of an opponent's dice to sides showing shields ([shield])."
+        "name": "阵地战",
+        "text": "你必须有至少1个显示护盾面([shield])的骰子才能打出此牌。\n将一位对手任意数量的骰子转移到护盾面([shield])。"
     },
     {
         "code": "02067",
-        "name": "Undying Loyalty",
-        "text": "Heal 1 damage from a Red character. If there is another copy of this event in your discard pile, you may spend 1 resource to place this event on the top of your deck instead of discarding it."
+        "name": "不朽忠心",
+        "text": "治愈一名红色角色1点伤害。如果你的弃牌堆中也有一张该事件卡，你可以花费1个资源，不丢弃此牌，而是放置到你的牌堆顶部。"
     },
     {
         "code": "02068",
-        "name": "We Have Them Now",
-        "text": "Play only if you control de battlefield.\nTurn up to 4 of your dice to sides showing damage ([ranged] or [melee])."
+        "name": "我们抓到他们了",
+        "text": "你必须控制战场才能打出此牌。\n将最多4个你的骰子转移到显示伤害图标([ranged] or [melee])面。"
     },
     {
         "code": "02069",
-        "name": "Attrition",
-        "text": "After one of your characters is defeated, deal 1 damage to a character."
+        "name": "消耗战",
+        "text": "在你的一名角色被击败之后，对一名角色造成1点伤害。"
     },
     {
         "code": "02070",
-        "name": "Imperial Inspection",
-        "text": "After one of your dice rolls a disrupt ([disrupt]), you may exhaust this support to return an upgrade in play that costs 2 or less to its owner's hand."
+        "name": "帝国视察",
+        "text": "在你一个骰子掷出干扰面([disrupt])之后，你可以将该支援卡放在一边，将场上一张费用小于等于2的强化卡返回持有玩家的手牌。"
     },
     {
         "code": "02071",
-        "name": "Anger",
-        "text": "Play only if you have 2 or more dice showing blanks ([blank]).\nResolve an opponent's die showing damage ([ranged] or [melee]) as if it were your die."
+        "name": "愤怒",
+        "text": "你必须有至少2个显示空白面([blank])的骰子才能打出此牌。\n结算一名对手的一个显示伤害面([ranged] or [melee])的骰子，将该骰子视为你的。"
     },
     {
         "code": "02072",
-        "name": "Lightsaber Throw",
-        "text": "Play only if you have one or more dice showing melee damage ([melee]).\nDeal 2 damage to a character."
+        "name": "投掷光剑",
+        "text": "你必须有至少1个显示近战伤害面([melee])的骰子才能打出此牌。\n对一名角色造成2点伤害。"
     },
     {
         "code": "02073",
-        "name": "Manipulate",
-        "text": "Turn one of your dice to a side showing a blank ([blank]). Then turn an opponent's die to a side showing a blank ([blank])."
+        "name": "操纵",
+        "text": "将你一个骰子转到空白面([blank])。然后将一位对手的一个骰子转到空白面([blank])。"
     },
     {
         "code": "02074",
-        "name": "No Disintegrations",
-        "text": "Discard the top card of an opponent's deck, or 3 cards instead if there is another copy of this event in your discard pile."
+        "name": "不要碎尸",
+        "text": "丢弃一位对手牌堆顶部1张牌。如果你的弃牌堆中也有一张该事件卡，则丢弃3张牌。"
     },
     {
         "code": "02075",
-        "name": "Now You Will Die",
-        "text": "Resolve one of your dice as if it were showing melee damage ([melee]) <em>(it keeps its original value)</em>."
+        "name": "现在，你该去死了",
+        "text": "结算你的一个骰子，将其图标视为近战伤害([melee])<em>(骰子数值保持不变)<em>。"
     },
     {
         "code": "02076",
-        "name": "Rise Again",
-        "text": "Heal 5 damage from a unique Blue character. You may play an upgrade from your discard pile on it for free."
+        "name": "再次崛起",
+        "text": "治愈一名独特蓝色角色5点伤害。你可以从弃牌堆选择一张强化卡免费打给该角色。"
     },
     {
         "code": "02077",
-        "name": "The Price of Failure",
-        "text": "Spot a Blue character and defeat one of your characters to ready a character."
+        "name": "失败的代价",
+        "text": "如果你与一名蓝色角色保持联络，击败一名你的角色，准备一名角色。"
     },
     {
         "code": "02078",
-        "name": "Dark Presence",
-        "text": "After one of your dice rolls a discard ([discard]), you may exhaust this support to force an opponent to choose and remove one of their dice."
+        "name": "黑暗势力",
+        "text": "在你的一个骰子掷出弃牌面([discard])之后，你可以消耗该支援卡，强制一名对手选择其一个骰子移除。"
     },
     {
         "code": "02079",
-        "name": "Now I Am The Master",
-        "text": "After attached character's character or upgrade dice deal damage, you may exhaust this upgrade to turn a die to a side showing a blank ([blank])."
+        "name": "现在，我就是大师",
+        "text": "在强化角色的角色骰或强化骰造成伤害之后，你可以消耗该强化卡，将一个骰子转到空白面([blank])。"
     },
     {
         "code": "02080",
-        "name": "Doubt",
-        "text": "Reroll an opponent's die. Then that opponent either resolves that die or removes it."
+        "name": "怀疑",
+        "text": "重掷一位对手的一个骰子。然后那位对手必须选择立刻结算那个骰子，或者移除那个骰子。"
     },
     {
         "code": "02081",
-        "name": "Arms Deal",
-        "text": "Discard any number of <i>weapons</i> from your hand. Then gain 1 resource for each card you just discarded."
+        "name": "军火交易",
+        "text": "从手牌丢弃任意数量的<i>武器</i>卡。然后你每丢弃1张卡牌，获得1个资源。"
     },
     {
         "code": "02082",
-        "name": "Bait and Switch",
-        "text": "Ambush.\nTurn one of your dice showing a resource ([resource]) to any side."
+        "name": "偷梁换柱",
+        "text": "伏击。\n将你一个显示资源面([resource])的骰子转到任意一面。"
     },
     {
         "code": "02083",
-        "name": "Friends in High Places",
-        "text": "Play only if you have dice showing a combined value of 7 or more.\nLook at the top 3 cards of your deck. You may play one of those cards for free. Discard the cards you don't play."
+        "name": "上层朋友",
+        "text": "你骰子总数值必须大于等于7才能打出此牌。\n查看你牌堆顶部3张卡牌，选择一张免费打出，将未选择的卡牌丢弃。"
     },
     {
         "code": "02084",
-        "name": "Loose Ends",
-        "text": "Ambush.\nRemove one of your dice showing ranged damage ([ranged]) to discard the top 4 cards of an opponent's deck."
+        "name": "细枝末节",
+        "text": "伏击。\n移除你一个显示远程伤害面([ranged])的骰子，丢弃一位对手牌堆顶部4张卡牌。"
     },
     {
         "code": "02085",
-        "name": "One-Quarter Portion",
-        "text": "Remove an opponenet's die. Then that opponent gains 1 resource."
+        "name": "四分之一口粮",
+        "text": "移除一位对手的一个骰子。然后那位对手获得1个资源。"
     },
     {
         "code": "02086",
-        "name": "Relentless Pursuit",
-        "text": "Move up to 2 damage from an opponent's character to another character (<em>this ignores shields.</em>)"
+        "name": "紧追不舍",
+        "text": "一位对手一名角色上最多2点伤害，移动到另一名角色上(<em>无视护盾<em>)。"
     },
     {
         "code": "02087",
-        "name": "Scrap Buy",
-        "text": "Play only if you have 3 or more cards in your discard pile.\nAdd a random card from your discard pile to your hand (<em>show the card to your opponents</em>)."
+        "name": "采购废料",
+        "text": "你弃牌堆中必须有至少3张卡牌才能打出此牌。\n从弃牌堆中随机抽出1张卡牌加入手中(<em>你需要向对手展示该牌<em>)。"
     },
     {
         "code": "02088",
-        "name": "Salvage Stand",
-        "text": "After one of your dice rolls a resource ([resource]), you may exhaust this support to force an opponent to lose 1 resource."
+        "name": "救援站",
+        "text": "在你的一个骰子掷出资源面([resource])之后，你可以消耗该支援卡，强制一位对手失去1个资源。"
     },
     {
         "code": "02089",
-        "name": "Armor Plating",
-        "text": "Before attached character takes damage, you may block up to 2 damage. Then discard this upgrade from play."
+        "name": "强化装甲",
+        "text": "在强化角色受到伤害之前，你可以抵消最多2点伤害，然后将这张强化卡从场上丢弃。"
     },
     {
         "code": "02090",
-        "name": "Emergency Evacuation",
-        "text": "Remove all dice."
+        "name": "紧急疏散",
+        "text": "移除所有骰子。"
     },
     {
         "code": "02091",
-        "name": "Friendly Fire",
-        "text": "Spot a Red character and remove an opponent's dice showing ranged damage ([ranged]) to deal that damage to a character."
+        "name": "友军伤害",
+        "text": "如果你与一名红色角色保持联络，移除一位对手一个显示远程伤害面([ranged])的骰子，并对一名角色造成骰子数值的伤害。"
     },
     {
         "code": "02092",
-        "name": "Guerrilla Warfare",
-        "text": "Ambush.\nRemove one of your Red dice to deal 1 damage to a character."
+        "name": "游击战术",
+        "text": "伏击。\n移除你的一个红色骰子，对一名角色造成1点伤害。"
     },
     {
         "code": "02093",
-        "name": "Our Only Hope",
-        "text": "Draw a card. You may play that card for free or discard that card to gain 2 resources."
+        "name": "我们唯一的希望",
+        "text": "抽取1张卡牌。你可以免费打出抽到的牌，或者丢弃那张卡牌获得2个资源。"
     },
     {
         "code": "02094",
-        "name": "Rebel Assault",
-        "text": "Play only if you have one or more dice showing ranged damage ([ranged]).\nRemove an opponent's die not showing damage ([ranged] or [melee])."
+        "name": "义军突袭",
+        "text": "你必须有至少一个显示远程伤害面([ranged])的骰子才能打出此牌。\n移除一位对手一个未显示伤害面([ranged] or [melee])的骰子。"
     },
     {
         "code": "02095",
-        "name": "Sensor Placement",
-        "text": "Spot a red character to resolve an opponent's die not showing damage ([ranged] or [melee]) as if it were your die."
+        "name": "测点布置",
+        "text": "如果你与一名红色角色保持联络，结算一名对手一个显示非伤害面([ranged] or [melee])的骰子，将该骰子视为你的。"
     },
     {
         "code": "02096",
-        "name": "Spirit of Rebellion",
-        "text": "Give a character 1 shield, or 2 shields instead if there is another copy of this event in your discard pile."
+        "name": "义军之魂",
+        "text": "给一名角色1个护盾。如果你的弃牌堆中也有一张该事件卡，则给2个护盾。"
     },
     {
         "code": "02097",
-        "name": "Planetary Uprising",
-        "text": "After you claim the battlefield, force an opponent to deal 2 damage to their characters, distributed as they wish."
+        "name": "星球崛起",
+        "text": "在你宣告战场之后，强制一位对手对其角色造成共计2点伤害，该对手可以自由分配伤害。"
     },
     {
         "code": "02098",
-        "name": "Spy Net",
-        "text": "After one of your dice rolls a focus ([focus]), you may exhaust this support to discard the top card of an opponent's deck."
+        "name": "间谍网络",
+        "text": "在你的一个骰子掷出集中面([focus])之后，你可以消耗该支援卡，丢弃一位对手牌堆顶部1张卡牌。"
     },
     {
         "code": "02099",
-        "name": "Tactical Aptitude",
-        "text": "After you activate attached character, you may draw a card. Then place a card form your hand on the bottom of your deck."
+        "name": "战术天赋",
+        "text": "在你启动强化角色之后，你可以抽取1张卡牌。然后从手牌中选择一张牌放回牌堆底部。"
     },
     {
         "code": "02100",
-        "name": "Caution",
-        "text": "Remove one of your character dice to give another character 3 shields."
+        "name": "警告",
+        "text": "移除你一个角色骰，给另外一名角色3个护盾。"
     },
     {
         "code": "02101",
-        "name": "Destiny",
-        "text": "Remove any number of your Blue dice. Play a card from your hand for free that costs equal to or less than the combined value of the Blue dice you just removed."
+        "name": "命运",
+        "text": "移除你任意数量的蓝色骰子。从手牌中免费打出一张费用小于等于移除骰子数值之和的卡牌。"
     },
     {
         "code": "02102",
-        "name": "Determination",
-        "text": "Play only if you have one or more dice showing a focus ([focus]).\nResolve one of your dice as if it was showing a different symbol <em>(it keeps its original value)</em>"
+        "name": "决心",
+        "text": "你必须有至少一个显示集中面([focus])的骰子才能打出此牌。\n结算你的一个骰子，将其图标视为另外一个不同的图标<em>(骰子数值保持不变)<em>。"
     },
     {
         "code": "02103",
-        "name": "Guard",
-        "text": "Remove one of your Blue dice showing melee damage ([melee]) to remove a number of an opponent's dice equal to the value of the die you just removed."
+        "name": "守护",
+        "text": "移除你一个蓝色并显示近战伤害面([melee])的骰子，移除一位对手等同于骰子数值的数量的骰子。"
     },
     {
         "code": "02104",
-        "name": "Krayt Dragon Howl",
-        "text": "Spot a Blue character to choose an opponent's die. That opponent chooses to either remove that die or discard the top 2 cards of their deck."
+        "name": "克雷特龙的吼叫",
+        "text": "如果你与一名蓝色角色保持联络，选择一位对手的一个骰子，该对手必须选择移除那个骰子，或者丢弃其牌堆顶部2张卡牌。"
     },
     {
         "code": "02105",
-        "name": "My Ally Is The Force",
-        "text": "Ambush.\nResolve one of your Blue dice without removing it from your pool."
+        "name": "盟友即我原力",
+        "text": "伏击。\n结算你的一个蓝色骰子，结算后无需将骰子移除。"
     },
     {
         "code": "02106",
-        "name": "Synchronicity",
-        "text": "Play only if you have dice showing melee damage ([melee]) and shields ([shield]).\nDeal 2 unblockable damage to a character."
+        "name": "步调一致",
+        "text": "你必须持有显示近战伤害面([melee])和护盾面([shield])的骰子才能打出此牌。\n对一名角色造成2点不可阻挡的伤害。"
     },
     {
         "code": "02107",
-        "name": "Your Eyes Can Deceive You",
-        "text": "After one of your dice rolls a shield ([shield]), you may exhaust this support to turn an opponent's die to any side."
+        "name": "眼睛会欺骗你",
+        "text": "在你的一个骰子掷出护盾面([shield])之后，你可以消耗该支援卡，将一位对手一个骰子转到任意面。"
     },
     {
         "code": "02108",
-        "name": "Protective Mentor",
-        "text": "Attached character's shields can be used to block damage dealt to any character."
+        "name": "防御指导",
+        "text": "强化角色的护盾可以用来抵消任意一名角色受到的伤害。"
     },
     {
         "code": "02109",
-        "name": "Confidence",
-        "text": "Choose an opponent's die and force them to resolve it, if able."
+        "name": "信心",
+        "text": "选择一位对手的一个骰子，如果可以的话，强制结算那个骰子。"
     },
     {
         "code": "02110",
-        "name": "Garbage'll Do",
-        "text": "Ambush.\nRemove one of your <b>vehicle</b> dice to give each of your characters 1 shield."
+        "name": "连白痴都会",
+        "text": "伏击。\n移除你的一个<b>载具</b>骰，给你的每一名角色1个护盾。"
     },
     {
         "code": "02111",
-        "name": "Hold On!",
-        "text": "Ambush.\nMove any number of shields from one of your character to another character."
+        "name": "坚持住！",
+        "text": "伏击。\n将你一名角色的任意数量护盾，移动到另一名角色上。"
     },
     {
         "code": "02112",
-        "name": "Rebel",
-        "text": "Play only if you have one or more dice showing a discard.\nPlay a card from your discard pile, decreasing its cost by 1."
+        "name": "反抗",
+        "text": "你必须有至少一个显示弃牌面的骰子才能打出此牌。\n从你弃牌堆中打出一张卡牌，其费用降低1点。"
     },
     {
         "code": "02113",
-        "name": "Long Con",
-        "text": "Gain 3 resources if there is another copy of this event in your discard pile."
+        "name": "长线诈骗",
+        "text": "如果你的弃牌堆中也有一张该事件卡，获得3个资源。"
     },
     {
         "code": "02114",
-        "name": "Loth-Cat and Mouse",
-        "text": "Force an opponent to choose and remove one of your dice. Then remove one of their dice."
+        "name": "洛塔猫和老鼠",
+        "text": "强制一位对手选择你的一个骰子移除，然后移除这位对手的一个骰子。"
     },
     {
         "code": "02115",
-        "name": "Never Tell Me The Odds",
-        "text": "Choose one of your Yellow characters. Turn any number of its character and upgrade dice to sides of your choice."
+        "name": "别和我说概率",
+        "text": "选择你的一个黄色角色，将其任意数量的角色骰和强化骰转到任意面。"
     },
     {
         "code": "02116",
-        "name": "Planned Explosion",
-        "text": "Play only if you have dice showing a combined value of 10 or more.\nRemove all of your dice and deal 10 damage to a character."
+        "name": "引爆计划",
+        "text": "你骰子总数值必须大于等于10才能打出此牌。\n移除你所有骰子，对一名角色造成10点伤害。"
     },
     {
         "code": "02117",
-        "name": "Double-Dealing",
-        "text": "After one of your dice rolls a special ([special]), you may exhaust this support to gain 1 resource."
+        "name": "两面派",
+        "text": "在你的一个骰子掷出特殊面([special])之后，你可以消耗该支援卡，获得1个资源。"
     },
     {
         "code": "02118",
-        "name": "Life Debt",
-        "text": "Yellow character only.\nAfter you activate this character, you may move 1 damage from another character to this character <em>(this ignores shields)</em>."
+        "name": "生命债",
+        "text": "黄色角色专用。\n在你启动强化角色之后，你可以将另外一名角色的1点伤害，移动到强化角色上<em>(无视护盾)<em>。"
     },
     {
         "code": "02119",
-        "name": "Bombing Run",
-        "text": "Resolve one of your Red dice showing a disrupt ([disrupt]). Then deal 1 damage to each of an opponent's characters."
+        "name": "轰炸航程",
+        "text": "结算你的一个显示干扰面([disrupt])的红色骰子，然后对一位对手所有角色各造成1点伤害。"
     },
     {
         "code": "02120",
-        "name": "Collateral Damage",
-        "text": "Resolve one or more of your dice showing either melee damage ([melee]) or ranged damage ([ranged]). Then force an opponent to lose 1 resource."
+        "name": "额外损失",
+        "text": "算你至少1个显示近战伤害([melee])或远程伤害([ranged])面的骰子。然后强制一位对手失去1个资源。"
     },
     {
         "code": "02121",
-        "name": "Salvo",
-        "text": "Resolve one of your dice showing ranged damage ([ranged]) against each of an opponent's characters."
+        "name": "奇袭",
+        "text": "结算你的一个显示远程伤害面([ranged])的骰子，该骰子将对一位对手所有角色各造成伤害。"
     },
     {
         "code": "02122",
-        "name": "Suppression",
-        "text": "Remove one of your Red dice showing ranged damage ([ranged]). Then remove an opponent's die."
+        "name": "战场压制",
+        "text": "移除你的一个显示远程伤害面([ranged])的红色骰子，然后移除一名对手的一个骰子。"
     },
     {
         "code": "02123",
-        "name": "Aftermath",
-        "text": "After a character is defeated, gain 1 resource."
+        "name": "战后余波",
+        "text": "在你的一名角色被击败之后，获得1个资源。"
     },
     {
         "code": "02124",
-        "name": "Air Superiority",
-        "text": "After you play this support, place 3 shields on it.\n<b>Action</b> - Exhaust this support to move 1 shield from it to a character."
+        "name": "空中优势",
+        "text": "在打出这张支援卡之后，在卡上放置3个护盾。\n<b>行动</b> - 消耗该支援卡，将卡上1个护盾转移到一名角色上。"
     },
     {
         "code": "02125",
-        "name": "Training",
-        "text": "Non-unique Red character only.\nAttached character is elite (<em>place a second copy of its die on its card</em>)."
+        "name": "训练",
+        "text": "非独特红色角色专用。\n强化角色获得“精英”关键词(<em>在该卡上放置第二个对应的骰子<em>)。"
     },
     {
         "code": "02126",
-        "name": "Wingman",
-        "text": "Red character only.\nAfter you activate a Red character, you may activate attached character."
+        "name": "僚机",
+        "text": "红色角色专用。\n在你启动一名红色角色之后，你可以启动强化角色。"
     },
     {
         "code": "02127",
-        "name": "Decisive Blow",
-        "text": "Resolve one of your dice showing melee damage ([melee]). Then remove all character and upgrade dice of the character you just dealt damage to."
+        "name": "致命一击",
+        "text": "结算你一个显示近战伤害面([melee])的骰子。然后移除你造成伤害的角色的所有角色骰和强化骰。"
     },
     {
         "code": "02128",
-        "name": "High Ground",
-        "text": "Play only if you control the battlefield.\nRemove an opponent's die showing damage ([ranged] or [melee]). Then, if it was a character die, deal 1 damage to that character."
+        "name": "制高点",
+        "text": "你必须控制战场才能打出此牌。\n移除一位对手的一个显示伤害面([ranged] or [melee])的骰子。然后，如果那是个角色骰，对那名角色造成1点伤害。"
     },
     {
         "code": "02129",
-        "name": "Momentum Shift",
-        "text": "Move 1 shield from an opponent's character to one of your characters."
+        "name": "动态转移",
+        "text": "将一位对手一名角色的1个护盾，转移到你的一名角色上。"
     },
     {
         "code": "02130",
-        "name": "Overconfidence",
-        "text": "Spot a Blue character to reroll 2 dice. Then remove one of those dice with the lowest value (<em>you choose in the case of a tie</em>)."
+        "name": "过于自信",
+        "text": "如果你与一名蓝色角色保持联络，重掷2个骰子。然后将两者中较小的一个骰子移除(<em>点数一致时你选择一个移除<em>)。"
     },
     {
         "code": "02131",
-        "name": "Premonitions",
-        "text": "Choose one: set this card aside and stack a card from your hand on it facedown, or play the card stacked on another copy of this card for free and discard the set aside copy."
+        "name": "预感",
+        "text": "选择一个执行：将此牌放在一边并将一张手牌面朝下盖在该牌上；或者将在一边相同牌上的卡牌免费打出并将放在一边的“预感”丢弃。"
     },
     {
         "code": "02132",
-        "name": "Rejuvenate",
-        "text": "Spot a Blue character to heal 1 damage from a character."
+        "name": "复苏",
+        "text": "如果你与一名蓝色角色保持联络，治愈一名角色1点伤害。"
     },
     {
         "code": "02133",
-        "name": "Trust Your Instincts",
-        "text": "Spot a Blue character to reroll any number of its character and upgrade dice. Then you may draw a card."
+        "name": "相信直觉",
+        "text": "如果你与一名蓝色角色保持联络，重掷该角色任意数量的角色骰和强化骰。然后你可以抽取1张卡牌。"
     },
     {
         "code": "02134",
-        "name": "Meditate",
-        "text": "<b>Action</b> - Exhaust this support and remove one of your dice showing a blank ([blank]) to turn one of your dice to a side not showing damage ([ranged] or [melee])."
+        "name": "冥想",
+        "text": "<b>行动</b> - 消耗该支援卡并移除你一个显示空白面([blank])的骰子，将你一个骰子转到任意非伤害面([ranged] or [melee])。"
     },
     {
         "code": "02135",
-        "name": "Force Illusion",
-        "text": "Before attached character takes damage, you may discard cards from the top of your deck equal to that damage to block it. Then discard this upgrade from play."
+        "name": "原力幻影",
+        "text": "在强化角色受到伤害之前，你可以从你牌堆顶部丢弃等同于伤害数值的卡牌来抵消这次伤害。然后将这张强化卡从场上丢弃。"
     },
     {
         "code": "02136",
-        "name": "Evade",
-        "text": "Remove a die showing ranged damage [ranged]"
+        "name": "回避",
+        "text": "移除一个显示远程伤害面[ranged]的骰子。"
     },
     {
         "code": "02137",
-        "name": "New Orders",
-        "text": "Switch the battlefield with a battlefield that is not being used (<em>but was brought to the game</em>) and use its claim ability."
+        "name": "新秩序",
+        "text": "将战场卡替换为未选择的战场卡(<em>带来游戏但未选择的那张<em>)，并使用其宣告能力。"
     },
     {
         "code": "02138",
-        "name": "Parry",
-        "text": "Remove a die showing melee damage ([melee])."
+        "name": "抵挡",
+        "text": "移除一个显示近战伤害面([melee])的骰子。"
     },
     {
         "code": "02139",
-        "name": "Swiftness",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nGive the next card you play this turn the Ambush keyword."
+        "name": "迅速",
+        "text": "伏击。\n给你本回合下一张打出的卡牌“伏击”关键词。"
     },
     {
         "code": "02140",
-        "name": "Resolve",
-        "text": "<b>Action</b> - Discard a card from your hand to reroll an opponent's die."
+        "name": "坚定",
+        "text": "<b>行动</b> - 丢弃你1张手牌，重掷一位对手的一个骰子。"
     },
     {
         "code": "02141",
-        "name": "Ammo Belt",
-        "text": "Before a <i>weapon</i> upgrade on attached character would be discarded by a card effect, you may discard this upgrade instead."
+        "name": "弹带",
+        "text": "在强化角色的一张<i>武器</i>强化卡因卡牌效果被丢弃之前，你可以丢弃该强化卡作为替代。"
     },
     {
         "code": "02142",
-        "name": "Bolt Hole",
-        "text": "Remove one of your Yellow character dice to give that character 2 shields."
+        "name": "小道",
+        "text": "移除你的一个黄色角色骰，给那名角色2个护盾。"
     },
     {
         "code": "02143",
-        "name": "Cheat",
-        "text": "Switch a card in your hand with a card in your discard pile."
+        "name": "作弊",
+        "text": "将你一张手牌与你弃牌堆一张卡牌交换。"
     },
     {
         "code": "02144",
-        "name": "Diversion",
-        "text": "Force an opponent to lose 1 resource, or 3 resources instead if there is another copy of this event in your discard pile."
+        "name": "转向",
+        "text": "强制一位对手失去1个资源。如果你的弃牌堆中也有一张该事件卡，则失去3个资源。"
     },
     {
         "code": "02145",
-        "name": "\"Fair\" Trade",
-        "text": "Resolve one of your dice showing a resource ([resource]). Then switch all of your resources with all of an opponent's resources."
+        "name": "\"公平\" 交易",
+        "text": "结算你一个显示资源面([resource])的骰子。然后将你的所有资源与一位对手的所有资源互换。"
     },
     {
         "code": "02146",
-        "name": "Friends in Low Places",
-        "text": "Spot a Yellow character to look at an opponent's hand and discard an event from it that costs 1 or less."
+        "name": "下层朋友",
+        "text": "如果你与一名黄色角色保持联络，查看一位对手的手牌，选择一张费用小于等于1的事件卡丢弃。"
     },
     {
         "code": "02147",
-        "name": "Sabotage",
-        "text": "Discard cards from your hand equal to the cost of a support in play to discard that support."
+        "name": "破坏",
+        "text": "选择场上一张支援卡，丢弃你等同于其费用的数量的手牌，将那张支援卡丢弃。"
     },
     {
         "code": "02148",
-        "name": "Improvisation",
-        "text": "Ambush.\n<b>Action</b> - Remove one of your dice showing a blank ([blank]) to reroll any number of your dice."
+        "name": "即兴",
+        "text": "伏击。\n<b>行动</b> - 移除你一个显示空白面([blank])的骰子，重掷你任意数量的骰子。"
     },
     {
         "code": "02149",
-        "name": "Outmaneuver",
-        "text": "After you claim the battlefield, gain 1 resource."
+        "name": "以智取胜",
+        "text": "在你宣告战场之后，获得1个资源。"
     },
     {
         "code": "02150",
-        "name": "Fast Hands",
-        "text": "Yellow character only.\nAfter you activate attached character, you may resolve one of its character or upgrade dice."
+        "name": "快手",
+        "text": "黄色角色专用。\n在你启动强化角色之后，你可以结算其一个角色骰或强化骰。"
     },
     {
         "code": "02151",
-        "name": "Carbon-freezing Chamber",
-        "subtitle": "Bespin",
-        "text": "<b>Claim</b> - Choose a character die. That die cannot be rolled during the next round."
+        "name": "碳凝室",
+        "subtitle": "贝斯平",
+        "text": "<b>宣告</b> - 选择一个角色骰，下一轮中那个骰子无法被投掷。"
     },
     {
         "code": "02152",
-        "name": "Cargo Hold",
-        "subtitle": "Eravana",
-        "text": "<b>Claim</b> - Move an upgrade from a character to another character controlled by the same player."
+        "name": "货仓",
+        "subtitle": "埃拉瓦纳",
+        "text": "<b>宣告</b> - 将一名角色的一张强化卡，移动到该角色控制玩家的另一名角色上。"
     },
     {
         "code": "02153",
-        "name": "Docking Bay",
-        "subtitle": "Finalizer",
-        "text": "<b>Claim</b> - Play a support from your hand or discard pile, decreasing its cost by 1."
+        "name": "停靠站",
+        "subtitle": "定局者号",
+        "text": "<b>宣告</b> - 从手牌或弃牌堆中打出一张支援卡，其费用降低1点。"
     },
     {
         "code": "02154",
-        "name": "Ewok Village",
-        "subtitle": "Endor",
-        "text": "<b>Claim</b> - Remove all shields from a character."
+        "name": "伊沃克人村",
+        "subtitle": "恩多",
+        "text": "<b>宣告</b> - 移除一名角色的所有护盾。"
     },
     {
         "code": "02155",
-        "name": "Maz's Castle",
-        "subtitle": "Takodana",
-        "text": "<b>Claim</b> - Draw 2 cards. Place any number of cards from your hand on the bottom of your deck (<em>in any order</em>)."
+        "name": "玛兹的城堡",
+        "subtitle": "塔科达纳",
+        "text": "<b>宣告</b> - 抽取2张卡牌，将你任意数量的手牌放回牌堆底部(<em>任意顺序<em>)。"
     },
     {
         "code": "02156",
-        "name": "Moisture Farm",
-        "subtitle": "Tatooine",
-        "text": "<b>Claim</b> - Gain 1 resource."
+        "name": "湿气农场",
+        "subtitle": "塔图因",
+        "text": "<b>宣告</b> - 获得1个资源。"
     },
     {
         "code": "02157",
-        "name": "Otoh Gunga",
-        "subtitle": "Naboo",
-        "text": "<b>Claim</b> - Heal 1 damage from a character."
+        "name": "奥托冈加",
+        "subtitle": "纳布",
+        "text": "<b>宣告</b> -治愈一名角色1点伤害。"
     },
     {
         "code": "02158",
-        "name": "Secluded Beach",
-        "subtitle": "Scarif",
-        "text": "<b>Claim</b> - Remove an opponent's die showing ranged damage ([ranged])."
+        "name": "幽静沙滩",
+        "subtitle": "斯卡里夫",
+        "text": "<b>宣告</b> - 移除一位对手一个显示远程伤害面([ranged])的骰子。"
     },
     {
         "code": "02159",
-        "name": "Secret Facility",
-        "subtitle": "Scarif",
-        "text": "<b>Claim</b> - Resolve up to 3 of your dice showing damage ([ranged] or [melee])."
+        "name": "秘密工厂",
+        "subtitle": "斯卡里夫",
+        "text": "<b>宣告</b> - 结算你最多3个显示伤害面([ranged] or [melee])的骰子。"
     },
     {
         "code": "02160",
-        "name": "War-Torn Streets",
-        "subtitle": "Jedha",
-        "text": "<b>Claim</b> - Discard a random card from an opponent's hand."
+        "name": "被战火摧残的街道",
+        "subtitle": "杰达",
+        "text": "<b>宣告</b> - 一位对手随机丢弃1张手牌。"
     }
 ]
