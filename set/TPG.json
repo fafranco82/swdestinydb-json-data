@@ -79,7 +79,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "[special] - Deal 1 damage each to any number of characters.",
         "ttscardid": "102",
         "type_code": "support"
@@ -107,7 +109,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "While this upgrade is attached to Captain Phasma, it has the Redeploy keyword.",
         "ttscardid": "103",
         "type_code": "upgrade"
@@ -134,7 +138,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Attached character has the Guardian keyword.",
         "ttscardid": "104",
         "type_code": "upgrade"
@@ -187,7 +193,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "After you play this upgrade on Kylo Ren, deal 1 damage to a character.\n[special] - Deal 2 damage to a character, or 3 damage instead if that character has 1 or more shields.",
         "ttscardid": "106",
         "type_code": "upgrade"
@@ -214,7 +222,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue character only.\n[special] - Remove a die showing ranged damage ([ranged]). Then deal 1 damage to a character.",
         "ttscardid": "107",
         "type_code": "upgrade"
@@ -233,7 +243,9 @@
         "position": 9,
         "rarity_code": "S",
         "set_code": "TPG",
-        "subtype_code": "title",
+        "subtypes": [
+            "title"
+        ],
         "text": "After you activate attached character, you may remove 1 shield from a character.",
         "ttscardid": "108",
         "type_code": "upgrade"
@@ -578,7 +590,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "[special] - Heal 1 damage from a character.",
         "ttscardid": "125",
         "type_code": "support"
@@ -658,7 +672,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "[special] - Deal 2 damage to a character, or 3 damage instead if attached character is Poe Dameron.",
         "ttscardid": "128",
         "type_code": "upgrade"
@@ -685,7 +701,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.\nAfter you play this upgrade, give attached character 1 shield, or 2 shields instead if attached character is Rey.",
         "ttscardid": "129",
         "type_code": "upgrade"
@@ -712,7 +730,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "[special] - Move 1 damage from attached character to an opponent's character with no shields.",
         "ttscardid": "130",
         "type_code": "upgrade"

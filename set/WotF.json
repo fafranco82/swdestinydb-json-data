@@ -23,7 +23,9 @@
             "-"
         ],
         "subtitle": "Fearsome Cyborg",
-        "subtype_code": "leader",
+        "subtypes": [
+            "leader"
+        ],
         "text": "Ignore all play restrictions on <i>weapons</i> played on this character. He can have one additional upgrade.\n<b>Power Action</b> - If 4 of this character's <i>weapon</i> dice are in your pool, deal 4 damage to a character.",
         "ttscardid": "",
         "type_code": "character"
@@ -69,7 +71,9 @@
             "1Dc",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "<b>Power Action</b> - Spend 1 resource or spot General Grievous to ready this support.",
         "ttscardid": "",
         "type_code": "support"
@@ -99,7 +103,9 @@
             "-"
         ],
         "subtitle": "Cutthroat Podracer",
-        "subtype_code": "pilot",
+        "subtypes": [
+            "pilot"
+        ],
         "text": "[special] - Place 1 resource on a support in play or remove 1 resource from a support in play.",
         "type_code": "character"
     },
@@ -125,7 +131,10 @@
             "1Sh",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle",
+            "podracer"
+        ],
         "text": "Ambush.\nAfter you resolve this die, you may deal 1 indirect damage ([indirect]) to an opponent or, if you spot Sebulba, deal 1 damage to a character.",
         "type_code": "support"
     },
@@ -151,7 +160,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "[special] - Deal 1 damage to an opponent's character. If that damage was not blocked, you may move an <i>equipment</i> or <i>weapon</i> from that character to another one of that opponent's characters.",
         "ttscardid": "",
         "type_code": "upgrade"
@@ -178,7 +189,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "[special] - Deal 1 indirect damage ([indirect]) to an opponent. You may resolve another one of your dice.",
         "ttscardid": "",
         "type_code": "upgrade"
@@ -207,7 +220,9 @@
             "-"
         ],
         "subtitle": "Reluctant Instructor",
-        "subtype_code": "jedi",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "You may resolve the shield ([shield]) sides of this die as if they were melee damage ([melee]).\n<b>Power Action</b> - Move a Blue <i>ability</i> from this character to another Blue character.",
         "ttscardid": "",
         "type_code": "character"
@@ -237,7 +252,9 @@
             "-"
         ],
         "subtitle": "Jedi Protector",
-        "subtype_code": "jedi",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "This character has the abilities of each non-unique character you have in play.",
         "ttscardid": "",
         "type_code": "character"
@@ -264,7 +281,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "After you activate this support, you may turn one of your non-unique character dice to any side. If you spot Plo Koon, you may resolve that die.",
         "ttscardid": "",
         "type_code": "support"
@@ -291,7 +310,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "While this upgrade is attached to Luke Skywalker, you may resole the melee damage ([melee]) sides of this die as if they were shields ([shield]).",
         "ttscardid": "",
         "type_code": "upgrade"
@@ -321,7 +342,10 @@
             "-"
         ],
         "subtitle": "Bombastic Ruler",
-        "subtype_code": "gungan",
+        "subtypes": [
+            "gungan",
+            "leader"
+        ],
         "text": "After you activa a <i>Gungan</i>, you may deal indirect damage ([indirect]) to an opponent equal to the number of its character dice that just rolled a blank ([blank]).",
         "type_code": "character"
     },
@@ -350,7 +374,10 @@
             "-"
         ],
         "subtitle": "Clone Captain",
-        "subtype_code": "leader",
+        "subtypes": [
+            "leader",
+            "trooper"
+        ],
         "text": "Before you activate this character, you may spend 1 resource or spot a Clone Trooper to take control of the battlefield.",
         "type_code": "character"
     },
@@ -378,7 +405,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "gungan",
+        "subtypes": [
+            "gungan"
+        ],
         "type_code": "character"
     },
     {
@@ -423,7 +452,9 @@
             "-"
         ],
         "subtitle": "Podracing Prodigy",
-        "subtype_code": "pilot",
+        "subtypes": [
+            "pilot"
+        ],
         "text": "After you activate this character, you may turn one of your <i>droid</i> or <i>podracer</i> dice to any side.",
         "type_code": "character"
     },
@@ -452,7 +483,9 @@
             "-"
         ],
         "subtitle": "Deathwatch Lieutenant",
-        "subtype_code": "trooper",
+        "subtypes": [
+            "trooper"
+        ],
         "text": "You can include Yellow villain upgrades in your deck.\n[special] - Deal 2 damage to a character, or 3 damage instead if this character has 1 or more villain upgrades.",
         "ttscardid": "",
         "type_code": "character"
@@ -496,7 +529,10 @@
             "+1R",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle",
+            "podracer"
+        ],
         "text": "Ambush.\nAfter you resolve this die, you may discard the top card of a deck or, if you spot Anakin Skywalker, discard a random card from an opponent's hand.",
         "type_code": "support"
     },
@@ -573,7 +609,9 @@
             "1Sh",
             "1R"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.\nBefore you resolve this die, increase its value by 1 if attached character is 15 or more points, or by 2 instead if attached character is 20 or more points.",
         "type_code": "upgrade"
     },

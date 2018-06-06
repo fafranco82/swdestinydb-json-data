@@ -99,9 +99,13 @@
             "minLength": 1,
             "type": "string"
         },
-        "subtype_code": {
-            "minLength": 1,
-            "type": "string"
+        "subtypes": {
+            "items": {
+                "minLength": 1,
+                "type": "string"
+            },
+            "minItems": 0,
+            "type": "array"
         },
         "text": {
             "minLength": 1,

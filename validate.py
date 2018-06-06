@@ -166,10 +166,15 @@ class ValidatorBase:
     def custom_check_card(self, card):
         validations = []
         #check foreing codes
-        for collection in ["affiliation", "faction", "rarity", "type", "subtype"]:
+        for collection in ["affiliation", "faction", "rarity", "type"]:
             field = collection + "_code"
             if field in card and not card.get(field) in self.collections[collection]:
                 validations.append("%s code '%s' does not exist in card '%s'" % (collection, card.get(field), card.get('code')))
+
+        #check subtypes
+        if 'subtypes' in card:
+            for subtype in [s for s in card.get('subtypes') if not s in self.collections['subtype']]:
+                validations.append("Subtype code '%s' does not exist in card '%s'" % (subtype, card.get('code')))
 
         #check reprint of
         if 'reprint_of' in card and not card.get('reprint_of') in self.collections['card']:
