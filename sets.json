@@ -50,8 +50,8 @@
         "size": 180
     },
     {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
+        "cgdb_id_end": 6,
+        "cgdb_id_start": 6,
         "code": "RIV",
         "cycle_code": "LEG",
         "date_release": "2018-02-15",
