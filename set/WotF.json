@@ -457,6 +457,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "07060",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "John Pacer",
+        "is_unique": false,
+        "name": "Luke's Training",
+        "position": 60,
+        "rarity_code": "U",
+        "set_code": "WotF",
+        "text": "Spot 2 Blue characters or Luke Skywalker to play a Blue <i>ability</i> from your hand or discard pile, decreasing its cost by 1.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "07065",
         "cost": 3,
         "deck_limit": 2,
@@ -539,6 +556,35 @@
         ],
         "text": "While this upgrade is attached to Luke Skywalker, you may resole the melee damage ([melee]) sides of this die as if they were shields ([shield]).",
         "ttscardid": "",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "07070",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"Do. Or do not.\" <cite>Yoda</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Javier Charro Martinez",
+        "is_unique": false,
+        "name": "There Is No Try",
+        "position": 70,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1MD",
+            "2MD1",
+            "1F",
+            "2Sh1",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "<b>Action</b> - Reroll this die. Then you may resolve it, increasing its value by 1. Otherwise, remove it.",
         "type_code": "upgrade"
     },
     {
@@ -869,6 +915,34 @@
         "set_code": "WotF",
         "text": "Each of your characters can have one additional upgrade.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "07118",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": false,
+        "name": "Force Jump",
+        "position": 118,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1Sh",
+            "1Sh",
+            "Sp",
+            "Sp",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Blue character only.\n[special] - Turn a die showing damage ([ranged], [melee] or [indirect]) to a side showing a blank ([blank]). Reroll this die instead of removing it.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",
