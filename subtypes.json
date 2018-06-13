@@ -24,6 +24,10 @@
         "name": "Gungan"
     },
     {
+        "code": "inquisitor",
+        "name": "Inquisitor"
+    },
+    {
         "code": "jawa",
         "name": "Jawa"
     },

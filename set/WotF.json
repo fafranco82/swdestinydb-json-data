@@ -1,6 +1,65 @@
 [
     {
         "affiliation_code": "villain",
+        "code": "07002",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"The kill is mine!\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "Antonio Jose Manzanedo",
+        "is_unique": true,
+        "name": "Fifth Brother",
+        "points": "13/16",
+        "position": 2,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1Dc",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Intimidating Enforcer",
+        "subtypes": [
+            "inquisitor"
+        ],
+        "text": "[special] - Resolve one of your non-<i>ability</i> Blue upgrade dice without removing it from your pool.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "07015",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Alexandr Elichev",
+        "is_unique": true,
+        "name": "Fifth Brother's Lightsaber",
+        "position": 15,
+        "rarity_code": "L",
+        "set_code": "WotF",
+        "sides": [
+            "+1MD",
+            "+2MD",
+            "+3MD",
+            "1Sh",
+            "+1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "While this upgrade is on Fifth Brother, you can resolve this die showing a modifier as if it were not a modifier.\nAfter you resolve this die, you may deal 1 damage to a character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "07018",
         "deck_limit": 1,
         "faction_code": "red",
