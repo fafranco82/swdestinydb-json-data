@@ -1,6 +1,37 @@
 [
     {
         "affiliation_code": "villain",
+        "code": "07018",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"They flight so hard to gain so little.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Mark Bulahao",
+        "is_unique": true,
+        "name": "Arihnda Pryce",
+        "points": "10/13",
+        "position": 18,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "2MD",
+            "1Dc",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Unscrupulous Governor",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "[special] - Turn another of your dice to any side. If you control the battlefield, you may resolve that die, increasing its value by 1.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "07021",
         "deck_limit": 1,
         "faction_code": "red",
@@ -32,6 +63,23 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "07022",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Matt Bradbury",
+        "is_unique": false,
+        "name": "Art of War",
+        "position": 22,
+        "rarity_code": "U",
+        "set_code": "WotF",
+        "text": "Spot a Red character to reveal an opponent's hand. For each card just revealed, remove a die showing a value that is equal to that card's cost.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "07023",
         "cost": 2,
         "deck_limit": 2,
@@ -46,6 +94,23 @@
         "set_code": "WotF",
         "text": "Spot 2 Red characters or General Grievous to roll all <i>weapon</i> dice on one of your characters into your pool.",
         "ttscardid": "",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "07027",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": false,
+        "name": "Testing Procedure",
+        "position": 27,
+        "rarity_code": "C",
+        "set_code": "WotF",
+        "text": "Activate up to 2 of your supports. Then, if any of those support dice just rolled damage ([ranged], [melee] or [indirect]), gain 1 resource.",
         "type_code": "event"
     },
     {
@@ -76,6 +141,30 @@
         ],
         "text": "<b>Power Action</b> - Spend 1 resource or spot General Grievous to ready this support.",
         "ttscardid": "",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "07033",
+        "cost": 6,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "Planetary Bombardment",
+        "position": 33,
+        "rarity_code": "L",
+        "set_code": "WotF",
+        "sides": [
+            "4ID",
+            "5ID",
+            "6ID1",
+            "7ID1",
+            "4Dr",
+            "-"
+        ],
+        "text": "Ambush.\nAfter you play this support, you may deal indirect damage ([indirect]) to an opponent equal to the number of <i>vehicles</i> you spot.",
         "type_code": "support"
     },
     {
@@ -198,6 +287,37 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "07054",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"We can fight him together!\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "Audrey Hotte",
+        "is_unique": true,
+        "name": "Ezra Bridger",
+        "points": "8/11",
+        "position": 54,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1Dr",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Aspiring Jedi",
+        "subtypes": [
+            "spectre"
+        ],
+        "text": "<b>Power Action</b> - If this character has one or more upgrades, draw a card, or 2 cards instead if he has 3 or more upgrades.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "07056",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -261,6 +381,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "07059",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "JB Casacop",
+        "is_unique": false,
+        "name": "Loth-Wolf Bond",
+        "position": 59,
+        "rarity_code": "C",
+        "set_code": "WotF",
+        "text": "Give up to 2 of your Blue characters 1 shield each. You may activate those characters in the order of your choice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "07065",
         "cost": 3,
         "deck_limit": 2,
@@ -287,6 +424,34 @@
         "text": "After you activate this support, you may turn one of your non-unique character dice to any side. If you spot Plo Koon, you may resolve that die.",
         "ttscardid": "",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "07067",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Jeff Lee Johnson",
+        "is_unique": true,
+        "name": "Ezra Bridger's Lightsaber",
+        "position": 67,
+        "rarity_code": "L",
+        "set_code": "WotF",
+        "sides": [
+            "1RD",
+            "2MD",
+            "1Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Redeploy.\n[special] - Deal 2 damage to an opponent's character. If this upgrade is on Ezra Bridger, force that opponent to lose 1 resource.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
@@ -492,6 +657,54 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "07090",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"I've been in this fight since I was six years old.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Borja Pintado",
+        "is_unique": true,
+        "name": "Cassian Andor",
+        "points": "10/14",
+        "position": 90,
+        "rarity_code": "L",
+        "set_code": "WotF",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1Dc",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Rebellion Operative",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "After you resolve this die, you may deal 1 indirect damage ([indirect]) to an opponent or discard the top card of a deck.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "07092",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Clandestine Operation",
+        "position": 92,
+        "rarity_code": "U",
+        "set_code": "WotF",
+        "text": "Spot 2 Yellow characters or Cassian Andor to resolve any number of your dice showing the same symbol. Then discard cards from the top of a deck equal to the number of dice you just resolved.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "07095",
         "cost": 1,
         "deck_limit": 2,
@@ -537,6 +750,34 @@
         "type_code": "support"
     },
     {
+        "affiliation_code": "hero",
+        "code": "07105",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Alexander Kozachenko",
+        "is_unique": false,
+        "name": "Stealthy",
+        "position": 105,
+        "rarity_code": "L",
+        "set_code": "WotF",
+        "sides": [
+            "2ID",
+            "2Sh",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Attached character has the <i>trooper</i> subtype.\n[special] - Discard cards from the top of a deck equal to the value showing on one of your character dice.",
+        "type_code": "upgrade"
+    },
+    {
         "affiliation_code": "neutral",
         "code": "07115",
         "deck_limit": 1,
@@ -552,6 +793,23 @@
         "text": "Each of your unique upgrades has the Redeploy keyword.\nAfter you play a unique upgrade, you may exhaust this plot to gain 1 resource.",
         "ttscardid": "",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "07116",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Aurore Folny",
+        "is_unique": false,
+        "name": "Honed Skills",
+        "position": 116,
+        "rarity_code": "C",
+        "set_code": "WotF",
+        "text": "Each of your characters can have one additional upgrade.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
