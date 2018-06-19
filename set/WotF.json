@@ -150,6 +150,35 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "07019",
+        "deck_limit": 3,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": false,
+        "name": "Executioner",
+        "points": "8",
+        "position": 19,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1MD",
+            "2MD",
+            "2MD1",
+            "1R",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "After an opponent's character is defeated, you may roll this die into your pool.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "07021",
         "deck_limit": 1,
         "faction_code": "red",
@@ -284,6 +313,34 @@
         ],
         "text": "Ambush.\nAfter you play this support, you may deal indirect damage ([indirect]) to an opponent equal to the number of <i>vehicles</i> you spot.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "07034",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": false,
+        "name": "Executioner's Axe",
+        "position": 34,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1MD",
+            "2MD1",
+            "+2MD",
+            "1R",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After an opponent's character is defeated, you may roll this die into your pool.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "villain",
