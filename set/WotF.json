@@ -63,6 +63,32 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "07003",
+        "deck_limit": 3,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Force Sensitive Outcast",
+        "points": "9",
+        "position": 3,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1Dr",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "text": "While this character has 1 or more damage on her, decrease the cost of the first Blue <i>ability</i> you play on her each round by 1.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "07006",
         "cost": 5,
         "deck_limit": 2,
@@ -192,6 +218,37 @@
             "trooper"
         ],
         "text": "After an opponent's character is defeated, you may roll this die into your pool.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "07020",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"Intensify forward power!\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Borja Pindado",
+        "is_unique": true,
+        "name": "Firmus Piete",
+        "points": "9/12",
+        "position": 20,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "2ID",
+            "2ID",
+            "1F",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Ambitious Admiral",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "After you activate this character, turn any number of your <i>vehicle</i> and non-unique character dice to sides showing a value of 1.",
         "type_code": "character"
     },
     {
@@ -361,6 +418,35 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "07037",
+        "deck_limit": 3,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": false,
+        "name": "Mandalorian Super Commando",
+        "points": "9",
+        "position": 37,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1MD",
+            "1Sh",
+            "1Sh",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "<b>Power Action</b> - Play an <i>equipment</i> or <i>weapon</i> from your hand on this character. Then deal 1 damage to a character.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "07038",
         "deck_limit": 1,
         "faction_code": "yellow",
@@ -389,6 +475,24 @@
         ],
         "text": "[special] - Place 1 resource on a support in play or remove 1 resource from a support in play.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "07047",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"You're Bantha fodder!\" <cite>Sebulba</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Sebulba Always Wins",
+        "position": 47,
+        "rarity_code": "U",
+        "set_code": "WotF",
+        "text": "Discard a support from play that has 1 or more tokens on it.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "villain",
@@ -506,6 +610,35 @@
             "spectre"
         ],
         "text": "<b>Power Action</b> - If this character has one or more upgrades, draw a card, or 2 cards instead if he has 3 or more upgrades.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "07055",
+        "deck_limit": 3,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Rafal Hrynkiewicz",
+        "is_unique": false,
+        "name": "Jedi Sentinel",
+        "points": "10",
+        "position": 55,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1MD",
+            "2MD1",
+            "1Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "jedi"
+        ],
+        "text": "After setup, give a character 1 shield.\n[special] - Deal 2 damage to a character, or 3 damage instead if this character has 3 or more shields.",
         "type_code": "character"
     },
     {
@@ -1144,6 +1277,51 @@
         "set_code": "WotF",
         "text": "Before you play an event that costs 3 or more, you may exhaust this plot to decrease its cost by 1, or by 2 instead if you have exactly one character in play.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "07139",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Jason Juta",
+        "is_unique": false,
+        "name": "Prized Goods",
+        "position": 139,
+        "rarity_code": "C",
+        "set_code": "WotF",
+        "text": "<b>Action</b> - Exhaust this support and one of your characters to place 3 resources on this support or to take all resources from it.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "07141",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Ameen Nakesewee",
+        "is_unique": false,
+        "name": "XS Stock Light Freighter",
+        "position": 141,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1RD",
+            "2ID",
+            "Sp",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "Ambush.\n[special] - Place 2 resources on this support or take all resources from it. You may take one additional action.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
