@@ -89,6 +89,37 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "07004",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"There has been an awekening. Have you felt it?\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Darren Tan",
+        "is_unique": true,
+        "name": "Snoke",
+        "points": "11/13",
+        "position": 4,
+        "rarity_code": "L",
+        "set_code": "WotF",
+        "sides": [
+            "2ID",
+            "1F",
+            "2F",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Supreme Leader",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "<b>Power Action</b> - Deal 1 damage to another one of your characters to resolve one of its character dice, increasing its value by 2.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "07006",
         "cost": 5,
         "deck_limit": 2,
@@ -103,6 +134,51 @@
         "set_code": "WotF",
         "text": "Return one of your defeated characters to the game exhausted and place damage on it equal to half of its health, rounded down.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "07009",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mark Molnar",
+        "is_unique": false,
+        "name": "Power From Pain",
+        "position": 9,
+        "rarity_code": "U",
+        "set_code": "WotF",
+        "text": "Spot 2 Blue characters or Snoke to deal 1 damage to one of your characters. Then turn one of that character's character or upgrade dice to any side.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "07013",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": true,
+        "name": "Count Dooku's Solar Sailer",
+        "position": 13,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "2F",
+            "2F",
+            "1Sh",
+            "1Sh",
+            "2R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After you activate this support, you may draw a card.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
@@ -134,31 +210,21 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "07013",
-        "cost": 3,
+        "code": "07017",
+        "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
-        "has_die": true,
+        "flavor": "\"I'm being torn apart. I want to be free of thsi pain.\" <cite>Kylo Ren</cite>",
+        "has_die": false,
         "has_errata": false,
-        "illustrator": "Ameen Naksewee",
-        "is_unique": true,
-        "name": "Count Dooku's Solar Sailer",
-        "position": 13,
-        "rarity_code": "R",
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": false,
+        "name": "Torment",
+        "position": 17,
+        "rarity_code": "C",
         "set_code": "WotF",
-        "sides": [
-            "2F",
-            "2F",
-            "1Sh",
-            "1Sh",
-            "2R",
-            "-"
-        ],
-        "subtypes": [
-            "vehicle"
-        ],
-        "text": "After you activate this support, you may draw a card.",
-        "type_code": "support"
+        "text": "After attached character is dealt damage, you may exhaust this upgrade to gain 1 resource.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "villain",
@@ -418,6 +484,36 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "07035",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Cristi Balanescu",
+        "is_unique": true,
+        "name": "DJ",
+        "points": "13/16",
+        "position": 35,
+        "rarity_code": "L",
+        "set_code": "WotF",
+        "sides": [
+            "2RD",
+            "2RD",
+            "1Dr",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Treacherous Rogue",
+        "subtypes": [
+            "scoundrel"
+        ],
+        "text": "After you remove one or more of an opponent's dice, you may deal 1 indirect damage ([indirect]) to that opponent for each die you just removed.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "07037",
         "deck_limit": 3,
         "faction_code": "yellow",
@@ -492,6 +588,23 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Discard a support from play that has 1 or more tokens on it.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "07048",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Joao Bosco",
+        "is_unique": false,
+        "name": "Sticky Situation",
+        "position": 48,
+        "rarity_code": "C",
+        "set_code": "WotF",
+        "text": "Force an opponent to choose a die. Then remove a different die.",
         "type_code": "event"
     },
     {
@@ -905,6 +1018,65 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "07072",
+        "deck_limit": 5,
+        "faction_code": "red",
+        "flavor": "Though some regarded them as primitive, the amphibious Gungans were a technologically advanced species from the planet Naboo.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 6,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": false,
+        "name": "Gungan Warrior",
+        "points": "6",
+        "position": 72,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "1MD",
+            "2ID",
+            "1Sh",
+            "1R",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "gungan"
+        ],
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "07073",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Cristi Balanescu",
+        "is_unique": true,
+        "name": "Leia Organa",
+        "points": "12/15",
+        "position": 73,
+        "rarity_code": "L",
+        "set_code": "WotF",
+        "sides": [
+            "2F",
+            "1Dc",
+            "2Dc",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Heart of the Resistance",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "<b>Power Action</b> - Remove one of your character dice to discard cards from the top of a deck equal to the value showing on that die.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "07074",
         "deck_limit": 1,
         "faction_code": "red",
@@ -937,32 +1109,20 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "07072",
-        "deck_limit": 5,
+        "code": "07079",
+        "cost": 0,
+        "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "Though some regarded them as primitive, the amphibious Gungans were a technologically advanced species from the planet Naboo.",
-        "has_die": true,
+        "has_die": false,
         "has_errata": false,
-        "health": 6,
-        "illustrator": "Ameen Naksewee",
+        "illustrator": "Ryan Valle",
         "is_unique": false,
-        "name": "Gungan Warrior",
-        "points": "6",
-        "position": 72,
-        "rarity_code": "R",
+        "name": "Motivate",
+        "position": 79,
+        "rarity_code": "U",
         "set_code": "WotF",
-        "sides": [
-            "1MD",
-            "2ID",
-            "1Sh",
-            "1R",
-            "-",
-            "-"
-        ],
-        "subtypes": [
-            "gungan"
-        ],
-        "type_code": "character"
+        "text": "Spot 2 Red characters or Leia Organa to resolve one of your character dice, increasing its value by 1.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "hero",
@@ -1281,6 +1441,23 @@
         ],
         "text": "Play only if you spot a Blue character.\nAttached character is elite <em>(place a second copy of its die on it).</em>",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "07133",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Christina Davis",
+        "is_unique": false,
+        "name": "In The Crosshairs",
+        "position": 133,
+        "rarity_code": "C",
+        "set_code": "WotF",
+        "text": "Ambush.\nChoose a symbol. Then remove any number of dice showing that symbol.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
