@@ -582,6 +582,24 @@
         "type_code": "upgrade"
     },
     {
+        "affiliation_code": "villain",
+        "code": "07053",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "flavor": "\"Peace is a lie. There is only passion.\" <cite>The Sith Code</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "David Oglivie",
+        "is_unique": false,
+        "name": "Way of the Dark",
+        "position": 53,
+        "rarity_code": "C",
+        "set_code": "WotF",
+        "text": "Choose one of your defeated character's dice and roll it into your pool. Set that die aside after it is resolved or removed.",
+        "type_code": "event"
+    },
+    {
         "affiliation_code": "hero",
         "code": "07054",
         "deck_limit": 1,
@@ -1166,6 +1184,23 @@
         "type_code": "upgrade"
     },
     {
+        "affiliation_code": "hero",
+        "code": "07106",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Tony Foti",
+        "is_unique": false,
+        "name": "Way of the Light",
+        "position": 106,
+        "rarity_code": "C",
+        "set_code": "WotF",
+        "text": "Remove a non-hero die.",
+        "type_code": "event"
+    },
+    {
         "affiliation_code": "neutral",
         "code": "07115",
         "deck_limit": 1,
@@ -1225,6 +1260,26 @@
             "ability"
         ],
         "text": "Blue character only.\n[special] - Turn a die showing damage ([ranged], [melee] or [indirect]) to a side showing a blank ([blank]). Reroll this die instead of removing it.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "07119",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Tiziano Baracchi",
+        "is_unique": false,
+        "name": "Way of the Force",
+        "position": 119,
+        "rarity_code": "U",
+        "set_code": "WotF",
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Play only if you spot a Blue character.\nAttached character is elite <em>(place a second copy of its die on it).</em>",
         "type_code": "upgrade"
     },
     {
