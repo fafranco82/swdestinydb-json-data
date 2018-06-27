@@ -432,6 +432,34 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "07032",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Timothy Ben Zweifel",
+        "is_unique": false,
+        "name": "Imperial Troop Transport",
+        "position": 32,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "0RD",
+            "0RD1",
+            "0ID",
+            "0Dr",
+            "0Sh",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "The X on this die is equal to the number of non-unique characters you have in play.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "07033",
         "cost": 6,
         "deck_limit": 2,
@@ -514,6 +542,38 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "07036",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"There will be no bargain.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "Matt Bradbury",
+        "is_unique": true,
+        "name": "Jabba the Hutt",
+        "points": "12/16",
+        "position": 36,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "2F",
+            "1R",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Renowned Gangster",
+        "subtypes": [
+            "leader",
+            "scoundrel"
+        ],
+        "text": "[special] - Deal indirect damage ([indirect]) to an opponent equal to the number of your dice showing a special ([indirect]) <em>(including this die)</em>.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "07037",
         "deck_limit": 3,
         "faction_code": "yellow",
@@ -571,6 +631,23 @@
         ],
         "text": "[special] - Place 1 resource on a support in play or remove 1 resource from a support in play.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "07041",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Antonio Jose Manzanedo",
+        "is_unique": false,
+        "name": "Extreme Hubris",
+        "position": 41,
+        "rarity_code": "U",
+        "set_code": "WotF",
+        "text": "Spot 2 Yellow characters or Jabba the Hutt to resolve one of your character dice without removing it form your pool.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "villain",
@@ -1317,6 +1394,35 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "07103",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"The N-1 Starfighter represents the pinnacle in Naboo technology.\" <cite>Captain Quarsh Panaka</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Mark Molnar",
+        "is_unique": false,
+        "name": "N-1 Starfighter",
+        "position": 103,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "2RD",
+            "3ID",
+            "2Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "[special] - Ready or discard an exhausted <i>vehicle</i> that is not a copy of this support.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "07105",
         "cost": 2,
         "deck_limit": 2,
@@ -1441,6 +1547,23 @@
         ],
         "text": "Play only if you spot a Blue character.\nAttached character is elite <em>(place a second copy of its die on it).</em>",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "07125",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Antonio De Luca",
+        "is_unique": false,
+        "name": "Reconstruct",
+        "position": 125,
+        "rarity_code": "C",
+        "set_code": "WotF",
+        "text": "Add a support from your discard pile to your hand.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
