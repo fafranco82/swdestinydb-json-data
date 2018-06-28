@@ -1502,6 +1502,34 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "07117",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": true,
+        "name": "Dagger of Mortis",
+        "position": 117,
+        "rarity_code": "L",
+        "set_code": "WotF",
+        "sides": [
+            "2MD",
+            "2MD",
+            "+3MD",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Redeploy.\nBefore you resolve this die showing melee damage ([melee]), you may move 1 shield from a Blue character to attached character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "07118",
         "cost": 1,
         "deck_limit": 2,
