@@ -60,8 +60,8 @@
         "size": 20
     },
     {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
+        "cgdb_id_end": 12,
+        "cgdb_id_start": 12,
         "code": "WotF",
         "cycle_code": "LEG",
         "date_release": null,
