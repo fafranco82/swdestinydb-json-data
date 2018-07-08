@@ -28,6 +28,7 @@
             "sith"
         ],
         "text": "After you activate this character, you may turn one of his character dice to a side showing melee damage ([melee]). Turn an opponent's die showing melee damage ([melee]) to any side.",
+        "ttscardid": "48700",
         "type_code": "character"
     },
     {
@@ -59,6 +60,7 @@
             "inquisitor"
         ],
         "text": "[special] - Resolve one of your non-<i>ability</i> Blue upgrade dice without removing it from your pool.",
+        "ttscardid": "48701",
         "type_code": "character"
     },
     {
@@ -85,6 +87,7 @@
             "-"
         ],
         "text": "While this character has 1 or more damage on her, decrease the cost of the first Blue <i>ability</i> you play on her each round by 1.",
+        "ttscardid": "48702",
         "type_code": "character"
     },
     {
@@ -116,6 +119,7 @@
             "leader"
         ],
         "text": "<b>Power Action</b> - Deal 1 damage to another one of your characters to resolve one of its character dice, increasing its value by 2.",
+        "ttscardid": "48703",
         "type_code": "character"
     },
     {
@@ -133,6 +137,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Play only if an opponent has one or more dice showing a blank ([blank]).\nDiscard any number of cards from your hand to deal that much indirect damage ([indirect]) to that opponent.",
+        "ttscardid": "48704",
         "type_code": "event"
     },
     {
@@ -150,6 +155,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Return one of your defeated characters to the game exhausted and place damage on it equal to half of its health, rounded down.",
+        "ttscardid": "48705",
         "type_code": "event"
     },
     {
@@ -167,6 +173,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Spot a Blue character that is 15 or more points to remove all of a character's character dice.",
+        "ttscardid": "48706",
         "type_code": "event"
     },
     {
@@ -184,6 +191,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Play only if an opponent has no cards in their hand.\nDeal 2 damage to one of that opponent's characters.",
+        "ttscardid": "48707",
         "type_code": "event"
     },
     {
@@ -201,6 +209,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Spot 2 Blue characters or Snoke to deal 1 damage to one of your characters. Then turn one of that character's character or upgrade dice to any side.",
+        "ttscardid": "48708",
         "type_code": "event"
     },
     {
@@ -218,6 +227,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Reroll 3 character dice. Then turn one of them to any side.",
+        "ttscardid": "48709",
         "type_code": "event"
     },
     {
@@ -235,6 +245,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Remove up to 2 dice showing a blank ([blank]).",
+        "ttscardid": "48710",
         "type_code": "event"
     },
     {
@@ -252,6 +263,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "<b>Action</b> - Exhaust this support and remove one of your dice showing a blank ([blank]) to deal 1 indirect damage ([indirect]) to an opponent.",
+        "ttscardid": "48711",
         "type_code": "support"
     },
     {
@@ -280,6 +292,7 @@
             "vehicle"
         ],
         "text": "After you activate this support, you may draw a card.",
+        "ttscardid": "48712",
         "type_code": "support"
     },
     {
@@ -309,6 +322,7 @@
             "equipment"
         ],
         "text": "[special] - Discard the top card of deck. If that card's cost is an odd number, deal 1 damage to a character.",
+        "ttscardid": "48713",
         "type_code": "upgrade"
     },
     {
@@ -337,6 +351,7 @@
             "weapon"
         ],
         "text": "While this upgrade is on Fifth Brother, you can resolve this die showing a modifier as if it were not a modifier.\nAfter you resolve this die, you may deal 1 damage to a character.",
+        "ttscardid": "48714",
         "type_code": "upgrade"
     },
     {
@@ -364,6 +379,7 @@
             "ability"
         ],
         "text": "Blue character only.\n[special] - Remove an opponent's character die unless they deal 2 damage to that character.",
+        "ttscardid": "48715",
         "type_code": "upgrade"
     },
     {
@@ -382,6 +398,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "After attached character is dealt damage, you may exhaust this upgrade to gain 1 resource.",
+        "ttscardid": "48716",
         "type_code": "upgrade"
     },
     {
@@ -413,6 +430,7 @@
             "leader"
         ],
         "text": "[special] - Turn another of your dice to any side. If you control the battlefield, you may resolve that die, increasing its value by 1.",
+        "ttscardid": "48717",
         "type_code": "character"
     },
     {
@@ -442,6 +460,7 @@
             "trooper"
         ],
         "text": "After an opponent's character is defeated, you may roll this die into your pool.",
+        "ttscardid": "48718",
         "type_code": "character"
     },
     {
@@ -473,6 +492,7 @@
             "leader"
         ],
         "text": "After you activate this character, turn any number of your <i>vehicle</i> and non-unique character dice to sides showing a value of 1.",
+        "ttscardid": "48719",
         "type_code": "character"
     },
     {
@@ -503,7 +523,7 @@
             "leader"
         ],
         "text": "Ignore all play restrictions on <i>weapons</i> played on this character. He can have one additional upgrade.\n<b>Power Action</b> - If 4 of this character's <i>weapon</i> dice are in your pool, deal 4 damage to a character.",
-        "ttscardid": "",
+        "ttscardid": "48720",
         "type_code": "character"
     },
     {
@@ -521,6 +541,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Spot a Red character to reveal an opponent's hand. For each card just revealed, remove a die showing a value that is equal to that card's cost.",
+        "ttscardid": "48721",
         "type_code": "event"
     },
     {
@@ -538,7 +559,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Spot 2 Red characters or General Grievous to roll all <i>weapon</i> dice on one of your characters into your pool.",
-        "ttscardid": "",
+        "ttscardid": "48722",
         "type_code": "event"
     },
     {
@@ -556,6 +577,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Play an upgrade from your hand on a character. Then heal 1 damage from that character.",
+        "ttscardid": "48723",
         "type_code": "event"
     },
     {
@@ -573,6 +595,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Play only if this is the first action of this round <em>(no player has taken an action)</em>.\nDeal 3 indirect damage ([indirect]) to an opponent.",
+        "ttscardid": "48724",
         "type_code": "event"
     },
     {
@@ -589,6 +612,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Play only if you have more support dice in your pool than an opponent has characters in play.\nTake control of the battlefield. You may use its claim ability.",
+        "ttscardid": "48725",
         "type_code": "event"
     },
     {
@@ -606,6 +630,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Activate up to 2 of your supports. Then, if any of those support dice just rolled damage ([ranged], [melee] or [indirect]), gain 1 resource.",
+        "ttscardid": "48726",
         "type_code": "event"
     },
     {
@@ -623,6 +648,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Choose a <i>weapon</i> from your  hand and play it, decreasing its cost by the number of <i>weapons</i> on one of your characters.",
+        "ttscardid": "48727",
         "type_code": "event"
     },
     {
@@ -640,6 +666,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "After setup, force an opponent to lose 1 resource.",
+        "ttscardid": "48728",
         "type_code": "plot"
     },
     {
@@ -657,6 +684,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "<b>Action</b> - Exhaust this support to deal 2 indirect damage ([indirect]) to each player, starting with you.",
+        "ttscardid": "48729",
         "type_code": "support"
     },
     {
@@ -686,7 +714,7 @@
             "vehicle"
         ],
         "text": "<b>Power Action</b> - Spend 1 resource or spot General Grievous to ready this support.",
-        "ttscardid": "",
+        "ttscardid": "48730",
         "type_code": "support"
     },
     {
@@ -715,6 +743,7 @@
             "vehicle"
         ],
         "text": "The X on this die is equal to the number of non-unique characters you have in play.",
+        "ttscardid": "48731",
         "type_code": "support"
     },
     {
@@ -739,6 +768,7 @@
             "-"
         ],
         "text": "Ambush.\nAfter you play this support, you may deal indirect damage ([indirect]) to an opponent equal to the number of <i>vehicles</i> you spot.",
+        "ttscardid": "48732",
         "type_code": "support"
     },
     {
@@ -767,6 +797,7 @@
             "weapon"
         ],
         "text": "After an opponent's character is defeated, you may roll this die into your pool.",
+        "ttscardid": "48733",
         "type_code": "upgrade"
     },
     {
@@ -797,6 +828,7 @@
             "scoundrel"
         ],
         "text": "After you remove one or more of an opponent's dice, you may deal 1 indirect damage ([indirect]) to that opponent for each die you just removed.",
+        "ttscardid": "48734",
         "type_code": "character"
     },
     {
@@ -829,6 +861,7 @@
             "scoundrel"
         ],
         "text": "[special] - Deal indirect damage ([indirect]) to an opponent equal to the number of your dice showing a special ([indirect]) <em>(including this die)</em>.",
+        "ttscardid": "48735",
         "type_code": "character"
     },
     {
@@ -858,6 +891,7 @@
             "trooper"
         ],
         "text": "<b>Power Action</b> - Play an <i>equipment</i> or <i>weapon</i> from your hand on this character. Then deal 1 damage to a character.",
+        "ttscardid": "48736",
         "type_code": "character"
     },
     {
@@ -889,6 +923,7 @@
             "pilot"
         ],
         "text": "[special] - Place 1 resource on a support in play or remove 1 resource from a support in play.",
+        "ttscardid": "48737",
         "type_code": "character"
     },
     {
@@ -906,6 +941,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Remove a die showing a value of 2 or more. Then deal 1 indirect damage ([indirect]) yo yourself.",
+        "ttscardid": "48738",
         "type_code": "event"
     },
     {
@@ -923,6 +959,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Spot a Yellow character to have each player choose and discard 2 cards from their hand, starting with you.",
+        "ttscardid": "48739",
         "type_code": "event"
     },
     {
@@ -940,6 +977,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Spot 2 Yellow characters or Jabba the Hutt to resolve one of your character dice without removing it form your pool.",
+        "ttscardid": "48740",
         "type_code": "event"
     },
     {
@@ -957,6 +995,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Ambush.\nMove 1 damage from an opponent's card to another card in play <em>(this ignores shields)</em>.",
+        "ttscardid": "48741",
         "type_code": "event"
     },
     {
@@ -974,6 +1013,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Giva an opponent 2 of your resources to resolve one of their character or upgrade dice as if it were your own.",
+        "ttscardid": "48742",
         "type_code": "event"
     },
     {
@@ -991,6 +1031,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Resolve any number of your dice showing a disrupt ([disrupt]) as if they where showing indirect damage ([indirect]), or vice versa.",
+        "ttscardid": "48743",
         "type_code": "event"
     },
     {
@@ -1008,6 +1049,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Force an opponent to choose to either lose 1 resource or discard a card from their hand.",
+        "ttscardid": "48744",
         "type_code": "event"
     },
     {
@@ -1025,6 +1067,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Play only if you have one or more character dice showing a blank ([blank]).\nRemove a die.",
+        "ttscardid": "48745",
         "type_code": "event"
     },
     {
@@ -1036,13 +1079,14 @@
         "flavor": "\"You're Bantha fodder!\" <cite>Sebulba</cite>",
         "has_die": false,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Â ",
         "is_unique": false,
         "name": "Sebulba Always Wins",
         "position": 47,
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Discard a support from play that has 1 or more tokens on it.",
+        "ttscardid": "48746",
         "type_code": "event"
     },
     {
@@ -1060,6 +1104,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Force an opponent to choose a die. Then remove a different die.",
+        "ttscardid": "48747",
         "type_code": "event"
     },
     {
@@ -1089,6 +1134,7 @@
             "droid"
         ],
         "text": "After you deal indirect damage ([indirect]) to yourself, you may deal 1 indirect damage to an opponent.",
+        "ttscardid": "48748",
         "type_code": "support"
     },
     {
@@ -1118,6 +1164,7 @@
             "podracer"
         ],
         "text": "Ambush.\nAfter you resolve this die, you may deal 1 indirect damage ([indirect]) to an opponent or, if you spot Sebulba, deal 1 damage to a character.",
+        "ttscardid": "48749",
         "type_code": "support"
     },
     {
@@ -1146,7 +1193,7 @@
             "ability"
         ],
         "text": "[special] - Deal 1 damage to an opponent's character. If that damage was not blocked, you may move an <i>equipment</i> or <i>weapon</i> from that character to another one of that opponent's characters.",
-        "ttscardid": "",
+        "ttscardid": "48750",
         "type_code": "upgrade"
     },
     {
@@ -1175,7 +1222,7 @@
             "ability"
         ],
         "text": "[special] - Deal 1 indirect damage ([indirect]) to an opponent. You may resolve another one of your dice.",
-        "ttscardid": "",
+        "ttscardid": "48751",
         "type_code": "upgrade"
     },
     {
@@ -1194,6 +1241,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Choose one of your defeated character's dice and roll it into your pool. Set that die aside after it is resolved or removed.",
+        "ttscardid": "48752",
         "type_code": "event"
     },
     {
@@ -1225,6 +1273,7 @@
             "spectre"
         ],
         "text": "<b>Power Action</b> - If this character has one or more upgrades, draw a card, or 2 cards instead if he has 3 or more upgrades.",
+        "ttscardid": "48753",
         "type_code": "character"
     },
     {
@@ -1254,6 +1303,7 @@
             "jedi"
         ],
         "text": "After setup, give a character 1 shield.\n[special] - Deal 2 damage to a character, or 3 damage instead if this character has 3 or more shields.",
+        "ttscardid": "48754",
         "type_code": "character"
     },
     {
@@ -1284,7 +1334,7 @@
             "jedi"
         ],
         "text": "You may resolve the shield ([shield]) sides of this die as if they were melee damage ([melee]).\n<b>Power Action</b> - Move a Blue <i>ability</i> from this character to another Blue character.",
-        "ttscardid": "",
+        "ttscardid": "48755",
         "type_code": "character"
     },
     {
@@ -1316,7 +1366,7 @@
             "jedi"
         ],
         "text": "This character has the abilities of each non-unique character you have in play.",
-        "ttscardid": "",
+        "ttscardid": "48756",
         "type_code": "character"
     },
     {
@@ -1334,6 +1384,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Choose up to 3 cards in a player's discard pile and place them on the bottom of their deck in the order of your choice. Set this card aside.",
+        "ttscardid": "48757",
         "type_code": "event"
     },
     {
@@ -1351,6 +1402,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Give up to 2 of your Blue characters 1 shield each. You may activate those characters in the order of your choice.",
+        "ttscardid": "48758",
         "type_code": "event"
     },
     {
@@ -1368,6 +1420,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Spot 2 Blue characters or Luke Skywalker to play a Blue <i>ability</i> from your hand or discard pile, decreasing its cost by 1.",
+        "ttscardid": "48759",
         "type_code": "event"
     },
     {
@@ -1384,6 +1437,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Remove a character die. Then give that character 2 shields.",
+        "ttscardid": "48760",
         "type_code": "event"
     },
     {
@@ -1401,6 +1455,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Turn a character die to any side. Turn an upgrade die to any side. Turn a support die to any side.",
+        "ttscardid": "48761",
         "type_code": "event"
     },
     {
@@ -1419,6 +1474,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Spot a plot to draw 3 cards.",
+        "ttscardid": "48762",
         "type_code": "event"
     },
     {
@@ -1436,6 +1492,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Move 1 damage from one of your Blue characters to another character, or 2 damage instead if no cards are in your discard pile <em>(this ignores shields)</em>.",
+        "ttscardid": "48763",
         "type_code": "event"
     },
     {
@@ -1464,7 +1521,7 @@
             "vehicle"
         ],
         "text": "After you activate this support, you may turn one of your non-unique character dice to any side. If you spot Plo Koon, you may resolve that die.",
-        "ttscardid": "",
+        "ttscardid": "48764",
         "type_code": "support"
     },
     {
@@ -1485,6 +1542,7 @@
             "equipment"
         ],
         "text": "Before attached character takes indirect damage ([indirect]), you may exhaust this upgrade to block 1 of that damage.",
+        "ttscardid": "48765",
         "type_code": "upgrade"
     },
     {
@@ -1513,6 +1571,7 @@
             "weapon"
         ],
         "text": "Redeploy.\n[special] - Deal 2 damage to an opponent's character. If this upgrade is on Ezra Bridger, force that opponent to lose 1 resource.",
+        "ttscardid": "48766",
         "type_code": "upgrade"
     },
     {
@@ -1533,6 +1592,7 @@
             "title"
         ],
         "text": "<b>Action</b> - Exhaust this upgrade to move it to one of your characters. If that character is Blue, give it 1 shield. If it is Red, deal 1 indirect damage ([indirect]) to an opponent.",
+        "ttscardid": "48767",
         "type_code": "upgrade"
     },
     {
@@ -1561,7 +1621,7 @@
             "equipment"
         ],
         "text": "While this upgrade is attached to Luke Skywalker, you may resole the melee damage ([melee]) sides of this die as if they were shields ([shield]).",
-        "ttscardid": "",
+        "ttscardid": "48768",
         "type_code": "upgrade"
     },
     {
@@ -1591,6 +1651,7 @@
             "ability"
         ],
         "text": "<b>Action</b> - Reroll this die. Then you may resolve it, increasing its value by 1. Otherwise, remove it.",
+        "ttscardid": "48600",
         "type_code": "upgrade"
     },
     {
@@ -1623,6 +1684,7 @@
             "leader"
         ],
         "text": "After you activa a <i>Gungan</i>, you may deal indirect damage ([indirect]) to an opponent equal to the number of its character dice that just rolled a blank ([blank]).",
+        "ttscardid": "48601",
         "type_code": "character"
     },
     {
@@ -1652,6 +1714,7 @@
         "subtypes": [
             "gungan"
         ],
+        "ttscardid": "48602",
         "type_code": "character"
     },
     {
@@ -1682,6 +1745,7 @@
             "leader"
         ],
         "text": "<b>Power Action</b> - Remove one of your character dice to discard cards from the top of a deck equal to the value showing on that die.",
+        "ttscardid": "48603",
         "type_code": "character"
     },
     {
@@ -1714,6 +1778,7 @@
             "trooper"
         ],
         "text": "Before you activate this character, you may spend 1 resource or spot a Clone Trooper to take control of the battlefield.",
+        "ttscardid": "48604",
         "type_code": "character"
     },
     {
@@ -1731,6 +1796,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Activate one of your characters. Then remove any number of an opponent's dice showing damage ([ranged], [melee] or [indirect]) and deal damage to that character equal to the combined value of the removed dice.",
+        "ttscardid": "48605",
         "type_code": "event"
     },
     {
@@ -1748,6 +1814,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Play only if the combined remaining health of your characters is 3 or less.\nReady a character.",
+        "ttscardid": "48606",
         "type_code": "event"
     },
     {
@@ -1765,6 +1832,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Heal 2 damage from a Red character, or 4 damage instead if it is the first round of the game.",
+        "ttscardid": "48607",
         "type_code": "event"
     },
     {
@@ -1782,6 +1850,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Turn up to 3 of your <i>Gungan</i> or <i>artillery</i> dice to sides showing damage ([ranged], [melee] or [indirect]).",
+        "ttscardid": "48608",
         "type_code": "event"
     },
     {
@@ -1799,6 +1868,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Spot 2 Red characters or Leia Organa to resolve one of your character dice, increasing its value by 1.",
+        "ttscardid": "48609",
         "type_code": "event"
     },
     {
@@ -1816,6 +1886,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Force an opponent to turn a die to any side. Then you turn a different die to any side.",
+        "ttscardid": "48610",
         "type_code": "event"
     },
     {
@@ -1833,6 +1904,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "<b>Action</b> - Exhaust this plot to place 1 resource on it or resolve one of your dice, increasing its value by the number of resources on this plot.",
+        "ttscardid": "48611",
         "type_code": "plot"
     },
     {
@@ -1861,6 +1933,7 @@
             "artillery"
         ],
         "text": "After you activate a <i>Gungan</i>, you may reroll this die.",
+        "ttscardid": "48612",
         "type_code": "support"
     },
     {
@@ -1889,6 +1962,7 @@
             "vehicle"
         ],
         "text": "Before you resolve this die, if this support has no damage, you may place 1 damage on this support to increase its value by 1.",
+        "ttscardid": "48613",
         "type_code": "support"
     },
     {
@@ -1906,6 +1980,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "After a character is activated, you may spend 1 resource and discard this support from play to remove one of its character dice.",
+        "ttscardid": "48614",
         "type_code": "support"
     },
     {
@@ -1934,6 +2009,7 @@
             "weapon"
         ],
         "text": "Before attached character would be defeated, you may move this upgrade to a <i>Gungan</i> <em>(return this die to this card)</em>.",
+        "ttscardid": "48615",
         "type_code": "upgrade"
     },
     {
@@ -1951,6 +2027,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Unique character only.\nYour other characters have the Guardian keyword.",
+        "ttscardid": "48616",
         "type_code": "upgrade"
     },
     {
@@ -1979,6 +2056,7 @@
             "weapon"
         ],
         "text": "While this upgrade is on Rex, your copies of it are non-unique.\nAfter you activate attached character, if you control the battlefield, you may activate one of your characters.",
+        "ttscardid": "48617",
         "type_code": "upgrade"
     },
     {
@@ -2010,6 +2088,7 @@
             "pilot"
         ],
         "text": "After you activate this character, you may turn one of your <i>droid</i> or <i>podracer</i> dice to any side.",
+        "ttscardid": "48618",
         "type_code": "character"
     },
     {
@@ -2041,7 +2120,7 @@
             "trooper"
         ],
         "text": "You can include Yellow villain upgrades in your deck.\n[special] - Deal 2 damage to a character, or 3 damage instead if this character has 1 or more villain upgrades.",
-        "ttscardid": "",
+        "ttscardid": "48619",
         "type_code": "character"
     },
     {
@@ -2073,6 +2152,7 @@
             "leader"
         ],
         "text": "After you resolve this die, you may deal 1 indirect damage ([indirect]) to an opponent or discard the top card of a deck.",
+        "ttscardid": "48620",
         "type_code": "character"
     },
     {
@@ -2102,6 +2182,7 @@
             "scoundrel"
         ],
         "text": "After you activate this character, you may look at an opponent's hand.",
+        "ttscardid": "48621",
         "type_code": "character"
     },
     {
@@ -2119,6 +2200,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Spot 2 Yellow characters or Cassian Andor to resolve any number of your dice showing the same symbol. Then discard cards from the top of a deck equal to the number of dice you just resolved.",
+        "ttscardid": "48622",
         "type_code": "event"
     },
     {
@@ -2136,6 +2218,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Gain 5 resources. You must pass all of your future turns this round.",
+        "ttscardid": "48623",
         "type_code": "event"
     },
     {
@@ -2153,6 +2236,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Play only if one or more of your <i>vehicle</i> dice were removed during an opponent's last turn this round.\nSpot a Yellow character to roll one of those removed dice into your pool.",
+        "ttscardid": "48624",
         "type_code": "event"
     },
     {
@@ -2170,6 +2254,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Spot a Yellow character or a <i>Gungan</i> to reroll up to 5 of your dice. Then deal indirect damage ([indirect]) to an opponent equal to the number of dice that just rolled a blank ([blank]).",
+        "ttscardid": "48625",
         "type_code": "event"
     },
     {
@@ -2187,6 +2272,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Look at the top 5 cards of your deck for a <i>droid</i> or <i>podracer</i>, reveal it, and add it to your hand. Place the rest on the bottom of your deck in the order of your choice.",
+        "ttscardid": "48626",
         "type_code": "event"
     },
     {
@@ -2204,6 +2290,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Play only if you have no other cards in your hand.\nRemove a die.",
+        "ttscardid": "48627",
         "type_code": "event"
     },
     {
@@ -2221,6 +2308,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Play only if an opponent controls the battlefield.\nDeal indirect damage ([indirect]) to that opponent equal to the number of resources they have, to a maximum of 5.",
+        "ttscardid": "48628",
         "type_code": "event"
     },
     {
@@ -2238,6 +2326,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Ambush.\nMove 1 damage from one of your cards to another one of your cards in play of the same type <em>(this ignores shields)</em>.",
+        "ttscardid": "48629",
         "type_code": "event"
     },
     {
@@ -2255,6 +2344,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "If you have 5 or more different symbols showing on your dice, deal 2 damage to a character or, if you have 10 or more different symbols showing on your dice, defeat a character.",
+        "ttscardid": "48630",
         "type_code": "event"
     },
     {
@@ -2272,6 +2362,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Turn up to 3 of an opponent's dice to sides showing damage ([ranged], [melee] or [indirect]). Then turn an equal number of your dice to sides showing damage.",
+        "ttscardid": "48631",
         "type_code": "event"
     },
     {
@@ -2301,6 +2392,7 @@
             "podracer"
         ],
         "text": "Ambush.\nAfter you resolve this die, you may discard the top card of a deck or, if you spot Anakin Skywalker, discard a random card from an opponent's hand.",
+        "ttscardid": "48632",
         "type_code": "support"
     },
     {
@@ -2330,6 +2422,7 @@
             "vehicle"
         ],
         "text": "[special] - Ready or discard an exhausted <i>vehicle</i> that is not a copy of this support.",
+        "ttscardid": "48633",
         "type_code": "support"
     },
     {
@@ -2358,6 +2451,7 @@
             "weapon"
         ],
         "text": "[special] - Deal 2 damage to a character, or 4 damage instead if an opponent has no dice in their pool.",
+        "ttscardid": "48634",
         "type_code": "upgrade"
     },
     {
@@ -2386,6 +2480,7 @@
             "ability"
         ],
         "text": "Attached character has the <i>trooper</i> subtype.\n[special] - Discard cards from the top of a deck equal to the value showing on one of your character dice.",
+        "ttscardid": "48635",
         "type_code": "upgrade"
     },
     {
@@ -2403,6 +2498,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Remove a non-hero die.",
+        "ttscardid": "48636",
         "type_code": "event"
     },
     {
@@ -2424,6 +2520,7 @@
             "location"
         ],
         "text": "<b>Action</b> - Exhaust this support and spend 1 resource to heal 1 damage from a character, or 2 damage instead if there is 6 or more damage on that character.",
+        "ttscardid": "48637",
         "type_code": "support"
     },
     {
@@ -2441,6 +2538,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Remove one of your Blue dice. Then resolve one of your dice, increasing its value by the value showing on the die you just removed.",
+        "ttscardid": "48638",
         "type_code": "event"
     },
     {
@@ -2458,6 +2556,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Reroll an opponent's die. Then turn one of their dice to any side. Then remove one of their dice.",
+        "ttscardid": "48639",
         "type_code": "event"
     },
     {
@@ -2476,6 +2575,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Turn all dice to sides of your choice.",
+        "ttscardid": "48640",
         "type_code": "event"
     },
     {
@@ -2493,6 +2593,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Resolve one of your Blue dice. Then remove a die showing the same value as the die you just resolved.",
+        "ttscardid": "48641",
         "type_code": "event"
     },
     {
@@ -2510,6 +2611,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Discard a card from play if there is a copy of that card in any discard pile.",
+        "ttscardid": "48642",
         "type_code": "event"
     },
     {
@@ -2527,6 +2629,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Turn a die to a side showing a value of 0 <em>(blanks and specials have a value of 0)<em>.",
+        "ttscardid": "48643",
         "type_code": "event"
     },
     {
@@ -2544,6 +2647,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Move all shields from an opponent's character to one of your characters.",
+        "ttscardid": "48644",
         "type_code": "event"
     },
     {
@@ -2560,7 +2664,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Each of your unique upgrades has the Redeploy keyword.\nAfter you play a unique upgrade, you may exhaust this plot to gain 1 resource.",
-        "ttscardid": "",
+        "ttscardid": "48645",
         "type_code": "plot"
     },
     {
@@ -2578,6 +2682,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Each of your characters can have one additional upgrade.",
+        "ttscardid": "48646",
         "type_code": "support"
     },
     {
@@ -2606,6 +2711,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nBefore you resolve this die showing melee damage ([melee]), you may move 1 shield from a Blue character to attached character.",
+        "ttscardid": "48647",
         "type_code": "upgrade"
     },
     {
@@ -2634,6 +2740,7 @@
             "ability"
         ],
         "text": "Blue character only.\n[special] - Turn a die showing damage ([ranged], [melee] or [indirect]) to a side showing a blank ([blank]). Reroll this die instead of removing it.",
+        "ttscardid": "48648",
         "type_code": "upgrade"
     },
     {
@@ -2654,6 +2761,7 @@
             "ability"
         ],
         "text": "Play only if you spot a Blue character.\nAttached character is elite <em>(place a second copy of its die on it).</em>",
+        "ttscardid": "48649",
         "type_code": "upgrade"
     },
     {
@@ -2671,6 +2779,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Choose any number of dice. Force an opponent to turn each of those dice to sides of their choice.",
+        "ttscardid": "48650",
         "type_code": "event"
     },
     {
@@ -2687,6 +2796,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Resolve one of your dice showing damage ([ranged], [melee] or [indirect]), decresing its value by 1. Then remove a die.",
+        "ttscardid": "48651",
         "type_code": "event"
     },
     {
@@ -2704,6 +2814,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Activate one of your characters. Reroll any number of its character and upgrade dice. Then reroll any number of its character and upgrade dice.",
+        "ttscardid": "48652",
         "type_code": "event"
     },
     {
@@ -2721,6 +2832,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Play only if you control the battlefield.\nChoose a symbol showing on one of your dice. Then resolve an opponent's die showing that symbol as if it were your die.",
+        "ttscardid": "48653",
         "type_code": "event"
     },
     {
@@ -2738,6 +2850,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Place 1 damage on a support in play. Then you may discard that support if it has damage on it equal to or more than its cost.",
+        "ttscardid": "48654",
         "type_code": "event"
     },
     {
@@ -2755,6 +2868,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Add a support from your discard pile to your hand.",
+        "ttscardid": "48655",
         "type_code": "event"
     },
     {
@@ -2767,11 +2881,12 @@
         "has_errata": false,
         "illustrator": "Romana Kendelic",
         "is_unique": false,
-        "name": "Tkat the Fight to Them",
+        "name": "Take the Fight to Them",
         "position": 126,
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Resolve any number of your dice showing damage ([ranged], [melee] or [indirect]) in the order of your choice.",
+        "ttscardid": "48656",
         "type_code": "event"
     },
     {
@@ -2789,6 +2904,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Bring 2 battlefields to the game.\nDuring setup, if your battlefield would be chosen for the game, you choose one of your 2 battlefields instead. Set the other one aside.",
+        "ttscardid": "48657",
         "type_code": "plot"
     },
     {
@@ -2806,6 +2922,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "After you play this support, place 3 damage on it.\n<b>Action</b> - Exhaust this support and remove 1 damage from it to deal 1 indirect damage ([indirect]) to an opponent.",
+        "ttscardid": "48658",
         "type_code": "support"
     },
     {
@@ -2835,6 +2952,7 @@
             "vehicle"
         ],
         "text": "Before this support is discarded from play, you may return it to its owner's hand.",
+        "ttscardid": "48659",
         "type_code": "support"
     },
     {
@@ -2863,6 +2981,7 @@
             "vehicle"
         ],
         "text": "After you play a <b>vehicle</b> <em>(including this support)</em>, you may deal 1 indirect damage ([indirect]) to an opponent.\nAfter you play a <i>droid</i> <em>(including this support)</em>, you may activate it.",
+        "ttscardid": "48660",
         "type_code": "support"
     },
     {
@@ -2883,6 +3002,7 @@
             "ability"
         ],
         "text": "<b>Action</b> - Remove one of attached character's character or upgrade dice to turn one of its <i>weapon</i> dice to any side.",
+        "ttscardid": "48661",
         "type_code": "upgrade"
     },
     {
@@ -2895,11 +3015,12 @@
         "has_errata": false,
         "illustrator": "Tony Foti",
         "is_unique": false,
-        "name": "Frind or Foe",
+        "name": "Friend or Foe",
         "position": 132,
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Reroll a character die. Then, if it just rolled damage ([ranged], [melee] or [indirect]), deal 1 damage to that character. Otherwise, give it 1 shield.",
+        "ttscardid": "48662",
         "type_code": "event"
     },
     {
@@ -2917,6 +3038,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Ambush.\nChoose a symbol. Then remove any number of dice showing that symbol.",
+        "ttscardid": "48663",
         "type_code": "event"
     },
     {
@@ -2934,6 +3056,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Choose a number. Then reroll one of your <i>vehicle</i> dice. If that die just rolled a value equal to the number you chose, gain 2 resources, or 3 resources instead if it was a <i>podracer</i> die.",
+        "ttscardid": "48664",
         "type_code": "event"
     },
     {
@@ -2951,6 +3074,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Choose a <i>droid</i> from your hand and play it, decresing its cost by 1.",
+        "ttscardid": "48665",
         "type_code": "event"
     },
     {
@@ -2968,6 +3092,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Spot a Yellow character to remove a die. The next card an opponent plays this round has the Ambush keyword.",
+        "ttscardid": "48666",
         "type_code": "event"
     },
     {
@@ -2985,6 +3110,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Search your deck for a <i>podracer</i>, reveal it, and add it to your hand. Shuffle your deck.",
+        "ttscardid": "48667",
         "type_code": "event"
     },
     {
@@ -3002,6 +3128,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Before you play an event that costs 3 or more, you may exhaust this plot to decrease its cost by 1, or by 2 instead if you have exactly one character in play.",
+        "ttscardid": "48668",
         "type_code": "plot"
     },
     {
@@ -3019,6 +3146,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "<b>Action</b> - Exhaust this support and one of your characters to place 3 resources on this support or to take all resources from it.",
+        "ttscardid": "48500",
         "type_code": "support"
     },
     {
@@ -3036,6 +3164,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Before you play a Yellow event, you may exhaust this support to decrease its cost by 1.",
+        "ttscardid": "48501",
         "type_code": "support"
     },
     {
@@ -3064,6 +3193,7 @@
             "vehicle"
         ],
         "text": "Ambush.\n[special] - Place 2 resources on this support or take all resources from it. You may take one additional action.",
+        "ttscardid": "48502",
         "type_code": "support"
     },
     {
@@ -3092,6 +3222,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nBefore you resolve this die, increase its value by 1 if attached character is 15 or more points, or by 2 instead if attached character is 20 or more points.",
+        "ttscardid": "48503",
         "type_code": "upgrade"
     },
     {
@@ -3121,6 +3252,7 @@
             "equipment"
         ],
         "text": "<b>Action</b> - Return this upgrade from play to its owner's hand.",
+        "ttscardid": "48504",
         "type_code": "upgrade"
     },
     {
@@ -3142,6 +3274,7 @@
             "title"
         ],
         "text": "After you activate attached character, you may gain 1 resource.",
+        "ttscardid": "48505",
         "type_code": "upgrade"
     },
     {
@@ -3170,6 +3303,7 @@
             "weapon"
         ],
         "text": "[special] - Discard this upgrade from play to deal 2 damage to each of an opponent's characters.",
+        "ttscardid": "48506",
         "type_code": "upgrade"
     },
     {
@@ -3187,6 +3321,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Choose up to 3 cards in a discard pile and set them aside.",
+        "ttscardid": "48507",
         "type_code": "event"
     },
     {
@@ -3204,6 +3339,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Ambush.\nForce an opponent to remove one of their dice.",
+        "ttscardid": "48508",
         "type_code": "event"
     },
     {
@@ -3221,6 +3357,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "Each player discards cards from the top of their deck equal to the number of their dice showing a blank ([blank]).",
+        "ttscardid": "48509",
         "type_code": "event"
     },
     {
@@ -3238,6 +3375,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Reroll up to 2 dice <em>(yours and/or an opponent's)</em>.",
+        "ttscardid": "48510",
         "type_code": "event"
     },
     {
@@ -3254,6 +3392,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Remove all of an opponent's dice showing indirect damage ([indirect]).",
+        "ttscardid": "48511",
         "type_code": "event"
     },
     {
@@ -3271,6 +3410,7 @@
         "rarity_code": "C",
         "set_code": "WotF",
         "text": "Remove any number of an opponent's dice showing damage ([ranged], [melee] or [indirect]). Then deal indirect damage ([indirect]) to yourself equal to the combined value showing on those dice.",
+        "ttscardid": "48512",
         "type_code": "event"
     },
     {
@@ -3296,6 +3436,7 @@
             "-"
         ],
         "text": "[special] - Set aside a <i>droid</i>, <i>equipment</i>, <i>vehicle</i>, or <i>weapon</i> in your discard pile to gain 2 resources.",
+        "ttscardid": "48513",
         "type_code": "support"
     },
     {
@@ -3325,6 +3466,7 @@
             "podracer"
         ],
         "text": "Ambush.\nAfter this die rolls a blank ([blank]), return this support from play to its owner's hand.",
+        "ttscardid": "48514",
         "type_code": "support"
     },
     {
@@ -3337,7 +3479,7 @@
         "has_errata": false,
         "illustrator": "Romana Kendelic",
         "is_unique": false,
-        "name": "Macrobinaculars",
+        "name": "Macrobinoculars",
         "position": 154,
         "rarity_code": "R",
         "set_code": "WotF",
@@ -3353,6 +3495,7 @@
             "equipment"
         ],
         "text": "[special] - Look at an opponent's hand. Give a character 1 shield.",
+        "ttscardid": "48515",
         "type_code": "upgrade"
     },
     {
@@ -3369,6 +3512,7 @@
         "rarity_code": "U",
         "set_code": "WotF",
         "text": "After you resolve one of your <i>podracer</i> dice, you may place 1 resource on that <i>podracer</i>. If there are 4 or more resources on it, set each copy of this plot aside and gain 4 resources.",
+        "ttscardid": "48516",
         "type_code": "plot"
     },
     {
@@ -3386,6 +3530,7 @@
         "set_code": "WotF",
         "subtitle": "Nar Shaddaa",
         "text": "<b>Claim</b> - Deal indirect damage ([indirect]) to an opponent equal to the number of defeated characters you have, to a maximum of 3.",
+        "ttscardid": "48517",
         "type_code": "battlefield"
     },
     {
@@ -3411,6 +3556,7 @@
         ],
         "subtitle": "Atollon",
         "text": "<b>Power Action</b> - Roll this die into your pool.\nAfter you take control of this battlefield, remove its die.",
+        "ttscardid": "48518",
         "type_code": "battlefield"
     },
     {
@@ -3428,6 +3574,7 @@
         "set_code": "WotF",
         "subtitle": "Scarif",
         "text": "<b>Claim</b> - Resolve one of your dice, increasing its value by 1 if you spot a plot.",
+        "ttscardid": "48519",
         "type_code": "battlefield"
     },
     {
@@ -3445,6 +3592,7 @@
         "set_code": "WotF",
         "subtitle": "Tatooine",
         "text": "<b>Claim</b> - Force an opponent to choose to either lose 1 resource or have you gain 1 resource. Spot a <i>podracer</i> to force them to do both instead.",
+        "ttscardid": "48520",
         "type_code": "battlefield"
     },
     {
@@ -3462,6 +3610,7 @@
         "set_code": "WotF",
         "subtitle": "Dathomir",
         "text": "<b>Claim</b> - Reveal the top card of your deck. If that card's cost is an odd number, remove a die showing a value of 2 or less.",
+        "ttscardid": "48521",
         "type_code": "battlefield"
     }
 ]
