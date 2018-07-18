@@ -68,5 +68,15 @@
         "name": "Way of the Force",
         "position": 7,
         "size": 160
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "AtG",
+        "cycle_code": "LEG",
+        "date_release": null,
+        "name": "Across the Galaxy",
+        "position": 8,
+        "size": 160
     }
 ]

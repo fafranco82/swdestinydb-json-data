@@ -1,0 +1,215 @@
+[
+	{
+	    "affiliation_code": "villain",
+	    "code": "08018",
+	    "deck_limit": 1,
+	    "faction_code": "red",
+	    "flavor": "\"Today, the Rebellion dies.\"",
+	    "has_die": true,
+	    "has_errata": false,
+	    "health": 12,
+	    "illustrator": "Darren Tan",
+	    "is_unique": true,
+	    "name": "Iden Versio",
+	    "points": "12/15",
+	    "position": 18,
+	    "rarity_code": "L",
+	    "set_code": "AtG",
+	    "sides": [
+	        "2RD",
+	        "2RD",
+	        "2F",
+	        "1Dc",
+	        "1R",
+	        "-"
+	    ],
+	    "subtitle": "Inferno Squad Commander",
+	    "subtypes": [
+	        "leader",
+	        "trooper"
+	    ],
+	    "text": "While one or more of this character's character dice are in your pool, your opponents cannot take additional actions.",
+	    "type_code": "character"
+	},
+	{
+	    "affiliation_code": "villain",
+	    "code": "08031",
+	    "cost": 2,
+	    "deck_limit": 4,
+	    "faction_code": "red",
+	    "has_die": true,
+	    "has_errata": false,
+	    "illustrator": "Lukasz Jaskolski",
+	    "is_unique": false,
+	    "name": "TIE Fighter",
+	    "position": 31,
+	    "rarity_code": "R",
+	    "set_code": "AtG",
+	    "sides": [
+	        "1RD",
+	        "+2RD",
+	        "2ID",
+	        "1Dr",
+	        "1R",
+	        "-"
+	    ],
+	    "subtypes": [
+	        "vehicle"
+	    ],
+	    "text": "Ambush.\nYou may include up to 4 copies of this support in your deck.\nAfter you play this support, search your deck for a copy of it, reveal it, and add it to your hand. Shuffle your deck.",
+	    "type_code": "support"
+	},
+	{
+	    "affiliation_code": "hero",
+	    "code": "08057",
+	    "deck_limit": 1,
+	    "faction_code": "blue",
+	    "flavor": "\"Revenge is not the Jedi way.\"",
+	    "has_die": true,
+	    "has_errata": false,
+	    "health": 11,
+	    "illustrator": " ",
+	    "is_unique": true,
+	    "name": "Kit Fisto",
+	    "points": "13/16",
+	    "position": 57,
+	    "rarity_code": "R",
+	    "set_code": "AtG",
+	    "sides": [
+	        "1MD",
+	        "2MD",
+	        "3MD1",
+	        "2F",
+	        "1R",
+	        "-"
+	    ],
+	    "subtitle": "Shii-cho Master",
+	    "subtypes": [
+	        "jedi"
+	    ],
+	    "text": "Before this character takes damage, you may remove one of his character or upgrade dice showing melee damage ([melee]) to block damage equal to the value showing on that die.",
+	    "type_code": "character"
+	},
+	{
+	    "affiliation_code": "hero",
+	    "code": "08064",
+	    "cost": 1,
+	    "deck_limit": 2,
+	    "faction_code": "blue",
+	    "has_die": false,
+	    "has_errata": false,
+	    "illustrator": " ",
+	    "is_unique": false,
+	    "name": "Into Exile",
+	    "position": 64,
+	    "rarity_code": "U",
+	    "set_code": "AtG",
+	    "text": "Play only if you spot 2 ready characters.\nExhaust one of your characters. Then, until the end of the action phase, block all non-indirect damage dealt to that character by your opponents. Set this event aside.",
+	    "type_code": "event"
+	},
+	{
+	    "affiliation_code": "neutral",
+	    "code": "08133",
+	    "cost": 2,
+	    "deck_limit": 2,
+	    "faction_code": "red",
+	    "has_die": true,
+	    "has_errata": false,
+	    "illustrator": "Jose Vega",
+	    "is_unique": false,
+	    "name": "Triple Laser Turret",
+	    "position": 133,
+	    "rarity_code": "R",
+	    "set_code": "AtG",
+	    "sides": [
+	        "2RD",
+	        "3RD1",
+	        "+2RD",
+	        "2ID",
+	        "1Sh",
+	        "-"
+	    ],
+	    "subtypes": [
+	        "weapon",
+	        "mod"
+	    ],
+	    "text": "Modify <i>vehicle</i> support.\nWhile this die is in your pool, attached support's die cannot be removed by your opponents.",
+	    "type_code": "upgrade"
+	},
+	{
+	    "affiliation_code": "neutral",
+	    "code": "08134",
+	    "deck_limit": 1,
+	    "faction_code": "yellow",
+	    "has_die": true,
+	    "has_errata": false,
+	    "health": 11,
+	    "illustrator": "Ryan Valle",
+	    "is_unique": true,
+	    "name": "Han Solo",
+	    "points": "11/15",
+	    "position": 134,
+	    "rarity_code": "L",
+	    "set_code": "AtG",
+	    "sides": [
+	        "2RD",
+	        "2RD",
+	        "1Dc",
+	        "1R",
+	        "Sp",
+	        "-"
+	    ],
+	    "subtitle": "Independent Hotshot",
+	    "subtypes": [
+	        "scoundrel",
+	        "pilot"
+	    ],
+	    "text": "[special] - Deal 2 indirect damage ([indirect]) to an opponent. You may reveal a villain card from your hand to force that opponents to lose 1 resource. You may reveal a hero card from your hand to gain 1 resource.",
+	    "type_code": "character"
+	},
+	{
+	    "affiliation_code": "neutral",
+	    "code": "08140",
+	    "cost": 1,
+	    "deck_limit": 2,
+	    "faction_code": "yellow",
+	    "has_die": false,
+	    "has_errata": false,
+	    "illustrator": "Mariusz Gandzel",
+	    "is_unique": false,
+	    "name": "Indiferent",
+	    "position": 140,
+	    "rarity_code": "U",
+	    "set_code": "AtG",
+	    "text": "Spot a neutral character to remove a die.",
+	    "type_code": "event"
+	},
+	{
+	    "affiliation_code": "neutral",
+	    "code": "08147",
+	    "cost": 3,
+	    "deck_limit": 2,
+	    "faction_code": "yellow",
+	    "has_die": true,
+	    "has_errata": false,
+	    "illustrator": " ",
+	    "is_unique": false,
+	    "name": "Black Sun Blaster Pistol",
+	    "position": 147,
+	    "rarity_code": "R",
+	    "set_code": "AtG",
+	    "sides": [
+	        "2RD",
+	        "1Dr",
+	        "1R",
+	        "Sp",
+	        "Sp",
+	        "-"
+	    ],
+	    "subtypes": [
+	        "weapon"
+	    ],
+	    "text": "While this upgrade is on a neutral character, it has Redeploy.\n[special] - Deal 2 indirect damage ([indirect]) to an opponent. Then deal 1 damage to a character.",
+	    "type_code": "upgrade"
+	}
+]
