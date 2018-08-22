@@ -1,0 +1,30 @@
+[
+    {
+        "code": "AW",
+        "name": "Awakenings"
+    },
+    {
+        "code": "EaW",
+        "name": "Empire at War"
+    },
+    {
+        "code": "LEG",
+        "name": "Legacies"
+    },
+    {
+        "code": "RIV",
+        "name": "Rivals"
+    },
+    {
+        "code": "SoR",
+        "name": "Душа восстания"
+    },
+    {
+        "code": "TPG",
+        "name": "Two-Player Game"
+    },
+    {
+        "code": "WotF",
+        "name": "Way of the Force"
+    }
+]

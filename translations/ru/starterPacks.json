@@ -1,0 +1,27 @@
+[
+    {
+        "code": "AW-V",
+        "name": "Стартовый набор Кайло Рен",
+        "set_code": "AW",
+    },
+    {
+        "code": "AW-H",
+        "name": "Стартовый набор Рэй",
+        "set_code": "AW",
+    },
+    {
+        "code": "TPG",
+        "name": "Two-Player Game",
+        "set_code": "TPG",
+    },
+    {
+        "code": "LEG-H",
+        "name": "Luke Skywalker Starter Set",
+        "set_code": "LEG",
+    },
+    {
+        "code": "LEG-V",
+        "name": "Boba Fett Starter Set",
+        "set_code": "LEG",
+    }
+]

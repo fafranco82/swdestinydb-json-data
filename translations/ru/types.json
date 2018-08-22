@@ -1,0 +1,26 @@
+[
+    {
+        "code": "battlefield",
+        "name": "Поле боя"
+    },
+    {
+        "code": "character",
+        "name": "Персонаж"
+    },
+    {
+        "code": "event",
+        "name": "Событие"
+    },
+    {
+        "code": "plot",
+        "name": "Plot"
+    },
+    {
+        "code": "support",
+        "name": "Поддержка"
+    },
+    {
+        "code": "upgrade",
+        "name": "Улучшение"
+    }
+]
