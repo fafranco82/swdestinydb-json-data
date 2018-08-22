@@ -9,7 +9,7 @@
         "flavor": "\"Предатель!\"",
         "name": "FN-2199",
         "subtitle": "Верный штурмовик",
-        "text": "После того как вы прикрепили к этому персонажу <i>оружие</i>, бросьте кубик этого <i>оружия</i> (если возможно). Можете немедленно применить результат этого кубика."
+        "text": "После того как вы сыграли на этого персонажа <b>оружие</b>, бросьте кубик этого <b>оружия</b> (если возможно). Можете немедленно применить результат этого кубика."
     },
     {
         "code": "02003",
@@ -19,7 +19,7 @@
     },
     {
         "code": "02004",
-        "flavor": "\"Никак не сброшу его с хвоста!\" - <cite>Биггс Дарклайтер</cite>",
+        "flavor": "\"Никак не сброшу его с хвоста!\" <cite> Биггс Дарклайтер</cite>",
         "name": "Пилот истребителя СИД",
         "text": "Пока кубик этого персонажа в вашем пуле, соперник не может убирать другие ваши кубики, лежащие гранью с дальним уроном ([ranged]) вверх."
     },
@@ -31,7 +31,7 @@
     {
         "code": "02006",
         "name": "Имперская дисциплина",
-        "text": "Только для красных персонажей.\n<b>Действие</b> - уберите этот кубик, чтобы повернуть гранью с дальним уроном ([ranged]) или ресурсом вверх ([resource]) один из кубиков персонажа, к которому прикреплено это улучшение, или кубиков его улучшений."
+        "text": "Только для <b>красных</b> персонажей.\n<b>Действие</b> - уберите этот кубик, чтобы повернуть гранью с дальним уроном ([ranged]) или ресурсом вверх ([resource]) один из кубиков персонажа, к которому прикреплено это улучшение, или кубиков его улучшений."
     },
     {
         "code": "02007",
@@ -55,19 +55,19 @@
         "flavor": "\"Ты недооцениваешь мою мощь!\"",
         "name": "Дарт Вейдер",
         "subtitle": "Темный ученик",
-        "text": "[special] - нанесите 3 урона любому персонажу. Затем нанесите 1 урон этому персонажу (Дарту Вейдеру)."
+        "text": "[special] - нанесите 3 урона любому персонажу. Затем нанесите 1 урон этому персонажу <em>(Дарту Вейдеру)</em>."
     },
     {
         "code": "02011",
         "flavor": "\"Все именно так, как я предвидел\".",
         "name": "Палпатин",
         "subtitle": "Император галактики",
-        "text": "После того как вы применили результат кубика этого персонажа, соперник наносит 2 урона своим персонажам (распределяет по своему выбору)."
+        "text": "После того как вы применили результат кубика этого персонажа, соперник наносит 2 урона своим персонажам <em>(распределяет по своему выбору)</em>."
     },
     {
         "code": "02012",
         "name": "Императорский гвардеец",
-        "text": "Страж <em>(прежде чем активировать этого персонажа, можете применить против этого персонажа результат кубика соперника, лежащего гранью с уроном вверх).</em>\nВы не можете прикреплять <b>синие</b> карты <b>способностей</b> к этому персонажу"
+        "text": "Страж <em>(прежде чем активировать этого персонажа, можете применить против этого персонажа результат кубика соперника, лежащего гранью с уроном вверх).</em>\nВы не можете играть <b>синие</b> карты <b>способностей</b> на этого персонажа"
     },
     {
         "code": "02013",
@@ -110,735 +110,735 @@
         "code": "02020",
         "name": "*IG-88",
         "subtitle": "Дроид-убийца",
-        "text": "[special] - прикрепите к этому персонажу <b>жёлтое оружие</b> или <b>снаряжение</b> из вашего сброса со скидкой 2."
+        "text": "[special] - сыграйте на этого персонажа <b>жёлтое оружие</b> или <b>снаряжение</b> из вашего сброса со скидкой 2."
     },
     {
         "code": "02021",
-        "name": "Unkar Plutt",
-        "subtitle": "Schrotthändler",
-        "text": "<b>Aktion</b> - Entferne beliebig viele deiner Würfel, die einen Gesamtwert von 3 oder mehr zeigen. Lege dann eine zufällige Karte von der Hand des Gegners ab und erhalte Ressourcen in Höhe der Kosten der abgelegten Karte."
+        "name": "Ункар Платт",
+        "subtitle": "Скупщик металлолома",
+        "text": "<b>Действие</> - уберите любое количество ваших кубиков с суммой значений на верхних гранях, равной 3 или больше. Затем сбросьте случайную карту с руки соперника и получите количество ресурсов, равное стоимости сброшенной карты."
     },
     {
         "code": "02022",
-        "name": "Sklave I",
-        "text": "[special] - Zwinge einen Gegner dazu, seinen Charakteren Schaden in Höhe der Anzahl der Würfel in seinem Pool zuzufügen. Der Gegner verteilt den Schaden, wie er möchte."
+        "name": "Раб-1",
+        "text": "[special] - соперник наносит своим персонажам столько урона, сколько кубиков у него в пуле <em>(распределяет по своему выбору)</em>."
     },
     {
         "code": "02023",
-        "name": "Erpressung",
-        "text": "Nachdem du diesen Würfel geworfen hast, darf dir ein beliebiger Gegner 1 Ressource geben, um diesen Würfel zu entfernen."
+        "name": "Шантаж",
+        "text": "После того как вы бросили кубик этого улучшения, соперник может дать вам 1 ресурс, чтобы убрать этот кубик."
     },
     {
         "code": "02024",
-        "name": "Tragbarer Schildgenerator",
-        "text": "Bevor dem aufgewerteten Charakter2 oder mehr Fernkampfschaden ([ranged]) zugefügt werden, darfst du diese Aufwertung erschöpfen, um dem aufgewerteten Charakter 1 Schild zu geben."
+        "name": "Персональный генератор щита",
+        "text": "Прежде чем персонаж, к которому прикреплено это улучшение, получит 2 или больше дальнего урона ([ranged]), можете повернуть эту карту улучшения, чтобы этот персонаж получил 1 щит."
     },
     {
         "code": "02025",
-        "name": "Vibro-Schlagringe",
-        "text": "Hinterhalt.\nBevor du diesen Würfel abhandelst, darfst du 1 Ressource ausgeben, um seinen Wert um 1 zu erhöhen."
+        "name": "Виброкастеты",
+        "text": "Засада.\nПрежде чем применить результат кубика этого улучшения, можете потратить 1 ресурс, чтобы увеличить значение верхней грани на 1."
     },
     {
         "code": "02026",
-        "name": "Baze Malbus",
-        "subtitle": "Meisterschütze",
-        "text": "[special] - Füge jedem Charakter eines Gegners 1 Schaden zu."
+        "name": "Бейз Мальбус",
+        "subtitle": "Меткий стрелок",
+        "text": "[special] - нанесите 1 урон каждому персонажу соперника."
     },
     {
         "code": "02027",
-        "name": "Mon Mothma",
-        "subtitle": "Fähige Politikerin",
-        "text": "Nachdem du ein Ereignisgespielt hast, darfst du einen Würfel neu werfen, der dieselbe Farbe wie das Ereignis hat."
+        "name": "Мон Мотма",
+        "subtitle": "Умелый политик",
+        "text": "После того как вы сыграли карту события, можете перебросить кубик того же цвета, что и у этого события."
     },
     {
         "code": "02028",
-        "name": "Kommandosoldat der Rebellen",
-        "text": "[special] - Entferne einen gegnerischen Würfel"
+        "name": "Диверсант альянса",
+        "text": "[special] - уберите любой кубик соперника."
     },
     {
         "code": "02029",
-        "flavor": "\"Achtet auf das Abwehrfeuer!\"",
-        "name": "Temmin \"Snap\" Wexley",
-        "subtitle": "Aufklärungsspezialist",
-        "text": "Solange mindestens 1 dieser Würfel in deinem Pool ist, muss dein Gegner 1 Ressource ausgeben, um das Schlachtfeld zu beanspruchen."
+        "flavor": "\"Берегитесь зениток!\"",
+        "name": "Теммин \"Снап\" Уэксли",
+        "subtitle": "Разведчик",
+        "text": "Пока хотя бы 1 кубик этого персонажа в пуле, соперник должен потратить 1 ресурс, если хочет захватить поле боя."
     },
     {
         "code": "02030",
-        "flavor": "\"Ich bin es, C-3PO!\"",
+        "flavor": "\"Это я, Си-Трипио!\"",
         "name": "C-3PO",
-        "text": "<b>Aktion</b> - Entferne diesen Würfel, um 1 deiner Würfel so abzuhandeln, als würde er ein anderes Symbol zeigen (<em>er behält seinen ursprünglichen Wert bei</em>)."
+        "text": "<b>Действие</b> - уберите кубик этого улучшения и примените результат одного из ваших кубиков, как если бы на верхней грани был другой символ <em>(значение не меняется)</em>."
     },
     {
         "code": "02031",
-        "name": "U-Flügler",
-        "text": "[special] - Füge jedem Charakter eines Gegners 2 Schaden zu.\n[special] - Gib jedem deiner Charaktere 2 Schilde."
+        "name": "Транспортник типа U",
+        "text": "[special] - нанесите 2 урона каждому персонажу соперника.\n[special] - каждый ваш персонаж получает по 2 щита."
     },
     {
         "code": "02032",
-        "name": "A180-Blaster",
-        "text": "[special] - Füge einem Charakter 1 Schaden zu und gib dem aufgewerteten Charakter 1 Schild.\n[special] - Füge jedem Charakter eines Gegners 1 Schaden zu.\n[special] - Füge einem Charakter 2 nicht-blockierbare Schaden zu."
+        "name": "Бластер А180",
+        "text": "[special] - нанесите 1 урон любому персонажу. Персонаж, к которому прикреплено это улучшение, получает 1 щит.\n[special] - на несите 1 урон каждому персонажу соперника.\n[special] - нанесите 2 урона любому персонажу <em>(нельзя заблокировать)</em>."
     },
     {
         "code": "02033",
-        "flavor": "Die abgehärtetsten Soldaten wissen, dass sie bereits tot sind.",
-        "name": "Overkill"
+        "flavor": "Старые солдаты как никто знают, что они уже не жильцы.",
+        "name": "Бойня"
     },
     {
         "code": "02034",
-        "name": "Akolyth des Jedi-Ordens",
-        "text": "Bevor du diesen Würfel abhandelst, erhöhe seinen Wert um 1, falls er dasselbe Symbol wie 1 deiner anderen Würfel zeigt."
+        "name": "Джедай-ученик",
+        "text": "Прежде чем применить результат кубика этого персонажа, увеличьте значение верхней грани на 1, если символ на верхней грани совпадает хотя бы с одним символом на других ваших кубиках."
     },
     {
         "code": "02035",
-        "name": "Chirrut Îmwe",
-        "subtitle": "Blinder Krieger",
-        "text": "Du kannst keine blauen <i>Fähigkeiten</i> auf diesen Charakter spielen.\nNachdem du diesen Charakter aktiviert hast,darfst du alle deine Würfel, die eine Leerseite ([blank]) zeigen, neu werfen."
+        "name": "Чиррут Имве",
+        "subtitle": "Закалённый в бою воин",
+        "text": "Вы не можете играть <i>синие</i> карты <i>способностей</i> на этого персонажа.\nПосле того как вы активировали этого персонажа, можете перебросить все ваши кубики, лежащие пустой гранью ([blank]) вверх."
     },
     {
         "code": "02036",
-        "flavor": "\"Alle zusammen, auf mein Zeichen.\"",
-        "name": "Luminara Unduli",
-        "subtitle": "Inspirierende Kommandantin",
-        "text": "[special] - Handle 1 deiner Charakterwürfel ab und erhöhe dabe seinen Wert um 2 oder stattdessen um 3, falls es ein nicht-einzigartiger Charakterwürfel ist."
+        "flavor": "\"Залп по моей команде\".",
+        "name": "Луминара Ундули",
+        "subtitle": "Мастер-джедай",
+        "text": "[special] - примените результат одного из ваших кубиков персонажа, увеличив значение его верхней грани на 2 <em>(или на 3, если это кубик неуникального персонажа)</em>."
     },
     {
         "code": "02037",
-        "flavor": "\"Lass dich von deinen Gefühlen leiten.\"",
-        "name": "Obi-Wan Kenobi",
-        "subtitle": "Geheimnisvoller Eremit",
-        "text": "Beschützer.\nBevor dieser Charakter besiegt wird, darfst du eine blaue Karte kostenlos von deiner Hand oder aus deinem Ablagestapel spielen."
+        "flavor": "\"Доверься своим чувствам.\"",
+        "name": "Оби Ван Кеноби",
+        "subtitle": "Легендарный джедай",
+        "text": "Страж.\nКогда этот персонаж побежден, прежде чем это произойдет, можете бесплатно сыграть синюю карту с руки или из вашего сброса."
     },
     {
         "code": "02038",
-        "flavor": "Einer der bevorzugtesten Sternjäger der Jedi zur Zeit der Klonkriege.",
-        "name": "Delta-7-Abfangjäger",
-        "text": "[special] - Wirf bis zu 3 Würfel neu (<em>eigene und/oder gegnerische</em>)."
+        "flavor": "Излюбленный корабль джедаев времён Войн клонов.",
+        "name": "Перехватчик \"Дельта 7\"",
+        "text": "[special] - перебросьте 3 или меньше любых кубиков <em>(ваших и/или соперника)</em>."
     },
     {
         "code": "02039",
-        "name": "Handgefertigter Lichtbogen",
-        "text": "[special] - Füge einen Charakter 3 Schaden zu.\n[special] - Entferne alle Schilde von einem Charakter. Füge dann jenem Charakter 2 Schaden zu."
+        "name": "Энергетический лук",
+        "text": "[special] - нанесите 3 урона любому персонажу.\n[special] - уберите с любого персонажа все щиты и нанесите ему 2 урона."
     },
     {
         "code": "02040",
-        "name": "Machtheilung",
-        "text": "Nur blaue Charaktere.\n[special] - Heile 1 Schaden von einem Charakter oder gib 1 Ressource aus, um 2 Schaden von einem Charakter zu heilen."
+        "name": "Исцеление силой",
+        "text": "Только для <b>синих</b> персонажей.\n[special] - восстановите 1 здоровья любому персонажу или потратьте 1 ресурс, чтобы восстановить 2 здоровья любому персонажу."
     },
     {
         "code": "02041",
-        "name": "Ben Kenobis Tagebücher",
-        "text": "<b>Aktion</b> - Entferne diesen Würfel um eine Karte zu ziehen."
+        "name": "Дневники Бена Кеноби",
+        "text": "<b>Действие</b> - уберите кубик этого улучшения и возьмите карту из вашей колоды."
     },
     {
         "code": "02042",
-        "flavor": "\"Wir haben zusammen eine Menge durchgemacht.\" <cite>Luke Skywalker</cite>",
+        "flavor": "\"Мы с этим дроидом столько пережили.\" <cite> Люк Скайуокер</cite>",
         "name": "R2-D2",
-        "text": "[special] - Handle 1 deiner Würfel ab und erhöhe dabei seinen Wert um 1."
+        "text": "[special] - примените результат одного из ваших кубиков, увеличив значение верхней грани на 1."
     },
     {
         "code": "02043",
-        "flavor": "Rroooaarrgghh!",
-        "name": "Chewbacca",
-        "subtitle": "Treuer Freund",
-        "text": "[special] - Drehe einen gegnerischen Würfel auf eine Seite, die Schaden ([ranged] oder [melee]) zeigt, um diesen Schaden einem Charakter zuzufügen."
+        "flavor": "\"Рррооаарргггхх!\"",
+        "name": "Чубака",
+        "subtitle": "Герой-вуки",
+        "text": "[special] - переверните любой кубик соперника гранью с уроном ([ranged] или [melee]) вверх и нанесите этот урон любому персонажу."
     },
     {
         "code": "02044",
-        "name": "Jyn Erso",
-        "subtitle": "Verwegene Agentin",
-        "text": "Die Kosten des ersten gelben Ereignisses, das du in jeder Runde spielst, sinken um 1."
+        "name": "Джин Эрсо",
+        "subtitle": "Бесстрашный агент",
+        "text": "Стоимость первого <b>желтого</b> события, разыгранного вами в каждом раунде, снижается на 1."
     },
     {
         "code": "02045",
-        "flavor": "Wenn du lange genug lebst, dann siehst du dieselben Augen bei verschiedenen Personen.",
-        "name": "Maz Kanata",
-        "subtitle": "Piratenfürstin",
-        "text": "Nachdem du diesen Charakter aktiviert hast, darfst du bis zu 2 deiner Würfel abhandeln."
+        "flavor": "\"Я живу достаточно долго, чтобы научиться распознавать одинаковый взгляд у разных существ.\"",
+        "name": "Маз Каната",
+        "subtitle": "Королева пиратов",
+        "text": "После того как вы активировали этого персонажа, можете применить результаты 2 или меньше ваших кубиков."
     },
     {
         "code": "02046",
-        "name": "Schmuggler aus dem äusseren Rand",
-        "text": "<s>Nachdem du</s> <u>Das erste Mal in jeder Runde, wenn du</u> die letzte Karte von deiner Hand gespielt hast, erhälst du 1 Ressource."
+        "name": "Контрабандист с внешнего кольца",
+        "text": "После того как вы впервые в текущем раунде сыграли последнюю карту с руки, получите ресурс."
     },
     {
         "code": "02047",
-        "name": "Schmuggler-Frachter",
-        "text": "Nachdem du 1 Seite dieses Würfels, die den Wert 2 zeigt, abgehandelt hast, lege diese Unterstützung oben auf dein Deck."
+        "name": "Грузовик с контрабандой",
+        "text": "После того как вы применили результат кубика этой карты поддержки, лежащей гранью со значением 2 вверх, положите эту карту поддержки на верх вашей колоды."
     },
     {
         "code": "02048",
-        "flavor": "\"Ich steh auf dieses Teil\" <cite>Han Solo</cite>",
-        "name": "Bogenspanner",
-        "text": "Verlegen.\n[special] - Füge bis zu 2 verschiedenen Charakteren je 1 nicht-blockierbaren Schaden zu."
+        "flavor": "\"Роскошная вещица\" <cite> Хан Соло</cite>",
+        "name": "Арбалет",
+        "text": "Перераспределение.\n[special] - нанесите по 1 урону двум или меньше разным персонажам <em>(нельзя заблокировать)</em>."
     },
     {
         "code": "02049",
-        "name": "Lone Operative",
-        "text": "[special] - Heal 2 damage from attached character, or 3 damage instead if attached characer is your only character in play."
+        "name": "Агент-одиночка",
+        "text": "[special] - восстановите 2 здоровья персонажу с этим улучшением <em>(или 3 здоровья, если это ваш единственный персонаж)</em>."
     },
     {
         "code": "02050",
-        "name": "Maz's Goggles",
-        "text": "To play, spot a Yellow character.\n[special] - Look at an opponent's hand and discard an event from it."
+        "name": "Очки Маз",
+        "text": "Можете сыграть, если у вас есть <b>желтый</b> персонаж.\n[special] - посмотрите карты на руке соперника и сбросьте с его руки событие по вашему выбору."
     },
     {
         "code": "02051",
-        "name": "Supply Line",
-        "text": "[special] - Reroll any number of your dice."
+        "name": "Канал поставок",
+        "text": "[special] - перебросьте любое количество ваших кубиков."
     },
     {
         "code": "02052",
-        "name": "Astromech",
-        "text": "<b>Action</b> - Remove this die to turn a <i>vehicle</i> die to any side."
+        "name": "Астродроид",
+        "text": "<b>Действие</b> - уберите кубик этой карты поддержки, чтобы повернуть любой кубик <b>транспорта</b> любой гранью вверх."
     },
     {
         "code": "02053",
-        "name": "Rocket Launcher",
-        "text": "[special] - Discard a <i>vehicle</i> from play.\n[special] - Deal 2 damage each to up to 2 different characters."
+        "name": "Ракетомёт",
+        "text": "[special] - сбросьте из игра карту <b>транспорта</b>.\n[special] - нанесите по 2 урона двум или меньше разным персонажам."
     },
     {
         "code": "02054",
-        "name": "Force Push",
-        "text": "Blue character only.\n[special] - Turn up to 2 of an opponent's dice to sides of your choice."
+        "name": "Импульс силы",
+        "text": "Только для <b>синих</b> персонажей.\n[special] - поверните 2 или меньше кубиков соперника любыми гранями вверх."
     },
     {
         "code": "02055",
-        "name": "Force Speed",
-        "text": "Blue character only.\n[special] - Take up to 2 additional actions."
+        "name": "Ускорение силы",
+        "text": "Только для <b>синих</b> персонажей.\n[special] - совершите 2 или меньше дополнительных действий."
     },
     {
         "code": "02056",
-        "name": "Makashi Training",
-        "text": "To play, spot a Blue character.\n<b>Action</b> - Remove one of your dice showing melee damage ([melee]) and exhaust this upgrade to remove a die showing melee damage ([melee])."
+        "name": "Тренировка формы Макаши",
+        "text": "Можете сыграть, если у вас есть <b>синий</b> персонаж. <b>Действие</b> - уберите один из ваших кубиков, лежащих гранью с ближним уроном ([melee]) вверх, и поверните эту карту, чтобы убрать любой кубик, лежащий гранью с ближним уроном ([melee]) вверх."
     },
     {
         "code": "02057",
-        "name": "Vibromesser",
-        "text": "Hinterhalt.\nSolange dieser Würfel in deinem Pool ist, ist aller Nahkampfschaden ([melee]), der durch deine Würfel (<em>inklusive diesem</em>) zugefügt wird, nicht-blockierbar."
+        "name": "Вибронож",
+        "text": "Засада.\nУрон, нанесённый с помощью этого кубика или с помощью кубика, который он модифицирует, нельзя заблокировать."
     },
     {
         "code": "02058",
-        "name": "Quadjumper",
-        "text": "<b>Action</b> - Discard this support to play a support from your hand, decreasing its cost by 3."
+        "name": "Квадроджампер",
+        "text": "<b>Действие</b> - сбросьте эту карту поддержки, чтобы разыграть с руки карту поддержки со скидкой 3."
     },
     {
         "code": "02059",
-        "name": "Ascension Gun",
-        "text": "[special] - Use the ability on a battlefield that is not being used <em>(but was brought to the game)</em> as if you had just claimed it."
+        "name": "Пистолет-подъемник",
+        "text": "[special] - используйте способность захвата неиспользуемого поля боя <em>(но введенного в игру)</em>, как если бы вы только что его захватили."
     },
     {
         "code": "02060",
-        "name": "Trickbetrüger",
-        "text": "Nur gelbe Charaktere.\n[special] - Lege 1 Schaden auf diese Aufwertung. Lege dann so viele Karten oben von einem gegnerischen Deck ab, wie Schaden auf dieser Aufwertung liegt."
+        "name": "Жулик",
+        "text": "Только для <b>желтых</b> персонажей.\n[special] - поместите 1 урон на эту карту улучшения. Затем сбросьте с колоды соперника столько верхних карт, сколько урона лежит на этой карте улучшения."
     },
     {
         "code": "02061",
-        "name": "Gefechtsformation",
-        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nZähle die Anzahl deiner roten Charaktere. Du darfst ebenso viele deiner Würfel neu werfen."
+        "name": "Боевое построение",
+        "text": "Засада <em>(можете совершить дополнительное действие после того, как сыграете эту карту)</em>.\nСосчитайте количество ваших красных персонажей. Можете перебросить столько же кубиков."
     },
     {
         "code": "02062",
-        "name": "Imperiale Kriegsmaschinerie",
-        "text": "Handle 1 deiner roten Würfel, der ein Resourcensymbol zeigt, kostenlos ab."
+        "name": "Имперская военная машина",
+        "text": "Бесплатно примените результат одного из ваших <b>красных</b> кубиков, лежащих гранью, на которых указана стоимость в ресурсах, вверх."
     },
     {
         "code": "02063",
-        "name": "Lockdown",
-        "text": "Ambush.\nSpot two Red characters to take control of the battlefield. (<em>This does not claim the battlefield.</em>)"
+        "name": "Облава",
+        "text": "Засада <em>(можете совершить дополнительное действие после того, как сыграете эту карту)</em>.\nЕсли у вас выложено <b>2 красных</b> персонажа, возьмите поля боя под контроль <em>(это не считается захватом поля боя)</em>."
     },
     {
         "code": "02064",
-        "name": "Dauerfeuer",
-        "text": "Spiele diese Karte nur aus, falls du 2 oder mehr Würfel hast, die Fernkampfschaden ([ranged]) zeigen.\nEntferne alle Schilde von allen Charakteren des Gegners."
+        "name": "Непрерывный огонь",
+        "text": "Можете сыграть, только если 2 или больше ваших кубиков лежат гранью с дальним уроном ([ranged]) вверх.\nУберите щиты со всех персонажей соперника."
     },
     {
         "code": "02065",
-        "name": "Verräter!",
-        "text": "Hinterhalt.\nLege die oberste Karte deines Decks ab. Entferne dann einen Würfel, der keine Spezialfähigkeit ([special]) zeigt und dessen Wert gleich oder geringer ist als die Kosten der gerade abgelegten Karte."
+        "name": "Предатель!",
+        "text": "Засада.\nСбросьте верхнюю карту вашей колоды. Затем уберите кубик, лежащий гранью <b>без</b> особенности ([special]) вверх, значение которого меньше либо равно стоимости сброшенной карты."
     },
     {
         "code": "02066",
-        "name": "Grabenkrieg",
-        "text": "Spiele diese Karte nur, falls du 1 oder mehrere Würfel hast, die Schilde ([shield]) zeigen.\nDrehe beliebig viele Würfel eines Gegners auf Seiten, die Schilde ([shield]) zeigen."
+        "name": "Загнать в окопы",
+        "text": "Можете сыграть только если один или несколько ваших кубиков лежат гранью со щитом ([shield]) вверх.\nПоверните любое количество кубиков соперника гранью со щитом ([shield]) вверх."
     },
     {
         "code": "02067",
-        "name": "Grenzenlose Loyalität",
-        "text": "Heile 1 Schaden von einem roten Charakter. Falls eine andere Kopie dieses Ereignisses in deinem Ablagestapel ist, darfst du 1 Ressource ausgeben, um dieses Ereignis oben auf dein Deck zu legen, anstatt es abzulegen."
+        "name": "Абсолютная верность",
+        "text": "Восстановите 1 здоровья <b>красному</b> персонажу. Если в вашем сбросе есть такое же событие, можете потратить 1 ресурс, чтобы положить это событие на верх вашей колоды, вместо того чтобы сбрасывать."
     },
     {
         "code": "02068",
-        "name": "Jetzt haben wir sie",
-        "text": "Spiele diese Karte nur aus, falls du das Schlachtfeld kontrollierst.\nDrehe bis zu 4 deiner Würfel auf Seiten, die Schaden ([ranged] oder [melee]) zeigen."
+        "name": "Им конец",
+        "text": "Можете сыграть только если контролируете поле боя.\nПоверните 4 или меньше ваших кубиков гранью с уроном ([ranged] или [melee]) вверх."
     },
     {
         "code": "02069",
-        "name": "Zermürbung",
-        "text": "Nachdem 1 deiner Charaktere besiegt worden ist, füge einem Charakter 1 Schaden zu."
+        "name": "На измор",
+        "text": "После того как один из ваших персонажей побежден, нанесите 1 урон любому персонажу."
     },
     {
         "code": "02070",
-        "name": "Imperiale Inspektion",
-        "text": "Nachdem 1 deiner Würfel Störung ([disrupt]) geworfen hat, darfst du diese Unterstützung erschöpfen, um eine Aufwertung im Spiel, die 2 oder weniger kostet, auf die Hand ihres Besitzers zurückzuschicken."
+        "name": "Имперская проверка",
+        "text": "После того как она одном из ваших кубиков выпала грань с диверсией ([disrupt]), можете отложить эту карту поддержки, чтобы вернуть сыгранное улучшение стоимостью 2 или меньше на руку владельца."
     },
     {
         "code": "02071",
-        "name": "Zorn",
-        "text": "Spiele diese Karte nur aus, falls du 2 oder mehr Würfel hast, die eine Leerseite ([blank]) zeigen.\nHandle einen gegnerischen Würfel, der Schaden ([ranged] oder [melee]) zeigt, so ab, als wäre es dein Würfel."
+        "name": "Гнев",
+        "text": "Можете сыграть, только если 2 или больше ваших кубиков лежат пустой гранью ([blank]) вверх.\nПримените результат кубика соперника, лежащего гранью с уроном ([ranged] или [melee]) вверх, как если бы он был вашим."
     },
     {
         "code": "02072",
-        "name": "Lichtschwertwurf",
-        "text": "Spiele diese Karte nur aus, falls du 1 oder mehrere Würfel hast, die Nahkampfschaden ([melee]) zeigen.\nFüge einem Charakter 2 Schaden zu."
+        "name": "Бросок меча",
+        "text": "Можете сыграть, только если 1 или больше ваших кубиков лежат гранью с ближним уроном ([melee]) вверх.\nНанесите любому персонажу 2 урона."
     },
     {
         "code": "02073",
-        "name": "Manipulieren",
-        "text": "Drehe 1 deiner Würfel auf eine Seite, die eine Leerseite ([blank]) zeigt. Drehe dann den Würfel eines Gegners auf eine Seite, die eine Leerseite ([blank]) zeigt."
+        "name": "Манипуляция",
+        "text": "Поверните один из ваших кубиков пустой гранью ([blank]) вверх. Затем поверните любой кубик соперника пустой гранью ([blank]) вверх."
     },
     {
         "code": "02074",
-        "name": "Keine Desintegrationen",
-        "text": "Lege die oberste Karte eines gegnerischen Decks ab oder stattdessen die obersten 3 Karten, falls eine andere Kopie dieses Ereignisses in deinem Ablagestapel ist."
+        "name": "Они мне нужны живыми",
+        "text": "Сбросьте верхнюю карту колоды соперника <em>(или 3 карты, если в вашем сбросе есть такое же событие)</em>."
     },
     {
         "code": "02075",
-        "name": "Jetzt wirst du sterben",
-        "text": "Handle 1 deiner Würfel ab, als würde er Nahkampfschaden ([melee]) zeigen <em>(er behält seinen ursprünglichen Wert)</em>."
+        "name": "Твой черед",
+        "text": "Примените результат одного из ваших кубиков, как если бы на верхней грани был ближний урон ([melee]) <em>(значение не меняется)</em>."
     },
     {
         "code": "02076",
-        "name": "Auferstehung",
-        "text": "Heile 5 Schaden von einem einzigartigen blauen Charakter. Du darfst eine Aufwertung aus deinem Ablagestapel kostenlos auf den Charakter spielen."
+        "name": "Восстань",
+        "text": "Восстановите 5 здоровья уникальному <b>синему</b> персонажу. Можете сыграть на него улучшение из вашего сброса бесплатно."
     },
     {
         "code": "02077",
-        "name": "Der Preis für dein Versagen",
-        "text": "Sichte einen blauen Charakter und besiege 1 deiner Charaktere, um einen Charakter spielbereit zu machen."
+        "name": "Цена ошибки",
+        "text": "Если у вас выложен <b>синий</b> персонаж, победите одного из ваших персонажей, чтобы вернуть любого персонажа в подготовленное положение."
     },
     {
         "code": "02078",
-        "name": "Finstere Präsenz",
-        "text": "Nachdem 1 deiner Würfel Ablegen ([discard]) geworfen hat, darfst du diese Unterstützung erschöpfen, um einen Gegner dazu zu zwingen, 1 seiner Würfel zu wählen und zu entfernen."
+        "name": "Темное присутствие",
+        "text": "После того как на одном из ваших кубиков выпала грань со сбором ([discard]), можете повернуть эту карту поддержки, чтобы соперник убрал один из своих кубиков на свой выбор."
     },
     {
         "code": "02079",
-        "name": "Jetzt bin ich der Meister",
-        "text": "Nachdem die Charakter- oder Aufwertungswürfel des aufgewerteten Charakters Schaden zugefügt haben, darfst du diese Aufwertung erschöpfen, um einen Würfel auf eine Seite zu drehen, die eine Leerseite ([blank]) zeigt."
+        "name": "Теперь я учитель",
+        "text": "После того как кубик персонажа, к которому прикреплено это улучшение, или кубик его улучшения нанёс урон, можете повернуть эту карту улучшения, чтобы повернуть любой кубик пустой гранью ([blank]) вверх."
     },
     {
         "code": "02080",
-        "name": "Zweifel",
-        "text": "Wirf einen Würfel eines Gegners neu. Dann handelt dieser Gegner den Würfel entweder ab oder entfernt ihn."
+        "name": "Сомнения",
+        "text": "Перебросьте любой кубик соперника. Затем соперник либо применяет его результат, либо убирает его."
     },
     {
         "code": "02081",
-        "name": "Waffenhandel",
-        "text": "Lege eine beliebige Zahl <i>Waffen</i> von deiner Hand ab. Dann erhälst du 1 Ressource, für jede Karte, die du gerade abgelegt hast."
+        "name": "Продажа оружия",
+        "text": "Сбросьте любое количество карт <b>оружия</b> с руки и получите 1 ресурс за каждую сброшенную карту."
     },
     {
         "code": "02082",
-        "name": "Lockvogel",
-        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nDrehe 1 deiner Würfel, der Ressourcen ([resource]) zeigt, auf eine beliebige Seite."
+        "name": "Приманка",
+        "text": "Засада <em>(можете совершить дополнительное действие после того, как сыграете эту карту)</em>.\nПоверните любой гранью вверх один из ваших кубиков, лежащих гранью с ресурсом ([resource]) вверх."
     },
     {
         "code": "02083",
-        "name": "Einflussreiche Kontakte",
-        "text": "Spiele diese Karte nur aus, falls du Würfel hast, die einen Gesamtwert von 7 oder mehr zeigen.\nSieh dir die obersten 3 Karten deines Decks an. Du darfst 1 dieser KArten kostenlos spielen. Lege die nicht gespielten Karten ab."
+        "name": "Привилегированные друзья",
+        "text": "Можете сыграть, только если сумма значений на ваших кубиках больше или равна 7.\nПосмотрите 3 верхних карты вашей колоды. Можете разыграть одну из них бесплатно. Сбросьте остальные просмотренные карты."
     },
     {
         "code": "02084",
-        "name": "Ungelöste Probleme",
-        "text": "Hinterhalt.\nEntferne 1 deiner Würfel, der Fernkampfschaden ([ranged]) zeigt, um die obersten 4 Karten eines gegnerischen Decks abzulegen"
+        "name": "Замести следы",
+        "text": "Засада.\nУберите один из ваших кубиков, лежащих гранью с дальним уроном ([ranged]) вверх, чтобы сбросить 4 верхние карты колоды соперника."
     },
     {
         "code": "02085",
-        "name": "Eine Viertel-Ration",
-        "text": "Entferne einen Würfel eines Gegners. Dann erhält dieser Gegner 1 Ressource."
+        "name": "Четверть порции",
+        "text": "Уберите любой кубик соперника. Затем этот соперник получает 1 ресурс."
     },
     {
         "code": "02086",
-        "name": "Unnachgiebige Jagd",
-        "text": "Verschiebe bis zu 2 Schaden von einem gegnerischen Charakter auf einen anderen Charakter (<em>Schilde werden ignoriert.</em>)"
+        "name": "Неотступное преследование",
+        "text": "Переместите 2 или меньше урона с одного из персонажей соперника на другого <em>(щиты игнорируются)</em>."
     },
     {
         "code": "02087",
-        "name": "Ankauf von Schrott",
-        "text": "Spiele diese Karte nur, falls du 3 oder mehr Karten in deinem Ablagestapel hast.\nFüge eine zufällige Karte aus deinem Ablagestapel deiner Hand hinzu (<em>zeige die Karte deinen Gegnern</em>)."
+        "name": "Скупка утиля",
+        "text": "Можете сыграть, только если у вас 3 или больше карт в сбросе.\nВозьмите случайную карту из вашего сброса на руку <em>(покажите карту соперникам)</em>."
     },
     {
         "code": "02088",
-        "name": "Schrotthändler-Stand",
-        "text": "Nachdem 1 deiner Würfel Ressourcen ([resource]) geworfen hat, darfst du diese Unterstützung erschöpfen, um einen Gegner dazu zu zwingen 1 Ressource zu verlieren."
+        "name": "Скупщик утиля",
+        "text": "После того как на одном из ваших кубиков выпала грань с ресурсом ([resource]), можете повернуть эту карту поддержки, чтобы соперник потерял 1 ресурс."
     },
     {
         "code": "02089",
-        "name": "Rüstungsplatten",
-        "text": "Bevor der aufgewertete Charakter Schaden erleidet, darfst du bis zu 2 Schaden blocken. Lege dann diese Aufwertung aus dem Spiel ab."
+        "name": "Броневые пластины",
+        "text": "Прежде чем персонаж, к которому прикреплено это улучшение, получит урон, можете заблокировать 2 или меньше урона. Затем сбросьте эту карту улучшения."
     },
     {
         "code": "02090",
-        "name": "Notfall-Evakuierung",
-        "text": "Entferne alle Würfel."
+        "name": "Экстренная эвакуация",
+        "text": "Уберите все кубики."
     },
     {
         "code": "02091",
-        "name": "Eigenbeschuss",
-        "text": "Sichte einen roten Charakter und entferne einen gegnerischen Würfel, der Fernkampfschaden ([ranged]) zeigt, um den Schaden des entfernten Würfels einem Charakter zuzufügen."
+        "name": "Дружественный огонь",
+        "text": "Если у вас есть <b>красный</b> персонаж, уберите кубик соперника, лежащий гранью с дальним уроном вверх ([ranged]), чтобы нанести этот урон любому персонажу."
     },
     {
         "code": "02092",
-        "name": "Guerillakrieg",
-        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nEntferne 1 deiner roten Würfel, um einen Charakter 1 Schaden zuzufügen."
+        "name": "Партизанская война",
+        "text": "Засада <em>(можете совершить дополнительное действие после того, как сыграете эту карту)</em>.\nУберите один из ваших красных кубиков, чтобы нанести 1 урон любому персонажу."
     },
     {
         "code": "02093",
-        "name": "Unsere letzte Hoffnung",
-        "text": "Ziehe eine Karte. Du darfst die gezogene Karte kostenlos spielen oder du darfst die gezogene Karte ablegen, um 2 Ressourcen zu erhalten."
+        "name": "Последняя надежда",
+        "text": "Возьмите карту из вашей колоды. Можете сыграть ее бесплатно или сбросить, чтобы получить 2 ресурса."
     },
     {
         "code": "02094",
-        "name": "Angriff der Rebellen",
-        "text": "Spiele diese Karte nur, falls du 1 oder mehrere Würfel hast, die Fernkampfschaden ([ranged]) zeigen.\nEntferne einen gegnerischen Würfel, der keinen Schaden ([ranged] oder [melee]) zeigt."
+        "name": "Налет повстанцев",
+        "text": "Можете сыграть, только если один или несколько ваших кубиков лежат гранью с дальним уроном вверх([ranged]).\nУберите любой кубик соперника, лежащий гранью <b>без</b> урона ([ranged] или [melee]) вверх."
     },
     {
         "code": "02095",
-        "name": "Sensoren-Platzierung",
-        "text": "Sichte einen roten Charakter, um einen gegnerischen Würfel, der keinen Schaden ([ranged] oder [melee]) zeigt, so abzuhandeln, als wäre es dein Würfel."
+        "name": "Установка сенсора",
+        "text": "Если у вас есть <b>красный</b> персонаж, примените результат кубика соперника, лежащего гранью <b>без</b> урона ([ranged] или [melee]) вверх, как если бы он был вашим."
     },
     {
         "code": "02096",
-        "name": "Geist der Rebellion",
-        "text": "Gib einem Charakter 1 Schild oder stattdessen2 Schilde, falls eine andere Kopie dieses Ereignisses in deinem Ablagestapel ist."
+        "name": "Душа восстания",
+        "text": "Персонаж по вашему выбору получает 1 щит <em>(или 2 щита, если в вашем сбросе есть такое же событие)</em>."
     },
     {
         "code": "02097",
-        "name": "Planetenweiter Aufstand",
-        "text": "Nachdem du das Schlachtfeld beansprucht hast, zwinge einen Gegner dazu, seinen Charakteren 2 Schaden zuzufügen, verteilt wie er möchte."
+        "name": "Восставшая планета",
+        "text": "После того как вы захватили поле боя, соперник наносит 2 урона своим персонажам <em>(распределяет по своему выбору)</em>."
     },
     {
         "code": "02098",
-        "name": "Spionage-Netzwerk",
-        "text": "Nachdem 1 deiner Würfel Fokussieren ([focus]) geworfen hat, darfst du diese Unterstützung erschöpfen, um die oberste Karte eines gegnerischen Decks abzulegen."
+        "name": "Шпионская сеть",
+        "text": "После того как на одном из ваших кубиков выпала грань с концентрацией ([focus]), можете повернуть эту карту поддержки, чтобы сбросить верхнюю карту колоды соперника."
     },
     {
         "code": "02099",
-        "name": "Taktisches Geschick",
-        "text": "Nachdem du den aufgewerteten Charakter aktiviert hast, darfst du eine Karte ziehen. Lege dann eine Karte von deiner Hand unter dein Deck."
+        "name": "Одаренный тактик",
+        "text": "После того как вы активировали персонажа, к которому прикреплено это улучшение, можете взять карты из вашей колоды. Затем положите карту с руки под низ вашей колоды."
     },
     {
         "code": "02100",
-        "name": "Vorsicht",
-        "text": "Entferne 1 deiner Charakterwürfel, um einem anderen Charakter 3 Schilde zu geben."
+        "name": "Предостережение",
+        "text": "Уберите один из ваших кубиков персонажа. Другой персонаж получает 3 щита."
     },
     {
         "code": "02101",
-        "name": "Bestimmung",
-        "text": "Entferne eine beliebige Zahl deiner blauen Würfel. Spiele eine Karte kostenlos von deiner Hand, deren Kosten gleich oder niedriger sind als der Gesamtwert der blauen Würfel, die du gerade entfernt hast."
+        "name": "Предназначение",
+        "text": "Уберите любое количество ваших <b>синих</b> кубиков. Затем бесплатно сыграйте с руки карту, стоимость которой меньше или равна сумме значений только что убранных кубиков."
     },
     {
         "code": "02102",
-        "name": "Zielstrebigkeit",
-        "text": "Spiele diese Karte nur, falls du 1 oder mehrere Würfel hast, die Fokussieren ([focus]) zeigen.\nHandle 1 deiner Würfel ab, als würde er ein anderes Symbol zeigen <em>(er behält seinen ursprünglichen Wert bei)</em>."
+        "name": "Решимость",
+        "text": "Можете сыграть, только если один или несколько ваших кубиков лежат гранью с концентрацией ([focus]) вверх.\nПримените результат одного из ваших кубиков, как если бы на верхней грани был другой символ <em>(значение не меняется)</em>."
     },
     {
         "code": "02103",
-        "name": "Schutz",
-        "text": "Entferne 1 deiner blauen Würfel, der Nahkampfschaden ([melee]) zeigt, um eine Anzahl Würfel eines Gegners zu entfernen, die dem Wert des gerade entfernten Würfels entspricht."
+        "name": "Защитная стойка",
+        "text": "Уберите один из ваших <b>синих</b> кубиков, лежащих гранью с ближним уроном ([melee]) вверх, чтобы убрать столько кубиков соперника, каково значение на вашем только что убранном кубике."
     },
     {
         "code": "02104",
-        "name": "Krayt-Drachenschrei",
-        "text": "Sichte einen blauen Charakter, um einen Würfel eines Gegners zu wählen. Dieser Gegner wählt dann zwischen folgenden Optionen: Entweder er entfernt den gewählten Würfel oder er legt die obersten 2 Karten seines Decks ab."
+        "name": "Вой крайт-дракона",
+        "text": "Если у вас выложен <b>синий</b> персонаж, выберите кубик соперника. Этот соперник должен либо убрать этот кубик, либо сбросить 2 верхние карты своей колоды <em>(на свой выбор)</em>."
     },
     {
         "code": "02105",
-        "name": "Die Macht ist mein Verbündeter",
-        "text": "Hinterhalt.\nHandle 1 deiner blauen Würfel ab, ohne ihn aus deinem Pool zu entfernen."
+        "name": "Союзник мой - сила",
+        "text": "Засада.\nПримените результат одного из ваших <b>синих</b> кубиков, не убирая его из пула."
     },
     {
         "code": "02106",
-        "name": "Synchroner Kampfstil",
-        "text": "Spiele diese Karte nur, falls du Würfel hast, die Nahkampfschaden ([melee]) und Schilde ([shield]) zeigen.\nFüge einem Charakter 2 nicht-blockierbare Schaden zu."
+        "name": "Синхронность",
+        "text": "Можете сыграть, только если несколько ваших кубиков лежат гранями с ближним уроном ([melee]) и щитом ([shield]) вверх.\nНанесите любому персонажу 2 урона <em>(нельзя заблокировать)</em>."
     },
     {
         "code": "02107",
-        "name": "Deine Augen können dich täuschen",
-        "text": "Nachdem 1 deiner Würfel Schilde ([shield]) geworfen hat, darfst du diese Unterstützung erschöpfen, um einen gegnerischen Würfel auf eine beliebige Seite zu drehen."
+        "name": "Чувства обманчивы",
+        "text": "После того как на одном из ваших кубиков выпала грань со щитом ([shield]), можете повернуть эту карту поддержки, чтобы повернуть любой кубик соперника любой гранью вверх."
     },
     {
         "code": "02108",
-        "name": "Beschützender Mentor",
-        "text": "Die Schilde des aufgewerteten Charakters können verwendet werden, um Schaden abzublocken, der einem beliebigen Charakter zugefügt wird."
+        "name": "Заботливый наставник",
+        "text": "Щиты персонажа, к которому прикреплено это улучшение, можно использовать, чтобы блокировать урон, наносимый любому персонажу."
     },
     {
         "code": "02109",
-        "name": "Selbstvertrauen",
-        "text": "Wähle einen Würfel eines Gegners und zwinge ihn dazu, den gewählten Würfel abzuhandeln, falls möglich."
+        "name": "Уверенность",
+        "text": "Выберите кубик соперника. Соперник применяет результат этого кубика <em>(если возможно)</em>."
     },
     {
         "code": "02110",
-        "name": "Der Schrott wird's schon tun",
-        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nEntferne 1 deiner <i>Fahrzeuge</i>-Würfel, um jedem deiner Charaktere 1 Schild zu geben."
+        "name": "Корыто сойдет",
+        "text": "Засада <em>(можете совершить дополнительное действие после того, как сыграете эту карту)</em>. Уберите один из ваших кубиков <b>транспорта</b>. Каждый ваш персонаж получает 1 щит."
     },
     {
         "code": "02111",
-        "name": "Halte durch",
-        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nVerschiebe eine beliebige Zahl Schilde von 1 deiner Charaktere auf einen anderen Charakter."
+        "name": "Держись!",
+        "text": "Засада <em>(можете совершить дополнительное действие после того, как сыграете эту карту)</em>. Переместите любое количество щитов с одного персонажа на другого."
     },
     {
         "code": "02112",
-        "name": "Rebellieren",
-        "text": "Spiele diese Karte nur dann, falls du 1 oder mehrere Würfel hast, die Ablegen ([discard])zeigen.\nSpiele eine Karte aus deinem Ablagestapel und senke dabei ihre Kosten um 1."
+        "name": "Восстать",
+        "text": "Можете сыграть, только если один или несколько ваших кубиков лежат гранью со сбросом ([discard]) вверх.\nСыграйте карту из вашего сброса со скидкой 1."
     },
     {
         "code": "02113",
-        "name": "Grossbetrug",
-        "text": "Du erhälst 3 Ressourcen, falls eine andere Kopie dieses Ereignisses in deinem Ablagestapel ist."
+        "name": "Крупное мошенничество",
+        "text": "Получите 3 ресурса, если в вашем сбросе есть такое же событие."
     },
     {
         "code": "02114",
-        "name": "Loth-Katz und Maus",
-        "text": "Zwinge einen Gegner dazu, 1 deiner Würfel zu wählen und zu entfernen. Entferne dann 1 seiner Würfel."
+        "name": "Кошки-мышки",
+        "text": "Соперник убирает из ваших кубиков на свой выбор. Затем уберите один из кубиков этого соперника."
     },
     {
         "code": "02115",
-        "name": "Sag mir nie, wie meine Chancen stehen",
-        "text": "Wähle 1 deiner Charaktere. Drehe beliebig viele seiner Charakter- und Aufwertungswürfel auf Seiten deiner Wahl."
+        "name": "Не говори о шансах",
+        "text": "Выберите одного из ваших <b>желтых</b> персонажей. Поверните любое количество кубиков этого персонажа и прикреплённых к нему улучшений любыми гранями вверх."
     },
     {
         "code": "02116",
-        "name": "Geplante Sprengung",
-        "text": "Spiele diese Karte nur, falls du Würfel hast, die einen Gesamtwert von 10 oder mehr zeigen.\nEntferne alle deine Würfel und füge einem Charakter 10 Schaden zu."
+        "name": "Спланированный взрыв",
+        "text": "Можете сыграть, только если сумма значений на ваших кубиках больше или равна 10.\nУберите все ваши кубики и нанесите любому персонажу 10 урона."
     },
     {
         "code": "02117",
-        "name": "Doppeltes Spiel",
-        "text": "Nachdem 1 deiner Würfel Spezialfähigkeit ([special]) geworfen hat, darfst du diese Unterstützung erschöpfen um 1 Ressource zu erhalten."
+        "name": "Двойная игра",
+        "text": "После того как на одном из ваших кубиков выпала грань с особенностью ([special]), можете повернуть эту карту поддержки, чтобы получить 1 ресурс."
     },
     {
         "code": "02118",
-        "name": "Lebensschuld",
-        "text": "Nur gelbe Charaktere.\nNachdem du diesen Charakter aktiviert hast, darfst du 1 Schaden von einem anderen Charakter auf diesen Charakter verschieben<em>(Schilde werden ignoriert)</em>."
+        "name": "Долг жизни",
+        "text": "Только для <b>желтых</b> персонажей.\nПосле того ка вы активировали персонажа с этим улучшением, можете переместить 1 урон с другого персонажа на этого <em>(щиты игнорируются)</em>."
     },
     {
         "code": "02119",
-        "name": "Bombenabwurf",
-        "text": "Handle 1 deiner roten Würfel ab, der Störung ([disrupt]) zeigt. Füge dann jedem Charakter eines Gegners 1 Schaden zu."
+        "name": "Вылет бомбардировщиков",
+        "text": "Уберите один из ваших <b>красных</b> кубиков, лежащих гранью с диверсией ([disrupt]) вверх. Затем нанесите 1 урон каждому персонажу соперника."
     },
     {
         "code": "02120",
-        "name": "Kollateralschaden",
-        "text": "Handle 1 oder mehrere deiner Würfel ab die entweder Nahkampfschaden ([melee]) oder Fernkampfschaden ([ranged]) zeigen. Zwinge dann einen Genger dazu, 1 Ressource zu verlieren."
+        "name": "Побочный ущерб",
+        "text": "Примените результат одного или нескольких ваших кубиков, лежащих гранью с ближним ([melee]) или дальним ([ranged]) уроном вверх. После этого соперник теряет 1 ресурс."
     },
     {
         "code": "02121",
-        "name": "Salve",
-        "text": "Handle 1 deiner Würfel, der Fernkampfschaden ([ranged]) zeigt, gegen jeden Charakter eines Gegners ab."
+        "name": "Залп",
+        "text": "Примените результат одного из ваших кубиков, лежащих гранью с дальним уроном ([ranged]) вверх, против каждого из персонажей соперника."
     },
     {
         "code": "02122",
-        "name": "Niederhalten",
-        "text": "Entferne 1 deiner roten Würfel, der Fernkampfschaden ([ranged]) zeigt. Entferne dann einen gegnerischen Würfel."
+        "name": "Подавление",
+        "text": "Уберите один из ваших красных кубиков, лежащих гранью с дальним уроном ([ranged]) вверх. Затем уберите любой кубик соперника."
     },
     {
         "code": "02123",
-        "name": "Nachspiel",
-        "text": "Nachdem ein Charakter besiegt worden ist, erhälst du 1 Ressource."
+        "name": "Последствия",
+        "text": "После того как любой персонаж побежден, получите 1 ресурс."
     },
     {
         "code": "02124",
-        "name": "Luftüberlegenheit",
-        "text": "Nachdem du diese Unterstützung gespielt hast, lege 3 Schilde auf sie.\n<b>Aktion</b> - Erschöpfe diese Unterstützung, um 1 Schild von ihr auf einen Charakter zu verschieben."
+        "name": "Превосходство в воздухе",
+        "text": "После того как вы сыграли эту карту поддержки, положите на нее 3 щита.\n<b>Действие</b> - поверните эту карту поддержки, чтобы переместить с нее щит на любого персонажа."
     },
     {
         "code": "02125",
-        "name": "Training",
-        "text": "Nur nicht-einzigartige, rote Charaktere.\nDer aufgewertete Charakter ist Elite (<em>lege einen zweite Kopie seines Würfels auf seine Karte</em>)."
+        "name": "Тренировка",
+        "text": "Только для неуникальных <b>красных</b> персонажей.\nПерсонаж, к которому прикреплено это улучшение, становится элитным (поместите на его карту второй такой же кубик)."
     },
     {
         "code": "02126",
-        "name": "Flügelmann",
-        "text": "Nur rote Charaktere.\nNachdem du einen roten Charakter aktiviert hast, darfst du den aufgewerteten Charakter aktivieren."
+        "name": "Ведомый",
+        "text": "Только для <b>красных</b> персонажей.\nПосле того как вы активировали <b>красного</b> персонажа, можете активировать персонажа, к которому прикреплено это улучшение."
     },
     {
         "code": "02127",
-        "name": "Entscheidener Schlag",
-        "text": "Handle 1 deiner Würfel ab, der Nahkampfschaden ([melee]) zeigt. Entferne dann alle Charakter- und Aufwertungswürfel des Charakters, dem du gerade Schaden zugefügt hast."
+        "name": "Решительный удар",
+        "text": "Примените результат одного из ваших кубиков, лежащих гранью с ближним уроном ([melee]) вверх. Затем уберите все кубики персонажа, которому вы только что нанесли урон, и кубики всех его улучшений."
     },
     {
         "code": "02128",
-        "name": "Erhöhte Position",
-        "text": "Spiele diese Karte nur, falls du das Schlachtfeld kontrolliert.\nEntferne einen gegnerischen Würfel, der Schaden ([ranged] oder [melee]) zeigt. Falls es eine Charakterwürfel war, fügst du dann jenem Charakter 1 Schaden zu."
+        "name": "Я стою выше тебя",
+        "text": "Можете сыграть, только если контролируете поле боя.\nУберите любой кубик соперника, лежащий гранью с уроном ([ranged] или [melee]) вверх. Если это был кубик персонажа, нанесите ему 1 урон."
     },
     {
         "code": "02129",
-        "name": "Dynamikwechsel",
-        "text": "Verschiebe 1 Schild von einem gegnerischen Charakter auf 1 deiner Charaktere."
+        "name": "Захватить преимущество",
+        "text": "Переместите 1 щит с любого персонажа соперника на одного из ваших персонажей."
     },
     {
         "code": "02130",
-        "name": "Überheblichkeit",
-        "text": "Sichte einen blauen Charakter, um 2 Würfel neu zu werfen. Entferne dann 1 dieser Würfel mit dem niedrigeren Wert (<em>bei Gleichstand wählst du einen aus</em>)."
+        "name": "Самоуверенность",
+        "text": "Если у вас есть <b>синий</b> персонаж, перебросьте 2 кубика. Затем уберите один из переброшенных кубиков с наименьшим значением <em>(выберите один в случае одинаковых значений)</em>."
     },
     {
         "code": "02131",
-        "name": "Vorahnungen",
-        "text": "Wähle 1 der folgenden Optionen: Lege diese Karte beiseite und staple eine Karte von deiner Hand verdeckt darauf oder spiele die Karte, die auf einer anderen Kopie dieser Karte gestapelt liegt kostenlos und lege die beiseitegelegte Kopie ab."
+        "name": "Предчувствие",
+        "text": "Выберите одно: отложить эту карту события в сторону и положить на неё карту с руки лицевой стороной вниз <b>или</b> бесплатно сыграть карту, лежащую на отложенной копии такого же события, и сбросить отложенную копию."
     },
     {
         "code": "02132",
-        "name": "Regeneration",
-        "text": "Sichte einen blauen Charakter, um 1 Schaden von einem Charakter zu heilen."
+        "name": "Восстановление сил",
+        "text": "Если у вас есть <b>синий</b> персонаж, восстановите 1 здоровье любому персонажу."
     },
     {
         "code": "02133",
-        "name": "Vertraue deinen Instinkten",
-        "text": "Sichte einen blauen Charakter, um beliebig viele seiner Charakter- und Aufwertungswürfel neu zu werfen. Dann darfst du eine Karte ziehen."
+        "name": "Доверься инстинктам",
+        "text": "Если у вас есть <b>синий</b> персонаж, перебросьте любое количество кубиков этого персонажа и прикрепленных к нему улучшений <em>(только для одного персонажа)</em>. Затем можете взять карту из вашей колоды."
     },
     {
         "code": "02134",
-        "name": "Meditieren",
-        "text": "<b>Aktion</b> - Erschöpfe diese Unterstützung und entferne 1 deiner Würfel, der eine Leerseite ([blank]) zeigt, um 1 deiner Würfel auf eine Seite zu drehen, die keinen Schaden ([ranged] oder [melee]) zeigt."
+        "name": "Медитация",
+        "text": "<b>Действие</b> - поверните эту карту поддержки и уберите один из ваших кубиков, лежащих пустой гранью ([blank]) вверх. Затем поверните один из ваших кубиков гранью <b>без</b> урона ([ranged] или [melee]) вверх."
     },
     {
         "code": "02135",
-        "name": "Machtillusion",
-        "text": "Bevor der aufgewertete Charakter Schaden erleidet, darfst du eine Anzahl Karten in Höhe des Schadens oben von deinem Deck ablegen, um den Schaden zu blocken. Lege dann diese Aufwertung aus dem Spiel ab."
+        "name": "Иллюзия силы",
+        "text": "Прежде чем персонаж, к которому прикреплено это улучшение, получит урон, можете сбросить столько верхних карт вашей колоды, сколько урона он должен получить. Блокируйте этот урон, затем сбросьте эту карту улучшения."
     },
     {
         "code": "02136",
-        "name": "Entrinnen",
-        "text": "Entferne einen Würfel, der Fernkampfschaden [ranged] zeigt."
+        "name": "Уклонение",
+        "text": "Уберите кубик, лежащий гранью с дальним уроном ([ranged]) вверх."
     },
     {
         "code": "02137",
-        "name": "Neue Befehle",
-        "text": "Tausche das Schlachtfeld gegen ein Schlachtfeld aus, das nicht verwendet wird (<em>aber zum Spiel mitgebracht wurde</em>) und verwende seine Beanspruchen-Fähigkeit."
+        "name": "Новые приказы",
+        "text": "Замените поле боя на неиспользуемое <em>(но введенное в игру)</em> и используйте его способность захвата."
     },
     {
         "code": "02138",
-        "name": "Abwehren",
-        "text": "Entferne einen Würfel, der Nahkampfschaden ([melee]) zeigt."
+        "name": "Противодействие",
+        "text": "Уберите кубик, лежащий гранью с ближним уроном ([melee]) вверх."
     },
     {
         "code": "02139",
-        "name": "Schnelligkeit",
-        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\nGib der nächsten Karte, die du in diesem Zug spielst, das Schlüsselwort Hinterhalt."
+        "name": "Ловкость",
+        "text": "Засада <em>(можете совершить дополнительное действие после того, как сыграете эту карту)</em>.\nСледующая карта, сыгранная вами в этом ходу, получает ключевое слово \"Засада\"."
     },
     {
         "code": "02140",
-        "name": "Entschlossenheit",
-        "text": "<b>Aktion</b> - Lege eine Karte von deiner Hand ab, um einen gegnerischen Würfel neu zu werfen."
+        "name": "Твердость духа",
+        "text": "<b>Действие</b> - сбросьте карту с руки и перебросьте любой кубик соперника."
     },
     {
         "code": "02141",
-        "name": "Munitionsgürtel",
-        "text": "Bevor eine andere Aufwertung des aufgewerteten Charakters durch einen Karteneffekt abgelegt werden würde, darfst du stattdessen diese Aufwertung ablegen."
+        "name": "Патронташ",
+        "text": "Если улучшение-<b>оружие</b>, прикреплённое к персонажу, к которому также прикреплён \"Патронташ\", должно быть сброшено из-за эффекта какой-либо карты, прежде чем это произойдёт, вы можете вместо этого сбросить \"Патронташ\""
     },
     {
         "code": "02142",
-        "name": "Schlupfloch",
-        "text": "Entferne 1 deiner gelben Charakterwürfel, um dem zugehörigen Charakter 2 Schilde zu geben."
+        "name": "Укрытие",
+        "text": "Уберите один из ваших <b>желтых</b> кубиков персонажа. Этот персонаж получает 2 щита."
     },
     {
         "code": "02143",
-        "name": "Falschspiel",
-        "text": "Tausche eine Karte von deiner Hand mit einer Karte aus deinem Ablagestapel."
+        "name": "Шулерство",
+        "text": "Замените любую карту с руки любой картой из вашего сброса."
     },
     {
         "code": "02144",
-        "name": "Ablenkungsmanöver",
-        "text": "Zwinge einen Gegner dazu, 1 Ressource zu verlieren oder stattdessen 3 Ressourcen, falls eine andere Kopie dieses Ereignisses in deinem Ablagestapel ist."
+        "name": "Отвлекающий маневр",
+        "text": "Соперник теряет 1 ресурс <em>(или 3 ресурса, если в вашем сбросе есть такое же событие)</em>."
     },
     {
         "code": "02145",
-        "name": "Ein \"fairer\" Handel",
-        "text": "Handle 1 deiner Würfel ab, der Ressourcen ([resource]) zeigt. Tausche dann alle deine Ressourcen eines Gegners."
+        "name": "\"Честная\" сделка",
+        "text": "Примените результат одного из ваших кубиков, лежащий гранью с ресурсом ([resource]) вверх. Затем поменяйтесь всеми ресурсами с соперником."
     },
     {
         "code": "02146",
-        "name": "Zwielichtige Kontakte",
-        "text": "Sichte einen gelben Charakter, um dir die Handkarten eines Gegners anzusehen und ein Ereignis davon abzulegen, das 1 oder weniger kostet."
+        "name": "Подозрительные друзья",
+        "text": "Если у вас есть <b>желтый</b> персонаж, просмотрите карты на руке соперника и сбросьте с неё событие стоимостью 1 или меньше."
     },
     {
         "code": "02147",
-        "name": "Sabotage",
-        "text": "Lege eine Anzahl Karten in Höhe der Kosten einer Unterstützung im Spiel von deiner Handy ab, um jene Unterstützung abzulegen."
+        "name": "Саботаж",
+        "text": "Сбросьте с руки столько карт, какова стоимость любой карты поддержки в игре, и сбросьте эту карту поддержки."
     },
     {
         "code": "02148",
-        "name": "Improvisation",
-        "text": "Hinterhalt. <em>(Nachdem du diese Karte gespielt hast, darfst du 1 weitere Aktion ausführen.)</em>\n<b>Aktion</b> - Entferne 1 deiner Würfel, der eine Leerseite ([blank]) zeigt, um eine beliebige Zahl deiner Würfel neu zu werfen."
+        "name": "Импровизация",
+        "text": "Засада <em>(можете совершить дополнительное действие после того, как сыграете эту карту)</em>.\n<b>Действие</b> - уберите один из ваших кубиков, лежащий пустой гранью ([blank]) вверх, чтобы перебросить любое количество ваших кубиков."
     },
     {
         "code": "02149",
-        "name": "Ausmanövieren",
-        "text": "Nachdem du das Schlachtfeld beansprucht hast, erhälst du 1 Ressource."
+        "name": "В обход",
+        "text": "После того как вы захватили поле боя, получите 1 ресурс."
     },
     {
         "code": "02150",
-        "name": "Schnelle Hände",
-        "text": "Nachdem du den aufgewerteten Charakter aktiviert hast, darfst du 1 seiner Charakter- oder Aufwertungswürfel abhandeln."
+        "name": "Скорострел",
+        "text": "Только для <b>жёлтых</b> персонажей.\nПосле того как вы активировали персонажа, к которому прикреплено это улучшение, можете применить результат одного из его кубиков персонажа или улучшений."
     },
     {
         "code": "02151",
-        "name": "Karbon-Gefrierkammer",
-        "subtitle": "Bespin",
-        "text": "<b>Beanspruchen</b> - Wähle einen Charakterwürfel. In der nächsten Runde kann der gewählte Würfel nicht geworfen werden."
+        "name": "Камера заморозки",
+        "subtitle": "Беспин",
+        "text": "<b>Захват</b> - выберите кубик персонажа. Этот кубик нельзя бросать в следующем раунде."
     },
     {
         "code": "02152",
-        "name": "Frachtraum",
-        "subtitle": "Eravana",
-        "text": "<b>Beanspruchen</b> - Verschiebe eine Aufwertung von einem Charakter auf einen anderen Charakter, der vom selben Spieler kontrolliert wird."
+        "name": "Грузовой трюм ",
+        "subtitle": "\"Эравана\"",
+        "text": "<b>Захват</b> - переместите улучшение с одного персонажа на другого персонажа под контролем того же игрока."
     },
     {
         "code": "02153",
-        "name": "Landebucht",
-        "subtitle": "Finalizer",
-        "text": "<b>Beanspruchen</b> - Spiele eine Unterstützung von deiner Hand oder aus deinem Ablagestapel und senke dabei ihre Kosten um 1."
+        "name": "Посадочный ангар ",
+        "subtitle": "\"Добивающий\"",
+        "text": "<b>Захват</b> - сыграйте карту поддержки с руки или из вашего сброса со скидкой 1."
     },
     {
         "code": "02154",
-        "name": "Dorf der Ewoks",
-        "subtitle": "Endor",
-        "text": "<b>Beanspruchen</b> - Entferne alle Schilde von einem Charakter."
+        "name": "Деревня эвоков",
+        "subtitle": "Эндор",
+        "text": "<b>Захват</b> - уберите все щиты с любого персонажа."
     },
     {
         "code": "02155",
-        "name": "Maz's Castle",
-        "subtitle": "Takodana",
-        "text": "<b>Beanspruchen</b> - Ziehe 2 Karten. Lege beliebig viele Karten von deiner Hand unter dein Deck (<em>in beliebiger Reihenfolge</em>)."
+        "name": "Замок Маз",
+        "subtitle": "Такодана",
+        "text": "<b>Захват</b> - возьмите 2 карты из вашей колоды. Положите любое количество карт с руки под низ вашей колоды в любом порядке."
     },
     {
         "code": "02156",
-        "name": "Feuchtigkeitsfarm",
-        "subtitle": "Tatooine",
-        "text": "<b>Beanspruchen</b> - Du erhälst 1 Ressource."
+        "name": "Влагодобывающая ферма",
+        "subtitle": "Татуин",
+        "text": "<b>Захват</b> - получите 1 ресурс."
     },
     {
         "code": "02157",
-        "name": "Otoh Gunga",
-        "subtitle": "Naboo",
-        "text": "<b>Beanspruchen</b> - Heile 1 Schaden von einem Charakter."
+        "name": "Ото-Гунга",
+        "subtitle": "Набу",
+        "text": "<b>Захват</b> - любой персонаж восстанавливает 1 здоровье."
     },
     {
         "code": "02158",
-        "name": "Einsamer Strand",
-        "subtitle": "Scarif",
-        "text": "<b>Beanspruchen</b> - Entferne einen gegnerischen Würfel, der Fernkampfschaden ([ranged]) zeigt."
+        "name": "Укромный пляж",
+        "subtitle": "Скариф",
+        "text": "<b>Захват</b> - уберите любой кубик соперника, лежащий гранью с дальним уроном ([ranged]) вверх."
     },
     {
         "code": "02159",
-        "name": "Geheime Einrichtung",
-        "subtitle": "Scarif",
-        "text": "<b>Beanspruchen</b> - Handle bis zu 3 deiner Würfel ab, die Schaden ([ranged] oder [melee]) zeigen."
+        "name": "Секретный объект",
+        "subtitle": "Скариф",
+        "text": "<b>Захват</b> - примените результат 3 или меньше кубиков, лежащих гранью с уроном ([ranged] или [melee]) вверх."
     },
     {
         "code": "02160",
-        "name": "Umkämpfte Strassen",
-        "subtitle": "Jedha",
-        "text": "<b>Beanspruchen</b> - Lege eine zufällige Karte von der Hand eines Gegners ab."
+        "name": "Разрушенные улицы",
+        "subtitle": "Джеда",
+        "text": "<b>Захват</b> - сбросьте случайную карту с руки соперника."
     }
 ]
