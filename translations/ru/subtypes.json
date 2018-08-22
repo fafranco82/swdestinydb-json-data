@@ -1,0 +1,90 @@
+[
+    {
+        "code": "ability",
+        "name": "Способность"
+    },
+    {
+        "code": "artillery",
+        "name": "Artillery"
+    },
+    {
+        "code": "bounty-hunter",
+        "name": "Bounty Hunter"
+    },
+    {
+        "code": "droid",
+        "name": "Дроид"
+    },
+    {
+        "code": "equipment",
+        "name": "Снаряжение"
+    },
+    {
+        "code": "gungan",
+        "name": "Gungan"
+    },
+    {
+        "code": "inquisitor",
+        "name": "Inquisitor"
+    },
+    {
+        "code": "jawa",
+        "name": "Jawa"
+    },
+    {
+        "code": "jedi",
+        "name": "Jedi"
+    },
+    {
+        "code": "leader",
+        "name": "Leader"
+    },
+    {
+        "code": "location",
+        "name": "Location"
+    },
+    {
+        "code": "mod",
+        "name": "Mod"
+    },
+    {
+        "code": "pilot",
+        "name": "Pilot"
+    },
+    {
+        "code": "podracer",
+        "name": "Podracer"
+    },
+    {
+        "code": "scoundrel",
+        "name": "Scoundrel"
+    },
+    {
+        "code": "sith",
+        "name": "Sith"
+    },
+    {
+        "code": "spectre",
+        "name": "Spectre"
+    },
+    {
+        "code": "title",
+        "name": "Titel"
+    },
+    {
+        "code": "trooper",
+        "name": "Trooper"
+    },
+    {
+        "code": "vehicle",
+        "name": "Транспорт"
+    },
+    {
+        "code": "weapon",
+        "name": "Оружие"
+    },
+    {
+        "code": "witch",
+        "name": "Witch"
+    }
+]
