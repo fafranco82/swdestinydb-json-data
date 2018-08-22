@@ -95,7 +95,7 @@
         "code": "07004",
         "deck_limit": 1,
         "faction_code": "blue",
-        "flavor": "\"There has been an awekening. Have you felt it?\"",
+        "flavor": "\"There has been an awakening. Have you felt it?\"",
         "has_die": true,
         "has_errata": false,
         "health": 11,
@@ -388,7 +388,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
-        "flavor": "\"I'm being torn apart. I want to be free of thsi pain.\" <cite>Kylo Ren</cite>",
+        "flavor": "\"I'm being torn apart. I want to be free of this pain.\" <cite>Kylo Ren</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Andreas Zafiratos",
@@ -647,7 +647,7 @@
         "position": 28,
         "rarity_code": "C",
         "set_code": "WotF",
-        "text": "Choose a <i>weapon</i> from your  hand and play it, decreasing its cost by the number of <i>weapons</i> on one of your characters.",
+        "text": "Choose a <i>weapon</i> from your hand and play it, decreasing its cost by the number of <i>weapons</i> on one of your characters.",
         "ttscardid": "48727",
         "type_code": "event"
     },
@@ -940,7 +940,7 @@
         "position": 39,
         "rarity_code": "C",
         "set_code": "WotF",
-        "text": "Remove a die showing a value of 2 or more. Then deal 1 indirect damage ([indirect]) yo yourself.",
+        "text": "Remove a die showing a value of 2 or more. Then deal 1 indirect damage ([indirect]) to yourself.",
         "ttscardid": "48738",
         "type_code": "event"
     },
@@ -1012,7 +1012,7 @@
         "position": 43,
         "rarity_code": "U",
         "set_code": "WotF",
-        "text": "Giva an opponent 2 of your resources to resolve one of their character or upgrade dice as if it were your own.",
+        "text": "Give an opponent 2 of your resources to resolve one of their character or upgrade dice as if it were your own.",
         "ttscardid": "48742",
         "type_code": "event"
     },
@@ -1342,7 +1342,7 @@
         "code": "07057",
         "deck_limit": 1,
         "faction_code": "blue",
-        "flavor": "\"Not everthing is what it seems.\"",
+        "flavor": "\"Not everything is what it seems.\"",
         "has_die": true,
         "has_errata": false,
         "health": 10,
@@ -1620,7 +1620,7 @@
         "subtypes": [
             "equipment"
         ],
-        "text": "While this upgrade is attached to Luke Skywalker, you may resole the melee damage ([melee]) sides of this die as if they were shields ([shield]).",
+        "text": "While this upgrade is attached to Luke Skywalker, you may resolve the melee damage ([melee]) sides of this die as if they were shields ([shield]).",
         "ttscardid": "48768",
         "type_code": "upgrade"
     },
@@ -1683,7 +1683,7 @@
             "gungan",
             "leader"
         ],
-        "text": "After you activa a <i>Gungan</i>, you may deal indirect damage ([indirect]) to an opponent equal to the number of its character dice that just rolled a blank ([blank]).",
+        "text": "After you activate a <i>Gungan</i>, you may deal indirect damage ([indirect]) to an opponent equal to the number of its character dice that just rolled a blank ([blank]).",
         "ttscardid": "48601",
         "type_code": "character"
     },
@@ -2507,7 +2507,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "gray",
-        "flavor": "The bes food this side of the Senate District!",
+        "flavor": "The best food this side of the Senate District!",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Antonio Jose Manzanedo",
@@ -2795,7 +2795,7 @@
         "position": 121,
         "rarity_code": "C",
         "set_code": "WotF",
-        "text": "Resolve one of your dice showing damage ([ranged], [melee] or [indirect]), decresing its value by 1. Then remove a die.",
+        "text": "Resolve one of your dice showing damage ([ranged], [melee] or [indirect]), decreasing its value by 1. Then remove a die.",
         "ttscardid": "48651",
         "type_code": "event"
     },
@@ -3073,7 +3073,7 @@
         "position": 135,
         "rarity_code": "U",
         "set_code": "WotF",
-        "text": "Choose a <i>droid</i> from your hand and play it, decresing its cost by 1.",
+        "text": "Choose a <i>droid</i> from your hand and play it, decreasing its cost by 1.",
         "ttscardid": "48665",
         "type_code": "event"
     },

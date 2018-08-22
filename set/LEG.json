@@ -474,7 +474,7 @@
         "subtypes": [
             "title"
         ],
-        "text": "Unique Red characer only.\n<b>Power Action</b> - Use the \"Claim\" ability on the battlefield or switch the battlefield with a battlefield that is not being used <em>(but was brought to the game)</em>.",
+        "text": "Unique Red character only.\n<b>Power Action</b> - Use the \"Claim\" ability on the battlefield or switch the battlefield with a battlefield that is not being used <em>(but was brought to the game)</em>.",
         "ttscardid": "47115",
         "type_code": "upgrade"
     },
@@ -2683,7 +2683,7 @@
         "position": 101,
         "rarity_code": "U",
         "set_code": "LEG",
-        "text": "Resolve one of your Blue character dice showing melee damage ([melee]), increaing its value by the number of shields on that character.",
+        "text": "Resolve one of your Blue character dice showing melee damage ([melee]), increasing its value by the number of shields on that character.",
         "ttscardid": "47230",
         "type_code": "event"
     },
@@ -3821,7 +3821,7 @@
         "subtypes": [
             "location"
         ],
-        "text": "<b>Action</b> - Exaust this support to place 1 resource on it or take all resources from it.",
+        "text": "<b>Action</b> - Exhaust this support to place 1 resource on it or take all resources from it.",
         "ttscardid": "47323",
         "type_code": "support"
     },

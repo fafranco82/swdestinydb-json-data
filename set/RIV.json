@@ -163,7 +163,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "Play only on an exhasted character.",
+        "text": "Play only on an exhausted character.",
         "ttscardid": "47005",
         "type_code": "upgrade"
     },
@@ -382,7 +382,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "[special] - Deal 2 damage to a character. Then you may reroll ths die instead of removing it from your pool.",
+        "text": "[special] - Deal 2 damage to a character. Then you may reroll this die instead of removing it from your pool.",
         "ttscardid": "47015",
         "type_code": "upgrade"
     },
@@ -392,7 +392,7 @@
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "gray",
-        "flavor": "While heavy and dcumbersome, some species could wield vibroswords one-handed.",
+        "flavor": "While heavy and cumbersome, some species could wield vibroswords one-handed.",
         "has_die": true,
         "has_errata": false,
         "illustrator": " ",
