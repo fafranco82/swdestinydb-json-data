@@ -2521,7 +2521,7 @@
         "position": 104,
         "rarity_code": "C",
         "set_code": "EaW",
-        "text": "Before one of your Blue characters is defeated, you may move an upgrade from it to another one of your characterss <em>(return that upgrade's die to its card)</em>.",
+        "text": "Before one of your Blue characters is defeated, you may move an upgrade from it to another one of your characters <em>(return that upgrade's die to its card)</em>.",
         "ttscardid": "2633",
         "type_code": "support"
     },
@@ -2921,7 +2921,7 @@
         "position": 126,
         "rarity_code": "U",
         "set_code": "EaW",
-        "text": "After you claim the battlefield, you may place 1 damage on this support.\n<b>Action</b> - Exhaust this support to move any amoount of damage from it to a character <em>(this ignores shields)</em>.",
+        "text": "After you claim the battlefield, you may place 1 damage on this support.\n<b>Action</b> - Exhaust this support to move any amount of damage from it to a character <em>(this ignores shields)</em>.",
         "ttscardid": "2655",
         "type_code": "support"
     },

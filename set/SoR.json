@@ -1385,7 +1385,7 @@
         "subtypes": [
             "ability"
         ],
-        "text": "[special] - Heal 2 damage from attached character, or 3 damage instead if attached characer is your only character in play.",
+        "text": "[special] - Heal 2 damage from attached character, or 3 damage instead if attached character is your only character in play.",
         "ttscardid": "2248",
         "type_code": "upgrade"
     },

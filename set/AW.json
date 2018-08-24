@@ -2968,7 +2968,7 @@
         "position": 126,
         "rarity_code": "U",
         "set_code": "AW",
-        "text": "Ambush.\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank]).",
+        "text": "Ambush.\nReroll any number of an opponent's dice. Then remove all of their dice showing blanks ([blank]).",
         "ttscardid": "1455",
         "type_code": "event"
     },
@@ -3041,7 +3041,7 @@
         "position": 130,
         "rarity_code": "U",
         "set_code": "AW",
-        "text": "Force an opponent to choose to either deal one of their exausted characters 2 damage or choose and remove 2 of their dice.",
+        "text": "Force an opponent to choose to either deal one of their exhausted characters 2 damage or choose and remove 2 of their dice.",
         "ttscardid": "1459",
         "type_code": "event"
     },
