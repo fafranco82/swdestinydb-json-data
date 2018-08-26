@@ -1,212 +1,174 @@
 [
-	{
-		"code": "04005",
-		"name": "Guarda Pretoriano",
-		"subtitle": ""
-	},
-	{
-		"code": "04006",
-		"name": "Conselho Negro",
-		"subtitle": ""
-	},
-	{
-		"code": "04007",
-		"name": "Sabre de Luz com Guarda Cruzada",
-		"subtitle": ""
-	},
-	{
-		"code": "04008",
-		"name": "Paralização da Força",
-		"subtitle": ""
-	},
-	{
-		"code": "04009",
-		"name": "Rival Jedi",
-		"subtitle": ""
-	},
-	{
-		"code": "04010",
-		"name": "Suporte Blindado",
-		"subtitle": ""
-	},
-	{
-		"code": "04011",
-		"name": "Primeiro Ataque",
-		"subtitle": ""
-	},
-	{
-		"code": "04012",
-		"name": "Agora Peguei Você",
-		"subtitle": ""
-	},
-	{
-		"code": "04013",
-		"name": "Enviado Imperial",
-		"subtitle": ""
-	},
-	{
-		"code": "04014",
-		"name": "Mobilizar",
-		"subtitle": ""
-	},
-	{
-		"code": "04015",
-		"name": "Maestria Tática",
-		"subtitle": ""
-	},
-	{
-		"code": "04016",
-		"name": "Como Eu Previ",
-		"subtitle": ""
-	},
-	{
-		"code": "04017",
-		"name": "Conflito",
-		"subtitle": ""
-	},
-	{
-		"code": "04018",
-		"name": "Intimidar",
-		"subtitle": ""
-	},
-	{
-		"code": "04019",
-		"name": "Suas Habilidades São Completas",
-		"subtitle": ""
-	},
-	{
-		"code": "04020",
-		"name": "Dúvida",
-		"subtitle": ""
-	},
-	{
-		"code": "04021",
-		"name": "Defesa",
-		"subtitle": ""
-	},
-	{
-		"code": "04022",
-		"name": "Subjugar",
-		"subtitle": ""
-	},
-	{
-		"code": "04023",
-		"name": "Hangar",
-		"subtitle": "Frota Imperial"
-	},
-	{
-		"code": "04024",
-		"name": "Rey",
-		"subtitle": "Encontrando Os Caminhos"
-	},
-	{
-		"code": "04025",
-		"name": "Poe Dameron",
-		"subtitle": "Mais Que Um Pilto"
-	},
-	{
-		"code": "04026",
-		"name": "Droide Médico",
-		"subtitle": ""
-	},
-	{
-		"code": "04027",
-		"name": "Equipe de Ataque",
-		"subtitle": ""
-	},
-	{
-		"code": "04028",
-		"name": "Trabalho em Equipe",
-		"subtitle": ""
-	},
-	{
-		"code": "04029",
-		"name": "Blaster Do Poe Dameron",
-		"subtitle": ""
-	},
-	{
-		"code": "04030",
-		"name": "Sabre de Luz da Rey",
-		"subtitle": ""
-	},
-	{
-		"code": "04031",
-		"name": "Força Interior",
-		"subtitle": ""
-	},
-	{
-		"code": "04032",
-		"name": "Proteção de Luke",
-		"subtitle": ""
-	},
-	{
-		"code": "04033",
-		"name": "Guarda de Honra",
-		"subtitle": ""
-	},
-	{
-		"code": "04034",
-		"name": "Impacto Direto",
-		"subtitle": ""
-	},
-	{
-		"code": "04035",
-		"name": "Logística",
-		"subtitle": ""
-	},
-	{
-		"code": "04036",
-		"name": "Reconhecimento",
-		"subtitle": ""
-	},
-	{
-		"code": "04037",
-		"name": "Planejamento Estratégico",
-		"subtitle": ""
-	},
-	{
-		"code": "04038",
-		"name": "Concentrar",
-		"subtitle": ""
-	},
-	{
-		"code": "04039",
-		"name": "Postura Defensiva",
-		"subtitle": ""
-	},
-	{
-		"code": "04040",
-		"name": "Descuido",
-		"subtitle": ""
-	},
-	{
-		"code": "04041",
-		"name": "Faça ou não Faça",
-		"subtitle": ""
-	},
-	{
-		"code": "04042",
-		"name": "Determinação Feroz",
-		"subtitle": ""
-	},
-	{
-		"code": "04043",
-		"name": "Esquivar",
-		"subtitle": ""
-	},
-	{
-		"code": "04044",
-		"name": "Flanquear",
-		"subtitle": ""
-	},
-	{
-		"code": "04045",
-		"name": "Soe o Alarme",
-		"subtitle": ""
-	},
-	{
-		"code": "04046",
-		"name": "Cabana Do Obi-Wan",
-		"subtitle": "Tatooine"
-	}
+    {
+        "code": "04005",
+        "name": "Guarda Pretoriano"
+    },
+    {
+        "code": "04006",
+        "name": "Conselho Negro"
+    },
+    {
+        "code": "04007",
+        "name": "Sabre de Luz com Guarda Cruzada"
+    },
+    {
+        "code": "04008",
+        "name": "Paralização da Força"
+    },
+    {
+        "code": "04009",
+        "name": "Rival Jedi"
+    },
+    {
+        "code": "04010",
+        "name": "Suporte Blindado"
+    },
+    {
+        "code": "04011",
+        "name": "Primeiro Ataque"
+    },
+    {
+        "code": "04012",
+        "name": "Agora Peguei Você"
+    },
+    {
+        "code": "04013",
+        "name": "Enviado Imperial"
+    },
+    {
+        "code": "04014",
+        "name": "Mobilizar"
+    },
+    {
+        "code": "04015",
+        "name": "Maestria Tática"
+    },
+    {
+        "code": "04016",
+        "name": "Como Eu Previ"
+    },
+    {
+        "code": "04017",
+        "name": "Conflito"
+    },
+    {
+        "code": "04018",
+        "name": "Intimidar"
+    },
+    {
+        "code": "04019",
+        "name": "Suas Habilidades São Completas"
+    },
+    {
+        "code": "04020",
+        "name": "Dúvida"
+    },
+    {
+        "code": "04021",
+        "name": "Defesa"
+    },
+    {
+        "code": "04022",
+        "name": "Subjugar"
+    },
+    {
+        "code": "04023",
+        "name": "Hangar",
+        "subtitle": "Frota Imperial"
+    },
+    {
+        "code": "04024",
+        "name": "Rey",
+        "subtitle": "Encontrando Os Caminhos"
+    },
+    {
+        "code": "04025",
+        "name": "Poe Dameron",
+        "subtitle": "Mais Que Um Pilto"
+    },
+    {
+        "code": "04026",
+        "name": "Droide Médico"
+    },
+    {
+        "code": "04027",
+        "name": "Equipe de Ataque"
+    },
+    {
+        "code": "04028",
+        "name": "Trabalho em Equipe"
+    },
+    {
+        "code": "04029",
+        "name": "Blaster Do Poe Dameron"
+    },
+    {
+        "code": "04030",
+        "name": "Sabre de Luz da Rey"
+    },
+    {
+        "code": "04031",
+        "name": "Força Interior"
+    },
+    {
+        "code": "04032",
+        "name": "Proteção de Luke"
+    },
+    {
+        "code": "04033",
+        "name": "Guarda de Honra"
+    },
+    {
+        "code": "04034",
+        "name": "Impacto Direto"
+    },
+    {
+        "code": "04035",
+        "name": "Logística"
+    },
+    {
+        "code": "04036",
+        "name": "Reconhecimento"
+    },
+    {
+        "code": "04037",
+        "name": "Planejamento Estratégico"
+    },
+    {
+        "code": "04038",
+        "name": "Concentrar"
+    },
+    {
+        "code": "04039",
+        "name": "Postura Defensiva"
+    },
+    {
+        "code": "04040",
+        "name": "Descuido"
+    },
+    {
+        "code": "04041",
+        "name": "Faça ou não Faça"
+    },
+    {
+        "code": "04042",
+        "name": "Determinação Feroz"
+    },
+    {
+        "code": "04043",
+        "name": "Esquivar"
+    },
+    {
+        "code": "04044",
+        "name": "Flanquear"
+    },
+    {
+        "code": "04045",
+        "name": "Soe o Alarme"
+    },
+    {
+        "code": "04046",
+        "name": "Cabana Do Obi-Wan",
+        "subtitle": "Tatooine"
+    }
 ]
