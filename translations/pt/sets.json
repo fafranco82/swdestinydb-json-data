@@ -1,6 +1,30 @@
 [
     {
         "code": "AW",
-        "name": "Despertares"
+        "name": "Despertar"
+    },
+	{
+        "code": "SoR",
+        "name": "Espírito da Rebelião"
+    },
+	{
+        "code": "EaW",
+        "name": "Império em Guerra"
+    },
+	{
+        "code": "TPG",
+        "name": "Jogo para 2 Jogadores"
+    },
+	{
+        "code": "LEG",
+        "name": "Legados"
+    },
+	{
+        "code": "RIV",
+        "name": "Rivais"
+    },
+	{
+        "code": "WotF",
+        "name": "Caminho da Força"
     }
 ]
