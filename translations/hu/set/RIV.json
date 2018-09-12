@@ -1,0 +1,116 @@
+[
+    {
+        "code": "06001",
+        "name": "Anakin Skywalker",
+        "subtitle": "Vívódó tanítvány",
+        "text": "Nem lehet Darth Vaderrel egy csapatban.\n[special] - Dobj el egy hős kártyát a kezedből, hogy adj 2 pajzsot egy karakternek, vagy dobj el egy gonosz kártyát a kezedből, hogy okozz 2 sebzést egy karakternek!"
+    },
+    {
+        "code": "06002",
+        "flavor": "\"A sorsomról én döntök.\"",
+        "name": "Lobot",
+        "subtitle": "Kiborg segédtiszt",
+        "text": "Amíg te uralod a csatateret, ez a karakter megkapja az Őrző kulcsszót.\n[special] - Használd fel egy kockádat, növeld meg az értékét 2-vel."
+    },
+    {
+        "code": "06003",
+        "flavor": "\"Barátod? Furcsa, hogy így nevezel azután, ami történt.\"",
+        "name": "Ketsu Onyo",
+        "subtitle": "A Fekete Nap tagja",
+        "text": "Mielőtt az egyik karaktered legyőzötté válna, átmozgathatsz egy <i>fegyvert</i> róla erre a karakterre."
+    },
+    {
+        "code": "06004",
+        "flavor": "\"Ki nem állhatom ezeket a jawákat! Undorító népség!\" <cite>C-3PO</cite>",
+        "name": "Jawa guberáló",
+        "text": "Miután aktiváltad ezt a karaktert, eldobhatod egy 2 vagy nagyobb költségű támogatás- vagy fejlesztéskártyádat a játékból, hogy kapj egy erőforrást."
+    },
+    {
+        "code": "06005",
+        "flavor": "\"A győzelemhez az kell, hogy megismerd az ellenséged.\" <cite>Maul</cite>",
+        "name": "Rejtett indíték",
+        "text": "Válassz egy szimbólumot, majd dobd újra egy ellenfél egyik kockáját! Ha a választott szimbólumot dobtad, távolítsd el a kockát!"
+    },
+    {
+        "code": "06006",
+        "name": "Kimunkált fénykard",
+        "text": "Csak kimerült karakterre játszható ki."
+    },
+    {
+        "code": "06007",
+        "flavor": "\"Maradj a célon!\" <cite>Arany Ötös</cite>",
+        "name": "Célzókomputer",
+        "text": "Fordíts egy támogatás- vagy fejlesztéskockát az általad választott oldalára!"
+    },
+    {
+        "code": "06008",
+        "flavor": "Ezeket a gyors és jól manőverezhető vadászokat a Mandalori Védelmezők tervezték és repülték.",
+        "name": "Fang vadász",
+        "text": "Rajtaütés (Miután kijátszottad ezt a kártyát, végrehajthatsz még egy akciót.)\n"
+    },
+    {
+        "code": "06009",
+        "name": "Kontár",
+        "text": "Fordítsd egy kockádat 1-es értéket mutató oldalára!"
+    },
+    {
+        "code": "06010",
+        "flavor": "Ez a lőfegyver a mágnesesmező-technológiát felhasználva szinte hangtalanul működik.",
+        "name": "Verpine mesterlövész puska",
+        "text": "[special] - Okozz 2 védhetetlen sebzést egy karakternek!"
+    },
+    {
+        "code": "06011",
+        "name": "Másolat",
+        "text": "Fordíts egy karakterkockát egy általad választott oldalára, amennyiben abból a karakterből legalább 2 van a játékban!"
+    },
+    {
+        "code": "06012",
+        "name": "Válaszcsapás",
+        "text": "Távolítsd el az egyik kockádat, hogy eltávolíts egy sebzést mutató kockát ([ranged], [melee], vagy [indirect])."
+    },
+    {
+        "code": "06013",
+        "name": "Leleményesség",
+        "text": "Jelölj ki egy Szürke karaktert és távolítsd el egy kockádat, hogy kapj egy erőforrást."
+    },
+    {
+        "code": "06014",
+        "name": "Meglepetésszerű támadás",
+        "text": "Használd fel egy sebzést mutató kockádat ([ranged], [melee], vagy [indirect]), növeld meg az értékét 1-gyel."
+    },
+    {
+        "code": "06015",
+        "name": "Utánpótlás készlet",
+        "text": "<b>Akció</b> - Merítsd ki ezt a fejlesztést, hogy újradobhasd a csatolt karakter tetszőleges számú karakter- és fejlesztéskockáját!"
+    },
+    {
+        "code": "06016",
+        "name": "T-21 ismétlő sugárvető",
+        "text": "[special] - Okozz 2 sebzést egy karakternek! Ezután ahelyett, hogy eltávolítanád a kockakészletedből, újradobhatod ezt a kockát."
+    },
+    {
+        "code": "06017",
+        "flavor": "Habár a vibrokard nehéz és ormótlan, bizonyos fajok egy kézzel is tudják forgatni.",
+        "name": "Vibrokard",
+        "text": "Áthelyezés. (Miután a karakterét legyőzték, mozgasd át ezt a kártyát!)"
+    },
+    {
+        "code": "06018",
+        "flavor": "A bespini helyőrség biztosítja Felhőváros rendjét.",
+        "name": "Bespini helyörség",
+        "text": "<b>Akció</b> - Merítsd ki ezt a támogatást és költs el 1 erőforrást, hogy eldobass egy lapot egy ellenfeled kezéből."
+    },
+    {
+        "code": "06019",
+        "name": "Aszályos mezők",
+        "subtitle": "Atollon",
+        "text": "<b>Uralom</b> - Kapsz 1 erőforrást, amennyiben nem rendelkezel eggyel sem."
+    },
+    {
+        "code": "06020",
+        "name": "Sith templom",
+        "subtitle": "Malachor",
+        "text": "<b>Uralom</b> - Távolítsd el az egyik kockádat, hogy okozz 1 védhetetlen sebzést egy karakternek!"
+    }
+]
