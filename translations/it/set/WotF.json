@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
      
@@ -65,10 +66,19 @@
         "text": "While this character has 1 or more damage on her, decrease the cost of the first Blue <i>ability</i> you play on her each round by 1.",
         "ttscardid": "48702",
         "type_code": "character"
+=======
+
+    },
+    {
+        "code": "07003",
+        "name": "Force Sensitive Outcast",
+        "text": "While this character has 1 or more damage on her, decrease the cost of the first Blue <i>ability</i> you play on her each round by 1.",
+>>>>>>> refs/remotes/origin/master
     },
     {
         "affiliation_code": "villain",
         "code": "07004",
+<<<<<<< HEAD
         "deck_limit": 1,
         "faction_code": "blue",
         "flavor": "\"There has been an awakening. Have you felt it?\"",
@@ -90,13 +100,18 @@
             "1R",
             "-"
         ],
+=======
+>>>>>>> refs/remotes/origin/master
         "subtitle": "Supreme Leader",
         "subtypes": [
             "leader"
         ],
         "text": "<b>Power Action</b> - Deal 1 damage to another one of your characters to resolve one of its character dice, increasing its value by 2.",
+<<<<<<< HEAD
         "ttscardid": "48703",
         "type_code": "character"
+=======
+>>>>>>> refs/remotes/origin/master
     },
     {
         "affiliation_code": "villain",
