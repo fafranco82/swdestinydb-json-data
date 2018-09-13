@@ -1,0 +1,14 @@
+[
+    {
+        "code": "INF",
+        "name": "Infinito"
+    },
+    {
+        "code": "STD",
+        "name": "Estándar"
+    },
+    {
+        "code": "TRI",
+        "name": "Trilogía"
+    }
+]

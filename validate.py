@@ -48,7 +48,7 @@ class ValidatorBase:
         check_dir_access(self.schema_path)
         self.logger.verbose_print("Validating data...\n", 0)
 
-        for thing in ['affiliation', 'faction', 'rarity', 'type', 'subtype', 'sideType', 'set']:
+        for thing in ['affiliation', 'faction', 'rarity', 'type', 'subtype', 'sideType', 'cycle', 'set']:
             collection = self.load_collection(thing)
             if collection:
                 self.load_collections(thing, collection)
@@ -56,6 +56,13 @@ class ValidatorBase:
                 self.load_collections(thing, [])
 
         self.load_sets_collection()
+
+        for thing in ['format']:
+            collection = self.load_collection(thing)
+            if collection:
+                self.load_collections(thing, collection)
+            else:
+                self.load_collections(thing, [])
 
     def show_results(self):
         self.logger.verbose_print("Found %s formatting and %s validation errors\n" % (self.formatting_errors, self.validation_errors), 0)
@@ -147,17 +154,26 @@ class ValidatorBase:
         if hasattr(self, custom_check_method) and callable(getattr(self, custom_check_method)):
             getattr(self, custom_check_method)(thing_data)
 
+    def custom_check_set(self, set):
+        validations = []
+
+        if not set.get('cycle_code') in self.collections['cycle']:
+            validations.append("Cycle code '%s' does not exist in set '%s'" % (set.get('cycle_code'), set.get('code')))
+
+        if validations:
+            raise jsonschema.ValidationError("\n".join(["- %s" % v for v in validations]))
+
     def custom_check_card(self, card):
         validations = []
         #check foreing codes
         for collection in ["affiliation", "faction", "rarity", "type", "subtype"]:
             field = collection + "_code"
             if field in card and not card.get(field) in self.collections[collection]:
-                validations.append("%s code '%s' does not exists in card '%s'" % (collection, card.get(field), card.get('code')))
+                validations.append("%s code '%s' does not exist in card '%s'" % (collection, card.get(field), card.get('code')))
 
         #check reprint of
         if 'reprint_of' in card and not card.get('reprint_of') in self.collections['card']:
-            validations.append("Reprinted card %s does not exists" % (card.get('reprint_of')))
+            validations.append("Reprinted card %s does not exist" % (card.get('reprint_of')))
 
         #checks by type
         check_by_type_method = "custom_check_%s_card" % card.get('type_code')
@@ -186,6 +202,20 @@ class ValidatorBase:
 
     def custom_check_support_card(self, card):
         return self.custom_check_event_card(card)
+
+    def custom_check_format(self, format):
+        validations = []
+
+        for set in format.get('data').get('sets'):
+            if not set in self.collections['set']:
+                validations.append("Set code '%s' does not exist in format '%s'" % (set, format.get('code')))
+
+        for card, points in format.get('data').get('balance').items():
+            if not card in self.collections['card']:
+                validations.append("Card code '%s' does not exist in format '%s' balance of the force" % (card, format.get('code')))
+
+        if validations:
+            raise jsonschema.ValidationError("\n".join(["- %s" % v for v in validations]))
 
     def load_json_file(self, path):
         try:
@@ -265,7 +295,7 @@ class I18NValidator(ValidatorBase):
 
     def custom_check(self, thing, thing_data):
         if thing_data.has_key("code") and not self.parent.collections[thing].has_key(thing_data["code"]):
-            raise jsonschema.ValidationError("- %s code '%s' does not exists in '%s' %s translations" % (thing, thing_data["code"], self.locale, thing))
+            raise jsonschema.ValidationError("- %s code '%s' does not exist in '%s' %s translations" % (thing, thing_data["code"], self.locale, thing))
 
     def custom_check_character_card(self, card):
         return []

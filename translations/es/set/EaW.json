@@ -57,7 +57,7 @@
     },
     {
         "code": "03010",
-        "name": "Séptima Hemrana",
+        "name": "Séptima Hermana",
         "subtitle": "Inquisidora acrobática",
         "text": "Después de que actives este Personaje, puedes tirar un dado de Droide buscador ID9 ([EaW]13) en tu reserva <em>(su valor de resultado X es igual a la cantidad de dados de Droide buscador ID9 en tu reserva).</em> Deja aparte ese dado después de que sea resuelto o retirado."
     },
@@ -807,7 +807,7 @@
         "code": "03150",
         "flavor": "Al tener que hacer frente a un adversario demasiado poderoso, la precisión suele prevalecer ante la fuerza bruta.",
         "name": "Hendir",
-        "text": "Descarta del juego un Apoyo o Mejora con un coste igual o superior a 0."
+        "text": "Descarta del juego un Apoyo o Mejora con un coste igual a 0."
     },
     {
         "code": "03151",

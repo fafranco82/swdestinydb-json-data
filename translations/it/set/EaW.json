@@ -40,7 +40,7 @@
     },
     {
         "code": "03007",
-        "name": "T-7 Ion Disruptor Rifle",
+        "name": "Fucile Disintegratore Ionico T-7",
         "text": "Gioca questa carta solo se avvisti un personaggio rosso.\n<b>Azione</b> - Scarta 1 carta dalla tua mano per girare questo dado su una faccia di valore superiore di 1 rispetto al valore di questo dado."
     },
     {
@@ -481,7 +481,7 @@
     {
         "code": "03087",
         "name": "Nessun Sopravvissuto",
-        "text": "Infliggi 1 danno a ogni personaggio dannneggiato di 1 avvversario."
+        "text": "Infliggi 1 danno a ogni personaggio danneggiato di 1 avvversario."
     },
     {
         "code": "03088",
@@ -495,7 +495,7 @@
     },
     {
         "code": "03090",
-        "name": "in Trincea",
+        "name": "In Trincea",
         "text": "Fornisci un totale di 5 scudi ai tuoi personaggi, distribuendoli come preferisci."
     },
     {

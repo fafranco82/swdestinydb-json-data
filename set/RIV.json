@@ -24,6 +24,7 @@
         ],
         "subtitle": "Conflicted Apprentice",
         "text": "You cannot have Darth Vader on your team.\n[special] - Discard a hero card from your hand to give a character 2 shields or discard a villian card from your hand to deal 2 damage to a character.",
+        "ttscardid": "47000",
         "type_code": "character"
     },
     {
@@ -52,6 +53,7 @@
         ],
         "subtitle": "Cyborg Aide",
         "text": "While you control the battlefield, this character has the Guardian keyword.\n[special] - Resolve one of your dice, increasing its value by 2.",
+        "ttscardid": "47001",
         "type_code": "character"
     },
     {
@@ -81,6 +83,7 @@
         "subtitle": "Black Sun Operative",
         "subtype_code": "bounty-hunter",
         "text": "Before one of your characters is defeated, you may move a <i>weapon</i> from them to this character.",
+        "ttscardid": "47002",
         "type_code": "character"
     },
     {
@@ -109,6 +112,7 @@
         ],
         "subtype_code": "jawa",
         "text": "After you activate this character, you may discard one of your supports or upgrades that costs 2 or more from play to gain 1 resource.",
+        "ttscardid": "47003",
         "type_code": "character"
     },
     {
@@ -127,6 +131,7 @@
         "rarity_code": "S",
         "set_code": "RIV",
         "text": "Choose a symbol. Then reroll an opponent's die. If that die just rolled the chosen symbol, remove it.",
+        "ttscardid": "47004",
         "type_code": "event"
     },
     {
@@ -153,6 +158,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Play only on an exhasted character.",
+        "ttscardid": "47005",
         "type_code": "upgrade"
     },
     {
@@ -171,6 +177,7 @@
         "rarity_code": "S",
         "set_code": "RIV",
         "text": "Turn a support or upgrade die to any side.",
+        "ttscardid": "47006",
         "type_code": "event"
     },
     {
@@ -198,6 +205,7 @@
         ],
         "subtype_code": "vehicle",
         "text": "Ambush.\n",
+        "ttscardid": "47007",
         "type_code": "support"
     },
     {
@@ -215,6 +223,7 @@
         "rarity_code": "S",
         "set_code": "RIV",
         "text": "Turn one of your dice to a side showing a value of 1.",
+        "ttscardid": "47008",
         "type_code": "event"
     },
     {
@@ -242,6 +251,7 @@
         ],
         "subtype_code": "weapon",
         "text": "[special] - Deal 2 unblockable damage to a character.",
+        "ttscardid": "47009",
         "type_code": "upgrade"
     },
     {
@@ -259,6 +269,7 @@
         "rarity_code": "S",
         "set_code": "RIV",
         "text": "Turn a character die to any side if there are 2 or more copies of that character in play.",
+        "ttscardid": "47010",
         "type_code": "event"
     },
     {
@@ -276,6 +287,7 @@
         "rarity_code": "S",
         "set_code": "RIV",
         "text": "Remove one of your dice to remove a die showing damage ([ranged], [melee], or [indirect]).",
+        "ttscardid": "47011",
         "type_code": "event"
     },
     {
@@ -293,6 +305,7 @@
         "rarity_code": "S",
         "set_code": "RIV",
         "text": "Spot a Gray character and remove one of your dice to gain 1 resource.",
+        "ttscardid": "47012",
         "type_code": "event"
     },
     {
@@ -310,6 +323,7 @@
         "rarity_code": "S",
         "set_code": "RIV",
         "text": "Resolve one of your dice showing damage ([ranged], [melee], or [indirect]), increasing its value by 1.",
+        "ttscardid": "47013",
         "type_code": "event"
     },
     {
@@ -328,6 +342,7 @@
         "set_code": "RIV",
         "subtype_code": "equipment",
         "text": "<b>Action</b> - Exhaust this upgrade to reroll any number of attached character's character or upgrade dice.",
+        "ttscardid": "47014",
         "type_code": "upgrade"
     },
     {
@@ -354,6 +369,7 @@
         ],
         "subtype_code": "weapon",
         "text": "[special] - Deal 2 damage to a character. Then you may reroll ths die instead of removing it from your pool.",
+        "ttscardid": "47015",
         "type_code": "upgrade"
     },
     {
@@ -381,6 +397,7 @@
         ],
         "subtype_code": "weapon",
         "text": "Redeploy.",
+        "ttscardid": "47016",
         "type_code": "upgrade"
     },
     {
@@ -399,6 +416,7 @@
         "rarity_code": "S",
         "set_code": "RIV",
         "text": "<b>Action</b> - Exhaust this support and spend 1 resource to force an opponent to choose and discard a card from their hand.",
+        "ttscardid": "47017",
         "type_code": "support"
     },
     {
@@ -416,6 +434,7 @@
         "set_code": "RIV",
         "subtitle": "Atollon",
         "text": "<b>Claim</b> - Gain 1 resource if you have no resources.",
+        "ttscardid": "47018",
         "type_code": "battlefield"
     },
     {
@@ -433,6 +452,7 @@
         "set_code": "RIV",
         "subtitle": "Malachor",
         "text": "<b>Claim</b> - Remove one of your dice to deal 1 unblockable damage to a character.",
+        "ttscardid": "47019",
         "type_code": "battlefield"
     }
 ]

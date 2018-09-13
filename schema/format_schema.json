@@ -1,0 +1,47 @@
+{
+    "additionalProperties": false,
+    "properties": {
+        "code": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "data": {
+            "additionalProperties": false,
+            "properties": {
+                "balance": {
+                    "additionalProperties": false,
+                    "patternProperties": {
+                        "^[0-9]{5}$": {
+                            "pattern": "^[0-9]+(/[0-9]+)?$",
+                            "type": "string"
+                        }
+                    },
+                    "type": "object"
+                },
+                "sets": {
+                    "items": {
+                        "maxLength": 5,
+                        "minLength": 2,
+                        "type": "string"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "balance",
+                "sets"
+            ],
+            "type": "object"
+        },
+        "name": {
+            "minLength": 1,
+            "type": "string"
+        }
+    },
+    "required": [
+        "code",
+        "data",
+        "name"
+    ],
+    "type": "object"
+}

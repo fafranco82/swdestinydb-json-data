@@ -1,0 +1,36 @@
+{
+    "additionalProperties": false,
+    "properties": {
+        "code": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "date_release": {
+            "oneOf": [
+                {
+                    "maxLength": 10,
+                    "minLength": 10,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "name": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "position": {
+            "minimum": 1,
+            "type": "integer"
+        }
+    },
+    "required": [
+        "date_release",
+        "code",
+        "name",
+        "position"
+    ],
+    "type": "object"
+}
