@@ -5,6 +5,10 @@
     },
     {
         "code": "LEG",
+<<<<<<< HEAD
+        "name": "Eredità"
+=======
         "name": "Legacies"
+>>>>>>> refs/remotes/origin/SWD.db-json-data-ITA-wip
     }
 ]
