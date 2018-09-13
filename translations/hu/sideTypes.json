@@ -16,6 +16,10 @@
         "name": "Fókusz"
     },
     {
+        "code": "ID",
+        "name": "Indirect Damage"
+    },
+    {
         "code": "MD",
         "name": "Közelharci"
     },

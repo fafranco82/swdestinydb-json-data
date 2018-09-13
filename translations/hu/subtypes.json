@@ -4,6 +4,14 @@
         "name": "Képesség"
     },
     {
+        "code": "artillery",
+        "name": "Artillery"
+    },
+    {
+        "code": "bounty-hunter",
+        "name": "Fejvadász"
+    },
+    {
         "code": "droid",
         "name": "Droid"
     },
@@ -12,11 +20,71 @@
         "name": "Felszerelés"
     },
     {
+        "code": "gungan",
+        "name": "Gungan"
+    },
+    {
+        "code": "inquisitor",
+        "name": "Inquisitor"
+    },
+    {
+        "code": "jawa",
+        "name": "Jawa"
+    },
+    {
+        "code": "jedi",
+        "name": "Jedi"
+    },
+    {
+        "code": "leader",
+        "name": "Leader"
+    },
+    {
+        "code": "location",
+        "name": "Location"
+    },
+    {
+        "code": "mod",
+        "name": "Mod"
+    },
+    {
+        "code": "pilot",
+        "name": "Pilot"
+    },
+    {
+        "code": "podracer",
+        "name": "Podracer"
+    },
+    {
+        "code": "scoundrel",
+        "name": "Scoundrel"
+    },
+    {
+        "code": "sith",
+        "name": "Sith"
+    },
+    {
+        "code": "spectre",
+        "name": "Spectre"
+    },
+    {
+        "code": "title",
+        "name": "Title"
+    },
+    {
+        "code": "trooper",
+        "name": "Trooper"
+    },
+    {
         "code": "vehicle",
         "name": "Jármű"
     },
     {
         "code": "weapon",
         "name": "Fegyver"
+    },
+    {
+        "code": "witch",
+        "name": "Witch"
     }
 ]
