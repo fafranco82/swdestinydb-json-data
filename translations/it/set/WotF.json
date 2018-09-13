@@ -1,4 +1,22 @@
 
+{
+        "code": "07001",
+        "flavor": "\"I sense great fear in you.\"",
+        "subtitle": "Darth Tyranus",
+        "subtypes": [
+            "sith"
+        ],
+        "text": "After you activate this character, you may turn one of his character dice to a side showing melee damage ([melee]). Turn an opponent's die showing melee damage ([melee]) to any side.",
+    },
+    {
+        "code": "07002",
+        "flavor": "\"The kill is mine!\"",
+        "name": "Fifth Brother",
+        "subtitle": "Intimidating Enforcer",
+        "subtypes": [
+            "inquisitor"
+        ],
+        "text": "[special] - Resolve one of your non-<i>ability</i> Blue upgrade dice without removing it from your pool.",
     },
     {
         "code": "07003",
@@ -6,8 +24,9 @@
         "text": "While this character has 1 or more damage on her, decrease the cost of the first Blue <i>ability</i> you play on her each round by 1.",
     },
     {
-        "affiliation_code": "villain",
         "code": "07004",
+        "flavor": "\"There has been an awakening. Have you felt it?\"",
+        "name": "Snoke",
         "subtitle": "Supreme Leader",
         "subtypes": [
             "leader"

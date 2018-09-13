@@ -1,11 +1,35 @@
 [
     {
-     
+        "affiliation_code": "villain",
         "code": "07001",
+        "deck_limit": 1,
+        "faction_code": "blue",
         "flavor": "\"I sense great fear in you.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "Jacob Murray",
+        "is_unique": true,
         "name": "Count Dooku",
+        "points": "15/18",
+        "position": 1,
+        "rarity_code": "R",
+        "set_code": "WotF",
+        "sides": [
+            "2MD",
+            "3MD1",
+            "1F",
+            "2Sh",
+            "1R",
+            "-"
+        ],
         "subtitle": "Darth Tyranus",
+        "subtypes": [
+            "sith"
+        ],
         "text": "After you activate this character, you may turn one of his character dice to a side showing melee damage ([melee]). Turn an opponent's die showing melee damage ([melee]) to any side.",
+        "ttscardid": "48700",
+        "type_code": "character"
     },
     {
         "affiliation_code": "villain",
