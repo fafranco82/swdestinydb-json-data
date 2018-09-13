@@ -1,0 +1,663 @@
+[
+    {
+        "code": "02001",
+        "name": "Trooper da Morte"
+    },
+    {
+        "code": "02002",
+        "name": "Trooper Leal"
+    },
+    {
+        "code": "02003",
+        "name": "Diretor Krennic",
+        "subtitle": "Cruel mas brilhante"
+    },
+    {
+        "code": "02004",
+        "name": "Piloto de TIE"
+    },
+    {
+        "code": "02005",
+        "name": "E-Web Montada"
+    },
+    {
+        "code": "02006",
+        "name": "Disciplina imperial"
+    },
+    {
+        "code": "02007",
+        "name": "Pistola Blaster Pesado DT-29"
+    },
+    {
+        "code": "02008",
+        "name": "Bastão de Controle de Distúrbios Z6"
+    },
+    {
+        "code": "02009",
+        "name": "Asajj Ventress",
+        "subtitle": "Força Assassina"
+    },
+    {
+        "code": "02010",
+        "name": "Darth Vader",
+        "subtitle": "Aprendiz Sombrio"
+    },
+    {
+        "code": "02011",
+        "name": "Palpatine",
+        "subtitle": "Imperador Galático"
+    },
+    {
+        "code": "02012",
+        "name": "Guarda Real"
+    },
+    {
+        "code": "02013",
+        "name": "Transporte de Comando"
+    },
+    {
+        "code": "02014",
+        "name": "Raio da Força"
+    },
+    {
+        "code": "02015",
+        "name": "Lança de Sabre de Luz"
+    },
+    {
+        "code": "02016",
+        "name": "Tentação de Poder"
+    },
+    {
+        "code": "02017",
+        "name": "Droide de Interrogatório"
+    },
+    {
+        "code": "02018",
+        "name": "Aurra Sing",
+        "subtitle": "Atiradora Mortal"
+    },
+    {
+        "code": "02019",
+        "name": "Executor Guaviano"
+    },
+    {
+        "code": "02020",
+        "name": "IG-88",
+        "subtitle": "Droide Assassino"
+    },
+    {
+        "code": "02021",
+        "name": "Unkar Plutt",
+        "subtitle": "Negociante de Tralhas"
+    },
+    {
+        "code": "02022",
+        "name": "Escravo I"
+    },
+    {
+        "code": "02023",
+        "name": "Chantagear"
+    },
+    {
+        "code": "02024",
+        "name": "Escudo Pessoal"
+    },
+    {
+        "code": "02025",
+        "name": "Vibrolâminas"
+    },
+    {
+        "code": "02026",
+        "name": "Baze Malbus",
+        "subtitle": "Exímio Atirador"
+    },
+    {
+        "code": "02027",
+        "name": "Mon Mothma",
+        "subtitle": "Política Habilidosa"
+    },
+    {
+        "code": "02028",
+        "name": "Comando Rebelde"
+    },
+    {
+        "code": "02029",
+        "name": "Temmin \"Snap\" Wexley",
+        "subtitle": "Especialista de Reconhecimento"
+    },
+    {
+        "code": "02030",
+        "name": "C-3PO"
+    },
+    {
+        "code": "02031",
+        "name": "U-Wing"
+    },
+    {
+        "code": "02032",
+        "name": "Blaster A180"
+    },
+    {
+        "code": "02033",
+        "name": "Exagero"
+    },
+    {
+        "code": "02034",
+        "name": "Acólito Jedi"
+    },
+    {
+        "code": "02035",
+        "name": "Chirrut Îmwe",
+        "subtitle": "Guerreiro Cego"
+    },
+    {
+        "code": "02036",
+        "name": "Luminara Unduli",
+        "subtitle": "Comandante Inspiradora"
+    },
+    {
+        "code": "02037",
+        "name": "Obi-Wan Kenobi",
+        "subtitle": "Eremita Misterioso"
+    },
+    {
+        "code": "02038",
+        "name": "Interceptador Delta-7"
+    },
+    {
+        "code": "02039",
+        "name": "Arco Leve Artesanal"
+    },
+    {
+        "code": "02040",
+        "name": "Cura da Força"
+    },
+    {
+        "code": "02041",
+        "name": "Diários de Ben Kenobi"
+    },
+    {
+        "code": "02042",
+        "name": "R2-D2"
+    },
+    {
+        "code": "02043",
+        "name": "Chewbacca",
+        "subtitle": "Amigo Leal"
+    },
+    {
+        "code": "02044",
+        "name": "Jyn Erso",
+        "subtitle": "Agente Imprudente"
+    },
+    {
+        "code": "02045",
+        "name": "Maz Kanata",
+        "subtitle": "Rainha Pirata "
+    },
+    {
+        "code": "02046",
+        "name": "Contrabandista da Orla Exterior"
+    },
+    {
+        "code": "02047",
+        "name": "Cargueiro de Contrabando"
+    },
+    {
+        "code": "02048",
+        "name": "Balestra"
+    },
+    {
+        "code": "02049",
+        "name": "Agente Solitário"
+    },
+    {
+        "code": "02050",
+        "name": "Óculos da Maz"
+    },
+    {
+        "code": "02051",
+        "name": "Linha de Suprimentos"
+    },
+    {
+        "code": "02052",
+        "name": "Astromecânico"
+    },
+    {
+        "code": "02053",
+        "name": "Lançador de Foguetes"
+    },
+    {
+        "code": "02054",
+        "name": "Empurrão com a Força"
+    },
+    {
+        "code": "02055",
+        "name": "Velocidade da Força"
+    },
+    {
+        "code": "02056",
+        "name": "Formação Makashi"
+    },
+    {
+        "code": "02057",
+        "name": "Vibrofaca"
+    },
+    {
+        "code": "02058",
+        "name": "Quadjumper"
+    },
+    {
+        "code": "02059",
+        "name": "Pistola de Ascensão"
+    },
+    {
+        "code": "02060",
+        "name": "Vigarista"
+    },
+    {
+        "code": "02061",
+        "name": "Formação de Batalha"
+    },
+    {
+        "code": "02062",
+        "name": "Máquina de Guerra Imperial"
+    },
+    {
+        "code": "02063",
+        "name": "Cerco"
+    },
+    {
+        "code": "02064",
+        "name": "Fogo Contínuo"
+    },
+    {
+        "code": "02065",
+        "name": "Traidor!"
+    },
+    {
+        "code": "02066",
+        "name": "Guerra de Trincheiras"
+    },
+    {
+        "code": "02067",
+        "name": "Lealdade Eterna"
+    },
+    {
+        "code": "02068",
+        "name": "Nós Pegamos Eles Agora"
+    },
+    {
+        "code": "02069",
+        "name": "Atrito"
+    },
+    {
+        "code": "02070",
+        "name": "Inspeção Imperial"
+    },
+    {
+        "code": "02071",
+        "name": "Ira"
+    },
+    {
+        "code": "02072",
+        "name": "Arremesso de Sabre de Luz"
+    },
+    {
+        "code": "02073",
+        "name": "Manipular"
+    },
+    {
+        "code": "02074",
+        "name": "Sem desintegrações"
+    },
+    {
+        "code": "02075",
+        "name": "Agora Você Morrerá"
+    },
+    {
+        "code": "02076",
+        "name": "Ressurgir"
+    },
+    {
+        "code": "02077",
+        "name": "O Preço do Fracasso"
+    },
+    {
+        "code": "02078",
+        "name": "Presença Maligna"
+    },
+    {
+        "code": "02079",
+        "name": "Agora Eu Sou o Mestre"
+    },
+    {
+        "code": "02080",
+        "name": "Dúvida"
+    },
+    {
+        "code": "02081",
+        "name": "Venda de Armas"
+    },
+    {
+        "code": "02082",
+        "name": "Gato por Lebre"
+    },
+    {
+        "code": "02083",
+        "name": "Amigos Influentes"
+    },
+    {
+        "code": "02084",
+        "name": "Pontas Soltas"
+    },
+    {
+        "code": "02085",
+        "name": "One-Quarter Portion"
+    },
+    {
+        "code": "02086",
+        "name": "Busca Implacável"
+    },
+    {
+        "code": "02087",
+        "name": "Compra de Sucata"
+    },
+    {
+        "code": "02088",
+        "name": "Resgate"
+    },
+    {
+        "code": "02089",
+        "name": "Armadura Reforçada"
+    },
+    {
+        "code": "02090",
+        "name": "Evacuação de Emergência"
+    },
+    {
+        "code": "02091",
+        "name": "Fogo Amigo"
+    },
+    {
+        "code": "02092",
+        "name": "Guerra de Guerrilha"
+    },
+    {
+        "code": "02093",
+        "name": "Nossa Única Esperança"
+    },
+    {
+        "code": "02094",
+        "name": "Ataque Rebelde"
+    },
+    {
+        "code": "02095",
+        "name": "Posicionamento de Sensores"
+    },
+    {
+        "code": "02096",
+        "name": "Espírito da Rebelião"
+    },
+    {
+        "code": "02097",
+        "name": "Revolta planetária"
+    },
+    {
+        "code": "02098",
+        "name": "Rede de Espionagem"
+    },
+    {
+        "code": "02099",
+        "name": "Aptidão Tática"
+    },
+    {
+        "code": "02100",
+        "name": "Cautela"
+    },
+    {
+        "code": "02101",
+        "name": "Destino"
+    },
+    {
+        "code": "02102",
+        "name": "Determinação"
+    },
+    {
+        "code": "02103",
+        "name": "Guarda"
+    },
+    {
+        "code": "02104",
+        "name": "Uivo do Krayt Dragon"
+    },
+    {
+        "code": "02105",
+        "name": "Minha Aliada é a Força"
+    },
+    {
+        "code": "02106",
+        "name": "Sincronia"
+    },
+    {
+        "code": "02107",
+        "name": "Seus Olhos podem te Enganar"
+    },
+    {
+        "code": "02108",
+        "name": "Mentor Protetor"
+    },
+    {
+        "code": "02109",
+        "name": "Confiança"
+    },
+    {
+        "code": "02110",
+        "name": "O Lixo vai Servir"
+    },
+    {
+        "code": "02111",
+        "name": "Aguente Firme!"
+    },
+    {
+        "code": "02112",
+        "name": "Rebelde"
+    },
+    {
+        "code": "02113",
+        "name": "Embuste Armado"
+    },
+    {
+        "code": "02114",
+        "name": "Gato-Loth e Rato"
+    },
+    {
+        "code": "02115",
+        "name": "Nunca me diga as Probabilidades"
+    },
+    {
+        "code": "02116",
+        "name": "Explosão Planejada"
+    },
+    {
+        "code": "02117",
+        "name": "Jogada Traiçoeira"
+    },
+    {
+        "code": "02118",
+        "name": "Dívida de Vida"
+    },
+    {
+        "code": "02119",
+        "name": "Bombardeio"
+    },
+    {
+        "code": "02120",
+        "name": "Dano Colateral"
+    },
+    {
+        "code": "02121",
+        "name": "Salvo"
+    },
+    {
+        "code": "02122",
+        "name": "Supressão"
+    },
+    {
+        "code": "02123",
+        "name": "Consequências"
+    },
+    {
+        "code": "02124",
+        "name": "Superioridade Aérea"
+    },
+    {
+        "code": "02125",
+        "name": "Treinamento"
+    },
+    {
+        "code": "02126",
+        "name": "Ala"
+    },
+    {
+        "code": "02127",
+        "name": "Golpe Decisivo"
+    },
+    {
+        "code": "02128",
+        "name": "Terreno Elevado"
+    },
+    {
+        "code": "02129",
+        "name": "Mudança de Ímpeto"
+    },
+    {
+        "code": "02130",
+        "name": "Excesso de Confiança"
+    },
+    {
+        "code": "02131",
+        "name": "Premonições"
+    },
+    {
+        "code": "02132",
+        "name": "Rejuvenescer"
+    },
+    {
+        "code": "02133",
+        "name": "Confie em seus Instintos"
+    },
+    {
+        "code": "02134",
+        "name": "Meditar"
+    },
+    {
+        "code": "02135",
+        "name": "Ilusão da Força"
+    },
+    {
+        "code": "02136",
+        "name": "Esquivar"
+    },
+    {
+        "code": "02137",
+        "name": "Ordens Novas"
+    },
+    {
+        "code": "02138",
+        "name": "Defesa"
+    },
+    {
+        "code": "02139",
+        "name": "Rapidez"
+    },
+    {
+        "code": "02140",
+        "name": "Resolução"
+    },
+    {
+        "code": "02141",
+        "name": "Cinto de Munição"
+    },
+    {
+        "code": "02142",
+        "name": "Entocado"
+    },
+    {
+        "code": "02143",
+        "name": "Trapaça"
+    },
+    {
+        "code": "02144",
+        "name": "Distração"
+    },
+    {
+        "code": "02145",
+        "name": "Comércio"
+    },
+    {
+        "code": "02146",
+        "name": "Amigos em Lugares Obscuros"
+    },
+    {
+        "code": "02147",
+        "name": "Sabotagem"
+    },
+    {
+        "code": "02148",
+        "name": "Improvisação"
+    },
+    {
+        "code": "02149",
+        "name": "Vitória Tática"
+    },
+    {
+        "code": "02150",
+        "name": "Mãos Rápidas"
+    },
+    {
+        "code": "02151",
+        "name": "Câmara de Congelamento de Carbono",
+        "subtitle": "espin"
+    },
+    {
+        "code": "02152",
+        "name": "Compartimento de Carga",
+        "subtitle": "Eravana"
+    },
+    {
+        "code": "02153",
+        "name": "Cais de Atracagem",
+        "subtitle": "Finalizer"
+    },
+    {
+        "code": "02154",
+        "name": "Vila Ewok",
+        "subtitle": "Endor"
+    },
+    {
+        "code": "02155",
+        "name": "Castelo de Maz",
+        "subtitle": "Takodana"
+    },
+    {
+        "code": "02156",
+        "name": "Fazenda de Umidificação",
+        "subtitle": "Tatooine"
+    },
+    {
+        "code": "02158",
+        "name": "Praia Isolada",
+        "subtitle": "Scarif"
+    },
+    {
+        "code": "02159",
+        "name": "Instalação Secreta",
+        "subtitle": "Scarif"
+    },
+    {
+        "code": "02160",
+        "name": "Ruas Devastadas pela Guerra",
+        "subtitle": "Jedha"
+    }
+]

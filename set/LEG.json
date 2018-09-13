@@ -80,7 +80,9 @@
             "-"
         ],
         "subtitle": "Nightsister Matriarch",
-        "subtype_code": "witch",
+        "subtypes": [
+            "witch"
+        ],
         "text": "After you activate this character, you may reveal the top card of a player's deck. If its cost is an odd number, turn one of that player's dice to any side.",
         "ttscardid": "47102",
         "type_code": "character"
@@ -110,7 +112,9 @@
             "-"
         ],
         "subtitle": "Darth Sidious",
-        "subtype_code": "sith",
+        "subtypes": [
+            "sith"
+        ],
         "text": "<b>Power Action</b> - Play an event from your hand, decreasing its cost by the number of different damage symbols ([ranged], [melee] or [indirect]) showing on your dice.",
         "ttscardid": "47103",
         "type_code": "character"
@@ -137,7 +141,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Choose a color. Then reveal an opponent's hand and deal indirect damage ([indirect]) to them equal to the number of cards in their hand that match the chosen color.",
         "ttscardid": "47104",
         "type_code": "support"
@@ -164,7 +170,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "After you activate attached character, you may look at the top card of a deck.",
         "ttscardid": "47105",
         "type_code": "upgrade"
@@ -191,7 +199,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue character only.\n[special] - Spend resources equal to the cost of a support or upgrade in play to discard it.",
         "ttscardid": "47106",
         "type_code": "upgrade"
@@ -203,7 +213,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "Andreas Zafiratos",
         "is_unique": true,
         "name": "Maul's Lightsaber",
@@ -218,8 +228,10 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
-        "text": "Blue character only.\n<b>Power Action</b> - If an opponent has no shields on all of their characters, roll this die into your pool.",
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Blue character only.\n<b>Power Action</b> - If an opponent has no shields on all of their characters, spend 1 resource to roll this die into your pool.",
         "ttscardid": "47107",
         "type_code": "upgrade"
     },
@@ -247,7 +259,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "After you activate this character, if this die just rolled indirect damage ([indirect]), you may activate one of your other Battle Droids ([LEG]9).",
         "ttscardid": "47108",
         "type_code": "character"
@@ -306,7 +320,9 @@
             "-"
         ],
         "subtitle": "Separatist Viceroy",
-        "subtype_code": "leader",
+        "subtypes": [
+            "leader"
+        ],
         "text": "Each opponent gains 1 fewer resource during the upkeep phase, to a minimum of 1, unless that opponent discards the top 2 cards of their deck.",
         "ttscardid": "47110",
         "type_code": "character"
@@ -336,7 +352,9 @@
             "-"
         ],
         "subtitle": "Grand Moff",
-        "subtype_code": "leader",
+        "subtypes": [
+            "leader"
+        ],
         "text": "<b>Power Action</b> - Remove 2 of your dice showing the same symbol to deal 4 indirect damage ([indirect]) to an opponent.",
         "ttscardid": "47111",
         "type_code": "character"
@@ -365,7 +383,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "trooper",
+        "subtypes": [
+            "trooper"
+        ],
         "ttscardid": "47112",
         "type_code": "character"
     },
@@ -392,7 +412,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Spend 2 resources to add a Battle Droid ([LEG]9) to your team. Discard this support from play.",
         "ttscardid": "47113",
         "type_code": "support"
@@ -420,7 +442,9 @@
             "3ID",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "After this die is resolved, discard this upgrade from play unless you spend 1 resource.",
         "ttscardid": "47114",
         "type_code": "upgrade"
@@ -447,8 +471,10 @@
             "2Dc",
             "2R"
         ],
-        "subtype_code": "title",
-        "text": "Unique Red characer only.\n<b>Power Action</b> - Use the \"Claim\" ability on the battlefield or switch the battlefield with a battlefield that is not being used <em>(but was brought to the game)</em>.",
+        "subtypes": [
+            "title"
+        ],
+        "text": "Unique Red character only.\n<b>Power Action</b> - Use the \"Claim\" ability on the battlefield or switch the battlefield with a battlefield that is not being used <em>(but was brought to the game)</em>.",
         "ttscardid": "47115",
         "type_code": "upgrade"
     },
@@ -474,7 +500,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Ambush.",
         "ttscardid": "47116",
         "type_code": "upgrade"
@@ -533,7 +561,9 @@
             "-"
         ],
         "subtitle": "Deadly Mercenary",
-        "subtype_code": "bounty-hunter",
+        "subtypes": [
+            "bounty-hunter"
+        ],
         "text": "[special] - Deal damage to a character equal to the value showing on a die <em>(yours or an opponent's)</em>.",
         "ttscardid": "47118",
         "type_code": "character"
@@ -562,7 +592,9 @@
             "-"
         ],
         "subtitle": "Artifact Hunter",
-        "subtype_code": "scoundrel",
+        "subtypes": [
+            "scoundrel"
+        ],
         "text": "The cost of the first <i>droid</i> you play each round is decreased by 1.\nAfter you deal indirect damage ([indirect]) to yourself, you may draw a card.",
         "ttscardid": "47119",
         "type_code": "character"
@@ -592,7 +624,9 @@
             "-"
         ],
         "subtitle": "Unlucky Mercenary",
-        "subtype_code": "bounty-hunter",
+        "subtypes": [
+            "bounty-hunter"
+        ],
         "text": "Before this character is defeated, roll any number of his character dice into your pool. Then resolve any number of his character dice in the order of your choice.",
         "ttscardid": "47120",
         "type_code": "character"
@@ -647,7 +681,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "After you activate this support, activate up to 2 of your other supports in the order of your choice.",
         "ttscardid": "47122",
         "type_code": "support"
@@ -674,7 +710,9 @@
             "1Dr",
             "-"
         ],
-        "subtype_code": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "After you activate this support, deal 1 indirect damage ([indirect]) to yourself. Then deal 1 indirect damage ([indirect]) to an opponent.",
         "ttscardid": "47123",
         "type_code": "support"
@@ -701,7 +739,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "<b>Power Action</b> - Reroll one of your Yellow dice. Then you may remove an opponent's die showing a value equal to the value showing on the die you just rerolled.",
         "ttscardid": "47124",
         "type_code": "support"
@@ -728,7 +768,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "[special] - Deal 1 damage to a character, or 2 damage instead if that character has 3 or more damage on it.",
         "ttscardid": "47125",
         "type_code": "upgrade"
@@ -755,7 +797,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Yellow character only.\n[special] - Deal 2 damage to a character. You may spend 1 resource to deal 2 damage to a character.",
         "ttscardid": "47126",
         "type_code": "upgrade"
@@ -782,7 +826,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "[special] - Reroll an opponent's die. Reroll this die instead of removing it from your pool.",
         "ttscardid": "47127",
         "type_code": "support"
@@ -812,7 +858,9 @@
             "-"
         ],
         "subtitle": "Jedi General",
-        "subtype_code": "jedi",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "[special] - Turn one of your Blue or Red dice to any side. Turn an opponent's die to any side.",
         "ttscardid": "47128",
         "type_code": "character"
@@ -840,7 +888,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "jedi",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "Guardian.",
         "ttscardid": "47129",
         "type_code": "character"
@@ -899,7 +949,9 @@
             "-"
         ],
         "subtitle": "Jedi Master",
-        "subtype_code": "jedi",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "After you activate this character, you may give a character 1 shield.",
         "ttscardid": "47131",
         "type_code": "character"
@@ -929,7 +981,9 @@
             "Sp"
         ],
         "subtitle": "Wizened Master",
-        "subtype_code": "jedi",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "[special]- Choose and do two of the following: gain 1 resource, give a character 1 shield, turn one of your dice to any side, or discard the top card of a deck.",
         "ttscardid": "47132",
         "type_code": "character"
@@ -957,7 +1011,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "<b>Action</b> - Remove this die or one of your dice showing a shield ([shield]) to exhaust a support.",
         "ttscardid": "47133",
         "type_code": "support"
@@ -985,7 +1041,9 @@
             "Sp",
             "Sp"
         ],
-        "subtype_code": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "[special] - Draw a card. You may turn one of your dice to any side.",
         "ttscardid": "47134",
         "type_code": "support"
@@ -1012,7 +1070,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "To play, spot a Blue character.\n[special] - Discard the top 2 cards of a deck.",
         "ttscardid": "47135",
         "type_code": "upgrade"
@@ -1039,7 +1099,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Blue character only.\n[special] - Give attached character 1 shield. Deal unblockable damage to a character equal to the number of shields on attached character.",
         "ttscardid": "47136",
         "type_code": "upgrade"
@@ -1068,7 +1130,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "trooper",
+        "subtypes": [
+            "trooper"
+        ],
         "text": "After you activate this character, you may reroll this die, or, if you control the battlefield, you may reroll one of your character dice.",
         "ttscardid": "47137",
         "type_code": "character"
@@ -1097,7 +1161,9 @@
             "-"
         ],
         "subtitle": "Soldier of Necessity",
-        "subtype_code": "trooper",
+        "subtypes": [
+            "trooper"
+        ],
         "text": "[special] - Move 1 damage from a card to another card in play <em>(this ignores shields)</em>.",
         "ttscardid": "47138",
         "type_code": "character"
@@ -1156,7 +1222,9 @@
             "-"
         ],
         "subtitle": "Squad Leader",
-        "subtype_code": "pilot",
+        "subtypes": [
+            "pilot"
+        ],
         "text": "<b>Power Action</b> - Turn one of your <i>vehicle</i> dice to any side.",
         "ttscardid": "47140",
         "type_code": "character"
@@ -1183,7 +1251,9 @@
             "1Dr",
             "-"
         ],
-        "subtype_code": "artillery",
+        "subtypes": [
+            "artillery"
+        ],
         "text": "While you control the battlefield, you may resolve the indirect damage ([indirect]) sides of this die as if they were ranged damage ([ranged]).",
         "ttscardid": "47141",
         "type_code": "support"
@@ -1210,7 +1280,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "After this die is resolved, place 1 damage on this support.\nDiscard this support if it has 3 or more damage on it.",
         "ttscardid": "47142",
         "type_code": "support"
@@ -1237,7 +1309,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "[special] - Deal 2 damage to a character, or 3 damage instead if you control the battlefield.",
         "ttscardid": "47143",
         "type_code": "upgrade"
@@ -1264,7 +1338,9 @@
             "3Sh",
             "2R"
         ],
-        "subtype_code": "title",
+        "subtypes": [
+            "title"
+        ],
         "text": "Unique Red character only.\n<b>Power Action</b> - Remove an opponent's die showing the same symbol as one of your dice.",
         "ttscardid": "47144",
         "type_code": "upgrade"
@@ -1294,7 +1370,9 @@
             "-"
         ],
         "subtitle": "Savvy Smuggler",
-        "subtype_code": "scoundrel",
+        "subtypes": [
+            "scoundrel"
+        ],
         "text": "After you activate this character, you may reroll a die <em>(yours or an opponent's)</em>.",
         "ttscardid": "47145",
         "type_code": "character"
@@ -1324,7 +1402,9 @@
             "-"
         ],
         "subtitle": "Clumsy Outcast",
-        "subtype_code": "gungan",
+        "subtypes": [
+            "gungan"
+        ],
         "text": "Any player may take an action to force you to activate this character.\nAfter you activate this character, reroll all dice showing a symbol not showing on his character dice.",
         "ttscardid": "47146",
         "type_code": "character"
@@ -1381,7 +1461,9 @@
             "-"
         ],
         "subtitle": "Extremist Leader",
-        "subtype_code": "leader",
+        "subtypes": [
+            "leader"
+        ],
         "text": "[special] - Discard a random card from a player's hand. Then deal indirect damage ([indirect]) to an opponent equal to its cost.",
         "ttscardid": "47148",
         "type_code": "character"
@@ -1411,7 +1493,9 @@
             "-"
         ],
         "subtitle": "The Last Lasat",
-        "subtype_code": "spectre",
+        "subtypes": [
+            "spectre"
+        ],
         "text": "You may resolve the melee damage ([melee]) sides of this die as if they were ranged damage ([ranged]).",
         "ttscardid": "47149",
         "type_code": "character"
@@ -1438,7 +1522,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "artillery",
+        "subtypes": [
+            "artillery"
+        ],
         "text": "<b>Power Action</b> - Spend 1 resource to roll a Runaway Boomas ([LEG]51) die into your pool. Set aside that die after it is resolved or removed.",
         "ttscardid": "47150",
         "type_code": "support"
@@ -1466,7 +1552,9 @@
             "2R",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "After to activate this support, you may activate one of your characters.",
         "ttscardid": "47151",
         "type_code": "support"
@@ -1493,7 +1581,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Yellow character only.\n[special] - Remove a die showing damage ([ranged], [melee] or [indirect]). Gain resources equal to the resource cost showing on it <em>(not its value)</em>.",
         "ttscardid": "47152",
         "type_code": "upgrade"
@@ -1521,7 +1611,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "<b>Action</b> - Spend 1 resource to resolve this die showing a modifier <em>(a side with a +)</em> as if it did not have a modifier.",
         "ttscardid": "47153",
         "type_code": "upgrade"
@@ -1549,7 +1641,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Give a unique character 2 shields or give each of your unique characters 1 shield.",
         "ttscardid": "47154",
         "type_code": "support"
@@ -1576,7 +1670,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "To play, spot a Blue character.\n[special] - Turn one of your dice to any side. You may reveal a Blue card from your hand to turn an opponent's die to any side.",
         "ttscardid": "47155",
         "type_code": "upgrade"
@@ -1603,7 +1699,9 @@
             "Sp1",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue character only.\n[special] - Deal 3 damage to a character. Deal 2 damage to a another character. Deal 1 damage to a third character.",
         "ttscardid": "47156",
         "type_code": "upgrade"
@@ -1630,7 +1728,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "This upgrade has the Redeploy keyword while it's on a Blue character.",
         "ttscardid": "47157",
         "type_code": "upgrade"
@@ -1657,7 +1757,9 @@
             "+1R",
             "-"
         ],
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "<b>Action</b> - Remove this die to activate any number of your characters and/or supports in the order of your choice.",
         "ttscardid": "47158",
         "type_code": "upgrade"
@@ -1710,7 +1812,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "location",
+        "subtypes": [
+            "location"
+        ],
         "text": "Play only if you control the battlefield.",
         "ttscardid": "47160",
         "type_code": "support"
@@ -1738,7 +1842,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "ttscardid": "47161",
         "type_code": "upgrade"
     },
@@ -1765,7 +1871,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.",
         "ttscardid": "47162",
         "type_code": "upgrade"
@@ -1792,7 +1900,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "<b>Action</b> - Resolve this die and one of attached character's character dice in the order of your choice.",
         "ttscardid": "47163",
         "type_code": "upgrade"
@@ -1822,7 +1932,9 @@
             "-"
         ],
         "subtitle": "Respected Businessman",
-        "subtype_code": "scoundrel",
+        "subtypes": [
+            "scoundrel"
+        ],
         "text": "[special] - Deal 3 damage to an opponent's character unless that opponent gives you 1 resource.",
         "ttscardid": "47164",
         "type_code": "character"
@@ -1850,7 +1962,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Deal 2 damage to a character, give a character 2 shields, and take one additional action.",
         "ttscardid": "47165",
         "type_code": "support"
@@ -1877,7 +1991,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "[special] - Gain 1 resource. You may force each player to draw a card.",
         "ttscardid": "47166",
         "type_code": "upgrade"
@@ -1930,7 +2046,9 @@
             "2Sh",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.\nDecrease the resource cost on this die by 1 while this upgrade is on a Yellow character.",
         "ttscardid": "47168",
         "type_code": "upgrade"
@@ -1957,7 +2075,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "After you play this support, place 2 damage on it.\nAfter you activate this support, deal indirect damage ([indirect]) to yourself equal to the damage on it.",
         "ttscardid": "47169",
         "type_code": "support"
@@ -1984,7 +2104,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.\n[special] - Deal 2 damage to a character, or 3 damage instead if it is a villain.",
         "ttscardid": "47200",
         "type_code": "upgrade"
@@ -2011,7 +2133,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Ambush.\nAfter you play this upgrade, you may remove 1 shield from a character.",
         "ttscardid": "47201",
         "type_code": "upgrade"
@@ -2039,7 +2163,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": " ",
         "ttscardid": "47202",
         "type_code": "upgrade"
@@ -2066,7 +2192,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "After a character takes damage from this die, you may spend 1 resource to remove one that character's character dice.",
         "ttscardid": "47203",
         "type_code": "upgrade"
@@ -2371,7 +2499,9 @@
         "position": 91,
         "rarity_code": "U",
         "set_code": "LEG",
-        "subtype_code": "location",
+        "subtypes": [
+            "location"
+        ],
         "text": "<b>Action</b> - Exhaust this support to activate 2 of your non-unique characters in the order of your choice.",
         "ttscardid": "47220",
         "type_code": "support"
@@ -2553,7 +2683,7 @@
         "position": 101,
         "rarity_code": "U",
         "set_code": "LEG",
-        "text": "Resolve one of your Blue character dice showing melee damage ([melee]), increaing its value by the number of shields on that character.",
+        "text": "Resolve one of your Blue character dice showing melee damage ([melee]), increasing its value by the number of shields on that character.",
         "ttscardid": "47230",
         "type_code": "event"
     },
@@ -2727,7 +2857,7 @@
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "Aurore Foiny",
+        "illustrator": "Aurore Folny",
         "is_unique": false,
         "name": "Light 'Em Up",
         "position": 111,
@@ -2932,7 +3062,9 @@
         "position": 122,
         "rarity_code": "U",
         "set_code": "LEG",
-        "subtype_code": "location",
+        "subtypes": [
+            "location"
+        ],
         "text": "Each player gains 1 additional resource during the upkeep phase.",
         "ttscardid": "47251",
         "type_code": "support"
@@ -3686,8 +3818,10 @@
         "position": 164,
         "rarity_code": "C",
         "set_code": "LEG",
-        "subtype_code": "location",
-        "text": "<b>Action</b> - Exaust this support to place 1 resource on it or take all resources from it.",
+        "subtypes": [
+            "location"
+        ],
+        "text": "<b>Action</b> - Exhaust this support to place 1 resource on it or take all resources from it.",
         "ttscardid": "47323",
         "type_code": "support"
     },
@@ -3705,7 +3839,9 @@
         "position": 165,
         "rarity_code": "U",
         "set_code": "LEG",
-        "subtype_code": "location",
+        "subtypes": [
+            "location"
+        ],
         "text": "After you discard one or more cards from an opponent's deck, you may exhaust this support to gain 1 resource.",
         "ttscardid": "47324",
         "type_code": "support"
@@ -3724,7 +3860,9 @@
         "position": 166,
         "rarity_code": "U",
         "set_code": "LEG",
-        "subtype_code": "title",
+        "subtypes": [
+            "title"
+        ],
         "text": "Non-unique character only.\nAttached character has the Guardian keyword.",
         "ttscardid": "47325",
         "type_code": "upgrade"
@@ -3743,7 +3881,9 @@
         "position": 167,
         "rarity_code": "C",
         "set_code": "LEG",
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "After you activate attached character, you may reroll any number of their <i>weapon</i> dice.",
         "ttscardid": "47326",
         "type_code": "upgrade"

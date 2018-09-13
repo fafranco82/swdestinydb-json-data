@@ -1,0 +1,116 @@
+[
+    {
+        "code": "06001",
+        "name": "Anakin Skywalker",
+        "subtitle": "Conflicted Apprentice",
+        "text": "You cannot have Darth Vader on your team.\n[special] - Discard a hero card from your hand to give a character 2 shields or discard a villain card from your hand to deal 2 damage to a character."
+    },
+    {
+        "code": "06002",
+        "flavor": "\"I live by my choices.\"",
+        "name": "Lobot",
+        "subtitle": "Cyborg Aide",
+        "text": "While you control the battlefield, this character has the Guardian keyword.\n[special] - Resolve one of your dice, increasing its value by 2."
+    },
+    {
+        "code": "06003",
+        "flavor": "\"Friend. That's a generous term considering what happened.\"",
+        "name": "Ketsu Onyo",
+        "subtitle": "Black Sun Operative",
+        "text": "Before one of your characters is defeated, you may move a <i>weapon</i> from them to this character."
+    },
+    {
+        "code": "06004",
+        "flavor": "\"I can't abide those Jawas. Disgusting creatures!\" <cite>C-3PO</cite>",
+        "name": "Jawa Scavenger",
+        "text": "After you activate this character, you may discard one of your supports or upgrades that costs 2 or more from play to gain 1 resource."
+    },
+    {
+        "code": "06005",
+        "flavor": "\"To defeat your enemy, you must know your enemy.\" <cite>Maul</cite>",
+        "name": "Hidden Motive",
+        "text": "Choose a symbol. Then reroll an opponent's die. If that die just rolled the chosen symbol, remove it."
+    },
+    {
+        "code": "06006",
+        "name": "Crafted Lightsaber",
+        "text": "Play only on an exhasted character."
+    },
+    {
+        "code": "06007",
+        "flavor": "\"Stay on target!\" <cite>Gold Five</cite>",
+        "name": "Targeting Computer",
+        "text": "Turn a support or upgrade die to any side."
+    },
+    {
+        "code": "06008",
+        "flavor": "Swift and highly maneuverable, this fighter was designed and flown by the Mandalorian Protectors.",
+        "name": "Fang Fighter",
+        "text": "Ambush.\n"
+    },
+    {
+        "code": "06009",
+        "name": "Tinker",
+        "text": "Turn one of your dice to a side showing a value of 1."
+    },
+    {
+        "code": "06010",
+        "flavor": "This projectile weapon uses magnetic field technology, making its operation nearly silent.",
+        "name": "Verpine Sniper Rifle",
+        "text": "[special] - Deal 2 unblockable damage to a character."
+    },
+    {
+        "code": "06011",
+        "name": "Emulate",
+        "text": "Turn a character die to any side if there are 2 or more copies of that character in play."
+    },
+    {
+        "code": "06012",
+        "name": "Fight Back",
+        "text": "Remove one of your dice to remove a die showing damage ([ranged], [melee], or [indirect])."
+    },
+    {
+        "code": "06013",
+        "name": "Resourceful",
+        "text": "Spot a Gray character and remove one of your dice to gain 1 resource."
+    },
+    {
+        "code": "06014",
+        "name": "Surprise Attack",
+        "text": "Resolve one of your dice showing damage ([ranged], [melee], or [indirect]), increasing its value by 1."
+    },
+    {
+        "code": "06015",
+        "name": "Supply Pack",
+        "text": "<b>Action</b> - Exhaust this upgrade to reroll any number of attached character's character or upgrade dice."
+    },
+    {
+        "code": "06016",
+        "name": "T-21 Repeating Blaster",
+        "text": "[special] - Deal 2 damage to a character. Then you may reroll ths die instead of removing it from your pool."
+    },
+    {
+        "code": "06017",
+        "flavor": "While heavy and dcumbersome, some species could wield vibroswords one-handed.",
+        "name": "Vibrosword",
+        "text": "Redeploy."
+    },
+    {
+        "code": "06018",
+        "flavor": "The Bespin Wing Guard patrolled Cloud City to enforce order.",
+        "name": "Bespin Wing Guard",
+        "text": "<b>Action</b> - Exhaust this support and spend 1 resource to force an opponent to choose and discard a card from their hand."
+    },
+    {
+        "code": "06019",
+        "name": "Dry Fields",
+        "subtitle": "Atollon",
+        "text": "<b>Claim</b> - Gain 1 resource if you have no resources."
+    },
+    {
+        "code": "06020",
+        "name": "Sith Temple",
+        "subtitle": "Malachor",
+        "text": "<b>Claim</b> - Remove one of your dice to deal 1 unblockable damage to a character."
+    }
+]

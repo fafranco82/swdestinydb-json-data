@@ -1,0 +1,641 @@
+[
+    {
+        "code": "05001",
+        "name": "Conselheiro Sombrio"
+    },
+    {
+        "code": "05002",
+        "name": "Maul",
+        "subtitle": "O Vingativo"
+    },
+    {
+        "code": "05003",
+        "name": "Mãe Talzin",
+        "subtitle": "Matriarca Irmã da Noite"
+    },
+    {
+        "code": "05006",
+        "name": "Bola de Cristal"
+    },
+    {
+        "code": "05007",
+        "name": "Despedaçar com a Força"
+    },
+    {
+        "code": "05008",
+        "name": "Sabre de Luz do Maul"
+    },
+    {
+        "code": "05009",
+        "name": "Droide de Batalha"
+    },
+    {
+        "code": "05010",
+        "name": "Kallus",
+        "subtitle": "Agente do Império"
+    },
+    {
+        "code": "05011",
+        "name": "Nute Gunray",
+        "subtitle": "Vice-Rei Separatista"
+    },
+    {
+        "code": "05012",
+        "name": "Tarkin",
+        "subtitle": "Grande Moff"
+    },
+    {
+        "code": "05014",
+        "name": "Desembarcadouro Separatista"
+    },
+    {
+        "code": "05015",
+        "name": "Granada de Fragmentação"
+    },
+    {
+        "code": "05016",
+        "name": "Grande Moff"
+    },
+    {
+        "code": "05017",
+        "name": "Rifle-Bo do Kallus"
+    },
+    {
+        "code": "05018",
+        "name": "Bib Fortuna",
+        "subtitle": "Chefe dos Serviçais "
+    },
+    {
+        "code": "05020",
+        "name": "Doutora Aphra",
+        "subtitle": "Caçadora de Artefatos"
+    },
+    {
+        "code": "05021",
+        "name": "Greedo",
+        "subtitle": "Mercenário Azarado"
+    },
+    {
+        "code": "05022",
+        "name": "Traidor Rebelde"
+    },
+    {
+        "code": "05029",
+        "name": "Aayla Secura",
+        "subtitle": "General Jedi"
+    },
+    {
+        "code": "05030",
+        "name": "Guarda do Templo Jedi"
+    },
+    {
+        "code": "05032",
+        "name": "Obi-Wan Kenobi",
+        "subtitle": "Mestre Jedi"
+    },
+    {
+        "code": "05033",
+        "name": "Yoda",
+        "subtitle": "Mestre Envelhecido"
+    },
+    {
+        "code": "05036",
+        "name": "Meditação da Força"
+    },
+    {
+        "code": "05037",
+        "name": "Sabre de Luz do Obi-Wan Kenobi"
+    },
+    {
+        "code": "05039",
+        "name": "Finn",
+        "subtitle": "Soldado da Necessidade"
+    },
+    {
+        "code": "05040",
+        "name": "Rose",
+        "subtitle": "Mecânica Habilidosa"
+    },
+    {
+        "code": "05041",
+        "name": "Wedge Antilles",
+        "subtitle": "Líder de Esquadrão"
+    },
+    {
+        "code": "05042",
+        "name": "Equipe de Morteiro"
+    },
+    {
+        "code": "05043",
+        "name": "Bombardeiro da Resistência"
+    },
+    {
+        "code": "05044",
+        "name": "Rifle Camuflado"
+    },
+    {
+        "code": "05045",
+        "name": "Líder da Rebelião"
+    },
+    {
+        "code": "05047",
+        "name": "Jar Jar Binks",
+        "subtitle": "Exilado Atrapalhado"
+    },
+    {
+        "code": "05048",
+        "name": "Partidário de Jedha"
+    },
+    {
+        "code": "05049",
+        "name": "Saw Gerrera",
+        "subtitle": "Líder Extremista"
+    },
+    {
+        "code": "05050",
+        "name": "Zeb Orrelios",
+        "subtitle": "O Último Lasat"
+    },
+    {
+        "code": "05051",
+        "name": "Boomas Desenfreadas"
+    },
+    {
+        "code": "05052",
+        "name": "Falcão Milenar"
+    },
+    {
+        "code": "05053",
+        "name": "Charme de Malandro"
+    },
+    {
+        "code": "05054",
+        "name": "Rifle-Bo do Zeb Orrelios"
+    },
+    {
+        "code": "05055",
+        "name": "Cruzador Republicano"
+    },
+    {
+        "code": "05057",
+        "name": "Onda de Força"
+    },
+    {
+        "code": "05060",
+        "name": "Batalhão Terrestre"
+    },
+    {
+        "code": "05061",
+        "name": "Posto de Vigia"
+    },
+    {
+        "code": "05062",
+        "name": "Canhão Automático"
+    },
+    {
+        "code": "05063",
+        "name": "Blaster E-11"
+    },
+    {
+        "code": "05065",
+        "name": "Hondo Ohnaka",
+        "subtitle": "Empresário Respeitado"
+    },
+    {
+        "code": "05066",
+        "name": "Tanque Speeder Pirata"
+    },
+    {
+        "code": "05067",
+        "name": "Barganhando"
+    },
+    {
+        "code": "05068",
+        "name": "Agrupar"
+    },
+    {
+        "code": "05069",
+        "name": "Vibrosabre"
+    },
+    {
+        "code": "05070",
+        "name": "HWK-290 Modificada"
+    },
+    {
+        "code": "05071",
+        "name": "Pistola de Cano Bight"
+    },
+    {
+        "code": "05074",
+        "name": "Bastão de Eletrochoque"
+    },
+    {
+        "code": "05075",
+        "name": "Consumido pelo Lado Sombrio"
+    },
+    {
+        "code": "05076",
+        "name": "Trama Sombria"
+    },
+    {
+        "code": "05077",
+        "name": "Ataque Duplo"
+    },
+    {
+        "code": "05078",
+        "name": "Apavorar"
+    },
+    {
+        "code": "05079",
+        "name": "Eu Sou Seu Pai"
+    },
+    {
+        "code": "05080",
+        "name": "Armadilha"
+    },
+    {
+        "code": "05081",
+        "name": "Feitiço de Remoção"
+    },
+    {
+        "code": "05082",
+        "name": "Magia de Bruxa"
+    },
+    {
+        "code": "05083",
+        "name": "Congregações das Irmãs da Noite"
+    },
+    {
+        "code": "05084",
+        "name": "Cansaço da Batalha"
+    },
+    {
+        "code": "05085",
+        "name": "Esmague a Rebelião"
+    },
+    {
+        "code": "05086",
+        "name": "Poderio Imperial"
+    },
+    {
+        "code": "05087",
+        "name": "Terra Queimada"
+    },
+    {
+        "code": "05088",
+        "name": "Explosão de Estilhaços"
+    },
+    {
+        "code": "05089",
+        "name": "Tiro ao Alvo"
+    },
+    {
+        "code": "05090",
+        "name": "Três Passos à Frente"
+    },
+    {
+        "code": "05091",
+        "name": "Ponte de Comando"
+    },
+    {
+        "code": "05092",
+        "name": "Sondar"
+    },
+    {
+        "code": "05093",
+        "name": "Vale Tudo"
+    },
+    {
+        "code": "05094",
+        "name": "Em Perseguição"
+    },
+    {
+        "code": "05095",
+        "name": "Você não Serve para Mim Morto"
+    },
+    {
+        "code": "05096",
+        "name": "Rumores"
+    },
+    {
+        "code": "05097",
+        "name": "Reprimir"
+    },
+    {
+        "code": "05098",
+        "name": "Levantar Voo"
+    },
+    {
+        "code": "05099",
+        "name": "Exceder"
+    },
+    {
+        "code": "05100",
+        "name": "Adaptar"
+    },
+    {
+        "code": "05101",
+        "name": "Ataque Ataru"
+    },
+    {
+        "code": "05102",
+        "name": "Sentidos Apurados"
+    },
+    {
+        "code": "05103",
+        "name": "Investigar"
+    },
+    {
+        "code": "05104",
+        "name": "Força Através da Fraqueza"
+    },
+    {
+        "code": "05105",
+        "name": "Indestrutível"
+    },
+    {
+        "code": "05106",
+        "name": "Ensino Defensivo"
+    },
+    {
+        "code": "05107",
+        "name": "Cabana do Yoda"
+    },
+    {
+        "code": "05108",
+        "name": "Execução de Ataque"
+    },
+    {
+        "code": "05109",
+        "name": "Equipar"
+    },
+    {
+        "code": "05110",
+        "name": "Momento Final"
+    },
+    {
+        "code": "05111",
+        "name": "Mete Bala"
+    },
+    {
+        "code": "05112",
+        "name": "Reparar"
+    },
+    {
+        "code": "05113",
+        "name": "Remodelar"
+    },
+    {
+        "code": "05114",
+        "name": "Modificação Especial"
+    },
+    {
+        "code": "05115",
+        "name": "Campo de Supressão"
+    },
+    {
+        "code": "05116",
+        "name": "Bravata"
+    },
+    {
+        "code": "05117",
+        "name": "Mamata"
+    },
+    {
+        "code": "05118",
+        "name": "Táticas Explosivas"
+    },
+    {
+        "code": "05119",
+        "name": "Impulsivo"
+    },
+    {
+        "code": "05120",
+        "name": "Relaxado, Nojento"
+    },
+    {
+        "code": "05121",
+        "name": "Muamba do Contrabandista"
+    },
+    {
+        "code": "05122",
+        "name": "Cofre da Maz"
+    },
+    {
+        "code": "05123",
+        "name": "Proteção Diplomática"
+    },
+    {
+        "code": "05124",
+        "name": "Na Rampa de Lixo"
+    },
+    {
+        "code": "05125",
+        "name": "Modificar"
+    },
+    {
+        "code": "05126",
+        "name": "Sabedoria Ancestral"
+    },
+    {
+        "code": "05127",
+        "name": "Sinta a Força"
+    },
+    {
+        "code": "05129",
+        "name": "Legados"
+    },
+    {
+        "code": "05130",
+        "name": "Despistar"
+    },
+    {
+        "code": "05131",
+        "name": "Descanso"
+    },
+    {
+        "code": "05132",
+        "name": "Mais Forte Você se Tornou"
+    },
+    {
+        "code": "05133",
+        "name": "A Força está Comigo"
+    },
+    {
+        "code": "05134",
+        "name": "Perserverança"
+    },
+    {
+        "code": "05135",
+        "name": "Resiliente"
+    },
+    {
+        "code": "05136",
+        "name": "Repressão"
+    },
+    {
+        "code": "05138",
+        "name": "Lei e Ordem"
+    },
+    {
+        "code": "05139",
+        "name": "Preparada e Carregada"
+    },
+    {
+        "code": "05140",
+        "name": "Reforçar"
+    },
+    {
+        "code": "05141",
+        "name": "Força nos Números"
+    },
+    {
+        "code": "05142",
+        "name": "Impacto Súbito"
+    },
+    {
+        "code": "05143",
+        "name": "Posição Superior"
+    },
+    {
+        "code": "05144",
+        "name": "Informação de Alvo"
+    },
+    {
+        "code": "05145",
+        "name": "Escudo Bolha"
+    },
+    {
+        "code": "05146",
+        "name": "Equipe de Cobertura"
+    },
+    {
+        "code": "05147",
+        "name": "Enganar"
+    },
+    {
+        "code": "05148",
+        "name": "Briga de Bar"
+    },
+    {
+        "code": "05149",
+        "name": "Contra-Ataque"
+    },
+    {
+        "code": "05150",
+        "name": "Manobra Perigosa"
+    },
+    {
+        "code": "05152",
+        "name": "Confronto"
+    },
+    {
+        "code": "05153",
+        "name": "Saída Precipitada"
+    },
+    {
+        "code": "05154",
+        "name": "Atrair"
+    },
+    {
+        "code": "05155",
+        "name": "Saque Rápido"
+    },
+    {
+        "code": "05156",
+        "name": "Vandalizar"
+    },
+    {
+        "code": "05157",
+        "name": "Bem Relacionado"
+    },
+    {
+        "code": "05158",
+        "name": "Defender"
+    },
+    {
+        "code": "05159",
+        "name": "Mergulhar"
+    },
+    {
+        "code": "05160",
+        "name": "Tempestade de Gelo"
+    },
+    {
+        "code": "05161",
+        "name": "Sem Trapaças"
+    },
+    {
+        "code": "05162",
+        "name": "Abrigo"
+    },
+    {
+        "code": "05163",
+        "name": "Especialista de Apoio"
+    },
+    {
+        "code": "05164",
+        "name": "Arsenal Remoto"
+    },
+    {
+        "code": "05165",
+        "name": "Ferro-Velho"
+    },
+    {
+        "code": "05166",
+        "name": "Guarda-Costas"
+    },
+    {
+        "code": "05167",
+        "name": "Coldre de Saque Rápido"
+    },
+    {
+        "code": "05168",
+        "name": "Espionagem"
+    },
+    {
+        "code": "05169",
+        "name": "Fortalecer"
+    },
+    {
+        "code": "05170",
+        "name": "Ataque Preventivo"
+    },
+    {
+        "code": "05171",
+        "name": "Contato Lucrativo"
+    },
+    {
+        "code": "05172",
+        "name": "Informação Roubada"
+    },
+    {
+        "code": "05173",
+        "name": "Ganhando Terreno"
+    },
+    {
+        "code": "05175",
+        "name": "Área de Pouso da Citadela",
+        "subtitle": "Scarif"
+    },
+    {
+        "code": "05176",
+        "name": "Palácio Imperial",
+        "subtitle": "Coruscant"
+    },
+    {
+        "code": "05177",
+        "name": "Plataforma de Lançamento",
+        "subtitle": "Lar Um"
+    },
+    {
+        "code": "05179",
+        "name": "Arena Petranaki",
+        "subtitle": "Geonosis"
+    },
+    {
+        "code": "05180",
+        "name": "Fosso do Gerador de Energia",
+        "subtitle": "Estrela da Morte I"
+    }
+]

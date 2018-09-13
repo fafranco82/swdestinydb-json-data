@@ -50,13 +50,33 @@
         "size": 180
     },
     {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
+        "cgdb_id_end": 6,
+        "cgdb_id_start": 6,
         "code": "RIV",
         "cycle_code": "LEG",
-        "date_release": null,
+        "date_release": "2018-02-15",
         "name": "Rivals",
         "position": 6,
         "size": 20
+    },
+    {
+        "cgdb_id_end": 12,
+        "cgdb_id_start": 12,
+        "code": "WotF",
+        "cycle_code": "LEG",
+        "date_release": "2018-07-05",
+        "name": "Way of the Force",
+        "position": 7,
+        "size": 160
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "AtG",
+        "cycle_code": "LEG",
+        "date_release": null,
+        "name": "Across the Galaxy",
+        "position": 8,
+        "size": 160
     }
 ]

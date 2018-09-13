@@ -24,6 +24,10 @@
         "name": "Gungan"
     },
     {
+        "code": "inquisitor",
+        "name": "Inquisitor"
+    },
+    {
         "code": "jawa",
         "name": "Jawa"
     },
@@ -40,8 +44,16 @@
         "name": "Location"
     },
     {
+        "code": "mod",
+        "name": "Mod"
+    },
+    {
         "code": "pilot",
         "name": "Pilot"
+    },
+    {
+        "code": "podracer",
+        "name": "Podracer"
     },
     {
         "code": "scoundrel",

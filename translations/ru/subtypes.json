@@ -1,11 +1,11 @@
 [
     {
         "code": "ability",
-        "name": "Fähigkeit"
+        "name": "Способность"
     },
     {
         "code": "artillery",
-        "name": "Artillerie"
+        "name": "Artillery"
     },
     {
         "code": "bounty-hunter",
@@ -13,15 +13,19 @@
     },
     {
         "code": "droid",
-        "name": "Droide"
+        "name": "Дроид"
     },
     {
         "code": "equipment",
-        "name": "Ausrüstung"
+        "name": "Снаряжение"
     },
     {
         "code": "gungan",
         "name": "Gungan"
+    },
+    {
+        "code": "inquisitor",
+        "name": "Inquisitor"
     },
     {
         "code": "jawa",
@@ -40,8 +44,16 @@
         "name": "Location"
     },
     {
+        "code": "mod",
+        "name": "Mod"
+    },
+    {
         "code": "pilot",
         "name": "Pilot"
+    },
+    {
+        "code": "podracer",
+        "name": "Podracer"
     },
     {
         "code": "scoundrel",
@@ -65,14 +77,14 @@
     },
     {
         "code": "vehicle",
-        "name": "Fahrzeug"
+        "name": "Транспорт"
     },
     {
         "code": "weapon",
-        "name": "Waffen"
+        "name": "Оружие"
     },
     {
         "code": "witch",
-        "name": "Hexe"
+        "name": "Witch"
     }
 ]

@@ -1,26 +1,26 @@
 [
     {
         "code": "battlefield",
-        "name": "Schlachtfeld"
+        "name": "Поле боя"
     },
     {
         "code": "character",
-        "name": "Charakter"
+        "name": "Персонаж"
     },
     {
         "code": "event",
-        "name": "Ereignis"
+        "name": "Событие"
     },
     {
         "code": "plot",
-        "name": "Strategie"
+        "name": "Plot"
     },
     {
         "code": "support",
-        "name": "Unterstützung"
+        "name": "Поддержка"
     },
     {
         "code": "upgrade",
-        "name": "Aufwertung"
+        "name": "Улучшение"
     }
 ]

@@ -99,20 +99,33 @@
             "minLength": 1,
             "type": "string"
         },
-        "subtype_code": {
-            "minLength": 1,
-            "type": "string"
+        "subtypes": {
+            "items": {
+                "minLength": 1,
+                "type": "string"
+            },
+            "minItems": 0,
+            "type": "array"
         },
         "text": {
             "minLength": 1,
             "type": "string"
         },
         "ttscardid": {
-            "pattern": "^[0-9]{3,5}$",
-            "type": "string"
+            "oneOf": [
+                {
+                    "pattern": "^[0-9]{3,5}$",
+                    "type": "string"
+                },
+                {
+                    "maxLength": 0,
+                    "minLength": 0,
+                    "type": "string"
+                }
+            ]
         },
         "type_code": {
-            "minLength": 1,
+            "minLength": 0,
             "type": "string"
         }
     },

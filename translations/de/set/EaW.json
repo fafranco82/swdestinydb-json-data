@@ -202,12 +202,14 @@
         "code": "03034",
         "flavor": "\"This party's over.\"",
         "name": "Mace Windu",
-        "subtitle": "Jedi Champion"
+        "subtitle": "Jedi Champion",
+        "text": "<b>Action</b> - Remove this die to defeat a character with 2 or less remaining health."
     },
     {
         "code": "03035",
-        "flavor": "\"Look, good against remotes is one thing. Good against the living? That's something else.\" <cite>Han Solo</cite>",
-        "name": "Übungsdrohne"
+        "flavor": "\"Gegen so ein Spielzeug zu bestehen ist eine Sache. Gegen echte Menschen, das ist was anderes.\" <cite>Han Solo</cite>",
+        "name": "Übungsdrohne",
+        "text": "Du darfst die Modifikatorenseiten dieses Würfels so abhandeln, dass sie ein beliebiges Symbol auf 1 deiner blauen Charakterwürfel modifizieren."
     },
     {
         "code": "03036",

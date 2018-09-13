@@ -1,0 +1,611 @@
+[
+    {
+        "code": "03001",
+        "name": "Ciena Ree",
+        "subtitle": "Pilota Adepta"
+    },
+    {
+        "code": "03002",
+        "name": "General Hux",
+        "subtitle": "Comandante Aspirante"
+    },
+    {
+        "code": "03003",
+        "name": "MagnaGuarda"
+    },
+    {
+        "code": "03004",
+        "name": "Thrawn",
+        "subtitle": "Mestre Estrategista"
+    },
+    {
+        "code": "03006",
+        "name": "Droide Sonda"
+    },
+    {
+        "code": "03007",
+        "name": "Rifle Disruptor Iônico T-7"
+    },
+    {
+        "code": "03008",
+        "name": "Quinlan Vos",
+        "subtitle": "Discípulo Sombrio"
+    },
+    {
+        "code": "03009",
+        "name": "Servo do Lado Obscuro"
+    },
+    {
+        "code": "03010",
+        "name": "Sétima Irmã",
+        "subtitle": "Aquisidora Ágil"
+    },
+    {
+        "code": "03011",
+        "name": "Grande Inquisidor",
+        "subtitle": "Legalista dos Sith"
+    },
+    {
+        "code": "03013",
+        "name": "Droide de Busca ID9"
+    },
+    {
+        "code": "03014",
+        "name": "Tentação"
+    },
+    {
+        "code": "03015",
+        "name": "Sabre de Luz do Grande Inquisidor"
+    },
+    {
+        "code": "03016",
+        "name": "Bazine Netal",
+        "subtitle": "Mestra Manipuladora"
+    },
+    {
+        "code": "03017",
+        "name": "Bossk",
+        "subtitle": "Caçador de Wookiee"
+    },
+    {
+        "code": "03018",
+        "name": "Cad Bane",
+        "subtitle": "Mercenário Cruel"
+    },
+    {
+        "code": "03019",
+        "name": "Guarda Gamorreano"
+    },
+    {
+        "code": "03021",
+        "name": "Lançador de Cabo"
+    },
+    {
+        "code": "03022",
+        "name": "Pistola Blaster LL-30"
+    },
+    {
+        "code": "03023",
+        "name": "Morteiro Relby-V10"
+    },
+    {
+        "code": "03024",
+        "name": "General Rieekan",
+        "subtitle": "Planejador Defensivo"
+    },
+    {
+        "code": "03025",
+        "name": "Hera Syndulla",
+        "subtitle": "Lider Fênix"
+    },
+    {
+        "code": "03026",
+        "name": "K-2SO",
+        "subtitle": "Droide Reprogramado"
+    },
+    {
+        "code": "03027",
+        "name": "Piloto Novato"
+    },
+    {
+        "code": "03030",
+        "name": "Blaster Rifle A280"
+    },
+    {
+        "code": "03031",
+        "name": "Ahsoka Tano",
+        "subtitle": "Agente da Força"
+    },
+    {
+        "code": "03032",
+        "name": "Instrutor Jedi"
+    },
+    {
+        "code": "03033",
+        "name": "Kanan Jarrus",
+        "subtitle": "Jedi Rebelde"
+    },
+    {
+        "code": "03034",
+        "name": "Mace Windu",
+        "subtitle": "Campeão Jedi"
+    },
+    {
+        "code": "03035",
+        "name": "Esfera de Treinamento"
+    },
+    {
+        "code": "03036",
+        "name": "Mestre do Conselho"
+    },
+    {
+        "code": "03037",
+        "name": "Coordenação"
+    },
+    {
+        "code": "03038",
+        "name": "Ezra Bridger",
+        "subtitle": "Ladrão Sensível a Força"
+    },
+    {
+        "code": "03039",
+        "name": "Lando Calrissian",
+        "subtitle": "Empreendedor Galáctico"
+    },
+    {
+        "code": "03040",
+        "name": "Sabine Wren",
+        "subtitle": "Especialista em Explosivos"
+    },
+    {
+        "code": "03041",
+        "name": "Guerreiro Wookiee"
+    },
+    {
+        "code": "03043",
+        "name": "Estilingue de Energia"
+    },
+    {
+        "code": "03044",
+        "name": "Pechincheiro Durão"
+    },
+    {
+        "code": "03045",
+        "name": "Airspeeder T-47"
+    },
+    {
+        "code": "03046",
+        "name": "Canhão Sônico LR1K"
+    },
+    {
+        "code": "03047",
+        "name": "Cajado Elétrico"
+    },
+    {
+        "code": "03048",
+        "name": "Piloto Natural"
+    },
+    {
+        "code": "03049",
+        "name": "Sabre de Luz Antigo"
+    },
+    {
+        "code": "03050",
+        "name": "Psicometria"
+    },
+    {
+        "code": "03051",
+        "name": "Sabre de Luz de Shoto"
+    },
+    {
+        "code": "03052",
+        "name": "Depósito de Armas"
+    },
+    {
+        "code": "03053",
+        "name": "Cortador BD-1 Vibro-AX"
+    },
+    {
+        "code": "03054",
+        "name": "Extorsão"
+    },
+    {
+        "code": "03055",
+        "name": "Sniper Noturna X-8"
+    },
+    {
+        "code": "03057",
+        "name": "Cubo da Sorte"
+    },
+    {
+        "code": "03058",
+        "name": "Granadas EMP"
+    },
+    {
+        "code": "03059",
+        "name": "Liderança por Exemplo"
+    },
+    {
+        "code": "03060",
+        "name": "Blaster de Dispersão"
+    },
+    {
+        "code": "03061",
+        "name": "Requisitar"
+    },
+    {
+        "code": "03062",
+        "name": "Fogo Cruzado"
+    },
+    {
+        "code": "03063",
+        "name": "Larguem suas Armas!"
+    },
+    {
+        "code": "03064",
+        "name": "Apoio Imperial"
+    },
+    {
+        "code": "03065",
+        "name": "Preparar para a Guerra"
+    },
+    {
+        "code": "03066",
+        "name": "Alerta Vermelho"
+    },
+    {
+        "code": "03067",
+        "name": "Táticas implacáveis"
+    },
+    {
+        "code": "03068",
+        "name": "Levar como Prisioneiro"
+    },
+    {
+        "code": "03069",
+        "name": "QG Imperial"
+    },
+    {
+        "code": "03070",
+        "name": "Às suas Ordens"
+    },
+    {
+        "code": "03071",
+        "name": "Presa Encurralada"
+    },
+    {
+        "code": "03072",
+        "name": "Indomável"
+    },
+    {
+        "code": "03073",
+        "name": "Tudo Será Meu"
+    },
+    {
+        "code": "03074",
+        "name": "Mate Todos"
+    },
+    {
+        "code": "03075",
+        "name": "Inflexível"
+    },
+    {
+        "code": "03076",
+        "name": "Traiçoeiro"
+    },
+    {
+        "code": "03077",
+        "name": "Ódio"
+    },
+    {
+        "code": "03078",
+        "name": "Anarquia"
+    },
+    {
+        "code": "03079",
+        "name": "Registros de Recompensas"
+    },
+    {
+        "code": "03080",
+        "name": "Compra de Estoque"
+    },
+    {
+        "code": "03081",
+        "name": "Coerção"
+    },
+    {
+        "code": "03082",
+        "name": "Só Assuntos de Negócios"
+    },
+    {
+        "code": "03083",
+        "name": "Bens Furtados"
+    },
+    {
+        "code": "03084",
+        "name": "Sombras Gêmeas"
+    },
+    {
+        "code": "03085",
+        "name": "Vínculo Hutt"
+    },
+    {
+        "code": "03086",
+        "name": "Letal"
+    },
+    {
+        "code": "03087",
+        "name": "Sem Sobreviventes"
+    },
+    {
+        "code": "03088",
+        "name": "Centro de Detenção"
+    },
+    {
+        "code": "03089",
+        "name": "Tudo quieto no Front"
+    },
+    {
+        "code": "03090",
+        "name": "Fortificado"
+    },
+    {
+        "code": "03092",
+        "name": "Retaguarda"
+    },
+    {
+        "code": "03093",
+        "name": "Reentrada Imprudente"
+    },
+    {
+        "code": "03094",
+        "name": "Instruções de Ataque"
+    },
+    {
+        "code": "03095",
+        "name": "Ataque Rápido"
+    },
+    {
+        "code": "03096",
+        "name": "Comício de Ajuda"
+    },
+    {
+        "code": "03097",
+        "name": "Gerador de Escudo"
+    },
+    {
+        "code": "03098",
+        "name": "Em Paz"
+    },
+    {
+        "code": "03099",
+        "name": "Conceder"
+    },
+    {
+        "code": "03100",
+        "name": "Equilibrar"
+    },
+    {
+        "code": "03101",
+        "name": "Colhendo o Cristal"
+    },
+    {
+        "code": "03102",
+        "name": "Missão Secreta"
+    },
+    {
+        "code": "03103",
+        "name": "Confie na Força"
+    },
+    {
+        "code": "03104",
+        "name": "Pira Funerária"
+    },
+    {
+        "code": "03105",
+        "name": "Aposentos do Yoda"
+    },
+    {
+        "code": "03106",
+        "name": "Destemido"
+    },
+    {
+        "code": "03107",
+        "name": "Contra as Probabilidades"
+    },
+    {
+        "code": "03108",
+        "name": "Avaliar"
+    },
+    {
+        "code": "03109",
+        "name": "Mau Pressentimento"
+    },
+    {
+        "code": "03110",
+        "name": "Traição"
+    },
+    {
+        "code": "03111",
+        "name": "Personificar"
+    },
+    {
+        "code": "03112",
+        "name": "Patrulha Local"
+    },
+    {
+        "code": "03113",
+        "name": "Fuga Ágil"
+    },
+    {
+        "code": "03114",
+        "name": "Tenacidade"
+    },
+    {
+        "code": "03115",
+        "name": "Interferência de Funcionamento"
+    },
+    {
+        "code": "03116",
+        "name": "Pintura Termal"
+    },
+    {
+        "code": "03117",
+        "name": "Rebeldia"
+    },
+    {
+        "code": "03118",
+        "name": "Fogo de Cobertura"
+    },
+    {
+        "code": "03119",
+        "name": "Posicionar Esquadrão"
+    },
+    {
+        "code": "03120",
+        "name": "Retroceder"
+    },
+    {
+        "code": "03121",
+        "name": "Finta"
+    },
+    {
+        "code": "03122",
+        "name": "Manobra de Flanco"
+    },
+    {
+        "code": "03123",
+        "name": "Calor da Batalha"
+    },
+    {
+        "code": "03124",
+        "name": "Encurralado"
+    },
+    {
+        "code": "03125",
+        "name": "O Dia é Nosso"
+    },
+    {
+        "code": "03126",
+        "name": "Zona de Aterrissagem"
+    },
+    {
+        "code": "03127",
+        "name": "Equipe Técnica"
+    },
+    {
+        "code": "03128",
+        "name": "Batalha de Vontades"
+    },
+    {
+        "code": "03129",
+        "name": "Visão da Força"
+    },
+    {
+        "code": "03130",
+        "name": "Atração de Sabre de Luz"
+    },
+    {
+        "code": "03131",
+        "name": "Treino de Sabre de Luz"
+    },
+    {
+        "code": "03132",
+        "name": "Sem Rendição"
+    },
+    {
+        "code": "03133",
+        "name": "Algo Familiar"
+    },
+    {
+        "code": "03134",
+        "name": "Vozes Gritam"
+    },
+    {
+        "code": "03135",
+        "name": "Instintos Aguçados"
+    },
+    {
+        "code": "03136",
+        "name": "Fúria da Batalha"
+    },
+    {
+        "code": "03137",
+        "name": "Incapacitar"
+    },
+    {
+        "code": "03138",
+        "name": "Persuadir"
+    },
+    {
+        "code": "03139",
+        "name": "Batedor de Carteira"
+    },
+    {
+        "code": "03140",
+        "name": "Ameaçar"
+    },
+    {
+        "code": "03141",
+        "name": "Falcatrua"
+    },
+    {
+        "code": "03142",
+        "name": "Trégua"
+    },
+    {
+        "code": "03143",
+        "name": "Provisões Roubadas"
+    },
+    {
+        "code": "03144",
+        "name": "Plano Secreto"
+    },
+    {
+        "code": "03146",
+        "name": "Missão Perigosa"
+    },
+    {
+        "code": "03147",
+        "name": "Resistência"
+    },
+    {
+        "code": "03148",
+        "name": "Parceria"
+    },
+    {
+        "code": "03149",
+        "name": "Reciclar"
+    },
+    {
+        "code": "03150",
+        "name": "Desperdiçar"
+    },
+    {
+        "code": "03151",
+        "name": "Prossiga"
+    },
+    {
+        "code": "03152",
+        "name": "Armadura de Plastoide"
+    },
+    {
+        "code": "03153",
+        "name": "Monastério B'Omarr",
+        "subtitle": "Teth"
+    },
+    {
+        "code": "03155",
+        "name": "Base Espacial de Garel"
+    },
+    {
+        "code": "03156",
+        "name": "Academia Imperial",
+        "subtitle": "Lothal"
+    },
+    {
+        "code": "03157",
+        "name": "Praça Principal",
+        "subtitle": "Vashka"
+    }
+]
