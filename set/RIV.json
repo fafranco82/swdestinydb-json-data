@@ -23,7 +23,7 @@
             "-"
         ],
         "subtitle": "Conflicted Apprentice",
-        "text": "You cannot have Darth Vader on your team.\n[special] - Discard a hero card from your hand to give a character 2 shields or discard a villian card from your hand to deal 2 damage to a character.",
+        "text": "You cannot have Darth Vader on your team.\n[special] - Discard a hero card from your hand to give a character 2 shields or discard a villain card from your hand to deal 2 damage to a character.",
         "ttscardid": "47000",
         "type_code": "character"
     },
@@ -81,7 +81,9 @@
             "-"
         ],
         "subtitle": "Black Sun Operative",
-        "subtype_code": "bounty-hunter",
+        "subtypes": [
+            "bounty-hunter"
+        ],
         "text": "Before one of your characters is defeated, you may move a <i>weapon</i> from them to this character.",
         "ttscardid": "47002",
         "type_code": "character"
@@ -110,7 +112,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "jawa",
+        "subtypes": [
+            "jawa"
+        ],
         "text": "After you activate this character, you may discard one of your supports or upgrades that costs 2 or more from play to gain 1 resource.",
         "ttscardid": "47003",
         "type_code": "character"
@@ -156,8 +160,10 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
-        "text": "Play only on an exhasted character.",
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Play only on an exhausted character.",
         "ttscardid": "47005",
         "type_code": "upgrade"
     },
@@ -203,7 +209,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "Ambush.\n",
         "ttscardid": "47007",
         "type_code": "support"
@@ -249,7 +257,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "[special] - Deal 2 unblockable damage to a character.",
         "ttscardid": "47009",
         "type_code": "upgrade"
@@ -340,7 +350,9 @@
         "position": 15,
         "rarity_code": "S",
         "set_code": "RIV",
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "<b>Action</b> - Exhaust this upgrade to reroll any number of attached character's character or upgrade dice.",
         "ttscardid": "47014",
         "type_code": "upgrade"
@@ -367,8 +379,10 @@
             "Sp1",
             "-"
         ],
-        "subtype_code": "weapon",
-        "text": "[special] - Deal 2 damage to a character. Then you may reroll ths die instead of removing it from your pool.",
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "[special] - Deal 2 damage to a character. Then you may reroll this die instead of removing it from your pool.",
         "ttscardid": "47015",
         "type_code": "upgrade"
     },
@@ -378,7 +392,7 @@
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "gray",
-        "flavor": "While heavy and dcumbersome, some species could wield vibroswords one-handed.",
+        "flavor": "While heavy and cumbersome, some species could wield vibroswords one-handed.",
         "has_die": true,
         "has_errata": false,
         "illustrator": " ",
@@ -395,7 +409,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.",
         "ttscardid": "47016",
         "type_code": "upgrade"

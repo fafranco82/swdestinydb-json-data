@@ -134,7 +134,9 @@
             "Sp",
             "Sp"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Discard a support from play.",
         "ttscardid": "1304",
         "type_code": "support"
@@ -161,7 +163,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Remove all shield from all of an opponent's characters.",
         "ttscardid": "1305",
         "type_code": "support"
@@ -188,7 +192,9 @@
             "Sp",
             "Sp"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Red character only.\n[special] - Choose a Red die. If it is your die, resolve it, increasing its value by 2. If it is an opponent's die, remove it.",
         "ttscardid": "1306",
         "type_code": "upgrade"
@@ -214,7 +220,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.\n[special] - Force an opponent to deal 2 damage to their characters, distributing the damage as they wish.",
         "ttscardid": "1307",
         "type_code": "upgrade"
@@ -354,7 +362,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue character only.\n[special] - Deal 1 unblockable damage to another character. Then you may turn one of its character or upgrade dice to any side.",
         "ttscardid": "1312",
         "type_code": "upgrade"
@@ -381,7 +391,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue Character only.\n<b>Action</b> - Remove this die to turn a die to a side showing a blank ([blank]).",
         "ttscardid": "1313",
         "type_code": "upgrade"
@@ -407,7 +419,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Blue character only.\n[special] - Deal 2 damage to a character. If any of this damage is blocked by shields, reroll this die instead of removing it from your pool.",
         "ttscardid": "1314",
         "type_code": "upgrade"
@@ -434,7 +448,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "[special] - Switch this upgrade with a Blue <i>ability</i> upgrade in your hand, ignoring its play restrictions. Then you may spend 1 resource to roll its die into your pool, if able.",
         "ttscardid": "1315",
         "type_code": "upgrade"
@@ -461,7 +477,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "[special] - Deal 2 damage to each of an opponent's characters. Discard this upgrade from play.",
         "ttscardid": "1316",
         "type_code": "upgrade"
@@ -488,7 +506,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Remove a die. You may take one additional action.",
         "ttscardid": "1317",
         "type_code": "support"
@@ -627,7 +647,9 @@
             "Sp",
             "Sp"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Yellow Character only.\n[special] - Spend 5 resources to choose a character. That character is defeated after this round ends.",
         "ttscardid": "1322",
         "type_code": "upgrade"
@@ -654,7 +676,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "[special] - Deal 1 damage each to up to 3 different characters.",
         "ttscardid": "1323",
         "type_code": "upgrade"
@@ -681,7 +705,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.\n[special] - Remove one of your dice showing melee damage ([melee]) to deal 3 damage to a character.",
         "ttscardid": "1324",
         "type_code": "upgrade"
@@ -708,7 +734,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "[special] - Remove all shields from a character. You may spend 1 resource to remove one of its character or upgrade dice.",
         "ttscardid": "1325",
         "type_code": "upgrade"
@@ -874,7 +902,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Deal 1 damage to a character. Reroll this die instead of removing it from your pool.",
         "ttscardid": "1331",
         "type_code": "support"
@@ -901,7 +931,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "[special] - Look at an opponent's hand and discard the cheapest card from it (you choose in the case of a tie).",
         "ttscardid": "1332",
         "type_code": "upgrade"
@@ -929,7 +961,9 @@
             "1R",
             "+1R"
         ],
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "ttscardid": "1333",
         "type_code": "upgrade"
     },
@@ -1067,7 +1101,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue character only.\n[special] - Give 3 shields to your characters, distributed as you wish.",
         "ttscardid": "1338",
         "type_code": "upgrade"
@@ -1094,7 +1130,9 @@
             "+1R",
             "-"
         ],
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "After you play this upgrade, give attached character 1 shield, or 2 shields instead in the first round of play.",
         "ttscardid": "1339",
         "type_code": "upgrade"
@@ -1120,7 +1158,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Blue character only.\n[special] - Give a character 2 shields or deal 2 unblockable damage to a character.",
         "ttscardid": "1340",
         "type_code": "upgrade"
@@ -1147,7 +1187,9 @@
             "2Sh",
             "2R"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue character only.\nBefore attached character is defeated, this upgrade becomes a support for the rest of the game (it starts ready).",
         "ttscardid": "1341",
         "type_code": "upgrade"
@@ -1174,7 +1216,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "[special] - Reroll this die and one of your other dice.  Do not remove this die from your pool after resolving this ability.",
         "ttscardid": "1342",
         "type_code": "support"
@@ -1200,7 +1244,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "[special] - Remove a die showing damage ([melee] or [ranged])",
         "ttscardid": "1343",
         "type_code": "upgrade"
@@ -1341,7 +1387,9 @@
             "2R",
             "Sp"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Play a Yellow event from your discard pile or hand for free.",
         "ttscardid": "1348",
         "type_code": "support"
@@ -1368,7 +1416,9 @@
             "4Sh",
             "2Dr"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "The shields from this die can be given to any of your characters distributed as you wish.",
         "ttscardid": "1349",
         "type_code": "upgrade"
@@ -1395,7 +1445,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Ambush.\nAfter you play this upgrade, force an opponent to choose and remove one of their dice.",
         "ttscardid": "1350",
         "type_code": "upgrade"
@@ -1422,7 +1474,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "[special] - Reroll up to 2 of an opponent's dice.",
         "ttscardid": "1351",
         "type_code": "upgrade"
@@ -1476,7 +1530,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "ttscardid": "1353",
         "type_code": "upgrade"
     },
@@ -1502,7 +1558,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "[special] - Deal 2 unblockable damage to a character.",
         "ttscardid": "1354",
         "type_code": "upgrade"
@@ -1529,7 +1587,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Red character only.\nAfter you play this upgrade, you may draw a card.",
         "ttscardid": "1355",
         "type_code": "upgrade"
@@ -1555,7 +1615,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue Character Only.\n[special] - Remove a die to deal a character damage equal to the value showing on that die (specials and blanks are zeroes).",
         "ttscardid": "1356",
         "type_code": "upgrade"
@@ -1582,7 +1644,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "To play, spot a Blue character.\n[special] - Choose and do two of the following: deal 1 damage to a character, or gain 1 resource, or give a character 1 shield.",
         "ttscardid": "1357",
         "type_code": "upgrade"
@@ -1609,7 +1673,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.\n[special] - Deal 2 unblockable damage to a character.",
         "ttscardid": "1358",
         "type_code": "upgrade"
@@ -1636,7 +1702,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue Character only.\n[special] - Deal an opponent's character 1 damage for each card in that opponent's hand.",
         "ttscardid": "1359",
         "type_code": "upgrade"
@@ -1663,7 +1731,9 @@
             "+1R",
             "-"
         ],
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "After you play this upgrade, you may reroll any number of your dice or any number of an opponent's dice.",
         "ttscardid": "1360",
         "type_code": "upgrade"
@@ -1689,7 +1759,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "[special] - Turn one of your dice to a side not showing damage ([ranged] or [melee]).",
         "ttscardid": "1361",
         "type_code": "upgrade"
@@ -1715,7 +1787,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Ambush. Redeploy.",
         "ttscardid": "1362",
         "type_code": "upgrade"
@@ -1767,7 +1841,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Yellow character only.\n[special] - Resolve a special ability ([special]) on another card in play as if it were your card.",
         "ttscardid": "1364",
         "type_code": "upgrade"
@@ -1794,7 +1870,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "[special] - Remove a die showing melee damage ([melee]) and give attached character 1 shield.",
         "ttscardid": "1365",
         "type_code": "upgrade"
@@ -1821,7 +1899,9 @@
             "Sp1",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "To play, spot a Yellow character.\n[special] - Deal 3 damage to each of an opponent's characters. Discard this upgrade from play.",
         "ttscardid": "1366",
         "type_code": "upgrade"
@@ -2019,7 +2099,9 @@
         "position": 78,
         "rarity_code": "C",
         "set_code": "AW",
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Attached character has the Guardian keyword.",
         "ttscardid": "1407",
         "type_code": "upgrade"
@@ -2236,7 +2318,9 @@
         "position": 90,
         "rarity_code": "U",
         "set_code": "AW",
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "<b>Action</b> - If attached character has no shields, exhaust this upgrade to give it 1 shield.",
         "ttscardid": "1419",
         "type_code": "upgrade"
@@ -2884,7 +2968,7 @@
         "position": 126,
         "rarity_code": "U",
         "set_code": "AW",
-        "text": "Ambush.\nReroll any number of an opponent's dice. Then remove all of ther dice showing blanks ([blank]).",
+        "text": "Ambush.\nReroll any number of an opponent's dice. Then remove all of their dice showing blanks ([blank]).",
         "ttscardid": "1455",
         "type_code": "event"
     },
@@ -2957,7 +3041,7 @@
         "position": 130,
         "rarity_code": "U",
         "set_code": "AW",
-        "text": "Force an opponent to choose to either deal one of their exausted characters 2 damage or choose and remove 2 of their dice.",
+        "text": "Force an opponent to choose to either deal one of their exhausted characters 2 damage or choose and remove 2 of their dice.",
         "ttscardid": "1459",
         "type_code": "event"
     },
@@ -3082,7 +3166,9 @@
         "position": 137,
         "rarity_code": "U",
         "set_code": "AW",
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Yellow character only.\nBefore attached character would be defeated, instead heal 5 damage from it and discard this upgrade from play.",
         "ttscardid": "1466",
         "type_code": "upgrade"
@@ -3568,7 +3654,9 @@
         "position": 164,
         "rarity_code": "C",
         "set_code": "AW",
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "If attached character takes melee damage ([melee]), discard this upgrade.\n<b>Action</b> - Exhaust this upgrade to give attached character 1 shield.",
         "ttscardid": "1923",
         "type_code": "upgrade"

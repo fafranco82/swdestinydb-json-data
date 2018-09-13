@@ -94,11 +94,12 @@ class ValidatorBase:
         for setcode in [s.get('code') for s in sorted(self.collections['set'].values(), key=lambda s: s.get('position'))]:
             self.logger.verbose_print("Loading cards from set '%s'...\n" % setcode, 1)
             json_path = os.path.join(json_dir, "%s.json" % setcode)
-            check_file_access(json_path)
-            cards = self.load_json_file(json_path)
+            exists = not test_file_access(json_path)
+            if exists:
+                cards = self.load_json_file(json_path)
 
-            if self.validate_collection('card', cards):
-                self.load_collections('card', cards)
+                if self.validate_collection('card', cards):
+                    self.load_collections('card', cards)
 
 
     def load_collections(self, thing, collection):
@@ -166,10 +167,15 @@ class ValidatorBase:
     def custom_check_card(self, card):
         validations = []
         #check foreing codes
-        for collection in ["affiliation", "faction", "rarity", "type", "subtype"]:
+        for collection in ["affiliation", "faction", "rarity", "type"]:
             field = collection + "_code"
             if field in card and not card.get(field) in self.collections[collection]:
                 validations.append("%s code '%s' does not exist in card '%s'" % (collection, card.get(field), card.get('code')))
+
+        #check subtypes
+        if 'subtypes' in card:
+            for subtype in [s for s in card.get('subtypes') if not s in self.collections['subtype']]:
+                validations.append("Subtype code '%s' does not exist in card '%s'" % (subtype, card.get('code')))
 
         #check reprint of
         if 'reprint_of' in card and not card.get('reprint_of') in self.collections['card']:
@@ -269,7 +275,10 @@ class Validator(ValidatorBase):
     def validate(self):
         ValidatorBase.validate(self)
 
-        self.validate_locales()
+        if self.validation_errors == 0:
+            self.validate_locales()
+        else:
+            self.logger.verbose_print("There were errors in main files. Validation of translated files skipped.\n", 0)
 
     def validate_locales(self):
         if os.path.exists(self.i18n_path):
@@ -329,15 +338,18 @@ def check_dir_access(path):
     else:
         sys.exit("%s is not a readable directory")
 
-def check_file_access(path):
+def test_file_access(path):
     if not os.path.isfile(path):
-        sys.exit("%s does not exist" % path)
+        return "%s does not exist" % path
     elif os.access(path, os.R_OK):
         return
     else:
-        sys.exit("%s is not a readable file")    
+        return "%s is not a readable file"
 
-
+def check_file_access(path):
+    result = test_file_access(path)
+    if result:
+        sys.exit(result)
 
 if __name__ == "__main__":
     args = parse_commandline()    

@@ -1,30 +1,30 @@
 [
     {
         "code": "AW",
-        "name": "Erwachen"
+        "name": "Awakenings"
     },
     {
         "code": "EaW",
-        "name": "Imperium im Krieg"
+        "name": "Empire at War"
     },
     {
         "code": "LEG",
-        "name": "Vermächtnisse"
+        "name": "Legacies"
     },
     {
         "code": "RIV",
-        "name": "Rivalen - Draft-Set"
+        "name": "Rivals"
     },
     {
         "code": "SoR",
-        "name": "Geist der Rebellion"
+        "name": "Душа восстания"
     },
     {
         "code": "TPG",
-        "name": "Starter-Set für 2 Spieler"
+        "name": "Two-Player Game"
     },
     {
         "code": "WotF",
-        "name": "Weg der Macht"
+        "name": "Way of the Force"
     }
 ]

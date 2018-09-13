@@ -137,7 +137,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Discard a support that costs 2 or less from play.",
         "ttscardid": "2504",
         "type_code": "support"
@@ -165,7 +167,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "Ambush.\n[special] - Look at 2 random cards in an opponent's hand and discard any of those cards that are events.",
         "ttscardid": "2505",
         "type_code": "support"
@@ -192,7 +196,9 @@
             "5RD1",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "To play, spot a Red character.\n<b>Action</b> - Discard a card from your hand to turn this die to the side that has a value 1 higher than the value showing on this die.",
         "ttscardid": "2506",
         "type_code": "upgrade"
@@ -333,7 +339,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Spend 2 resources to deal damage to a character equal to the damage on it.",
         "ttscardid": "2511",
         "type_code": "support"
@@ -360,7 +368,9 @@
             "0Sh",
             "-"
         ],
-        "subtype_code": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "The X on this die is equal to the number of ID9 Seeker Droid dice in your pool <em>(when resolving dice, resolve them one at a time).</em>",
         "ttscardid": "2512",
         "type_code": "upgrade"
@@ -388,7 +398,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "[special] - Choose an opponent. That opponent may draw 2 cards. If they do, you gain 2 resources. If they do not, you draw 2 cards.",
         "ttscardid": "2513",
         "type_code": "upgrade"
@@ -415,7 +427,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Blue character only.\n[special] - Turn a character die to a side showing a blank ([blank]). Reroll this die instead of removing it from your pool.",
         "ttscardid": "2514",
         "type_code": "upgrade"
@@ -556,7 +570,9 @@
             "4R2",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "After you activate this support, you may remove one of your Yellow character dice to gain 1 resource.",
         "ttscardid": "2519",
         "type_code": "support"
@@ -583,7 +599,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "Yellow character only.\n[special] - Choose a character. Remove one of its character dice or spend 1 resource to remove 2 of its character dice.",
         "ttscardid": "2520",
         "type_code": "upgrade"
@@ -610,7 +628,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Ambush.\nRedeploy.\n[special] - Turn another one of your dice to a side showing ranged damage ([ranged]).",
         "ttscardid": "2521",
         "type_code": "upgrade"
@@ -637,7 +657,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "<b>Action</b> - Spend 2 resources and remove this die showing ranged damage ([ranged]) to deal that damage to each of an opponent's characters.",
         "ttscardid": "2522",
         "type_code": "upgrade"
@@ -779,7 +801,9 @@
             "2R",
             "Sp"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Resolve another side of this die.",
         "ttscardid": "2527",
         "type_code": "support"
@@ -806,7 +830,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Force an opponent to deal damage to their characters, distributed as they wish, or lose resource, until they have dealt and lost a combined total of 4.",
         "ttscardid": "2528",
         "type_code": "support"
@@ -833,7 +859,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.\n[special] - Give 2 shields to your characters, distributed as you wish.",
         "ttscardid": "2529",
         "type_code": "upgrade"
@@ -1002,7 +1030,9 @@
             "Sp",
             "Sp"
         ],
-        "subtype_code": "title",
+        "subtypes": [
+            "title"
+        ],
         "text": "Blue character only.\n[special] - Exhaust this upgrade and spend 2 resources to ready a character.",
         "ttscardid": "2535",
         "type_code": "upgrade"
@@ -1029,7 +1059,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "[special] - Give each of your characters 1 shield.",
         "ttscardid": "2536",
         "type_code": "upgrade"
@@ -1170,7 +1202,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "[special] - Remove a die showing a value of 2 or less.",
         "ttscardid": "2541",
         "type_code": "support"
@@ -1197,7 +1231,9 @@
             "1Dc",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "After you resolve this die, you may spend 1 resource to reroll it instead of removing it from your pool.",
         "ttscardid": "2542",
         "type_code": "upgrade"
@@ -1223,7 +1259,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "[special] - Look at an opponent's hand and choose 2 cards in it. Then discard those cards unless that opponent spends 2 resources.",
         "ttscardid": "2543",
         "type_code": "upgrade"
@@ -1250,7 +1288,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "[special] - Exhaust a support or draw 2 cards.",
         "ttscardid": "2544",
         "type_code": "support"
@@ -1278,7 +1318,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "artillery",
+        "subtypes": [
+            "artillery"
+        ],
         "text": "Before resolving this die, you may exhaust one of your characters. If you do, you do not have to pay the resource cost on this die.",
         "ttscardid": "2545",
         "type_code": "support"
@@ -1305,7 +1347,9 @@
             "1Sh",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "The resource cost of attached character's character dice modified by this die is decreased by 1.",
         "ttscardid": "2546",
         "type_code": "upgrade"
@@ -1332,7 +1376,9 @@
             "2Sh",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "After you activate attached character, you may ready a <i>vehicle</i>.",
         "ttscardid": "2547",
         "type_code": "upgrade"
@@ -1359,7 +1405,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "<b>Action</b> - Heal 2 damage from attached character. Place this upgrade on the bottom of your deck.",
         "ttscardid": "2548",
         "type_code": "upgrade"
@@ -1386,7 +1434,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue character only.\n[special] - Draw cards equal to the value showing on an <i>equipment</i> or <i>weapon</i> die. You may remove that die.",
         "ttscardid": "2549",
         "type_code": "upgrade"
@@ -1413,7 +1463,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "After you activate attached character, if it has another Blue <i>weapon</i>, you may give it 1 shield or remove 1 shield from a character.",
         "ttscardid": "2550",
         "type_code": "upgrade"
@@ -1466,7 +1518,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Before this die deals damage to a character, you may remove all shields from that character.",
         "ttscardid": "2552",
         "type_code": "upgrade"
@@ -1520,7 +1574,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Ambush.\n<b>Action</b> - Spend 1 resource to turn this die to any side.",
         "ttscardid": "2554",
         "type_code": "upgrade"
@@ -1548,7 +1604,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "ttscardid": "2555",
         "type_code": "support"
     },
@@ -1575,7 +1633,9 @@
             "-",
             "-"
         ],
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "Before you activate attached character, return this upgrade to your hand unless you spend 1 resource.",
         "ttscardid": "2556",
         "type_code": "upgrade"
@@ -1603,7 +1663,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "[special] - Discard a <i>droid</i> or <i>vehicle</i> from play. Discard this upgrade from play.",
         "ttscardid": "2557",
         "type_code": "upgrade"
@@ -1629,7 +1691,9 @@
             "1R",
             "-"
         ],
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "After you activate attached character, you may activate one of your supports.",
         "ttscardid": "2558",
         "type_code": "upgrade"
@@ -1656,7 +1720,9 @@
             "Sp",
             "-"
         ],
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "[special] - Deal 1 damage each to up to 4 different characters.\n<b>Action</b> - Remove one of attached character's character dice to turn this die to any side.",
         "ttscardid": "2559",
         "type_code": "upgrade"
@@ -2127,7 +2193,9 @@
         "position": 86,
         "rarity_code": "U",
         "set_code": "EaW",
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "<b>Action</b> - Exhaust this upgrade and remove one of attached character's dice to deal 2 unblockable damage to a character.",
         "ttscardid": "2615",
         "type_code": "upgrade"
@@ -2453,7 +2521,7 @@
         "position": 104,
         "rarity_code": "C",
         "set_code": "EaW",
-        "text": "Before one of your Blue characters is defeated, you may move an upgrade from it to another one of your characterss <em>(return that upgrade's die to its card)</em>.",
+        "text": "Before one of your Blue characters is defeated, you may move an upgrade from it to another one of your characters <em>(return that upgrade's die to its card)</em>.",
         "ttscardid": "2633",
         "type_code": "support"
     },
@@ -2489,7 +2557,9 @@
         "position": 106,
         "rarity_code": "U",
         "set_code": "EaW",
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "After you activate attached character, you may give it 1 shield and draw a card.",
         "ttscardid": "2635",
         "type_code": "upgrade"
@@ -2645,14 +2715,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "Jeff Lee Johnson",
         "is_unique": false,
         "name": "Running Interference",
         "position": 115,
         "rarity_code": "U",
         "set_code": "EaW",
-        "text": "After you take an action, you may exhaust this support to choose an opponent. That opponent cannot take the same action that you just took on their next turn.",
+        "text": "After you take an action, you may set this support aside to choose an opponent. That opponent cannot take the same action that you just took on their next turn.",
         "ttscardid": "2644",
         "type_code": "support"
     },
@@ -2670,7 +2740,9 @@
         "position": 116,
         "rarity_code": "C",
         "set_code": "EaW",
-        "subtype_code": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "After you activate attached character, force an opponent to choose and deal 1 damage to one of their characters. Then you may discard this upgrade to deal 1 damage to that character.",
         "ttscardid": "2645",
         "type_code": "upgrade"
@@ -2849,7 +2921,7 @@
         "position": 126,
         "rarity_code": "U",
         "set_code": "EaW",
-        "text": "After you claim the battlefield, you may place 1 damage on this support.\n<b>Action</b> - Exhaust this support to move any amoount of damage from it to a character <em>(this ignores shields)</em>.",
+        "text": "After you claim the battlefield, you may place 1 damage on this support.\n<b>Action</b> - Exhaust this support to move any amount of damage from it to a character <em>(this ignores shields)</em>.",
         "ttscardid": "2655",
         "type_code": "support"
     },
@@ -3012,7 +3084,9 @@
         "position": 135,
         "rarity_code": "U",
         "set_code": "EaW",
-        "subtype_code": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue character only.\n<b>Action</b> - Remove one of attached character's character dice to give it 1 shield.",
         "ttscardid": "2664",
         "type_code": "upgrade"
@@ -3193,7 +3267,9 @@
         "position": 145,
         "rarity_code": "C",
         "set_code": "EaW",
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "After you play this upgrade, give attached character 1 shield.\nAttached character can have 1 additional shield.",
         "ttscardid": "2704",
         "type_code": "upgrade"
@@ -3320,7 +3396,9 @@
         "position": 152,
         "rarity_code": "C",
         "set_code": "EaW",
-        "subtype_code": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "Attached character gains +1 health.",
         "ttscardid": "2711",
         "type_code": "upgrade"

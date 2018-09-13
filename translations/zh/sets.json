@@ -13,14 +13,18 @@
     },
     {
         "code": "RIV",
-        "name": "Rivals"
+        "name": "棋逢对手"
     },
     {
         "code": "SoR",
-        "name": "Spirit of Rebellion"
+        "name": "义军之魂"
     },
     {
         "code": "TPG",
         "name": "双人对战"
+    },
+    {
+        "code": "WotF",
+        "name": "原力之路"
     }
 ]

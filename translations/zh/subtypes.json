@@ -5,11 +5,11 @@
     },
     {
         "code": "artillery",
-        "name": "Artillery"
+        "name": "炮台"
     },
     {
         "code": "bounty-hunter",
-        "name": "Bounty Hunter"
+        "name": "赏金猎人"
     },
     {
         "code": "droid",
@@ -21,35 +21,35 @@
     },
     {
         "code": "jawa",
-        "name": "Jawa"
+        "name": "贾瓦"
     },
     {
         "code": "jedi",
-        "name": "Jedi"
+        "name": "绝地"
     },
     {
         "code": "location",
-        "name": "Location"
+        "name": "地区"
     },
     {
         "code": "pilot",
-        "name": "Pilot"
+        "name": "驾驶员"
     },
     {
         "code": "scoundrel",
-        "name": "Scoundrel"
+        "name": "侠盗"
     },
     {
         "code": "sith",
-        "name": "Sith"
+        "name": "西斯"
     },
     {
         "code": "title",
-        "name": "Title"
+        "name": "头衔"
     },
     {
         "code": "trooper",
-        "name": "Trooper"
+        "name": "士兵"
     },
     {
         "code": "vehicle",
@@ -61,6 +61,6 @@
     },
     {
         "code": "witch",
-        "name": "Witch"
+        "name": "女巫"
     }
 ]
