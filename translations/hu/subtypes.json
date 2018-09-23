@@ -41,7 +41,7 @@
     },
     {
         "code": "location",
-        "name": "Location"
+        "name": "Helyszín"
     },
     {
         "code": "mod",
@@ -69,7 +69,7 @@
     },
     {
         "code": "title",
-        "name": "Title"
+        "name": "Titulus"
     },
     {
         "code": "trooper",
