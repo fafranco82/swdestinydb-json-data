@@ -1,0 +1,125 @@
+[
+    {
+        "code": "07001",
+        "flavor": "\"Avverto grande paura in te.\"",
+        "name": "Conte Dooku",
+        "subtitle": "Darth Tyranus",
+        "text": "Dopo che hai attivato questo personaggio, puoi girare 1 suo dado su una faccia \"danno in mischia\" ([melee]). Gira 1 dado \"danno in mischia\" ([melee]) di un avversario su una faccia a tua scelta."
+    },
+    {
+        "code": "07002",
+        "flavor": "\"Sta a me ucciderlo!\"",
+        "name": "Quinto Fratello",
+        "subtitle": "Sicario Intimidatorio",
+        "text": "[special] - Risolvi 1 tuo dado miglioria <i>blu</i> non <b>Capacità</b> senza rimuoverlo dalla tua riserva."
+    },
+    {
+        "code": "07003",
+        "name": "Reietto Sensibile alla Forza",
+        "text": "Finché questo personaggio possiede 1 o più danni, riduci di 1 il costo della prima <b>Capacità</b> <i>blu</i> che giochi su di esso ogni round."
+    },
+    {
+        "code": "07004",
+        "flavor": "\"C'è stato un risveglio. L'hai percepito?\"",
+        "name": "Snoke",
+        "subtitle": "Leader Supremo",
+        "text": "<b>Azione Straordinaria</b> - infliggi 1 danno a un altro tuo personaggio per risolvere 1 suo dado personaggio, aumentando di 2 il suo valore."
+    },
+    {
+        "code": "07005",
+        "name": "Sopprimere la Speranza",
+        "text": "Gioca questa carta solo se un avversario possiede 1 o più dadi \"vuoto\" ([blank]).\nScarta un qualsiasi numero di carte dalla tua mano per infliggere un pari ammontare di danni secondari ([indirect]) a quell'avversario."
+    },
+    {
+        "code": "07006",
+        "name": "Rituale Oscuro",
+        "text": "Rimetti in gioco 1 tuo personaggio sconfitto e colloca su di esso un ammontare di danni pari alla metà della sua salute (arrotondando per difetto)."
+    },
+    {
+        "code": "07007",
+        "name": "Mancanza di Fede",
+        "text": "Avvista un personaggio <i>blu></i> dal valore in punti pari o superiore a 15 per rimuovere tutti i dadi personaggio di un personaggio."
+    },
+    {
+        "code": "07008",
+        "name": "Senza Scampo",
+        "text": "Gioca questa carta solo se un avversario non ha carte nella sua mano.\nInfliggi 2 danni a un personaggio di quell'avversario."
+    },
+    {
+        "code": "07009",
+        "name": "Potere dal Dolore",
+        "text": "Avvista 2 personaggi <i>blu</i> o Snoke per infliggere 1 danno a un tuo personaggio. Poi gira 1 dado personaggio o una miglioria di quel personaggio su una faccia a tua scelta."
+    },
+    {
+        "code": "07010",
+        "name": "Tripla Minaccia",
+        "text": "Ripeti il tiro di 3 dadi personaggio. Poi gira 1 di quei dadi su una faccia a tua scelta."
+    },
+    {
+        "code": "07011",
+        "name": "Ostacolare",
+        "text": "Rimuovi fino a due dadi \"vuoto\" ([blank])."
+    },
+    {
+        "code": "07012",
+        "name": "Potenziamento Oscuro",
+        "text": "<b>Azione</b> - Esaurisci questo supporto e rimuovi un dado \"vuoto\" ([blank]) per infliggere 1 danno secondario ([indirect]) a un avversario."
+    },
+    {
+        "code": "07013",
+        "name": "Veliero Solare del Conte Dooku",
+        "text": "Dopo che hai attivato questo supporto, puoi pescare 1 carta."
+    },
+    {
+        "code": "07014",
+        "flavor": "\"Posso sentire il potere del puro spirito risuonare in questo globo.\" <cite>Madre Talzin</cite>",
+        "name": "Sfera di Bardotta",
+        "text": "[special] - Scarta 1 carta dalla cima di 1 mazzo. Se il costo di quella carta è dispari, infliggi 1 danno a un personaggio."
+    },
+    {
+        "code": "07015",
+        "name": "Spada Laser del Quinto Fratello",
+        "text": "Finché questa miglioria è assegnata al Quinto Fratello, puoi risolvere questo dado come se non fosse modificatore.\nDopo che hai risolto questo dado, puoi infliggere 1 danno a un personaggio."
+    },
+    // {
+    //     "code": "07016",
+    //     "name": "",
+    //     "text": "\n[special] - "
+    // },
+    {
+        "code": "07017",
+        "flavor": "\"Mi sento dilaniato. Voglio liberarmi da questa pena.\" <cite>Kylo Ren</cite>",
+        "name": "Tormento",
+        "text": "Dopo che al personaggio con questa miglioria son stati inflitti danni, puoi esaurire questa miglioria per ottenere 1 risorsa."
+    },
+    {
+        "code": "07018",
+        "flavor": "\"Combattono così tanto per avere così poco.\"",
+        "name": "Arihnda Pryce",
+        "subtitle": "Governatore Senza Scrupoli",
+        "text": "[special] - Gira 1 altro tuo dado su una facci a tua scelta. Se controlli il campo di battaglia, puoi risolvere quel dado aumentando di 1 il suo valore."
+    },
+    {
+        "code": "07019",
+        "name": "Esecutore",
+        "text": "Dopo che un personaggio dell'avversario è stato sconfitto, puoi tirare questo dado nella tua riserva."
+    },
+    // {
+    //     "code": "07020",
+    //     "flavor": "\"Intensify forward power!\"",
+    //     "name": "皮耶特上将",
+    //     "subtitle": "Ambitious Admiral",
+    //     "text": "在你启动该角色后，可以将你的任意数量的<i>载具</i>骰和非独有角色骰转到数值为1的面。"
+    // },
+    {
+        "code": "07021",
+        "name": "Generale Grevious",
+        "subtitle": "Temibile Cyborg",
+        "text": "Ignora le restrizioni di gioco delle carte <b>Arma</b> giocate su questo personaggio. Questo personaggio può possedere 1 miglioria aggiuntiva.\n<b>Azione Straordinaria</b> - Se ci sono 4 dadi <b>Arma</b> di questo personaggio nella tua riserva, ingliggi 4 danni a un personaggio."
+    },    
+    {
+        "code": "07154",
+        "name": "Macrobinocoli",
+        "text": "[special] - Guarda la mano di un avversario. Fornisci 1 scudo a un personaggio."
+    }
+]
