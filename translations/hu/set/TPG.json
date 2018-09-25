@@ -22,7 +22,7 @@
         "code": "04004",
         "flavor": "\"A katonáim mindjárt berontanak és megölik magukat.\" <cite>Phasma Kapitány</cite>",
         "name": "Phasma Kapitány sugárvetője",
-        "text": "While this upgrade is attached to Captain Phasma, it has the Redeploy keyword."
+        "text": "Amíg ez a fejlesztés Phasma kapitányra van csatolva, megkapja az Áthelyezés kulcsszót."
     },
     {
         "code": "04005",
@@ -242,7 +242,7 @@
     },
     {
         "code": "04045",
-        "name": "Vélszriadó",
+        "name": "Vészriadó",
         "text": "Dobd újra az ellenfeled bármennyi sebzést mutató kockáját ([ranged] vagy [melee])."
     },
     {

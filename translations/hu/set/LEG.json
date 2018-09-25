@@ -380,7 +380,7 @@
     {
         "code": "05066",
         "flavor": "\"De, ahogy mondani szoktam, egy szép nagy tank többet ér száz szelíd szónál.\" <cite>Hondo Ohnaka</cite>",
-        "name": "Pirate Speeder Tank",
+        "name": "Kalóz siklótank",
         "text": "[special] - Okozz 2 sebzést egy karakternek, adj 2 pajzsot egy karakternek, és hajts végre még egy akciót!"
     },
     {
@@ -959,7 +959,7 @@
     },
     {
         "code": "05180",
-        "name": "ENergiagenerátor akna",
+        "name": "Energiagenerátor akna",
         "subtitle": "Halálcsillag I",
         "text": "<b>Uralom</b> - Fordíts egy kockát tetszőleges oldalára!"
     }
