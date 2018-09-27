@@ -5,7 +5,7 @@
     },
     {
         "code": "artillery",
-        "name": "Artillery"
+        "name": "Tüzérség"
     },
     {
         "code": "bounty-hunter",
@@ -25,7 +25,7 @@
     },
     {
         "code": "inquisitor",
-        "name": "Inquisitor"
+        "name": "Inkvizítor"
     },
     {
         "code": "jawa",
@@ -37,7 +37,7 @@
     },
     {
         "code": "leader",
-        "name": "Leader"
+        "name": "Vezető"
     },
     {
         "code": "location",
@@ -53,11 +53,11 @@
     },
     {
         "code": "podracer",
-        "name": "Podracer"
+        "name": "Fogat"
     },
     {
         "code": "scoundrel",
-        "name": "Scoundrel"
+        "name": "Gazfickó"
     },
     {
         "code": "sith",
@@ -65,7 +65,7 @@
     },
     {
         "code": "spectre",
-        "name": "Spectre"
+        "name": "Lidérc"
     },
     {
         "code": "title",
@@ -73,7 +73,7 @@
     },
     {
         "code": "trooper",
-        "name": "Trooper"
+        "name": "Gyalogos"
     },
     {
         "code": "vehicle",
@@ -85,6 +85,6 @@
     },
     {
         "code": "witch",
-        "name": "Witch"
+        "name": "Boszorkány"
     }
 ]
