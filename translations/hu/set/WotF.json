@@ -1,0 +1,855 @@
+[
+    {
+        "code": "07001",
+        "flavor": "\"Érzem, hogy félsz tőlem.\"",
+        "name": "Dooku Gróf",
+        "subtitle": "Darth Tyranus",
+        "text": "Miután aktiváltad ezt a karaktert, az egyik karakterkockáját közelharci sebzést ([melee]) mutató oldalára fordíthatod. Fordítsd egy ellenfeled közelharci sebzést ([melee]) mutató kockáját tetszőleges oldalára!"
+    },
+    {
+        "code": "07002",
+        "flavor": "\"Én fogom megölni!\"",
+        "name": "Ötödik fívér",
+        "subtitle": "Félelmetes rendfenntartó",
+        "text": "[special] - Használd fel egy Kék, nem-<i>képesség</i> fejlesztéskockádat anélkül, hogy eltávolítanád a kockakészletedből!"
+    },
+    {
+        "code": "07003",
+        "name": "Erőérzékeny kitaszított",
+        "text": "Amíg ezen a karakteren 1 vagy több sebzés van, csökkentsd 1-gyel minden fordulóban az első Kék <i>képesség</i> költségét, amit kijátszol rá!"
+    },
+    {
+        "code": "07004",
+        "flavor": "\"Feltámadt egy ősi erő. Érezted?\"",
+        "name": "Snoke",
+        "subtitle": "Legfőbb vezér",
+        "text": "<b>Erőteljes akció</b> - Okozz 1 sebzést egy másik karakterednek, hogy felhasználhasd annak az egyik karakterkockáját, 2-vel megnövelve az értékét!"
+    },
+    {
+        "code": "07005",
+        "name": "Szétzúzott remények",
+        "text": "Csak akkor játszhatod ki, ha az ellenfélnek legalább egy üres oldalt ([blank]) mutató kockája van.\nDobj el tetszőleges számú lapot a kezedből, és okozz annyi közvetett sebzést ([indirect]) egy ellenfelednek, ahány lapot eldobtál!"
+    },
+    {
+        "code": "07006",
+        "name": "Sötét rituálé",
+        "text": "Helyezd vissza egy legyőzött karakteredet kimerítve a játékba, és helyezz rá az életereje felével megegyező sebzést, lefelé kerekítve!"
+    },
+    {
+        "code": "07007",
+        "name": "Hitetlen beszéd",
+        "text": "Jelölj ki egy 15 vagy több pontos Kék karaktert, hogy eltávolítsd egy karakter összes karakterkockáját!"
+    },
+    {
+        "code": "07008",
+        "name": "Nincs kiút",
+        "text": "Csak akkor játszhatod ki, ha egy ellenfelednek nincs lapja a kezében.\nOkozz 2 sebzést ugyanazon ellenfeled egyik karakterének!"
+    },
+    {
+        "code": "07009",
+        "name": "Fáldalom szülte hatalom",
+        "text": "Jelölj ki 2 Kék karaktert vagy Snoke-ot és okozz 1 sebzést egy karakterednek! Ezután fordítsd annak a karakternek egy karakter- vagy fejlesztéskockáját tetszőleges oldalára!"
+    },
+    {
+        "code": "07010",
+        "name": "Hármas fenyegetés",
+        "text": "Dobj újra 3 karakterkockádat! Ezután az egyiket fordítsd tetszőleges oldalára!"
+    },
+    {
+        "code": "07011",
+        "name": "Aláásás",
+        "text": "Távolíts el legfeljebb 2 üres oldalt ([blank]) mutató kockát!."
+    },
+    {
+        "code": "07012",
+        "name": "Sötét felhatalmazás",
+        "text": "<b>Akció</b> - Merítsd ki ezt a támogatást és távolítsd el egy üres oldalt ([blank]) mutató kockádat, hogy okozz 1 közvetett sebzést ([indirect]) egy ellenfelednek!"
+    },
+    {
+        "code": "07013",
+        "name": "Dooku Gróf napvitorlása",
+        "text": "Miután aktiváltad ezt a támogatást, húzhatsz egy kártyát."
+    },
+    {
+        "code": "07014",
+        "flavor": "\"Érzem a hatalmát az elrabolt lelkeknek, ahogy lüktetnek a gömbben.\" <cite>Talzin anya</cite>",
+        "name": "Bardottai gömb",
+        "text": "[special] - Dobd el egy pakli felső lapját! Ha az eldobott lap kijátszási költsége páratlan, okozz 1 sebzést egy karakternek!"
+    },
+    {
+        "code": "07015",
+        "name": "Az Ötödik fívér fénykardja",
+        "text": "Amíg ez a fejlesztés az Ötödik Fívéren van, ennek a kockának a módosítóit mutató oldalát úgy használhatod, mintha nem módosító lenne.\nMiután felhasználtad ezt a kockát, okozhatsz 1 sebzést egy karakternek."
+    },
+    {
+        "code": "07016",
+        "name": "Erő megfélemlítés",
+        "text": "Csak Kék karakternek.\n[special] - Távolítsd el egy ellenfél karakterkockáját, kivéve ha az ellenfél nem sebez 2-t a karakterkocka karakterébe!"
+    },
+    {
+        "code": "07017",
+        "flavor": "\"Úgy érzem, szétszakadok. Nem bírom már ezt tovább.\" <cite>Kylo Ren</cite>",
+        "name": "Kín",
+        "text": "Miután a csatolt karakter sebzést kapott, kimerítheted ezt a fejlesztést, hogy kapj 1 erőforrást."
+    },
+    {
+        "code": "07018",
+        "flavor": "\"Elkeseredetten küzdenek a szánalmas zsákmányért.\"",
+        "name": "Arihnda Pryce",
+        "subtitle": "Gátlástalan kormányzó",
+        "text": "[special] - Fordítsd egy másik kockádat tetszőleges oldalára! Ha te birtoklod a csatateret, felhasználhatod azt a kockát, 1-gyel megnövelve az értéket."
+    },
+    {
+        "code": "07019",
+        "name": "Hóhér",
+        "text": "Miután egy ellenfél karaktere legyőzötté válik, bedobhatod ezt a kockát a kockakészletedbe."
+    },
+    {
+        "code": "07020",
+        "flavor": "\"Fokozzák maximumra a tűzerőt!\"",
+        "name": "Firmus Piett",
+        "subtitle": "Ambiciózus admirális",
+        "text": "Miután aktiváltad ezt a karaktert, fordítsd tetszőleges számú <i>jármű-</i> és nem egyedi karakterkockádat 1-est mutató oldalára!"
+    },
+    {
+        "code": "07021",
+        "name": "Grievous Tábornok",
+        "subtitle": "Félelmetes kiborg",
+        "text": "Hagyj figyelmen kívül minden kijátszási megkötést, amikor <i>fegyvert</i> játszol ki erre a karakterre! Egy ráadás fejlesztése lehet.\n<b>Erőteljes akció</b> - Ha ennek a karakternek 4 <i>fegyver</i>kockája van a kockakészletében, okozz 4 sebzést egy karakternek!"
+    },
+    {
+        "code": "07022",
+        "name": "A háború művészete",
+        "text": "Jelölj ki egy Piros karaktert, és fedd fel egy ellenfeled kézben tartott lapjait! Minden felfedett kártya után távolíts el egy kockát, ami ugyanakkora értéket mutat, mint az adott kártya!"
+    },
+    {
+        "code": "07023",
+        "flavor": "\"Na mondd, milyen érzés meghalni?\" <cite>Grievous tábornok</cite>",
+        "name": "Ádáz roham",
+        "text": "Jelölj ki két Piros karaktert vagy Grievous tábornokot, hogy az egyik karaktered minden <i>fegyver</i>kockáját a kockakészletedbe dobd!"
+    },
+    {
+        "code": "07024",
+        "name": "Mesterséges pótlás",
+        "text": "Játssz ki egy fejlesztést a kezedből egy karakterre! Ezután gyógyíts 1 sebzést azon a karakteren!"
+    },
+    {
+        "code": "07025",
+        "name": "Tüzet nyiss!",
+        "text": "Csak akkor játszhatod ki, ha ez az első akció a fordulóban <em>(még egyik játékos sem hajtott végre akciót)</em>.\nOkozz 3 közvetett sebzést ([indirect]) egy ellenfélnek!"
+    },
+    {
+        "code": "07026",
+        "name": "Lerohanás",
+        "text": "Csak akkor játszhatod ki, ha több támogatáskockád van a kockakészletedben, mint ahány karaktere van az ellenfelednek a játékban.\nHelyezd irányításod alá a csatateret! Használhatod az uralom képességét!"
+    },
+    {
+        "code": "07027",
+        "name": "Teszteljárás",
+        "text": "Aktiváld legfeljebb 2 támogatásodat! Ezután, ha ezek közül valamelyik támogatáskockával sebzést mutató oldalt ([ranged], [melee] vagy [indirect]) dobtál, kapsz 1 erőforrást."
+    },
+    {
+        "code": "07028",
+        "flavor": "\"A Jedik úgynevezett harcművészetét megtanultam.\" <cite>Grievous tábornok</cite>",
+        "name": "Állig felfegyverezve",
+        "text": "Válassz egy <i>fegyvert</i> a kezedből és játszd ki, annyival csökkentve a kijátszási költségét, ahány <i>fegyvered</i> van az egyik karaktereden!"
+    },
+    {
+        "code": "07029",
+        "name": "Blokád",
+        "text": "Az előkészületek után az ellenfeled veszít 1 erőforrást."
+    },
+    {
+        "code": "07030",
+        "name": "Éghajlatzavaró szonda",
+        "text": "<b>Akció</b> - Merítsd ki ezt a támogatást, és okozz 2 közvetett sebzést ([indirect]) minden játékosnak, magaddal kezdve!"
+    },
+    {
+        "code": "07031",
+        "flavor": "\"Élvezettel zúzlak szét!\" <cite>Grievous tábornok</cite>",
+        "name": "Grievous tábornok keréksiklója",
+        "text": "<b>Erőteljes akció</b> - Költs el 1 erőforrást, vagy jelöld ki Grievous tábornokot, hogy felfrissítsd ezt a támogatást!"
+    },
+    {
+        "code": "07032",
+        "name": "Birodalmi csapatszállító",
+        "text": "A kockáján lévő X értéke megegyezik a játékban lévő nem egyedi karaktereid számával."
+    },
+    {
+        "code": "07033",
+        "name": "Bolygóbombázás",
+        "text": "Rajtaütés.\nMiután kijátszottad ezt a támogatást, annyi közvetett sebzést ([indirect]) okozhatsz egy ellenfélnek, ahány <i>járművedet</i> ki tudod jelölni."
+    },
+    {
+        "code": "07034",
+        "name": "Hóhér lézerfejsze",
+        "text": "Miután egy ellenfél karaktere legyőzötté válik, bedobhatod ezt a kockát a kockakészletedbe."
+    },
+    {
+        "code": "07035",
+        "name": "DJ",
+        "subtitle": "Fondorlatos zsivány",
+        "text": "Miután eltávolítottad egy ellenfeled egy vagy több kockáját, okozhatsz 1 közvetett sebzést ([indirect]) annak az ellenfélnek, minden eltávolított kocka után."
+    },
+    {
+        "code": "07036",
+        "flavor": "\"Nem alkuszom!\"",
+        "name": "Jabbaa a Hutt",
+        "subtitle": "Hírhedt gengszter",
+        "text": "[special] - Okozz annyi közvetett sebzést ([indirect]) egy ellenfélnek, ahány kockád speciális oldalt ([indirect]) mutat <em>(beleértve ezt is)</em>!"
+    },
+    {
+        "code": "07037",
+        "name": "Mandalori elikommandós",
+        "text": "<b>Erőteljes akció</b> - Játssz ki egy <i>felszerelést</i> vagy <i>fegyvert</i> a kezedből erre a karakterre! Ezután okozz 1 sebzést egy karakternek!"
+    },
+    {
+        "code": "07038",
+        "flavor": "\"Ezt a versenyt nem éled túl, büdös rabszolga!\"",
+        "name": "Sebulba",
+        "subtitle": "Gyilkos fogathajtó",
+        "text": "[special] - Helyezz 1 erőforrást egy játékban lévő támogatásra, vagy távolíts el 1 erőforrást egy játékban lévő támogatásról!"
+    },
+    {
+        "code": "07039",
+        "name": "Ha törik, ha szakad",
+        "text": "Távolíts el egy 2 vagy nagyobb értéket mutató kockát! Ezután okozz 1 közvetett sebzést ([indirect]) magadnak!"
+    },
+    {
+        "code": "07040",
+        "name": "Önteltség",
+        "text": "Jelölj ki egy Sárga karaktert, hogy veled kezdve minden játékos válasszon és dobjon el 2 lapot a kezéből!"
+    },
+    {
+        "code": "07041",
+        "name": "Túlzott önhittség",
+        "text": "Jelölj ki 2 Sárga karaktert vagy Jabba, a huttot, hogy felhasználd egy karakterkockádat anélkül, hogy eltávolítanád azt a kockakészletedből!"
+    },
+    {
+        "code": "07042",
+        "name": "Gaztett",
+        "text": "Rajtaütés.\nMozgass 1 sebzést egy ellenfeled kártyájáról egy másik játékban lévő kártyára <em>(hagyd figyelmen kívül a pajzsokat)</em>!"
+    },
+    {
+        "code": "07043",
+        "name": "Kifizetve",
+        "text": "Add egy ellenfelednek 2 erőforrásodat, hogy felhasználd az egyik karakter- vagy fejlesztéskockáját, mintha a sajátod lenne!"
+    },
+    {
+        "code": "07044",
+        "name": "Bűntársak",
+        "text": "Használd fel tetszőleges megszakítást mutató ([disrupt]) kockádat úgy, mintha közvetett sebzést ([indirect]) mutatnának, vagy fordítva!"
+    },
+    {
+        "code": "07045",
+        "name": "Vita",
+        "text": "Válassz egy ellenfelet, aki eldönti, hogy veszít 1 erőforrást, vagy eldob egy lapot a kezéből!"
+    },
+    {
+        "code": "07046",
+        "name": "Rosszakarat",
+        "text": "Csak akkor játszhatod ki, ha egy vagy több karakterkockád üres oldalt ([blank]) mutat.\nTávolíts el egy kockát!"
+    },
+    {
+        "code": "07047",
+        "flavor": "\"Bantha-abrak leszel!\" <cite>Sebulba</cite>",
+        "name": "Mindig Sebulba győz",
+        "text": "Dobj el egy támogatást a játékból, amin 1 vagy több jelző van!"
+    },
+    {
+        "code": "07048",
+        "name": "Kínos szituáció",
+        "text": "Az ellenfelednek választania kell egy kockát. Ezután távolíts el egy másik kockát!"
+    },
+    {
+        "code": "07049",
+        "flavor": "\"Protokolldroid vagyok, szakterületem az etikett, a szokások, a tolmácsolás, és a kínzás.\"",
+        "name": "Triplazéró",
+        "text": "Miután okoztál magadnak 1 közvetett sebzést ([indirect]), okozhatsz egy ellenfelednek 1 közvetett sebzést."
+    },
+    {
+        "code": "07050",
+        "name": "Sebulba fogata",
+        "text": "Rajtaütés.\nMiután felhasználtad ezt a kockát, okozhatsz 1 közvetett sebzést ([indirect]) egy ellenfélnek, vagy jelöld ki Sebulbát, és okozz 1 sebzést egy karakternek!"
+    },
+    {
+        "code": "07051",
+        "name": "Félelmetes",
+        "text": "[special] - Okozz1 sebzést egy ellenfeled karakterének! Ha a sebzést nem blokkolták, akkor átmozgathatsz <i>felszerelést</i> vagy <i>fegyvert</i> arról a karakterről annak az ellenfélnek egy másik karakterére."
+    },
+    {
+        "code": "07052",
+        "name": "Alattomos taktika",
+        "text": "[special] - Okozz 1 közvetett sebzést ([indirect]) egy ellenfélnek! Felhasználhatod egy másik kockádat."
+    },
+    {
+        "code": "07053",
+        "flavor": "\"A lelki béke hazugság, csak a szenvedély létezik.\" <cite>A Sith Kódex</cite>",
+        "name": "A sötétség útja",
+        "text": "Válaszd ki az egyik legyőzött karaktered kockáját, és dobd be a kockakészletedbe! Tedd félre miután felhasználtad vagy eltávolították!"
+    },
+    {
+        "code": "07054",
+        "flavor": "\"Együtt le tudjuk győzni őt!\"",
+        "name": "Ezra Bridger",
+        "subtitle": "Feltörekvő Jedi",
+        "text": "<b>Erőteljes akció</b> - Ha ezen a karakteren egy vagy két fejlesztés van, húzz egy lapot, vagy húzz 2 lapot ha 3 vagy több fejlesztés van rajta!"
+    },
+    {
+        "code": "07055",
+        "name": "Jedi őrszem",
+        "text": "Az előkészületek után adj 1 pajzsot egy karakternek!\n[special] - Okozz 2 sebzést egy karakternek, vagy okozz 3 sebzést egy karakternek, ha ezen a karakteren 3 vagy több pajzs van!"
+    },
+    {
+        "code": "07056",
+        "name": "Luke Skywalker",
+        "subtitle": "Vonakodó tanító",
+        "text": "Ennek a kockának a pajzs ([shield]) oldalait felhasználhatod úgy is, mintha közelharci sebzést ([melee]) mutatnának.\n<b>Erőteljes akció</b> - Helyezz át egy Kék <i>képességet</i> erről a karakterről egy másik Kék karakterre!"
+    },
+    {
+        "code": "07057",
+        "flavor": "\"Nem minden az, aminek látszik.\"",
+        "name": "Plo Koon",
+        "subtitle": "Jedi védelmező",
+        "text": "Ez a karakter megkapja a játékban lévő összes nem egyedi karaktered képességét."
+    },
+    {
+        "code": "07058",
+        "name": "Kellemes emlékek",
+        "text": "Válassz legfeljebb 3 lapot egy játékos dobott lapjai közül, majd tetszőleges sorrendben helyezd őket a paklijának az aljára! Tedd félre ezt a kártyát!"
+    },
+    {
+        "code": "07059",
+        "name": "Loth-farkas kötelék",
+        "text": "Adj legfeljebb 2 Kék karakterednek 1 pajzsot! Aktiválhatod őket tetszőleges sorrendben."
+    },
+    {
+        "code": "07060",
+        "name": "Luke, a tanító",
+        "text": "Jelölj ki 2 Kék karaktert vagy Luke Skywalker-t, hogy kijátssz a kezedből vagy a dobott lapjaid közül egy Kék <i>képesség</i>kártyát, 1-gyel csökkentve a költségét!"
+    },
+    {
+        "code": "07061",
+        "name": "Megbékélés",
+        "text": "Távolíts el egy karakterkockát! Ezután adj a karakterének 2 pajzsot!"
+    },
+    {
+        "code": "07062",
+        "name": "Taszítás",
+        "text": "Fordíts egy karakterkockát tetszőleges oldalára! Fordíts egy fejlesztéskockát tetszőleges oldalára! Fordíts egy támogatáskockát tetszőleges oldalára!"
+    },
+    {
+        "code": "07063",
+        "flavor": "\"Ennél tisztábban nem is látni az utat.\" <cite>Plo Koon</cite>",
+        "name": "Új célok",
+        "text": "Jelölj ki egy tervet, hogy húzz 3 lapot!"
+    },
+    {
+        "code": "07064",
+        "name": "Állhatatos",
+        "text": "Mozgass 1 sebzést egy Kék karakteredről egy másik karakterre, vagy 2 sebzést, ha nincs lap a kidobott lapjaid között <em>(a pajzsokat hagyd figyelmen kívül)</em>!"
+    },
+    {
+        "code": "07065",
+        "name": "Plo Koon vadászgépe",
+        "text": "Miután aktiváltad ezt a támogatást, átfordíthatod egy nem egyedi karakterkockádat tetszőleges oldalára. Ha ki tudod jelölni Plo Koont, felhasználhatod azt a kockát."
+    },
+    {
+        "code": "07066",
+        "name": "A99 légzőkészülék",
+        "text": "Mielőtt a csatolt karakter közvetett sebzést ([indirect]) kapna, kimerítheted ezt a támogatást, hogy kivédj 1-et a sebzésből."
+    },
+    {
+        "code": "07067",
+        "name": "Ezra Bridger fénykardja",
+        "text": "Áthelyezés.\n[special] - Okozz 2 sebzést egy ellenfeled egyik karakterének! Ha ez a fejlesztés Ezra Bridgeren van, az ellenfeled veszít 1 erőforrást."
+    },
+    {
+        "code": "07068",
+        "name": "A Whillek őrzői",
+        "text": "<b>Akció</b> - Merítsd ki ezt a fejlesztést és mozgasd át egy karakteredre! Ha Kék karakterre kerül, adj neki 1 pajzsot! Ha Piros karakterre kerül, okozz 1 közvetett sebzést ([indirect]) egy ellenfelednek!"
+    },
+    {
+        "code": "07069",
+        "name": "Luke Skywalker villámbotja",
+        "text": "Amíg ez a fejlesztés Luke Skywalkeren van, felhasználhatod ennek a kockának a közelharci sebzést ([melee]) mutató oldalait úgy, mintha pajzsot ([shield]) mutatnának."
+    },
+    {
+        "code": "07070",
+        "flavor": "\"Tedd... vagy ne tedd!\" <cite>Yoda</cite>",
+        "name": "Ne próbáld!",
+        "text": "<b>Akció</b> - Dobd újra ezt a kockát! Ezután felhasználhatod 1-gyel megnövelve az értékét. Máskülönben távolítsd el!"
+    },
+    {
+        "code": "07071",
+        "flavor": "\"Induló el vele!\"",
+        "name": "Nass főnök",
+        "subtitle": "Bombasztikus vezér",
+        "text": "Miután aktiváltál egy <i>Gungant</i>, annyi közvetett sebzést ([indirect]) okozhatsz egy ellenfélnek, ahány üres oldalt ([blank]) dobtál a karakterkockájával."
+    },
+    {
+        "code": "07072",
+        "flavor": "Bár egyesek primitívnek tartják őket, a kétéltű gunganek a Naboo bolygó egyik műszakilag fejlettebb faja.",
+        "name": "Gungan harcos"
+    },
+    {
+        "code": "07073",
+        "name": "Leia Organa",
+        "subtitle": "Az Ellenállás lelke",
+        "text": "<b>Erőteljes akció</b> - Távolítsd el az egyik karakterkockádat, és dobj el az értékével megegyező számú lapot egy pakli tetejéről!"
+    },
+    {
+        "code": "07074",
+        "flavor": "\"Én azt mondom, a tapasztalat fontosabb a rangnál.\"",
+        "name": "Rex",
+        "subtitle": "Klón százados",
+        "text": "Mielőtt aktiválod ezt a karaktert, elkölthetsz 1 erőforrást, vagy kijelölhetsz egy Klónkatonát, hogy birtokba vedd a csatamezőt."
+    },
+    {
+        "code": "07075",
+        "name": "Dicső halál",
+        "text": "Aktiváld az egyik karakteredet! Ezután távolíts el tetszőleges számú sebzést mutató ([ranged], [melee] vagy [indirect]) kockát egy ellenfeledtől, és okozz ennek a karakterednek annyi sebzést, amennyi az eltávolított kockák összesített értéke!"
+    },
+    {
+        "code": "07076",
+        "name": "Reménytelen helyzet",
+        "text": "Csak akkor játszhatod ki, ha a karaktereid összesített életereje 3 vagy kevesebb.\nFrissítsd fel egy karakteredet!"
+    },
+    {
+        "code": "07077",
+        "name": "Elsősegély",
+        "text": "Gyógyíts 2 sebzést egy Piros karakteren, vagy 4 sebzést, amennyiben ez a játék első fordulója!"
+    },
+    {
+        "code": "07078",
+        "name": "Gungan Offenzíva",
+        "text": "Fordítsd legfeljebb 3 <i>Gungan</i> vagy <i>tüzérség</i>kockádat sebzést ([ranged], [melee] vagy [indirect]) mutató oldalára!"
+    },
+    {
+        "code": "07079",
+        "name": "Motiválás",
+        "text": "Jelölj ki 2 Piros karaktert vagy Leia Organát, hogy felhasználd egy karakterkockádat, 1-gyel megnövelve az értékét!"
+    },
+    {
+        "code": "07080",
+        "name": "Átrendeződés",
+        "text": "Egy ellenfeled fordítson egy kockát tetszőleges oldalára! Ezután fordíts tetszőleges oldalára egy másik kockát!"
+    },
+    {
+        "code": "07081",
+        "name": "Hosszú távú terv",
+        "text": "<b>Akció</b> - Merítsd ki ezt a tervet, és helyezz rá 1 erőforrást, vagy használd fel egy kockádat, annyival növelve az értékét, ahány erőforrás van ezen a terven!"
+    },
+    {
+        "code": "07082",
+        "name": "Gungan Katapult",
+        "text": "Miután aktiváltál egy <i>Gungant</i>, újradobhatod ezt a kockát."
+    },
+    {
+        "code": "07083",
+        "name": "Az Ellenállás Craiti siklója",
+        "text": "Ha ezen a támogatáson nincs sebzés, rakhatsz rá 1 sebzést, hogy megnöveld a kocka értékét 1-gyel, mielőtt felhasználod."
+    },
+    {
+        "code": "07084",
+        "name": "Elnyomó tűz",
+        "text": "Miután egy karaktert aktiváltak, elkölthetsz 1 erőforrást és dobd el ezt a támogatást a játékból, hogy eltávolíthasd annak a karakternek egy karakterkockáját!"
+    },
+    {
+        "code": "07085",
+        "name": "Elektrodárda",
+        "text": "Mielőtt a csatolt karakter legyőzötté válna, átmozgathatod ezt a fejlesztést egy <i>Gunganre</i> <em>(ennek a fejlesztésnek a kockája visszakerül erre a lapra)</em>."
+    },
+    {
+        "code": "07086",
+        "name": "Ösztönző jelenlét",
+        "text": "Csak egyedi karakterre.\nMinden más karaktered megkapja az Őrző kulcsszót."
+    },
+    {
+        "code": "07087",
+        "name": "Rex sugárvetője",
+        "text": "Amíg ez a fejlesztés Rexen van, ennek a fejlesztésnek a nálad lévő másolatai nem számítanak egyedinek.\nMiután aktiváltad a csatolt karaktert, és birtoklod a csatateret, aktiválhatod egy karakteredet."
+    },
+    {
+        "code": "07088",
+        "flavor": "\"Építettem egy fogatot. Egy nagyon gyorsat.\"",
+        "name": "Anakin Skywalker",
+        "subtitle": "Tehetséges fogatversenyző",
+        "text": "Miután aktiváltad ezt a karaktert, átfordíthatod egy <i>droid-</i> vagy <i>fogat</i>kockádat tetszőleges oldalára."
+    },
+    {
+        "code": "07089",
+        "flavor": "\"Használtál már hátirakétát?\"",
+        "name": "Bo-Katan Kryze",
+        "subtitle": "A halálőrség hadnagya",
+        "text": "A paklid tartalmazhat Sárga gonosz fejlesztéseket.\n[special] - Okozz 2 sebzést egy karakternek, vagy okozz 3 sebzést, ha ezen a karakteren 1 vagy több gonosz fejlesztés van!"
+    },
+    {
+        "code": "07090",
+        "flavor": "\"Már hatéves korom óta harcolok szüntelenül.\"",
+        "name": "Cassian Andor",
+        "subtitle": "Lázadó ügynök",
+        "text": "Miután felhasználtad ezt a kockát, okozhatsz egy közvetett sebzést ([indirect]) egy ellenfélnek, vagy eldobhatod egy pakli felső lapját."
+    },
+    {
+        "code": "07091",
+        "name": "Megbízható informátor",
+        "text": "Miután aktiváltad ezt a karaktert, megnézheted egy ellenfeled kézben tartott lapjait."
+    },
+    {
+        "code": "07092",
+        "name": "Titkos művelet",
+        "text": "Jelölj ki 2 Sárga karaktert vagy Cassian Andort, hogy felhasználd tetszőleges számú kockádat, amelyek ugyanazt a szimbólumot mutatják! Ezután dobj el egy pakli tetejéről annyi kártyát, ahány kockát ilyen módon felhasználtál!"
+    },
+    {
+        "code": "07093",
+        "name": "Az üzlet lezárása",
+        "text": "Kapsz 5 erőforrást. A forduló hátralévő részében minden körödet passzolnod kell."
+    },
+    {
+        "code": "07094",
+        "name": "Óvatos versenyzés",
+        "text": "Csak akkor játszd ki, ha az ellenfeled ennek a fordulónak az előző körében eltávolította egy vagy több <i>jármű</i>kockádat.\nJelölj ki egy Sárga karaktert, hogy az eltávolított kockék egyikét visszadobd a kockakészletedbe!"
+    },
+    {
+        "code": "07095",
+        "name": "Piszok mázli",
+        "text": "Jelölj ki egy Sárga karaktert vagy egy <i>Gungant</i>, hogy újradobd legfeljebb 5 kockádat. Ezután okozz annyi közvetett sebzést ([indirect]) egy ellenfelednek, ahány üres oldalt ([blank]) dobtál ezekkel a kockákkal!"
+    },
+    {
+        "code": "07096",
+        "name": "Mechanikai készség",
+        "text": "Nézd meg a paklid felső 5 lapját! Ha van benne <i>droid</i> vagy <i>fogat</i>, akkor fedd fel, és vedd a kezedbe! A többi kártyát tetszőleges sorrendben helyezd a paklid aljára!"
+    },
+    {
+        "code": "07097",
+        "name": "Hajszál híján",
+        "text": "Csak akkor játszhatod ki, ha nincs másik lap a kezedben.\nTávolíts el egy kockát!"
+    },
+    {
+        "code": "07098",
+        "name": "Megtervezett robbantás",
+        "text": "Csak akkor játszhatod ki, ha egy ellenfél irányítja a csatateret.\nOkozz annyi közvetett sebzést ([indirect]) annak az ellenfélnek, ahány erőforrása van, de legfeljebb 5-öt!"
+    },
+    {
+        "code": "07099",
+        "name": "Igaz ügy",
+        "text": "Rajtaütés.\nMozgass át 1 sebzést az egyik kártyádról egy másik, azonos típusú kártyádra <em>(a pajzsokat hagyd figyelmen kívül)</em>!"
+    },
+    {
+        "code": "07100",
+        "name": "Célpont bemérése",
+        "text": "Ha 5 vagy több különböző szimbólumot mutató kockád van a játékban, okozz 2 sebzést egy karakternek, ha 10 vagy több van, akkor győzz le egy karaktert!"
+    },
+    {
+        "code": "07101",
+        "name": "Tűzharc",
+        "text": "Fordítsd egy ellenfeled legfeljebb 3 kockáját sebzést mutató ([ranged], [melee] vagy [indirect]) oldalára! Ezután fordítsd ugyanennyi kockádat sebzést mutató oldalára!"
+    },
+    {
+        "code": "07102",
+        "name": "Anakin Skywalker fogata",
+        "text": "Rajtaütés.\nMiután felhasználtad ezt a kockát, eldobhatod egy pakli felső lapját, vagy jelöld ki Anakin Skywalkert és dobass el egy ellenfeled kezéből véletlenszerűen egy lapot!"
+    },
+    {
+        "code": "07103",
+        "flavor": "\"Az N-1-es vadászgép a naboo-i technológia csúcsát képviseli.\" <cite>Quarsh Panaka kapitány</cite>",
+        "name": "N-1-es vadászgép",
+        "text": "[special] - Frissíts fel, vagy dobj el a játékból egy kimerült <i>járművet</i> ami nem ennek a támogatásnak a másolata!"
+    },
+    {
+        "code": "07104",
+        "name": "CR-2 nehéz sugárvető",
+        "text": "[special] - Okozz 2 sebzést egy karakternek, vagy okozz 4 sebzést egy karakternek, ha annak az ellenfélnek nincs kockája a kockakészletében!"
+    },
+    {
+        "code": "07105",
+        "name": "Lopakodó",
+        "text": "A csatolt karakter megkapja a <i>gyalogos</i> altipust.\n[special] - Dobj el annyi lapot egy pakli tetejéről, amekkora értéket az egyik karakterkockád mutat!"
+    },
+    {
+        "code": "07106",
+        "name": "A fény útja",
+        "text": "Távolíts el egy nem hős kockát!"
+    },
+    {
+        "code": "07107",
+        "flavor": "A legjobb ételek a szenátusi kerületnek ezen a felén!",
+        "name": "Dex kifőzdéje",
+        "text": "<b>Akció</b> - Merítsd ki ezt a támogatást és költs el 1 erőforrást, hogy gyógyíts 1-et egy karakteren, vagy 2-t, ha 6 vagy több sebzés van rajta!"
+    },
+    {
+        "code": "07108",
+        "name": "Eggyé válás",
+        "text": "Távolítsd el egy Kék kockádat! Ezután használd fel egy kockádat, megnövelve az eltávolított kocka értékével!"
+    },
+    {
+        "code": "07109",
+        "name": "Igézés",
+        "text": "Dobd újra egy ellenfél kockáját! Ezután fordítsd az egyik kockáját tetszőleges oldalára! Utána távolítsd el az egyik kockáját!"
+    },
+    {
+        "code": "07110",
+        "flavor": "\"Elhoztam a békét, a szabadságot, az igazságot és a biztonságot a birodalomba.\" <cite>Darth Vader</cite>",
+        "name": "Irányítás",
+        "text": "Fordíts minden kockát az általad választott oldalára!"
+    },
+    {
+        "code": "07111",
+        "name": "Viszály az erőben",
+        "text": "Használd fel egy Kék kockádat! Ezután távolíts el egy kockát, aminek az értéke megegyezik a felhasznált kocka értékével!"
+    },
+    {
+        "code": "07112",
+        "name": "A múlt lángjai",
+        "text": "Dobj el egy kártyát a játékból, ha bármelyik pakli dobott lapjai között már van egy ugyanolyan!"
+    },
+    {
+        "code": "07113",
+        "name": "Béke és csend",
+        "text": "Fordíts egy kockát 0-t mutató értékre <em>(az üres és a speciális számít 0 értékűnek)<em>!"
+    },
+    {
+        "code": "07114",
+        "name": "A szerencse forgandó",
+        "text": "Mozgasd át az összes pajzsot egy ellenfeled karakteréről az egyik karakteredre!"
+    },
+    {
+        "code": "07115",
+        "name": "Időt álló alkotás",
+        "text": "Minden egyedi fejlesztésed megkapja az Áthelyezés kulcsszót.\nMiután kijátszottál egy egyedi fejlesztést, kimerítheted ezt a tervet, hogy kapj 1 erőforrást!"
+    },
+    {
+        "code": "07116",
+        "name": "Kiélesedett érzékek",
+        "text": "Mindegyik karakterednek eggyel több fejlesztése lehet."
+    },
+    {
+        "code": "07117",
+        "name": "Mortis tőr",
+        "text": "Áthelyezés.\nMielőtt felhasználod ennek a kockának a közelharci sebzést ([melee]) mutató oldalát, átmozgathatsz 1 pajzsot egy Kék karakterről erre a karakterre."
+    },
+    {
+        "code": "07118",
+        "name": "Erő ugrás",
+        "text": "Csak Kék karakternek.\n[special] - Fordíts át egy sebzést mutató kockát ([ranged], [melee] vagy [indirect]) üres oldalára ([blank])! Ahelyett, hogy eltávolítanád, dobd újra ezt a kockát!"
+    },
+    {
+        "code": "07119",
+        "name": "Az Erő útja",
+        "text": "Jelölj ki egy Kék karaktert a kijátszásához.\nA csatolt karakter elit lesz <em>(helyezz a karakterre egy második példányt a karakterkockájából)!</em>"
+    },
+    {
+        "code": "07120",
+        "name": "Sorsforduló",
+        "text": "Válassz ki tetszőleges számú kockát! Az egyik ellenfelednek ezeket a kockákat tetszőleges oldalukra kell fordítania."
+    },
+    {
+        "code": "07121",
+        "name": "Pusztító lövés",
+        "text": "Használd fel egysebzést mutató ([ranged], [melee] vagy [indirect]) kockádat 1-gyel csökkentve az értékét! Ezután távolíts el egy kockát!"
+    },
+    {
+        "code": "07122",
+        "name": "Látványos belépő",
+        "text": "Aktiváld az egyik karakteredet! Dobd újra tetszőleges számú karakter- és fejlesztéskockáját! Ezután dobd újra tetszőleges számú karakter- és fejlesztéskockáját!"
+    },
+    {
+        "code": "07123",
+        "name": "Erőszakos elfoglalás",
+        "text": "Csak akkor játszhatod ki, ha te irányítod a csatateret.\nVálassz egy szimbólumot, amit az egyik kockád mutat! Ezután használd fel az ellenfél egyik ugyanolyan szimbólumot mutató kockáját, mintha a sajátod lenne."
+    },
+    {
+        "code": "07124",
+        "name": "Túlterhelés",
+        "text": "Helyezz 1 sebzést egy játékban lévő támogatásra! Ezután eldobhatod azt a támogatást, ha ugyanannyi vagy több sebzés van rajta, mint amekkora a költsége!"
+    },
+    {
+        "code": "07125",
+        "name": "Rekonstrukció",
+        "text": "Vegyél vissza egy támogatást a dobott lapjaid közül, és vedd a kezedbe!"
+    },
+    {
+        "code": "07126",
+        "name": "Menjünk nekik!",
+        "text": "Tetszőleges sorrendben használd fel bármennyi sebzést mutató ([ranged], [melee] vagy [indirect]) kockádat!"
+    },
+    {
+        "code": "07127",
+        "name": "A hazai pálya előnye",
+        "text": "Hozz 2 csatateret a játékba!\nAz előkészületek során, ha a te csatatered kerülne kiválasztásra, eldöntheted, hogy melyik csatatered kerül a játékba. Tedd félre a másikat!"
+    },
+    {
+        "code": "07128",
+        "name": "Fegyverutánpótlás",
+        "text": "Miután kijátszottad ezt a támogatást, helyezz rá 3 sebzést!\n<b>Akció</b> - Merítsd ki ezt a támogatást, és vegyél le róla 1 sebzést, hogy okozz 1 közvetett sebzést ([indirect]) egy ellenfélnek!"
+    },
+    {
+        "code": "07129",
+        "flavor": "A támadó-felderítő ARC-170-es vadászgép egyszerre alkalmas csatára és mélyűri utazásra.",
+        "name": "ARC-170-es vadász",
+        "text": "Mielőtt ez a támogatás eldobásra kerülne a játékból, dönthetsz úgy, hogy visszakerüljön a tulajdonosának a kezébe."
+    },
+    {
+        "code": "07130",
+        "name": "Pergőtűz Droidtank",
+        "text": "Miután kijátszottál egy <b>járművet</b> <em>(beleértve ezt a támogatást is)</em>, okozhatsz 1 közvetett sebzést ([indirect]) egy ellenfélnek.\nMiután kijátszottál egy <i>droidot</i> <em>(beleértve ezt a támogatást is)</em>, aktiválhatod azt."
+    },
+    {
+        "code": "07131",
+        "name": "Fegyvermester",
+        "text": "<b>Akció</b> - Távolítsd el a csatolt karakter egyik karakter- vagy fejlesztéskockáját, hogy az egyik <i>fegyver</i>kockáját tetszőleges oldalára fordíthasd!"
+    },
+    {
+        "code": "07132",
+        "name": "Barát vagy ellenség",
+        "text": "Dobj újra egy karakterkockát! Ezután, ha sebzést ([ranged], [melee] vagy [indirect]) dobtál, okozz 1 sebzést annak a karakternek! Máskülönben adj neki 1 pajzsot!"
+    },
+    {
+        "code": "07133",
+        "name": "Célkeresztben",
+        "text": "Rajtaütés.\nVálassz egy szimbólumot! Ezután távolíts el tetszőleges számú kockát, ami azt a szimbólumot mutatja!"
+    },
+    {
+        "code": "07134",
+        "name": "Fogatversenyre fogadás",
+        "text": "Válassz egy számot! Ezután dobd újra az egyik <i>jármű</i>kockádat! Ha a dobás eredménye a választott szám, akkor kapsz 2 erőforrást, ha ezt a <i>fogat</i>kockával dobtad, 3 erőforrást kapsz."
+    },
+    {
+        "code": "07135",
+        "name": "Átprogramozás",
+        "text": "Játssz ki egy <i>droidot</i> a kezedből, csökkentsd a kijátszási költségét 1-gyel!"
+    },
+    {
+        "code": "07136",
+        "name": "Kockázatos lépés",
+        "text": "Jelölj ki egy Sárga karaktert, hogy eltávolíts egy kockát! A következő lap, amit az ellenfél ebben a fordulóban kijátszik, megkapja a Rajtaütés kulcsszót."
+    },
+    {
+        "code": "07137",
+        "name": "Motorokat beindítani!",
+        "text": "Keress ki a paklidból egy <i>fogatot</i>, fedd fel, és vedd a kezedbe! Keverd meg a paklidat!"
+    },
+    {
+        "code": "07138",
+        "name": "Szívesség behajtása",
+        "text": "Mielőtt kijátszanál egy 3 vagy nagyobb költségű eseményt, kimerítheted ezt a tervet, hogy csökkentsd a költségét 1-gyel vagy 2-vel akkor, ha pontosan egy karaktered van játékban."
+    },
+    {
+        "code": "07139",
+        "name": "Értékes áru",
+        "text": "<b>Akció</b> - Merítsd ki ezt a támogatást és az egyik karakteredet, és helyezz 3 erőforrást erre a támogatásra, vagy vedd le róla az összes erőforrást!"
+    },
+    {
+        "code": "07140",
+        "name": "Utcai tapasztalat",
+        "text": "Mielőtt kijátszol egy Sárga eseményt, kimerítheted ezt a támogatást, hogy 1-gyel csökkentsd a lap kijátszási költségét."
+    },
+    {
+        "code": "07141",
+        "name": "XS könnyű teherhajó",
+        "text": "Rajtaütés.\n[special] - Helyezz 2 erőforrást erre a támogatásra, vagy vegyél le róla minden erőforrást! Végrehajthatsz még egy akciót."
+    },
+    {
+        "code": "07142",
+        "name": "Sötétkard",
+        "text": "Áthelyezés.\nMielőtt felhasználod ezt a kockát, növeld meg az értékét 1-gyel, ha a csatolt karakter 15 vagy több pontos, vagy 2-vel, ha a csatolt karakter 20 vagy több pontos!"
+    },
+    {
+        "code": "07143",
+        "flavor": "\"Próbáld fel! Harci pányva, bénítónyilak, repulzor. A Jedik elleni harcra kifejlesztett fegyverek\". <cite>Fenn Rau</cite>",
+        "name": "Mandalori alkarvért",
+        "text": "<b>Akció</b> - Ez a fejlesztés visszakerül a játékból a tulajdonosának a kezébe."
+    },
+    {
+        "code": "07144",
+        "flavor": "\"Ahogy jó anyám szokta volt mondani: Fiam, egy túsz igen sokat ér, kettő még többet. De három, háhá, az csak bombaüzlet.'\" <cite>Hondo Ohnaka</cite>",
+        "name": "Tisztes üzletember",
+        "text": "Miután aktiváltad a csatolt karaktert, kaphatsz 1 erőforrást."
+    },
+    {
+        "code": "07145",
+        "name": "V-1 hődetonátor",
+        "text": "[special] - Dobd el ezt a fejlesztés a játékból, és okozz 2 sebzést egy ellenfeled minden karakterének!"
+    },
+    {
+        "code": "07146",
+        "name": "Eltávolítás",
+        "text": "Válassz ki az egyik játékos dobott lapjai közül legfeljebb 3 kártyát, és tedd félre őket!"
+    },
+    {
+        "code": "07147",
+        "name": "Szabadesés",
+        "text": "Rajtaütés.\nAz egyik ellenfelednek el kell távolítania egy kockáját."
+    },
+    {
+        "code": "07148",
+        "name": "Szenvedésre terveztettünk",
+        "text": "Minden játékos eldob annyi lapot a paklijának a tetejéről, ahány üres oldalt ([blank]) mutató kockája van a játékban."
+    },
+    {
+        "code": "07149",
+        "name": "A természet bája",
+        "text": "Dobj újra legfeljebb 2 kockát <em>(lehet a tiéd és6vagy az ellenfélé is)</em>!"
+    },
+    {
+        "code": "07150",
+        "name": "Kioltás",
+        "text": "Távolítsd el egy ellenfeled összes közvetett sebzést ([indirect]) mutató kockáját!"
+    },
+    {
+        "code": "07151",
+        "name": "Támadás alatt",
+        "text": "Távolítsd el egy ellenfeled tetszőleges számú sebzést mutató ([ranged], [melee] vagy [indirect]) kockáját! Ezután okozz magadnak annyi közvetett sebzést ([indirect]), amennyi az eltávolított kockák összesített értéke!"
+    },
+    {
+        "code": "07152",
+        "name": "Lotho Minor-i guberálók",
+        "text": "[special] - Tegyél félre egy <i>droid-</i>, <i>felszerelés-</i>, <i>jármű-</i>, vagy <i>fegyver</i>kártyát a dobott lapjaid közül, hogy kapj 2 erőforrást!"
+    },
+    {
+        "code": "07153",
+        "name": "Légifogat",
+        "text": "Rajtaütés.\nMiután üres oldalt ([blank]) dobtál a kockájával, ez a támogatás visszakerül a játékból a tulajdonosának a kezébe."
+    },
+    {
+        "code": "07154",
+        "name": "Makrotávcső",
+        "text": "[special] - Nézd meg egy ellenfeled kézben tartott lapjait! Adj 1 pajzsot egy karakternek!"
+    },
+    {
+        "code": "07155",
+        "name": "Boonta esti nagy verseny",
+        "text": "Miután felhasználtad egy  <i>fogatod</i> kockáját, ráhelyezhetsz 1 erőforrást a <i>fogatra</i>. Ha 4 vagy több erőforrás lesz rajta, tedd félre ennek a tervnek minden másolatát, és kapsz 4 erőforrást!"
+    },
+    {
+        "code": "07156",
+        "name": "A Halál arénája",
+        "subtitle": "Nar Shaddaa",
+        "text": "<b>Uralom</b> - Okozz annyi közvetett sebzést ([indirect]) egy ellenfélnek, ahány legyőzött karaktered van, de legfeljebb 3-at!"
+    },
+    {
+        "code": "07157",
+        "name": "Bendu otthona",
+        "subtitle": "Atollon",
+        "text": "<b>Erőteljes akció</b> - Dobd be a kockáját kockakészletedbe!\nMiután birtokba vetted ezt a csatateret, távolítsd el a kockáját!"
+    },
+    {
+        "code": "07158",
+        "name": "Rádiótorony",
+        "subtitle": "Scarif",
+        "text": "<b>Uralom</b> - Használd fel egy kockádat, 1-gyel megnövelve az értékét, amennyiben ki tudsz jelölni egy tervet!"
+    },
+    {
+        "code": "07159",
+        "name": "A Mos Espa-i Aréna",
+        "subtitle": "Tatooine",
+        "text": "<b>Uralom</b> - Az ellenfelednek el kell döntenie, hogy veszít 1 erőforrást, vagy te kapsz 1 erőforrást. Jelölj ki egy <i>fogatot</i>, hogy mindkét hatás létrejöjjön!"
+    },
+    {
+        "code": "07160",
+        "name": "Hasadékvölgy",
+        "subtitle": "Dathomir",
+        "text": "<b>Uralom</b> - Fedd fel a paklid felső lapját! Ha a lap kijátszási költsége páratlan, távolíts el egy 2 vagy kisebb értéket mutató kockát!"
+    }
+]
