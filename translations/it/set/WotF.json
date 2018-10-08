@@ -81,7 +81,6 @@
         "name": "Spada Laser del Quinto Fratello",
         "text": "Finché questa miglioria è assegnata al Quinto Fratello, puoi risolvere questo dado come se non fosse modificatore.\nDopo che hai risolto questo dado, puoi infliggere 1 danno a un personaggio."
     },
-
     {
         "code": "07017",
         "flavor": "\"Mi sento dilaniato. Voglio liberarmi da questa pena.\" <cite>Kylo Ren</cite>",
@@ -100,14 +99,13 @@
         "name": "Esecutore",
         "text": "Dopo che un personaggio dell'avversario è stato sconfitto, puoi tirare questo dado nella tua riserva."
     },
-
     {
         "code": "07021",
         "name": "Generale Grevious",
         "subtitle": "Temibile Cyborg",
         "text": "Ignora le restrizioni di gioco delle carte <b>Arma</b> giocate su questo personaggio. Questo personaggio può possedere 1 miglioria aggiuntiva.\n<b>Azione Straordinaria</b> - Se ci sono 4 dadi <b>Arma</b> di questo personaggio nella tua riserva, ingliggi 4 danni a un personaggio."
     },
-        {
+    {
         "code": "07022",
         "name": "Arte della Guerra",
         "text": "Avvista 1 personaggio Rosso per rivelare la mano di un avversario. Per ogni carta appena rivelata, rimuovi 1 dado di valore pari al costo di quella carta."
@@ -154,12 +152,12 @@
         "name": "Apparatodi Alterazione Climatica",
         "text": "<b>Azione</b> - Esaurisci questo supporto per infliggere 2 danni secondari ([indirect]) a ogni giocatore, a partire da te."
     },
-        {
+    {
         "code": "07032",
         "name": "Trasporto Truppe Imperiale",
         "text": "La X su questo dado è pari al numero di personaggi non unici che hai in gioco."
     },
-        {
+    {
         "code": "07034",
         "name": "Ascia dell'Esecutore",
         "text": "Dopo che un personaggio di un avversario è stato sconfitto, puoi tirare questo dado nella tua riserva."
@@ -412,7 +410,7 @@
         "code": "07081",
         "name": "Piano A Lungo Termine",
         "text": "<b>Azione</b> - Esaurisci questa trama, per collocare 1 risorsa su di essa oppure risolvere 1 tuo dado, aumentando il suo valore del numero di risorse su questa trama."
-    },    
+    },
     {
         "code": "07154",
         "name": "Macrobinocoli",
