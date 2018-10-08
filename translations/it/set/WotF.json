@@ -81,6 +81,7 @@
         "name": "Spada Laser del Quinto Fratello",
         "text": "Finché questa miglioria è assegnata al Quinto Fratello, puoi risolvere questo dado come se non fosse modificatore.\nDopo che hai risolto questo dado, puoi infliggere 1 danno a un personaggio."
     },
+
     {
         "code": "07017",
         "flavor": "\"Mi sento dilaniato. Voglio liberarmi da questa pena.\" <cite>Kylo Ren</cite>",
@@ -99,11 +100,318 @@
         "name": "Esecutore",
         "text": "Dopo che un personaggio dell'avversario è stato sconfitto, puoi tirare questo dado nella tua riserva."
     },
+
     {
         "code": "07021",
         "name": "Generale Grevious",
         "subtitle": "Temibile Cyborg",
         "text": "Ignora le restrizioni di gioco delle carte <b>Arma</b> giocate su questo personaggio. Questo personaggio può possedere 1 miglioria aggiuntiva.\n<b>Azione Straordinaria</b> - Se ci sono 4 dadi <b>Arma</b> di questo personaggio nella tua riserva, ingliggi 4 danni a un personaggio."
+    },
+        {
+        "code": "07022",
+        "name": "Arte della Guerra",
+        "text": "Avvista 1 personaggio Rosso per rivelare la mano di un avversario. Per ogni carta appena rivelata, rimuovi 1 dado di valore pari al costo di quella carta."
+    },
+    {
+        "code": "07023",
+        "flavor": "\"Come ci si sente a morire?\" <cite>Generale Grievous</cite>",
+        "name": "Assalto Furibondo",
+        "text": "Avvista 2 personaggi rossi o il Generale Grievous per tirare tutti i dadi <i>Arma</i> di un tuo personaggio nella tua riserva."
+    },
+    {
+        "code": "07024",
+        "name": "Protesi Meccaniche",
+        "text": "Gioca 1 miglioria dalla tua mano su un personaggio. poi cura 1 danno a quel personaggio."
+    },
+    {
+        "code": "07025",
+        "name": "Raffica Iniziale",
+        "text": "Gioca questa carta solo come prima azione di questo round <em>(nessun giocatore ha effettuato azioni)</em> Infliggi 3 danni secondari ([indirect]) ad un avversario."
+    },
+    {
+        "code": "07026",
+        "name": "Travolgere",
+        "text": "Gioca questa carta solo se possiedi più dadi supporto nella tua riserva di quanti personaggi abbia in gioco il tua avversario.\nPrendi il controllo del campo di battaglia. Puoi usare la sua capacità di rivendicazione."
+    },
+    {
+        "code": "07027",
+        "name": "Procedura di Collaudo",
+        "text": "Attiva fino a 2 tuoi supporti. Poi se 1 o più di quei dadi suporto hanno appena ottenuto \"danno\" ([ranged], [melee] or [indirect])，ottieni 1 risorsa."
+    },
+    {
+        "code": "07028",
+        "flavor": "\"Sono stato addestrato nelle vostre arti jedi.\" <cite>Generale Grievous</cite>",
+        "name": "Ben Armato",
+        "text": "Scegli 1 <i>Arma</i> dalla tua mano e giocala, riducendo il suo costodel numero di carte <i>Arma</i> assegnate a un tuo personaggio."
+    },
+    {
+        "code": "07029",
+        "name": "Blocco Planetario",
+        "text": "Dopo la preparazione, obbliga 1 avversario a perdere 1 risorsa."
+    },
+    {
+        "code": "07030",
+        "name": "Apparatodi Alterazione Climatica",
+        "text": "<b>Azione</b> - Esaurisci questo supporto per infliggere 2 danni secondari ([indirect]) a ogni giocatore, a partire da te."
+    },
+        {
+        "code": "07032",
+        "name": "Trasporto Truppe Imperiale",
+        "text": "La X su questo dado è pari al numero di personaggi non unici che hai in gioco."
+    },
+        {
+        "code": "07034",
+        "name": "Ascia dell'Esecutore",
+        "text": "Dopo che un personaggio di un avversario è stato sconfitto, puoi tirare questo dado nella tua riserva."
+    },
+    {
+        "code": "07035",
+        "name": "DJ",
+        "subtitle": "Subdolo Malvivente",
+        "text": "Dopo che hai rimosso 1 o più dadi di un avversario, puoi infliggere 1 danno secondario ([indirect]) a quell'avversario per ogni dado appena rimosso."
+    },
+    {
+        "code": "07036",
+        "flavor": "\"Non tratterò con te.\"",
+        "name": "Jabba the Hutt",
+        "subtitle": "Bandito Famigerato",
+        "text": "[special] - Infliggi ad un avversario un ammontare di danni secondari ([indirect])，pari al numero di tuoi dadi speciale ([special]) <em>(incluso questo dado)<em>."
+    },
+    {
+        "code": "07037",
+        "name": "Super Commando Mandaloriano",
+        "text": "<b>Azione Straordinaria</b> - Gioca 1 carta <i>Equipaggiamento</i> o <i>Arma</i> dalla tua mano su questo personaggio. Poi infliggi 1 danno a un personaggio."
+    },
+    {
+        "code": "07038",
+        "flavor": "\"Questa volta non ne esci vivo, feccia di uno schiavo!\"",
+        "name": "Sebulba",
+        "subtitle": "Corridore Tagliagole",
+        "text": "[special] - Colloca 1 risorsa su un supporto in gioco oppure rimuovi 1 risorsa da un supporto in gioco."
+    },
+    {
+        "code": "07039",
+        "name": "Con Ogni Mezzo Necessario",
+        "text": "Rimuovi 1 dado di valore pari o superiore a 2. Poi infliggi 1 danno secondario ([indirect]) a te stesso."
+    },
+    {
+        "code": "07040",
+        "name": "Montarsi la Testa",
+        "text": "Avvista un personaggio giallo per far scegliere e scartare 2 carte dalla propria mano a ogni giocatore, a partire da te."
+    },
+    {
+        "code": "07041",
+        "name": "Arroganza Estrema",
+        "text": "Avvista 2 personaggi gialli o Jabba the Hutt per risolvere 1 tuo dado personaggio senza rimuoverlo dalla tua riserva."
+    },
+    {
+        "code": "07042",
+        "name": "Impresa Nefanda",
+        "text": "Imboscata.<em>（Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.）<em>\nSposta 1 danno da una carta di un avversario a un'altra carta in gioco <em>(ignorando gli scudi)</em>."
+    },
+    {
+        "code": "07043",
+        "name": "Ricompensa Riscossa",
+        "text": "Cedi 2 risorse a un avversario per risolvere 1 suo dado personaggio o miglioria come se fosse tuo."
+    },
+    {
+        "code": "07044",
+        "name": "Associazione per Delinquere",
+        "text": "Risolvi un qualsiasi numero di tuoi dadi \"distruzione\" ([disrupt]) come se fossero \"danno secondario\" ([indirect]), o viceversa."
+    },
+    {
+        "code": "07045",
+        "name": "Lite",
+        "text": "Obbliga un avversario a scegliere se perdere 1 risorsa oppure scartare 1 carta dalla sua mano."
+    },
+    {
+        "code": "07046",
+        "name": "Rancoroso",
+        "text": "Gioca questa carta solo se possiedi 1 o più dadi personaggio \"vuoto\" ([blank]).\nRimuovi 1 dado."
+    },
+    {
+        "code": "07047",
+        "flavor": "\"Sei cibo per i bantha!\" <cite>Sebulba</cite>",
+        "name": "Sebulba Vince Sempre",
+        "text": "Scarta dal gioco 1 supporto con 1 o più segnalini su di esso."
+    },
+    {
+        "code": "07048",
+        "name": "Situazione Imbarazzante",
+        "text": "Obbliga 1 avversario a scegliere 1 dado. Poi rimuovi 1 dado diverso."
+    },
+    {
+        "code": "07050",
+        "name": "Sguscio di Sebulba",
+        "text": "Imboscata.\n Dopo che hai risolto questo dado, puoi infliggere 1 danno secondario ([indirect]) a un avversario oppure, se avvista Sebulba, infliggere 1 danno a un personaggio."
+    },
+    {
+        "code": "07051",
+        "name": "Formidabile",
+        "text": "[special] - Infliggi 1 danno a un personaggio di un avversario.  Se quel danno non è stato bloccato, puoi spostare 1 carta <i>Equipaggiamento</i> o <i>Arma</i> da quel personaggio a un altro personaggio di quell'avversario."
+    },
+    {
+        "code": "07052",
+        "name": "Tattica Subdola",
+        "text": "[special] - Infliggi 1 danno secondario ([indirect]) a un avversario. Puoi risolvere 1 altro tuo dado."
+    },
+    {
+        "code": "07053",
+        "flavor": "\"La pace è una menzogna. C'è solo la passione.\" <cite>Codice Sith</cite>",
+        "name": "Via dell'Oscurita",
+        "text": "Scegli 1 dado di un tuo personaggio sconfitto e tiralo nella tua riserva. Dopo che è stato risolto o rimosso, metti da parte quel dado."
+    },
+    {
+        "code": "07054",
+        "flavor": "\"Possiamo combatterlo assieme!\"",
+        "name": "Ezra Bridger",
+        "subtitle": "Aspirinte Jedi",
+        "text": "<b>Azione Straordinaria</b> - Se questo personaggio possiede 1 o più migliorie, pesca 1 carta (2 carte se possiede 3 o più migliorie)."
+    },
+    {
+        "code": "07055",
+        "name": "Sentinella Jedi",
+        "text": "Dopo la preparazione, fornisci 1 scudo a un personaggio.\n[special] - Infliggi 2 danni a un personaggio (3 danni se questo personaggio possiede 3 o più scudi)."
+    },
+    {
+        "code": "07056",
+        "name": "Luke Skywalker",
+        "subtitle": "Istruttore Riluttante",
+        "text": "Puoi risolvere le facce \"scudo\" ([shield]) di questo dado come se fossero \"danno in mischia\" ([melee]).\n<b>Azione Straordinaria</b> - Sposta 1 <i>Capacità</i> Blu da questo personaggio a un altro personaggio Blu."
+    },
+    {
+        "code": "07057",
+        "flavor": "\"Non tutto è ciò che sembra.\"",
+        "name": "Plo Koon",
+        "subtitle": "Protettore Jedi",
+        "text": "Questo personaggio possiede le capacità di ogni personaggio non unico che hai in gioco."
+    },
+    {
+        "code": "07058",
+        "name": "Bei Ricordi",
+        "text": "Scegli fino a 3 carte nella pila degli scarti di un giocatore e collocale in foldo al suo mazzo nell'ordine che preferisci. Metti da parte questa carta."
+    },
+    {
+        "code": "07059",
+        "name": "Legame del Loth-lupo",
+        "text": "Fornisci 1 scudo a un massimo di 2 tuoi personaggi Blu. Puoi attivare quei personaggi nell'ordine che preferisci. "
+    },
+    {
+        "code": "07060",
+        "name": "Addestramento di Luke",
+        "text": "Avvista 2 personaggi Blu o Luke Skywalker per giocare 1 <i>Capacità<i> Blu dalla tua mano o dalla tua pila degli scarti, riducendo di 1 il suo costo."
+    },
+    {
+        "code": "07061",
+        "name": "Pacificazione",
+        "text": "Rimuovi 1 dado personaggio. Poi fornisci 2 scudi a quel personaggio."
+    },
+    {
+        "code": "07062",
+        "name": "Propulsione",
+        "text": "Gira 1 dado personaggio su una faccia a tua scelta. Gira 1 dado miglioria su una faccia a tua scelta. Gira 1 dado supporto su una faccia a tua scelta."
+    },
+    {
+        "code": "07063",
+        "flavor": "\"Ecco ciò che si dice avere chiara la via.\" <cite>Plo Koon</cite>",
+        "name": "Determinazione Ritrovata",
+        "text": "Avvista 1 trama per pescare 3 carte."
+    },
+    {
+        "code": "07064",
+        "name": "Incrollabile",
+        "text": "Sposta 1 danno da un tuo personaggio Blu a un altro personaggio (2 danni se non ci sono carte nella pila degli scarti)<em>（ignorando gli scudi）<em>."
+    },
+    {
+        "code": "07065",
+        "name": "Astrocaccia di Plo Koon",
+        "text": "Dopo che hai attivato questo supporto, puoi girare 1 tuo dado personaggio non unico su una faccia a tua scelta. Se avvisti Plo Koon, puoi risolvere quel"
+    },
+    {
+        "code": "07066",
+        "name": "Respiratore Aquata A99",
+        "text": "Prima che il personaggio con questa miglioria subisca 1 o più danni secondari ([indirect]), puoi esaurire questa miglioria per bloccare 1 di quei danni."
+    },
+    {
+        "code": "07067",
+        "name": "Spada Laser di Ezra Bridger",
+        "text": "Riposizionamento.\n[special] - Infliggi 2 danni a un personaggio di un avversario. Se questa miglioria è assegnata a Ezra Bridger, obbliga un avversario a perdere 1 risorsa."
+    },
+    {
+        "code": "07068",
+        "name": "Guardiano dei Whill",
+        "text": "<b>Azione</b> - Esaurisci questa miglioria per spostarla su un tuo personaggio. Se quel personaggio è Blu, fornisci 1 scudo a quel personaggio. Se è Rosso, infliggi 1 danno secondario ([indirect]) a un avversario."
+    },
+    {
+        "code": "07069",
+        "name": "Elettroverga di Luke Skywalker",
+        "text": "Finché questa miglioria è assegnata a Luke Skywalker, puoi risolvere le facce \"danno in mischia\" ([melee]) di questo dado come se fossero \"scudo\" ([shield])."
+    },
+    {
+        "code": "07070",
+        "flavor": "\"Fare. O non fare.\" <cite>Yoda</cite>",
+        "name": "Non C'É Provare",
+        "text": "<b>Azione</b> - Ripeti il tiro di questo dado, poi puoi risolverlo aumentando di 1 il suo valore. Altrimenti, rimuovilo."
+    },
+    {
+        "code": "07071",
+        "flavor": "\"Porta via elo!\"",
+        "name": "Boss Nass",
+        "subtitle": "Sovrano Pomposo",
+        "text": "Dopo che hai attivato un <i>Gungan<i>, puoi infliggere a un avversario un ammontare di danni secondari ([indirect]) pari al numero di suoi dadi personaggio che hanno appena ottenuto \"vuoto\" ([blank])."
+    },
+    {
+        "code": "07072",
+        "flavor": "Anche se considerati primitivi da alcuni, gli anfibi noti come Gungan erano una specie tecnologicamente evoluta del pianeta Naboo.",
+        "name": "Guerriero Gungan"
+    },
+    {
+        "code": "07073",
+        "name": "Leia Organa",
+        "subtitle": "Cuore della Resistenza",
+        "text": "<b>Azione Straordinaria</b> - Rimuovi 1 tuo dado personaggio per scartare un ammontare di carte pari al valore di quel dado dalla cima di un mazzo."
+    },
+    {
+        "code": "07074",
+        "flavor": "\"A mio avviso, l'esperienza ti rende superiore a chiunque.\"",
+        "name": "Rex",
+        "subtitle": "Clone Capitano",
+        "text": "Prima di attivare questo personaggio, puoi spendere 1 risorsa oppure avvistare un Clone Soldato per prendere il controllo del campo di battaglia."
+    },
+    {
+        "code": "07075",
+        "name": "Fiammata di Gloria",
+        "text": "Attiva 1 tuo personaggio. Poi rimuovi un qualsiasi numero di dadi \"danno\" ([ranged], [melee] o [indirect]) di un avversario e infliggi a quel personaggio un ammontare di danni pari al valore totale dei danni rimossi."
+    },
+    {
+        "code": "07076",
+        "name": "Ora Disperata",
+        "text": "Gioca questa carta solo se la salute rimanente totale dei tuoi personaggi è pari o inferiore a 3.\nRipristina 1 personaggio."
+    },
+    {
+        "code": "07077",
+        "name": "Pronto Soccorso",
+        "text": "Cura 2 danni a un personaggio Rosso (4 danni se è il primo round della partita)."
+    },
+    {
+        "code": "07078",
+        "name": "Offensiva Gungan",
+        "text": "Gira fino a 3 tuoi dadi <i>Gungan<i> o <i>Artiglieria<i> su una faccia \"danno\" ([ranged], [melee] o [indirect])."
+    },
+    {
+        "code": "07079",
+        "name": "Motivazione",
+        "text": "Avvista 2 personaggi Rossi o Leia Organa per risolvere 1 tuo dado personaggio, aumentando di 1 il suo valore."
+    },
+    {
+        "code": "07080",
+        "name": "Ricollocamento",
+        "text": "Obbliga un avversario a girare 1 dado su una faccia a sua scelta. Poi gira 1 altro dado su una faccia a tua scelta."
+    },
+    {
+        "code": "07081",
+        "name": "Piano A Lungo Termine",
+        "text": "<b>Azione</b> - Esaurisci questa trama, per collocare 1 risorsa su di essa oppure risolvere 1 tuo dado, aumentando il suo valore del numero di risorse su questa trama."
     },    
     {
         "code": "07154",
