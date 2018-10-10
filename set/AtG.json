@@ -89,6 +89,72 @@
         "type_code": "upgrade"
     },
     {
+        "affiliation_code": "villain",
+        "code": "08035",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "Underneath his mask of sophistication resided a brutality that manifested through the Crimson Dawn.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 13,
+        "illustrator": "Ryan Valle",
+        "is_unique": true,
+        "name": "Dryden Vos",
+        "points": "15/20",
+        "position": 35,
+        "rarity_code": "L",
+        "set_code": "AtG",
+        "sides": [
+            "2MD",
+            "3MD",
+            "2F",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Ruthless Crime Lord",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "[special] - Shuffle your deck and look at the top card of it. You may play that card for free.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08041",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"I saw this ship first, so I get first claim on anything in it!\" <cite>Azmorigan</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Marius Bota",
+        "is_unique": false,
+        "name": "First Claim",
+        "position": 41,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Spot a Yellow character to gain resources equal to the cost of a support or an upgrade in play.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08046",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "JB Casacop",
+        "is_unique": false,
+        "name": "Wanton Destruction",
+        "position": 46,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "For each character die showing damage ([ranged], [melee] or [indirect]), deal damage equal to its value to its matching character.",
+        "type_code": "event"
+    },
+    {
         "affiliation_code": "hero",
         "code": "08057",
         "deck_limit": 1,
@@ -253,6 +319,68 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "08089",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"Everything you heard about me is true.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Darren Tan",
+        "is_unique": true,
+        "name": "Lando Calrissian",
+        "points": "12/15",
+        "position": 89,
+        "rarity_code": "L",
+        "set_code": "AtG",
+        "sides": [
+            "2RD",
+            "2ID",
+            "1Dr",
+            "1R",
+            "4R2",
+            "-"
+        ],
+        "subtitle": "Smooth and Sophisticated",
+        "subtypes": [
+            "scoundrel",
+            "pilot"
+        ],
+        "text": "<b>Power Action</b> - Play a Yellow <i>vehicle</i> from your hand, decreasing its cost by 1 and giving it Ambush. If that <i>vehicle</i> is the <em>Millenium Falcon</em>, you may activate it.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08091",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": true,
+        "name": "L3-37",
+        "points": "8/11",
+        "position": 91,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1F",
+            "2F",
+            "1Dc",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Droid Revolutionary",
+        "subtypes": [
+            "droid"
+        ],
+        "text": "Before this character is defeated, spot a <i>vehicle</i> support to attach this card to it as a 0 cost <i>mod</i> upgrade. If that <i>vehicle</i> is the <em>Millenium Falcon</em>, ready it.\nIf this card would leave play as an upgrade, set it aside instead.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "08102",
         "cost": 2,
         "deck_limit": 2,
@@ -369,6 +497,37 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "08135",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"We're doing this my way.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Ryan Valle",
+        "is_unique": true,
+        "name": "Qi'Ra",
+        "points": "13/16",
+        "position": 135,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "2RD",
+            "3RD1",
+            "1Dc",
+            "1R",
+            "+2R",
+            "-"
+        ],
+        "subtitle": "Street Savvy",
+        "subtypes": [
+            "scoundrel"
+        ],
+        "text": "You can include Yellow hero and Yellow villain events in your deck.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "08140",
         "cost": 1,
         "deck_limit": 2,
@@ -428,5 +587,22 @@
         ],
         "text": "While this upgrade is on a neutral character, it has Redeploy.\n[special] - Deal 2 indirect damage ([indirect]) to an opponent. Then deal 1 damage to a character.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08155",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mark Molnar",
+        "is_unique": false,
+        "name": "No Allegiance",
+        "points": "-1",
+        "position": 155,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Include only if you have no hero or villain characters on your team.\nEach of your neutral characters has +1 health.",
+        "type_code": "plot"
     }
 ]
