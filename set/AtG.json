@@ -180,6 +180,68 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "08036",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"You in?\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Ryan Valle",
+        "is_unique": true,
+        "name": "Tobias Beckett",
+        "points": "11/15",
+        "position": 36,
+        "rarity_code": "L",
+        "set_code": "AtG",
+        "sides": [
+            "2RD",
+            "3RD1",
+            "1F",
+            "1Dr",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Thief For Hire",
+        "subtypes": [
+            "leader",
+            "scoundrel"
+        ],
+        "text": "<b>Power Action<b> - Each player gains 1 resource.\n[special] - Take 1 resource from an opponent. If that opponent has no resources, gain 1 resource.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08037",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Darren Tan",
+        "is_unique": true,
+        "name": "Val",
+        "points": "10/14",
+        "position": 37,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "2RD",
+            "2ID",
+            "1Dc",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Headstrong Renegade",
+        "subtypes": [
+            "scoundrel"
+        ],
+        "text": "[special] - Take 1 resource from an opponent. If that opponent has no resources, deal 2 damage to one of their characters.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "08041",
         "cost": 3,
         "deck_limit": 2,
@@ -212,6 +274,34 @@
         "set_code": "AtG",
         "text": "For each character die showing damage ([ranged], [melee] or [indirect]), deal damage equal to its value to its matching character.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08052",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Jason Juta",
+        "is_unique": true,
+        "name": "Tobias Beckett's Rifle",
+        "position": 52,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "3RD1",
+            "2Dr",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After you play this upgrade on Tobias Beckett, you may force an opponent to lose 1 resource.\n[special] - Deal 2 damage to an opponent's character, or 3 damage instead if that opponent has no resources.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
@@ -601,6 +691,23 @@
         "set_code": "AtG",
         "text": "Spot a neutral character to remove a die.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08143",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": false,
+        "name": "Double Down",
+        "points": "2",
+        "position": 143,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "You can include one additional copy of up to 2 different cards in your deck <em>(following all other deckbuilding restrictions)</em>.",
+        "type_code": "plot"
     },
     {
         "affiliation_code": "neutral",
