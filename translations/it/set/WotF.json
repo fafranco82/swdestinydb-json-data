@@ -309,7 +309,7 @@
     {
         "code": "07060",
         "name": "Addestramento di Luke",
-        "text": "Avvista 2 personaggi Blu o Luke Skywalker per giocare 1 <i>Capacità<i> Blu dalla tua mano o dalla tua pila degli scarti, riducendo di 1 il suo costo."
+        "text": "Avvista 2 personaggi Blu o Luke Skywalker per giocare 1 <i>Capacità</i> Blu dalla tua mano o dalla tua pila degli scarti, riducendo di 1 il suo costo."
     },
     {
         "code": "07061",
@@ -368,7 +368,7 @@
         "flavor": "\"Porta via elo!\"",
         "name": "Boss Nass",
         "subtitle": "Sovrano Pomposo",
-        "text": "Dopo che hai attivato un <i>Gungan<i>, puoi infliggere a un avversario un ammontare di danni secondari ([indirect]) pari al numero di suoi dadi personaggio che hanno appena ottenuto \"vuoto\" ([blank])."
+        "text": "Dopo che hai attivato un <i>Gungan</i>, puoi infliggere a un avversario un ammontare di danni secondari ([indirect]) pari al numero di suoi dadi personaggio che hanno appena ottenuto \"vuoto\" ([blank])."
     },
     {
         "code": "07072",
@@ -406,7 +406,7 @@
     {
         "code": "07078",
         "name": "Offensiva Gungan",
-        "text": "Gira fino a 3 tuoi dadi <i>Gungan<i> o <i>Artiglieria<i> su una faccia \"danno\" ([ranged], [melee] o [indirect])."
+        "text": "Gira fino a 3 tuoi dadi <i>Gungan</i> o <i>Artiglieria</i> su una faccia \"danno\" ([ranged], [melee] o [indirect])."
     },
     {
         "code": "07079",
@@ -422,7 +422,81 @@
         "code": "07081",
         "name": "Piano A Lungo Termine",
         "text": "<b>Azione</b> - Esaurisci questa trama, per collocare 1 risorsa su di essa oppure risolvere 1 tuo dado, aumentando il suo valore del numero di risorse su questa trama."
-    },    
+    },
+    {
+        "code": "07082",
+        "name": "Catapulta Gungan",
+        "text": "Dopo che hai attivato un <i>Gungan<i> puoi ripetere il tiro di questo dado."
+    },
+    {
+        "code": "07083",
+        "name": "Speeder della Resistenza di Crait",
+        "text": "Prima di risolvere questo dado, se questo supporto non possiede alcun danno, puoi collocare 1 danno su questo supporto per aumentare di 1 il suo valore."
+    },
+    {
+        "code": "07084",
+        "name": "Fuoco di Soppressione",
+        "text": "Dopo che un personaggio è stato attivato, puoi spendere 1 risorsa e scartare questo supporto dal gioco per rimuovere 1 suo dado personaggio."
+    },
+    {
+        "code": "07085",
+        "name": "Elettroasta",
+        "text": "Prima che il personaggio con questa miglioria stia per essere sconfitto, puoi spostare questa miglioria su un <i>Gungan</i><em>（rimetti questo dado su questa carta）</em>."
+    },
+    {
+        "code": "07086",
+        "name": "Presenza Ispiratrice",
+        "text": "Solo personaggi unici.\nGli altri tuoi personaggi possiedono la parola chiave Protezione."
+    },
+    {
+        "code": "07087",
+        "name": "Pistola Blaster di Rex",
+        "text": "Finché questa miglioria è assegnata a Rex, considera le tue copie di questa miglioria come se fossero non uniche.\nDopo che hai attivato il personaggio con questa miglioria, se controlli il campo di battaglia, puoi attivare 1 tuo personaggio."
+    },
+    {
+        "code": "07088",
+        "flavor": "\"Io ho costruito uno sguscio. Il più veloce mai visto!\"",
+        "name": "Anakin Skywalker",
+        "subtitle": "Prodigio degli Sgusci",
+        "text": "Dopo che hai attivato questo personaggio, puoi girare 1 tuo dado <i>Droide</i> o <i>Sguscio</i> su una faccia a tua scelta."
+    },
+    {
+        "code": "07089",
+        "flavor": "\"Mai usato uno di questi prima d'ora?\"",
+        "name": "Bo-Katan Kryze",
+        "subtitle": "Tenente della Ronda della Morte",
+        "text": "Puoi includere migliorie malvagio Gialle nel tuo mazzo.\n[special] - Infliggi 2 danni a un personaggio (3 danni se questo personaggio possiede 1 o più migliorie su di esso)."
+    },
+    {
+        "code": "07091",
+        "name": "Informatrice Fidata",
+        "text": "Dopo che hai attivato questo personaggio, puoi guardare la mano di un avversario."
+    },
+    {
+        "code": "07092",
+        "name": "Operazione Clandestina",
+        "text": "Avvista 2 personaggi gialli o Cassian Andor per risolvere un qualsiasi numero di tuoi dadi con lo stesso simbolo. Poi scarta dalla cima di un mazzo un ammontare di carte pari al numero di dadi appena risolti."
+    },
+    {
+        "code": "07093",
+        "name": "Affare Fatto",
+        "text": "Ottieni 5 risorse. Devi passare tutti i tuoi prossimi turni in questo round."
+    },
+    {
+        "code": "07094",
+        "name": "Correre sulla Difensiva",
+        "text": "Gioca questa carta solo se 1 o più tuoi dadi <i>Veicolo</i> sono stati rimossi durante l'ultimo turno di un avversario questo round.\nAvvista 1 personaggio giallo per tirare 1 di questi dadi rimossi nella tua riserva."
+    },
+    {
+        "code": "07095",
+        "name": "Fortuna Sfacciata",
+        "text": "Avvista 1 tuo personaggio giallo o 1 <i>Gungan</i> per ripetere il tiro di un massimo di 5 tuoi dadi. Poi infliggi a un avversario un ammontare di danni secondari ([indirect]) pari al numero di dadi che hanno appena ottenuto \"vuoto\" ([blank])."
+    },
+    {
+        "code": "07096",
+        "name": "Genio della Meccanica",
+        "text": "Guarda 5 carte dalla cima del tuo mazzo, rivela 1 <i>Droide</i> o 1 <i>Sguscio</i> appena guardato e aggiungili alla tua mano. Colloca le altre carte guardate in fondo al tuo mazzo nell'ordine che preferisci."
+    },                
     {
         "code": "07154",
         "name": "Macrobinocoli",
