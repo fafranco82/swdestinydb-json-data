@@ -1,6 +1,148 @@
 [
     {
         "affiliation_code": "villain",
+        "code": "08001",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"There is no escape\".",
+        "has_die": true,
+        "has_errata": false,
+        "health": 15,
+        "illustrator": "Jacob Murray",
+        "is_unique": true,
+        "name": "Darth Vader",
+        "points": "18/23",
+        "position": 1,
+        "rarity_code": "L",
+        "set_code": "AtG",
+        "sides": [
+            "2MD",
+            "3MD",
+            "4MD1",
+            "2Sh",
+            "2R",
+            "-"
+        ],
+        "subtitle": "Terror To Behold",
+        "subtypes": [
+            "sith"
+        ],
+        "text": "<b>Power Action</b> - If one or more of this character's character dice were removed during an opponent's last turn this round, discard a card from your hand to roll those dice into your pool.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08006",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Javier Charro Martinez",
+        "is_unique": false,
+        "name": "Endow",
+        "position": 6,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Play any number of Blue upgrades from your hand on one of your Blue characters <em>(paying each of their costs)</em>. Then roll each of those upgrades' dice into your pool.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08007",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"All I am surrounded by is fear. And dead men.\" <cite>Darth Vader</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Jacob Murray",
+        "is_unique": false,
+        "name": "Fear and Dead Men",
+        "position": 7,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Resolve one of your dice showing melee damage ([melee]) for free against each of an opponent's characters.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08010",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mark Molnar",
+        "is_unique": true,
+        "name": "Darth Vader's Meditation Chamber",
+        "position": 10,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "subtypes": [
+            "location"
+        ],
+        "text": "<b>Action</b> - Exhaust this support to h eal 1 damage from a Blue character and place 1 card from your discard pile on the bottom of your deck. Spot Darth Vader to draw a card.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08013",
+        "cost": 5,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Aaron Miller",
+        "is_unique": true,
+        "name": "Vader's Fist",
+        "position": 13,
+        "rarity_code": "L",
+        "set_code": "AtG",
+        "sides": [
+            "3RD",
+            "3RD1",
+            "3ID",
+            "4ID1",
+            "3Dr",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "After you play this support, you may roll this die into your pool.\n<b>Power Action</b> - Roll this die into your pool. Spot Darth Vader to turn this die to any side.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08016",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": true,
+        "name": "Darth Vader's Lightsaber",
+        "position": 16,
+        "rarity_code": "L",
+        "set_code": "AtG",
+        "sides": [
+            "1MD",
+            "+2MD",
+            "+3MD",
+            "+4MD",
+            "2Sh",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After you resolve this die, you may spend 1 resource to roll one of attached character's character dice into your pool. Then, if this upgrade is on Darth Vader, deal 1 damage to a character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "08018",
         "deck_limit": 1,
         "faction_code": "red",
@@ -583,6 +725,23 @@
         ],
         "text": "After you play this support, you may search your deck or discard pile for Escape Craft ([AtG]102) and attach it to th is support as a <i>mod</i> upgrade <em>(without paying its cost)</em>. If you searched your deck, shuffle it.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08111",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Audrey Hotte",
+        "is_unique": false,
+        "name": "Deadly Advance",
+        "position": 111,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Count the number of exhausted characters your opponents have. Turn up to that many of your dice to sides showing melee damage ([melee]).",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
