@@ -82,7 +82,7 @@
         "subtypes": [
             "location"
         ],
-        "text": "<b>Action</b> - Exhaust this support to h eal 1 damage from a Blue character and place 1 card from your discard pile on the bottom of your deck. Spot Darth Vader to draw a card.",
+        "text": "<b>Action</b> - Exhaust this support to heal 1 damage from a Blue character and place 1 card from your discard pile on the bottom of your deck. Spot Darth Vader to draw a card.",
         "type_code": "support"
     },
     {
@@ -349,7 +349,7 @@
             "leader",
             "scoundrel"
         ],
-        "text": "<b>Power Action<b> - Each player gains 1 resource.\n[special] - Take 1 resource from an opponent. If that opponent has no resources, gain 1 resource.",
+        "text": "<b>Power Action</b> - Each player gains 1 resource.\n[special] - Take 1 resource from an opponent. If that opponent has no resources, gain 1 resource.",
         "type_code": "character"
     },
     {
