@@ -32,6 +32,37 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "08002",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"Doom is upon us.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "Audrey Hote",
+        "is_unique": true,
+        "name": "Luce",
+        "points": "8/11",
+        "position": 2,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1ID",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Callous Nightsister",
+        "subtypes": [
+            "witch"
+        ],
+        "text": "<b>Action</b> — Discard a caard from your hand that costs an odd number to reroll a die <em>(yours or an opponent's)</em>.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "08006",
         "cost": 1,
         "deck_limit": 2,
@@ -112,6 +143,34 @@
         ],
         "text": "After you play this support, you may roll this die into your pool.\n<b>Power Action</b> - Roll this die into your pool. Spot Darth Vader to turn this die to any side.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08015",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Jason Juta",
+        "is_unique": false,
+        "name": "Chain Sickle",
+        "position": 15,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "2MD",
+            "2MD",
+            "3MD",
+            "1Dc",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After a character takes damage from this die, reroll any number of that character's character and upgrade dice.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "villain",
@@ -523,6 +582,37 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "08073",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Darren Tan",
+        "is_unique": true,
+        "name": "Clone Commander Cody",
+        "points": "9/13",
+        "position": 73,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2ID",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Loyal Strategist",
+        "subtypes": [
+            "leader",
+            "trooper"
+        ],
+        "text": "While building your team, the point value of each Clone Trooper ([EaW]38) is decreased by 1.\n[special] - Take control of the battlefield and use its claim ability or power action, even if it has been used this round.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "08074",
         "deck_limit": 1,
         "faction_code": "red",
@@ -551,6 +641,24 @@
         ],
         "text": "After you activate this character, you may look at the top 3 cards of an opponent's deck, and rearrange them in any order. You may discard the top card of that deck.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08077",
+        "cost": 5,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"I have to admit that without the clones it would not have been a victory.\" <cite>Obi-Wan Kenobi</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": false,
+        "name": "Attack of The Clones",
+        "position": 77,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Ready any number of your non-unique characters that have the same title.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "hero",
@@ -741,6 +849,24 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Count the number of exhausted characters your opponents have. Turn up to that many of your dice to sides showing melee damage ([melee]).",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08123",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"Squadron up. Target Eadu.\" <cite>General Draven</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": false,
+        "name": "Deployment",
+        "position": 123,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Activate any number of your supports and non-unique characters.",
         "type_code": "event"
     },
     {
