@@ -1960,6 +1960,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "08156",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Cynthia Sheppard",
+        "is_unique": false,
+        "name": "Solidraity",
+        "points": "-1",
+        "position": 156,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Include only if each character on your team is the same color and your deck contains no more than one copy of any card.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "08158",
         "deck_limit": 1,
         "faction_code": "gray",
