@@ -2013,11 +2013,11 @@
         "rarity_code": "R",
         "set_code": "LEG",
         "sides": [
-            "0ID",
-            "0ID",
-            "0F",
-            "0Dr",
-            "0Sh",
+            "XID",
+            "XID",
+            "XF",
+            "XDr",
+            "XSh",
             "-"
         ],
         "text": "X is equal to the number of Yellow characters you have in play.",
