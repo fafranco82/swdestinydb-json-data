@@ -4,6 +4,10 @@
         "name": "Ability"
     },
     {
+        "code": "apprentice",
+        "name": "Apprentice"
+    },
+    {
         "code": "artillery",
         "name": "Artillery"
     },
@@ -46,6 +50,10 @@
     {
         "code": "mod",
         "name": "Mod"
+    },
+    {
+        "code": "nightbrother",
+        "name": "Nightbrother"
     },
     {
         "code": "pilot",

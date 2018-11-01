@@ -4,6 +4,10 @@
         "name": "Képesség"
     },
     {
+        "code": "apprentice",
+        "name": "Apprentice"
+    },
+    {
         "code": "artillery",
         "name": "Tüzérség"
     },
