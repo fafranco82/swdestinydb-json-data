@@ -776,6 +776,23 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "08044",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mark Behm",
+        "is_unique": false,
+        "name": "Shakedown",
+        "position": 44,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Play only if you have one or more dice showing a disrupt ([disrupt]).\nRemove a die showing a value of 2 or less.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "08045",
         "cost": 0,
         "deck_limit": 2,
@@ -907,6 +924,23 @@
             "weapon"
         ],
         "text": "After you play this upgrade on Tobias Beckett, you may force an opponent to lose 1 resource.\n[special] - Deal 2 damage to an opponent's character, or 3 damage instead if that opponent has no resources.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08053",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Vow Of Vengeance",
+        "position": 53,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Increase the value of each of attached character's character dice showing damage ([ranged], [melee] or [indirect]) by 1 for each defeated character you have.",
         "type_code": "upgrade"
     },
     {
@@ -1439,6 +1473,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "08093",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": false,
+        "name": "Aid From Above",
+        "position": 93,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Force an opponent to choose 2:\n-You draw 2 cards.\n-You gain 2 resources.\n- You take 2 additional actions.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "08097",
         "cost": 0,
         "deck_limit": 2,
@@ -1526,6 +1577,79 @@
         ],
         "text": "After you play this support, you may search your deck or discard pile for Escape Craft ([AtG]102) and attach it to th is support as a <i>mod</i> upgrade <em>(without paying its cost)</em>. If you searched your deck, shuffle it.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08106",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Clark Huggins",
+        "is_unique": false,
+        "name": "Energy Pike",
+        "position": 106,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1Dr",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "[special] - Deal damage to a character equal to the number of resources you have, to a maximum of 3.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08107",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Token Of Affection",
+        "position": 107,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1F",
+            "1Sh",
+            "1R",
+            "+1R",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "After you play a card that has Ambush, you may move this upgrade to another one of your characters <em>(return this die to its card)</em>.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08108",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Alexandr Eiichev",
+        "is_unique": false,
+        "name": "At Odds",
+        "position": 108,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Remove a die showing a value that is an odd number. You may place this event on the bottom of your deck.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
@@ -1659,7 +1783,6 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "",
         "has_die": false,
         "has_errata": false,
         "illustrator": " ",
@@ -1705,6 +1828,35 @@
         "set_code": "AtG",
         "text": "<b>Action</b> - Set this plot aside to search your deck or discard pile for a <i>vehicle</i> support and play it, decreasing its cost by 1. If you search your deck, shuffle it.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08131",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "William Koh",
+        "is_unique": false,
+        "name": "Dorsal Turret",
+        "position": 131,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1RD",
+            "+2RD",
+            "2ID",
+            "1Dc",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "weapon",
+            "mod"
+        ],
+        "text": "Modify <i>vehicle</i> support.\nAfter you play this upgrade, you may roll this die into your pool.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",
