@@ -1574,6 +1574,34 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "08119",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": false,
+        "name": "Shatterpoint",
+        "position": 119,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "2RD",
+            "1F",
+            "1R",
+            "Sp1",
+            "Sp1",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Blue character only. \n [special] - Discard an <b>equipment</b> or a <b>weapon</b> from play that costs equal to or less than the number of Blue <b>ability</b> dice in your pool <em>(including this die)</em>.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "08121",
         "cost": 1,
         "deck_limit": 2,
