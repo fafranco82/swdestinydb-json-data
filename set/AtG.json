@@ -1558,7 +1558,7 @@
         "position": 121,
         "rarity_code": "C",
         "set_code": "AtG",
-        "text": "Spot a Red character to resolve one of your non-character dice, increasing its value by the number of copies of that die in your pool <i>(including that die)</i>.",
+        "text": "Spot a Red character to resolve one of your non-character dice, increasing its value by the number of copies of that die in your pool <em>(including that die)</em>.",
         "type_code": "event"
     },
     {
@@ -1876,7 +1876,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "This support can be activated.\nAfter you activate attached support, you may reroll a die <i>(yours or an opponent's)</i>.",
+        "text": "This support can be activated.\nAfter you activate attached support, you may reroll a die <em>(yours or an opponent's)</em>.",
         "type_code": "support"
     },
     {
@@ -1956,6 +1956,23 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Include only if you have no hero or villain characters on your team.\nEach of your neutral characters has +1 health.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08156",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Cynthia Sheppard",
+        "is_unique": false,
+        "name": "Solidraity",
+        "points": "-1",
+        "position": 156,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Include only if each character on your team is the same color and your deck contains no more than one copy of any card.",
         "type_code": "plot"
     },
     {
