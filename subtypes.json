@@ -64,6 +64,10 @@
         "name": "Podracer"
     },
     {
+        "code": "scavenger",
+        "name": "Scavenger"
+    },
+    {
         "code": "scoundrel",
         "name": "Scoundrel"
     },
