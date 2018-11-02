@@ -1864,7 +1864,7 @@
         "set_code": "AtG",
         "text": "Ambush.\nRemove a non-unique die and all copies of it from each of your opponent's pools.",
         "type_code": "event"
-    }
+    },
     {
         "affiliation_code": "neutral",
         "code": "08143",
