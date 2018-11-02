@@ -58,7 +58,7 @@
         "subtypes": [
             "witch"
         ],
-        "text": "<b>Action</b> — Discard a caard from your hand that costs an odd number to reroll a die <em>(yours or an opponent's)</em>.",
+        "text": "<b>Action</b> — Discard a card from your hand that costs an odd number to reroll a die <em>(yours or an opponent's)</em>.",
         "type_code": "character"
     },
     {
@@ -232,7 +232,7 @@
         "flavor": " ",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Bloodlust",
         "position": 14,
@@ -729,7 +729,7 @@
         "flavor": " ",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "In a Bind",
         "position": 43,
@@ -815,6 +815,35 @@
         ],
         "text": "<b>Power Action</b> - Play a <i>mod</i> from your hand on this support, if able, decreasing its cost by 2.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08051",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "The bounty hunter Latts Razzi wielded the triple scaled rows of a grappling boa.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Martin Diego Sadaba",
+        "is_unique": false,
+        "name": "Grappling Boa",
+        "position": 51,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1MD",
+            "1MD",
+            "2MD1",
+            "1Dc",
+            "1Dc",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After a character takes damage from this dice, you may remove one of that character's character dice.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "villain",
@@ -1087,7 +1116,7 @@
         "flavor": " ",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Evacuate",
         "position": 79,
@@ -1252,7 +1281,7 @@
         "has_errata": false,
         "illustrator": "Jeff Lee Johnson",
         "is_unique": false,
-        "name": "R2 Atromech",
+        "name": "R2 Astromech",
         "position": 88,
         "rarity_code": "C",
         "set_code": "AtG",
@@ -1470,7 +1499,7 @@
         "faction_code": "blue",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "No Questions Asked",
         "position": 112,
@@ -1487,7 +1516,7 @@
         "faction_code": "blue",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "You Were My Friend",
         "position": 114,
@@ -1545,6 +1574,34 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "08119",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": false,
+        "name": "Shatterpoint",
+        "position": 119,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "2RD",
+            "1F",
+            "1R",
+            "Sp1",
+            "Sp1",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Blue character only. \n [special] - Discard an <b>equipment</b> or a <b>weapon</b> from play that costs equal to or less than the number of Blue <b>ability</b> dice in your pool <em>(including this die)</em>.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "08121",
         "cost": 1,
         "deck_limit": 2,
@@ -1552,7 +1609,7 @@
         "flavor": "",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Attack Formation",
         "position": 121,
