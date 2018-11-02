@@ -124,6 +124,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "08005",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"I see the queen has given you a long leash.\" <cite>Count Dooku</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Ryan Valle",
+        "is_unique": false,
+        "name": "Burst Of Lightning",
+        "position": 5,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Remove all shields from a character. For each shield just removed, you may remove a die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "08006",
         "cost": 1,
         "deck_limit": 2,
@@ -547,6 +565,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "08033",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"I still remember my last orders. The day the real war began.\" <cite>Iden Versio</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Vigilance",
+        "position": 33,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Your opponents cannot turn dice.\nAfter the action phase ends, discard this support from play.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "08034",
         "cost": 1,
         "deck_limit": 2,
@@ -966,6 +1002,23 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Choose 2 dice that are different colors. Then remove those dice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08066",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Safeguard",
+        "position": 66,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Give a character shields equal to the number of upgrades on one of your characters.",
         "type_code": "event"
     },
     {
@@ -1795,6 +1848,23 @@
         "text": "Spot any number of Yellow characters to resolve that many of your Yellow dice in the order of your choice.",
         "type_code": "event"
     },
+    {
+        "affiliation_code": "neutral",
+        "code": "08142",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Shock Tactic",
+        "position": 142,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Ambush.\nRemove a non-unique die and all copies of it from each of your opponent's pools.",
+        "type_code": "event"
+    }
     {
         "affiliation_code": "neutral",
         "code": "08143",
