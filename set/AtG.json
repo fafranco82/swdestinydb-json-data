@@ -731,7 +731,7 @@
         "has_errata": false,
         "illustrator": " ",
         "is_unique": false,
-        "name": "Explot",
+        "name": "Exploit",
         "position": 40,
         "rarity_code": "C",
         "set_code": "AtG",
@@ -944,6 +944,23 @@
         "type_code": "upgrade"
     },
     {
+        "affiliation_code": "villain",
+        "code": "08054",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Retribution",
+        "points": "1",
+        "position": 54,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Include only if you have a character on your team that is 20 or more points on your team. \n After one or more of your character dice are removed by an opponent, you may deal 1 damage to a character.",
+        "type_code": "plot"
+    },
+    {
         "affiliation_code": "hero",
         "code": "08055",
         "deck_limit": 1,
@@ -972,6 +989,35 @@
             "apprentice"
         ],
         "text": "After another character's character die is turned, you may turn one of this character's character dice to a side showing the same symbol as that die.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08056",
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Force Mystic",
+        "points": "9",
+        "position": 56,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1RD",
+            "2ID",
+            "1Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "scavenger"
+        ],
+        "text": "Each Blue <b>ability</b> on this character has Redeploy. \n [special] - Roll a die on a Blue <b>ability</b> on this character into your pool.",
         "type_code": "character"
     },
     {
@@ -1831,6 +1877,35 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "08130",
+        "cost": 2,
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "Lined with 1,024 repulsorpods, the cavernous Senate Chamber was the meeting hall for the Galactic Senate.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Senate Chamber",
+        "position": 130,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "2F",
+            "2F",
+            "1Dc",
+            "1R",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "location"
+        ],
+        "text": "<b>Power Action</b> - Remove one of your dice to turn a die to any side.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "08131",
         "cost": 1,
         "deck_limit": 2,
@@ -1976,7 +2051,7 @@
         "has_errata": false,
         "illustrator": "Mariusz Gandzel",
         "is_unique": false,
-        "name": "Indiferent",
+        "name": "Indifferent",
         "position": 140,
         "rarity_code": "U",
         "set_code": "AtG",
@@ -2209,7 +2284,7 @@
         "has_errata": false,
         "illustrator": "Lukasz Jaskolski",
         "is_unique": false,
-        "name": "Trageting Astromech",
+        "name": "Targeting Astromech",
         "position": 154,
         "rarity_code": "U",
         "set_code": "AtG",
@@ -2246,7 +2321,7 @@
         "has_errata": false,
         "illustrator": "Cynthia Sheppard",
         "is_unique": false,
-        "name": "Solidraity",
+        "name": "Solidarity",
         "points": "-1",
         "position": 156,
         "rarity_code": "U",
