@@ -1760,7 +1760,7 @@
         "set_code": "AtG",
         "text": "Yellow character only.\nBefore a character would be dealt damage, you may exhaust this upgrade to deal that damage to attached character instead.",
         "type_code": "upgrade"
-    }
+    },
     {
         "affiliation_code": "hero",
         "code": "08106",
