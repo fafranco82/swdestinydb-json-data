@@ -20,6 +20,10 @@
         "name": "Droid"
     },
     {
+        "code": "engineer",
+        "name": "Engineer"
+    },
+    {
         "code": "equipment",
         "name": "Equipment"
     },

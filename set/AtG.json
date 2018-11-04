@@ -177,6 +177,40 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "08008",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Cristi Balanescu",
+        "is_unique": false,
+        "name": "I Am The Senate",
+        "position": 8,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Play only if you have exactly one character in play.\nFor each die in your pool, you may remove a die showing the same value as that die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08009",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Let The Hate Flow",
+        "position": 9,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Play only if you have one or more dice showing a blank ([blank]).\nTurn a die to a side showing a blank ([blank]).",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "08010",
         "cost": 2,
         "deck_limit": 2,
@@ -193,6 +227,23 @@
             "location"
         ],
         "text": "<b>Action</b> - Exhaust this support to heal 1 damage from a Blue character and place 1 card from your discard pile on the bottom of your deck. Spot Darth Vader to draw a card.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08011",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Galactic Deception",
+        "position": 11,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Your opponents cannot give shields to characters.\nAfter the action phase ends, discard this support from play.",
         "type_code": "support"
     },
     {
@@ -475,6 +526,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "08025",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"Don't worry about Higher Skies. Whatever is there, we'll find it.\" <cite>Wullf Yularen</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Hatching A Plan",
+        "position": 25,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Turn a die to a side showing a discard ([discard]).",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "08026",
         "cost": 1,
         "deck_limit": 2,
@@ -596,6 +665,34 @@
             "vehicle"
         ],
         "text": "Ambush.\nYou may include up to 4 copies of this support in your deck.\nAfter you play this support, search your deck for a copy of it, reveal it, and add it to your hand. Shuffle your deck.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08032",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Mark Molnar",
+        "is_unique": false,
+        "name": "Umbaran Hover Tank",
+        "position": 32,
+        "rarity_code": "L",
+        "set_code": "AtG",
+        "sides": [
+            "2RD",
+            "3ID",
+            "2Dr",
+            "1R",
+            "Sp1",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "[special] - Deal 2 damage to each of an opponent's characters, or 3 damage instead if one or more <i>mods</i> are on this support.",
         "type_code": "support"
     },
     {
@@ -740,6 +837,23 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "08038",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Act Of Cruelty",
+        "position": 38,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Deal 1 unblockable damage to each of an opponent's damaged characters. Then discard a random card from that opponent's hand for each defeated character they have.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "08039",
         "cost": 1,
         "deck_limit": 2,
@@ -789,6 +903,23 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot a Yellow character to gain resources equal to the cost of a support or an upgrade in play.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08042",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Heated Confrontation",
+        "position": 42,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Ambush.\nResolve one of your dice showing damage ([ranged], [melee] or [indirect]). Then force an opponent to resolve one of their dice showing damage ([ranged], [melee] or [indirect]).",
         "type_code": "event"
     },
     {
@@ -903,6 +1034,52 @@
         ],
         "text": "<b>Power Action</b> - Play a <i>mod</i> from your hand on this support, if able, decreasing its cost by 2.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08049",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Relentless",
+        "position": 49,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Your opponents cannot heal characters.\nAfter the action phase ends, discard this support from play.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08050",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "A weapon of choice for the Kanjiklub.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Donderbus Blaster Pistol",
+        "position": 50,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1RD",
+            "+2RD",
+            "2ID",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Yellow character only. Redeploy.\nAfter you play this upgrade, you may activate attached character.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "villain",
@@ -1052,7 +1229,7 @@
         "subtypes": [
             "scavenger"
         ],
-        "text": "Each Blue <b>ability</b> on this character has Redeploy. \n [special] - Roll a die on a Blue <b>ability</b> on this character into your pool.",
+        "text": "Each Blue <i>ability</i> on this character has Redeploy.\n [special] - Roll a die on a Blue <i>ability</i> on this character into your pool.",
         "type_code": "character"
     },
     {
@@ -1101,6 +1278,40 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Resolve one of your dice showing melee damage ([melee]) as unblockable. Then, if the character just dealt damage has 1 remaining health, defeat it.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08061",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Gathering Intelligence",
+        "position": 61,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Look at each opponent's hand. Look at the top card of each deck.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08062",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Hold Off",
+        "position": 62,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Play only if you have one or more dice showing a shield ([shield]).\nRemove a die showing melee damage ([melee]) or give a character 1 shield.",
         "type_code": "event"
     },
     {
@@ -1186,6 +1397,62 @@
         "set_code": "AtG",
         "text": "Each of your upgrades has Redeploy.\nAfter the action phase ends, discard this support from play.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08069",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "Before younglings are taught to construct a lightsaber, the must first prove themselves against a remote with only a wooden staff.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Lightsaber Training Staff",
+        "position": 69,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "0MD",
+            "0MD",
+            "0MD",
+            "1MD",
+            "1MD",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08070",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Pillio Star Compass",
+        "position": 70,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1F",
+            "+1F",
+            "1Sh",
+            "2Sh1",
+            "+1R",
+            "-"
+        ],
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "<b>Power Action</b> - Turn one of your dice to a side matching the symbol and value showing on this die.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
@@ -1310,6 +1577,52 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "08075",
+        "deck_limit": 3,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Rebel Engineer",
+        "points": "8",
+        "position": 75,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "2ID",
+            "1F",
+            "1F",
+            "1R",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "engineer"
+        ],
+        "text": "After you activate this character, you may look at the top 4 cards of your deck, reveal a <i>mod</i> from among them, and add it to your hand. Place the rest of those cards on the bottom of your deck in any order.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08076",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Aerial Advantage",
+        "position": 76,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Play only if you control the battlefield.\nSpot a Red character to turn a die to any side. You may spot a <i>vehicle</i> to remove a die. You may spot a </i>mod</i> to turn a die to any side or remove a die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "08077",
         "cost": 5,
         "deck_limit": 2,
@@ -1324,6 +1637,23 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Ready any number of your non-unique characters that have the same title.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08078",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Dogfight",
+        "position": 78,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Exhaust an opponent's <i>vehicle</i>. Then you may ready a <i>vehicle</i>.",
         "type_code": "event"
     },
     {
@@ -1622,6 +1952,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "08092",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "A Good Investment",
+        "position": 92,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Play only if you have one or more dice showing a resource ([resource]).\nGain 4 resources, or 5 resources instead if you took 2 or more actions this turn <em>(not this round)</em>.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "08093",
         "cost": 2,
         "deck_limit": 2,
@@ -1635,6 +1982,58 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Force an opponent to choose 2:\n-You draw 2 cards.\n-You gain 2 resources.\n- You take 2 additional actions.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08094",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Daring Gambit",
+        "position": 94,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Reroll all of your dice. Then resolve one of your Yellow dice, increasing its value by the number of other dice in your pool. Remove all of your dice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08095",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"We do it right, they won't even know we're there. Not until it's too late.\" <cite>Lando Calrissian</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Drop In",
+        "position": 95,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Activate one of your characters or supports. If you are fighting on your battlefield, this event has Ambush.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08096",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mark Molnar",
+        "is_unique": false,
+        "name": "Hijack",
+        "position": 96,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Spot a Yellow character to take control of an opponent's <i>vehicle</i> support that has no <i>mods</i> and ready it <em>(return its die to its card)</i>. After the action phase ends, return that <i>vehicle</i> to its owner's control.",
         "type_code": "event"
     },
     {
@@ -1673,6 +2072,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "08099",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Reluctance",
+        "position": 99,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Ambush.\nChoose an opponent. That opponent cannot resolve more than one die during their next turn this round.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "08100",
         "cost": 1,
         "deck_limit": 2,
@@ -1686,6 +2102,23 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Remove 2 of your dice showing melee damage ([melee]). Then deal unblockable damage equal to the combined value showing on those dice to any number of characters, distributed as you wish.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08101",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Through The Pass",
+        "position": 101,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Activate one of your characters or supports. Then you may spend resources equal to the number of dice you just rolled to ready that character or support.",
         "type_code": "event"
     },
     {
@@ -1853,6 +2286,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "08110",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Conflicted",
+        "position": 110,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Reroll one of your Blue character dice. Then, if that die just rolled damage ([ranged], [melee] or [indirect]), deal 2 damage to a character. Otherwise, give a character 2 shields.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "08111",
         "cost": 2,
         "deck_limit": 2,
@@ -1939,6 +2389,24 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "08116",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"Sense the future, once all Jedi could.\" <cite>Yoda</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Foresight",
+        "position": 116,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "<b>Action</b> - Exhaust this support to look at the top card of a deck. You may place that card on the bottom of that deck.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "08117",
         "cost": 1,
         "deck_limit": 2,
@@ -2019,7 +2487,35 @@
         "subtypes": [
             "ability"
         ],
-        "text": "Blue character only. \n [special] - Discard an <b>equipment</b> or a <b>weapon</b> from play that costs equal to or less than the number of Blue <b>ability</b> dice in your pool <em>(including this die)</em>.",
+        "text": "Blue character only. \n [special] - Discard an <i>equipment</i> or a <i>weapon</i> from play that costs equal to or less than the number of Blue <i>ability</i> dice in your pool <em>(including this die)</em>.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08120",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Treasured Lightsaber",
+        "position": 120,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "+1MD",
+            "+2MD",
+            "1Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After you play this upgrade, you may draw a card.\n[special] - Deal 2 unblockable damage to a character, or 3 unblockable damage instead if you have 5 or more cards in your hand.",
         "type_code": "upgrade"
     },
     {
@@ -2037,6 +2533,23 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot a Red character to resolve one of your non-character dice, increasing its value by the number of copies of that die in your pool <em>(including that die)</em>.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08122",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Barrel Roll",
+        "position": 122,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Activate one of your support. Reroll any number of its support and <i>mod</i> dice. Then reroll any number of its support and <i>mod</i> dice.",
         "type_code": "event"
     },
     {
@@ -2059,6 +2572,24 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "08124",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"Green Group, stick close to holding sector MV-7.\" <cite>Admiral Ackbar</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mark Molnar",
+        "is_unique": false,
+        "name": "Fleet Command",
+        "position": 124,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Spot any number of Red characters to reroll that many dice <em>(yours and/or an opponent's)</em>.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "08125",
         "cost": 1,
         "deck_limit": 2,
@@ -2076,6 +2607,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "08126",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Revised Order",
+        "position": 126,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Turn a die to a side that has a value 1 higher than the value showing on it. If you control the battlefield, return this event to your hand.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "08127",
         "cost": 2,
         "deck_limit": 2,
@@ -2089,6 +2637,23 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Play only if you control the battlefield.\nRemove all dice showing damage ([ranged], [melee] or [indirect]).",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08128",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Transfer",
+        "position": 128,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Move a <i>mod</i> on one of your <i>vehicle</i> to another one of your <i>vehicle</i> supports.",
         "type_code": "event"
     },
     {
@@ -2164,6 +2729,35 @@
             "mod"
         ],
         "text": "Modify <i>vehicle</i> support.\nAfter you play this upgrade, you may roll this die into your pool.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08132",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "The Alliance made sure to find a use for every weapon they could, from stun batons to repurposed TIE fighter cannons.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": false,
+        "name": "Handheld L-S1 Cannon",
+        "position": 132,
+        "rarity_code": "L",
+        "set_code": "AtG",
+        "sides": [
+            "2RD",
+            "+3RD",
+            "3ID",
+            "3ID1",
+            "1Dr",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Attached character's upgrade limit is decreased by 1.",
         "type_code": "upgrade"
     },
     {
@@ -2290,6 +2884,23 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Spot a Yellow character and choose a support in play that has no <i>mods</i>. Then spend resources equal to that support's cost to discard it.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08139",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Fight Fire With Fire",
+        "position": 139,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Remove one of your dice showing indirect damage ([indirect]) to remove a die.",
         "type_code": "event"
     },
     {
@@ -2465,6 +3076,51 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "08148",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Flame Projector",
+        "position": 148,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1MD",
+            "2MD",
+            "2MD1",
+            "1Dr",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Yellow character only.\n<b>Action</b> - Resolve this die showing melee damage ([melee]) as indirect damage ([indirect]), incresing its value by 1.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08149",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Shriek",
+        "position": 149,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Remove all of an opponent's dice showing a value of 0 <em>(blanks and specials have a value of 0)</em>.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "08150",
         "cost": 1,
         "deck_limit": 2,
@@ -2599,6 +3255,23 @@
         "set_code": "AtG",
         "text": "Include only if each character on your team is the same color and your deck contains no more than one copy of any card.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08157",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Landing Dock",
+        "position": 157,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "subtitle": "Scipio",
+        "text": "After any player plays a <i>vehicle</i>, that player may take control of this battlefield.\n<b>Power Action</b> - Reroll a die.",
+        "type_code": "battlefield"
     },
     {
         "affiliation_code": "neutral",
