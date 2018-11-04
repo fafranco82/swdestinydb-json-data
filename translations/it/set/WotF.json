@@ -486,6 +486,154 @@
         "code": "07096",
         "name": "Genio della Meccanica",
         "text": "Guarda 5 carte dalla cima del tuo mazzo, rivela 1 <i>Droide</i> o 1 <i>Sguscio</i> appena guardato e aggiungili alla tua mano. Colloca le altre carte guardate in fondo al tuo mazzo nell'ordine che preferisci."
+    },
+        {
+        "code": "07097",
+        "name": "Fuga Miracolosa",
+        "text": "Gioca questa carta solo se non hai altre carte nella tua mano.\"Rimuovi 1 dado."
+    },
+    {
+        "code": "07098",
+        "name": "Detonazione Programmata",
+        "text": "Gioca questa carta solo se un avversario controlla il campo di battaglia.\nInfliggi a quell'avversario un ammontare di danni secondari ([indirect]) pari al numero di risorse che possiede fino ad un massimo di 5."
+    },
+    {
+        "code": "07099",
+        "name": "Giusta Causa",
+        "text": "Imboscata.<em>（Dipo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.）<em>\nSposta 1 danno da una tua carta a un'altra tua carta dello stesso tipo <em>(ignorando gli scudi)</em>."
+    },
+    {
+        "code": "07100",
+        "name": "Bersaglio Sotto Tiro",
+        "text": "Se i tuoi dadi mostrano 5 o più simboli diversi, infliggi 2 danni a un personaggio oppure, se i tuoi dadi mostrano 10 o più simboli diversi, sconfiggi 1 personaggio."
+    },
+    {
+        "code": "07101",
+        "name": "Sparatoria",
+        "text": "Gira fino a 3 dadi di un avversario su una faccia \"danno\" ([ranged], [melee] o [indirect]). Poi gira un pari ammontare di tuoi dadi su una faccia \"danno\" ([ranged], [melee] o [indirect])."
+    },
+    {
+        "code": "07102",
+        "name": "Sguscio di Anakin Skywalker",
+        "text": "Imboscata.\nDopo che hai risolto questo dado, puoi scartare la carta dalla cima di 1 mazzo oppure, se avvisti Anakin Skywalker, scartare 1 carta casuale dalla mano di 1 avversario."
+    },
+    {
+        "code": "07103",
+        "flavor": "\"L'astrocaccia N-1 rappresenta l'apice della teconologia di Naboo.\" <cite>Capitano Quarsh Panaka</cite>",
+        "name": "Astrocaccia N-1",
+        "text": "[special] - Ripristina o scarta 1 <i>Veicolo</i> che non sia una copia di questo supporto."
+    },
+    {
+        "code": "07104",
+        "name": "Blaster Pesante CR-2",
+        "text": "[special] - Infliggi 2 danni a un personaggio (4 danni se un avversario non ha dadi nella sua riserva."
+    },
+    {
+        "code": "07105",
+        "name": "Furtivo",
+        "text": "Il personaggio con questa miglioria possiede il sottotipo <i>Soldato</i>.\n[special] - Scarta un ammontare di carte pari al valore mostrato su 1 tuo dado personaggio dalla cima di 1 mazzo."
+    },
+        {
+        "code": "07106",
+        "name": "Via Della Luce",
+        "text": "Rimuovi 1 dado non Eroe."
+    },
+    {
+        "code": "07107",
+        "flavor": "I piatti migliori su questo lato del Distretto del Senato.",
+        "name": "Tavola Calda di Dex",
+        "text": "<b>Azione</b> - Esaurisci questo supporto e spendi 1 risorsa per curare 1 danno a un personaggio (2 danni se quel personaggio possiede 6 o più danni)."
+    },
+    {
+        "code": "07108",
+        "name": "Unità Nella Forza",
+        "text": "Rimuovi 1 tuo dado Blu. Poi risolvi 1 tuo dado, aumentando il suo valore del dado appena rimosso."
+    },
+    {
+        "code": "07109",
+        "name": "Raggirare",
+        "text": "Ripeti il tiro di 1 dado dell'avversario. Poi gira 1 suo dado su una faccia a tua scelta. Poi rimuovi 1 suo dado."
+    },
+    {
+        "code": "07110",
+        "flavor": "\"Ho portato pace, libertà, giustizia e sicurezza nel mio nuovo impero.\" <cite>Darth Vader</cite>",
+        "name": "Controllo",
+        "text": "Gira tutti i tuoi dadi su una faccia a tua scelta."
+    },
+    {
+        "code": "07111",
+        "name": "Divisione Nella Forza",
+        "text": "Risolvi 1 tuo dado blu. Poi rimuovi 1 dado del valore del dado appena risolto."
+    },
+    {
+        "code": "07112",
+        "name": "Fiamme Del Passato",
+        "text": "Scarta 1 carta dal gioco se c'è una copia di quella carta in una pila degli scarti."
+    },
+    {
+        "code": "07113",
+        "name": "Pace E Silenzio",
+        "text": "Gira 1 dado su una faccia di valore pari a 0. <em>(\"speciale\" e \"vuoto\" hanno valore pari a 0)<em>."
+    },
+    {
+        "code": "07114",
+        "name": "Sorti Rovesciate",
+        "text": "Sposta tutti gli scudi da un personaggio di un avversario a un tuo personaggio."
+    },
+    {
+        "code": "07115",
+        "name": "Fatto Per Durare",
+        "text": "Ogni tua miglioria unica possiede la parola chiave Riposizionamento.\nDopo che hai giocato una miglioria unica, puoi esaurire questa trama per ottenere 1 risorsa."
+    },
+    {
+        "code": "07116",
+        "name": "Abilità Affinate",
+        "text": "Ogni tuo personaggio può possedere 1 miglioria aggiuntiva."
+    },
+    {
+        "code": "07117",
+        "name": "Daga di Mortis",
+        "text": "Riposizionamento.\nPrima di risolvere questo dado \"danno in mischia\" ([melee]), puoi spostare 1 scudo da un personaggio Blu al personaggio con questa miglioria."
+    },
+    {
+        "code": "07118",
+        "name": "Salto di Forza",
+        "text": "Solo personaggi Blu.\n[special] - Gira un dado \"danno\" ([ranged], [melee] o [indirect]) su una faccia \"vuoto\" ([blank]). Ripeti il tiro di questo dado invece di rimuoverlo."
+    },
+    {
+        "code": "07119",
+        "name": "Vie Della Forza",
+        "text": "Gioca questa carta solo se avvisti 1 personaggio Blu.\nConsidera il personaggio con questa miglioria come se fosse elite <em>(collocando una seconda copia del suo dado sulla sua carta)<em>."
+    },
+    {
+        "code": "07120",
+        "name": "Fato Inaspettato",
+        "text": "Scegli un qualsiasi numero di dadi. obbliga un avversario a girare ognuno di quei dadi su una faccia a sua scelta."
+    },
+    {
+        "code": "07121",
+        "name": "Colpo Di Striscio",
+        "text": "Risolvi 1 tuo dado \"danno\" ([ranged], [melee] o [indirect]), riducendo di 1 il suo valore. Poi rimuovi 1 dado."
+    },
+    {
+        "code": "07122",
+        "name": "Entrata Teatrale",
+        "text": "Attiva 1 tuo personaggio. Ripeti il tiro di un qualsiasi numero di suoi dadi personaggio e miglioria. Poi ripeti il tiro di un qualsiasi numero di suoi dadi personaggio e miglioria."
+    },
+    {
+        "code": "07123",
+        "name": "Acquisizione Ostile",
+        "text": "Gioca questa carta solo se controlli il campo di battaglia.\nScegli un simbolo mostrato su un tuo dado. Poi risolvi 1 dado di un avversario con quel simbolo come se fosse un tuo dado."
+    },
+    {
+        "code": "07124",
+        "name": "Sovraccarico",
+        "text": "Colloca 1 danno su un supporto in gioco. Poi puoi scartare quel supporto se possiede un ammontare di danni pari o superiore al suo costo."
+    },
+    {
+        "code": "07125",
+        "name": "Ricostruzione",
+        "text": "Aggiungi alla tua mano 1 supporto dalla tua pila degli scarti."
     },                
     {
         "code": "07154",
