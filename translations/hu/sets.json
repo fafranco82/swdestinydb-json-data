@@ -4,7 +4,31 @@
         "name": "Ébredések"
     },
     {
+        "code": "AtG",
+        "name": "Across the Galaxy"
+    },
+    {
+        "code": "EaW",
+        "name": "A Birodalom fegyverben"
+    },
+    {
+        "code": "LEG",
+        "name": "Örökség"
+    },
+    {
+        "code": "RIV",
+        "name": "Riválisok"
+    },
+    {
         "code": "SoR",
         "name": "A lázadás szelleme"
+    },
+    {
+        "code": "TPG",
+        "name": "Kétfős csomag"
+    },
+    {
+        "code": "WotF",
+        "name": "Az erő útja"
     }
 ]

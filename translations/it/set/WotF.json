@@ -81,11 +81,7 @@
         "name": "Spada Laser del Quinto Fratello",
         "text": "Finché questa miglioria è assegnata al Quinto Fratello, puoi risolvere questo dado come se non fosse modificatore.\nDopo che hai risolto questo dado, puoi infliggere 1 danno a un personaggio."
     },
-    // {
-    //     "code": "07016",
-    //     "name": "",
-    //     "text": "\n[special] - "
-    // },
+
     {
         "code": "07017",
         "flavor": "\"Mi sento dilaniato. Voglio liberarmi da questa pena.\" <cite>Kylo Ren</cite>",
@@ -104,13 +100,7 @@
         "name": "Esecutore",
         "text": "Dopo che un personaggio dell'avversario è stato sconfitto, puoi tirare questo dado nella tua riserva."
     },
-    // {
-    //     "code": "07020",
-    //     "flavor": "\"Intensify forward power!\"",
-    //     "name": "皮耶特上将",
-    //     "subtitle": "Ambitious Admiral",
-    //     "text": "在你启动该角色后，可以将你的任意数量的<i>载具</i>骰和非独有角色骰转到数值为1的面。"
-    // },
+
     {
         "code": "07021",
         "name": "Generale Grevious",

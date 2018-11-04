@@ -12,6 +12,10 @@
         "name": "Esemény"
     },
     {
+        "code": "plot",
+        "name": "Terv"
+    },
+    {
         "code": "support",
         "name": "Támogatás"
     },
