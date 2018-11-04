@@ -416,7 +416,7 @@
     {
         "code": "07082",
         "name": "Catapulta Gungan",
-        "text": "Dopo che hai attivato un <i>Gungan<i> puoi ripetere il tiro di questo dado."
+        "text": "Dopo che hai attivato un <i>Gungan</i> puoi ripetere il tiro di questo dado."
     },
     {
         "code": "07083",
@@ -535,7 +535,7 @@
     },
         {
         "code": "07106",
-        "name": "Via Della Luce",
+        "name": "Via della Luce",
         "text": "Rimuovi 1 dado non Eroe."
     },
     {
@@ -567,7 +567,7 @@
     },
     {
         "code": "07112",
-        "name": "Fiamme Del Passato",
+        "name": "Fiamme del Passato",
         "text": "Scarta 1 carta dal gioco se c'è una copia di quella carta in una pila degli scarti."
     },
     {
@@ -602,7 +602,7 @@
     },
     {
         "code": "07119",
-        "name": "Vie Della Forza",
+        "name": "Vie della Forza",
         "text": "Gioca questa carta solo se avvisti 1 personaggio Blu.\nConsidera il personaggio con questa miglioria come se fosse elite <em>(collocando una seconda copia del suo dado sulla sua carta)<em>."
     },
     {
@@ -612,7 +612,7 @@
     },
     {
         "code": "07121",
-        "name": "Colpo Di Striscio",
+        "name": "Colpo di Striscio",
         "text": "Risolvi 1 tuo dado \"danno\" ([ranged], [melee] o [indirect]), riducendo di 1 il suo valore. Poi rimuovi 1 dado."
     },
     {
