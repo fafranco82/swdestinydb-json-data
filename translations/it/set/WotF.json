@@ -297,7 +297,7 @@
     {
         "code": "07060",
         "name": "Addestramento di Luke",
-        "text": "Avvista 2 personaggi Blu o Luke Skywalker per giocare 1 <i>Capacità<i> Blu dalla tua mano o dalla tua pila degli scarti, riducendo di 1 il suo costo."
+        "text": "Avvista 2 personaggi Blu o Luke Skywalker per giocare 1 <i>Capacità</i> Blu dalla tua mano o dalla tua pila degli scarti, riducendo di 1 il suo costo."
     },
     {
         "code": "07061",
@@ -356,7 +356,7 @@
         "flavor": "\"Porta via elo!\"",
         "name": "Boss Nass",
         "subtitle": "Sovrano Pomposo",
-        "text": "Dopo che hai attivato un <i>Gungan<i>, puoi infliggere a un avversario un ammontare di danni secondari ([indirect]) pari al numero di suoi dadi personaggio che hanno appena ottenuto \"vuoto\" ([blank])."
+        "text": "Dopo che hai attivato un <i>Gungan</i>, puoi infliggere a un avversario un ammontare di danni secondari ([indirect]) pari al numero di suoi dadi personaggio che hanno appena ottenuto \"vuoto\" ([blank])."
     },
     {
         "code": "07072",
@@ -394,7 +394,7 @@
     {
         "code": "07078",
         "name": "Offensiva Gungan",
-        "text": "Gira fino a 3 tuoi dadi <i>Gungan<i> o <i>Artiglieria<i> su una faccia \"danno\" ([ranged], [melee] o [indirect])."
+        "text": "Gira fino a 3 tuoi dadi <i>Gungan</i> o <i>Artiglieria</i> su una faccia \"danno\" ([ranged], [melee] o [indirect])."
     },
     {
         "code": "07079",
@@ -411,6 +411,228 @@
         "name": "Piano A Lungo Termine",
         "text": "<b>Azione</b> - Esaurisci questa trama, per collocare 1 risorsa su di essa oppure risolvere 1 tuo dado, aumentando il suo valore del numero di risorse su questa trama."
     },
+    {
+        "code": "07082",
+        "name": "Catapulta Gungan",
+        "text": "Dopo che hai attivato un <i>Gungan</i> puoi ripetere il tiro di questo dado."
+    },
+    {
+        "code": "07083",
+        "name": "Speeder della Resistenza di Crait",
+        "text": "Prima di risolvere questo dado, se questo supporto non possiede alcun danno, puoi collocare 1 danno su questo supporto per aumentare di 1 il suo valore."
+    },
+    {
+        "code": "07084",
+        "name": "Fuoco di Soppressione",
+        "text": "Dopo che un personaggio è stato attivato, puoi spendere 1 risorsa e scartare questo supporto dal gioco per rimuovere 1 suo dado personaggio."
+    },
+    {
+        "code": "07085",
+        "name": "Elettroasta",
+        "text": "Prima che il personaggio con questa miglioria stia per essere sconfitto, puoi spostare questa miglioria su un <i>Gungan</i><em>（rimetti questo dado su questa carta）</em>."
+    },
+    {
+        "code": "07086",
+        "name": "Presenza Ispiratrice",
+        "text": "Solo personaggi unici.\nGli altri tuoi personaggi possiedono la parola chiave Protezione."
+    },
+    {
+        "code": "07087",
+        "name": "Pistola Blaster di Rex",
+        "text": "Finché questa miglioria è assegnata a Rex, considera le tue copie di questa miglioria come se fossero non uniche.\nDopo che hai attivato il personaggio con questa miglioria, se controlli il campo di battaglia, puoi attivare 1 tuo personaggio."
+    },
+    {
+        "code": "07088",
+        "flavor": "\"Io ho costruito uno sguscio. Il più veloce mai visto!\"",
+        "name": "Anakin Skywalker",
+        "subtitle": "Prodigio degli Sgusci",
+        "text": "Dopo che hai attivato questo personaggio, puoi girare 1 tuo dado <i>Droide</i> o <i>Sguscio</i> su una faccia a tua scelta."
+    },
+    {
+        "code": "07089",
+        "flavor": "\"Mai usato uno di questi prima d'ora?\"",
+        "name": "Bo-Katan Kryze",
+        "subtitle": "Tenente della Ronda della Morte",
+        "text": "Puoi includere migliorie malvagio Gialle nel tuo mazzo.\n[special] - Infliggi 2 danni a un personaggio (3 danni se questo personaggio possiede 1 o più migliorie su di esso)."
+    },
+    {
+        "code": "07091",
+        "name": "Informatrice Fidata",
+        "text": "Dopo che hai attivato questo personaggio, puoi guardare la mano di un avversario."
+    },
+    {
+        "code": "07092",
+        "name": "Operazione Clandestina",
+        "text": "Avvista 2 personaggi gialli o Cassian Andor per risolvere un qualsiasi numero di tuoi dadi con lo stesso simbolo. Poi scarta dalla cima di un mazzo un ammontare di carte pari al numero di dadi appena risolti."
+    },
+    {
+        "code": "07093",
+        "name": "Affare Fatto",
+        "text": "Ottieni 5 risorse. Devi passare tutti i tuoi prossimi turni in questo round."
+    },
+    {
+        "code": "07094",
+        "name": "Correre sulla Difensiva",
+        "text": "Gioca questa carta solo se 1 o più tuoi dadi <i>Veicolo</i> sono stati rimossi durante l'ultimo turno di un avversario questo round.\nAvvista 1 personaggio giallo per tirare 1 di questi dadi rimossi nella tua riserva."
+    },
+    {
+        "code": "07095",
+        "name": "Fortuna Sfacciata",
+        "text": "Avvista 1 tuo personaggio giallo o 1 <i>Gungan</i> per ripetere il tiro di un massimo di 5 tuoi dadi. Poi infliggi a un avversario un ammontare di danni secondari ([indirect]) pari al numero di dadi che hanno appena ottenuto \"vuoto\" ([blank])."
+    },
+    {
+        "code": "07096",
+        "name": "Genio della Meccanica",
+        "text": "Guarda 5 carte dalla cima del tuo mazzo, rivela 1 <i>Droide</i> o 1 <i>Sguscio</i> appena guardato e aggiungili alla tua mano. Colloca le altre carte guardate in fondo al tuo mazzo nell'ordine che preferisci."
+    },
+        {
+        "code": "07097",
+        "name": "Fuga Miracolosa",
+        "text": "Gioca questa carta solo se non hai altre carte nella tua mano.\"Rimuovi 1 dado."
+    },
+    {
+        "code": "07098",
+        "name": "Detonazione Programmata",
+        "text": "Gioca questa carta solo se un avversario controlla il campo di battaglia.\nInfliggi a quell'avversario un ammontare di danni secondari ([indirect]) pari al numero di risorse che possiede fino ad un massimo di 5."
+    },
+    {
+        "code": "07099",
+        "name": "Giusta Causa",
+        "text": "Imboscata.<em>（Dipo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.）<em>\nSposta 1 danno da una tua carta a un'altra tua carta dello stesso tipo <em>(ignorando gli scudi)</em>."
+    },
+    {
+        "code": "07100",
+        "name": "Bersaglio Sotto Tiro",
+        "text": "Se i tuoi dadi mostrano 5 o più simboli diversi, infliggi 2 danni a un personaggio oppure, se i tuoi dadi mostrano 10 o più simboli diversi, sconfiggi 1 personaggio."
+    },
+    {
+        "code": "07101",
+        "name": "Sparatoria",
+        "text": "Gira fino a 3 dadi di un avversario su una faccia \"danno\" ([ranged], [melee] o [indirect]). Poi gira un pari ammontare di tuoi dadi su una faccia \"danno\" ([ranged], [melee] o [indirect])."
+    },
+    {
+        "code": "07102",
+        "name": "Sguscio di Anakin Skywalker",
+        "text": "Imboscata.\nDopo che hai risolto questo dado, puoi scartare la carta dalla cima di 1 mazzo oppure, se avvisti Anakin Skywalker, scartare 1 carta casuale dalla mano di 1 avversario."
+    },
+    {
+        "code": "07103",
+        "flavor": "\"L'astrocaccia N-1 rappresenta l'apice della teconologia di Naboo.\" <cite>Capitano Quarsh Panaka</cite>",
+        "name": "Astrocaccia N-1",
+        "text": "[special] - Ripristina o scarta 1 <i>Veicolo</i> che non sia una copia di questo supporto."
+    },
+    {
+        "code": "07104",
+        "name": "Blaster Pesante CR-2",
+        "text": "[special] - Infliggi 2 danni a un personaggio (4 danni se un avversario non ha dadi nella sua riserva."
+    },
+    {
+        "code": "07105",
+        "name": "Furtivo",
+        "text": "Il personaggio con questa miglioria possiede il sottotipo <i>Soldato</i>.\n[special] - Scarta un ammontare di carte pari al valore mostrato su 1 tuo dado personaggio dalla cima di 1 mazzo."
+    },
+        {
+        "code": "07106",
+        "name": "Via della Luce",
+        "text": "Rimuovi 1 dado non Eroe."
+    },
+    {
+        "code": "07107",
+        "flavor": "I piatti migliori su questo lato del Distretto del Senato.",
+        "name": "Tavola Calda di Dex",
+        "text": "<b>Azione</b> - Esaurisci questo supporto e spendi 1 risorsa per curare 1 danno a un personaggio (2 danni se quel personaggio possiede 6 o più danni)."
+    },
+    {
+        "code": "07108",
+        "name": "Unità Nella Forza",
+        "text": "Rimuovi 1 tuo dado Blu. Poi risolvi 1 tuo dado, aumentando il suo valore del dado appena rimosso."
+    },
+    {
+        "code": "07109",
+        "name": "Raggirare",
+        "text": "Ripeti il tiro di 1 dado dell'avversario. Poi gira 1 suo dado su una faccia a tua scelta. Poi rimuovi 1 suo dado."
+    },
+    {
+        "code": "07110",
+        "flavor": "\"Ho portato pace, libertà, giustizia e sicurezza nel mio nuovo impero.\" <cite>Darth Vader</cite>",
+        "name": "Controllo",
+        "text": "Gira tutti i tuoi dadi su una faccia a tua scelta."
+    },
+    {
+        "code": "07111",
+        "name": "Divisione Nella Forza",
+        "text": "Risolvi 1 tuo dado blu. Poi rimuovi 1 dado del valore del dado appena risolto."
+    },
+    {
+        "code": "07112",
+        "name": "Fiamme del Passato",
+        "text": "Scarta 1 carta dal gioco se c'è una copia di quella carta in una pila degli scarti."
+    },
+    {
+        "code": "07113",
+        "name": "Pace E Silenzio",
+        "text": "Gira 1 dado su una faccia di valore pari a 0. <em>(\"speciale\" e \"vuoto\" hanno valore pari a 0)<em>."
+    },
+    {
+        "code": "07114",
+        "name": "Sorti Rovesciate",
+        "text": "Sposta tutti gli scudi da un personaggio di un avversario a un tuo personaggio."
+    },
+    {
+        "code": "07115",
+        "name": "Fatto Per Durare",
+        "text": "Ogni tua miglioria unica possiede la parola chiave Riposizionamento.\nDopo che hai giocato una miglioria unica, puoi esaurire questa trama per ottenere 1 risorsa."
+    },
+    {
+        "code": "07116",
+        "name": "Abilità Affinate",
+        "text": "Ogni tuo personaggio può possedere 1 miglioria aggiuntiva."
+    },
+    {
+        "code": "07117",
+        "name": "Daga di Mortis",
+        "text": "Riposizionamento.\nPrima di risolvere questo dado \"danno in mischia\" ([melee]), puoi spostare 1 scudo da un personaggio Blu al personaggio con questa miglioria."
+    },
+    {
+        "code": "07118",
+        "name": "Salto di Forza",
+        "text": "Solo personaggi Blu.\n[special] - Gira un dado \"danno\" ([ranged], [melee] o [indirect]) su una faccia \"vuoto\" ([blank]). Ripeti il tiro di questo dado invece di rimuoverlo."
+    },
+    {
+        "code": "07119",
+        "name": "Vie della Forza",
+        "text": "Gioca questa carta solo se avvisti 1 personaggio Blu.\nConsidera il personaggio con questa miglioria come se fosse elite <em>(collocando una seconda copia del suo dado sulla sua carta)<em>."
+    },
+    {
+        "code": "07120",
+        "name": "Fato Inaspettato",
+        "text": "Scegli un qualsiasi numero di dadi. obbliga un avversario a girare ognuno di quei dadi su una faccia a sua scelta."
+    },
+    {
+        "code": "07121",
+        "name": "Colpo di Striscio",
+        "text": "Risolvi 1 tuo dado \"danno\" ([ranged], [melee] o [indirect]), riducendo di 1 il suo valore. Poi rimuovi 1 dado."
+    },
+    {
+        "code": "07122",
+        "name": "Entrata Teatrale",
+        "text": "Attiva 1 tuo personaggio. Ripeti il tiro di un qualsiasi numero di suoi dadi personaggio e miglioria. Poi ripeti il tiro di un qualsiasi numero di suoi dadi personaggio e miglioria."
+    },
+    {
+        "code": "07123",
+        "name": "Acquisizione Ostile",
+        "text": "Gioca questa carta solo se controlli il campo di battaglia.\nScegli un simbolo mostrato su un tuo dado. Poi risolvi 1 dado di un avversario con quel simbolo come se fosse un tuo dado."
+    },
+    {
+        "code": "07124",
+        "name": "Sovraccarico",
+        "text": "Colloca 1 danno su un supporto in gioco. Poi puoi scartare quel supporto se possiede un ammontare di danni pari o superiore al suo costo."
+    },
+    {
+        "code": "07125",
+        "name": "Ricostruzione",
+        "text": "Aggiungi alla tua mano 1 supporto dalla tua pila degli scarti."
+    },                
     {
         "code": "07154",
         "name": "Macrobinocoli",
