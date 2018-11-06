@@ -368,6 +368,35 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "08017",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"We don't like strangers.\" <cite>Nightsister</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Martin de Diego Sádaba",
+        "is_unique": false,
+        "name": "Energy Bow",
+        "position": 17,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1RD",
+            "+2RD",
+            "1Dr",
+            "1R",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After one of your card effects rerolls one or more character dice, you may reroll this die.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "08018",
         "deck_limit": 1,
         "faction_code": "red",
@@ -1090,7 +1119,7 @@
         "flavor": "The bounty hunter Latts Razzi wielded the triple scaled rows of a grappling boa.",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "Martin Diego Sadaba",
+        "illustrator": "Martin de Diego Sádaba",
         "is_unique": false,
         "name": "Grappling Boa",
         "position": 51,

@@ -485,7 +485,7 @@
         "name": "Genio della Meccanica",
         "text": "Guarda 5 carte dalla cima del tuo mazzo, rivela 1 <i>Droide</i> o 1 <i>Sguscio</i> appena guardato e aggiungili alla tua mano. Colloca le altre carte guardate in fondo al tuo mazzo nell'ordine che preferisci."
     },
-        {
+    {
         "code": "07097",
         "name": "Fuga Miracolosa",
         "text": "Gioca questa carta solo se non hai altre carte nella tua mano.\"Rimuovi 1 dado."
@@ -531,7 +531,7 @@
         "name": "Furtivo",
         "text": "Il personaggio con questa miglioria possiede il sottotipo <i>Soldato</i>.\n[special] - Scarta un ammontare di carte pari al valore mostrato su 1 tuo dado personaggio dalla cima di 1 mazzo."
     },
-        {
+    {
         "code": "07106",
         "name": "Via della Luce",
         "text": "Rimuovi 1 dado non Eroe."
@@ -632,7 +632,7 @@
         "code": "07125",
         "name": "Ricostruzione",
         "text": "Aggiungi alla tua mano 1 supporto dalla tua pila degli scarti."
-    },                
+    },
     {
         "code": "07154",
         "name": "Macrobinocoli",
