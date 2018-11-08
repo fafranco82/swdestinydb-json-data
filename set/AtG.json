@@ -555,6 +555,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "08024",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"I sense a trap.\" <cite>Obi-Wan Kenobi</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Martin Diego Sadaba",
+        "is_unique": false,
+        "name": "Drop 'Em",
+        "position": 24,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Spot 2 Red characters to choose a <i>weapon</i> on up to 2 different characters. Return those <i>weapons</i> to their owner's hands.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "08025",
         "cost": 0,
         "deck_limit": 2,
@@ -1429,6 +1447,34 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "08068",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "JB Casacop",
+        "is_unique": false,
+        "name": "Counterstroke",
+        "position": 68,
+        "rarity_code": "R",
+        "set_code": "AtG",
+        "sides": [
+            "1MD",
+            "2MD1",
+            "1F",
+            "1Dc",
+            "1Sh",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Blue character only.\nAfter an opponent deals damage to attached character, you may resolve this die, increasing its value by 1.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "08069",
         "cost": 1,
         "deck_limit": 2,
@@ -1735,6 +1781,23 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot any number of <i>mods</i> on your <i>vehicles</i> and spend that many resources to remove that many dice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08082",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": false,
+        "name": "Turn The Tables",
+        "position": 82,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "text": "Play only if you have one or more dice showing a focus ([focus]).\nRemove a die showing damage ([ranged], [melee] or [indirect]). Then turn up to 2 of your dice to sides showing damage ([ranged], [melee] or [indirect]).",
         "type_code": "event"
     },
     {
@@ -2204,6 +2267,23 @@
             "vehicle"
         ],
         "text": "After you play this support, you may search your deck or discard pile for Escape Craft ([AtG]102) and attach it to th is support as a <i>mod</i> upgrade <em>(without paying its cost)</em>. If you searched your deck, shuffle it.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08104",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "On The Mark",
+        "position": 104,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "You may resolve the indirect damage ([indirect]) sides of your dice as ranged damage ([ranged]).\nAfter the action phase ends, discard this support from play.",
         "type_code": "support"
     },
     {
@@ -3317,6 +3397,23 @@
         "set_code": "AtG",
         "subtitle": "Lothal",
         "text": "After an opponent plays a support or an upgrade, you may discard the tip card of their deck.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08159",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Theed Royal Palace",
+        "position": 159,
+        "rarity_code": "U",
+        "set_code": "AtG",
+        "subtitle": "Naboo",
+        "text": "<b>Power Action</b> - Gain 1 resource. Spot a neutral character to take one additional action.",
         "type_code": "battlefield"
     },
     {
