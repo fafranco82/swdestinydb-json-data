@@ -1312,6 +1312,53 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "08058",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "Cristi Balanescu",
+        "is_unique": true,
+        "name": "Qui-Gon Jinn",
+        "points": "14/18",
+        "position": 58,
+        "rarity_code": "L",
+        "set_code": "AtG",
+        "sides": [
+            "1MD",
+            "2MD",
+            "2Sh",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Defiant Jedi Master",
+        "subtypes": [
+            "jedi"
+        ],
+        "text": "While this character has 2 or more shields, increase the value of his character dice by 1.\nWhile this character has 3 or more shields, increase the value of his upgrade dice by 1.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "08059",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "JB Casacop",
+        "is_unique": false,
+        "name": "Bewilder",
+        "position": 59,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Spot a Blue character to reroll an opponent's character die. Then discard cards from the top of that opponent's deck equal to the value showing on that die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "08060",
         "cost": 1,
         "deck_limit": 2,
@@ -2975,6 +3022,23 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot a <i>vehicle</i> to switch the battlefield with a battlefield that was brought to the game. If you do not control the battlefield, gain 1 resource.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "08137",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Adam Lane",
+        "is_unique": false,
+        "name": "Cash Out",
+        "position": 137,
+        "rarity_code": "C",
+        "set_code": "AtG",
+        "text": "Ambush.\nResolve any number of your dice showing a resource ([resource]).",
         "type_code": "event"
     },
     {
