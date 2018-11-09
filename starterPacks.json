@@ -581,7 +581,7 @@
     {
         "code": "RIV",
         "name": "Rivals",
-        "set_code": "LEG",
+        "set_code": "RIV",
         "slots": {
             "06001": {
                 "quantity": 1,
