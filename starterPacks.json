@@ -577,5 +577,92 @@
                 "dice": 0
             }
         }
+    },
+    {
+        "code": "RIV",
+        "name": "Rivals",
+        "set_code": "LEG",
+        "slots": {
+            "06001": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "06002": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "06003": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "06004": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "06005": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "06006": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "06007": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "06008": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "06009": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "06010": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "06011": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "06012": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "06013": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "06014": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "06015": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "06016": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "06017": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "06018": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "06019": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "06020": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
     }
 ]
