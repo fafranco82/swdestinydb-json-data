@@ -70,8 +70,8 @@
         "size": 160
     },
     {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
+        "cgdb_id_end": 13,
+        "cgdb_id_start": 13,
         "code": "AtG",
         "cycle_code": "LEG",
         "date_release": "2018-11-08",
