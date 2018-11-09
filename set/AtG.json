@@ -3088,7 +3088,7 @@
         "is_unique": false,
         "name": "Indifferent",
         "position": 140,
-        "rarity_code": "U",
+        "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot a neutral character to remove a die.",
         "type_code": "event"
