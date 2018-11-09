@@ -2024,7 +2024,7 @@
             "scoundrel",
             "pilot"
         ],
-        "text": "<b>Power Action</b> - Play a Yellow <i>vehicle</i> from your hand, decreasing its cost by 1 and giving it Ambush. If that <i>vehicle</i> is the <em>Millenium Falcon</em>, you may activate it.",
+        "text": "<b>Power Action</b> - Play a Yellow <i>vehicle</i> from your hand, decreasing its cost by 1 and giving it Ambush. If that <i>vehicle</i> is the <em>Millennium Falcon</em>, you may activate it.",
         "type_code": "character"
     },
     {
@@ -2084,7 +2084,7 @@
         "subtypes": [
             "droid"
         ],
-        "text": "Before this character is defeated, spot a <i>vehicle</i> support to attach this card to it as a 0 cost <i>mod</i> upgrade. If that <i>vehicle</i> is the <em>Millenium Falcon</em>, ready it.\nIf this card would leave play as an upgrade, set it aside instead.",
+        "text": "Before this character is defeated, spot a <i>vehicle</i> support to attach this card to it as a 0 cost <i>mod</i> upgrade. If that <i>vehicle</i> is the <em>Millennium Falcon</em>, ready it.\nIf this card would leave play as an upgrade, set it aside instead.",
         "type_code": "character"
     },
     {
@@ -2283,7 +2283,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "<b>Power Action</b> - Spot the <em>Millenium Falcon</em> to attach this card to it as a <i>mod</i> upgrade <em>(discard all upgrades on this card)</em>.\n<b>Action</b> - If this card is an upgrade, it becomes a support <em>(do not ready it)</em>.",
+        "text": "<b>Power Action</b> - Spot the <em>Millennium Falcon</em> to attach this card to it as a <i>mod</i> upgrade <em>(discard all upgrades on this card)</em>.\n<b>Action</b> - If this card is an upgrade, it becomes a support <em>(do not ready it)</em>.",
         "type_code": "support"
     },
     {
@@ -2296,7 +2296,7 @@
         "has_errata": false,
         "illustrator": "Timothy Ben Zweifel",
         "is_unique": true,
-        "name": "Millenium Falcon",
+        "name": "Millennium Falcon",
         "position": 103,
         "rarity_code": "L",
         "set_code": "AtG",
