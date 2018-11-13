@@ -28,6 +28,7 @@
             "sith"
         ],
         "text": "<b>Power Action</b> - If one or more of this character's character dice were removed during an opponent's last turn this round, discard a card from your hand to roll those dice into your pool.",
+        "ttscardid": "49800",
         "type_code": "character"
     },
     {
@@ -59,6 +60,7 @@
             "witch"
         ],
         "text": "<b>Action</b> — Discard a card from your hand that costs an odd number to reroll a die <em>(yours or an opponent's)</em>.",
+        "ttscardid": "49801",
         "type_code": "character"
     },
     {
@@ -89,6 +91,7 @@
             "nightbrother"
         ],
         "text": "After this die is rerolled by a card effect, you may discard the top 2 cards of your deck to resolve it, increasing its value by 1.",
+        "ttscardid": "49802",
         "type_code": "character"
     },
     {
@@ -120,6 +123,7 @@
             "nightbrother"
         ],
         "text": "You must activate this character as your first action each round, if able, unless you spot Maul.",
+        "ttscardid": "49803",
         "type_code": "character"
     },
     {
@@ -138,6 +142,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Remove all shields from a character. For each shield just removed, you may remove a die.",
+        "ttscardid": "49804",
         "type_code": "event"
     },
     {
@@ -155,6 +160,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Play any number of Blue upgrades from your hand on one of your Blue characters <em>(paying each of their costs)</em>. Then roll each of those upgrades' dice into your pool.",
+        "ttscardid": "49805",
         "type_code": "event"
     },
     {
@@ -173,6 +179,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Resolve one of your dice showing melee damage ([melee]) for free against each of an opponent's characters.",
+        "ttscardid": "49806",
         "type_code": "event"
     },
     {
@@ -190,6 +197,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Play only if you have exactly one character in play.\nFor each die in your pool, you may remove a die showing the same value as that die.",
+        "ttscardid": "49807",
         "type_code": "event"
     },
     {
@@ -207,6 +215,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Play only if you have one or more dice showing a blank ([blank]).\nTurn a die to a side showing a blank ([blank]).",
+        "ttscardid": "49808",
         "type_code": "event"
     },
     {
@@ -227,6 +236,7 @@
             "location"
         ],
         "text": "<b>Action</b> - Exhaust this support to heal 1 damage from a Blue character and place 1 card from your discard pile on the bottom of your deck. Spot Darth Vader to draw a card.",
+        "ttscardid": "49809",
         "type_code": "support"
     },
     {
@@ -244,6 +254,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Your opponents cannot give shields to characters.\nAfter the action phase ends, discard this support from play.",
+        "ttscardid": "49810",
         "type_code": "support"
     },
     {
@@ -262,6 +273,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Before the effects of an opponent's event would be resolved, discard this support from play to cancel those effects instead.",
+        "ttscardid": "49811",
         "type_code": "support"
     },
     {
@@ -290,6 +302,7 @@
             "trooper"
         ],
         "text": "After you play this support, you may roll this die into your pool.\n<b>Power Action</b> - Roll this die into your pool. Spot Darth Vader to turn this die to any side.",
+        "ttscardid": "49812",
         "type_code": "support"
     },
     {
@@ -308,6 +321,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "After you resolve one of attached character's character dice showing damage ([ranged], [melee], or [indirect]), you may deal 1 damage to a character.",
+        "ttscardid": "49813",
         "type_code": "upgrade"
     },
     {
@@ -336,6 +350,7 @@
             "weapon"
         ],
         "text": "After a character takes damage from this die, reroll any number of that character's character and upgrade dice.",
+        "ttscardid": "49814",
         "type_code": "upgrade"
     },
     {
@@ -364,6 +379,7 @@
             "weapon"
         ],
         "text": "After you resolve this die, you may spend 1 resource to roll one of attached character's character dice into your pool. Then, if this upgrade is on Darth Vader, deal 1 damage to a character.",
+        "ttscardid": "49815",
         "type_code": "upgrade"
     },
     {
@@ -393,6 +409,7 @@
             "weapon"
         ],
         "text": "After one of your card effects rerolls one or more character dice, you may reroll this die.",
+        "ttscardid": "49816",
         "type_code": "upgrade"
     },
     {
@@ -425,6 +442,7 @@
             "trooper"
         ],
         "text": "While one or more of this character's character dice are in your pool, your opponents cannot take additional actions.",
+        "ttscardid": "49817",
         "type_code": "character"
     },
     {
@@ -455,6 +473,7 @@
             "pilot"
         ],
         "text": "After you activate this character, you may remove one of your <i>vehicle</i> dice showing ranged damage ([ranged]) to place that damage on a <i>vehicle</i> in play. Then discard that <i>vehicle</i> if it has damage on it equal to or more than its cost.",
+        "ttscardid": "49818",
         "type_code": "character"
     },
     {
@@ -485,6 +504,7 @@
             "droid"
         ],
         "text": "<b>Power Action</b> - Turn one of your <i>droid</i> charater dice to a side showing damage ([ranged], [melee] or [indirect]).",
+        "ttscardid": "49819",
         "type_code": "character"
     },
     {
@@ -516,6 +536,7 @@
             "leader"
         ],
         "text": "<b>Power Action</b> - Look at a player's hand and choose a card from it. Discard that card if there is a copy of it in that player's discard pile.",
+        "ttscardid": "49820",
         "type_code": "character"
     },
     {
@@ -534,6 +555,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Play only if you have more dice in your pool than an opponent has in their pool.\nRemove one of that opponent's dice.",
+        "ttscardid": "49821",
         "type_code": "event"
     },
     {
@@ -551,6 +573,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Activate one of your Red supports. Then you may resolve any number of its support and <i>mod</i> dice in the order of your choice, without removing them from your pool.",
+        "ttscardid": "49822",
         "type_code": "event"
     },
     {
@@ -569,6 +592,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Spot 2 Red characters to choose a <i>weapon</i> on up to 2 different characters. Return those <i>weapons</i> to their owner's hands.",
+        "ttscardid": "49823",
         "type_code": "event"
     },
     {
@@ -587,6 +611,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Turn a die to a side showing a discard ([discard]).",
+        "ttscardid": "49824",
         "type_code": "event"
     },
     {
@@ -604,6 +629,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Remove an opponent's die if they have 3 or fewer cards in hand or remove 2 of an opponent's dice if they have no cards in hand.",
+        "ttscardid": "49825",
         "type_code": "event"
     },
     {
@@ -621,6 +647,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot a Red character to turn any number of your <i>vehicle</i> dice that have the same title to the sides of your choice.",
+        "ttscardid": "49826",
         "type_code": "event"
     },
     {
@@ -638,6 +665,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Play only if you have one or more dice showing a discard ([discard]).\nName a card. Then look at an opponent's hand and discard each copy of the named card from it.",
+        "ttscardid": "49827",
         "type_code": "event"
     },
     {
@@ -655,6 +683,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Ambush.\nReroll up to 2 dice. Then, if you are fighting on your battlefield, reroll up to 2 dice.",
+        "ttscardid": "49828",
         "type_code": "event"
     },
     {
@@ -684,6 +713,7 @@
             "vehicle"
         ],
         "text": "While this die is showing ranged damage ([ranged]), increase its value by 1 if you spot \"Mauler\" Mithel.",
+        "ttscardid": "49829",
         "type_code": "support"
     },
     {
@@ -712,6 +742,7 @@
             "vehicle"
         ],
         "text": "Ambush.\nYou may include up to 4 copies of this support in your deck.\nAfter you play this support, search your deck for a copy of it, reveal it, and add it to your hand. Shuffle your deck.",
+        "ttscardid": "49830",
         "type_code": "support"
     },
     {
@@ -740,6 +771,7 @@
             "vehicle"
         ],
         "text": "[special] - Deal 2 damage to each of an opponent's characters, or 3 damage instead if one or more <i>mods</i> are on this support.",
+        "ttscardid": "49831",
         "type_code": "support"
     },
     {
@@ -758,6 +790,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Your opponents cannot turn dice.\nAfter the action phase ends, discard this support from play.",
+        "ttscardid": "49832",
         "type_code": "support"
     },
     {
@@ -787,6 +820,7 @@
             "droid"
         ],
         "text": "[special] - Look at an opponent's hand and discard a card from it. That opponent may take one additional action during their next turn this round.",
+        "ttscardid": "49833",
         "type_code": "upgrade"
     },
     {
@@ -818,6 +852,7 @@
             "leader"
         ],
         "text": "[special] - Shuffle your deck and look at the top card of it. You may play that card for free.",
+        "ttscardid": "49834",
         "type_code": "character"
     },
     {
@@ -850,6 +885,7 @@
             "scoundrel"
         ],
         "text": "<b>Power Action</b> - Each player gains 1 resource.\n[special] - Take 1 resource from an opponent. If that opponent has no resources, gain 1 resource.",
+        "ttscardid": "49835",
         "type_code": "character"
     },
     {
@@ -880,6 +916,7 @@
             "scoundrel"
         ],
         "text": "[special] - Take 1 resource from an opponent. If that opponent has no resources, deal 2 damage to one of their characters.",
+        "ttscardid": "49836",
         "type_code": "character"
     },
     {
@@ -897,6 +934,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Deal 1 unblockable damage to each of an opponent's damaged characters. Then discard a random card from that opponent's hand for each defeated character they have.",
+        "ttscardid": "49837",
         "type_code": "event"
     },
     {
@@ -915,6 +953,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Reroll a character die. Then deal damage to that character equal to the value showing on that die.",
+        "ttscardid": "49838",
         "type_code": "event"
     },
     {
@@ -932,6 +971,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Play only if an opponent has no resources.\nRemove one of that opponent's dice.",
+        "ttscardid": "49839",
         "type_code": "event"
     },
     {
@@ -950,6 +990,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot a Yellow character to gain resources equal to the cost of a support or an upgrade in play.",
+        "ttscardid": "49840",
         "type_code": "event"
     },
     {
@@ -967,6 +1008,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Ambush.\nResolve one of your dice showing damage ([ranged], [melee] or [indirect]). Then force an opponent to resolve one of their dice showing damage ([ranged], [melee] or [indirect]).",
+        "ttscardid": "49841",
         "type_code": "event"
     },
     {
@@ -984,6 +1026,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Force an opponent to choose 2\n<ul><li>They remove 2 of their dice.</li><li>They discard 2 cards from their hand.</li><li>You deal 2 indirect damage ([indirect]) to them.</li></ul>",
+        "ttscardid": "49842",
         "type_code": "event"
     },
     {
@@ -1001,6 +1044,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Play only if you have one or more dice showing a disrupt ([disrupt]).\nRemove a die showing a value of 2 or less.",
+        "ttscardid": "49843",
         "type_code": "event"
     },
     {
@@ -1018,6 +1062,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Exhaust a support that costs 2 or less. Then you may deal 1 indirect damage ([indirect]) to yourself to exhaust another support that costs 2 or less.",
+        "ttscardid": "49844",
         "type_code": "event"
     },
     {
@@ -1035,6 +1080,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "For each character die showing damage ([ranged], [melee] or [indirect]), deal damage equal to its value to its matching character.",
+        "ttscardid": "49845",
         "type_code": "event"
     },
     {
@@ -1051,6 +1097,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "After you play an event, you may exhaust this support to play that event from your discard pile <em>(paying its cost)</em>. You cannot take more than one additional action this turn.",
+        "ttscardid": "49846",
         "type_code": "support"
     },
     {
@@ -1079,6 +1126,7 @@
             "vehicle"
         ],
         "text": "<b>Power Action</b> - Play a <i>mod</i> from your hand on this support, if able, decreasing its cost by 2.",
+        "ttscardid": "49847",
         "type_code": "support"
     },
     {
@@ -1096,6 +1144,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Your opponents cannot heal characters.\nAfter the action phase ends, discard this support from play.",
+        "ttscardid": "49848",
         "type_code": "support"
     },
     {
@@ -1125,6 +1174,7 @@
             "weapon"
         ],
         "text": "Yellow character only. Redeploy.\nAfter you play this upgrade, you may activate attached character.",
+        "ttscardid": "49849",
         "type_code": "upgrade"
     },
     {
@@ -1154,6 +1204,7 @@
             "weapon"
         ],
         "text": "After a character takes damage from this dice, you may remove one of that character's character dice.",
+        "ttscardid": "49850",
         "type_code": "upgrade"
     },
     {
@@ -1182,6 +1233,7 @@
             "weapon"
         ],
         "text": "After you play this upgrade on Tobias Beckett, you may force an opponent to lose 1 resource.\n[special] - Deal 2 damage to an opponent's character, or 3 damage instead if that opponent has no resources.",
+        "ttscardid": "49851",
         "type_code": "upgrade"
     },
     {
@@ -1199,6 +1251,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Increase the value of each of attached character's character dice showing damage ([ranged], [melee] or [indirect]) by 1 for each defeated character you have.",
+        "ttscardid": "49852",
         "type_code": "upgrade"
     },
     {
@@ -1216,6 +1269,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Include only if you have a character on your team that is 20 or more points on your team. \n After one or more of your character dice are removed by an opponent, you may deal 1 damage to a character.",
+        "ttscardid": "49853",
         "type_code": "plot"
     },
     {
@@ -1247,6 +1301,7 @@
             "apprentice"
         ],
         "text": "After another character's character die is turned, you may turn one of this character's character dice to a side showing the same symbol as that die.",
+        "ttscardid": "49854",
         "type_code": "character"
     },
     {
@@ -1276,6 +1331,7 @@
             "scavenger"
         ],
         "text": "Each Blue <i>ability</i> on this character has Redeploy.\n [special] - Roll a die on a Blue <i>ability</i> on this character into your pool.",
+        "ttscardid": "49855",
         "type_code": "character"
     },
     {
@@ -1307,6 +1363,7 @@
             "jedi"
         ],
         "text": "Before this character takes damage, you may remove one of his character or upgrade dice showing melee damage ([melee]) to block damage equal to the value showing on that die.",
+        "ttscardid": "49856",
         "type_code": "character"
     },
     {
@@ -1337,6 +1394,7 @@
             "jedi"
         ],
         "text": "While this character has 2 or more shields, increase the value of his character dice by 1.\nWhile this character has 3 or more shields, increase the value of his upgrade dice by 1.",
+        "ttscardid": "49857",
         "type_code": "character"
     },
     {
@@ -1354,6 +1412,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot a Blue character to reroll an opponent's character die. Then discard cards from the top of that opponent's deck equal to the value showing on that die.",
+        "ttscardid": "49858",
         "type_code": "event"
     },
     {
@@ -1371,6 +1430,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Resolve one of your dice showing melee damage ([melee]) as unblockable. Then, if the character just dealt damage has 1 remaining health, defeat it.",
+        "ttscardid": "49859",
         "type_code": "event"
     },
     {
@@ -1388,6 +1448,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Look at each opponent's hand. Look at the top card of each deck.",
+        "ttscardid": "49860",
         "type_code": "event"
     },
     {
@@ -1405,6 +1466,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Play only if you have one or more dice showing a shield ([shield]).\nRemove a die showing melee damage ([melee]) or give a character 1 shield.",
+        "ttscardid": "49861",
         "type_code": "event"
     },
     {
@@ -1422,6 +1484,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Draw 2 cards. Place 2 cards from your hand on the bottom of your deck in any order.",
+        "ttscardid": "49862",
         "type_code": "event"
     },
     {
@@ -1439,6 +1502,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Play only if you spot 2 ready characters.\nExhaust one of your characters. Then, until the end of the action phase, block all non-indirect damage dealt to that character by your opponents. Set this event aside.",
+        "ttscardid": "49863",
         "type_code": "event"
     },
     {
@@ -1455,6 +1519,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Choose 2 dice that are different colors. Then remove those dice.",
+        "ttscardid": "49864",
         "type_code": "event"
     },
     {
@@ -1472,6 +1537,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Give a character shields equal to the number of upgrades on one of your characters.",
+        "ttscardid": "49865",
         "type_code": "event"
     },
     {
@@ -1489,6 +1555,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Each of your upgrades has Redeploy.\nAfter the action phase ends, discard this support from play.",
+        "ttscardid": "49866",
         "type_code": "support"
     },
     {
@@ -1517,6 +1584,7 @@
             "ability"
         ],
         "text": "Blue character only.\nAfter an opponent deals damage to attached character, you may resolve this die, increasing its value by 1.",
+        "ttscardid": "49867",
         "type_code": "upgrade"
     },
     {
@@ -1545,6 +1613,7 @@
         "subtypes": [
             "weapon"
         ],
+        "ttscardid": "49868",
         "type_code": "upgrade"
     },
     {
@@ -1573,6 +1642,7 @@
             "equipment"
         ],
         "text": "<b>Power Action</b> - Turn one of your dice to a side matching the symbol and value showing on this die.",
+        "ttscardid": "49300",
         "type_code": "upgrade"
     },
     {
@@ -1601,6 +1671,7 @@
             "weapon"
         ],
         "text": "After 1 or more shields are removed from attached character, you may exhaust this upgrade to give that character 1 shield. If this upgrade is on Qui-Gon Jinn, you may draw a card.",
+        "ttscardid": "49301",
         "type_code": "upgrade"
     },
     {
@@ -1632,6 +1703,7 @@
             "pilot"
         ],
         "text": "After you activate this character, you may activate one of your <i>vehicle</i> supports. Then reroll any number of that <i>vehicle</i>'s support and <i>mod</i> dice.",
+        "ttscardid": "49302",
         "type_code": "character"
     },
     {
@@ -1663,6 +1735,7 @@
             "trooper"
         ],
         "text": "While building your team, the point value of each Clone Trooper ([EaW]38) is decreased by 1.\n[special] - Take control of the battlefield and use its claim ability or power action, even if it has been used this round.",
+        "ttscardid": "49303",
         "type_code": "character"
     },
     {
@@ -1694,6 +1767,7 @@
             "leader"
         ],
         "text": "After you activate this character, you may look at the top 3 cards of an opponent's deck, and rearrange them in any order. You may discard the top card of that deck.",
+        "ttscardid": "49304",
         "type_code": "character"
     },
     {
@@ -1723,6 +1797,7 @@
             "engineer"
         ],
         "text": "After you activate this character, you may look at the top 4 cards of your deck, reveal a <i>mod</i> from among them, and add it to your hand. Place the rest of those cards on the bottom of your deck in any order.",
+        "ttscardid": "49305",
         "type_code": "character"
     },
     {
@@ -1740,6 +1815,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Play only if you control the battlefield.\nSpot a Red character to turn a die to any side. You may spot a <i>vehicle</i> to remove a die. You may spot a </i>mod</i> to turn a die to any side or remove a die.",
+        "ttscardid": "49306",
         "type_code": "event"
     },
     {
@@ -1758,6 +1834,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Ready any number of your non-unique characters that have the same title.",
+        "ttscardid": "49307",
         "type_code": "event"
     },
     {
@@ -1775,6 +1852,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Exhaust an opponent's <i>vehicle</i>. Then you may ready a <i>vehicle</i>.",
+        "ttscardid": "49308",
         "type_code": "event"
     },
     {
@@ -1792,6 +1870,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Defeat one of your non-unique characters. After the action phase ends, return that character to play.",
+        "ttscardid": "49309",
         "type_code": "event"
     },
     {
@@ -1809,6 +1888,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Ambush.\nTurn an opponent's die to a side showing damage ([ranged], [melee] or [indirect]).",
+        "ttscardid": "49310",
         "type_code": "event"
     },
     {
@@ -1826,6 +1906,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot any number of <i>mods</i> on your <i>vehicles</i> and spend that many resources to remove that many dice.",
+        "ttscardid": "49311",
         "type_code": "event"
     },
     {
@@ -1843,6 +1924,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Play only if you have one or more dice showing a focus ([focus]).\nRemove a die showing damage ([ranged], [melee] or [indirect]). Then turn up to 2 of your dice to sides showing damage ([ranged], [melee] or [indirect]).",
+        "ttscardid": "49312",
         "type_code": "event"
     },
     {
@@ -1860,6 +1942,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Each of your characters has Guardian.\nAfter the action phase ends, discard this support from play.",
+        "ttscardid": "49313",
         "type_code": "support"
     },
     {
@@ -1888,6 +1971,7 @@
             "droid"
         ],
         "text": "<b>Action</b> - Spot a <i>vehicle</i> support to attach this card to it as a <i>mod</i> upgrade <em>(discard all upgrades on this card)</em>. If that <i>vehicle</i> is Black One, ready it. Use this action only once per game.",
+        "ttscardid": "49314",
         "type_code": "support"
     },
     {
@@ -1916,6 +2000,7 @@
             "vehicle"
         ],
         "text": "<b>Power Action</b> - Spot Poe Dameron to turn this die to any side.\n[special] - Deal 1 damage to a character. If a <i>droid</i> is attached to this support, reroll this die instead of removing it.",
+        "ttscardid": "49315",
         "type_code": "support"
     },
     {
@@ -1944,6 +2029,7 @@
             "vehicle"
         ],
         "text": "You can include up to 4 copies of this support in your deck.\nThe X on this die is equal to the number of copies of this support you have in play.",
+        "ttscardid": "49316",
         "type_code": "support"
     },
     {
@@ -1972,6 +2058,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nAfter you activate attached character, you may reroll this die or discard the top card of a deck. If this upgrade is on Jyn Erso, reroll any number of her character dice.",
+        "ttscardid": "49317",
         "type_code": "upgrade"
     },
     {
@@ -1993,6 +2080,7 @@
             "mod"
         ],
         "text": "Modify <i>vehicle</i> support.\n<b>Action</b> - Exhaust this upgrade and spend 2 resources to ready attached <i>vehicle</i>.",
+        "ttscardid": "49318",
         "type_code": "upgrade"
     },
     {
@@ -2025,6 +2113,7 @@
             "pilot"
         ],
         "text": "<b>Power Action</b> - Play a Yellow <i>vehicle</i> from your hand, decreasing its cost by 1 and giving it Ambush. If that <i>vehicle</i> is the <em>Millennium Falcon</em>, you may activate it.",
+        "ttscardid": "49319",
         "type_code": "character"
     },
     {
@@ -2055,6 +2144,7 @@
             "scoundrel"
         ],
         "text": "You can include up to 5 Yellow villain cards in your deck.\n[special] - Deal 2 damage to each of an opponent's characters unless they give you 1 resource, or 2 resources instead if you spot a villain card.",
+        "ttscardid": "49320",
         "type_code": "character"
     },
     {
@@ -2085,6 +2175,7 @@
             "droid"
         ],
         "text": "Before this character is defeated, spot a <i>vehicle</i> support to attach this card to it as a 0 cost <i>mod</i> upgrade. If that <i>vehicle</i> is the <em>Millennium Falcon</em>, ready it.\nIf this card would leave play as an upgrade, set it aside instead.",
+        "ttscardid": "49321",
         "type_code": "character"
     },
     {
@@ -2102,6 +2193,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Play only if you have one or more dice showing a resource ([resource]).\nGain 4 resources, or 5 resources instead if you took 2 or more actions this turn <em>(not this round)</em>.",
+        "ttscardid": "49322",
         "type_code": "event"
     },
     {
@@ -2119,6 +2211,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Force an opponent to choose 2:\n-You draw 2 cards.\n-You gain 2 resources.\n- You take 2 additional actions.",
+        "ttscardid": "49323",
         "type_code": "event"
     },
     {
@@ -2136,6 +2229,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Reroll all of your dice. Then resolve one of your Yellow dice, increasing its value by the number of other dice in your pool. Remove all of your dice.",
+        "ttscardid": "49324",
         "type_code": "event"
     },
     {
@@ -2154,6 +2248,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Activate one of your characters or supports. If you are fighting on your battlefield, this event has Ambush.",
+        "ttscardid": "49325",
         "type_code": "event"
     },
     {
@@ -2171,6 +2266,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Spot a Yellow character to take control of an opponent's <i>vehicle</i> support that has no <i>mods</i> and ready it <em>(return its die to its card)</i>. After the action phase ends, return that <i>vehicle</i> to its owner's control.",
+        "ttscardid": "49326",
         "type_code": "event"
     },
     {
@@ -2181,13 +2277,14 @@
         "faction_code": "yellow",
         "has_die": false,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Karabast!",
         "position": 97,
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Play only if an opponent has one or more dice showing damage ([ranged], [melee] or [indirect]).\nMove up to 3 damage from one of your characters to another one of your characters.",
+        "ttscardid": "49327",
         "type_code": "event"
     },
     {
@@ -2205,6 +2302,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Play only if you have one or more dice showing damage ([ranged], [melee] or [indirect]).\nRemove a die showing damage ([ranged], [melee] or [indirect]).",
+        "ttscardid": "49328",
         "type_code": "event"
     },
     {
@@ -2222,6 +2320,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Ambush.\nChoose an opponent. That opponent cannot resolve more than one die during their next turn this round.",
+        "ttscardid": "49329",
         "type_code": "event"
     },
     {
@@ -2239,6 +2338,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Remove 2 of your dice showing melee damage ([melee]). Then deal unblockable damage equal to the combined value showing on those dice to any number of characters, distributed as you wish.",
+        "ttscardid": "49330",
         "type_code": "event"
     },
     {
@@ -2256,6 +2356,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Activate one of your characters or supports. Then you may spend resources equal to the number of dice you just rolled to ready that character or support.",
+        "ttscardid": "49331",
         "type_code": "event"
     },
     {
@@ -2284,6 +2385,7 @@
             "vehicle"
         ],
         "text": "<b>Power Action</b> - Spot the <em>Millennium Falcon</em> to attach this card to it as a <i>mod</i> upgrade <em>(discard all upgrades on this card)</em>.\n<b>Action</b> - If this card is an upgrade, it becomes a support <em>(do not ready it)</em>.",
+        "ttscardid": "49332",
         "type_code": "support"
     },
     {
@@ -2312,6 +2414,7 @@
             "vehicle"
         ],
         "text": "After you play this support, you may search your deck or discard pile for Escape Craft ([AtG]102) and attach it to th is support as a <i>mod</i> upgrade <em>(without paying its cost)</em>. If you searched your deck, shuffle it.",
+        "ttscardid": "49333",
         "type_code": "support"
     },
     {
@@ -2329,6 +2432,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "You may resolve the indirect damage ([indirect]) sides of your dice as ranged damage ([ranged]).\nAfter the action phase ends, discard this support from play.",
+        "ttscardid": "49334",
         "type_code": "support"
     },
     {
@@ -2346,6 +2450,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Yellow character only.\nBefore a character would be dealt damage, you may exhaust this upgrade to deal that damage to attached character instead.",
+        "ttscardid": "49335",
         "type_code": "upgrade"
     },
     {
@@ -2374,6 +2479,7 @@
             "weapon"
         ],
         "text": "[special] - Deal damage to a character equal to the number of resources you have, to a maximum of 3.",
+        "ttscardid": "49336",
         "type_code": "upgrade"
     },
     {
@@ -2402,6 +2508,7 @@
             "equipment"
         ],
         "text": "After you play a card that has Ambush, you may move this upgrade to another one of your characters <em>(return this die to its card)</em>.",
+        "ttscardid": "49337",
         "type_code": "upgrade"
     },
     {
@@ -2419,6 +2526,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Remove a die showing a value that is an odd number. You may place this event on the bottom of your deck.",
+        "ttscardid": "49338",
         "type_code": "event"
     },
     {
@@ -2436,6 +2544,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Spot any number of Blue characters to draw that many cards.",
+        "ttscardid": "49339",
         "type_code": "event"
     },
     {
@@ -2453,6 +2562,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Reroll one of your Blue character dice. Then, if that die just rolled damage ([ranged], [melee] or [indirect]), deal 2 damage to a character. Otherwise, give a character 2 shields.",
+        "ttscardid": "49340",
         "type_code": "event"
     },
     {
@@ -2470,6 +2580,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Count the number of exhausted characters your opponents have. Turn up to that many of your dice to sides showing melee damage ([melee]).",
+        "ttscardid": "49341",
         "type_code": "event"
     },
     {
@@ -2487,6 +2598,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Spot a Blue character and give an opponent up to 3 of your resources to remove that many dice. If you are fighting on your battlefield, draw that many cards.",
+        "ttscardid": "49342",
         "type_code": "event"
     },
     {
@@ -2504,6 +2616,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Ambush.\nReturn an upgrade you own in play to your hand.",
+        "ttscardid": "49343",
         "type_code": "event"
     },
     {
@@ -2521,6 +2634,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Turn a character die to any side. If you have more Blue cards in play than an opponent, you may remove that die.",
+        "ttscardid": "49344",
         "type_code": "event"
     },
     {
@@ -2539,6 +2653,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "After setup, choose an opponent. That opponent deals 2 unblockable damage to one of your characters and draw a carad.",
+        "ttscardid": "49345",
         "type_code": "plot"
     },
     {
@@ -2557,6 +2672,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "<b>Action</b> - Exhaust this support to look at the top card of a deck. You may place that card on the bottom of that deck.",
+        "ttscardid": "49346",
         "type_code": "support"
     },
     {
@@ -2586,6 +2702,7 @@
             "location"
         ],
         "text": "After you activate this support, you may turn this die to any side.",
+        "ttscardid": "49347",
         "type_code": "support"
     },
     {
@@ -2614,6 +2731,7 @@
             "ability"
         ],
         "text": "Blue character only.\n[special] - Deal 2 damage to a character or return a support in play that costs 3 or less to its owner's hand.",
+        "ttscardid": "49348",
         "type_code": "upgrade"
     },
     {
@@ -2642,6 +2760,7 @@
             "ability"
         ],
         "text": "Blue character only. \n [special] - Discard an <i>equipment</i> or a <i>weapon</i> from play that costs equal to or less than the number of Blue <i>ability</i> dice in your pool <em>(including this die)</em>.",
+        "ttscardid": "49349",
         "type_code": "upgrade"
     },
     {
@@ -2670,6 +2789,7 @@
             "weapon"
         ],
         "text": "After you play this upgrade, you may draw a card.\n[special] - Deal 2 unblockable damage to a character, or 3 unblockable damage instead if you have 5 or more cards in your hand.",
+        "ttscardid": "49350",
         "type_code": "upgrade"
     },
     {
@@ -2687,6 +2807,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot a Red character to resolve one of your non-character dice, increasing its value by the number of copies of that die in your pool <em>(including that die)</em>.",
+        "ttscardid": "49351",
         "type_code": "event"
     },
     {
@@ -2704,6 +2825,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Activate one of your support. Reroll any number of its support and <i>mod</i> dice. Then reroll any number of its support and <i>mod</i> dice.",
+        "ttscardid": "49352",
         "type_code": "event"
     },
     {
@@ -2722,6 +2844,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Activate any number of your supports and non-unique characters.",
+        "ttscardid": "49353",
         "type_code": "event"
     },
     {
@@ -2740,6 +2863,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot any number of Red characters to reroll that many dice <em>(yours and/or an opponent's)</em>.",
+        "ttscardid": "49354",
         "type_code": "event"
     },
     {
@@ -2757,6 +2881,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Resolve one of your dice showing damage ([ranged], [melee] or [indirect]), increasing its value by 1, or by 2 instead if you have more Red cards in play than an opponent.",
+        "ttscardid": "49355",
         "type_code": "event"
     },
     {
@@ -2774,6 +2899,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Turn a die to a side that has a value 1 higher than the value showing on it. If you control the battlefield, return this event to your hand.",
+        "ttscardid": "49356",
         "type_code": "event"
     },
     {
@@ -2791,6 +2917,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Play only if you control the battlefield.\nRemove all dice showing damage ([ranged], [melee] or [indirect]).",
+        "ttscardid": "49357",
         "type_code": "event"
     },
     {
@@ -2808,6 +2935,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Move a <i>mod</i> on one of your <i>vehicle</i> to another one of your <i>vehicle</i> supports.",
+        "ttscardid": "49358",
         "type_code": "event"
     },
     {
@@ -2825,6 +2953,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "<b>Action</b> - Set this plot aside to search your deck or discard pile for a <i>vehicle</i> support and play it, decreasing its cost by 1. If you search your deck, shuffle it.",
+        "ttscardid": "49359",
         "type_code": "plot"
     },
     {
@@ -2854,6 +2983,7 @@
             "location"
         ],
         "text": "<b>Power Action</b> - Remove one of your dice to turn a die to any side.",
+        "ttscardid": "49360",
         "type_code": "support"
     },
     {
@@ -2883,6 +3013,7 @@
             "mod"
         ],
         "text": "Modify <i>vehicle</i> support.\nAfter you play this upgrade, you may roll this die into your pool.",
+        "ttscardid": "49361",
         "type_code": "upgrade"
     },
     {
@@ -2912,6 +3043,7 @@
             "weapon"
         ],
         "text": "Attached character's upgrade limit is decreased by 1.",
+        "ttscardid": "49362",
         "type_code": "upgrade"
     },
     {
@@ -2941,6 +3073,7 @@
             "mod"
         ],
         "text": "Modify <i>vehicle</i> support.\nWhile this die is in your pool, attached support's die cannot be removed by your opponents.",
+        "ttscardid": "49363",
         "type_code": "upgrade"
     },
     {
@@ -2972,6 +3105,7 @@
             "pilot"
         ],
         "text": "[special] - Deal 2 indirect damage ([indirect]) to an opponent. You may reveal a villain card from your hand to force that opponents to lose 1 resource. You may reveal a hero card from your hand to gain 1 resource.",
+        "ttscardid": "49364",
         "type_code": "character"
     },
     {
@@ -3003,6 +3137,7 @@
             "scoundrel"
         ],
         "text": "You can include Yellow hero and Yellow villain events in your deck.",
+        "ttscardid": "49365",
         "type_code": "character"
     },
     {
@@ -3020,6 +3155,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot a <i>vehicle</i> to switch the battlefield with a battlefield that was brought to the game. If you do not control the battlefield, gain 1 resource.",
+        "ttscardid": "49366",
         "type_code": "event"
     },
     {
@@ -3037,6 +3173,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Ambush.\nResolve any number of your dice showing a resource ([resource]).",
+        "ttscardid": "49367",
         "type_code": "event"
     },
     {
@@ -3055,6 +3192,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Spot a Yellow character and choose a support in play that has no <i>mods</i>. Then spend resources equal to that support's cost to discard it.",
+        "ttscardid": "49368",
         "type_code": "event"
     },
     {
@@ -3072,6 +3210,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Remove one of your dice showing indirect damage ([indirect]) to remove a die.",
+        "ttscardid": "49600",
         "type_code": "event"
     },
     {
@@ -3089,6 +3228,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot a neutral character to remove a die.",
+        "ttscardid": "49601",
         "type_code": "event"
     },
     {
@@ -3106,6 +3246,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Spot any number of Yellow characters to resolve that many of your Yellow dice in the order of your choice.",
+        "ttscardid": "49602",
         "type_code": "event"
     },
     {
@@ -3123,6 +3264,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Ambush.\nRemove a non-unique die and all copies of it from each of your opponent's pools.",
+        "ttscardid": "49603",
         "type_code": "event"
     },
     {
@@ -3140,6 +3282,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "You can include one additional copy of up to 2 different cards in your deck <em>(following all other deckbuilding restrictions)</em>.",
+        "ttscardid": "49604",
         "type_code": "plot"
     },
     {
@@ -3157,6 +3300,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "After a die is turned, you may discard this support from play to remove that die.",
+        "ttscardid": "49605",
         "type_code": "support"
     },
     {
@@ -3186,6 +3330,7 @@
             "vehicle"
         ],
         "text": "Decrease the resource cost on each side of this die by 1 for each <i>mod</i> on this support.",
+        "ttscardid": "49606",
         "type_code": "support"
     },
     {
@@ -3215,6 +3360,7 @@
             "mod"
         ],
         "text": "Modify <i>vehicle</i> support.\nAfter you play this upgrade, you may activate attached support. Then you may reroll a die.",
+        "ttscardid": "49607",
         "type_code": "upgrade"
     },
     {
@@ -3243,6 +3389,7 @@
             "weapon"
         ],
         "text": "While this upgrade is on a neutral character, it has Redeploy.\n[special] - Deal 2 indirect damage ([indirect]) to an opponent. Then deal 1 damage to a character.",
+        "ttscardid": "49608",
         "type_code": "upgrade"
     },
     {
@@ -3271,6 +3418,7 @@
             "weapon"
         ],
         "text": "Yellow character only.\n<b>Action</b> - Resolve this die showing melee damage ([melee]) as indirect damage ([indirect]), incresing its value by 1.",
+        "ttscardid": "49609",
         "type_code": "upgrade"
     },
     {
@@ -3288,6 +3436,7 @@
         "rarity_code": "C",
         "set_code": "AtG",
         "text": "Remove all of an opponent's dice showing a value of 0 <em>(blanks and specials have a value of 0)</em>.",
+        "ttscardid": "49610",
         "type_code": "event"
     },
     {
@@ -3308,6 +3457,7 @@
             "vehicle"
         ],
         "text": "Ambush.\nThis support can be activated.\nAfter you play this support, search your deck or discard pile for a <i>mod</i> and play it on this support, if able. If your searched your deck, shuffle it.",
+        "ttscardid": "49611",
         "type_code": "support"
     },
     {
@@ -3329,6 +3479,7 @@
             "vehicle"
         ],
         "text": "This support can be activated.\nAfter you activate attached support, you may reroll a die <em>(yours or an opponent's)</em>.",
+        "ttscardid": "49612",
         "type_code": "support"
     },
     {
@@ -3350,6 +3501,7 @@
             "mod"
         ],
         "text": "Modify <i>vehicle</i> support.\nAfter you activate attached support, you may deal 1 indirect damage ([indirect]) to an opponent.",
+        "ttscardid": "49613",
         "type_code": "upgrade"
     },
     {
@@ -3370,6 +3522,7 @@
             "mod"
         ],
         "text": "Modify <i>vehicle</i> support.\nAfter you activate attached support, you may spend 1 resource to remove a die showing damage ([ranged], [melee] or [indirect]).",
+        "ttscardid": "49614",
         "type_code": "upgrade"
     },
     {
@@ -3391,6 +3544,7 @@
             "mod"
         ],
         "text": "Modify <i>vehicle</i> support.\n<b>Action</b> - Exhaust this upgrade to turn attached support's die to any side.",
+        "ttscardid": "49615",
         "type_code": "upgrade"
     },
     {
@@ -3408,6 +3562,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Include only if you have no hero or villain characters on your team.\nEach of your neutral characters has +1 health.",
+        "ttscardid": "49616",
         "type_code": "plot"
     },
     {
@@ -3425,6 +3580,7 @@
         "rarity_code": "U",
         "set_code": "AtG",
         "text": "Include only if each character on your team is the same color and your deck contains no more than one copy of any card.",
+        "ttscardid": "49617",
         "type_code": "plot"
     },
     {
@@ -3442,6 +3598,7 @@
         "set_code": "AtG",
         "subtitle": "Scipio",
         "text": "After any player plays a <i>vehicle</i>, that player may take control of this battlefield.\n<b>Power Action</b> - Reroll a die.",
+        "ttscardid": "49618",
         "type_code": "battlefield"
     },
     {
@@ -3459,6 +3616,7 @@
         "set_code": "AtG",
         "subtitle": "Lothal",
         "text": "After an opponent plays a support or an upgrade, you may discard the top card of their deck.",
+        "ttscardid": "49619",
         "type_code": "battlefield"
     },
     {
@@ -3476,6 +3634,7 @@
         "set_code": "AtG",
         "subtitle": "Naboo",
         "text": "<b>Power Action</b> - Gain 1 resource. Spot a neutral character to take one additional action.",
+        "ttscardid": "49620",
         "type_code": "battlefield"
     },
     {
@@ -3493,6 +3652,8 @@
         "set_code": "AtG",
         "subtitle": "Kamino",
         "text": "<b>Power Action</b> - Reroll any number of your non-unique character dice.",
+        "ttscardid": "49621",
         "type_code": "battlefield"
     }
 ]
+
