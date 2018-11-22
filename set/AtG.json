@@ -225,7 +225,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "Mark Molnar",
         "is_unique": true,
         "name": "Darth Vader's Meditation Chamber",
@@ -235,7 +235,7 @@
         "subtypes": [
             "location"
         ],
-        "text": "<b>Action</b> - Exhaust this support to heal 1 damage from a Blue character and place 1 card from your discard pile on the bottom of your deck. Spot Darth Vader to draw a card.",
+        "text": "<b>Action</b> - Exhaust this support to heal 1 damage from a Blue character and place 1 card from your discard pile on the bottom of your deck. Then spot Darth Vader to draw a card.",
         "ttscardid": "49809",
         "type_code": "support"
     },
@@ -1652,7 +1652,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "Jason Juta",
         "is_unique": true,
         "name": "Qui-Gon Jinn's Lightsaber",
@@ -1670,7 +1670,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "After 1 or more shields are removed from attached character, you may exhaust this upgrade to give that character 1 shield. If this upgrade is on Qui-Gon Jinn, you may draw a card.",
+        "text": "After 1 or more shields are removed from attached character, you may exhaust this upgrade to give that character 1 shield. Then, If this upgrade is on Qui-Gon Jinn, you may draw a card.",
         "ttscardid": "49301",
         "type_code": "upgrade"
     },
