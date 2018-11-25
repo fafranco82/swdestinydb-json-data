@@ -634,7 +634,105 @@
         "code": "07125",
         "name": "Ricostruzione",
         "text": "Aggiungi alla tua mano 1 supporto dalla tua pila degli scarti."
-    },                
+    },
+        {
+        "code": "07126",
+        "name": "Attacco in Campo Nemico",
+        "text": "Risolvi un qualsiasi numero di tuoi dadi \"danno\" ([ranged], [melee] o [indirect]) nell'ordine che preferisci."
+    },
+    {
+        "code": "07127",
+        "name": "Vantaggio del Territorio Natio",
+        "text": "porta 2 campi di battaglia alla partita.\nDurante la preparazione, se il tuo campo sta per essere scelto per la partita, scegli invece 1 dei tuoi 2 campi di battaglia. Metti da parte l'altro."
+    },
+    {
+        "code": "07128",
+        "name": "Riserva di Munizioni",
+        "text": "Dopo che hai giocato questo supporto, colloca 3 danni su di esso.\n<b>Azione/b> - Esaurisci questo supporto e rimuovi 1 danno da esso per infliggere 1 danno secondario ([indirect]) a un avversario"
+    },
+    {
+        "code": "07129",
+        "flavor": "L'astrocaccia Aggressive ReConnaissance-170 era dotato di armamenti e attrezzato per i viaggi nello spazio profondo..",
+        "name": "Astrocaccia ARC-170",
+        "text": "Prima che questo supporto sia scartato dal gioco, puoi rimetterlo nella mano del suo proprietario."
+    },
+    {
+        "code": "07130",
+        "name": "Carro Armato Droide Hailfire",
+        "text": "Dopo che hai giocato un <i>Veicolo</i><em>（incluso questo supporto）<em> puoi infliggere 1 danno secondario ([indirect]) a un avversario.\nDopo che hai giocato 1 <i>Droide</i><em>（incluso questo supporto）<em>, puoi attivarlo."
+    },
+    {
+        "code": "07131",
+        "name": "Maestro d'Armi",
+        "text": "<b>Azione</b> - Rimuovi 1 dado personaggio o 1 dado miglioria del personaggio con questa miglioria per girare 1 suo dado <i>Arma</i> su una faccia a tua scelta."
+    },
+    {
+        "code": "07132",
+        "name": "Amico o Nemico",
+        "text": "Ripeti il tiro di 1 dado personaggio. Poi se hai appena ottenuto \"danno\" ([ranged], [melee] o [indirect]), infliggi 1 danno a quel personaggio. Altrimenti forniscigli 1 scudo."
+    },
+    {
+        "code": "07133",
+        "name": "Nel Mirino",
+        "text": "Imboscata.<em> (Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.) </em>\nScegli un simbolo. Poi rimuovi un qualsiasi nuemro di dadi che mostrano quel simbolo."
+    },
+    {
+        "code": "07134",
+        "name": "Scommesse sugli Sgusci",
+        "text": "Scegli un numero. Poi ripeti il tiro di un tuo dado <i>Veicolo</i>. Se quel dado ha appena ottenuto un valore pari al numero scelto, ottieni 2 risorse (3 risorse se era una dado <i>Sguscio</i>)."
+    },
+    {
+        "code": "07135",
+        "name": "Riprogrammazione",
+        "text": "Scegli 1 <i>Droide</i> dalla tua mano e giocalo, riducendo di 1 il suo costo."
+    },
+    {
+        "code": "07136",
+        "name": "Mossa Rischiosa",
+        "text": "Avvista 1 personaggio Giallo per rimuovere 1 dado. La prossima carta giocata da un tuo avversario in questo round possiede la parola chiave Imboscata."
+    },
+    {
+        "code": "07137",
+        "name": "Motori Avviati!",
+        "text": "Cerca nel tuo mazzo 1 <i>Sguscio</i>, rivelalo e aggiungilo alla tua mano. Rimescola il tuo mazzo."
+    },
+    {
+        "code": "07138",
+        "name": "Riscuotere Un Favore",
+        "text": "Prima di giocare un evento dal costo pari o superiore a 3, puoi easurire questa trama per ridurre di 1 il suo costo (di 2 se hai esattamente 1 personaggio in gioco)."
+    },
+    {
+        "code": "07139",
+        "name": "Merce Preziosa",
+        "text": "<b>Azione</b> - Esaurisci questo supporto e 1 tuo personaggio per collocare 3 risorse su questo supporto oppure per prendere tutte le risorse da esso."
+    },
+    {
+        "code": "07140",
+        "name": "Conoscenza dei Bassifonti",
+        "text": "Prima di giocare un evento giallo, puoi esaurire questo supporto per ridurre di 1 il suo costo."
+    },
+    {
+        "code": "07141",
+        "name": "Mercantile Leggero XS",
+        "text": "Imboscata.\n[special] - Colloca 2 risorse su questo supporto oppure prendi tutte le risorse da esso. Puoi effettuare 1 azione aggiuntiva. "
+    },
+    {
+        "code": "07142",
+        "name": "Spada Oscura",
+        "text": "Riposizionamento.\nPrima di risolvere questo dado, sel valore in punti del personaggio con questa miglioria è pari o superiore a 15, aumenta di 1 il suo valore (di 2 se è pari o superiore a 20)."
+    },
+    {
+        "code": "07143",
+        "flavor": "\"Provali. Lanciarampino, dardi paralizzanti, repulsore. Progettati per combattere le abilità dei Jedi\". <cite>Fenn Rau</cite>",
+        "name": "Bracciali Mandaloriani",
+        "text": "<b>Azione</b> - Rimetti questa miglioria dal gioco nella mano del suo proprietario."
+    },
+    {
+        "code": "07144",
+        "flavor": "\"Come diceva sempre la mia dolce madre:'Figliolo, se un ostaggio è buono, due sono meglio e tre...beh, questo si chiama un vero affare'\" <cite>Hondo Ohnaka</cite>",
+        "name": "Affarista Rispettabile",
+        "text": "Dopo che hai attivato il persomaggio con questa miglioria, puoi ottenere 1 risorsa."
+    },               
     {
         "code": "07154",
         "name": "Macrobinocoli",
