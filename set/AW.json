@@ -868,11 +868,11 @@
         "rarity_code": "L",
         "set_code": "AW",
         "sides": [
-            "0RD",
-            "0RD",
-            "0Dr",
-            "0Sh",
-            "0Dc",
+            "XRD",
+            "XRD",
+            "XDr",
+            "XSh",
+            "XDc",
             "-"
         ],
         "text": "The X on this die is equal to the number of cards in your hand.",

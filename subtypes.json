@@ -4,6 +4,10 @@
         "name": "Ability"
     },
     {
+        "code": "apprentice",
+        "name": "Apprentice"
+    },
+    {
         "code": "artillery",
         "name": "Artillery"
     },
@@ -14,6 +18,10 @@
     {
         "code": "droid",
         "name": "Droid"
+    },
+    {
+        "code": "engineer",
+        "name": "Engineer"
     },
     {
         "code": "equipment",
@@ -48,12 +56,20 @@
         "name": "Mod"
     },
     {
+        "code": "nightbrother",
+        "name": "Nightbrother"
+    },
+    {
         "code": "pilot",
         "name": "Pilot"
     },
     {
         "code": "podracer",
         "name": "Podracer"
+    },
+    {
+        "code": "scavenger",
+        "name": "Scavenger"
     },
     {
         "code": "scoundrel",

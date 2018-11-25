@@ -81,7 +81,6 @@
         "name": "Spada Laser del Quinto Fratello",
         "text": "Finché questa miglioria è assegnata al Quinto Fratello, puoi risolvere questo dado come se non fosse modificatore.\nDopo che hai risolto questo dado, puoi infliggere 1 danno a un personaggio."
     },
-
     {
         "code": "07017",
         "flavor": "\"Mi sento dilaniato. Voglio liberarmi da questa pena.\" <cite>Kylo Ren</cite>",
@@ -100,14 +99,13 @@
         "name": "Esecutore",
         "text": "Dopo che un personaggio dell'avversario è stato sconfitto, puoi tirare questo dado nella tua riserva."
     },
-
     {
         "code": "07021",
         "name": "Generale Grevious",
         "subtitle": "Temibile Cyborg",
         "text": "Ignora le restrizioni di gioco delle carte <b>Arma</b> giocate su questo personaggio. Questo personaggio può possedere 1 miglioria aggiuntiva.\n<b>Azione Straordinaria</b> - Se ci sono 4 dadi <b>Arma</b> di questo personaggio nella tua riserva, ingliggi 4 danni a un personaggio."
     },
-        {
+    {
         "code": "07022",
         "name": "Arte della Guerra",
         "text": "Avvista 1 personaggio Rosso per rivelare la mano di un avversario. Per ogni carta appena rivelata, rimuovi 1 dado di valore pari al costo di quella carta."
@@ -154,12 +152,12 @@
         "name": "Apparatodi Alterazione Climatica",
         "text": "<b>Azione</b> - Esaurisci questo supporto per infliggere 2 danni secondari ([indirect]) a ogni giocatore, a partire da te."
     },
-        {
+    {
         "code": "07032",
         "name": "Trasporto Truppe Imperiale",
         "text": "La X su questo dado è pari al numero di personaggi non unici che hai in gioco."
     },
-        {
+    {
         "code": "07034",
         "name": "Ascia dell'Esecutore",
         "text": "Dopo che un personaggio di un avversario è stato sconfitto, puoi tirare questo dado nella tua riserva."
@@ -487,7 +485,7 @@
         "name": "Genio della Meccanica",
         "text": "Guarda 5 carte dalla cima del tuo mazzo, rivela 1 <i>Droide</i> o 1 <i>Sguscio</i> appena guardato e aggiungili alla tua mano. Colloca le altre carte guardate in fondo al tuo mazzo nell'ordine che preferisci."
     },
-        {
+    {
         "code": "07097",
         "name": "Fuga Miracolosa",
         "text": "Gioca questa carta solo se non hai altre carte nella tua mano.\"Rimuovi 1 dado."
@@ -533,7 +531,7 @@
         "name": "Furtivo",
         "text": "Il personaggio con questa miglioria possiede il sottotipo <i>Soldato</i>.\n[special] - Scarta un ammontare di carte pari al valore mostrato su 1 tuo dado personaggio dalla cima di 1 mazzo."
     },
-        {
+    {
         "code": "07106",
         "name": "Via della Luce",
         "text": "Rimuovi 1 dado non Eroe."
@@ -635,7 +633,7 @@
         "name": "Ricostruzione",
         "text": "Aggiungi alla tua mano 1 supporto dalla tua pila degli scarti."
     },
-        {
+    {
         "code": "07126",
         "name": "Attacco in Campo Nemico",
         "text": "Risolvi un qualsiasi numero di tuoi dadi \"danno\" ([ranged], [melee] o [indirect]) nell'ordine che preferisci."
@@ -734,8 +732,83 @@
         "text": "Dopo che hai attivato il persomaggio con questa miglioria, puoi ottenere 1 risorsa."
     },               
     {
+        "code": "07146",
+        "name": "Estrazione",
+        "text": "Scegli fino a 3 carte in una pila degli scarti e mettile da parte."
+    },
+    {
+        "code": "07147",
+        "name": "Caduta Libera",
+        "text": "Imboscata. <em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nObbliga un avversario a rimuovere un suo dado."
+    },
+    {
+        "code": "07148",
+        "name": "Nati Per Soffrire",
+        "text": "Ogni giocatore scarta un ammontare di carte pari al numero di suoi dadi \"vuoto\" ([blank]) dalla cima del proprio mazzo."
+    },
+    {
+        "code": "07149",
+        "name": "Fascino della Natura",
+        "text": "Ripeti il tiro di un massimo di 2 dadi <em>tuoi e/o di un avversario)</em>."
+    },
+    {
+        "code": "07150",
+        "name": "Reprimere",
+        "text": "Rimuovi tutti i dadi \"danno secondario\" ([indirect]) di un avversario."
+    },
+    {
+        "code": "07151",
+        "name": "Sotto Attacco",
+        "text": "Rimuovi un qualsiasi numero di dadi \"danno\" ([ranged], [melee] o [indirect]) di un avversario. Poi infliggi a te stesso un ammontare di danni secondari ([indirect]) pari al valore totale di quei dadi." 
+    },
+    {
+        "code": "07152",
+        "name": "Spazzini di Lotho Minor",
+        "text": "[special] - metti da parte 1 carta <i>Arma</i>, <i>Droide</i>, <i>Equipaggiamento</i> o <i>Veicolo</i> nella tua pila degli scarti per ottenere 2 risorse."
+    },
+    {
+        "code": "07153",
+        "name": "Sguscio",
+        "text": "Imboscata.\nDopo che questo dado ha ottenuto \"vuoto\" ([blank]), rimetti questo supporto dal gioco nella mano del suo proprietario."
+    },
+    {
         "code": "07154",
         "name": "Macrobinocoli",
         "text": "[special] - Guarda la mano di un avversario. Fornisci 1 scudo a un personaggio."
-    }
+    },
+    {
+        "code": "07155",
+        "name": "Boonta Eve Classic",
+        "text": "Dopo che hai risolto 1 tuo dado <i>Sguscio</i>, puoi collocare 1 risorsa su quello <i>Sguscio</i>. Se ci sono 4 o più risorse su di esso, metti da parte ogni copia di questa trama e ottieni 4 risorse."
+    },
+    {
+        "code": "07156",
+        "name": "Arena della Morte",
+        "subtitle": "Nar Shaddaa",
+        "text": "<b>Rivendicazione</b> - Infliggi a un avversario un ammontare di danni secondari ([indirect]) pari al numero di tuoi personaggi sconfitti, fino a un massimo di 3"
+    },
+    {
+        "code": "07157",
+        "name": "",
+        "subtitle": "Atollon",
+        "text": "<b>Rivendicazione</b> - \n.\n"
+    },
+    {
+        "code": "07158",
+        "name": "Torre di Comunicazione",
+        "subtitle": "Scarif",
+        "text": "<b>Rivendicazione</b> - Risolvi un tuo dado, aumentando di 1 il suo valore se avvisti una trama."
+    },
+    {
+        "code": "07159",
+        "name": "Arena di Mos Espa",
+        "subtitle": "Tatooine",
+        "text": "<b>Rivendicazione</b> - Obbliga un avversario a scegliere se perdere una risorsa oppure farti ottenere 1 risorsa. Avvista uno <i>Sguscio</i> per obbligarlo invece a fare entrambe le cose."
+    },
+    {
+        "code": "07160",
+        "name": "Valle del Crepaccio",
+        "subtitle": "Dathomir",
+        "text": "<b>Rivendicazione</b> - Rivela 1 carta dalla cima del tuo mazzo. Se il suo costo è dispari, rimuovi 1 dado di valore pari o inferiore a 2."
+    } 
 ]

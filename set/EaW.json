@@ -361,11 +361,11 @@
         "rarity_code": "R",
         "set_code": "EaW",
         "sides": [
-            "0MD",
-            "0F",
-            "0Dr",
-            "0Dc",
-            "0Sh",
+            "XMD",
+            "XF",
+            "XDr",
+            "XDc",
+            "XSh",
             "-"
         ],
         "subtypes": [
@@ -996,10 +996,10 @@
         "rarity_code": "R",
         "set_code": "EaW",
         "sides": [
-            "+1X",
-            "+1X",
-            "+1X",
-            "+2X1",
+            "+1*",
+            "+1*",
+            "+1*",
+            "+2*1",
             "-",
             "-"
         ],

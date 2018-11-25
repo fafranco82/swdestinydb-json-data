@@ -61,7 +61,7 @@
             "type": "string"
         },
         "points": {
-            "pattern": "^[0-9]+(/[0-9]+)?$",
+            "pattern": "^-?[0-9]+(/[0-9]+)?$",
             "type": "string"
         },
         "position": {
@@ -88,7 +88,7 @@
         },
         "sides": {
             "items": {
-                "pattern": "^((([+]?(\\d+)(MD|RD|ID|F|Dr|Dc|Sh|R|X)|Sp)(\\d+)?)|-)$",
+                "pattern": "^((([+]?(([0-9]+|X))(MD|RD|ID|F|Dr|Dc|Sh|R|\\*)|Sp)(\\d+)?)|-)$",
                 "type": "string"
             },
             "maxItems": 6,
