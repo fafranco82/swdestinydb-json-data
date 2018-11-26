@@ -149,7 +149,7 @@
     },
     {
         "code": "07030",
-        "name": "Apparatodi Alterazione Climatica",
+        "name": "Apparato di Alterazione Climatica",
         "text": "<b>Azione</b> - Esaurisci questo supporto per infliggere 2 danni secondari ([indirect]) a ogni giocatore, a partire da te."
     },
     {
@@ -348,7 +348,7 @@
     {
         "code": "07070",
         "flavor": "\"Fare. O non fare.\" <cite>Yoda</cite>",
-        "name": "Non C'É Provare",
+        "name": "Non c'è provare",
         "text": "<b>Azione</b> - Ripeti il tiro di questo dado, poi puoi risolverlo aumentando di 1 il suo valore. Altrimenti, rimuovilo."
     },
     {
