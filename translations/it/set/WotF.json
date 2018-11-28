@@ -730,7 +730,7 @@
         "flavor": "\"Come diceva sempre la mia dolce madre:'Figliolo, se un ostaggio è buono, due sono meglio e tre...beh, questo si chiama un vero affare'\" <cite>Hondo Ohnaka</cite>",
         "name": "Affarista Rispettabile",
         "text": "Dopo che hai attivato il persomaggio con questa miglioria, puoi ottenere 1 risorsa."
-    },               
+    },
     {
         "code": "07146",
         "name": "Estrazione",
@@ -759,7 +759,7 @@
     {
         "code": "07151",
         "name": "Sotto Attacco",
-        "text": "Rimuovi un qualsiasi numero di dadi \"danno\" ([ranged], [melee] o [indirect]) di un avversario. Poi infliggi a te stesso un ammontare di danni secondari ([indirect]) pari al valore totale di quei dadi." 
+        "text": "Rimuovi un qualsiasi numero di dadi \"danno\" ([ranged], [melee] o [indirect]) di un avversario. Poi infliggi a te stesso un ammontare di danni secondari ([indirect]) pari al valore totale di quei dadi."
     },
     {
         "code": "07152",
@@ -789,7 +789,7 @@
     },
     {
         "code": "07157",
-        "name": "",
+        "name": "Bendu's Lair",
         "subtitle": "Atollon",
         "text": "<b>Rivendicazione</b> - \n.\n"
     },
@@ -810,5 +810,5 @@
         "name": "Valle del Crepaccio",
         "subtitle": "Dathomir",
         "text": "<b>Rivendicazione</b> - Rivela 1 carta dalla cima del tuo mazzo. Se il suo costo è dispari, rimuovi 1 dado di valore pari o inferiore a 2."
-    } 
+    }
 ]
