@@ -2586,7 +2586,7 @@
     {
         "affiliation_code": "neutral",
         "code": "08112",
-        "cost": 2,
+        "cost": 0,
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": false,
