@@ -503,7 +503,7 @@
         "subtypes": [
             "droid"
         ],
-        "text": "<b>Power Action</b> - Turn one of your <i>droid</i> charater dice to a side showing damage ([ranged], [melee] or [indirect]).",
+        "text": "<b>Power Action</b> - Turn one of your <i>droid</i> character dice to a side showing damage ([ranged], [melee] or [indirect]).",
         "ttscardid": "49819",
         "type_code": "character"
     },
@@ -1268,7 +1268,7 @@
         "position": 54,
         "rarity_code": "U",
         "set_code": "AtG",
-        "text": "Include only if you have a character on your team that is 20 or more points on your team. \n After one or more of your character dice are removed by an opponent, you may deal 1 damage to a character.",
+        "text": "Include only if you have a character that is 20 or more points on your team.\nAfter one or more of your character dice are removed by an opponent, you may deal 1 damage to a character.",
         "ttscardid": "49853",
         "type_code": "plot"
     },
@@ -1734,7 +1734,7 @@
             "leader",
             "trooper"
         ],
-        "text": "While building your team, the point value of each Clone Trooper ([EaW]38) is decreased by 1.\n[special] - Take control of the battlefield and use its claim ability or power action, even if it has been used this round.",
+        "text": "While building your team, the point value of each Clone Trooper ([LEG]38) is decreased by 1.\n[special] - Take control of the battlefield and use its claim ability or power action, even if it has been used this round.",
         "ttscardid": "49303",
         "type_code": "character"
     },
@@ -2413,7 +2413,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "After you play this support, you may search your deck or discard pile for Escape Craft ([AtG]102) and attach it to th is support as a <i>mod</i> upgrade <em>(without paying its cost)</em>. If you searched your deck, shuffle it.",
+        "text": "After you play this support, you may search your deck or discard pile for Escape Craft ([AtG]102) and attach it to this support as a <i>mod</i> upgrade <em>(without paying its cost)</em>. If you searched your deck, shuffle it.",
         "ttscardid": "49333",
         "type_code": "support"
     },
@@ -2824,7 +2824,7 @@
         "position": 122,
         "rarity_code": "C",
         "set_code": "AtG",
-        "text": "Activate one of your support. Reroll any number of its support and <i>mod</i> dice. Then reroll any number of its support and <i>mod</i> dice.",
+        "text": "Activate one of your supports. Reroll any number of its support and <i>mod</i> dice. Then reroll any number of its support and <i>mod</i> dice.",
         "ttscardid": "49352",
         "type_code": "event"
     },
