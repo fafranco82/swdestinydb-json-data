@@ -22,5 +22,9 @@
     {
         "code": "plot",
         "name": "Plot"
+    },
+    {
+        "code": "downgrade",
+        "name": "Downgrade"
     }
 ]

@@ -12,6 +12,10 @@
         "name": "Artillery"
     },
     {
+        "code": "bounty",
+        "name": "Bounty"
+    },
+    {
         "code": "bounty-hunter",
         "name": "Bounty Hunter"
     },
@@ -30,6 +34,10 @@
     {
         "code": "gungan",
         "name": "Gungan"
+    },
+    {
+        "code": "injury",
+        "name": "Injury"
     },
     {
         "code": "inquisitor",

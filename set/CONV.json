@@ -1,0 +1,373 @@
+[
+    {
+        "affiliation_code": "villain",
+        "code": "09018",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "JB Casacop",
+        "is_unique": true,
+        "name": "Captain Phasma",
+        "points": "18/21",
+        "position": 18,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2F",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Stormtrooper Commander",
+        "subtypes": [
+            "leader",
+            "trooper"
+        ],
+        "text": "You may resolve your <i>trooper</i> dice showing damage as if they where melee damage ([melee]).\n<b>Power Action</b> - Roll 2 set-aside First Order Stormtrooper ([CONV]20) dice into your pool. Set those dice aside after they are resolved or removed.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09019",
+        "deck_limit": 3,
+        "faction_code": "red",
+        "flavor": "\"Those clankers have though armor!\" <cite>Clone Commander Cody</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "health": 7,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": false,
+        "name": "Commando Droid",
+        "points": "8",
+        "position": 19,
+        "rarity_code": "S",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "1RD",
+            "+2RD",
+            "2ID",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "droid"
+        ],
+        "text": "After youa ctivate this character, you may activate one of your <i>droid</i> characters or supports.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09020",
+        "deck_limit": 4,
+        "faction_code": "red",
+        "flavor": "\"A real stormtrooper has no room for sympathy. A real stormtrooper is the extension of the First Order, of Supreme Leader Snoke's will. Nothing less.\" <cite>Captain Phasma</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "health": 7,
+        "illustrator": "Ameen Naksewee",
+        "is_unique": false,
+        "name": "First Order Stormtrooper",
+        "points": "7",
+        "position": 20,
+        "rarity_code": "R",
+        "reprint_of": "01002",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2RD1",
+            "1R",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09021",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"Your screams are like music to my audio receptors!\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "JB Casacop",
+        "is_unique": true,
+        "name": "General Grievous",
+        "points": "9/12",
+        "position": 21,
+        "rarity_code": "S",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "2ID",
+            "2F",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Droid Armies Commander",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "While building your team, the point value of each <i>droid</i> is decreased by 1.\n<b>Power Action</b> - Reroll any number of your <i>droid</i> dice.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09036",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Antonio Jose Manzanedo",
+        "is_unique": true,
+        "name": "Jabba The Hutt",
+        "points": "10/13",
+        "position": 36,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "2F",
+            "1Dr",
+            "1Dc",
+            "1R",
+            "+2R",
+            "-"
+        ],
+        "subtitle": "Influential Kingpin",
+        "subtypes": [
+            "leader",
+            "scoundrel"
+        ],
+        "text": "After you activate this character, you may look at the top 4 cards of your deck, reveal a <i>bounty</i> or a Yellow event from among them, and add it to your hand. Place the rest on the bottom of your deck in any order.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09039",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"A death mark is not an easy thing to live with.\" <cite>General Rieekan</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Andreia Ugrai",
+        "is_unique": false,
+        "name": "Death Mark",
+        "position": 39,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "subtypes": [
+            "bounty"
+        ],
+        "text": "After attached character is defeated, you may draw 3 cards.",
+        "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09056",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Mace Windu",
+        "points": "12/16",
+        "position": 56,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1MD",
+            "2MD",
+            "2MD",
+            "2F",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Inspiring Master",
+        "subtypes": [
+            "jedi",
+            "leader"
+        ],
+        "text": "<b>Power Action</b> - Look at the top 4 cards of your deck. You may play an upgrade from among them. Place the rest on the bottom of your deck in any order. If that upgrade was played on a <i>Jedi</i>, give it 1 shield.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09057",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"It takes strength to resist the dark side. Only the weak embrace it.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Darren Tan",
+        "is_unique": true,
+        "name": "Obi-Wan Kenobi",
+        "points": "14/18",
+        "position": 57,
+        "rarity_code": "S",
+        "set_code": "CONV",
+        "sides": [
+            "2MD",
+            "3MD1",
+            "2F",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Ardent Avenger",
+        "subtypes": [
+            "jedi"
+        ],
+        "text": "<b>Power Action</b> - Resolve one of your dice showing a value of 2 or more, increasing its value by 1.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09070",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "JB Casacop",
+        "is_unique": true,
+        "name": "Mace Windu's Lightsaber",
+        "position": 70,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "1MD",
+            "2MD",
+            "+3MD",
+            "2Sh",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "<b>Power Action</b> - Spot Mace Windu to move this upgrade to him.\n[special] - Deal 2 unblockable damage to a character. Then, if that character has 1 remaining health, defeat it.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09091",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"War is intolerable. We have been deceived into thinking that we must be a part of it.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Borja Pindado",
+        "is_unique": true,
+        "name": "Satine Kryze",
+        "points": "8/10",
+        "position": 91,
+        "rarity_code": "S",
+        "set_code": "CONV",
+        "sides": [
+            "2ID",
+            "1F",
+            "1F",
+            "1R",
+            "2R1",
+            "-"
+        ],
+        "subtitle": "Hope of Mandalore",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "After you activate this character, you may reroll one of your dice.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09113",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"I'm one with the Force, and the Force will guide me.\" <cite>Padawan Ganodi</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Jeff Lee Johnson",
+        "is_unique": false,
+        "name": "Force Flow",
+        "points": "2",
+        "position": 113,
+        "rarity_code": "S",
+        "set_code": "CONV",
+        "text": "<b>Action</b> - Set this plot aside to turn a die to any side.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09133",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "Advanced Training",
+        "points": "2",
+        "position": 133,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "You may resolve your <i>trooper</i> dice showing a blank ([blank]) as if they were indirect damage ([indirect]) that have a value of 1.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09143",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"You don't think the Empire is going to want you for your role in their loss?\" <cite>General Dodonna</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Alexander Kozachenko",
+        "is_unique": false,
+        "name": "Wanted",
+        "position": 143,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "subtypes": [
+            "bounty"
+        ],
+        "text": "After attached character is defeated, you may gain 2 resources.",
+        "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09161",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "flavor": "It's just a flesh wound.",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Javier Charro Martinez",
+        "is_unique": false,
+        "name": "Wounded",
+        "position": 161,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "subtypes": [
+            "injury"
+        ],
+        "text": "Attached character has -1 health.",
+        "type_code": "downgrade"
+    }
+]
