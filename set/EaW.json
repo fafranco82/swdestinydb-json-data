@@ -6,7 +6,7 @@
         "faction_code": "red",
         "flavor": "A veteran of the battles over Endor and Jakku, Captain Ree was an accomplished pilot and commander.",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "Aurore Folny",
         "is_unique": true,
@@ -24,7 +24,7 @@
             "-"
         ],
         "subtitle": "Adept Pilot",
-        "text": "<b>Action</b> - Spend 2 resources to ready a <i>vehicle</i>.",
+        "text": "<b>Power Action</b> - Spend 2 resources to ready a <i>vehicle</i>.",
         "ttscardid": "2500",
         "type_code": "character"
     },
