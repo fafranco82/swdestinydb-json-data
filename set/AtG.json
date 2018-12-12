@@ -3478,7 +3478,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "This support can be activated.\nAfter you activate attached support, you may reroll a die <em>(yours or an opponent's)</em>.",
+        "text": "This support can be activated.\nAfter you activate this support, you may reroll a die <em>(yours or an opponent's)</em>.",
         "ttscardid": "49612",
         "type_code": "support"
     },
