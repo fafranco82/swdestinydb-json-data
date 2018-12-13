@@ -59,7 +59,7 @@
         "subtypes": [
             "witch"
         ],
-        "text": "<b>Action</b> — Discard a card from your hand that costs an odd number to reroll a die <em>(yours or an opponent's)</em>.",
+        "text": "<b>Action</b> - Discard a card from your hand that costs an odd number to reroll a die <em>(yours or an opponent's)</em>.",
         "ttscardid": "49801",
         "type_code": "character"
     },
