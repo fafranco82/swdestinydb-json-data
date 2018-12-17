@@ -4,8 +4,16 @@
         "name": "Capacidad"
     },
     {
+        "code": "apprentice",
+        "name": "Aprendiz"
+    },
+    {
         "code": "artillery",
         "name": "Artillería"
+    },
+    {
+        "code": "bounty",
+        "name": "Recompensa"
     },
     {
         "code": "bounty-hunter",
@@ -16,12 +24,24 @@
         "name": "Droide"
     },
     {
+        "code": "engineer",
+        "name": "Ingeniero"
+    },
+    {
         "code": "equipment",
         "name": "Equipo"
     },
     {
         "code": "gungan",
         "name": "Gungan"
+    },
+    {
+        "code": "injury",
+        "name": "Injury"
+    },
+    {
+        "code": "inquisitor",
+        "name": "Inquisitor"
     },
     {
         "code": "jawa",
@@ -40,8 +60,24 @@
         "name": "Lugar"
     },
     {
+        "code": "mod",
+        "name": "Mod"
+    },
+    {
+        "code": "nightbrother",
+        "name": "Nightbrother"
+    },
+    {
         "code": "pilot",
         "name": "Piloto"
+    },
+    {
+        "code": "podracer",
+        "name": "Podracer"
+    },
+    {
+        "code": "scavenger",
+        "name": "Scavenger"
     },
     {
         "code": "scoundrel",

@@ -8,6 +8,10 @@
         "name": "Personaje"
     },
     {
+        "code": "downgrade",
+        "name": "Desventaja"
+    },
+    {
         "code": "event",
         "name": "Evento"
     },

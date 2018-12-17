@@ -1,0 +1,86 @@
+[
+    {
+        "code": "09018",
+        "name": "Capitán Phasma",
+        "subtitle": "Comandante de soldados de asalto",
+        "text": "Puedes resolver tus dados de <i>soldado</i> que muestren daño como si fueran daño cuerpo a cuerpo ([melee]).\n<b>Acción potenciada</b> - Tira en tu reserva 2 dados de Soldado de asalto de la Primera Orden ([CONV]20) que estén aparte. Deja aparte esos dados después de que hayan sido resueltos o retirados."
+    },
+    {
+        "code": "09019",
+        "flavor": "\"¡Estos hojalatas tienen mejor blindaje!\" <cite>Comandante clon Cody</cite>",
+        "name": "Droide comando",
+        "text": "Despues de que actives este Personaje, puedes activar uno de tus Personajes o Apoyos <i>droide</i>."
+    },
+    {
+        "code": "09020",
+        "flavor": "\"Un verdadero soldad de asalto carece de compasión. Un verdadero soldado de asalto es la prolongación de la Primera Orden, de la voluntad del Líder Supremo Snoke. Nada menos.\" <cite>Capitán Phasma</cite>",
+        "name": "Soldado de asalto de la Primera Orden"
+    },
+    {
+        "code": "09021",
+        "flavor": "\"¡Vuestro gritos son música para mis receptores auditivos!\"",
+        "name": "General Grievous",
+        "subtitle": "Comandante de tropas droides",
+        "text": "Cuando estés formando tu equipo, el valor en puntos de cada <i>droide</i> se reduce en 1.\n<b>Acción potenciada</b> - Vuelve a tirar cualquier cantidad de tus dados de <i>droide</i>."
+    },
+    {
+        "code": "09036",
+        "name": "Jabba The Hutt",
+        "subtitle": "Influential Kingpin",
+        "text": "After you activate this character, you may look at the top 4 cards of your deck, reveal a <i>bounty</i> or a Yellow event from among them, and add it to your hand. Place the rest on the bottom of your deck in any order."
+    },
+    {
+        "code": "09039",
+        "flavor": "\"No es fácil vivir con la amenaza de la muerte.\" <cite>General Rieekan</cite>",
+        "name": "Se gratificará su muerte",
+        "text": "Después de que el Personaje vinculado sea derrotado, puedes robar 3 cartas."
+    },
+    {
+        "code": "09056",
+        "name": "Mace Windu",
+        "subtitle": "Maestro inspirador",
+        "text": "<b>Acción potenciada</b> - Mira las 4 primeras cartas de tu mazo. Puedes jugar una Mejora que haya entre ellas. Coloca el resto de esas cartas en la parte inferior de tu mazo en el orden que prefieras. Si esa Mejora fue jugada sobre un <i>jedi</i>, entrégale un escudo."
+    },
+    {
+        "code": "09057",
+        "flavor": "\"Resistir el lado oscuro requiere fuerza. Sólo los débiles lo abrazan.\"",
+        "name": "Obi-Wan Kenobi",
+        "subtitle": "Vengador vehemente",
+        "text": "<b>Acción potenciada</b> - Resuelve uno de tus dados que muestre un valor de resultado de 2 o más, incrementando en 1 su valor de resultado."
+    },
+    {
+        "code": "09070",
+        "name": "Sable de luz de Mace Windu",
+        "text": "<b>Acción potenciada</b> - Señala a Mace Windu para transferir a él esta mejora.\n[special] - Inflige 2 puntos de daño no anulable a un Personaje. Luego, si a ese Personaje le queda exactamente 1 punto de Salud, derrótalo."
+    },
+    {
+        "code": "09091",
+        "flavor": "\"La guerra es intolerable. Nos han hecho creer que tenemos que involucrarnos en ella.\"",
+        "name": "Satine Kryze",
+        "subtitle": "Esperanza de Mandalore",
+        "text": "Después de que actives este Personaje, puedes volver a tirar uno de tus dados."
+    },
+    {
+        "code": "09113",
+        "flavor": "\"I'm one with the Force, and the Force will guide me.\" <cite>Padawan Ganodi</cite>",
+        "name": "Force Flow",
+        "text": "<b>Action</b> - Set this plot aside to turn a die to any side."
+    },
+    {
+        "code": "09133",
+        "name": "Advanced Training",
+        "text": "You may resolve your <i>trooper</i> dice showing a blank ([blank]) as if they were indirect damage ([indirect]) that have a value of 1."
+    },
+    {
+        "code": "09143",
+        "flavor": "\"¿No le parece que el Imperio va a estar buscándola por vuestro papel en su derrota?\" <cite>General Dodonna</cite>",
+        "name": "Se busca",
+        "text": "Después de que el Personaje vinculado sea derrotado, puedes recibir 2 recursos."
+    },
+    {
+        "code": "09161",
+        "flavor": "It's just a flesh wound.",
+        "name": "Wounded",
+        "text": "Attached character has -1 health."
+    }
+]

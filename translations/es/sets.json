@@ -4,6 +4,14 @@
         "name": "Despertares"
     },
     {
+        "code": "AtG",
+        "name": "Across the Galaxy"
+    },
+    {
+        "code": "CONV",
+        "name": "Convergencia"
+    },
+    {
         "code": "EaW",
         "name": "El imperio en guerra"
     },
@@ -22,5 +30,9 @@
     {
         "code": "TPG",
         "name": "Caja de inicio para dos jugadores"
+    },
+    {
+        "code": "WotF",
+        "name": "Way of the Force"
     }
 ]
