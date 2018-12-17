@@ -1814,7 +1814,7 @@
         "position": 76,
         "rarity_code": "C",
         "set_code": "AtG",
-        "text": "Play only if you control the battlefield.\nSpot a Red character to turn a die to any side. You may spot a <i>vehicle</i> to remove a die. You may spot a </i>mod</i> to turn a die to any side or remove a die.",
+        "text": "Play only if you control the battlefield.\nSpot a Red character to turn a die to any side. You may spot a <i>vehicle</i> to remove a die. You may spot a <i>mod</i> to turn a die to any side or remove a die.",
         "ttscardid": "49306",
         "type_code": "event"
     },
@@ -2210,7 +2210,7 @@
         "position": 93,
         "rarity_code": "U",
         "set_code": "AtG",
-        "text": "Force an opponent to choose 2:\n-You draw 2 cards.\n-You gain 2 resources.\n- You take 2 additional actions.",
+        "text": "Force an opponent to choose 2:\n• You draw 2 cards.\n• You gain 2 resources.\n• You take 2 additional actions.",
         "ttscardid": "49323",
         "type_code": "event"
     },
@@ -2265,7 +2265,7 @@
         "position": 96,
         "rarity_code": "U",
         "set_code": "AtG",
-        "text": "Spot a Yellow character to take control of an opponent's <i>vehicle</i> support that has no <i>mods</i> and ready it <em>(return its die to its card)</i>. After the action phase ends, return that <i>vehicle</i> to its owner's control.",
+        "text": "Spot a Yellow character to take control of an opponent's <i>vehicle</i> support that has no <i>mods</i> and ready it <em>(return its die to its card)</em>. After the action phase ends, return that <i>vehicle</i> to its owner's control.",
         "ttscardid": "49326",
         "type_code": "event"
     },
