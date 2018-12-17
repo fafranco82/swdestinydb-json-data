@@ -3423,7 +3423,7 @@
         "position": 142,
         "rarity_code": "U",
         "set_code": "LEG",
-        "text": "Remove one of your dice showing damage ([ranged],[melee], or [indirect]). Then deal damage to each of an opponent's characters equal to half of the value showing on that die, rounded up.",
+        "text": "Remove one of your dice showing damage ([ranged], [melee], or [indirect]). Then deal damage to each of an opponent's characters equal to half of the value showing on that die, rounded up.",
         "ttscardid": "47301",
         "type_code": "event"
     },
