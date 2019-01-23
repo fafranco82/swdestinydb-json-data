@@ -3074,7 +3074,7 @@
         "position": 136,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Remove a die showing ranged damage [ranged]",
+        "text": "Remove a die showing ranged damage ([ranged]).",
         "ttscardid": "2365",
         "type_code": "event"
     },
