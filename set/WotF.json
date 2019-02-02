@@ -860,7 +860,7 @@
             "leader",
             "scoundrel"
         ],
-        "text": "[special] - Deal indirect damage ([indirect]) to an opponent equal to the number of your dice showing a special ([indirect]) <em>(including this die)</em>.",
+        "text": "[special] - Deal indirect damage ([indirect]) to an opponent equal to the number of your dice showing a special ([special]) <em>(including this die)</em>.",
         "ttscardid": "48735",
         "type_code": "character"
     },

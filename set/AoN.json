@@ -1,0 +1,161 @@
+[
+    {
+        "affiliation_code": "villain",
+        "code": "10001",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"A wise master does not reveal all his secrets at once.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Javier Charro Martinez",
+        "is_unique": true,
+        "name": "Count Dooku",
+        "points": "11/13",
+        "position": 1,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "sides": [
+            "2MD",
+            "2MD",
+            "1F",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Corrupted Politician",
+        "subtypes": [
+            "leader",
+            "sith"
+        ],
+        "text": "<b>Power Action</b> - Play a Blue card from your hand <em>(paying its cost).</em> Then force an opponentto discard a card from their hand.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "10006",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"The Protectors are with you.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Audrey Hotte",
+        "is_unique": true,
+        "name": "Fenn Rau",
+        "points": "11/13",
+        "position": 6,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "sides": [
+            "2RD",
+            "2RD",
+            "1F",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Mandalorian Protector",
+        "subtypes": [
+            "pilot",
+            "trooper"
+        ],
+        "text": "<b>Power Action</b> - Play a Red card from your hand <em>(paying its cost).</em> Then deal 1 indirect damage ([indirect]) to an opponent.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10009",
+        "deck_limit": 3,
+        "faction_code": "yellow",
+        "flavor": "\"The Outer Rim is a lawless place.\" <cite>Jennica Pierce</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "Marius Bota",
+        "is_unique": false,
+        "name": "Outer Rim Outlaw",
+        "points": "10",
+        "position": 9,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "sides": [
+            "2RD",
+            "2MD1",
+            "2ID",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "scavenger",
+            "scoundrel"
+        ],
+        "text": "<b>Power Action</b> - Play a Yellow carad from your hand <em>(paying its cost).</em> Then reroll up to 3 of your dice.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10013",
+        "deck_limit": 5,
+        "faction_code": "gray",
+        "flavor": "A reptilian-like sentient species, Clawdites coudl shapeshift into humanoid forms.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 6,
+        "illustrator": "Alexandr Eiichev",
+        "is_unique": false,
+        "name": "Clawdite Shapeshifter",
+        "points": "6",
+        "position": 13,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "sides": [
+            "1ID",
+            "2ID",
+            "1Dr",
+            "1R",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "shapeshifter"
+        ],
+        "text": "After you activate this character, you may choose a character subtype. Until the end of this round, this character gains the chosen subtype.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10014",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Jeff Lee Johnson",
+        "is_unique": false,
+        "name": "Chance Encounter",
+        "position": 14,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "text": "Choose and do one:\n- Spot a <i>leader</i> to turn a die to any side.\n- Spot a <i>scoundrel</i> to reroll up to 3 dice.\n- Spot a <i>trooper</i> to remove a die showing a value of 1 or less.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10016",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Allies of Necessity",
+        "points": "-2",
+        "position": 16,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "text": "Include only if 2 or more characters on your team share a color.\nAfter setup, discard a card from your hand and lose 2 resources.",
+        "type_code": "plot"
+    }
+]

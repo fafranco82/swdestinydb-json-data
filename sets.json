@@ -88,5 +88,15 @@
         "name": "Convergence",
         "position": 9,
         "size": 180
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "AoN",
+        "cycle_code": "CONV",
+        "date_release": null,
+        "name": "Allies of Necessity",
+        "position": 10,
+        "size": 20
     }
 ]
