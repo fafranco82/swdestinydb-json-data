@@ -1670,7 +1670,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "After 1 or more shields are removed from attached character, you may exhaust this upgrade to give that character 1 shield. Then, If this upgrade is on Qui-Gon Jinn, you may draw a card.",
+        "text": "After 1 or more shields are removed from attached character, you may exhaust this upgrade to give that character 1 shield. Then, if this upgrade is on Qui-Gon Jinn, you may draw a card.",
         "ttscardid": "49301",
         "type_code": "upgrade"
     },
