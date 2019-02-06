@@ -44,6 +44,10 @@
         "name": "Inquisitor"
     },
     {
+        "code": "intel",
+        "name": "Intel"
+    },
+    {
         "code": "jawa",
         "name": "Jawa"
     },

@@ -1,6 +1,53 @@
 [
     {
         "affiliation_code": "villain",
+        "code": "09001",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "Alexander Kozachenko",
+        "is_unique": true,
+        "name": "Asajj Ventress",
+        "points": "13/16",
+        "position": 1,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1MD",
+            "2MD",
+            "3MD1",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Swift And Cunning",
+        "subtypes": [
+            "bounty-hunter"
+        ],
+        "text": "After a character that has a downgrade on it takes damage from this die, you may discard a card from your hand to remove one of that character's character or upgrade dice.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "08005",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Ryan Valle",
+        "is_unique": false,
+        "name": "Mind Extraction",
+        "position": 5,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Attached character loses all of its non-special ([special]) abilities.\n<b>Action</b> - Exhaust attached character to discard this downgrade. Only attached character's controller can use this action.",
+        "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09018",
         "deck_limit": 1,
         "faction_code": "red",
@@ -123,6 +170,37 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09035",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"I can't believe I'm getting paid for this!",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Darren Tan",
+        "is_unique": true,
+        "name": "Dengar",
+        "points": "11/14",
+        "position": 35,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1MD",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Ruthless Tracker",
+        "subtypes": [
+            "bounty-hunter"
+        ],
+        "text": "After you activate this character, you may deal 1 damage to a character that has a <i>bounty</i> on it.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09036",
         "deck_limit": 1,
         "faction_code": "yellow",
@@ -172,6 +250,83 @@
         ],
         "text": "After attached character is defeated, you may draw 3 cards.",
         "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09040",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Tony Foti",
+        "is_unique": false,
+        "name": "Enticing Reward",
+        "position": 40,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtypes": [
+            "bounty"
+        ],
+        "text": "After attached character is defeated, you may play an <i>equipment</i> or a <i>weapon</i> from your hand or discard pile for free.",
+        "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09048",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "It had no holding cells due to Dengar often taking onle dead bounties.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": true,
+        "name": "Punishing One",
+        "position": 48,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2ID",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After an opponent's character that has a <i>bounty</i> on it is defeated, you may ready this support. If you spot Dengar, you may activate this support.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09050",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Matt Bradbury",
+        "is_unique": true,
+        "name": "Dengar's Fire Blade",
+        "position": 50,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "2MD",
+            "+4MD",
+            "2Dr",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After you play this upgrade, you may deal 1 damage to a character that has a <i>bounty</i> on it.\n<b>Power Action</b> - If this upgrade is on dengar, turn one of his character dice to a side showing a value of 1.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
@@ -296,6 +451,27 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09105",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "Sly Moore was adept of manipulating the minds of political opponents so that their secrets were gradually revealed.",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Jinsung Lim",
+        "is_unique": false,
+        "name": "Secrets Laid Bare",
+        "position": 105,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "subtypes": [
+            "intel"
+        ],
+        "text": "After attached character is activated, reveal 3 random cards from its controller's hand.",
+        "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09113",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -311,6 +487,26 @@
         "set_code": "CONV",
         "text": "<b>Action</b> - Set this plot aside to turn a die to any side.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09121",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Adam Lane",
+        "is_unique": false,
+        "name": "Hampered",
+        "position": 121,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtypes": [
+            "injury"
+        ],
+        "text": "No more that one of attached character's character dice can be resolved during each turn and those dice cannot be modified.",
+        "type_code": "downgrade"
     },
     {
         "affiliation_code": "neutral",
@@ -369,5 +565,23 @@
         ],
         "text": "Attached character has -1 health.",
         "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09167",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "flavor": "\"I'm here to rescue you.\" <cite>Bo-Katan Kryze</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Audrey Hotte",
+        "is_unique": false,
+        "name": "Unshackle",
+        "position": 167,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Ambush.\nDiscard a downgrade from play.",
+        "type_code": "event"
     }
 ]
