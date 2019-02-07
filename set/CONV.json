@@ -31,7 +31,69 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "08005",
+        "code": "09002",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"Experience the full power of the dark side.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Palpatine",
+        "points": "14/18",
+        "position": 2,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "2MD",
+            "2MD",
+            "2F",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Unlimited Power",
+        "subtypes": [
+            "leader",
+            "sith"
+        ],
+        "text": "This character has +1 health  for each <i>ability</i> on it and thos <i>abilities</i> do not count toward its u pgrade limit.\n<b>Power Action</b> - Roll a die on an <i>ability</i> on this character into your pool.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09003",
+        "deck_limit": 3,
+        "faction_code": "blue",
+        "flavor": "Relayer of the order Operation: Cinder.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Sentinel Messenger",
+        "points": "8",
+        "position": 3,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "2MD",
+            "1F",
+            "1F",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "droid"
+        ],
+        "text": "You cannot play Blue <i>abilities</i> on this character.\nAfter you activate this character, look at the top card of your deck. You may play that card <em>(paying its cost)</em>.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09005",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -45,6 +107,90 @@
         "set_code": "CONV",
         "text": "Attached character loses all of its non-special ([special]) abilities.\n<b>Action</b> - Exhaust attached character to discard this downgrade. Only attached character's controller can use this action.",
         "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09014",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Force Storm",
+        "position": 14,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "3RD",
+            "3RD",
+            "4ID",
+            "2Dc",
+            "2Sh",
+            "Sp"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Blue character only.\n[special] - Place 1 resource on this upgrade. Deal damage to a character equal to the number of resources on this upgrade. Reroll this die instead of removing it.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09015",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Malice",
+        "position": 15,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1Dr",
+            "1Dc",
+            "1Dc",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Redeploy.\n[special] - Deal 1 damage to any number of characters that have one or more of their character dice showing a blank ([blank]).",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09016",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Palpatine's Lightsaber",
+        "position": 16,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "1MD",
+            "2MD",
+            "+2MD",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After you play this upgrade, gain resources equal to the number of <i>ability</i> upgrades on attached character, to a maximum of 2.\nWhile this upgrade is on Palpatine, your copies of it are non-unique.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "villain",
