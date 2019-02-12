@@ -4,7 +4,7 @@
         "code": "10001",
         "deck_limit": 1,
         "faction_code": "blue",
-        "flavor": "\"A wise master does not reveal all his secrets at once.",
+        "flavor": "\"A wise master does not reveal all his secrets at once.\"",
         "has_die": true,
         "has_errata": false,
         "health": 9,
@@ -28,7 +28,7 @@
             "leader",
             "sith"
         ],
-        "text": "<b>Power Action</b> - Play a Blue card from your hand <em>(paying its cost).</em> Then force an opponentto discard a card from their hand.",
+        "text": "<b>Power Action</b> - Play a Blue card from your hand <em>(paying its cost).</em> Then force an opponent to discard a card from their hand.",
         "type_code": "character"
     },
     {
@@ -215,7 +215,7 @@
             "scavenger",
             "scoundrel"
         ],
-        "text": "<b>Power Action</b> - Play a Yellow carad from your hand <em>(paying its cost).</em> Then reroll up to 3 of your dice.",
+        "text": "<b>Power Action</b> - Play a Yellow card from your hand <em>(paying its cost).</em> Then reroll an opponent's die or reroll up to 3 of your dice.",
         "type_code": "character"
     },
     {
@@ -289,7 +289,7 @@
         "code": "10013",
         "deck_limit": 5,
         "faction_code": "gray",
-        "flavor": "A reptilian-like sentient species, Clawdites coudl shapeshift into humanoid forms.",
+        "flavor": "A reptilian-like sentient species, Clawdites could shapeshift into humanoid forms.",
         "has_die": true,
         "has_errata": false,
         "health": 6,
@@ -328,7 +328,7 @@
         "position": 14,
         "rarity_code": "S",
         "set_code": "AoN",
-        "text": "Choose and do one:\n- Spot a <i>leader</i> to turn a die to any side.\n- Spot a <i>scoundrel</i> to reroll up to 3 dice.\n- Spot a <i>trooper</i> to remove a die showing a value of 1 or less.",
+        "text": "Choose and do one:\n• Spot a <i>leader</i> to turn a die to any side.\n• Spot a <i>scoundrel</i> to reroll up to 3 dice.\n• Spot a <i>trooper</i> to remove a die showing a value of 1 or less.",
         "type_code": "event"
     },
     {
@@ -356,7 +356,7 @@
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Dane Cozens",
         "is_unique": false,
         "name": "Allies of Necessity",
         "points": "-2",
