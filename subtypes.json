@@ -32,6 +32,10 @@
         "name": "Equipment"
     },
     {
+        "code": "form",
+        "name": "Form"
+    },
+    {
         "code": "gungan",
         "name": "Gungan"
     },
@@ -66,6 +70,10 @@
     {
         "code": "mod",
         "name": "Mod"
+    },
+    {
+        "code": "move",
+        "name": "Move"
     },
     {
         "code": "nightbrother",
@@ -118,5 +126,9 @@
     {
         "code": "witch",
         "name": "Witch"
+    },
+    {
+        "code": "wookiee",
+        "name": "Wookiee"
     }
 ]
