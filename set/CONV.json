@@ -58,7 +58,7 @@
             "leader",
             "sith"
         ],
-        "text": "This character has +1 health  for each <i>ability</i> on it and those <i>abilities</i> do not count toward its upgrade limit.\n<b>Power Action</b> - Roll a die on an <i>ability</i> on this character into your pool.",
+        "text": "This character has +1 health for each <i>ability</i> on it and those <i>abilities</i> do not count toward its upgrade limit.\n<b>Power Action</b> - Roll a die on an <i>ability</i> on this character into your pool.",
         "type_code": "character"
     },
     {
@@ -913,7 +913,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "yellow",
-        "flavor": "It had no holding cells due to Dengar often taking onle dead bounties.",
+        "flavor": "It had no holding cells due to Dengar often taking only dead bounties.",
         "has_die": true,
         "has_errata": false,
         "illustrator": "Mariusz Gandzel",
@@ -1508,7 +1508,7 @@
         "position": 79,
         "rarity_code": "U",
         "set_code": "CONV",
-        "text": "Defeat one of your characters to remove up to 2 dice showing damage ([ranged], [melee] or [indirect]).",
+        "text": "Defeat one of your characters to remove up to 2 dice showing damage ([ranged], [melee], or [indirect]).",
         "type_code": "event"
     },
     {
