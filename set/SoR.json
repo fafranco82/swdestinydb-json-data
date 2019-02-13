@@ -1750,7 +1750,7 @@
         "position": 63,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Ambush.\nSpot two Red characters to take control of the battlefield. (<em>This does not claim the battlefield.</em>)",
+        "text": "Ambush.\nSpot two Red characters to take control of the battlefield. (<em>This does not claim the battlefield</em>.)",
         "ttscardid": "2262",
         "type_code": "event"
     },
@@ -2164,7 +2164,7 @@
         "position": 86,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Move up to 2 damage from an opponent's character to another character (<em>this ignores shields.</em>)",
+        "text": "Move up to 2 damage from an opponent's character to another character (<em>this ignores shields</em>.)",
         "ttscardid": "2315",
         "type_code": "event"
     },

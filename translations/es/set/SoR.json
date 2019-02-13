@@ -166,7 +166,7 @@
         "code": "02030",
         "flavor": "\"¡Soy yo, C-3PO!\"",
         "name": "C-3PO",
-        "text": "<b>Acción</b> - Retira este dado para resolver uno de tus dados como si estuviera mostrando un símbolo diferente <em>(conserva su valor de resultado original).</em>"
+        "text": "<b>Acción</b> - Retira este dado para resolver uno de tus dados como si estuviera mostrando un símbolo diferente <em>(conserva su valor de resultado original)</em>."
     },
     {
         "code": "02031",
@@ -459,12 +459,12 @@
     {
         "code": "02086",
         "name": "Persecución implacable",
-        "text": "Transfiere hasta 2 puntos de daño de un Personaje de un adversario a otro Personaje <em>(esta transferencia ignora escudos).</em>"
+        "text": "Transfiere hasta 2 puntos de daño de un Personaje de un adversario a otro Personaje <em>(esta transferencia ignora escudos)</em>."
     },
     {
         "code": "02087",
         "name": "Compra de chatarra",
-        "text": "Juega esta carta sólo si tienes 3 o más cartas en tu pila de descarte.\nAñade a tu mano una carta escogida al azar de tu pila de descarte <em>(muestra la carta a tus adversarios).</em>"
+        "text": "Juega esta carta sólo si tienes 3 o más cartas en tu pila de descarte.\nAñade a tu mano una carta escogida al azar de tu pila de descarte <em>(muestra la carta a tus adversarios)</em>."
     },
     {
         "code": "02088",
@@ -539,7 +539,7 @@
     {
         "code": "02102",
         "name": "Determinación",
-        "text": "Juega esta carta sólo si tienes uno o más dados que muestren resultados de concentración ([focus]).\nResuelve uno de tus dados como si estuviera mostrando un símbolo diferente <em>(conserva su valor de resultado original).</em>"
+        "text": "Juega esta carta sólo si tienes uno o más dados que muestren resultados de concentración ([focus]).\nResuelve uno de tus dados como si estuviera mostrando un símbolo diferente <em>(conserva su valor de resultado original)</em>."
     },
     {
         "code": "02103",
@@ -619,7 +619,7 @@
     {
         "code": "02118",
         "name": "Deuda de vida",
-        "text": "Sólo Personaje de color Amarillo.\nDespués de que actives este personaje, puedes transferir 1 punto de daño de otro Personaje a este Personaje <em>(esta transferencia ignora escudos).</em>"
+        "text": "Sólo Personaje de color Amarillo.\nDespués de que actives este personaje, puedes transferir 1 punto de daño de otro Personaje a este Personaje <em>(esta transferencia ignora escudos)</em>."
     },
     {
         "code": "02119",
@@ -679,7 +679,7 @@
     {
         "code": "02130",
         "name": "Exceso de confianza",
-        "text": "Señala un Personaje de color Azul para volver a tirar 2 dados. Luego retira uno de esos dados con el valor de resultado más bajo <em>(en caso de empate tú elijes cuál).</em>"
+        "text": "Señala un Personaje de color Azul para volver a tirar 2 dados. Luego retira uno de esos dados con el valor de resultado más bajo <em>(en caso de empate tú elijes cuál)</em>."
     },
     {
         "code": "02131",
@@ -809,7 +809,7 @@
         "code": "02155",
         "name": "Castillo de Maz",
         "subtitle": "Takodana",
-        "text": "<b>Reclamar</b> - Roba 2 cartas. Coloca cualquier cantidad de cartas de tu mano en la parte inferior de tu mazo <em>(en el orden que quieras).</em>"
+        "text": "<b>Reclamar</b> - Roba 2 cartas. Coloca cualquier cantidad de cartas de tu mano en la parte inferior de tu mazo <em>(en el orden que quieras)</em>."
     },
     {
         "code": "02156",

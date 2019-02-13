@@ -371,7 +371,7 @@
         "subtypes": [
             "droid"
         ],
-        "text": "The X on this die is equal to the number of ID9 Seeker Droid dice in your pool <em>(when resolving dice, resolve them one at a time).</em>",
+        "text": "The X on this die is equal to the number of ID9 Seeker Droid dice in your pool <em>(when resolving dice, resolve them one at a time)</em>.",
         "ttscardid": "2512",
         "type_code": "upgrade"
     },

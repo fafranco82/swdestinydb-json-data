@@ -9,7 +9,7 @@
         "flavor": "Traditore!",
         "name": "FN-2199",
         "subtitle": "Assaltatore Fedele",
-        "text": "Dopo che hai giocato un'<i>Arma</i> su questo personaggio, tira quel dado <i>Arma</i>, se possibile. Puoi risolverlo immediatamente.</em>"
+        "text": "Dopo che hai giocato un'<i>Arma</i> su questo personaggio, tira quel dado <i>Arma</i>, se possibile. Puoi risolverlo immediatamente</em>."
     },
     {
         "code": "02003",
@@ -344,7 +344,7 @@
     {
         "code": "02063",
         "name": "In Trappola",
-        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nAvvista 2 personaggi Rossi per prendere il controllo del campo di battaglia.<em>(senza rivendicarlo).</em>"
+        "text": "Imboscata.<em>(Dopo che hai giocato questa carta, puoi effettuare un'azione aggiuntiva.)</em>\nAvvista 2 personaggi Rossi per prendere il controllo del campo di battaglia.<em>(senza rivendicarlo)</em>."
     },
     {
         "code": "02064",

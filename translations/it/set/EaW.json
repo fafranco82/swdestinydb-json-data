@@ -202,7 +202,7 @@
         "flavor": "\"La festa è finita.\"",
         "name": "Mace Windu",
         "subtitle": "Campione Jedi",
-        "text": "<b>Azione</b> - Rimuovi questo dado per sconfiggere un personaggio con 2 o meno salute rimanente.</em>"
+        "text": "<b>Azione</b> - Rimuovi questo dado per sconfiggere un personaggio con 2 o meno salute rimanente</em>."
     },
     {
         "code": "03035",

@@ -317,7 +317,7 @@
     {
         "code": "01057",
         "name": "Lanzar con la Fuerza",
-        "text": "Sólo Personaje de color azul.\n[special] - Retira un dado para infligir a un Personaje tantos puntos de daño como el valor de resultado que muestra ese dado <em>(los resultados especiales y las caras vacías no cuentan).</em>"
+        "text": "Sólo Personaje de color azul.\n[special] - Retira un dado para infligir a un Personaje tantos puntos de daño como el valor de resultado que muestra ese dado <em>(los resultados especiales y las caras vacías no cuentan)</em>."
     },
     {
         "code": "01058",
@@ -533,7 +533,7 @@
     {
         "code": "01099",
         "name": "Secuaces de refuerzo",
-        "text": "Después de que jueges este Apoyo, coloca 3 puntos de daño sobre él.\n<b>Acción</b> - Agota este Apoyo para transferir 1 punto de daño de él a un Personaje <em>(esta transferencia ignora escudos).</em>"
+        "text": "Después de que jueges este Apoyo, coloca 3 puntos de daño sobre él.\n<b>Acción</b> - Agota este Apoyo para transferir 1 punto de daño de él a un Personaje <em>(esta transferencia ignora escudos)</em>."
     },
     {
         "code": "01100",
@@ -649,7 +649,7 @@
     {
         "code": "01122",
         "name": "Fuerza de voluntad",
-        "text": "Transfiere 1 punto de daño de uno de tus Personajes agotados al Personaje agotado de un adversario <em>(esta transferencia ignora escudos).</em>"
+        "text": "Transfiere 1 punto de daño de uno de tus Personajes agotados al Personaje agotado de un adversario <em>(esta transferencia ignora escudos)</em>."
     },
     {
         "code": "01123",
@@ -659,7 +659,7 @@
     {
         "code": "01124",
         "name": "Despertar",
-        "text": "<b>Acción</b> - Agota este Apoyo para resolver uno de tus dados que muestre una cara modificada <em>(una cara con un +)</em> como si no fuera modificada <em>(no tuviera el +).</em>"
+        "text": "<b>Acción</b> - Agota este Apoyo para resolver uno de tus dados que muestre una cara modificada <em>(una cara con un +)</em> como si no fuera modificada <em>(no tuviera el +)</em>."
     },
     {
         "code": "01125",
@@ -680,7 +680,7 @@
     {
         "code": "01128",
         "name": "Atraer la atención",
-        "text": "Transfiere hasta 2 puntos de daño de uno de tus Personajes a otros de tus Personajes <em>(esta transferencia ignora los escudos).</em>"
+        "text": "Transfiere hasta 2 puntos de daño de uno de tus Personajes a otros de tus Personajes <em>(esta transferencia ignora los escudos)</em>."
     },
     {
         "code": "01129",
@@ -852,7 +852,7 @@
     {
         "code": "01162",
         "name": "Impredecible",
-        "text": "Emboscada.\nVuelve a tirar un dado <em>(tuyo o de un adversario).</em>"
+        "text": "Emboscada.\nVuelve a tirar un dado <em>(tuyo o de un adversario)</em>."
     },
     {
         "code": "01163",

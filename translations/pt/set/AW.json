@@ -533,7 +533,7 @@
     {
         "code": "01099",
         "name": "Força Extra",
-        "text": "Após jogar este suporte, coloque 3 de dano nele.\n<b>Ação</b> - Exautes este suporte para mover 1 dano dele para um personagem <em>(ignora escudos).</em>"
+        "text": "Após jogar este suporte, coloque 3 de dano nele.\n<b>Ação</b> - Exautes este suporte para mover 1 dano dele para um personagem <em>(ignora escudos)</em>."
     },
     {
         "code": "01100",
@@ -649,7 +649,7 @@
     {
         "code": "01122",
         "name": "Força de Vontade",
-        "text": "Remova 1 de dano de um dos seus personagens exaustos e coloque em um personagem exausto de um oponente <em>(ignora escudos).</em>"
+        "text": "Remova 1 de dano de um dos seus personagens exaustos e coloque em um personagem exausto de um oponente <em>(ignora escudos)</em>."
     },
     {
         "code": "01123",
@@ -659,7 +659,7 @@
     {
         "code": "01124",
         "name": "Despertar",
-        "text": "<b>Ação</b> - Exauste este suporte para resolver um dos seus dados mostrando um resultado modificado <em>(um lado com +)</em> como se não fosse modificado <em>(não tivesse um +).</em>"
+        "text": "<b>Ação</b> - Exauste este suporte para resolver um dos seus dados mostrando um resultado modificado <em>(um lado com +)</em> como se não fosse modificado <em>(não tivesse um +)</em>."
     },
     {
         "code": "01125",
@@ -680,7 +680,7 @@
     {
         "code": "01128",
         "name": "Chamar Atenção",
-        "text": "Mova 2 de daano de um dos seus personagens par aoutro personagem seu <em>(ignora escudos).</em>"
+        "text": "Mova 2 de daano de um dos seus personagens par aoutro personagem seu <em>(ignora escudos)</em>."
     },
     {
         "code": "01129",
@@ -852,7 +852,7 @@
     {
         "code": "01162",
         "name": "Imprevisível",
-        "text": "Emboscada.\nRerrole um dado <em>(seu ou de seu oponente).</em>"
+        "text": "Emboscada.\nRerrole um dado <em>(seu ou de seu oponente)</em>."
     },
     {
         "code": "01163",

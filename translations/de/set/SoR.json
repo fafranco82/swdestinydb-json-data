@@ -344,7 +344,7 @@
     {
         "code": "02063",
         "name": "Lockdown",
-        "text": "Ambush.\nSpot two Red characters to take control of the battlefield. (<em>This does not claim the battlefield.</em>)"
+        "text": "Ambush.\nSpot two Red characters to take control of the battlefield. (<em>This does not claim the battlefield</em>.)"
     },
     {
         "code": "02064",
@@ -459,7 +459,7 @@
     {
         "code": "02086",
         "name": "Unnachgiebige Jagd",
-        "text": "Verschiebe bis zu 2 Schaden von einem gegnerischen Charakter auf einen anderen Charakter (<em>Schilde werden ignoriert.</em>)"
+        "text": "Verschiebe bis zu 2 Schaden von einem gegnerischen Charakter auf einen anderen Charakter (<em>Schilde werden ignoriert</em>.)"
     },
     {
         "code": "02087",

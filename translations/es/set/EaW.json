@@ -53,13 +53,13 @@
     {
         "code": "03009",
         "name": "Siervo del Lado Oscuro",
-        "text": "Antes de que uno de tus otros Personajes de color Azul sea derrotado, puedes transferir  una Mejora de él a este Personaje <em>(devuelve el dado de esa Mejora a su carta).</em>"
+        "text": "Antes de que uno de tus otros Personajes de color Azul sea derrotado, puedes transferir  una Mejora de él a este Personaje <em>(devuelve el dado de esa Mejora a su carta)</em>."
     },
     {
         "code": "03010",
         "name": "Séptima Hermana",
         "subtitle": "Inquisidora acrobática",
-        "text": "Después de que actives este Personaje, puedes tirar un dado de Droide buscador ID9 ([EaW]13) en tu reserva <em>(su valor de resultado X es igual a la cantidad de dados de Droide buscador ID9 en tu reserva).</em> Deja aparte ese dado después de que sea resuelto o retirado."
+        "text": "Después de que actives este Personaje, puedes tirar un dado de Droide buscador ID9 ([EaW]13) en tu reserva <em>(su valor de resultado X es igual a la cantidad de dados de Droide buscador ID9 en tu reserva)</em>. Deja aparte ese dado después de que sea resuelto o retirado."
     },
     {
         "code": "03011",
@@ -77,7 +77,7 @@
     {
         "code": "03013",
         "name": "Droide buscador ID9",
-        "text": "La X en este dado es igual a la cantidad de dados de Droide buscador ID9 en tu reserva <em>(cuando resuelvas dados, resuélvelos de uno en uno).</em>"
+        "text": "La X en este dado es igual a la cantidad de dados de Droide buscador ID9 en tu reserva <em>(cuando resuelvas dados, resuélvelos de uno en uno)</em>."
     },
     {
         "code": "03014",
@@ -101,7 +101,7 @@
         "code": "03017",
         "name": "Bossk",
         "subtitle": "Esclavista de wookiees",
-        "text": "Después de que actives este Personaje, puedes transferir 1 punto de daño del Personaje de un adversario a otro Personaje <em>(esta transferencia ignora escudos).</em>"
+        "text": "Después de que actives este Personaje, puedes transferir 1 punto de daño del Personaje de un adversario a otro Personaje <em>(esta transferencia ignora escudos)</em>."
     },
     {
         "code": "03018",
@@ -373,7 +373,7 @@
     {
         "code": "03065",
         "name": "Preparativos para la guerra",
-        "text": "Juega esta carta sólo si ésta es la primera acción de esta ronda <em>(ningún jugador ha realizado una acción).</em>\nRecibes 1 recurso."
+        "text": "Juega esta carta sólo si ésta es la primera acción de esta ronda <em>(ningún jugador ha realizado una acción)</em>.\nRecibes 1 recurso."
     },
     {
         "code": "03066",
@@ -848,7 +848,7 @@
         "code": "03157",
         "name": "Plaza Mayor",
         "subtitle": "Vashka",
-        "text": "<b>Reclamar</b> - Transfiere 1 punto de daño de un Personaje a este campo de batalla o transfiere todo el daño de este campo de batalla a un Personaje <em>(esta transferencia ignora escudos).</em>."
+        "text": "<b>Reclamar</b> - Transfiere 1 punto de daño de un Personaje a este campo de batalla o transfiere todo el daño de este campo de batalla a un Personaje <em>(esta transferencia ignora escudos)</em>.."
     },
     {
         "code": "03158",

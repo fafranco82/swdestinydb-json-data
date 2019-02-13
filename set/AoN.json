@@ -28,7 +28,7 @@
             "leader",
             "sith"
         ],
-        "text": "<b>Power Action</b> - Play a Blue card from your hand <em>(paying its cost).</em> Then force an opponent to discard a card from their hand.",
+        "text": "<b>Power Action</b> - Play a Blue card from your hand <em>(paying its cost)</em>. Then force an opponent to discard a card from their hand.",
         "type_code": "character"
     },
     {
@@ -150,7 +150,7 @@
             "pilot",
             "trooper"
         ],
-        "text": "<b>Power Action</b> - Play a Red card from your hand <em>(paying its cost).</em> Then deal 1 indirect damage ([indirect]) to an opponent.",
+        "text": "<b>Power Action</b> - Play a Red card from your hand <em>(paying its cost)</em>. Then deal 1 indirect damage ([indirect]) to an opponent.",
         "type_code": "character"
     },
     {
@@ -215,7 +215,7 @@
             "scavenger",
             "scoundrel"
         ],
-        "text": "<b>Power Action</b> - Play a Yellow card from your hand <em>(paying its cost).</em> Then reroll an opponent's die or reroll up to 3 of your dice.",
+        "text": "<b>Power Action</b> - Play a Yellow card from your hand <em>(paying its cost)</em>. Then reroll an opponent's die or reroll up to 3 of your dice.",
         "type_code": "character"
     },
     {

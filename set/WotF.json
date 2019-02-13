@@ -2760,7 +2760,7 @@
         "subtypes": [
             "ability"
         ],
-        "text": "Play only if you spot a Blue character.\nAttached character is elite <em>(place a second copy of its die on it).</em>",
+        "text": "Play only if you spot a Blue character.\nAttached character is elite <em>(place a second copy of its die on it)</em>.",
         "ttscardid": "48649",
         "type_code": "upgrade"
     },
