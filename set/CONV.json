@@ -572,7 +572,7 @@
         "subtypes": [
             "equipment"
         ],
-        "text": "Redeploy. <i>(Before attached character is defeated, you may move this upgrade.)</i>\nAttached character has +1 health. Discard this upgrade from play if it is not on a <b>droid</b> or on General Grievous.",
+        "text": "Redeploy. <i>(Before attached character is defeated, you may move this upgrade.)</i>\nAttached character has +1 health. Discard this upgrade from play if it is not on a <i>droid</i> or on General Grievous.",
         "type_code": "upgrade"
     },
     {
