@@ -110,6 +110,23 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09009",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Forsaken",
+        "position": 9,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Play only if a player has exactly one die in their pool.\nRemove a die showing a value of 2 or less.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09014",
         "cost": 4,
         "deck_limit": 2,
@@ -316,6 +333,36 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09022",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"The Techno Union Army is at your disposal.\"",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": true,
+        "name": "Wat Tambor",
+        "points": "9/12",
+        "position": 22,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1ID",
+            "1F",
+            "2F",
+            "1R",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Techno Union Foreman",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "<b>Power Action</b> - Play a support from your hand <i>(paying its cost)</i>. Then roll that support's die into your pool.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09023",
         "cost": 0,
         "deck_limit": 2,
@@ -509,6 +556,27 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09034",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Modular Frame",
+        "position": 34,
+        "rarity_code": "S",
+        "set_code": "CONV",
+        "subtitle": "",
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "Redeploy. <i>(Before attached character is defeated, you may move this upgrade.)</i>\nAttached character has +1 health. Discard this upgrade from play if it is not on a <b>droid</b> or on General Grievous.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09035",
         "deck_limit": 1,
         "faction_code": "yellow",
@@ -567,6 +635,62 @@
             "scoundrel"
         ],
         "text": "After you activate this character, you may look at the top 4 cards of your deck, reveal a <i>bounty</i> or a Yellow event from among them, and add it to your hand. Place the rest on the bottom of your deck in any order.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09037",
+        "deck_limit": 3,
+        "faction_code": "yellow",
+        "flavor": "THIS CARD IS INCOMPLETE",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Quarren Tracker - partial card",
+        "points": "0",
+        "position": 37,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+        ],
+        "subtypes": [
+            "bounty hunter"
+        ],
+        "text": "[special] - Deal 2 damage to a character or deal 3 damage to a character that has a <b>bounty</b> on it.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09038",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"Mind tricks don't work on me. Only money.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Antonio Jose Manzanedo",
+        "is_unique": true,
+        "name": "Watto",
+        "points": "9/12",
+        "position": 38,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "2Dr",
+            "1Dc",
+            "1R",
+            "2R1",
+            "+2R",
+            "-"
+        ],
+        "subtitle": "Stubborn Gambler",
+        "subtypes": [
+            "scavenger",
+            "scoundrel"
+        ],
+        "text": "This character's character dice cannot be removed by opponents' events.\n<b>Power Action</b> - Spend 1 resource and choose a symbol to reroll a die. If it rolls the chosen symbol, gain 2 resources.",
         "type_code": "character"
     },
     {
@@ -700,6 +824,23 @@
         ],
         "text": "After you play this upgrade, you may deal 1 damage to a character that has a <i>bounty</i> on it.\n<b>Power Action</b> - If this upgrade is on dengar, turn one of his character dice to a side showing a value of 1.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09052",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Separatist Conspiracy",
+        "points": 2,
+        "position": 52,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "<b>Action</b> - Exhaust this plot and spot any number of <b>leader</b> characters to draw that many cards, unless an opponent spends 1 resource or discards a card from their hand.",
+        "type_code": "plot"
     },
     {
         "affiliation_code": "villain",
@@ -855,6 +996,28 @@
         "rarity_code": "C",
         "set_code": "CONV",
         "text": "Reroll a die. You may spot a <i>leader</i> to turn a die to any side. You may spot a <i>Jedi</i> to remove a die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09061",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "The best armor is no match for a keen mind and quick feet.",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Defensive Stance",
+        "position": 61,
+        "rarity_code": "C",
+        "reprint_of": [
+			"01115",
+			"04039"
+		]
+        "set_code": "CONV",
+        "text": "Give a character 2 shields.",
         "type_code": "event"
     },
     {
@@ -1581,6 +1744,22 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09135",
+		"cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "Press the Advantage",
+        "position": 135,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "<b>Action</b> - Exhaust this suppor tto reroll one of your dice. Then, if you have more dice in your pool than an opponent has in their pool, you may reroll a die <i>(yours or an opponent's)</i>.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09136",
         "cost": 1,
         "deck_limit": 2,
@@ -1840,6 +2019,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09164",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Dodge",
+        "position": 164,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Remove all of an opponent's dice showing ranged damage ([ranged]).",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09165",
         "cost": 0,
         "deck_limit": 2,
@@ -1930,5 +2126,39 @@
             "weapon"
         ],
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09174",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Deathwatch Hideout",
+        "position": 174,
+        "rarity_code": "S",
+        "set_code": "CONV",
+		"subtitle": "Concordia"
+        "text": "<b>Claim</b> - Gain 1 resource. Spot Satine Kryze to place a card from your discard pile on the bottom of your deck.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09176",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Lair of General Grievous",
+        "position": 176,
+        "rarity_code": "S",
+        "set_code": "CONV",
+		"subtitle": "Vassek 3"
+        "text": "<b>Claim</b> - Deal 1 indirect damage ([indirect]) to an opponent unless they give you 1 of their resources, or spot general Grievous to deal 1 damage to a character.",
+        "type_code": "battlefield"
     }
 ]
