@@ -1013,8 +1013,8 @@
         "position": 61,
         "rarity_code": "C",
         "reprint_of": [
-			"01115",
-			"04039"
+            "01115",
+            "04039"
 		]
         "set_code": "CONV",
         "text": "Give a character 2 shields.",
@@ -1745,7 +1745,7 @@
     {
         "affiliation_code": "neutral",
         "code": "09135",
-		"cost": 1,
+        "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
@@ -2140,7 +2140,7 @@
         "position": 174,
         "rarity_code": "S",
         "set_code": "CONV",
-		"subtitle": "Concordia"
+        "subtitle": "Concordia"
         "text": "<b>Claim</b> - Gain 1 resource. Spot Satine Kryze to place a card from your discard pile on the bottom of your deck.",
         "type_code": "battlefield"
     },
@@ -2157,7 +2157,7 @@
         "position": 176,
         "rarity_code": "S",
         "set_code": "CONV",
-		"subtitle": "Vassek 3"
+        "subtitle": "Vassek 3"
         "text": "<b>Claim</b> - Deal 1 indirect damage ([indirect]) to an opponent unless they give you 1 of their resources, or spot general Grievous to deal 1 damage to a character.",
         "type_code": "battlefield"
     }
