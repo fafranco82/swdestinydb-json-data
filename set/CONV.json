@@ -128,6 +128,23 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09008",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Fit of Rage",
+        "position": 8,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Remove all shields from all opponents' characters.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09009",
         "cost": 0,
         "deck_limit": 2,
@@ -553,6 +570,34 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09031",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Megablaster Troopers",
+        "position": 31,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "2RD",
+            "3ID",
+            "2Dr",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "After you activate this support, roll 1 set-aside First Order Stormtrooper ([CONV]20) die into your pool, or 2 First Order Stormtrooper dice instead if you spot a <i>leader</i>. Set those dice aside after they are resolved or removed.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09032",
         "cost": 1,
         "deck_limit": 2,
@@ -844,6 +889,23 @@
         "rarity_code": "U",
         "set_code": "CONV",
         "text": "Reveal the top 3 cards of your deck. An opponent discards one of those cards, then you may play one of the other cards for free. Discard the remaining cards.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09046",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Hunt Them Down",
+        "position": 46,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Resolve one of your dice showing ranged or melee damage ([ranged] or [melee]) against a character, increasing it's value by the number of <i>bounty</i> downgrades on that character.",
         "type_code": "event"
     },
     {
@@ -1418,6 +1480,25 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09078",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"I need a medic over here!\" <cite>Anakin Skywalker</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Field Medic",
+        "position": 78,
+        "rarity_code": "C",
+        "reprint_of": "01105",
+        "set_code": "CONV",
+        "text": "Heal 2 damage from a character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09079",
         "cost": 0,
         "deck_limit": 2,
@@ -1461,6 +1542,35 @@
             "vehicle"
         ],
         "text": "After you activate this support, you may discard a card from your hand to resolve any number of its support and upgrade dice in the order of your choice.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09085",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "Hand-finished by Naboo's finest artisans, this elegant spacecraft was reserved for royalty.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Padmé Amidala's Royal Starship",
+        "position": 82,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "2F",
+            "3F",
+            "1Sh",
+            "2Sh",
+            "2R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After you activate this support, you may give a <i>leader</i> character 1 shield. If that <i>leader</i> is Padmé Amidala, activate her.",
         "type_code": "support"
     },
     {
@@ -1576,6 +1686,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09093",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Convergence",
+        "position": 93,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Spot any number of characters that have the same subtype to discard a support, upgrade, or downgrade that costs that number from play.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09094",
         "cost": 0,
         "deck_limit": 2,
@@ -1590,6 +1717,23 @@
         "reprint_of": "01128",
         "set_code": "CONV",
         "text": "Move up to 2 damage from one of your characters to another one of your characters <em>(this ignores shields)</em>.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09095",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Flee the Scene",
+        "position": 95,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Remove up to 2 dice. You must pass your next 2 turns this round.",
         "type_code": "event"
     },
     {
@@ -1624,6 +1768,23 @@
         "rarity_code": "U",
         "set_code": "CONV",
         "text": "Spot a <i>scoundrel</i> to resolve one of your character or upgrade dice. Then gain resources equal to the value that the die was just resolved for.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09098",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Sure Shot",
+        "position": 98,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Resolve one of your dice showing ranged damage ([ranged]) against a character, then remove one of that character's character or upgrade dice.",
         "type_code": "event"
     },
     {
@@ -1733,6 +1894,26 @@
             "move"
         ],
         "text": "Activate one of your Blue characters to remove a die showing ranged or indirect damage ([ranged] or [indirect]). If that character has a card titled Soresu Mastery on it, give it 2 shields.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09109",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Fatal Blow",
+        "position": 109,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "subtypes": [
+            "move"
+        ],
+        "text": "Resolve one of your character dice showing damage ([ranged], [melee], or [indirect]), increasing it's value by the number of upgrades on that character.",
         "type_code": "event"
     },
     {
@@ -2011,6 +2192,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09132",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Strike Back",
+        "position": 132,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "If you have a die showing <em>(do all that apply)</em>:\n<ul><li>Ranged ([ranged]) - Deal 1 damage to a character.</li><li>Focus ([focus]) - Turn one of your dice to any side.</li><li>Discard ([discard]) - Discard a random card from a player's hand.</li></ul>",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09133",
         "deck_limit": 1,
         "faction_code": "red",
@@ -2038,7 +2236,7 @@
         "position": 135,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "<b>Action</b> - Exhaust this suppor tto reroll one of your dice. Then, if you have more dice in your pool than an opponent has in their pool, you may reroll a die <i>(yours or an opponent's)</i>.",
+        "text": "<b>Action</b> - Exhaust this support to reroll one of your dice. Then, if you have more dice in your pool than an opponent has in their pool, you may reroll a die <i>(yours or an opponent's)</i>.",
         "type_code": "support"
     },
     {
@@ -2060,14 +2258,42 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "09139",
-        "cost": 2,
-        "deck_limit": 1,
+        "code": "09137",
+        "cost": 3,
+        "deck_limit": 2,
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
         "illustrator": "",
-        "is_unique": true,
+        "is_unique": false,
+        "name": "V-Wing",
+        "position": 137,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "3RD",
+            "3RD1",
+            "2Dc1",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "While a villain <i>vehicle</i> die is in your pool, decrease the cost on this die by 1.\nWhile a hero <i>vehicle</i> die is in your pool, this die cannot be removed by opponents.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09139",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
         "name": "Quicksilver Baton",
         "position": 139,
         "rarity_code": "L",
@@ -2154,6 +2380,24 @@
         "rarity_code": "C",
         "set_code": "CONV",
         "text": "Turn a character die to a side showing a cost.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09146",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"Don't move another inch.\" <cite>Dengar</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Prey Upon",
+        "position": 146,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Choose a character that has a downgrade on it and remove one of its character or upgrade dice.",
         "type_code": "event"
     },
     {
@@ -2417,6 +2661,24 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09166",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "flavor": "\"Did you know that wasn't me?\" <cite>K-2SO</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Near Miss",
+        "position": 166,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Spot 2 characters that share a subtype to remove a die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09167",
         "cost": 1,
         "deck_limit": 2,
@@ -2432,6 +2694,34 @@
         "set_code": "CONV",
         "text": "Ambush.\nDiscard a downgrade from play.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09168",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Fickle Mercenaries",
+        "position": 168,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "2RD",
+            "3RD1",
+            "2Dr",
+            "1Dc",
+            "-"
+        ],
+        "subtypes": [
+            "scoundrel"
+        ],
+        "text": "<b>Action</b> - Spend 2 resources to take control of this support <em>(return its die to this card</em>. Any player may use this action.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
