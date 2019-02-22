@@ -32,6 +32,96 @@
         "type_code": "character"
     },
     {
+        "affiliation_code": "villain",
+        "code": "10002",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Count Dooku's Lightsaber",
+        "position": 2,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "sides": [
+            "1MD",
+            "2MD",
+            "+1Md",
+            "1Dc",
+            "1Dc",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After you play this upgrade, if it is on a <i>Sith</i>, you may deal 1 damage to a character that has no shields, or, if it is on Count Dooku, you may force an opponent to discard a card from their hand.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "10003",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Sniper Team",
+        "position": 3,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "sides": [
+            "1RD",
+            "2RD",
+            "3RD1",
+            "4RD2",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "<b>Power Action</b> - Discard a card from your hand to turn this die to the side that has a value 1 higher than the value showing on this die.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "10004",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Astrogation",
+        "points": "2",
+        "position": 4,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "text": "After you play an upgrade, you may exhast this plot and spot a Blue character to discard the top card of a deck.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "10005",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Knighthood",
+        "position": 5,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "text": "Blue character only.\nAttached character gains <i>Jedi</i>.\nAfter you play this upgrade, you may give a character 1 shield.",
+        "type_code": "upgrade"
+    },
+    {
         "affiliation_code": "hero",
         "code": "10006",
         "deck_limit": 1,
@@ -65,6 +155,40 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "10007",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Test of Character",
+        "position": 7,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "text": "Choose 2 dice that share a subtype <em>(yours and/or opponents')</em>. Then turn one of those dice to any side and reroll the other die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10008",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Grand Design",
+        "points": "2",
+        "position": 8,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "text": "After you play an support, you may exhast this plot and spot a Red character to draw a card.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "10009",
         "deck_limit": 3,
         "faction_code": "yellow",
@@ -93,6 +217,73 @@
         ],
         "text": "<b>Power Action</b> - Play a Yellow carad from your hand <em>(paying its cost).</em> Then reroll up to 3 of your dice.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10010",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"My network is large.\" <cite>Garindan ezz Zavor</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Shadowed",
+        "position": 10,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "subtypes": [
+            "intel"
+        ],
+        "text": "After attached character uses its action <em>(including power action)</em>, you may deal 1 indirect damage ([indirect]) to its controller.",
+        "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10011",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Grand Design",
+        "points": "2",
+        "position": 11,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "text": "After you play a downgrade, you may exhast this plot and spot a Yellow character to deal 1 indirect damage ([indirect]) to an opponent.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10012",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "In the Outer Rim, some services were much more valuable than others...",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Hired Muscle",
+        "position": 12,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "sides": [
+            "2RD1",
+            "3MD1",
+            "3ID1",
+            "3Dr1",
+            "2Dc1",
+            "2Sh1"
+        ],
+        "subtypes": [
+            "scoundrel"
+        ],
+        "text": "",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
@@ -143,6 +334,27 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "10015",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Flank",
+        "position": 15,
+        "rarity_code": "S",
+        "reprint_of": {
+            "01145",
+            "04044"
+        ]
+        "set_code": "AoN",
+        "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "10016",
         "deck_limit": 1,
         "faction_code": "gray",
@@ -157,5 +369,96 @@
         "set_code": "AoN",
         "text": "Include only if 2 or more characters on your team share a color.\nAfter setup, discard a card from your hand and lose 2 resources.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10017",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "LR-57 Combat Droid",
+        "position": 17,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "sides": [
+            "2ID",
+            "1Dc",
+            "1R",
+            "Sp",
+            "Sp1",
+            "-"
+        ],
+        "subtypes": [
+            "droid"
+        ],
+        "text": "After you play this support, place 1 resource on it.\n[special] - Place 1 resource on this support. Then deal damage to a character equal to the number of resources on this support.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10018",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "flavor": "The Kage Warriors of the planet Quarzite used this as both an electrified melee weapon and a throwing blade.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Electro Sword",
+        "position": 18,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "sides": [
+            "1RD",
+            "2MD",
+            "3MD1",
+            "1Dc",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Redeploy.\nDamage dealt by this die is unblockable.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10019",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Chalmun's Cantina",
+        "position": 19,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "subtitle": "Tatooine"
+        "text": "<b>Power Action</b> - Reroll a character die <em>(yours or an opponent's)</em>. Then you may reroll another die that shares a subtype with that die.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "10020",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Wheeta Palace",
+        "position": 20,
+        "rarity_code": "S",
+        "set_code": "AoN",
+        "subtitle": "Nal Hutta"
+        "text": "<b>Claim</b> - Place 1 resource on this battlefield.\n<b>Power Action</b> - Place 1 resource on this battlefield or take all resources from it.",
+        "type_code": "battlefield"
     }
 ]
