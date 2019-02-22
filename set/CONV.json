@@ -429,7 +429,7 @@
         "subtypes": [
             "leader"
         ],
-        "text": "<b>Power Action</b> - Play a support from your hand <i>(paying its cost)</i>. Then roll that support's die into your pool.",
+        "text": "<b>Power Action</b> - Play a support from your hand <em>(paying its cost)</em>. Then roll that support's die into your pool.",
         "type_code": "character"
     },
     {
@@ -671,7 +671,7 @@
         "subtypes": [
             "equipment"
         ],
-        "text": "Redeploy. <i>(Before attached character is defeated, you may move this upgrade.)</i>\nAttached character has +1 health. Discard this upgrade from play if it is not on a <i>droid</i> or on General Grievous.",
+        "text": "Redeploy. <em>(Before attached character is defeated, you may move this upgrade.)</em>\nAttached character has +1 health. Discard this upgrade from play if it is not on a <i>droid</i> or on General Grievous.",
         "type_code": "upgrade"
     },
     {
@@ -1750,7 +1750,7 @@
         "position": 96,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "Ambush. <i>(After you play this card, gain 1 action.)</i> Activate one of your characters or supports.",
+        "text": "Ambush. <em>(After you play this card, gain 1 action.)</em> Activate one of your characters or supports.",
         "type_code": "event"
     },
     {
@@ -1856,7 +1856,7 @@
         "position": 106,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "If you have a die showing <i>(do all that apply)<i>:\n<ul><li>Melee ([melee]) - Deal 1 damage to a character.</li><li>Shield ([shield]) - Give 1 shield to a character.</li><li>Blank ([blank]) - You may turn a die to a blank.</li><\ul>",
+        "text": "If you have a die showing <em>(do all that apply)<i>:\n<ul><li>Melee ([melee]) - Deal 1 damage to a character.</li><li>Shield ([shield]) - Give 1 shield to a character.</li><li>Blank ([blank]) - You may turn a die to a blank.</li><\ul>",
         "type_code": "event"
     },
     {
@@ -2236,7 +2236,7 @@
         "position": 135,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "<b>Action</b> - Exhaust this support to reroll one of your dice. Then, if you have more dice in your pool than an opponent has in their pool, you may reroll a die <i>(yours or an opponent's)</i>.",
+        "text": "<b>Action</b> - Exhaust this support to reroll one of your dice. Then, if you have more dice in your pool than an opponent has in their pool, you may reroll a die <em>(yours or an opponent's)</em>.",
         "type_code": "support"
     },
     {
@@ -2414,7 +2414,7 @@
         "position": 147,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "Ambush. <i>(After you play this card, gain 1 action.)</i>\nResolve one of your Yellow dice showing a cost, decreasing its cost by 1.",
+        "text": "Ambush. <em>(After you play this card, gain 1 action.)</em>\nResolve one of your Yellow dice showing a cost, decreasing its cost by 1.",
         "type_code": "event"
     },
     {
