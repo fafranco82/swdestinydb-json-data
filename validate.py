@@ -191,8 +191,9 @@ class ValidatorBase:
 
     def custom_check_character_card(self, card):
         validations = []
-        if not card.has_key('points'):
-            validations.append("Character card %s must have attribute 'Points'" % card.get('code'))
+        for attr in ['points', 'health']:
+            if not card.has_key(attr):
+                validations.append("Character card %s must have attribute '%s'" % (card.get('code'), attr))
 
         return validations
 
