@@ -117,7 +117,7 @@
         "flavor": "\"It's not a story the Jedi would tell you. \" <cite>Chancellor Palpatine</cite>",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "A Tale of Tragedy",
         "position": 6,
@@ -193,7 +193,7 @@
         "position": 12,
         "rarity_code": "U",
         "set_code": "CONV",
-        "text": "PBefore you play a Blue <i>ability</i>, you may discard this support from play to decrease its cost by 1. Then you may spot a <i>Sith</i> to draw a card.",
+        "text": "Before you play a Blue <i>ability</i>, you may discard this support from play to decrease its cost by 1. Then you may spot a <i>Sith</i> to draw a card.",
         "type_code": "support"
     },
     {
@@ -410,7 +410,7 @@
         "flavor": "\"The Techno Union Army is at your disposal.\"",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": true,
         "name": "Wat Tambor",
         "points": "9/12",
@@ -661,17 +661,16 @@
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Modular Frame",
         "position": 34,
         "rarity_code": "S",
         "set_code": "CONV",
-        "subtitle": "",
         "subtypes": [
             "equipment"
         ],
-        "text": "Redeploy. <em>(Before attached character is defeated, you may move this upgrade.)</em>\nAttached character has +1 health. Discard this upgrade from play if it is not on a <i>droid</i> or on General Grievous.",
+        "text": "Redeploy.\nAttached character has +1 health. Discard this upgrade from play if it is not on a <i>droid</i> or on General Grievous.",
         "type_code": "upgrade"
     },
     {
@@ -745,7 +744,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 8,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Quarren Tracker",
         "points": "8",
@@ -753,16 +752,15 @@
         "rarity_code": "R",
         "set_code": "CONV",
         "sides": [
-		    "1RD",
+            "1RD",
             "1Dr",
             "1Dc",
             "1R",
             "Sp",
             "-"
-
         ],
         "subtypes": [
-            "bounty hunter"
+            "bounty-hunter"
         ],
         "text": "[special] - Deal 2 damage to a character or deal 3 damage to a character that has a <i>bounty</i> on it.",
         "type_code": "character"
@@ -865,7 +863,7 @@
         "faction_code": "yellow",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Exterminate",
         "position": 43,
@@ -899,7 +897,7 @@
         "faction_code": "yellow",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Hunt Them Down",
         "position": 46,
@@ -951,6 +949,7 @@
         "name": "Crime Lord",
         "position": 49,
         "rarity_code": "L",
+        "reprint_of": "01023",
         "set_code": "CONV",
         "sides": [
             "2F",
@@ -1001,10 +1000,10 @@
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Separatist Conspiracy",
-        "points": 2,
+        "points": "2",
         "position": 52,
         "rarity_code": "U",
         "set_code": "CONV",
@@ -1172,7 +1171,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 8,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Vigilant Jedi",
         "points": "8",
@@ -1190,7 +1189,7 @@
         "subtypes": [
             "jedi"
         ],
-        "text": "[secial] - Remove a die showing damage ([ranged], [melee], or [indirect]). Then deal 1 damage to a character.",
+        "text": "[special] - Remove a die showing damage ([ranged], [melee] or [indirect]). Then deal 1 damage to a character.",
         "type_code": "character"
     },
     {
@@ -1237,15 +1236,12 @@
         "flavor": "The best armor is no match for a keen mind and quick feet.",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Defensive Stance",
         "position": 61,
         "rarity_code": "C",
-        "reprint_of": [
-            "01115",
-            "04039"
-		]
+        "reprint_of": "01115",
         "set_code": "CONV",
         "text": "Give a character 2 shields.",
         "type_code": "event"
@@ -1338,7 +1334,6 @@
         "subtypes": [
             "equipment"
         ],
-
         "text": "Play only if you spot a <i>Jedi</i>.\n[special] - Place this upgrade on the bottom of its owner's deck to draw 3 cards. You may play a Blue <i>ability</i>from your hand, decreasing its cost by 1.",
         "type_code": "upgrade"
     },
@@ -1487,7 +1482,7 @@
         "flavor": "\"I need a medic over here!\" <cite>Anakin Skywalker</cite>",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Field Medic",
         "position": 78,
@@ -1744,13 +1739,13 @@
         "faction_code": "yellow",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Instigate",
         "position": 96,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "Ambush. <em>(After you play this card, gain 1 action.)</em> Activate one of your characters or supports.",
+        "text": "Ambush.\nActivate one of your characters or supports.",
         "type_code": "event"
     },
     {
@@ -1778,7 +1773,7 @@
         "faction_code": "yellow",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Sure Shot",
         "position": 98,
@@ -1850,13 +1845,13 @@
         "faction_code": "blue",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Attunement",
         "position": 106,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "If you have a die showing <em>(do all that apply)<i>:\n<ul><li>Melee ([melee]) - Deal 1 damage to a character.</li><li>Shield ([shield]) - Give 1 shield to a character.</li><li>Blank ([blank]) - You may turn a die to a blank.</li><\ul>",
+        "text": "If you have a die showing <em>(do all that apply)</em>:\n<- Melee ([melee]) - Deal 1 damage to a character.\n- Shield ([shield]) - Give 1 shield to a character.\n- Blank ([blank]) - You may turn a die to a blank.",
         "type_code": "event"
     },
     {
@@ -1904,7 +1899,7 @@
         "faction_code": "blue",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Fatal Blow",
         "position": 109,
@@ -1913,7 +1908,7 @@
         "subtypes": [
             "move"
         ],
-        "text": "Resolve one of your character dice showing damage ([ranged], [melee], or [indirect]), increasing it's value by the number of upgrades on that character.",
+        "text": "Resolve one of your character dice showing damage ([ranged], [melee] or [indirect]), increasing its value by the number of upgrades on that character.",
         "type_code": "event"
     },
     {
@@ -2204,7 +2199,7 @@
         "position": 132,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "If you have a die showing <em>(do all that apply)</em>:\n<ul><li>Ranged ([ranged]) - Deal 1 damage to a character.</li><li>Focus ([focus]) - Turn one of your dice to any side.</li><li>Discard ([discard]) - Discard a random card from a player's hand.</li></ul>",
+        "text": "If you have a die showing <em>(do all that apply)</em>:\n- Ranged ([ranged]) - Deal 1 damage to a character.\n- Focus ([focus]) - Turn one of your dice to any side.\n- Discard ([discard]) - Discard a random card from a player's hand.",
         "type_code": "event"
     },
     {
@@ -2264,7 +2259,7 @@
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "V-Wing",
         "position": 137,
@@ -2292,7 +2287,7 @@
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Quicksilver Baton",
         "position": 139,
@@ -2414,7 +2409,7 @@
         "position": 147,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "Ambush. <em>(After you play this card, gain 1 action.)</em>\nResolve one of your Yellow dice showing a cost, decreasing its cost by 1.",
+        "text": "Ambush.\nResolve one of your Yellow dice showing a cost, decreasing its cost by 1.",
         "type_code": "event"
     },
     {
@@ -2632,7 +2627,7 @@
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Dodge",
         "position": 164,
@@ -2720,7 +2715,7 @@
         "subtypes": [
             "scoundrel"
         ],
-        "text": "<b>Action</b> - Spend 2 resources to take control of this support <em>(return its die to this card</em>. Any player may use this action.",
+        "text": "<b>Action</b> - Spend 2 resources to take control of this support <em>(return its die to this card)</em>. Any player may use this action.",
         "type_code": "support"
     },
     {
@@ -2794,7 +2789,7 @@
         "rarity_code": "U",
         "reprint_of": "01165",
         "set_code": "CONV",
-        "subtitle": "Lothal"
+        "subtitle": "Lothal",
         "text": "<b>Claim</b> - Each opponent discards the top 2 cards of their deck.",
         "type_code": "battlefield"
     },
@@ -2805,13 +2800,13 @@
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Deathwatch Hideout",
         "position": 174,
         "rarity_code": "S",
         "set_code": "CONV",
-        "subtitle": "Concordia"
+        "subtitle": "Concordia",
         "text": "<b>Claim</b> - Gain 1 resource. Spot Satine Kryze to place a card from your discard pile on the bottom of your deck.",
         "type_code": "battlefield"
     },
@@ -2822,13 +2817,13 @@
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Lair of General Grievous",
         "position": 176,
         "rarity_code": "S",
         "set_code": "CONV",
-        "subtitle": "Vassek 3"
+        "subtitle": "Vassek 3",
         "text": "<b>Claim</b> - Deal 1 indirect damage ([indirect]) to an opponent unless they give you 1 of their resources, or spot general Grievous to deal 1 damage to a character.",
         "type_code": "battlefield"
     }

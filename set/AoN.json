@@ -48,7 +48,7 @@
         "sides": [
             "1MD",
             "2MD",
-            "+1Md",
+            "+1MD",
             "1Dc",
             "1Dc",
             "-"
@@ -101,7 +101,7 @@
         "position": 4,
         "rarity_code": "S",
         "set_code": "AoN",
-        "text": "After you play an upgrade, you may exhast this plot and spot a Blue character to discard the top card of a deck.",
+        "text": "After you play an upgrade, you may exhaust this plot and spot a Blue character to discard the top card of a deck.",
         "type_code": "plot"
     },
     {
@@ -184,7 +184,7 @@
         "position": 8,
         "rarity_code": "S",
         "set_code": "AoN",
-        "text": "After you play an support, you may exhast this plot and spot a Red character to draw a card.",
+        "text": "After you play an support, you may exhaust this plot and spot a Red character to draw a card.",
         "type_code": "plot"
     },
     {
@@ -253,7 +253,7 @@
         "position": 11,
         "rarity_code": "S",
         "set_code": "AoN",
-        "text": "After you play a downgrade, you may exhast this plot and spot a Yellow character to deal 1 indirect damage ([indirect]) to an opponent.",
+        "text": "After you play a downgrade, you may exhaust this plot and spot a Yellow character to deal 1 indirect damage ([indirect]) to an opponent.",
         "type_code": "plot"
     },
     {
@@ -282,7 +282,6 @@
         "subtypes": [
             "scoundrel"
         ],
-        "text": "",
         "type_code": "support"
     },
     {
@@ -345,10 +344,7 @@
         "name": "Flank",
         "position": 15,
         "rarity_code": "S",
-        "reprint_of": {
-            "01145",
-            "04044"
-        ]
+        "reprint_of": "01145",
         "set_code": "AoN",
         "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice.",
         "type_code": "event"
@@ -440,7 +436,7 @@
         "position": 19,
         "rarity_code": "S",
         "set_code": "AoN",
-        "subtitle": "Tatooine"
+        "subtitle": "Tatooine",
         "text": "<b>Power Action</b> - Reroll a character die <em>(yours or an opponent's)</em>. Then you may reroll another die that shares a subtype with that die.",
         "type_code": "battlefield"
     },
@@ -457,7 +453,7 @@
         "position": 20,
         "rarity_code": "S",
         "set_code": "AoN",
-        "subtitle": "Nal Hutta"
+        "subtitle": "Nal Hutta",
         "text": "<b>Claim</b> - Place 1 resource on this battlefield.\n<b>Power Action</b> - Place 1 resource on this battlefield or take all resources from it.",
         "type_code": "battlefield"
     }
