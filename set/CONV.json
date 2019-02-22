@@ -110,6 +110,94 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09006",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"It's not a story the Jedi would tell you. \" <cite>Chancellor Palpatine</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "A Tale of Tragedy",
+        "position": 6,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Spot a <i>Sith</i> to turn another character's character dice to the sides of your choice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09008",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Fit of Rage",
+        "position": 8,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Remove all shields from all opponents' characters.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09009",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Forsaken",
+        "position": 9,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Play only if a player has exactly one die in their pool.\nRemove a die showing a value of 2 or less.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09010",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"You're so lonely... So afraid to leave...\" <cite>Kylo Ren</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Isolation",
+        "position": 10,
+        "rarity_code": "C",
+        "reprint_of": "01085",
+        "set_code": "CONV",
+        "text": "Spot a Blue character to remove a character die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09012",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Forbidden Lore",
+        "position": 12,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "PBefore you play a Blue <i>ability</i>, you may discard this support from play to decrease its cost by 1. Then you may spot a <i>Sith</i> to draw a card.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09014",
         "cost": 4,
         "deck_limit": 2,
@@ -316,6 +404,36 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09022",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"The Techno Union Army is at your disposal.\"",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": true,
+        "name": "Wat Tambor",
+        "points": "9/12",
+        "position": 22,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1ID",
+            "1F",
+            "2F",
+            "1R",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Techno Union Foreman",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "<b>Power Action</b> - Play a support from your hand <em>(paying its cost)</em>. Then roll that support's die into your pool.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09023",
         "cost": 0,
         "deck_limit": 2,
@@ -452,6 +570,34 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09031",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Megablaster Troopers",
+        "position": 31,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "2RD",
+            "3ID",
+            "2Dr",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "After you activate this support, roll 1 set-aside First Order Stormtrooper ([CONV]20) die into your pool, or 2 First Order Stormtrooper dice instead if you spot a <i>leader</i>. Set those dice aside after they are resolved or removed.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09032",
         "cost": 1,
         "deck_limit": 2,
@@ -505,6 +651,27 @@
             "weapon"
         ],
         "text": "While this upgrade is on a <i>droid</i>, it has Redeploy.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09034",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Modular Frame",
+        "position": 34,
+        "rarity_code": "S",
+        "set_code": "CONV",
+        "subtitle": "",
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "Redeploy. <em>(Before attached character is defeated, you may move this upgrade.)</em>\nAttached character has +1 health. Discard this upgrade from play if it is not on a <i>droid</i> or on General Grievous.",
         "type_code": "upgrade"
     },
     {
@@ -571,6 +738,69 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09037",
+        "deck_limit": 3,
+        "faction_code": "yellow",
+        "flavor": "\"These bounty hunters drive a more reasonable bargain than pirates.\" <cite>Cassiss</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Quarren Tracker",
+        "points": "8",
+        "position": 37,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+		    "1RD",
+            "1Dr",
+            "1Dc",
+            "1R",
+            "Sp",
+            "-"
+
+        ],
+        "subtypes": [
+            "bounty hunter"
+        ],
+        "text": "[special] - Deal 2 damage to a character or deal 3 damage to a character that has a <i>bounty</i> on it.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09038",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"Mind tricks don't work on me. Only money.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Antonio Jose Manzanedo",
+        "is_unique": true,
+        "name": "Watto",
+        "points": "9/12",
+        "position": 38,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "2Dr",
+            "1Dc",
+            "1R",
+            "2R1",
+            "+2R",
+            "-"
+        ],
+        "subtitle": "Stubborn Gambler",
+        "subtypes": [
+            "scavenger",
+            "scoundrel"
+        ],
+        "text": "This character's character dice cannot be removed by opponents' events.\n<b>Power Action</b> - Spend 1 resource and choose a symbol to reroll a die. If it rolls the chosen symbol, gain 2 resources.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09039",
         "cost": 0,
         "deck_limit": 2,
@@ -629,6 +859,23 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09043",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Exterminate",
+        "position": 43,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Each opponent chooses a character subtype. Then remove all opponents' character dice that do not have a chosen subtype.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09045",
         "cost": 2,
         "deck_limit": 2,
@@ -642,6 +889,23 @@
         "rarity_code": "U",
         "set_code": "CONV",
         "text": "Reveal the top 3 cards of your deck. An opponent discards one of those cards, then you may play one of the other cards for free. Discard the remaining cards.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09046",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Hunt Them Down",
+        "position": 46,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Resolve one of your dice showing ranged or melee damage ([ranged] or [melee]) against a character, increasing it's value by the number of <i>bounty</i> downgrades on that character.",
         "type_code": "event"
     },
     {
@@ -675,6 +939,35 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09049",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"There will be no bargain.\" <cite>Jabba the Hutt</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Crime Lord",
+        "position": 49,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "2F",
+            "3Dr1",
+            "2Sh",
+            "2R",
+            "Sp",
+            "Sp"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Yellow Character only.\n[special] - Spend 5 resources to choose a character. Before this round ends, defeat that character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09050",
         "cost": 3,
         "deck_limit": 2,
@@ -703,6 +996,23 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09052",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Separatist Conspiracy",
+        "points": 2,
+        "position": 52,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "<b>Action</b> - Exhaust this plot and spot any number of <i>leader</i> characters to draw that many cards, unless an opponent spends 1 resource or discards a card from their hand.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09053",
         "cost": 3,
         "deck_limit": 2,
@@ -728,6 +1038,37 @@
         ],
         "text": "After you roll this die into your pool, you may deal 1 damage to a character.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09054",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"Looks like I got here just in time.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Ahsoka Tano",
+        "points": "8/11",
+        "position": 54,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1MD",
+            "+2MD",
+            "+2MD",
+            "+2Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Brash Prodigy",
+        "subtypes": [
+            "apprentice"
+        ],
+        "text": "After you activate a <i>Jedi</i>, you may resolve one of this character's character or upgrade dice. If that die is showing a modifier, resolve it as if it did not have a modifier.",
+        "type_code": "character"
     },
     {
         "affiliation_code": "hero",
@@ -824,6 +1165,36 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09058",
+        "deck_limit": 3,
+        "faction_code": "blue",
+        "flavor": "When we rescue others, we rescue ourselves.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Vigilant Jedi",
+        "points": "8",
+        "position": 58,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "2MD",
+            "2MD1",
+            "1Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "jedi"
+        ],
+        "text": "[secial] - Remove a die showing damage ([ranged], [melee], or [indirect]). Then deal 1 damage to a character.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09059",
         "cost": 1,
         "deck_limit": 2,
@@ -855,6 +1226,28 @@
         "rarity_code": "C",
         "set_code": "CONV",
         "text": "Reroll a die. You may spot a <i>leader</i> to turn a die to any side. You may spot a <i>Jedi</i> to remove a die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09061",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "The best armor is no match for a keen mind and quick feet.",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Defensive Stance",
+        "position": 61,
+        "rarity_code": "C",
+        "reprint_of": [
+            "01115",
+            "04039"
+		]
+        "set_code": "CONV",
+        "text": "Give a character 2 shields.",
         "type_code": "event"
     },
     {
@@ -919,6 +1312,35 @@
         ],
         "text": "After you activate this support, you may spot Obi-Wan Kenobi to turn one of your side showing a blank ([blank]) to any side.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09066",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Jedi Holocron",
+        "position": 66,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1F",
+            "1R",
+            "+1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "equipment"
+        ],
+
+        "text": "Play only if you spot a <i>Jedi</i>.\n[special] - Place this upgrade on the bottom of its owner's deck to draw 3 cards. You may play a Blue <i>ability</i>from your hand, decreasing its cost by 1.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
@@ -1058,6 +1480,25 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09078",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"I need a medic over here!\" <cite>Anakin Skywalker</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Field Medic",
+        "position": 78,
+        "rarity_code": "C",
+        "reprint_of": "01105",
+        "set_code": "CONV",
+        "text": "Heal 2 damage from a character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09079",
         "cost": 0,
         "deck_limit": 2,
@@ -1101,6 +1542,35 @@
             "vehicle"
         ],
         "text": "After you activate this support, you may discard a card from your hand to resolve any number of its support and upgrade dice in the order of your choice.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09085",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "Hand-finished by Naboo's finest artisans, this elegant spacecraft was reserved for royalty.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Padmé Amidala's Royal Starship",
+        "position": 82,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "2F",
+            "3F",
+            "1Sh",
+            "2Sh",
+            "2R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After you activate this support, you may give a <i>leader</i> character 1 shield. If that <i>leader</i> is Padmé Amidala, activate her.",
         "type_code": "support"
     },
     {
@@ -1216,6 +1686,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09093",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Convergence",
+        "position": 93,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Spot any number of characters that have the same subtype to discard a support, upgrade, or downgrade that costs that number from play.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09094",
         "cost": 0,
         "deck_limit": 2,
@@ -1230,6 +1717,40 @@
         "reprint_of": "01128",
         "set_code": "CONV",
         "text": "Move up to 2 damage from one of your characters to another one of your characters <em>(this ignores shields)</em>.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09095",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Flee the Scene",
+        "position": 95,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Remove up to 2 dice. You must pass your next 2 turns this round.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09096",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Instigate",
+        "position": 96,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Ambush. <em>(After you play this card, gain 1 action.)</em> Activate one of your characters or supports.",
         "type_code": "event"
     },
     {
@@ -1251,6 +1772,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09098",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Sure Shot",
+        "position": 98,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Resolve one of your dice showing ranged damage ([ranged]) against a character, then remove one of that character's character or upgrade dice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09099",
         "cost": 1,
         "deck_limit": 2,
@@ -1265,6 +1803,23 @@
         "set_code": "CONV",
         "text": "Activate one of your Yellow <i>vehicles</i> and up to 2 of your <i>scoundrels</i>. You may remove one of your dice showing a resource ([resource]) to ready that <i>vehicle</i>.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09100",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Laser Tripwire",
+        "position": 100,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "After a player activates a character, if 2 or more of that character's character or upgrade dice are showing damage ([ranged], [melee], or [indirect]), discard this support from play to deal 3 indirect damage ([indirect]) to that player.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
@@ -1286,6 +1841,23 @@
         ],
         "text": "After attached character is activated, reveal 3 random cards from its controller's hand.",
         "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09106",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Attunement",
+        "position": 106,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "If you have a die showing <em>(do all that apply)<i>:\n<ul><li>Melee ([melee]) - Deal 1 damage to a character.</li><li>Shield ([shield]) - Give 1 shield to a character.</li><li>Blank ([blank]) - You may turn a die to a blank.</li><\ul>",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
@@ -1322,6 +1894,43 @@
             "move"
         ],
         "text": "Activate one of your Blue characters to remove a die showing ranged or indirect damage ([ranged] or [indirect]). If that character has a card titled Soresu Mastery on it, give it 2 shields.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09109",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Fatal Blow",
+        "position": 109,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "subtypes": [
+            "move"
+        ],
+        "text": "Resolve one of your character dice showing damage ([ranged], [melee], or [indirect]), increasing it's value by the number of upgrades on that character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09111",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Twin Strike",
+        "position": 111,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Resolve up to 2 of your Blue character dice showing melee damage ([melee]) as unblockable.",
         "type_code": "event"
     },
     {
@@ -1565,6 +2174,41 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09130",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"She seems to be on top of things.\" <cite>Obi-Wan Kenobi</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Sieze the Day",
+        "position": 130,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Play only if you control the battlefield.\nGain 2 actions.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09132",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Strike Back",
+        "position": 132,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "If you have a die showing <em>(do all that apply)</em>:\n<ul><li>Ranged ([ranged]) - Deal 1 damage to a character.</li><li>Focus ([focus]) - Turn one of your dice to any side.</li><li>Discard ([discard]) - Discard a random card from a player's hand.</li></ul>",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09133",
         "deck_limit": 1,
         "faction_code": "red",
@@ -1578,6 +2222,22 @@
         "set_code": "CONV",
         "text": "You may resolve your <i>trooper</i> dice showing a blank ([blank]) as if they were indirect damage ([indirect]) that have a value of 1.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09135",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "Press the Advantage",
+        "position": 135,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "<b>Action</b> - Exhaust this support to reroll one of your dice. Then, if you have more dice in your pool than an opponent has in their pool, you may reroll a die <em>(yours or an opponent's)</em>.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
@@ -1595,6 +2255,62 @@
         "set_code": "CONV",
         "text": "Before you play a support, you may exhaust this support to decrease its cost by 1.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09137",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "V-Wing",
+        "position": 137,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "3RD",
+            "3RD1",
+            "2Dc1",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "While a villain <i>vehicle</i> die is in your pool, decrease the cost on this die by 1.\nWhile a hero <i>vehicle</i> die is in your pool, this die cannot be removed by opponents.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09139",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Quicksilver Baton",
+        "position": 139,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "2MD",
+            "+1MD",
+            "+2MD",
+            "1Dr",
+            "2Sh",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After you play this upgrade, if it is on a <i>leader</i>, roll this die into your pool. If this upgrade is on a <i>trooper</i>, you may spend 1 resource to roll one of that <i>trooper's</i> character dice into your pool.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",
@@ -1647,6 +2363,59 @@
         ],
         "text": "After attached character is defeated, you may gain 2 resources.",
         "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09145",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"Well, I am a reasonable man. Name the price.\" <cite>Hondo Ohnaka</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "For a Price",
+        "position": 145,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Turn a character die to a side showing a cost.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09146",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"Don't move another inch.\" <cite>Dengar</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Prey Upon",
+        "position": 146,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Choose a character that has a downgrade on it and remove one of its character or upgrade dice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09147",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Rendezvous",
+        "position": 147,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Ambush. <em>(After you play this card, gain 1 action.)</em>\nResolve one of your Yellow dice showing a cost, decreasing its cost by 1.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
@@ -1821,6 +2590,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09162",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Bacta Therapy",
+        "position": 162,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Heal damage from a character equal to the number of upgrades on it, to a maximum of 5. Discard each <i>injury</i> on that character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09163",
         "cost": 2,
         "deck_limit": 2,
@@ -1836,6 +2622,23 @@
         "reprint_of": "01153",
         "set_code": "CONV",
         "text": "Remove all of an opponent's dice showing melee damage ([melee]).",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09164",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Dodge",
+        "position": 164,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Remove all of an opponent's dice showing ranged damage ([ranged]).",
         "type_code": "event"
     },
     {
@@ -1858,6 +2661,24 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09166",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "flavor": "\"Did you know that wasn't me?\" <cite>K-2SO</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Near Miss",
+        "position": 166,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Spot 2 characters that share a subtype to remove a die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09167",
         "cost": 1,
         "deck_limit": 2,
@@ -1873,6 +2694,34 @@
         "set_code": "CONV",
         "text": "Ambush.\nDiscard a downgrade from play.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09168",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Fickle Mercenaries",
+        "position": 168,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "2RD",
+            "3RD1",
+            "2Dr",
+            "1Dc",
+            "-"
+        ],
+        "subtypes": [
+            "scoundrel"
+        ],
+        "text": "<b>Action</b> - Spend 2 resources to take control of this support <em>(return its die to this card</em>. Any player may use this action.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
@@ -1930,5 +2779,57 @@
             "weapon"
         ],
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09173",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Command Center",
+        "position": 174,
+        "rarity_code": "U",
+        "reprint_of": "01165",
+        "set_code": "CONV",
+        "subtitle": "Lothal"
+        "text": "<b>Claim</b> - Each opponent discards the top 2 cards of their deck.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09174",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Deathwatch Hideout",
+        "position": 174,
+        "rarity_code": "S",
+        "set_code": "CONV",
+        "subtitle": "Concordia"
+        "text": "<b>Claim</b> - Gain 1 resource. Spot Satine Kryze to place a card from your discard pile on the bottom of your deck.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09176",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Lair of General Grievous",
+        "position": 176,
+        "rarity_code": "S",
+        "set_code": "CONV",
+        "subtitle": "Vassek 3"
+        "text": "<b>Claim</b> - Deal 1 indirect damage ([indirect]) to an opponent unless they give you 1 of their resources, or spot general Grievous to deal 1 damage to a character.",
+        "type_code": "battlefield"
     }
 ]
