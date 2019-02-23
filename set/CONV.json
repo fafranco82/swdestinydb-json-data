@@ -58,7 +58,7 @@
             "leader",
             "sith"
         ],
-        "text": "This character has +1 health  for each <i>ability</i> on it and thos <i>abilities</i> do not count toward its u pgrade limit.\n<b>Power Action</b> - Roll a die on an <i>ability</i> on this character into your pool.",
+        "text": "This character has +1 health  for each <i>ability</i> on it and those <i>abilities</i> do not count toward its upgrade limit.\n<b>Power Action</b> - Roll a die on an <i>ability</i> on this character into your pool.",
         "type_code": "character"
     },
     {
@@ -457,7 +457,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "\"It would seem once again one of your Order has lost this way.\" <cite>General Grievous</cite>",
+        "flavor": "\"It would seem once again one of your Order has lost his way.\" <cite>General Grievous</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "JB Casacop",
@@ -991,7 +991,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "After you play this upgrade, you may deal 1 damage to a character that has a <i>bounty</i> on it.\n<b>Power Action</b> - If this upgrade is on dengar, turn one of his character dice to a side showing a value of 1.",
+        "text": "After you play this upgrade, you may deal 1 damage to a character that has a <i>bounty</i> on it.\n<b>Power Action</b> - If this upgrade is on Dengar, turn one of his character dice to a side showing a value of 1.",
         "type_code": "upgrade"
     },
     {
@@ -1208,7 +1208,7 @@
         "position": 59,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "Play only if you have one or moree defeated unique characters.\nTurn up to 2 of your dice to sides showing damage ([ranged], [melee] or [indirect]).",
+        "text": "Play only if you have one or more defeated unique characters.\nTurn up to 2 of your dice to sides showing damage ([ranged], [melee] or [indirect]).",
         "type_code": "event"
     },
     {
@@ -1307,7 +1307,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "After you activate this support, you may spot Obi-Wan Kenobi to turn one of your side showing a blank ([blank]) to any side.",
+        "text": "After you activate this support, you may spot Obi-Wan Kenobi to turn one of your dice showing a blank ([blank]) to any side.",
         "type_code": "support"
     },
     {
@@ -1471,7 +1471,7 @@
         "subtypes": [
             "droid"
         ],
-        "text": "After this character is defeated, you may end the action phase.\n<b>Power Action</b> - Reroll one of your dice. Then reroll up to a n umber of dice equal to the value showing on the die just rerolled.",
+        "text": "After this character is defeated, you may end the action phase.\n<b>Power Action</b> - Reroll one of your dice. Then reroll up to a number of dice equal to the value showing on the die just rerolled.",
         "type_code": "character"
     },
     {
@@ -2065,7 +2065,7 @@
             "ability",
             "form"
         ],
-        "text": "Blue character only. Limit 1 <i>form</i> per character.\nAfter you play this upgrade, you may remove a die showing damage.\n[special] - Remove a die showing damage and give character 1 shield.",
+        "text": "Blue character only. Limit 1 <i>form</i> per character.\nAfter you play this upgrade, you may remove a die showing damage.\n[special] - Remove a die showing damage and give a character 1 shield.",
         "type_code": "upgrade"
     },
     {
@@ -2113,7 +2113,7 @@
         "subtypes": [
             "injury"
         ],
-        "text": "No more that one of attached character's character dice can be resolved during each turn and those dice cannot be modified.",
+        "text": "No more than one of attached character's character dice can be resolved during each turn and those dice cannot be modified.",
         "type_code": "downgrade"
     },
     {
@@ -2447,7 +2447,7 @@
         "rarity_code": "C",
         "reprint_of": "01162",
         "set_code": "CONV",
-        "text": "Ambush.\nRerrol a die <em>(yours or an opponent's)</em>.",
+        "text": "Ambush.\nReroll a die <em>(yours or an opponent's)</em>.",
         "type_code": "event"
     },
     {
