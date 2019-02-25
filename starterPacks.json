@@ -664,5 +664,290 @@
                 "dice": 0
             }
         }
+    },
+    {
+        "code": "CONV-V",
+        "name": "General Grievous Starter Set",
+        "set_code": "CONV",
+        "slots": {
+            "09021": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09019": {
+                "quantity": 2,
+                "dice": 2
+            },
+            "09176": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09169": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09034": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09033": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09171": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09032": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09135": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09136": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09029": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09053": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09160": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09122": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09126": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09023": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09124": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09027": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09026": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09028": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09025": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09024": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09163": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
+    },
+    {
+        "code": "CONV-H",
+        "name": "Ob-Wan Kenobi Starter Set",
+        "set_code": "CONV",
+        "slots": {
+            "09057": {
+                "quantity": 1,
+                "dice": 2
+            },
+            "09091": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09113": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09174": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09169": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09171": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09157": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09118": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09071": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09065": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "09153": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09064": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09165": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09060": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09061": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09149": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09059": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09112": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09150": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09094": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09092": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09164": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "09167": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
+    },
+    {
+        "code": "AoN",
+        "name": "Allies of Necessity",
+        "set_code": "AoN",
+        "slots": {
+            "10001": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "10002": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "10003": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "10004": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "10005": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "10006": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "10007": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "10008": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "10009": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "10010": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "10011": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "10012": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "10013": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "10014": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "10015": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "10016": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "10017": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "10018": {
+                "quantity": 1,
+                "dice": 1
+            },
+            "10019": {
+                "quantity": 1,
+                "dice": 0
+            },
+            "10020": {
+                "quantity": 1,
+                "dice": 0
+            }
+        }
     }
 ]
