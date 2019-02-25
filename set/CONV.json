@@ -1633,6 +1633,36 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09090",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Cristi Balanescu",
+        "is_unique": true,
+        "name": "Maz Kanata",
+        "points": "10/13",
+        "position": 90,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "2RD",
+            "2ID",
+            "1F",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Canny Negotiator",
+        "subtypes": [
+            "scoundrel"
+        ],
+        "text": "<b>Power Action</b> - An opponent chooses and does 1. You choose and do 2 others:\n- Deal 1 indirect damage ([indirect]) to a player.\n- Turn an opponent's die to any side.\n- Reroll any number of your dice.\n- Draw a card.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09091",
         "deck_limit": 1,
         "faction_code": "yellow",
@@ -1816,6 +1846,35 @@
         "set_code": "CONV",
         "text": "After a player activates a character, if 2 or more of that character's character or upgrade dice are showing damage ([ranged], [melee], or [indirect]), discard this support from play to deal 3 indirect damage ([indirect]) to that player.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09104",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"Maz is a bit of an acquired taste, so let me do the talking.\" <cite>Han Solo</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Tony Foli",
+        "is_unique": false,
+        "name": "Moxie",
+        "position": 104,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1F",
+            "1Sh",
+            "1R",
+            "Sp",
+            "Sp"
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "[special] - Use a special ability ([special]) or a power action on attached character, even if it was used this round.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",
