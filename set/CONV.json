@@ -1552,7 +1552,7 @@
         "illustrator": " ",
         "is_unique": true,
         "name": "Padmé Amidala's Royal Starship",
-        "position": 82,
+        "position": 85,
         "rarity_code": "R",
         "set_code": "CONV",
         "sides": [
@@ -1631,7 +1631,7 @@
         "text": "You may play Blue upgrades on this character, ignoring play restrictions.\nYou may resolve dice in player's pool that has used the Claim the Battlefield action this round as if they were in your pool.",
         "type_code": "character"
     },
-    {
+        {
         "affiliation_code": "hero",
         "code": "09090",
         "deck_limit": 1,
@@ -1658,7 +1658,7 @@
         "subtypes": [
             "scoundrel"
         ],
-        "text": "<b>Power Action</b> - An opponent chooses and does 1. You choose and do 2 others:\n- Deal 1 indirect damage ([indirect]) to a player.\n- Turn an opponent's die to any side.\n- Reroll any number of your dice.\n- Draw a card.",
+        "text": "<b>Power Action</b> - An opponent chooses and does 1. You choose and do 2 others:\n• Deal 1 indirect damage ([indirect]) to a player.\n• Turn an opponent's die to any side.\n• Reroll any number of dice.\n• Draw a card.",
         "type_code": "character"
     },
     {
@@ -1847,7 +1847,7 @@
         "text": "After a player activates a character, if 2 or more of that character's character or upgrade dice are showing damage ([ranged], [melee], or [indirect]), discard this support from play to deal 3 indirect damage ([indirect]) to that player.",
         "type_code": "support"
     },
-    {
+        {
         "affiliation_code": "hero",
         "code": "09104",
         "cost": 2,
@@ -1863,7 +1863,7 @@
         "rarity_code": "R",
         "set_code": "CONV",
         "sides": [
-            "1F",
+            "2F",
             "1Sh",
             "1R",
             "Sp",
