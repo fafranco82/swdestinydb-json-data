@@ -317,7 +317,7 @@
     {
         "code": "01057",
         "name": "Lancio Telecinetico",
-        "text": "Solo personaggi blu.\n[special] - Rimuovi 1 dado per infliggere un ammontare di danni pari al valore di quel dado a un personaggio <em>(\"speciale\" e \"vuoto\" valgono 0).</em>"
+        "text": "Solo personaggi blu.\n[special] - Rimuovi 1 dado per infliggere un ammontare di danni pari al valore di quel dado a un personaggio <em>(\"speciale\" e \"vuoto\" valgono 0)</em>."
     },
     {
         "code": "01058",
@@ -533,7 +533,7 @@
     {
         "code": "01099",
         "name": "Spalle Protette",
-        "text": "Dopo che hai giocato questo supporto, colloca 3 danni su di esso.\n<b>Azione</b> - Esaurisci questo supporto per spostare 1 danno da esso a un personaggio <em>(ignorando gli scudi).</em>"
+        "text": "Dopo che hai giocato questo supporto, colloca 3 danni su di esso.\n<b>Azione</b> - Esaurisci questo supporto per spostare 1 danno da esso a un personaggio <em>(ignorando gli scudi)</em>."
     },
     {
         "code": "01100",
@@ -649,7 +649,7 @@
     {
         "code": "01122",
         "name": "Forza di Volontà",
-        "text": "Sposta 1 danno da un tuo personaggio esaurito a un personaggio di un avversario <em>(ignorando gli scudi).</em>"
+        "text": "Sposta 1 danno da un tuo personaggio esaurito a un personaggio di un avversario <em>(ignorando gli scudi)</em>."
     },
     {
         "code": "01123",

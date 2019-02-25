@@ -2933,7 +2933,7 @@
         "position": 124,
         "rarity_code": "S",
         "set_code": "AW",
-        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing a modified side <em>(a side with a +)</em> as if it was not modified <em>(did not have the +).</em>",
+        "text": "<b>Action</b> - Exhaust this support to resolve one of your dice showing a modified side <em>(a side with a +)</em> as if it was not modified <em>(did not have the +)</em>.",
         "ttscardid": "1453",
         "type_code": "support"
     },

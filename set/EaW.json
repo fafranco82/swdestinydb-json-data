@@ -371,7 +371,7 @@
         "subtypes": [
             "droid"
         ],
-        "text": "The X on this die is equal to the number of ID9 Seeker Droid dice in your pool <em>(when resolving dice, resolve them one at a time).</em>",
+        "text": "The X on this die is equal to the number of ID9 Seeker Droid dice in your pool <em>(when resolving dice, resolve them one at a time)</em>.",
         "ttscardid": "2512",
         "type_code": "upgrade"
     },
@@ -3043,7 +3043,7 @@
         "has_errata": false,
         "illustrator": "Adam Lane",
         "is_unique": false,
-        "name": "Something familiar",
+        "name": "Something Familiar",
         "position": 133,
         "rarity_code": "U",
         "set_code": "EaW",
