@@ -48,7 +48,7 @@
         "sides": [
             "1MD",
             "2MD",
-            "+1MD",
+            "+2MD",
             "1Dc",
             "1Dc",
             "-"
@@ -248,7 +248,7 @@
         "has_errata": false,
         "illustrator": " ",
         "is_unique": false,
-        "name": "Grand Design",
+        "name": "Perilous Escapade",
         "points": "2",
         "position": 11,
         "rarity_code": "S",
@@ -421,7 +421,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nDamage dealt by this die is unblockable.",
-        "type_code": "support"
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",
