@@ -344,7 +344,7 @@
         "name": "Flank",
         "position": 15,
         "rarity_code": "S",
-        "reprint_of": "01145",
+        "reprint_of": "01156",
         "set_code": "AoN",
         "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice.",
         "type_code": "event"

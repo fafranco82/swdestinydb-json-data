@@ -1911,7 +1911,7 @@
         "position": 106,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "If you have a die showing <em>(do all that apply)</em>:\n- Melee ([melee]) - Deal 1 damage to a character.\n- Shield ([shield]) - Give 1 shield to a character.\n- Blank ([blank]) - You may turn a die to a blank.",
+        "text": "If you have a die showing <em>(do all that apply)</em>:\n• Melee ([melee]) - Deal 1 damage to a character.\n• Shield ([shield]) - Give 1 shield to a character.\n• Blank ([blank]) - You may turn a die to a blank.",
         "type_code": "event"
     },
     {
@@ -2262,7 +2262,7 @@
         "position": 132,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "If you have a die showing <em>(do all that apply)</em>:\n- Ranged ([ranged]) - Deal 1 damage to a character.\n- Focus ([focus]) - Turn one of your dice to any side.\n- Discard ([discard]) - Discard a random card from a player's hand.",
+        "text": "If you have a die showing <em>(do all that apply)</em>:\n• Ranged ([ranged]) - Deal 1 damage to a character.\n• Focus ([focus]) - Turn one of your dice to any side.\n• Discard ([discard]) - Discard a random card from a player's hand.",
         "type_code": "event"
     },
     {
