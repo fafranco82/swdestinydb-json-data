@@ -308,7 +308,7 @@
             "leader",
             "trooper"
         ],
-        "text": "You may resolve your <i>trooper</i> dice showing damage as if they where melee damage ([melee]).\n<b>Power Action</b> - Roll 2 set-aside First Order Stormtrooper ([CONV]20) dice into your pool. Set those dice aside after they are resolved or removed.",
+        "text": "You may resolve your <i>trooper</i> dice showing damage as if they were melee damage ([melee]).\n<b>Power Action</b> - Roll 2 set-aside First Order Stormtrooper ([CONV]20) dice into your pool. Set those dice aside after they are resolved or removed.",
         "type_code": "character"
     },
     {
@@ -316,7 +316,7 @@
         "code": "09019",
         "deck_limit": 3,
         "faction_code": "red",
-        "flavor": "\"Those clankers have though armor!\" <cite>Clone Commander Cody</cite>",
+        "flavor": "\"Those clankers have tough armor!\" <cite>Clone Commander Cody</cite>",
         "has_die": true,
         "has_errata": false,
         "health": 7,
@@ -439,7 +439,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "\"KX series droids are hardened against intrusion.\" <cite>Cassian Andor</cite>",
+        "flavor": "\"KX-series droids are hardened against intrusion.\" <cite>Cassian Andor</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": " ",
