@@ -93,6 +93,37 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09004",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "Rumors thrived about her mysterious abilities.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Jinsung Lim",
+        "is_unique": true,
+        "name": "Sly Moore",
+        "points": "9/12",
+        "position": 4,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1F",
+            "2F",
+            "1Dc",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Aide to the Emperor",
+        "subtypes": [
+            "advisor"
+        ],
+        "text": "After you activate this character, you may reroll one of your <i>Sith</i> dice.\n[special] - Turn a die to a side showing a blank ([blank]) and discard a random card from an opponent's hand.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09005",
         "cost": 2,
         "deck_limit": 2,
@@ -117,7 +148,7 @@
         "flavor": "\"It's not a story the Jedi would tell you. \" <cite>Chancellor Palpatine</cite>",
         "has_die": false,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Paolo Puggioni",
         "is_unique": false,
         "name": "A Tale of Tragedy",
         "position": 6,
@@ -187,7 +218,7 @@
         "faction_code": "blue",
         "has_die": false,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Adam Lane",
         "is_unique": false,
         "name": "Forbidden Lore",
         "position": 12,
@@ -278,6 +309,34 @@
             "weapon"
         ],
         "text": "After you play this upgrade, gain resources equal to the number of <i>ability</i> upgrades on attached character, to a maximum of 2.\nWhile this upgrade is on Palpatine, your copies of it are non-unique.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09017",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Javier Charro Martinez",
+        "is_unique": false,
+        "name": "Sith Teachings",
+        "position": 17,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "+2MD",
+            "1Dc",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Play only if you spot a <i>Sith</i>.\nAfter you play this upgrade, you may remove a die showing a blank.\n[special] - Deal 1 damage to a character, or 2 damage instead if you removed an opponent's die this round.",
         "type_code": "upgrade"
     },
     {
@@ -1048,7 +1107,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 8,
-        "illustrator": " ",
+        "illustrator": "Borja Pindado",
         "is_unique": true,
         "name": "Ahsoka Tano",
         "points": "8/11",
@@ -1249,6 +1308,24 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09062",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"Train yourself to let go of everything you fear to lose.\" <cite>Yoda</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Romana Kendelic",
+        "is_unique": false,
+        "name": "Disciplined Mind",
+        "position": 62,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Spot a <i>Jedi</i> to remove a non-<i>Jedi</i> die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09063",
         "cost": 1,
         "deck_limit": 2,
@@ -1312,34 +1389,6 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "09066",
-        "cost": 1,
-        "deck_limit": 2,
-        "faction_code": "blue",
-        "has_die": true,
-        "has_errata": false,
-        "illustrator": " ",
-        "is_unique": false,
-        "name": "Jedi Holocron",
-        "position": 66,
-        "rarity_code": "R",
-        "set_code": "CONV",
-        "sides": [
-            "1F",
-            "1R",
-            "+1R",
-            "Sp",
-            "Sp",
-            "-"
-        ],
-        "subtypes": [
-            "equipment"
-        ],
-        "text": "Play only if you spot a <i>Jedi</i>.\n[special] - Place this upgrade on the bottom of its owner's deck to draw 3 cards. You may play a Blue <i>ability</i>from your hand, decreasing its cost by 1.",
-        "type_code": "upgrade"
-    },
-    {
-        "affiliation_code": "hero",
         "code": "09067",
         "cost": 2,
         "deck_limit": 2,
@@ -1366,6 +1415,34 @@
         ],
         "text": "Discard this support from play if you have Yoda in play.\n[special] - Shuffle this support into its owner's deck to deal 3 unblockable damage to a character.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09068",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Jacob Atienza",
+        "is_unique": false,
+        "name": "Jedi Holocron",
+        "position": 68,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1F",
+            "1R",
+            "+1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "Play only if you spot a <i>Jedi</i>.\n[special] - Place this upgrade on the bottom of its owner's deck to draw 3 cards. You may play a Blue <i>ability</i> from your hand, decreasing its cost by 1.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
@@ -1658,7 +1735,7 @@
         "subtypes": [
             "scoundrel"
         ],
-        "text": "<b>Power Action</b> - An opponent chooses and does 1. You choose and do 2 others:\n• Deal 1 indirect damage ([indirect]) to a player.\n• Turn an opponent's die to any side.\n• Reroll any number of dice.\n• Draw a card.",
+        "text": "<b>Power Action</b> - An opponent chooses and does 1. You choose and do 2 others:\n• Deal 1 indirect damage ([indirect]) to a player.\n• Turn an opponent's die to any side.\n• Reroll any number of your dice.\n• Draw a card.",
         "type_code": "character"
     },
     {
@@ -1928,6 +2005,9 @@
         "position": 107,
         "rarity_code": "U",
         "set_code": "CONV",
+        "subtypes": [
+            "move"
+        ],
         "text": "Resolve one of your character dice as if it were showing a shield ([shield]). If that character has a card titled Soresu Mastery on it, that die is resolved without removing it from your pool.",
         "type_code": "event"
     },
