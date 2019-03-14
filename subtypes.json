@@ -4,6 +4,10 @@
         "name": "Ability"
     },
     {
+        "code": "advisor",
+        "name": "Advisor"
+    },
+    {
         "code": "apprentice",
         "name": "Apprentice"
     },
