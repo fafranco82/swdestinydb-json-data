@@ -1,4 +1,4 @@
-SWDestinyDB cards JSON data [![CircleCI](https://circleci.com/gh/fafranco82/swdestinydb-json-data.svg?style=svg)](https://circleci.com/gh/fafranco82/swdestinydb-json-data)
+SWDestinyDB cards JSON data
 =========
 
 The goal of this repository is to store [SWDestinyDB](https://swdestinydb.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
