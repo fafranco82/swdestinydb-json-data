@@ -630,6 +630,35 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09030",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "When a unit began to underperform, Emperor Palpatine would rectify the matter by sending in an enforcer.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Imperial Officer",
+        "position": 30,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "2RD1",
+            "1F",
+            "1F",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "leader"
+        ],
+        "text": "After you activate this support, you may turn one of your <i>trooper</i> dice to any side.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09031",
         "cost": 4,
         "deck_limit": 2,
@@ -1553,6 +1582,69 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09073",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"Light'em up on my mark.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Kes Dameron",
+        "points": "13/16",
+        "position": 73,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "2RD",
+            "3RD1",
+            "1F",
+            "2F",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Courageous Sergeant",
+        "subtypes": [
+            "leader",
+            "trooper"
+        ],
+        "text": "<b>Action</b> - Resolve any number of your <i>trooper</i> dice in the order of your choice.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09075",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"To live in fear is no life at all.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Padmé Amidala",
+        "points": "11/14",
+        "position": 75,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "1F",
+            "2F",
+            "3F",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Resolute Senator",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "You may resolve your dice showing a focus ([focus]) as if they where indirect damage ([indirect]).",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09078",
         "cost": 1,
         "deck_limit": 2,
@@ -2312,6 +2404,24 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09127",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "It seemed that no matter how many noble sacrifices the rebel troopers made, they could never outmatch the tenacity of the Empire's forces.",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Measure for Measure",
+        "position": 127,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Remove one of your <i>trooper</i> dice to remove a die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09130",
         "cost": 1,
         "deck_limit": 2,
@@ -2968,6 +3078,23 @@
         "set_code": "CONV",
         "subtitle": "Vassek 3",
         "text": "<b>Claim</b> - Deal 1 indirect damage ([indirect]) to an opponent unless they give you 1 of their resources, or spot general Grievous to deal 1 damage to a character.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09178",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Military Camp",
+        "position": 178,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtitle": "Kaller",
+        "text": "<b>Power Action</b> - Activate up to 2 of your characters that share a subtype. If one of those characters is a <i>trooper</i>, you may reroll one of its character dice.",
         "type_code": "battlefield"
     }
 ]
