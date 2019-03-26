@@ -1994,7 +1994,7 @@
     {
         "affiliation_code": "hero",
         "code": "09084",
-        "cost": 1,
+        "cost": 4,
         "deck_limit": 2,
         "faction_code": "red",
         "flavor": "In addition to providing heavy fire support, the Low Altitude Assault Transport could deliver up to 30 troopers.",
@@ -3614,9 +3614,9 @@
         "rarity_code": "R",
         "set_code": "CONV",
         "sides": [
-            "+1R",
-            "+2R",
-            "+3R",
+            "+1RD",
+            "+2RD",
+            "+3RD",
             "+1Dc",
             "+2Sh",
             "+1R"
