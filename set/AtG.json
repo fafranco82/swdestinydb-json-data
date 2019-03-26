@@ -3456,7 +3456,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "Ambush.\nThis support can be activated.\nAfter you play this support, search your deck or discard pile for a <i>mod</i> and play it on this support, if able. If your searched your deck, shuffle it.",
+        "text": "Ambush.\nThis support can be activated.\nAfter you play this support, search your deck or discard pile for a <i>mod</i> and play it on this support, if able. If you searched your deck, shuffle it.",
         "ttscardid": "49611",
         "type_code": "support"
     },
