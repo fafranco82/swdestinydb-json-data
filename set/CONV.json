@@ -229,6 +229,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09011",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "No Mercy",
+        "position": 11,
+        "rarity_code": "U",
+        "reprint_of": "01086",
+        "set_code": "CONV",
+        "text": "Discard any number of Blue cards from your hand. Then resolve one of your dice showing damage ([ranged], [melee], or [indirect]), increasing its value by 1 for each card you discarded.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09012",
         "cost": 0,
         "deck_limit": 2,
@@ -1009,24 +1027,6 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "09042",
-        "cost": 1,
-        "deck_limit": 2,
-        "faction_code": "yellow",
-        "has_die": false,
-        "has_errata": false,
-        "illustrator": " ",
-        "is_unique": false,
-        "name": "Fight Dirty",
-        "position": 42,
-        "rarity_code": "U",
-        "reprint_of": "01095",
-        "set_code": "CONV",
-        "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed.",
-        "type_code": "event"
-    },
-    {
-        "affiliation_code": "villain",
         "code": "09043",
         "cost": 1,
         "deck_limit": 2,
@@ -1040,6 +1040,24 @@
         "rarity_code": "U",
         "set_code": "CONV",
         "text": "Each opponent chooses a character subtype. Then remove all opponents' character dice that do not have a chosen subtype.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09044",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Fight Dirty",
+        "position": 44,
+        "rarity_code": "U",
+        "reprint_of": "01095",
+        "set_code": "CONV",
+        "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed.",
         "type_code": "event"
     },
     {
@@ -1178,6 +1196,35 @@
             "weapon"
         ],
         "text": "After you play this upgrade, you may deal 1 damage to a character that has a <i>bounty</i> on it.\n<b>Power Action</b> - If this upgrade is on Dengar, turn one of his character dice to a side showing a value of 1.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09051",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"Pain delivered.\" <cite>Dengar</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Skilled Tracker",
+        "position": 51,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1Dr",
+            "1Dc",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Yellow character only.\n[special] - Remove a character die.",
         "type_code": "upgrade"
     },
     {
