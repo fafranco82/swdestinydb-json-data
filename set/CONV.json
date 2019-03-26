@@ -159,6 +159,23 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09007",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Breaking Bonds",
+        "position": 7,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Choose a character and discard a downgrade from it.  If that character is a <i>Sith</i>, you may turn a die to a side showing a blank ([blank]).",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09008",
         "cost": 2,
         "deck_limit": 2,
@@ -946,6 +963,23 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09042",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Conveyex Robbery",
+        "position": 42,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Spot a <i>scoundrel</i> to choose one die in each opponents' pools. Resolve those dice in the order of your choice as if they were in your pool.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09043",
         "cost": 1,
         "deck_limit": 2,
@@ -994,6 +1028,23 @@
         "set_code": "CONV",
         "text": "Resolve one of your dice showing ranged or melee damage ([ranged] or [melee]) against a character, increasing it's value by the number of <i>bounty</i> downgrades on that character.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09047",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Bounty Board",
+        "position": 47,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "<b>Action</b> - Exhaust this support to search your deck for a <i>bounty</i>, reveal it, and add it to your hand. Shuffle your deck.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
@@ -1645,6 +1696,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09077",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Aggressive Negotiations",
+        "position": 77,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Choose an opponent and have them remove any number of their dice.  Then deal 2 indirect damage ([indirect]) to that opponent for each of their dice showing damage ([ranged], [melee], or [indirect]).",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09078",
         "cost": 1,
         "deck_limit": 2,
@@ -1707,6 +1775,23 @@
             "vehicle"
         ],
         "text": "After you activate this support, you may discard a card from your hand to resolve any number of its support and upgrade dice in the order of your choice.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09083",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Concerted Effort",
+        "position": 83,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "After you resolve a die, if you have resolved 3 or more dice this turn, you may exhaust this support to deal 1 damage to a character.",
         "type_code": "support"
     },
     {
@@ -2018,6 +2103,54 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09102",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Chewbacca's Blaster Rifle",
+        "position": 102,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "2RD",
+            "3RD",
+            "4RD1",
+            "1Dr",
+            "1Dc",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After you play this upgrade, you may deal 1 damage to attached character to roll this die into your pool. Then, if that character is Chewbacca, you may resolve this die.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09103",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Custom Bandolier",
+        "position": 103,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "Each <i>equipment</i> on attached character does not count towards its upgrade limit\n<b>Action</b> - Exhaust this upgrade to reroll one of your <i>equipment</i> or <i>weapon</i> dice.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09104",
         "cost": 2,
         "deck_limit": 2,
@@ -2219,6 +2352,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09114",
+        "cost": 1,
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Diatium Power Cell",
+        "position": 114,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Before you resolve a <i>weapon</i> die showing damage ([ranged], [melee] or [indirect]) that has the word \"Lightsaber\" in its title, you may exhaust this support to increase its value by 1.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09117",
         "cost": 2,
         "deck_limit": 2,
@@ -2370,6 +2520,24 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09123",
+        "cost": 5,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"The ultimate power in the universe!\" <cite>Admiral Motti</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Domination",
+        "position": 123,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Remove any number of dice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09124",
         "cost": 1,
         "deck_limit": 2,
@@ -2473,6 +2641,34 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09134",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"Due to their accelerated aging, clone troopers occassionally needed to have their ranks reinforced with non-clone conscripts.\"
+        "has_die": true,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "Conscript Squad",
+        "position": 134,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "+1RD",
+            "+2RD",
+            "1Dr",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "After you activate a <i>leader</i>, you may activate this support.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09135",
         "cost": 1,
         "deck_limit": 2,
@@ -2530,6 +2726,35 @@
             "vehicle"
         ],
         "text": "While a villain <i>vehicle</i> die is in your pool, decrease the cost on this die by 1.\nWhile a hero <i>vehicle</i> die is in your pool, this die cannot be removed by opponents.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09138",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"A good soldier is always prepared.\"
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Matt Bradbury",
+        "is_unique": false,
+        "name": "A300 Blaster",
+        "position": 138,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "2RD",
+            "+2RD",
+            "1Dr",
+            "1Dr",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Redeploy. (Before attached character is defeated, you may move this upgrade)",
         "type_code": "support"
     },
     {
