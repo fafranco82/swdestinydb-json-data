@@ -2063,6 +2063,7 @@
         "name": "Overkill",
         "position": 86,
         "rarity_code": "R",
+        "reprint_of": "02033",
         "set_code": "CONV",
         "sides": [
             "+1RD",
