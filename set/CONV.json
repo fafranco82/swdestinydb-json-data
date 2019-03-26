@@ -3022,6 +3022,7 @@
         "name": "Squad Tactics",
         "position": 131,
         "rarity_code": "C",
+        "reprint_of": "01143",
         "set_code": "CONV",
         "text": "Activate any number of your non-unique characters at once.",
         "type_code": "event"
@@ -3747,6 +3748,7 @@
         "name": "Dodge",
         "position": 164,
         "rarity_code": "C",
+        "reprint_of": "01155",
         "set_code": "CONV",
         "text": "Remove all of an opponent's dice showing ranged damage ([ranged]).",
         "type_code": "event"
