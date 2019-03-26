@@ -1919,7 +1919,7 @@
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Ameen Naksawee",
         "is_unique": false,
         "name": "Power Surge",
         "position": 80,
@@ -1936,7 +1936,7 @@
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Borja Pindado",
         "is_unique": false,
         "name": "Unfetter",
         "position": 81,
@@ -2076,7 +2076,6 @@
         "subtypes": [
             "ability"
         ],
-        "text": "",
         "type_code": "upgrade"
     },
     {
@@ -2394,7 +2393,7 @@
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Borja Pindado",
         "is_unique": false,
         "name": "Rebel Cache",
         "position": 101,
@@ -2411,7 +2410,7 @@
         "subtypes": [
             "location"
         ],
-        "text": "After you roll one or more dice showing a resource ([resource}), you may place 1 resource on this support.\n[special] - Take up to 2 resources from this support, or 3 resources instead if you spot a <i>scoundrel</i>.",
+        "text": "After you roll one or more dice showing a resource ([resource]), you may place 1 resource on this support.\n[special] - Take up to 2 resources from this support, or 3 resources instead if you spot a <i>scoundrel</i>.",
         "type_code": "support"
     },
     {
@@ -2671,7 +2670,7 @@
         "faction_code": "blue",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "Tony Fotu",
+        "illustrator": "Tony Foti",
         "is_unique": false,
         "name": "Lightsaber Mastery",
         "points": "2",
@@ -2963,7 +2962,7 @@
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Cristi Balanescu",
         "is_unique": false,
         "name": "No Answer",
         "position": 128,
@@ -2981,7 +2980,7 @@
         "flavor": "\"An entire legion of my best troops awaits them.\" <cite>Emperor Palpatine</cite>",
         "has_die": false,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Vlad Ricean",
         "is_unique": false,
         "name": "Rout",
         "position": 129,
@@ -3540,7 +3539,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "Ambush. <em>(After you play this card, gain 1 action.)</em>\n[special] - Deal 3 damage to a character, or discard a <i>vehicle</i> that costs 3 or less from play.",
+        "text": "Ambush.\n[special] - Deal 3 damage to a character, or discard a <i>vehicle</i> that costs 3 or less from play.",
         "type_code": "support"
     },
     {
@@ -3637,7 +3636,7 @@
         "flavor": "\"He's holding a thermal detonator!\" <cite>C-3PO</cite>",
         "has_die": true,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Jacob Atienza",
         "is_unique": false,
         "name": "Unscrupulous",
         "position": 159,
@@ -4041,6 +4040,23 @@
         "set_code": "CONV",
         "subtitle": "Kaller",
         "text": "<b>Power Action</b> - Activate up to 2 of your characters that share a subtype. If one of those characters is a <i>trooper</i>, you may reroll one of its character dice.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09179",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mark Molnar",
+        "is_unique": false,
+        "name": "Salt Flats",
+        "position": 179,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtitle": "Crait",
+        "text": "<b>Power Action</b> - Turn a die to a side showing a blank ([blank]) or turn one of your <i>leader</i> dice to any side.",
         "type_code": "battlefield"
     }
 ]
