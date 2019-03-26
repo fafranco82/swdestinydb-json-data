@@ -2313,6 +2313,26 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09140",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Jason Juta",
+        "is_unique": false,
+        "name": "Riot Shield",
+        "position": 140,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "Before attached character takes damage, you may discard this upgrade to block 2 damage, or 3 damage instead if attached character is a <i>trooper</i>.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09141",
         "deck_limit": 1,
         "faction_code": "yellow",
