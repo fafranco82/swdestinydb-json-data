@@ -1919,7 +1919,7 @@
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Ameen Naksawee",
         "is_unique": false,
         "name": "Power Surge",
         "position": 80,
@@ -1936,7 +1936,7 @@
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Borja Pindado",
         "is_unique": false,
         "name": "Unfetter",
         "position": 81,
@@ -2394,7 +2394,7 @@
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
-        "illustrator": " ",
+        "illustrator": "Borja Pindado",
         "is_unique": false,
         "name": "Rebel Cache",
         "position": 101,
@@ -2411,7 +2411,7 @@
         "subtypes": [
             "location"
         ],
-        "text": "After you roll one or more dice showing a resource ([resource}), you may place 1 resource on this support.\n[special] - Take up to 2 resources from this support, or 3 resources instead if you spot a <i>scoundrel</i>.",
+        "text": "After you roll one or more dice showing a resource ([resource]), you may place 1 resource on this support.\n[special] - Take up to 2 resources from this support, or 3 resources instead if you spot a <i>scoundrel</i>.",
         "type_code": "support"
     },
     {
@@ -2587,6 +2587,24 @@
             "move"
         ],
         "text": "Resolve one of your character dice showing damage ([ranged], [melee] or [indirect]), increasing its value by the number of upgrades on that character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09110",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"Don't you think I'm a little overqualified for this?\" <cite>Ahsoka Tano</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Overqualified",
+        "position": 110,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Choose one of your dice. Then remove a die showing a value less than the chosen die.",
         "type_code": "event"
     },
     {
@@ -2935,6 +2953,41 @@
         "rarity_code": "C",
         "set_code": "CONV",
         "text": "Remove one of your <i>trooper</i> dice to remove a die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09128",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Cristi Balanescu",
+        "is_unique": false,
+        "name": "No Answer",
+        "position": 128,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Discard a random card from an opponent's hand.  If that opponent has no cards in hand, discard the top 3 cards of their deck.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09129",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"An entire legion of my best troops awaits them.\" <cite>Emperor Palpatine</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Vlad Ricean",
+        "is_unique": false,
+        "name": "Rout",
+        "position": 129,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "For every 3 dice in your pool, you may remove a die.",
         "type_code": "event"
     },
     {
@@ -3310,6 +3363,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09148",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Matthew Starbuck",
+        "is_unique": false,
+        "name": "Skullduggery",
+        "position": 148,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "If you have a die showing <em>(do all that apply)</em>:\n• Indirect ([indirect]) - Deal 1 indirect damage to an opponent.\n• Disrupt ([disrupt]) - Force a player to lose one resource\n• Resource ([resource]) - Gain one resource.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09149",
         "cost": 0,
         "deck_limit": 2,
@@ -3410,6 +3480,24 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09154",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"This was always a risk.  The Empire's been here on Akiva for years.\" <cite>Owerto Naiucho</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Tony Foti",
+        "is_unique": false,
+        "name": "Smuggling Ring",
+        "position": 154,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "<b>Action</b> - Exhaust this support to gain one resource and gain 1 action.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09156",
         "cost": 2,
         "deck_limit": 2,
@@ -3463,6 +3551,35 @@
             "equipment"
         ],
         "text": "[special] - Reroll another die. Then deal damage to a character equal to the value showing on that die.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09159",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"He's holding a thermal detonator.\" <cite>C-3PO</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Jacob Atienza",
+        "is_unique": false,
+        "name": "Unscrupulous",
+        "position": 159,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1F",
+            "Sp",
+            "Sp",
+            "Sp",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "<i>Scoundrel</i> character only\n[special] - Discard a random card from an opponent's hand or force an opponent to lose 1 resource.",
         "type_code": "upgrade"
     },
     {
@@ -3673,6 +3790,26 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09170",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Alexander Kozachenko",
+        "is_unique": false,
+        "name": "Protective Suit",
+        "position": 170,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "Non-<i>bounty</i> downgrades cannot be played on attached character./n<b>Action</b> - return this upgrade from play to your hand.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09171",
         "cost": 1,
         "deck_limit": 2,
@@ -3828,6 +3965,23 @@
         "set_code": "CONV",
         "subtitle": "Kaller",
         "text": "<b>Power Action</b> - Activate up to 2 of your characters that share a subtype. If one of those characters is a <i>trooper</i>, you may reroll one of its character dice.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09179",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mark Molnar",
+        "is_unique": false,
+        "name": "Salt Flats",
+        "position": 179,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtitle": "Crait",
+        "text": "<b>Power Action</b> - Turn a die to a side showing a blank ([blank]) or turn one of your <i>leader</i> dice to any side.",
         "type_code": "battlefield"
     }
 ]
