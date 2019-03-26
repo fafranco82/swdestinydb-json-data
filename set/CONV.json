@@ -229,6 +229,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09011",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "No Mercy",
+        "position": 11,
+        "rarity_code": "U",
+        "reprint_of": "01086",
+        "set_code": "CONV",
+        "text": "Discard any number of Blue cards from your hand. Then resolve one of your dice showing damage ([ranged], [melee], or [indirect]), increasing its value by 1 for each card you discarded.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09012",
         "cost": 0,
         "deck_limit": 2,
@@ -1009,24 +1027,6 @@
     },
     {
         "affiliation_code": "villain",
-        "code": "09042",
-        "cost": 1,
-        "deck_limit": 2,
-        "faction_code": "yellow",
-        "has_die": false,
-        "has_errata": false,
-        "illustrator": " ",
-        "is_unique": false,
-        "name": "Fight Dirty",
-        "position": 42,
-        "rarity_code": "U",
-        "reprint_of": "01095",
-        "set_code": "CONV",
-        "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed.",
-        "type_code": "event"
-    },
-    {
-        "affiliation_code": "villain",
         "code": "09043",
         "cost": 1,
         "deck_limit": 2,
@@ -1040,6 +1040,24 @@
         "rarity_code": "U",
         "set_code": "CONV",
         "text": "Each opponent chooses a character subtype. Then remove all opponents' character dice that do not have a chosen subtype.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09044",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Fight Dirty",
+        "position": 44,
+        "rarity_code": "U",
+        "reprint_of": "01095",
+        "set_code": "CONV",
+        "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed.",
         "type_code": "event"
     },
     {
@@ -1178,6 +1196,35 @@
             "weapon"
         ],
         "text": "After you play this upgrade, you may deal 1 damage to a character that has a <i>bounty</i> on it.\n<b>Power Action</b> - If this upgrade is on Dengar, turn one of his character dice to a side showing a value of 1.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "09051",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"Pain delivered.\" <cite>Dengar</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Skilled Tracker",
+        "position": 51,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1Dr",
+            "1Dc",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Yellow character only.\n[special] - Remove a character die.",
         "type_code": "upgrade"
     },
     {
@@ -1516,6 +1563,25 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09066",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "Uneti Force Tree",
+        "position": 66,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtypes": [
+            "location"
+        ],
+        "text": "<b>Action</b> - Exhaust this support to choose another player. You and that player each draw a card.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09067",
         "cost": 2,
         "deck_limit": 2,
@@ -1768,7 +1834,7 @@
         "subtypes": [
             "leader"
         ],
-        "text": "You may resolve your dice showing a focus ([focus]) as if they where indirect damage ([indirect]).",
+        "text": "You may resolve your dice showing a focus ([focus]) as if they were indirect damage ([indirect]).",
         "type_code": "character"
     },
     {
@@ -1779,7 +1845,7 @@
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "JB Casapop",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Target Acquired",
         "position": 76,
@@ -1788,7 +1854,7 @@
         "subtypes": [
             "intel"
         ],
-        "text": "Damaged character only.\nIndirect Damage ([indirect]) assigned by character's controller must be assigned to attached character, where possible.",
+        "text": "Damaged character only.\nIndirect damage ([indirect]) assigned by attached character's controler must be assigned to attached character, if able.",
         "type_code": "downgrade"
     },
     {
@@ -1876,7 +1942,7 @@
         "position": 81,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "Ready a red character that has no cards attached to it.",
+        "text": "Ready a Red character that has no cards attached to it.",
         "type_code": "event"
     },
     {
@@ -1982,6 +2048,65 @@
         ],
         "text": "After you activate this support, you may give a <i>leader</i> character 1 shield. If that <i>leader</i> is Padmé Amidala, activate her.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09086",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"So, who's ready to blast some droids?\" <cite>Clone Trooper 99</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Overkill",
+        "position": 86,
+        "rarity_code": "R",
+        "reprint_of": "02033",
+        "set_code": "CONV",
+        "sides": [
+            "+1RD",
+            "+2RD",
+            "+3RD",
+            "+3RD",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09087",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": " ",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Resistance Ring",
+        "position": 87,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1F",
+            "1Sh",
+            "+1R",
+            "+1R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "After you play this upgrade, discard the top card of a deck.\n[special] - Play a Red event from any discard pile as if it were yours <i>(paying its cost)</i>, then set that event aside.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
@@ -2270,7 +2395,7 @@
         "has_die": true,
         "has_errata": false,
         "illustrator": "Borja Pindado",
-        "is_unique": true,
+        "is_unique": false,
         "name": "Rebel Cache",
         "position": 101,
         "rarity_code": "R",
@@ -3032,7 +3157,7 @@
             "weapon"
         ],
         "text": "Redeploy.",
-        "type_code": "support"
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",
