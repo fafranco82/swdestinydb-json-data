@@ -2682,7 +2682,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "09114",
+        "code": "09115",
         "cost": 1,
         "deck_limit": 1,
         "faction_code": "blue",
@@ -2691,7 +2691,7 @@
         "illustrator": " ",
         "is_unique": false,
         "name": "Diatium Power Cell",
-        "position": 114,
+        "position": 115,
         "rarity_code": "U",
         "set_code": "CONV",
         "text": "Before you resolve a <i>weapon</i> die showing damage ([ranged], [melee] or [indirect]) that has the word \"Lightsaber\" in its title, you may exhaust this support to increase its value by 1.",
