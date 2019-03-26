@@ -3128,7 +3128,7 @@
         "position": 139,
         "rarity_code": "C",
         "set_code": "SoR",
-        "text": "Ambush. <em>(You may take one additional action after you play this card.)</em>\nGive the next card you play this turn the Ambush keyword.",
+        "text": "Ambush.\nGive the next card you play this turn the Ambush keyword.",
         "ttscardid": "2368",
         "type_code": "event"
     },

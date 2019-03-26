@@ -2645,7 +2645,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "\"Due to their accelerated aging, clone troopers occassionally needed to have their ranks reinforced with non-clone conscripts.\"
+        "flavor": "\"Due to their accelerated aging, clone troopers occassionally needed to have their ranks reinforced with non-clone conscripts.\"",
         "has_die": true,
         "has_errata": false,
         "is_unique": false,
@@ -2734,7 +2734,7 @@
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "\"A good soldier is always prepared.\"
+        "flavor": "\"A good soldier is always prepared.\"",
         "has_die": true,
         "has_errata": false,
         "illustrator": "Matt Bradbury",
@@ -2754,7 +2754,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "Redeploy. (Before attached character is defeated, you may move this upgrade)",
+        "text": "Redeploy.",
         "type_code": "support"
     },
     {
