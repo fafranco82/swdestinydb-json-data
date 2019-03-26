@@ -4058,5 +4058,22 @@
         "subtitle": "Crait",
         "text": "<b>Power Action</b> - Turn a die to a side showing a blank ([blank]) or turn one of your <i>leader</i> dice to any side.",
         "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09180",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": false,
+        "name": "Watto's Shop",
+        "position": 180,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtitle": "Tatooine",
+        "text": "<b>Claim</b> - Discard one of your supports or upgrades from play to gain resources equal to its cost.",
+        "type_code": "battlefield"
     }
 ]
