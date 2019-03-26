@@ -3605,7 +3605,7 @@
         "subtitle": "Correlia",
         "text": "<b>Claim</b> - You may spot a <i>scoundrel</i> to place 1 resource on this battlefield. You may play an event from your hand, decreasing its cost by the number of resources on this battlefield.",
         "type_code": "battlefield"
-    }
+    },
     {
         "affiliation_code": "neutral",
         "code": "09178",
