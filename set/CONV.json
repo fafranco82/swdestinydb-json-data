@@ -246,6 +246,35 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09013",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "A self destruct mechanism was its fatal flaw",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Imperialis",
+        "position": 13,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1F",
+            "2F",
+            "1Sh",
+            "1R",
+            "2Sh",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After you activate Palpatine, you may activate this support.\n[special] - Discard this support from play to deal 4 indirect damage ([Indirect]) to an opponent.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09014",
         "cost": 4,
         "deck_limit": 2,
@@ -980,6 +1009,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "09042",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Fight Dirty",
+        "position": 42,
+        "rarity_code": "U",
+        "reprint_of": "01095",
+        "set_code": "CONV",
+        "text": "Remove any number of your Yellow dice. Then deal damage to a character equal to the number of dice you just removed.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "09043",
         "cost": 1,
         "deck_limit": 2,
@@ -1665,6 +1712,36 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09074",
+        "deck_limit": 3,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Naboo Palace Guard",
+        "points": "8",
+        "position": 74,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1RD",
+            "1RD",
+            "+2RD",
+            "1F",
+            "1Sh",
+            "-"
+        ],
+        "subtypes": [
+            "guard",
+            "trooper"
+        ],
+        "text": "While you have a <i>leader</i> in play, this character gains Guardian.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09075",
         "deck_limit": 1,
         "faction_code": "red",
@@ -1792,6 +1869,35 @@
         "rarity_code": "U",
         "set_code": "CONV",
         "text": "After you resolve a die, if you have resolved 3 or more dice this turn, you may exhaust this support to deal 1 damage to a character.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09084",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "In addition to providing heavy fire support, the Low Altitude Assault Transport could deliver up to 30 troopers.",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "LAAT Gunship",
+        "position": 84,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "2R",
+            "3ID",
+            "2Sh",
+            "2R",
+            "Sp",
+            "Sp1"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "[special] - Roll a <i>trooper</i> die on one of your characters into your pool.  Reroll this support's die instead of removing it.",
         "type_code": "support"
     },
     {
@@ -2369,6 +2475,25 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09116",
+        "cost": 1,
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"It's not just about lifting rocks. The Force binds everything together\" <cite>Luke Skywalker</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "It Binds All Things",
+        "position": 116,
+        "rarity_code": "U",
+        "reprint_of": "01150",
+        "set_code": "CONV",
+        "text": "Before you play a Blue upgrade, you may exhaust this support to decrease its cost by 1.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09117",
         "cost": 2,
         "deck_limit": 2,
@@ -2551,6 +2676,23 @@
         "rarity_code": "C",
         "set_code": "CONV",
         "text": "Roll a <i>droid</i> die on one of your characters or supports in play into your pool.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09125",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Forced Compliance",
+        "position": 125,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Turn an opponent's die to any side. Then turn one of your dice to a side showing the same symbol as that die.",
         "type_code": "event"
     },
     {
@@ -2838,6 +2980,36 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09142",
+        "deck_limit": 3,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Enfys Nest's Marauder",
+        "points": "8",
+        "position": 142,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1MD1",
+            "2MD1",
+            "+2MD",
+            "1Sh",
+            "2R1",
+            "-"
+        ],
+        "subtypes": [
+            "scavenger",
+            "scoundrel"
+        ],
+        "text": "You can include up to 1 villain cards and up to 1 hero cards in your deck <em>(following other deckbuilding restrictions)</em>.\nAfter you resolve this die showing a cost, you may deal 1 indirect ([indirect]) damage to an opponent.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09143",
         "cost": 0,
         "deck_limit": 2,
@@ -2856,6 +3028,25 @@
         ],
         "text": "After attached character is defeated, you may gain 2 resources.",
         "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09144",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "Shock weaponry is useful for its versatility, having a stunning effect on organics and droids alike.",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Borja Pindado",
+        "is_unique": false,
+        "name": "Electroshock",
+        "position": 144,
+        "rarity_code": "U",
+        "reprint_of": "01159",
+        "set_code": "CONV",
+        "text": "Spot a yellow character to remove a die showing a value of 2 or less.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
@@ -2964,6 +3155,34 @@
         "set_code": "CONV",
         "text": "After one of your <i>scoundrel</i> dice rolls a side showing a resource ([resource]), you may resolve it.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09152",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Entourage",
+        "position": 152,
+        "rarity_code": "L",
+        "set_code": "CONV",
+        "sides": [
+            "2ID",
+            "3ID",
+            "2Dr",
+            "2R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "scoundrel"
+        ],
+        "text": "After you play this support, you may search your deck for a <i>scoundrel</i>, reveal it, and add it to your hand. Shuffle your deck.\n[special] - Spot any number of <i>scoundrels</i> to deal that much damage to a character.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
@@ -3275,6 +3494,34 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09172",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Sonic Detonators",
+        "position": 172,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "2Dr",
+            "1Dc",
+            "2Dc",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After you play this upgrade, pleace 6 resources on it.\n[special] - Remove any number of resources from this upgrade to choose that many characters and deal 2 damage to each of them.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09173",
         "deck_limit": 1,
         "faction_code": "gray",
@@ -3310,6 +3557,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09175",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Fighting Pit",
+        "position": 175,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtitle": "Mimban",
+        "text": "<b>Power Action</b> - Reroll an opponent's character die. Reroll one of your character dice. Then deal damage to those characters equal to the value showing on the other character's die.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09176",
         "deck_limit": 1,
         "faction_code": "gray",
@@ -3325,6 +3589,23 @@
         "text": "<b>Claim</b> - Deal 1 indirect damage ([indirect]) to an opponent unless they give you 1 of their resources, or spot general Grievous to deal 1 damage to a character.",
         "type_code": "battlefield"
     },
+    {
+        "affiliation_code": "neutral",
+        "code": "09177",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Mean Streets",
+        "position": 177,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtitle": "Correlia",
+        "text": "<b>Claim</b> - You may spot a <i>scoundrel</i> to place 1 resource on this battlefield. You may play an event from your hand, decreasing its cost by the number of resources on this battlefield.",
+        "type_code": "battlefield"
+    }
     {
         "affiliation_code": "neutral",
         "code": "09178",
