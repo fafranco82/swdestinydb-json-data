@@ -2594,7 +2594,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
-        "flavor": "\"Don't you think I'm a little overqualified for this?\" <cite>Ahsoka Tano</cite>",
+        "flavor": "\"Don't you think I'm just a little overqualified for this?\" <cite>Ahsoka Tano</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": " ",
@@ -2968,7 +2968,7 @@
         "position": 128,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "Discard a random card from an opponent's hand.  If that opponent has no cards in hand, discard the top 3 cards of their deck.",
+        "text": "Discard a random card from an opponent's hand. If that opponent has no cards in hand, discard the top 3 cards of thier deck.",
         "type_code": "event"
     },
     {
@@ -3005,6 +3005,25 @@
         "rarity_code": "C",
         "set_code": "CONV",
         "text": "Play only if you control the battlefield.\nGain 2 actions.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09131",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "The wise man leads. The strong man follows.",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Squad Tactics",
+        "position": 131,
+        "rarity_code": "C",
+        "reprint_of": "01143",
+        "set_code": "CONV",
+        "text": "Activate any number of your non-unique characters at once.",
         "type_code": "event"
     },
     {
@@ -3374,7 +3393,7 @@
         "position": 148,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "If you have a die showing <em>(do all that apply)</em>:\n• Indirect ([indirect]) - Deal 1 indirect damage to an opponent.\n• Disrupt ([disrupt]) - Force a player to lose one resource\n• Resource ([resource]) - Gain one resource.",
+        "text": "If you have a die showing <em>(do all that apply)</em>:\n• Indirect ([indirect]) - Deal 1 indirect damage to an opponent.\n• Disrupt ([disrupt]) - Force a player to lose 1 resource.\n• Resource ([resource]) - Gain 1 resource.",
         "type_code": "event"
     },
     {
@@ -3483,7 +3502,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "yellow",
-        "flavor": "\"This was always a risk.  The Empire's been here on Akiva for years.\" <cite>Owerto Naiucho</cite>",
+        "flavor": "\"This was always a risk. The Empire's been here on Akiva for years.\" <cite>Owerto Naiucho</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Tony Foti",
@@ -3492,7 +3511,35 @@
         "position": 154,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "<b>Action</b> - Exhaust this support to gain one resource and gain 1 action.",
+        "text": "<b>Action</b> - Exhaust this support to gain 1 resource and gain 1 action.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "09155",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Starviper",
+        "position": 155,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "3ID",
+            "2Dc",
+            "2Sh",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "Ambush.\n[special] - Deal 3 damage to a character, or discard a <i>vehicle</i> that costs 3 or less from play.",
         "type_code": "support"
     },
     {
@@ -3554,11 +3601,39 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "09158",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Ordnance Launcher",
+        "position": 158,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "+1R",
+            "+2R",
+            "+3R",
+            "+1Dc",
+            "+2Sh",
+            "+1R"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Ambush. <em>(After you play this card, gain 1 action.)</em>\nAfter you resolve a <i>scoundrel</i> die, you may resolve this die as if it did not have a modifier.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "09159",
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "yellow",
-        "flavor": "\"He's holding a thermal detonator.\" <cite>C-3PO</cite>",
+        "flavor": "\"He's holding a thermal detonator!\" <cite>C-3PO</cite>",
         "has_die": true,
         "has_errata": false,
         "illustrator": "Jacob Atienza",
@@ -3578,7 +3653,7 @@
         "subtypes": [
             "ability"
         ],
-        "text": "<i>Scoundrel</i> character only\n[special] - Discard a random card from an opponent's hand or force an opponent to lose 1 resource.",
+        "text": "<i>Scoundrel</i> character only.\n[special] - Discard a random card from an opponent's hand or force an opponent to lose 1 resource.",
         "type_code": "upgrade"
     },
     {
@@ -3672,6 +3747,7 @@
         "name": "Dodge",
         "position": 164,
         "rarity_code": "C",
+        "reprint_of": "01155",
         "set_code": "CONV",
         "text": "Remove all of an opponent's dice showing ranged damage ([ranged]).",
         "type_code": "event"
@@ -3795,16 +3871,16 @@
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "Alexander Kozachenko",
+        "illustrator": " ",
         "is_unique": false,
         "name": "Protective Suit",
         "position": 170,
-        "rarity_code": "R",
+        "rarity_code": "U",
         "set_code": "CONV",
         "subtypes": [
             "equipment"
         ],
-        "text": "Non-<i>bounty</i> downgrades cannot be played on attached character./n<b>Action</b> - return this upgrade from play to your hand.",
+        "text": "Non-<i>bounty</i> downgrades cannot be played on attached character.\n<b>Action</b> - Return this upgrade from play to your hand.",
         "type_code": "upgrade"
     },
     {
@@ -3873,7 +3949,7 @@
         "illustrator": " ",
         "is_unique": false,
         "name": "Command Center",
-        "position": 174,
+        "position": 173,
         "rarity_code": "U",
         "reprint_of": "01165",
         "set_code": "CONV",
