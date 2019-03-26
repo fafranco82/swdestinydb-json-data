@@ -1563,6 +1563,25 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "09066",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "is_unique": false,
+        "name": "Uneti Force Tree",
+        "position": 66,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtypes": [
+            "location"
+        ],
+        "text": "<b>Action</b> - Exhaust this support to choose another player. You and that player each draw a card.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "09067",
         "cost": 2,
         "deck_limit": 2,
@@ -1815,8 +1834,28 @@
         "subtypes": [
             "leader"
         ],
-        "text": "You may resolve your dice showing a focus ([focus]) as if they where indirect damage ([indirect]).",
+        "text": "You may resolve your dice showing a focus ([focus]) as if they were indirect damage ([indirect]).",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09076",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Target Acquired",
+        "position": 76,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "subtypes": [
+            "intel"
+        ],
+        "text": "Damaged character only.\nIndirect damage ([indirect]) assigned by attached character's controler must be assigned to attached character, if able.",
+        "type_code": "downgrade"
     },
     {
         "affiliation_code": "hero",
@@ -1870,6 +1909,40 @@
         "rarity_code": "U",
         "set_code": "CONV",
         "text": "Defeat one of your characters to remove up to 2 dice showing damage ([ranged], [melee], or [indirect]).",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09080",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Power Surge",
+        "position": 80,
+        "rarity_code": "U",
+        "set_code": "CONV",
+        "text": "Resolve one of your dice showing damage ([ranged], [melee], or [indirect]), doubling its value, to a maximum value of 6.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09081",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Unfetter",
+        "position": 81,
+        "rarity_code": "C",
+        "set_code": "CONV",
+        "text": "Ready a Red character that has no cards attached to it.",
         "type_code": "event"
     },
     {
@@ -1975,6 +2048,64 @@
         ],
         "text": "After you activate this support, you may give a <i>leader</i> character 1 shield. If that <i>leader</i> is Padmé Amidala, activate her.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09086",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"So, who's ready to blast some droids?\" <cite>Clone Trooper 99</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Overkill",
+        "position": 86,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "+1RD",
+            "+2RD",
+            "+3RD",
+            "+3RD",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09087",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": " ",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Resistance Ring",
+        "position": 87,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "1F",
+            "1Sh",
+            "+1R",
+            "+1R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "After you play this upgrade, discard the top card of a deck.\n[special] - Play a Red event from any discard pile as if it were yours <i>(paying its cost)</i>, then set that event aside.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
@@ -2252,6 +2383,34 @@
         "rarity_code": "U",
         "set_code": "CONV",
         "text": "After a player activates a character, if 2 or more of that character's character or upgrade dice are showing damage ([ranged], [melee], or [indirect]), discard this support from play to deal 3 indirect damage ([indirect]) to that player.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "09101",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Rebel Cache",
+        "position": 101,
+        "rarity_code": "R",
+        "set_code": "CONV",
+        "sides": [
+            "+2RD",
+            "+3RD",
+            "2R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "location"
+        ],
+        "text": "After you roll one or more dice showing a resource ([resource}), you may place 1 resource on this support.\n[special] - Take up to 2 resources from this support, or 3 resources instead if you spot a <i>scoundrel</i>.",
         "type_code": "support"
     },
     {
@@ -2944,7 +3103,7 @@
             "weapon"
         ],
         "text": "Redeploy.",
-        "type_code": "support"
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",
