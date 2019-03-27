@@ -3936,7 +3936,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "After you play this upgrade, pleace 6 resources on it.\n[special] - Remove any number of resources from this upgrade to choose that many characters and deal 2 damage to each of them.",
+        "text": "After you play this upgrade, place 6 resources on it.\n[special] - Remove any number of resources from this upgrade to choose that many characters and deal 2 damage to each of them.",
         "type_code": "upgrade"
     },
     {
