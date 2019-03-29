@@ -288,7 +288,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "After you activate Palpatine, you may activate this support.\n[special] - Discard this support from play to deal 4 indirect damage ([Indirect]) to an opponent.",
+        "text": "After you activate Palpatine, you may activate this support.\n[special] - Discard this support from play to deal 4 indirect damage ([indirect]) to an opponent.",
         "type_code": "support"
     },
     {
