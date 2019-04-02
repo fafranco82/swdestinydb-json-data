@@ -1854,7 +1854,7 @@
         "subtypes": [
             "intel"
         ],
-        "text": "Damaged character only.\nIndirect damage ([indirect]) assigned by attached character's controler must be assigned to attached character, if able.",
+        "text": "Damaged character only.\nIndirect damage ([indirect]) assigned by attached character's controller must be assigned to attached character, if able.",
         "type_code": "downgrade"
     },
     {
