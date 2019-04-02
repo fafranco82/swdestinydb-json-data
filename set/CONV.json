@@ -3283,7 +3283,7 @@
             "scavenger",
             "scoundrel"
         ],
-        "text": "You can include up to 1 villain cards and up to 1 hero cards in your deck <em>(following other deckbuilding restrictions)</em>.\nAfter you resolve this die showing a cost, you may deal 1 indirect ([indirect]) damage to an opponent.",
+        "text": "You can include up to 1 villain card and up to 1 hero card in your deck <em>(following other deckbuilding restrictions)</em>.\nAfter you resolve this die showing a cost, you may deal 1 indirect ([indirect]) damage to an opponent.",
         "type_code": "character"
     },
     {
@@ -3460,7 +3460,7 @@
         "has_die": true,
         "has_errata": false,
         "illustrator": " ",
-        "is_unique": true,
+        "is_unique": false,
         "name": "Entourage",
         "position": 152,
         "rarity_code": "L",
