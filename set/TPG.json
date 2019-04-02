@@ -5,7 +5,7 @@
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "Mike Nash",
         "is_unique": true,
@@ -23,6 +23,9 @@
             "-"
         ],
         "subtitle": "Tormented One",
+        "subtypes": [
+            "apprentice"
+        ],
         "text": "After you activate this character, you may choose a color <em>(Blue, Red, Yellow or Gray)</em>. Then reveal a random card in an opponent's hand. If that card matches the chosen color, deal 2 damage to a character.",
         "ttscardid": "100",
         "type_code": "character"
@@ -34,7 +37,7 @@
         "faction_code": "red",
         "flavor": "\"You can't be so stupid as to think this will be easy.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Leonid Kozienko",
         "is_unique": true,
@@ -52,6 +55,10 @@
             "-"
         ],
         "subtitle": "Ruthless Tactician",
+        "subtypes": [
+            "leader",
+            "trooper"
+        ],
         "text": "[special] - Deal 2 damage to a character, or 3 damage instead if that character has 6 or more damage on it.",
         "ttscardid": "101",
         "type_code": "character"
@@ -516,7 +523,7 @@
         "faction_code": "blue",
         "flavor": "\"The Force, it's calling you.\" <cite>Maz Kanata</cite>",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Jake Murray",
         "is_unique": true,
@@ -534,6 +541,9 @@
             "-"
         ],
         "subtitle": "Finding The Ways",
+        "subtypes": [
+            "apprentice"
+        ],
         "text": "After you activate this character, if she has 1 or more shields, you may deal 1 damage to a character.",
         "ttscardid": "123",
         "type_code": "character"
@@ -545,7 +555,7 @@
         "faction_code": "red",
         "flavor": "\"The Resistance will not be intimidated by you.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Carmen Sinek",
         "is_unique": true,
@@ -563,6 +573,10 @@
             "-"
         ],
         "subtitle": "More Than A Pilot",
+        "subtypes": [
+            "leader",
+            "pilot"
+        ],
         "text": "[special] - Give a character 1 shield. You may turn another die to any side.",
         "ttscardid": "124",
         "type_code": "character"

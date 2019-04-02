@@ -5,7 +5,7 @@
         "deck_limit": 3,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 8,
         "illustrator": "Tony Foti",
         "is_unique": false,
@@ -22,6 +22,9 @@
             "Sp",
             "-"
         ],
+        "subtypes": [
+            "advisor"
+        ],
         "text": "[special] - Draw 3 cards. Then place a card from your hand on the top or bottom of your deck.",
         "ttscardid": "47100",
         "type_code": "character"
@@ -33,7 +36,7 @@
         "faction_code": "blue",
         "flavor": "\"Formerly Darth, now just Maul.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -51,6 +54,10 @@
             "-"
         ],
         "subtitle": "Vengeful One",
+        "subtypes": [
+            "scavenger",
+            "sith"
+        ],
         "text": "After one or more of this character's character or upgrade dice are removed by an opponent's card effect, you may remove one of their dice.",
         "ttscardid": "47101",
         "type_code": "character"
@@ -273,7 +280,7 @@
         "faction_code": "red",
         "flavor": "\"Face me!\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "Audrey Hotte",
         "is_unique": true,
@@ -291,6 +298,10 @@
             "-"
         ],
         "subtitle": "Agent of the Empire",
+        "subtypes": [
+            "leader",
+            "trooper"
+        ],
         "text": "<b>Power Action</b> - Turn this die showing ranged damage ([ranged]) to a side showing melee damage ([melee]), or vice versa.",
         "ttscardid": "47109",
         "type_code": "character"
@@ -514,7 +525,7 @@
         "faction_code": "yellow",
         "flavor": "\"Nudd Chaa.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "Tiziano Baracchi",
         "is_unique": true,
@@ -532,6 +543,9 @@
             "-"
         ],
         "subtitle": "Majordomo",
+        "subtypes": [
+            "advisor"
+        ],
         "text": "[special] - Roll a character die on one of your other characters into your pool.",
         "ttscardid": "47117",
         "type_code": "character"
@@ -902,7 +916,7 @@
         "faction_code": "blue",
         "flavor": "\"I want to learn the ways of the Force and become a Jedi like my father.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -920,6 +934,9 @@
             "-"
         ],
         "subtitle": "Unlikely Hero",
+        "subtypes": [
+            "apprentice"
+        ],
         "text": "<b>Power Action</b> - Spend 2 resources to resolve one of this character's character or upgrade dice, increasing its value by 2.",
         "ttscardid": "47130",
         "type_code": "character"
@@ -1175,7 +1192,7 @@
         "faction_code": "red",
         "flavor": "\"I work behind pipes all day.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "Tony Foti",
         "is_unique": true,
@@ -1193,6 +1210,9 @@
             "-"
         ],
         "subtitle": "Skilled Mechanic",
+        "subtypes": [
+            "engineer"
+        ],
         "text": "[special] - Gain 1 resource. You may remove 1 damage from a support.",
         "ttscardid": "47139",
         "type_code": "character"

@@ -6,7 +6,7 @@
         "faction_code": "red",
         "flavor": "Krennic's personal guard, they defend their commander with extreme prejudice.",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Darren Tan",
         "is_unique": false,
@@ -23,6 +23,9 @@
             "1Dr",
             "-"
         ],
+        "subtypes": [
+            "trooper"
+        ],
         "ttscardid": "2200",
         "type_code": "character"
     },
@@ -33,7 +36,7 @@
         "faction_code": "red",
         "flavor": "\"Traitor!\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Audrey Hotte",
         "is_unique": true,
@@ -51,6 +54,9 @@
             "-"
         ],
         "subtitle": "Loyal Trooper",
+        "subtypes": [
+            "trooper"
+        ],
         "text": "After you play a <i>weapon</i> on this character, roll that <i>weapon</i> die, if able. You may immediately resolve it.",
         "ttscardid": "2201",
         "type_code": "character"
@@ -61,7 +67,7 @@
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -79,6 +85,9 @@
             "-"
         ],
         "subtitle": "Cruel but Brilliant",
+        "subtypes": [
+            "leader"
+        ],
         "text": "After you activate this character, if you control the battlefield, roll a Death Trooper ([SoR]1) die into your pool. Set aside that die after it is resolved or removed.",
         "ttscardid": "2202",
         "type_code": "character"
@@ -90,7 +99,7 @@
         "faction_code": "red",
         "flavor": "\"I can't shake him!\" <cite>Biggs Darklighter</cite>",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 7,
         "illustrator": "Nicholas Stohlman",
         "is_unique": false,
@@ -106,6 +115,9 @@
             "1F",
             "1R",
             "-"
+        ],
+        "subtypes": [
+            "pilot"
         ],
         "text": "While this die is in your pool, your other dice showing ranged damage ([ranged]) cannot be removed by an opponent.",
         "ttscardid": "2203",
@@ -231,7 +243,7 @@
         "faction_code": "blue",
         "flavor": "\"Your weakness will not be my downfall!\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "Audrey Hotte",
         "is_unique": true,
@@ -249,6 +261,9 @@
             "-"
         ],
         "subtitle": "Force Assassin",
+        "subtypes": [
+            "apprentice"
+        ],
         "text": "After an opponent discards a card from their hand to reroll dice, you may force them to choose and discard another card from their hand.",
         "ttscardid": "2208",
         "type_code": "character"
@@ -260,7 +275,7 @@
         "faction_code": "blue",
         "flavor": "\"You understimate my power.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Ryan Valle",
         "is_unique": true,
@@ -278,6 +293,10 @@
             "-"
         ],
         "subtitle": "Dark Apprentice",
+        "subtypes": [
+            "apprentice",
+            "sith"
+        ],
         "text": "[special] - Deal 3 damage to a character. Then deal 1 damage to this character.",
         "ttscardid": "2209",
         "type_code": "character"
@@ -289,7 +308,7 @@
         "faction_code": "blue",
         "flavor": "\"Everything is proceeding as I have foreseen.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 15,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -307,6 +326,10 @@
             "-"
         ],
         "subtitle": "Galactic Emperor",
+        "subtypes": [
+            "leader",
+            "sith"
+        ],
         "text": "After you resolve this die, force an opponent to deal 2 damage to their characters, distributed as they wish.",
         "ttscardid": "2210",
         "type_code": "character"
@@ -317,7 +340,7 @@
         "deck_limit": 3,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 8,
         "illustrator": "Ben Zweifel",
         "is_unique": false,
@@ -333,6 +356,9 @@
             "1Sh",
             "1Sh",
             "-"
+        ],
+        "subtypes": [
+            "guard"
         ],
         "text": "Guardian.\nYou cannot play Blue <i>abilities</i> on this character.",
         "ttscardid": "2211",
@@ -487,7 +513,7 @@
         "faction_code": "yellow",
         "flavor": "\"Well, what do we have here?\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Kate Laird",
         "is_unique": true,
@@ -505,6 +531,9 @@
             "-"
         ],
         "subtitle": "Deadly Shot",
+        "subtypes": [
+            "bounty-hunter"
+        ],
         "text": "Before you resolve this die, you may discard a card from your hand you increase its value by 1.",
         "ttscardid": "2217",
         "type_code": "character"
@@ -515,7 +544,7 @@
         "deck_limit": 3,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "Jacob Atienza",
         "is_unique": false,
@@ -532,6 +561,9 @@
             "+1R",
             "-"
         ],
+        "subtypes": [
+            "scoundrel"
+        ],
         "text": "<b>Action</b> - Remove this die to remove 1 shield from a character.",
         "ttscardid": "2218",
         "type_code": "character"
@@ -542,7 +574,7 @@
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "Ryan Valle",
         "is_unique": true,
@@ -560,6 +592,10 @@
             "-"
         ],
         "subtitle": "Assassin Droid",
+        "subtypes": [
+            "bounty-hunter",
+            "droid"
+        ],
         "text": "[special] - Play a Yellow <i>weapon</i> or <i>equipment</i> from your discard pile on this character, decreasing its cost by 2.",
         "ttscardid": "2219",
         "type_code": "character"
@@ -570,7 +606,7 @@
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Sam Lamont",
         "is_unique": true,
@@ -588,6 +624,9 @@
             "-"
         ],
         "subtitle": "Junk Dealer",
+        "subtypes": [
+            "scavenger"
+        ],
         "text": "<b>Action</b> - Remove any number of your dice showing a combined value of 3 or more. Then discard a random card from an opponent's hand and gain resources equal to its cost.",
         "ttscardid": "2220",
         "type_code": "character"
@@ -711,7 +750,7 @@
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Ryan Valle",
         "is_unique": true,
@@ -729,6 +768,9 @@
             "-"
         ],
         "subtitle": "Crack Shot",
+        "subtypes": [
+            "guard"
+        ],
         "text": "[special] - Deal 1 damage to each of an opponent's characters.",
         "ttscardid": "2225",
         "type_code": "character"
@@ -739,7 +781,7 @@
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "Tony Foti",
         "is_unique": true,
@@ -757,6 +799,9 @@
             "-"
         ],
         "subtitle": "Skilled Politician",
+        "subtypes": [
+            "leader"
+        ],
         "text": "After you play an event, you may reroll a die of the same color as that event.",
         "ttscardid": "2226",
         "type_code": "character"
@@ -767,7 +812,7 @@
         "deck_limit": 3,
         "faction_code": "red",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Arden Beckwith",
         "is_unique": false,
@@ -784,6 +829,9 @@
             "Sp1",
             "-"
         ],
+        "subtypes": [
+            "trooper"
+        ],
         "text": "[special] - Remove an opponent's die.",
         "ttscardid": "2227",
         "type_code": "character"
@@ -795,7 +843,7 @@
         "faction_code": "red",
         "flavor": "\"Watch out for ground fire!\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 8,
         "illustrator": "Tiziano Baracchi",
         "is_unique": true,
@@ -813,6 +861,9 @@
             "-"
         ],
         "subtitle": "Recon Specialist",
+        "subtypes": [
+            "pilot"
+        ],
         "text": "While at least one of this die is in your pool, your opponent must spend 1 resource in order to claim the battlefield.",
         "ttscardid": "2228",
         "type_code": "character"
@@ -940,7 +991,7 @@
         "deck_limit": 3,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 7,
         "is_unique": false,
         "name": "Jedi Acolyte",
@@ -956,6 +1007,9 @@
             "1R",
             "-"
         ],
+        "subtypes": [
+            "apprentice"
+        ],
         "text": "Before you resolve this die, increase its value by 1, if it is showing the same symbol as one of your other dice.",
         "ttscardid": "2233",
         "type_code": "character"
@@ -966,7 +1020,7 @@
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -984,6 +1038,9 @@
             "-"
         ],
         "subtitle": "Blind Warrior",
+        "subtypes": [
+            "guard"
+        ],
         "text": "You cannot play Blue <i>abilities</i> on this character.\nAfter you activate this character, you may reroll all of your dice showing blanks ([blank]).",
         "ttscardid": "2234",
         "type_code": "character"
@@ -995,7 +1052,7 @@
         "faction_code": "blue",
         "flavor": "\"Synchronize on my mark.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Kate Laird",
         "is_unique": true,
@@ -1013,6 +1070,10 @@
             "-"
         ],
         "subtitle": "Inspiring Commander",
+        "subtypes": [
+            "jedi",
+            "leader"
+        ],
         "text": "[special] - Resolve one of your character dice, increasing its value by 2, or by 3 instead if it is a non-unique character die.",
         "ttscardid": "2235",
         "type_code": "character"
@@ -1024,7 +1085,7 @@
         "faction_code": "blue",
         "flavor": "\"Stretch out with your feelings.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Aaron Miller",
         "is_unique": true,
@@ -1042,6 +1103,9 @@
             "-"
         ],
         "subtitle": "Mysterious Hermit",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "Guardian.\nBefore this character is defeated, you may play a Blue card from your hand or discard pile for free.",
         "ttscardid": "2236",
         "type_code": "character"
@@ -1196,7 +1260,7 @@
         "faction_code": "yellow",
         "flavor": "Rroooaarrgghh!",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "Tony Foti",
         "is_unique": true,
@@ -1214,6 +1278,10 @@
             "-"
         ],
         "subtitle": "Loyal Friend",
+        "subtypes": [
+            "wookiee",
+            "scoundrel"
+        ],
         "text": "[special] - Turn a opponent's die to a side showing damage ([ranged] or [melee]) to deal that damage to a character.",
         "ttscardid": "2242",
         "type_code": "character"
@@ -1224,7 +1292,7 @@
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Ryan Valle",
         "is_unique": true,
@@ -1242,6 +1310,9 @@
             "-"
         ],
         "subtitle": "Reckless Operative",
+        "subtypes": [
+            "scoundrel"
+        ],
         "text": "The cost of the first Yellow event you play each round is decreased by 1.",
         "ttscardid": "2243",
         "type_code": "character"
@@ -1253,7 +1324,7 @@
         "faction_code": "yellow",
         "flavor": "If you live long enough, you see the same eyes in different people.",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 8,
         "illustrator": "Joel Hustak",
         "is_unique": true,
@@ -1271,6 +1342,9 @@
             "-"
         ],
         "subtitle": "Pirate Queen",
+        "subtypes": [
+            "scoundrel"
+        ],
         "text": "After you activate this character, you may resolve up to 2 of your dice.",
         "ttscardid": "2244",
         "type_code": "character"
@@ -1296,6 +1370,9 @@
             "1Dc",
             "1R",
             "-"
+        ],
+        "subtypes": [
+            "scoundrel"
         ],
         "text": "The first time each round you play the last card from your hand, gain 1 resource.",
         "ttscardid": "2245",

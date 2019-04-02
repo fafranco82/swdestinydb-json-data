@@ -6,7 +6,7 @@
         "faction_code": "red",
         "flavor": "\"Whatever you're planning, it won't work.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -24,6 +24,10 @@
             "-"
         ],
         "subtitle": "Elite Trooper",
+        "subtypes": [
+            "leader",
+            "trooper"
+        ],
         "text": "Your non-unique characters have the Guardian keyword.",
         "ttscardid": "1300",
         "type_code": "character"
@@ -35,7 +39,7 @@
         "faction_code": "red",
         "flavor": "Members of this new generation of stormtroopers are trained from birth and fed a steady diet of First Order propaganda to ensure absolute loyalty.",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 7,
         "is_unique": false,
         "name": "First Order Stormtrooper",
@@ -51,6 +55,9 @@
             "-",
             "-"
         ],
+        "subtypes": [
+            "trooper"
+        ],
         "ttscardid": "1301",
         "type_code": "character"
     },
@@ -60,7 +67,7 @@
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Romana Kendelic",
         "is_unique": true,
@@ -78,6 +85,9 @@
             "-"
         ],
         "subtitle": "Jedi Hunter",
+        "subtypes": [
+            "leader"
+        ],
         "text": "Before an opponent's character is defeated, you may move one of their non-<i>ability</i> upgrades to this character.",
         "ttscardid": "1302",
         "type_code": "character"
@@ -89,7 +99,7 @@
         "faction_code": "red",
         "flavor": "\"General, prepare your troops for a surface attack.\" <cite>Darth Vader</cite>",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "Jake Murray",
         "is_unique": true,
@@ -107,6 +117,9 @@
             "-"
         ],
         "subtitle": "Field Commander",
+        "subtypes": [
+            "leader"
+        ],
         "text": "<b>Action</b> - Remove this die to turn one of your support dice to any side.",
         "ttscardid": "1303",
         "type_code": "character"
@@ -233,7 +246,7 @@
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Kate Laird",
         "is_unique": true,
@@ -251,6 +264,9 @@
             "-"
         ],
         "subtitle": "Devious Strategist",
+        "subtypes": [
+            "sith"
+        ],
         "text": "Before this character is dealt 1 or more damage, you may discard a card from your hand to give him 1 shield.",
         "ttscardid": "1308",
         "type_code": "character"
@@ -262,7 +278,7 @@
         "faction_code": "blue",
         "flavor": "\"If you will not fight, then you will meet your destiny.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 13,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -280,6 +296,9 @@
             "-"
         ],
         "subtitle": "Sith Lord",
+        "subtypes": [
+            "sith"
+        ],
         "text": "After you activate this character you may force an opponent to choose and discard a card from their hand.",
         "ttscardid": "1309",
         "type_code": "character"
@@ -290,7 +309,7 @@
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -308,6 +327,9 @@
             "-"
         ],
         "subtitle": "Vader's Disciple",
+        "subtypes": [
+            "apprentice"
+        ],
         "text": "[special] - Choose an opponent's character. Then look at a random card in that opponent's hand and deal damage to that character equal to the cost of the card you just looked at.",
         "ttscardid": "1310",
         "type_code": "character"
@@ -319,7 +341,7 @@
         "faction_code": "blue",
         "flavor": "Nightsisters are skilled at twisting the Force to serve their own ends.",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 7,
         "illustrator": "Johannes Holm",
         "is_unique": false,
@@ -335,6 +357,9 @@
             "1Dc",
             "1R",
             "-"
+        ],
+        "subtypes": [
+            "witch"
         ],
         "text": "<b>Action</b> - Reroll a die. Deal 1 damage to this character.",
         "ttscardid": "1311",
@@ -519,7 +544,7 @@
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 8,
         "illustrator": "Kate Laird",
         "is_unique": true,
@@ -537,6 +562,10 @@
             "-"
         ],
         "subtitle": "Gang Leader",
+        "subtypes": [
+            "leader",
+            "scoundrel"
+        ],
         "text": "After an opponent's character is defeated, you may ready this character.",
         "ttscardid": "1318",
         "type_code": "character"
@@ -548,7 +577,7 @@
         "faction_code": "yellow",
         "flavor": "\"I shall enjoy watching you die.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Mike Nash",
         "is_unique": true,
@@ -566,6 +595,10 @@
             "-"
         ],
         "subtitle": "The Great and Mighty",
+        "subtypes": [
+            "leader",
+            "scoundrel"
+        ],
         "text": "After you activate this character, you may reroll a Yellow die.",
         "ttscardid": "1319",
         "type_code": "character"
@@ -577,7 +610,7 @@
         "faction_code": "yellow",
         "flavor": "\"There can be no mistakes this time.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Adam Lane",
         "is_unique": true,
@@ -595,6 +628,9 @@
             "-"
         ],
         "subtitle": "Lethal Mercenary",
+        "subtypes": [
+            "bounty-hunter"
+        ],
         "text": "After an opponent activates a character, you may activate this character.",
         "ttscardid": "1320",
         "type_code": "character"
@@ -605,7 +641,7 @@
         "deck_limit": 3,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 8,
         "is_unique": false,
         "name": "Tusken Raider",
@@ -620,6 +656,9 @@
             "1Sh",
             "1R",
             "-"
+        ],
+        "subtypes": [
+            "scavenger"
         ],
         "text": "After you activate this character, you may discard a card from your hand to resolve one of its character or upgrade dice.",
         "ttscardid": "1321",
@@ -747,7 +786,7 @@
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "Andrew Olson",
         "is_unique": true,
@@ -765,6 +804,9 @@
             "-"
         ],
         "subtitle": "Perceptive Tactician",
+        "subtypes": [
+            "leader"
+        ],
         "text": "After an opponent plays or discards the last card from their hand, they choose and deal 2 damage to one of their characters.",
         "ttscardid": "1326",
         "type_code": "character"
@@ -776,7 +818,7 @@
         "faction_code": "red",
         "flavor": "\"Someone has to save our skins.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Ryan Valle",
         "is_unique": true,
@@ -794,6 +836,9 @@
             "-"
         ],
         "subtitle": "Born Leader",
+        "subtypes": [
+            "leader"
+        ],
         "text": "<b>Action</b> - Remove this die to reroll up to 2 of your dice.",
         "ttscardid": "1327",
         "type_code": "character"
@@ -804,7 +849,7 @@
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "Tony Foti",
         "is_unique": true,
@@ -822,6 +867,9 @@
             "-"
         ],
         "subtitle": "Ace Pilot",
+        "subtypes": [
+            "pilot"
+        ],
         "text": "[special] - Discard a card from your hand to resolve one of the sides of its die, if able. Then, if it was a <b>vehicle</b> card, you may pay its cost to play it from your discard pile.",
         "ttscardid": "1328",
         "type_code": "character"
@@ -832,7 +880,7 @@
         "deck_limit": 3,
         "faction_code": "red",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 7,
         "illustrator": "Leonid Kozienko",
         "is_unique": false,
@@ -848,6 +896,9 @@
             "1Sh",
             "1R",
             "-"
+        ],
+        "subtypes": [
+            "trooper"
         ],
         "text": "Guardian.",
         "ttscardid": "1329",
@@ -974,7 +1025,7 @@
         "faction_code": "blue",
         "flavor": "\"I am a Jedi, like my father before me.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -992,6 +1043,9 @@
             "-"
         ],
         "subtitle": "Jedi Knight",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "After you activate this character, draw a card.",
         "ttscardid": "1334",
         "type_code": "character"
@@ -1002,7 +1056,7 @@
         "deck_limit": 3,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 7,
         "is_unique": false,
         "name": "Padawan",
@@ -1018,6 +1072,9 @@
             "1R",
             "-"
         ],
+        "subtypes": [
+            "apprentice"
+        ],
         "text": "While this character does not have an upgrade, the cost to attach a <i>weapon</i> to it is decreased by 1.",
         "ttscardid": "1335",
         "type_code": "character"
@@ -1029,7 +1086,7 @@
         "faction_code": "blue",
         "flavor": "\"Your focus determines your reality.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Tony Foti",
         "is_unique": true,
@@ -1047,6 +1104,9 @@
             "-"
         ],
         "subtitle": "Ataru Master",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "Before this character gains 1 or more shields, you may remove 1 of his shields to deal 1 damage to a character.",
         "ttscardid": "1336",
         "type_code": "character"
@@ -1058,7 +1118,7 @@
         "faction_code": "blue",
         "flavor": "\"I think I can handle myself.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -1076,6 +1136,9 @@
             "-"
         ],
         "subtitle": "Force Prodigy",
+        "subtypes": [
+            "scavenger"
+        ],
         "text": "After you play an upgrade on this character, you may take one additional action.",
         "ttscardid": "1337",
         "type_code": "character"
@@ -1258,7 +1321,7 @@
         "faction_code": "yellow",
         "flavor": "\"I'm not going back.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -1276,6 +1339,9 @@
             "-"
         ],
         "subtitle": "First Order Defector",
+        "subtypes": [
+            "scoundrel"
+        ],
         "text": "You can attach any <i>weapon</i> to this character, ignoring play restrictions.\nYou can include Red Villain <i>weapons</i> and <i>vehicles</i> in your deck.",
         "ttscardid": "1344",
         "type_code": "character"
@@ -1287,7 +1353,7 @@
         "faction_code": "yellow",
         "flavor": "\"You know, sometimes I amaze even myself.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "is_unique": true,
         "name": "Han Solo",
@@ -1304,6 +1370,9 @@
             "-"
         ],
         "subtitle": "Scoundrel",
+        "subtypes": [
+            "scoundrel"
+        ],
         "text": "After you play a card with the Ambush keyword, you may give this character 1 shield.",
         "ttscardid": "1345",
         "type_code": "character"
@@ -1315,7 +1384,7 @@
         "faction_code": "yellow",
         "flavor": "\"You needn't worry about your reward. If money is all that you love, then that's what you'll receive.\" <cite>Leia Organa</cite>",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "David Kegg",
         "is_unique": false,
@@ -1331,6 +1400,9 @@
             "1R",
             "1R",
             "-"
+        ],
+        "subtypes": [
+            "scoundrel"
         ],
         "ttscardid": "1346",
         "type_code": "character"
@@ -1360,6 +1432,9 @@
             "-"
         ],
         "subtitle": "Queen of Naboo",
+        "subtypes": [
+            "leader"
+        ],
         "text": "[special] - Discard the top card of an opponent's deck or spend 1 resource to discard the top 2 cards of an opponent's deck.",
         "ttscardid": "1347",
         "type_code": "character"

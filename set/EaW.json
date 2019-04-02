@@ -24,6 +24,9 @@
             "-"
         ],
         "subtitle": "Adept Pilot",
+        "subtypes": [
+            "pilot"
+        ],
         "text": "<b>Power Action</b> - Spend 2 resources to ready a <i>vehicle</i>.",
         "ttscardid": "2500",
         "type_code": "character"
@@ -35,7 +38,7 @@
         "faction_code": "red",
         "flavor": "\"All remaining systems will bow to the First Order!\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -53,6 +56,9 @@
             "-"
         ],
         "subtitle": "Aspiring Commander",
+        "subtypes": [
+            "leader"
+        ],
         "text": "[special] - Play a Red event from your hand, decreasing its cost by 1 for each character you have.",
         "ttscardid": "2501",
         "type_code": "character"
@@ -64,7 +70,7 @@
         "faction_code": "red",
         "flavor": "The IG-100 MagnaGuard droid could withstand massive damage before total system failure.",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 8,
         "illustrator": "Joel Hustak",
         "is_unique": false,
@@ -81,6 +87,10 @@
             "1R",
             "-"
         ],
+        "subtypes": [
+            "droid",
+            "guard"
+        ],
         "text": "Before this character would be defeated by damage, instead defeat it after this round ends.",
         "ttscardid": "2502",
         "type_code": "character"
@@ -92,7 +102,7 @@
         "faction_code": "red",
         "flavor": "\"I study the art of war.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -110,6 +120,9 @@
             "-"
         ],
         "subtitle": "Master Strategist",
+        "subtypes": [
+            "leader"
+        ],
         "text": "After you activate this character, you may choose a number. Then look at an opponent's hand and discard a card from it that costs the chosen number.",
         "ttscardid": "2503",
         "type_code": "character"
@@ -210,7 +223,7 @@
         "faction_code": "blue",
         "flavor": "\"Are you finished messing around?\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Ryan Valle",
         "is_unique": true,
@@ -228,6 +241,9 @@
             "-"
         ],
         "subtitle": "Dark Disciple",
+        "subtypes": [
+            "apprentice"
+        ],
         "text": "[special] - Deal damage to an opponent's character equal to the number of cards in your hand more than the number of cards in that opponent's hand.",
         "ttscardid": "2507",
         "type_code": "character"
@@ -238,7 +254,7 @@
         "deck_limit": 3,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 7,
         "illustrator": "Matthew Starbuck",
         "is_unique": false,
@@ -255,6 +271,9 @@
             "1R",
             "-"
         ],
+        "subtypes": [
+            "scavenger"
+        ],
         "text": "Before one of your other Blue characters is defeated, you may move an upgrade from it to this character <em>(return that upgrade's die to its card)</em>.",
         "ttscardid": "2508",
         "type_code": "character"
@@ -265,7 +284,7 @@
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Nasrul Hakim",
         "is_unique": true,
@@ -283,6 +302,9 @@
             "-"
         ],
         "subtitle": "Agile Inquisitor",
+        "subtypes": [
+            "inquisitor"
+        ],
         "text": "After you activate this character, you may roll an ID9 Seeker Droid ([EaW]13) die into your pool <em>(its X value is equal to the number of ID9 Seeker Droid dice in your pool)</em>. Set aside that die after it is resolved or removed.",
         "ttscardid": "2509",
         "type_code": "character"
@@ -294,7 +316,7 @@
         "faction_code": "blue",
         "flavor": "\"At last, a fight that might be worthy of my time.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "Victor A. Minguez",
         "is_unique": true,
@@ -312,6 +334,9 @@
             "-"
         ],
         "subtitle": "Sith Loyalist",
+        "subtypes": [
+            "inquisitor"
+        ],
         "text": "[special] - Remove a character die showing a blank ([blank]). Then deal 2 damage to that character.",
         "ttscardid": "2510",
         "type_code": "character"
@@ -441,7 +466,7 @@
         "faction_code": "yellow",
         "flavor": "\"Inform the First Order… I've found the droid.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 8,
         "illustrator": "Audrey Hotte",
         "is_unique": true,
@@ -459,6 +484,9 @@
             "-"
         ],
         "subtitle": "Master Manipulator",
+        "subtypes": [
+            "advisor"
+        ],
         "text": "[special] - Deal 1 damage to a character, or 3 damage instead if that character has no damage on it.",
         "ttscardid": "2515",
         "type_code": "character"
@@ -469,7 +497,7 @@
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "David Auden Nash",
         "is_unique": true,
@@ -487,6 +515,9 @@
             "-"
         ],
         "subtitle": "Wookiee Slayer",
+        "subtypes": [
+            "bounty-hunter"
+        ],
         "text": "After you activate this character, you may move 1 damage from an opponent's character to another character <em>(this ignores shields)</em>.",
         "ttscardid": "2516",
         "type_code": "character"
@@ -498,7 +529,7 @@
         "faction_code": "yellow",
         "flavor": "\"I'll take on any job… for the right price.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "Tony Foti",
         "is_unique": true,
@@ -516,6 +547,9 @@
             "-"
         ],
         "subtitle": "Vicious Mercenary",
+        "subtypes": [
+            "bounty-hunter"
+        ],
         "text": "<b>Action</b> - Play an upgrade from your hand on this character <em>(paying its cost)</em>. Then you may activate him.",
         "ttscardid": "2517",
         "type_code": "character"
@@ -526,7 +560,7 @@
         "deck_limit": 3,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Francisco Rico",
         "is_unique": false,
@@ -542,6 +576,9 @@
             "1Dr",
             "-",
             "-"
+        ],
+        "subtypes": [
+            "guard"
         ],
         "text": "Guardian.",
         "ttscardid": "2518",
@@ -670,7 +707,7 @@
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Jeff Lee Johnson",
         "is_unique": true,
@@ -688,6 +725,9 @@
             "-"
         ],
         "subtitle": "Defensive Mastermind",
+        "subtypes": [
+            "leader"
+        ],
         "text": "After you activate this character, you may discard a card from the top of an opponent's deck for each of your other characters with 1 or more shields.",
         "ttscardid": "2523",
         "type_code": "character"
@@ -699,7 +739,7 @@
         "faction_code": "red",
         "flavor": "\"If all you do is fight for your own life, then your life is worth nothing!\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Viniciusde S Menezes",
         "is_unique": true,
@@ -717,6 +757,11 @@
             "-"
         ],
         "subtitle": "Phoenix Leader",
+        "subtypes": [
+            "leader",
+            "pilot",
+            "spectre"
+        ],
         "text": "[special] - Play a <i>vehicle</i> from your hand for free. After the action phase ends, if that <i>vehicle</i> is still in play, return it to your hand.",
         "ttscardid": "2524",
         "type_code": "character"
@@ -728,7 +773,7 @@
         "faction_code": "red",
         "flavor": "\"Why does she get a blaster and I don't?\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "JB Casacop",
         "is_unique": true,
@@ -746,6 +791,9 @@
             "-"
         ],
         "subtitle": "Reprogrammed Droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "The cost to play a <i>weapon</i> on this character is increased by 2.\nAfter you play or move a <i>weapon</i> onto this character for the first time each game, ready him.",
         "ttscardid": "2525",
         "type_code": "character"
@@ -757,7 +805,7 @@
         "faction_code": "red",
         "flavor": "The first time in the cockpit was always thrilling… even if it was the last.",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 7,
         "illustrator": "Alex Shaldin",
         "is_unique": false,
@@ -773,6 +821,9 @@
             "1R",
             "-",
             "-"
+        ],
+        "subtypes": [
+            "pilot"
         ],
         "text": "After you activate this character, you may reroll one of your <i>vehicle</i> dice.",
         "ttscardid": "2526",
@@ -902,7 +953,7 @@
         "faction_code": "blue",
         "flavor": "That Jedi passed down their wisdom and craft from Master to Padawan.",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "is_unique": false,
         "name": "Jedi Instructor",
@@ -918,6 +969,9 @@
             "1R",
             "-"
         ],
+        "subtypes": [
+            "jedi"
+        ],
         "text": "After you activate this character, you may turn one of your character dice to a side showing the same symbol as this die.",
         "ttscardid": "2531",
         "type_code": "character"
@@ -929,7 +983,7 @@
         "faction_code": "blue",
         "flavor": "\"There's a lot more at stake than you realize.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Michele Frigo",
         "is_unique": true,
@@ -947,6 +1001,10 @@
             "-"
         ],
         "subtitle": "Rebel Jedi",
+        "subtypes": [
+            "jedi",
+            "spectre"
+        ],
         "text": "Before you take an action, you may resolve one of this die.",
         "ttscardid": "2532",
         "type_code": "character"
@@ -958,7 +1016,7 @@
         "faction_code": "blue",
         "flavor": "\"This party's over.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 12,
         "illustrator": "Audrey Hotte",
         "is_unique": true,
@@ -976,6 +1034,10 @@
             "-"
         ],
         "subtitle": "Jedi Champion",
+        "subtypes": [
+            "jedi",
+            "leader"
+        ],
         "text": "<b>Action</b> - Remove this die to defeat a character with 2 or less remaining health.",
         "ttscardid": "2533",
         "type_code": "character"
@@ -1073,7 +1135,7 @@
         "faction_code": "yellow",
         "flavor": "\"Hey, a kid's gotta eat.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 7,
         "illustrator": "Jeff Lee Johnson",
         "is_unique": true,
@@ -1091,6 +1153,9 @@
             "-"
         ],
         "subtitle": "Force-sensitive Thief",
+        "subtypes": [
+            "scavenger"
+        ],
         "text": "You may play Blue upgrades on this character, ignoring play restrictions.\n[special] - Take 1 resource from an opponent.",
         "ttscardid": "2537",
         "type_code": "character"
@@ -1102,7 +1167,7 @@
         "faction_code": "yellow",
         "flavor": "\"Yeah. I'm responsible these days. It's the price you pay for being successful.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "is_unique": true,
         "name": "Lando Calrissian",
@@ -1119,6 +1184,9 @@
             "-"
         ],
         "subtitle": "Galactic Entrepreneur",
+        "subtypes": [
+            "scoundrel"
+        ],
         "text": "You start the game with 1 additional resource.",
         "ttscardid": "2538",
         "type_code": "character"
@@ -1130,7 +1198,7 @@
         "faction_code": "yellow",
         "flavor": "\"I'll damage you if you don't shut up.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Audrey Hotte",
         "is_unique": true,
@@ -1148,6 +1216,9 @@
             "-"
         ],
         "subtitle": "Explosives Expert",
+        "subtypes": [
+            "spectre"
+        ],
         "text": "Before you activate this character, you may play a <i>weapon</i> from your discard pile on her, decreasing its cost by 1 if it has the word \"Thermal\" in its title.",
         "ttscardid": "2539",
         "type_code": "character"
@@ -1159,7 +1230,7 @@
         "faction_code": "yellow",
         "flavor": "\"It's not wise to upset a wookiee.\" <cite>Han Solo</cite>",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "William Thomas Arnold",
         "is_unique": false,
@@ -1175,6 +1246,9 @@
             "1Sh",
             "1R",
             "-"
+        ],
+        "subtypes": [
+            "wookiee"
         ],
         "ttscardid": "2540",
         "type_code": "character"

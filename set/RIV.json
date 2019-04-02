@@ -5,7 +5,7 @@
         "deck_limit": 1,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 10,
         "illustrator": "Ryan Valle",
         "is_unique": true,
@@ -23,6 +23,9 @@
             "-"
         ],
         "subtitle": "Conflicted Apprentice",
+        "subtypes": [
+            "apprentice"
+        ],
         "text": "You cannot have Darth Vader on your team.\n[special] - Discard a hero card from your hand to give a character 2 shields or discard a villain card from your hand to deal 2 damage to a character.",
         "ttscardid": "47000",
         "type_code": "character"
@@ -34,7 +37,7 @@
         "faction_code": "red",
         "flavor": "\"I live by my choices.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "Joel Hustak",
         "is_unique": true,
@@ -52,6 +55,9 @@
             "-"
         ],
         "subtitle": "Cyborg Aide",
+        "subtypes": [
+            "advisor"
+        ],
         "text": "While you control the battlefield, this character has the Guardian keyword.\n[special] - Resolve one of your dice, increasing its value by 2.",
         "ttscardid": "47001",
         "type_code": "character"
@@ -95,7 +101,7 @@
         "faction_code": "gray",
         "flavor": "\"I can't abide those Jawas. Disgusting creatures!\" <cite>C-3PO</cite>",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 6,
         "illustrator": "David Kagg",
         "is_unique": false,
