@@ -80,8 +80,8 @@
         "size": 160
     },
     {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
+        "cgdb_id_end": 16,
+        "cgdb_id_start": 16,
         "code": "CONV",
         "cycle_code": "CONV",
         "date_release": "2019-03-28",
