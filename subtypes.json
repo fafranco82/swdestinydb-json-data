@@ -36,6 +36,10 @@
         "name": "Equipment"
     },
     {
+        "code": "ewok",
+        "name": "Ewok"
+    },
+    {
         "code": "form",
         "name": "Form"
     },

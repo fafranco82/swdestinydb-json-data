@@ -1,0 +1,291 @@
+[
+    {
+        "affiliation_code": "villain",
+        "code": "11002",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Audrey Hote",
+        "is_unique": true,
+        "name": "Kylo Ren",
+        "points": "11/15",
+        "position": 2,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1Dc",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Bound By The Force",
+        "subtypes": [
+            "apprentice"
+        ],
+        "text": "<b>Power Action</b> - Move 1 shield from this character to another character. Then, if you moved that shield to a hero, deal 1 damage to a character.\n[special] - Deal 2 damage to a character. If any of this damage is blocked, reroll this die instead of removing it.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "11023",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 13,
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": true,
+        "name": "Thrawn",
+        "points": "15/19",
+        "position": 23,
+        "rarity_code": "L",
+        "set_code": "SoH",
+        "sides": [
+            "2MD",
+            "3MD",
+            "2F",
+            "2Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Grand Admiral",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "After you activate this character, you may look at the top 4 cards of a deck.\n<b>Power Action</b> - Reveal the top 4 cards of an opponent's deck. You may play an event revealed this way and spot that opponent's cards as if they were yours.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "11031",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"I like to know the deeper meanings of the pieces I collect.\" <cite>Grand Admiral Thrawn</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": false,
+        "name": "Cultural Records",
+        "position": 31,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1F",
+            "2F",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "text": "After a player plays a copy of a card set aside by this support, you may gain 1 resource or remove a die.\n[special] - Look at an opponent's hand and set a card from it aside. Gain 1 action.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "11036",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"Victory and defeat are often determined by the smallest detail.\" <cite>Grand Admiral Thrawn</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": false,
+        "name": "Mastermind",
+        "position": 36,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1F",
+            "1F",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "[special] - Name a card. Then reveal an opponent's hand and set each copy of the named card from it aside.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11057",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Audrey Hote",
+        "is_unique": true,
+        "name": "Rey",
+        "points": "11/15",
+        "position": 57,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Bound By The Force",
+        "subtypes": [
+            "apprentice"
+        ],
+        "text": "<b>Power Action</b> - Reroll a character die or turn a villain character die to a side showing a value of 0.\n[special] - Give 2 shields to a character. Then, if that character has 3 or more shields, reroll this die instead of removing it.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11093",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 7,
+        "illustrator": "Adam Lane",
+        "is_unique": true,
+        "name": "Cheif Chirpa",
+        "points": "10/12",
+        "position": 93,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1MD",
+            "1F",
+            "1Dr",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Brught Tree Village Elder",
+        "subtypes": [
+            "ewok",
+            "leader"
+        ],
+        "text": "After setup, add a set-aside Ewok Warrior ([SoH]95) to your team.\n[special] - Deal 2 indirect damage ([indirect]) to an opponent, or 3 indirect damage instead if you spot 4 <i>Ewoks</i>.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11095",
+        "deck_limit": 7,
+        "faction_code": "yellow",
+        "flavor": "\"Yub nub.\"",
+        "has_die": false,
+        "has_errata": false,
+        "health": 4,
+        "illustrator": "Romana Kendelic",
+        "is_unique": true,
+        "name": "Ewok Warrior",
+        "points": "4",
+        "position": 95,
+        "rarity_code": "C",
+        "set_code": "SoH",
+        "subtypes": [
+            "ewok"
+        ],
+        "text": "Include only if you have a unique <i>Ewok</i> on your team.\nAfter you activate this character, you may deal 1 indirect damage ([indirect]) to an opponent.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11101",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Priscilla Kim",
+        "is_unique": false,
+        "name": "Ewok Ambush",
+        "position": 101,
+        "rarity_code": "C",
+        "set_code": "SoH",
+        "text": "Ambush.\nActivate one of your non-elite characters or up to 3 of your <i>Ewok</i> characters.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11105",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"Well, short help is better than no help at all.\" <cite>Han Solos</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Dual Brush Studios",
+        "is_unique": true,
+        "name": "Chief Chirpa's Hut",
+        "position": 105,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1F",
+            "2Sh",
+            "1R",
+            "1R",
+            "Sp1",
+            "-"
+        ],
+        "subtypes": [
+            "location"
+        ],
+        "text": "[special] - Add a set-aside Ewok Warrior ([SoH]95) to your team. Discard this support from play unless you spend 3 resources.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11107",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Tiziano Baracchi",
+        "is_unique": false,
+        "name": "Ewok Bow",
+        "position": 107,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1RD",
+            "1RD",
+            "1Dr",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "While this upgrade is on an <i>Ewok</i>, it gains Redeploy.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "11119",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Audrey Hote",
+        "is_unique": false,
+        "name": "Temporary Truce",
+        "points": "0",
+        "position": 119,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "You can only include Kylo Ren and Rey on your team <em>(you can include villain and hero cards in your deck)</i>.\nYou cannot include Gray cards in your deck.",
+        "type_code": "plot"
+    }
+]
