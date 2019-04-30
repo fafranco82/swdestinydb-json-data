@@ -1858,7 +1858,7 @@
         "has_errata": false,
         "health": 9,
         "illustrator": " ",
-        "is_unique": true,
+        "is_unique": false,
         "name": "Naboo Palace Guard",
         "points": "8",
         "position": 74,
