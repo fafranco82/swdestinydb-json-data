@@ -29,6 +29,7 @@
             "sith"
         ],
         "text": "<b>Power Action</b> - Play a Blue card from your hand <em>(paying its cost)</em>. Then force an opponent to discard a card from their hand.",
+        "ttscardid": "50200",
         "type_code": "character"
     },
     {
@@ -57,6 +58,7 @@
             "weapon"
         ],
         "text": "After you play this upgrade, if it is on a <i>Sith</i>, you may deal 1 damage to a character that has no shields, or, if it is on Count Dooku, you may force an opponent to discard a card from their hand.",
+        "ttscardid": "50201",
         "type_code": "upgrade"
     },
     {
@@ -85,6 +87,7 @@
             "trooper"
         ],
         "text": "<b>Power Action</b> - Discard a card from your hand to turn this die to the side that has a value 1 higher than the value showing on this die.",
+         "ttscardid": "50202",
         "type_code": "support"
     },
     {
@@ -102,6 +105,7 @@
         "rarity_code": "S",
         "set_code": "AoN",
         "text": "After you play an upgrade, you may exhaust this plot and spot a Blue character to discard the top card of a deck.",
+        "ttscardid": "50203",
         "type_code": "plot"
     },
     {
@@ -119,6 +123,7 @@
         "rarity_code": "S",
         "set_code": "AoN",
         "text": "Blue character only.\nAttached character gains <i>Jedi</i>.\nAfter you play this upgrade, you may give a character 1 shield.",
+        "ttscardid": "50204",
         "type_code": "upgrade"
     },
     {
@@ -151,6 +156,7 @@
             "trooper"
         ],
         "text": "<b>Power Action</b> - Play a Red card from your hand <em>(paying its cost)</em>. Then deal 1 indirect damage ([indirect]) to an opponent.",
+        "ttscardid": "50205",
         "type_code": "character"
     },
     {
@@ -168,6 +174,7 @@
         "rarity_code": "S",
         "set_code": "AoN",
         "text": "Choose 2 dice that share a subtype <em>(yours and/or opponents')</em>. Then turn one of those dice to any side and reroll the other die.",
+        "ttscardid": "50206",
         "type_code": "event"
     },
     {
@@ -185,6 +192,7 @@
         "rarity_code": "S",
         "set_code": "AoN",
         "text": "After you play a support, you may exhaust this plot and spot a Red character to draw a card.",
+        "ttscardid": "50207",
         "type_code": "plot"
     },
     {
@@ -216,6 +224,7 @@
             "scoundrel"
         ],
         "text": "<b>Power Action</b> - Play a Yellow card from your hand <em>(paying its cost)</em>. Then reroll an opponent's die or reroll up to 3 of your dice.",
+        "ttscardid": "50208",
         "type_code": "character"
     },
     {
@@ -237,6 +246,7 @@
             "intel"
         ],
         "text": "After attached character uses its action <em>(including power action)</em>, you may deal 1 indirect damage ([indirect]) to its controller.",
+        "ttscardid": "50209",
         "type_code": "downgrade"
     },
     {
@@ -254,6 +264,7 @@
         "rarity_code": "S",
         "set_code": "AoN",
         "text": "After you play a downgrade, you may exhaust this plot and spot a Yellow character to deal 1 indirect damage ([indirect]) to an opponent.",
+        "ttscardid": "50210",
         "type_code": "plot"
     },
     {
@@ -282,6 +293,7 @@
         "subtypes": [
             "scoundrel"
         ],
+        "ttscardid": "50211",
         "type_code": "support"
     },
     {
@@ -312,6 +324,7 @@
             "shapeshifter"
         ],
         "text": "After you activate this character, you may choose a character subtype. Until the end of this round, this character gains the chosen subtype.",
+        "ttscardid": "50212",
         "type_code": "character"
     },
     {
@@ -329,6 +342,7 @@
         "rarity_code": "S",
         "set_code": "AoN",
         "text": "Choose and do one:\n• Spot a <i>leader</i> to turn a die to any side.\n• Spot a <i>scoundrel</i> to reroll up to 3 dice.\n• Spot a <i>trooper</i> to remove a die showing a value of 1 or less.",
+        "ttscardid": "50213",
         "type_code": "event"
     },
     {
@@ -347,6 +361,7 @@
         "reprint_of": "01156",
         "set_code": "AoN",
         "text": "Play only if you have more ready characters than an opponent.\nRemove one of that opponent's dice.",
+        "ttscardid": "502014",
         "type_code": "event"
     },
     {
@@ -364,6 +379,7 @@
         "rarity_code": "S",
         "set_code": "AoN",
         "text": "Include only if 2 or more characters on your team share a color.\nAfter setup, discard a card from your hand and lose 2 resources.",
+        "ttscardid": "50215",
         "type_code": "plot"
     },
     {
@@ -392,6 +408,7 @@
             "droid"
         ],
         "text": "After you play this support, place 1 resource on it.\n[special] - Place 1 resource on this support. Then deal damage to a character equal to the number of resources on this support.",
+        "ttscardid": "50216",
         "type_code": "support"
     },
     {
@@ -421,6 +438,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nDamage dealt by this die is unblockable.",
+        "ttscardid": "50217",
         "type_code": "upgrade"
     },
     {
@@ -438,6 +456,7 @@
         "set_code": "AoN",
         "subtitle": "Tatooine",
         "text": "<b>Power Action</b> - Reroll a character die <em>(yours or an opponent's)</em>. Then you may reroll another die that shares a subtype with that die.",
+        "ttscardid": "50218",
         "type_code": "battlefield"
     },
     {
@@ -455,6 +474,7 @@
         "set_code": "AoN",
         "subtitle": "Nal Hutta",
         "text": "<b>Claim</b> - Place 1 resource on this battlefield.\n<b>Power Action</b> - Place 1 resource on this battlefield or take all resources from it.",
+        "ttscardid": "50219",
         "type_code": "battlefield"
     }
 ]
