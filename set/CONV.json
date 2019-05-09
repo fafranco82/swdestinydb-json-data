@@ -1983,7 +1983,7 @@
         "has_die": false,
         "has_errata": false,
         "illustrator": " ",
-        "is_unique": true,
+        "is_unique": false,
         "name": "Concerted Effort",
         "position": 83,
         "rarity_code": "U",
