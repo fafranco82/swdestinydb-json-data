@@ -2555,7 +2555,7 @@
         "is_unique": false,
         "name": "Custom Bandolier",
         "position": 103,
-        "rarity_code": "U",
+        "rarity_code": "C",
         "set_code": "CONV",
         "subtypes": [
             "equipment"
