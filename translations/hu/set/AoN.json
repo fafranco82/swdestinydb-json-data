@@ -1,0 +1,112 @@
+[
+    {
+        "code": "10001",
+        "flavor": "\"A bölcs tanítómester nem fedi fel rögtön az első órán minden titkát.\"",
+        "name": "Dooku Gróf",
+        "subtitle": "Korrupt politikus",
+        "text": "<b>Erőteljes akció</b> - Játssz ki egy Kék lapot a kezedből <em>(a költségét ki kell fizetni)</em>! Ezután egy ellenfelednek el kell dobnia egy lapot a kezéből."
+    },
+    {
+        "code": "10002",
+        "name": "Dooku gróf fénykardja",
+        "text": "Miután ezt a fejlesztést egy <i>Sith</i>re játszottad ki, okozhatsz 1 sebzést egy pajzs nélküli karakternek, vagy ha Dooku grófra játszod ki, eldobathatsz egy lapot egy ellenfeled kezéből."
+    },
+    {
+        "code": "10003",
+        "name": "Mesterlövész csapat",
+        "text": "<b>Erőteljes akció</b> - Dobj el egy lapot a kezedből és fordítsd a kockáját 1-gyel nagyobb értéket mutató oldalára!"
+    },
+    {
+        "code": "10004",
+        "name": "Űrnavigáció",
+        "text": "Miután kijátszol egy fejlesztést, kimerítheted ezt a tervet, és jelölj ki egy Kék karaktert, majd dobasd el egy pakli felső lapját!"
+    },
+    {
+        "code": "10005",
+        "name": "Lovaggá ütés",
+        "text": "Csak Kék karakternek.\nA csatolt karakter <i>Jedi</i> lesz.\nMiután kijátszod ezt a fejlesztést, adhatsz egy pajzsot egy karakternek."
+    },
+    {
+        "code": "10006",
+        "flavor": "\"A Védelmezok támogatnak.\"",
+        "name": "Fenn Rau",
+        "subtitle": "Mandalori védelmező",
+        "text": "<b>Erőteljes akció</b> - Játssz ki egy Piros lapot a kezedből <em>(a költségét ki kell fizetni)</em>! Ezután okozz 1 közvetett sebzést ([indirect]) egy ellenfélnek!"
+    },
+    {
+        "code": "10007",
+        "name": "Jellempróba",
+        "text": "Válassz ki 2 kockát, melyeknek az altípusa megegyezik <em>(lehet a tiéd és/vagy az ellenfélé is)</em>! Ezután fordítsd az egyiket tetszőleges oldalára és dobd újra a másikat!"
+    },
+    {
+        "code": "10008",
+        "name": "A nagy terv",
+        "text": "Miután kijátszol egy támogatást, kimerítheted ezt a tervet, és jelölj ki egy Piros karaktert, majd húzz egy lapot!"
+    },
+    {
+        "code": "10009",
+        "flavor": "\"A Peremvilág törvénytelen vidék.\" <cite>Jennica Pierce</cite>",
+        "name": "Peremvilági törvényen kívüli",
+        "text": "<b>Erőteljes akció</b> - Játssz ki egy Sárga lapot a kezedből <em>(a költségét ki kell fizetni)</em>! Ezután dobd újra egy ellenfeled kockáját vagy dobd újra legfeljebb 3 saját kockádat!"
+    },
+    {
+        "code": "10010",
+        "flavor": "\"Kiterjedt hálózattal rendelkezem.\" <cite>Garindan ezz Zavor</cite>",
+        "name": "Árnyékban",
+        "text": "Miután a csatolt karakter használta az akcióját <em>(beleértve az Erőteljes akciót is)</em>, okozhatsz 1 közvetett sebzést ([indirect]) az irányítójának."
+    },
+    {
+        "code": "10011",
+        "name": "Veszélyes kaland",
+        "text": "Miután kijátszol egy gyengítést, kimerítheted ezt a tervet, és jelölj ki egy Sárga karaktert, majd okozz 1 közvetett sebzést ([indirect]) egy ellenfélnek!"
+    },
+    {
+        "code": "10012",
+        "flavor": "A peremvilágon egyes szolgáltatások értékesebbek másoknál...",
+        "name": "Felbérelt izom"
+    },
+    {
+        "code": "10013",
+        "flavor": "A clawdite hüllőszerű értelmes faj képes bármilyen humanoid formát felvenni.",
+        "name": "Clawdite alakváltó",
+        "text": "Miután aktiváltad ezt a karaktert, választhatsz egy karakter altípust. A forduló végéig ez a karakter a választott altípusú lesz."
+    },
+    {
+        "code": "10014",
+        "name": "Véletlen találkozás",
+        "text": "Válassz és hajts végre egyet az alábbiak közül:\n• Jelölj ki egy <i>vezetőt</i> és fordíts egy kockát tetszőleges oldalára.\n• Jelölj ki egy <i>gazfickót</i> és dobj újra legfeljebb 3 kockát.\n• Jelölj ki egy <i>gyalogost</i> és távolíts el egy 1 vagy kisebb értéket mutató kockát!"
+    },
+    {
+        "code": "10015",
+        "name": "Mögé kerülés",
+        "text": "Akkor játszhatod ki, ha több felfrissült karaktered van, mint egy ellenségnek.\nTávolíts el egyet ennek az ellenfelednek a kockái közül!"
+    },
+    {
+        "code": "10016",
+        "name": "Kényszerű szövetségek",
+        "text": "Csak akkor használhatod, ha a csapatodban 2 vagy több karakter azonos színű.\nAz előkészületek után dobj el egy lapot a kezedből és veszítesz 2 eroforrást!"
+    },
+    {
+        "code": "10017",
+        "name": "LR-57 harci Droid",
+        "text": "Miután kijátszottad ezt a támogatást, helyezz rá 1 erőforrást!\n[special] - Helyezz 1 erőforrást erre a támogatásra! Ezután okozz annyi sebzést egy karakternek, ahány erőforrás van ezen a támogatáson!"
+    },
+    {
+        "code": "10018",
+        "flavor": "A Quarzite bolygó Kage harcosai egyaránt használják közelharci és dobófegyverként.",
+        "name": "Elektrokard",
+        "text": "Áthelyezés.\nAz általa okozott sebzések védhetetlenek."
+    },
+    {
+        "code": "10019",
+        "name": "Chalmun kantinja",
+        "subtitle": "Tatooine",
+        "text": "<b>Erőteljes akció</b> - Dobj újra egy karakterkockát <em>(lehet a tiéd vagy az ellenfélé is)</em>! Ezután újrdobhatsz egy másik kockát, melynek az altípusa megegyezik az előzőleg újradobott kockáéval."
+    },
+    {
+        "code": "10020",
+        "name": "Wheeta Palota",
+        "subtitle": "Nal Hutta",
+        "text": "<b>Uralom</b> - Helyezz 1 erőforrást erre csatatérre!\n<b>Erőteljes akció</b> - Helyezz 1 erőforrást erre a csatatérre, vagy vedd le róla az összes erőforrást!"
+    }
+]

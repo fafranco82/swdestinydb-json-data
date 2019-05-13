@@ -8,6 +8,10 @@
         "name": "Karakter"
     },
     {
+        "code": "downgrade",
+        "name": "Gyengítés"
+    },
+    {
         "code": "event",
         "name": "Esemény"
     },

@@ -1,0 +1,65 @@
+[
+    {
+        "code": "11002",
+        "name": "Kylo Ren",
+        "subtitle": "Bound By The Force",
+        "text": "<b>Power Action</b> - Move 1 shield from this character to another character. Then, if you moved that shield to a hero, deal 1 damage to a character.\n[special] - Deal 2 damage to a character. If any of this damage is blocked, reroll this die instead of removing it."
+    },
+    {
+        "code": "11023",
+        "name": "Thrawn",
+        "subtitle": "Grand Admiral",
+        "text": "After you activate this character, you may look at the top 4 cards of a deck.\n<b>Power Action</b> - Reveal the top 4 cards of an opponent's deck. You may play an event revealed this way and spot that opponent's cards as if they were yours."
+    },
+    {
+        "code": "11031",
+        "flavor": "\"I like to know the deeper meanings of the pieces I collect.\" <cite>Grand Admiral Thrawn</cite>",
+        "name": "Cultural Records",
+        "text": "After a player plays a copy of a card set aside by this support, you may gain 1 resource or remove a die.\n[special] - Look at an opponent's hand and set a card from it aside. Gain 1 action."
+    },
+    {
+        "code": "11036",
+        "flavor": "\"Victory and defeat are often determined by the smallest detail.\" <cite>Grand Admiral Thrawn</cite>",
+        "name": "Mastermind",
+        "text": "[special] - Name a card. Then reveal an opponent's hand and set each copy of the named card from it aside."
+    },
+    {
+        "code": "11057",
+        "name": "Rey",
+        "subtitle": "Bound By The Force",
+        "text": "<b>Power Action</b> - Reroll a character die or turn a villain character die to a side showing a value of 0.\n[special] - Give 2 shields to a character. Then, if that character has 3 or more shields, reroll this die instead of removing it."
+    },
+    {
+        "code": "11093",
+        "name": "Cheif Chirpa",
+        "subtitle": "Brught Tree Village Elder",
+        "text": "After setup, add a set-aside Ewok Warrior ([SoH]95) to your team.\n[special] - Deal 2 indirect damage ([indirect]) to an opponent, or 3 indirect damage instead if you spot 4 <i>Ewoks</i>."
+    },
+    {
+        "code": "11095",
+        "flavor": "\"Yub nub.\"",
+        "name": "Ewok Warrior",
+        "text": "Include only if you have a unique <i>Ewok</i> on your team.\nAfter you activate this character, you may deal 1 indirect damage ([indirect]) to an opponent."
+    },
+    {
+        "code": "11101",
+        "name": "Ewok Ambush",
+        "text": "Ambush.\nActivate one of your non-elite characters or up to 3 of your <i>Ewok</i> characters."
+    },
+    {
+        "code": "11105",
+        "flavor": "\"Well, short help is better than no help at all.\" <cite>Han Solos</cite>",
+        "name": "Chief Chirpa's Hut",
+        "text": "[special] - Add a set-aside Ewok Warrior ([SoH]95) to your team. Discard this support from play unless you spend 3 resources."
+    },
+    {
+        "code": "11107",
+        "name": "Ewok Bow",
+        "text": "While this upgrade is on an <i>Ewok</i>, it gains Redeploy."
+    },
+    {
+        "code": "11119",
+        "name": "Temporary Truce",
+        "text": "You can only include Kylo Ren and Rey on your team <em>(you can include villain and hero cards in your deck)</i>.\nYou cannot include Gray cards in your deck."
+    }
+]

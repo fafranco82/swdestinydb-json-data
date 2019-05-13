@@ -4,8 +4,16 @@
         "name": "Ébredések"
     },
     {
+        "code": "AoN",
+        "name": "Kényszerű szövetségek"
+    },
+    {
         "code": "AtG",
         "name": "A Galaxison át"
+    },
+    {
+        "code": "CONV",
+        "name": "Konvergencia"
     },
     {
         "code": "EaW",
@@ -18,6 +26,10 @@
     {
         "code": "RIV",
         "name": "Riválisok"
+    },
+    {
+        "code": "SoH",
+        "name": "Spark of Hope"
     },
     {
         "code": "SoR",

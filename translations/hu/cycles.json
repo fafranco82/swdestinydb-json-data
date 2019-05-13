@@ -4,7 +4,11 @@
         "name": "Ébredések"
     },
     {
+        "code": "CONV",
+        "name": "Konvergencia"
+    },
+    {
         "code": "LEG",
-        "name": "Legacies"
+        "name": "Örökség"
     }
 ]

@@ -4,12 +4,20 @@
         "name": "Képesség"
     },
     {
+        "code": "advisor",
+        "name": "Advisor"
+    },
+    {
         "code": "apprentice",
         "name": "Apprentice"
     },
     {
         "code": "artillery",
         "name": "Tüzérség"
+    },
+    {
+        "code": "bounty",
+        "name": "Bounty"
     },
     {
         "code": "bounty-hunter",
@@ -20,16 +28,40 @@
         "name": "Droid"
     },
     {
+        "code": "engineer",
+        "name": "Engineer"
+    },
+    {
         "code": "equipment",
         "name": "Felszerelés"
+    },
+    {
+        "code": "ewok",
+        "name": "Ewok"
+    },
+    {
+        "code": "form",
+        "name": "Form"
+    },
+    {
+        "code": "guard",
+        "name": "Guard"
     },
     {
         "code": "gungan",
         "name": "Gungan"
     },
     {
+        "code": "injury",
+        "name": "Injury"
+    },
+    {
         "code": "inquisitor",
         "name": "Inkvizítor"
+    },
+    {
+        "code": "intel",
+        "name": "Infó"
     },
     {
         "code": "jawa",
@@ -52,6 +84,14 @@
         "name": "Mod"
     },
     {
+        "code": "move",
+        "name": "Move"
+    },
+    {
+        "code": "nightbrother",
+        "name": "Nightbrother"
+    },
+    {
         "code": "pilot",
         "name": "Pilóta"
     },
@@ -60,8 +100,16 @@
         "name": "Fogat"
     },
     {
+        "code": "scavenger",
+        "name": "Gyűjtögető"
+    },
+    {
         "code": "scoundrel",
         "name": "Gazfickó"
+    },
+    {
+        "code": "shapeshifter",
+        "name": "Alakváltó"
     },
     {
         "code": "sith",
@@ -90,5 +138,9 @@
     {
         "code": "witch",
         "name": "Boszorkány"
+    },
+    {
+        "code": "wookiee",
+        "name": "Wookiee"
     }
 ]
