@@ -5,11 +5,11 @@
     },
     {
         "code": "advisor",
-        "name": "Advisor"
+        "name": "Tanácsadó"
     },
     {
         "code": "apprentice",
-        "name": "Apprentice"
+        "name": "Tanítvány"
     },
     {
         "code": "artillery",
@@ -17,7 +17,7 @@
     },
     {
         "code": "bounty",
-        "name": "Bounty"
+        "name": "Vérdíj"
     },
     {
         "code": "bounty-hunter",
@@ -29,7 +29,7 @@
     },
     {
         "code": "engineer",
-        "name": "Engineer"
+        "name": "Mérnök"
     },
     {
         "code": "equipment",
@@ -41,11 +41,11 @@
     },
     {
         "code": "form",
-        "name": "Form"
+        "name": "Alak"
     },
     {
         "code": "guard",
-        "name": "Guard"
+        "name": "Őrző"
     },
     {
         "code": "gungan",
@@ -53,11 +53,11 @@
     },
     {
         "code": "injury",
-        "name": "Injury"
+        "name": "Sérülés"
     },
     {
         "code": "inquisitor",
-        "name": "Inkvizítor"
+        "name": "Inkvizitor"
     },
     {
         "code": "intel",
@@ -85,11 +85,11 @@
     },
     {
         "code": "move",
-        "name": "Move"
+        "name": "Mozdulat"
     },
     {
         "code": "nightbrother",
-        "name": "Nightbrother"
+        "name": "Éjfívér"
     },
     {
         "code": "pilot",
