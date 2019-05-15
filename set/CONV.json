@@ -1642,7 +1642,7 @@
         "subtypes": [
             "location"
         ],
-        "text": "<b>Action</b> - Exhaust this support to choose another player. You and that player each draw a card.",
+        "text": "<b>Action</b> - Exhaust this support to choose another player. Then, you and that player each draw a card.",
         "ttscardid": "49965",
         "type_code": "support"
     },
@@ -2082,7 +2082,7 @@
         "faction_code": "red",
         "flavor": "In addition to providing heavy fire support, the Low Altitude Assault Transport could deliver up to 30 troopers.",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": " ",
         "is_unique": false,
         "name": "LAAT Gunship",
@@ -2100,7 +2100,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "[special] - Roll a <i>trooper</i> die on one of your characters into your pool.  Reroll this support's die instead of removing it.",
+        "text": "[special] - Roll a <i>trooper</i> die on one of your cards in play into your pool and resolve it. Otherwise, remove it. Reroll this support's die instead of removing it.",
         "ttscardid": "50013",
         "type_code": "support"
     },
