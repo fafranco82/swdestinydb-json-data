@@ -116,6 +116,36 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "11056",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "R2-D2",
+        "points": "8/11",
+        "position": 56,
+        "rarity_code": "L",
+        "set_code": "SoH",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1Dr",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Loyal Companion",
+        "subtypes": [
+            "droid"
+        ],
+        "text": "You cannot play Blue <i>abilities</i> on this character.\nAfter you activate this character, you may turn one of your dice to its first side <em>(the topmost box of its dice reference)</em>, or to any side instead if you spot C-3PO.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "11057",
         "deck_limit": 1,
         "faction_code": "blue",
