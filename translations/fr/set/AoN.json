@@ -8,7 +8,7 @@
     {
         "code": "10002",
         "name": "Sabre laser du Comte Dooku",
-        "text": "Après avoir joué cette amélioration, si elle est est sur un <i>Sith</i>, vous pouvez infligez 1 dégât à un personnage qui n'a pas de boucliers, ou, si c'est sur le Comtpe Dooku, vous pouvez forcez un adversaire à défausser une carte de sa main.",
+        "text": "Après avoir joué cette amélioration, si elle est est sur un <i>Sith</i>, vous pouvez infliger 1 dégât à un personnage qui n'a pas de boucliers, ou, si elle est sur le Comte Dooku, vous pouvez forcer un adversaire à défausser une carte de sa main.",
     },
     {
         "code": "10003",
@@ -29,7 +29,7 @@
         "code": "10006",
         "name": "Fenn Rau",
         "subtitle": "Protecteur mandalorien",
-        "text": "<b>Action Puissance</b> - Jouez une carte Rouge de votre main <em>(en payant son coût)</em>. Ensuite infligez 1 dégât indirect ([indirect]) à un adversaire.",
+        "text": "<b>Action Puissance</b> - Jouez une carte Rouge de votre main <em>(en payant son coût)</em>. Puis infligez 1 dégât indirect ([indirect]) à un adversaire.",
     },
     {
         "code": "10007",
@@ -39,7 +39,7 @@
     {
         "code": "10008",
         "name": "Grand projet",
-        "text": "Après avoir joué un support, vous pouvez incliner cette intrigue et désigner un personnage Rouge pour piocher une carte.",
+        "text": "Après avoir joué un soutien, vous pouvez incliner cette intrigue et désigner un personnage Rouge pour piocher une carte.",
     },
     {
         "code": "10009",
@@ -48,13 +48,13 @@
     },
     {
         "code": "10010",
-        "name": "A l'ombre",
+        "name": "Dans l'ombre",
         "text": "Après que le personnage attaché aie utilisé son action <em>(y compris Action Puissance)</em>, vous pouvez infligez 1 dégât indirect ([indirect]) à son contrôleur.",
     },
     {
         "code": "10011",
         "name": "Escapade périlleuse",
-        "text": "Après avoir joué une régression, vous pouvez incliner cette intrigue et désigner un personnage Jaune pour infligez 1 dégât indirect ([indirect]) à un adversaire.",
+        "text": "Après avoir joué une régression, vous pouvez incliner cette intrigue et désigner un personnage Jaune pour infliger 1 dégât indirect ([indirect]) à un adversaire.",
     },
     {
         "code": "10012",
@@ -68,7 +68,7 @@
     {
         "code": "10014",
         "name": "Rencontre fortuite",
-        "text": "Choisissez et effectuez l'un:\n• Désignez un <i>leader</i> pour tourner un dé sur n'importe quelle face.\n• Désignez un vaurien <i>vaurien</i> pour relancer jusqu'à 3 dés.\n• Désignez un <i>trooper</i> pour retirer un dé montrant une valeur de 1 ou -.",
+        "text": "Choisissez et effectuez l'un:\n• Désignez un <i>leader</i> pour tourner un dé sur n'importe quelle face.\n• Désignez un vaurien <i>vaurien</i> pour relancer jusqu'à 3 dés.\n• Désignez un <i>trooper</i> pour retirer un dé montrant une valeur de 1 ou moins.",
     },
     {
         "code": "10015",
@@ -94,7 +94,7 @@
         "code": "10019",
         "name": "Cantine de Chalmun",
         "subtitle": "Tatooine",
-        "text": "<b>Action Puissance</b> - Relancez un dé de personnage <em>(à vous ou à votre un adversaire)</em>. Ensuite, vous pouvez relancer un autre dé qui partage un sous-type avec ce dé.",
+        "text": "<b>Action Puissance</b> - Relancez un dé de personnage <em>(à vous ou à votre un adversaire)</em>. Puis, vous pouvez relancer un autre dé qui partage un sous-type avec ce dé.",
     },
     {
         "code": "10020",
