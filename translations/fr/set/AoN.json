@@ -94,7 +94,7 @@
         "code": "10019",
         "name": "Cantine de Chalmun",
         "subtitle": "Tatooine",
-        "text": "<b>Action Puissance</b> - Relancez un dé de personnage <em>(le vôtre un adversaire)</em>. Ensuite, vous pouvez relancer un autre dé qui partage un sous-type avec ce dé.",
+        "text": "<b>Action Puissance</b> - Relancez un dé de personnage <em>(à vous ou à votre un adversaire)</em>. Ensuite, vous pouvez relancer un autre dé qui partage un sous-type avec ce dé.",
     },
     {
         "code": "10020",
