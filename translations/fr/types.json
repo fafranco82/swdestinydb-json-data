@@ -18,5 +18,13 @@
     {
         "code": "upgrade",
         "name": "Amélioration"
+    },
+    {
+        "code": "plot",
+        "name": "Intrigue"
+    },
+    {
+        "code": "downgrade",
+        "name": "Régression"
     }
 ]

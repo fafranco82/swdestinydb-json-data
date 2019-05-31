@@ -4,16 +4,128 @@
         "name": "Capacité"
     },
     {
+        "code": "advisor",
+        "name": "Conseiller"
+    },
+    {
+        "code": "apprentice",
+        "name": "Apprenti"
+    },
+    {
+        "code": "artillery",
+        "name": "Artillerie"
+    },
+    {
+        "code": "bounty",
+        "name": "Prime"
+    },
+    {
+        "code": "bounty-hunter",
+        "name": "Chasseur de primes"
+    },
+    {
         "code": "droid",
         "name": "Droïde"
+    },
+    {
+        "code": "engineer",
+        "name": "Ingénieur"
     },
     {
         "code": "equipment",
         "name": "Équipement"
     },
     {
+        "code": "ewok",
+        "name": "Ewok"
+    },
+    {
+        "code": "form",
+        "name": "Style"
+    },
+    {
+        "code": "guard",
+        "name": "Garde"
+    },
+    {
+        "code": "gungan",
+        "name": "Gungan"
+    },
+    {
+        "code": "injury",
+        "name": "Blessure"
+    },
+    {
+        "code": "inquisitor",
+        "name": "Inquisitor"
+    },
+    {
+        "code": "intel",
+        "name": "Infos"
+    },
+    {
+        "code": "jawa",
+        "name": "Jawa"
+    },
+    {
+        "code": "jedi",
+        "name": "Jedi"
+    },
+    {
+        "code": "leader",
+        "name": "Leader"
+    },
+    {
+        "code": "location",
+        "name": "Lieu"
+    },
+    {
+        "code": "mod",
+        "name": "Mod"
+    },
+    {
+        "code": "move",
+        "name": "Manoeuvre"
+    },
+    {
+        "code": "nightbrother",
+        "name": "Frère de la nuit"
+    },
+    {
+        "code": "pilot",
+        "name": "Pilote"
+    },
+    {
+        "code": "podracer",
+        "name": "Module de course"
+    },
+    {
+        "code": "scavenger",
+        "name": "Récupérateur"
+    },
+    {
+        "code": "scoundrel",
+        "name": "Vaurien"
+    },
+    {
+        "code": "shapeshifter",
+        "name": "Changeforme"
+    },
+    {
+        "code": "sith",
+        "name": "Sith"
+    },
+    {
+        "code": "spectre",
+        "name": "Spectre"
+    },
+    {
         "code": "title",
         "name": "Titre"
+    },
+    {
+        "code": "trooper",
+        "name": "Trooper"
     },
     {
         "code": "vehicle",
@@ -22,5 +134,13 @@
     {
         "code": "weapon",
         "name": "Arme"
+    },
+    {
+        "code": "witch",
+        "name": "Sorcière"
+    },
+    {
+        "code": "wookiee",
+        "name": "Wookiee"
     }
 ]
