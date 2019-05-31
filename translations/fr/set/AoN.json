@@ -1,0 +1,105 @@
+[
+    {
+        "code": "10001",
+        "name": "Comte Dooku",
+        "subtitle": "Politicien corrompu",
+        "text": "<b>Action Puissance</b> - Jouer une carte Bleue de votre main <em>(en payant son coût)</em>. Puis forcez un adversaire à défausser une carte de sa main.",
+    },
+    {
+        "code": "10002",
+        "name": "Sabre laser du Comte Dooku",
+        "text": "Après avoir joué cette amélioration, si elle est est sur un <i>Sith</i>, vous pouvez infligez 1 dégât à un personnage qui n'a pas de boucliers, ou, si c'est sur le Comtpe Dooku, vous pouvez forcez un adversaire à défausser une carte de sa main.",
+    },
+    {
+        "code": "10003",
+        "name": "Équipe de tireurs d'élite",
+        "text": "<b>Action Puissance</b> - Défaussez une carte de votre main pour tourner ce dé sur une face qui a une valeur de 1 supérieur à la valeur montrée par ce dé.",
+    },
+    {
+        "code": "10004",
+        "name": "Astrogation",
+        "text": "Après avoir joué une amélioration, vou pouvez incliner cette intrigue et désigner un personnage Bleu pour défausser la première carte d'un deck.",
+    },
+    {
+        "code": "10005",
+        "name": "Chevalier",
+        "text": "Personnage Bleu uniquement.\nLe personnage attaché gagne <i>Jedi</i>.\nAprès avoir joué cette amélioration, vous pouvez donner 1 bouclier à un personnage.",
+    },
+    {
+        "code": "10006",
+        "name": "Fenn Rau",
+        "subtitle": "Protecteur mandalorien",
+        "text": "<b>Action Puissance</b> - Jouez une carte Rouge de votre main <em>(en payant son coût)</em>. Ensuite infligez 1 dégât indirect ([indirect]) à un adversaire.",
+    },
+    {
+        "code": "10007",
+        "name": "Test de caractère",
+        "text": "Choisissez 2 dés qui partagent un même sous-type <em>(les vôtres et/ou ceux d'un adversaire)</em>. Pus tournez l'un de ces dés sur n'importe quelle face et relancez l'autre dé.",
+    },
+    {
+        "code": "10008",
+        "name": "Grand projet",
+        "text": "Après avoir joué un support, vous pouvez incliner cette intrigue et désigner un personnage Rouge pour piocher une carte.",
+    },
+    {
+        "code": "10009",
+        "name": "Hors-la-loi de la bordure extérieure",
+        "text": "<b>Action Puissance</b> - Jouez une carte Jaune de votre main <em>(en payant son coût)</em>. Puis relancer un dé d'un adversaire ou relancez jusqu'à 3 de vos dés.",
+    },
+    {
+        "code": "10010",
+        "name": "A l'ombre",
+        "text": "Après que le personnage attaché aie utilisé son action <em>(y compris Action Puissance)</em>, vous pouvez infligez 1 dégât indirect ([indirect]) à son contrôleur.",
+    },
+    {
+        "code": "10011",
+        "name": "Escapade périlleuse",
+        "text": "Après avoir joué une régression, vous pouvez incliner cette intrigue et désigner un personnage Jaune pour infligez 1 dégât indirect ([indirect]) à un adversaire.",
+    },
+    {
+        "code": "10012",
+        "name": "Hommes de main",
+    },
+    {
+        "code": "10013",
+        "name": "Changeforme Clawdite",
+        "text": "Après avoir activé ce personnage, vous pouvez choisir un sous-type. Jusqu'à la fin de ce round, ce personnage gagne le sous-type choisi.",
+    },
+    {
+        "code": "10014",
+        "name": "Rencontre fortuite",
+        "text": "Choisissez et effectuez l'un:\n• Désignez un <i>leader</i> pour tourner un dé sur n'importe quelle face.\n• Désignez un vaurien <i>vaurien</i> pour relancer jusqu'à 3 dés.\n• Désignez un <i>trooper</i> pour retirer un dé montrant une valeur de 1 ou -.",
+    },
+    {
+        "code": "10015",
+        "name": "Prise en tenaille",
+        "text": "À ne jouer que si vous avez plus de personnages redressés qu'un adversaire.\nRetirez un des dés de cet adversaire.",
+    },
+    {
+        "code": "10016",
+        "name": "Alliés par nécessité",
+        "text": "Ne peut être inclus que si vous avez 2 personnages ou plus dans votre équipe qui sont de la même couleur.\nAprès la mise en place, défaussez une carte de votre main et perdez 2 ressources.",
+    },
+    {
+        "code": "10017",
+        "name": "Droïde de combat LR-57",
+        "text": "Placez 1 ressource sur ce soutien après l'avoir joué.\n[special] - Placez 1 ressource sur ce soutien. Puis infligez à un personnage un nombre de dégâts égal au nombre de ressources sur ce soutien.",
+    },
+    {
+        "code": "10018",
+        "name": "Épée électrique",
+        "text": "Redéploiement.\nLes dégâts infligés par ce dé sont non blocables.",
+    },
+    {
+        "code": "10019",
+        "name": "Cantine de Chalmun",
+        "subtitle": "Tatooine",
+        "text": "<b>Action Puissance</b> - Relancez un dé de personnage <em>(le vôtre un adversaire)</em>. Ensuite, vous pouvez relancer un autre dé qui partage un sous-type avec ce dé.",
+    },
+    {
+        "code": "10020",
+        "name": "Palais de Wheeta",
+        "subtitle": "Nal Hutta",
+        "text": "<b>Capture</b> - Placez 1 ressource sur ce champ de bataille.\n<b>Action Puissance</b> - Placez 1 ressource sur ce champ de bataille ou prenez toutes les ressources de celui-ci.",
+    }
+]
