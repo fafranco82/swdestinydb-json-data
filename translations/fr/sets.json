@@ -10,5 +10,37 @@
     {
         "code": "SoR",
         "name": "L'Âme de la Rébellion"
+    },
+    {
+        "code": "TPG",
+        "name": "Starter 2 Joueurs",
+    },
+    {
+        "code": "LEG",
+        "name": "Héritages",
+    },
+    {
+        "code": "RIV",
+        "name": "Rivaux",
+    },
+    {
+        "code": "WotF",
+        "name": "La Voie de la Force",
+    },
+    {
+        "code": "AtG",
+        "name": "A Travers la Galaxie",
+    },
+    {
+        "code": "CONV",
+        "name": "Convergence",
+    },
+    {
+        "code": "AoN",
+        "name": "Allies of Necessity",
+    },
+    {
+        "code": "SoH",
+        "name": "Spark of Hope",
     }
 ]

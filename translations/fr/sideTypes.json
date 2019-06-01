@@ -34,5 +34,9 @@
     {
         "code": "Sp",
         "name": "Spécial"
+    },
+    {
+        "code": "ID",
+        "name": "Dégâts indirects"
     }
 ]
