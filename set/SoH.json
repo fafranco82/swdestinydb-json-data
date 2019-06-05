@@ -902,7 +902,7 @@
         "set_code": "SoH",
         "text": "Ambush.\nSpot a <i>trooper</i> to take control of the battlefield.",
         "type_code": "event"
-    }
+    },
     {
         "affiliation_code": "neutral",
         "code": "11133",
@@ -921,7 +921,7 @@
         "set_code": "SoH",
         "text": "After a character is defeated, you may exhaust this to gain 1 resource.",
         "type_code": "support"
-    }
+    },
     {
         "affiliation_code": "neutral",
         "code": "11141",
