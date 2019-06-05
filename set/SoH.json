@@ -71,7 +71,7 @@
         "affiliation_code": "villain",
         "code": "11015",
         "deck_limit": 1,
-        "faction_code": "gray",
+        "faction_code": "blue",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Joshua Cairós",
@@ -925,7 +925,7 @@
     {
         "affiliation_code": "neutral",
         "code": "11141",
-        "cost": 0,
+        "cost": 2,
         "deck_limit": 2,
         "faction_code": "yellow",
         "flavor": "\"The director say their reconditioning process is excruciating, but effective.\" <cite>L3-37</cite>",
