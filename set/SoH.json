@@ -368,7 +368,7 @@
             "jedi",
             "leader"
         ],
-        "text": "This character has a +3 shield limit.\nThe character's shields can be used to block damage dealt to <i>apprentice</b> characters.",
+        "text": "This character has a +3 shield limit.\nThe character's shields can be used to block damage dealt to <i>apprentice</i> characters.",
         "type_code": "character"
     },
     {
