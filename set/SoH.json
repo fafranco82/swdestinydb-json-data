@@ -365,8 +365,8 @@
         ],
         "subtitle": "Mystical Mentor",
         "subtypes": [
-            "Jedi",
-            "Leader"
+            "jedi",
+            "leader"
         ],
         "text": "This character has a +3 shield limit.\nThe character's shields can be used to block damage dealt to <i>apprentice</b> characters.",
         "type_code": "character"
@@ -411,7 +411,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
-        "flavor": "\"Island natives. They've kept up the Jedi structures since they've been built.\" <cite>Luke Skywalker</cite>",        
+        "flavor": "\"Island natives. They've kept up the Jedi structures since they've been built.\" <cite>Luke Skywalker</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": " ",
@@ -653,7 +653,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
-        "flavor": "Ewoks can take down even large enemies through the clever use of gravity and lumber.",        
+        "flavor": "Ewoks can take down even large enemies through the clever use of gravity and lumber.",
         "has_die": false,
         "has_errata": false,
         "illustrator": " ",
@@ -732,7 +732,7 @@
         "type_code": "support"
     },
     {
-        "affiliation_code": "Hero",
+        "affiliation_code": "hero",
         "code": "11106",
         "cost": 2,
         "deck_limit": 2,
