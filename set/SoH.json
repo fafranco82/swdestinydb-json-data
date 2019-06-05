@@ -424,7 +424,7 @@
             "location"
         ],
         "text": "After an opponent's effect removes one of your <i>apprentice</i> or <i>Jedi</i> dice, you may exhaust this support to roll that die into your pool.",
-        "type_code": "event"
+        "type_code": "support"
     },
     {
         "affiliation_code": "hero",
@@ -490,7 +490,7 @@
         "flavor": "\"Echo Station 3T8, we've spotted Imperial walkers!\" <cite>Trey Callum</cite>",
         "has_die": false,
         "has_errata": false,
-        "health": 4,
+        "health": 5,
         "illustrator": " ",
         "is_unique": true,
         "name": "Hoth Trooper",
