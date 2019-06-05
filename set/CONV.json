@@ -311,7 +311,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": " ",
         "is_unique": false,
         "name": "Force Storm",
@@ -329,7 +329,7 @@
         "subtypes": [
             "ability"
         ],
-        "text": "Blue character only.\n[special] - Place 1 resource on this upgrade. Deal damage to a character equal to the number of resources on this upgrade. Reroll this die instead of removing it.",
+        "text": "Blue character only.\n[special] - Exhaust this upgrade to place 1 resource on it. Deal damage to a character equal to the number of resources on this upgrade. Reroll this die instead of removing it.",
         "ttscardid": "49913",
         "type_code": "upgrade"
     },
@@ -962,7 +962,7 @@
         "faction_code": "yellow",
         "flavor": "\"Mind tricks don't work on me. Only money.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "Antonio Jose Manzanedo",
         "is_unique": true,
@@ -984,7 +984,7 @@
             "scavenger",
             "scoundrel"
         ],
-        "text": "This character's character dice cannot be removed by opponents' events.\n<b>Power Action</b> - Spend 1 resource and choose a symbol to reroll a die. If it rolls the chosen symbol, gain 2 resources.",
+        "text": "This character's character dice cannot be removed by opponents' Blue events.\n<b>Power Action</b> - Spend 1 resource and choose a symbol to reroll a die. If it rolls the chosen symbol, gain 2 resources.",
         "ttscardid": "49937",
         "type_code": "character"
     },
