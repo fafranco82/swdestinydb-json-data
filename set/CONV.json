@@ -3095,7 +3095,7 @@
         "position": 128,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "Discard a random card from an opponent's hand. If that opponent has no cards in hand, discard the top 3 cards of their deck.",
+        "text": "Discard a random card from an opponent's hand. Then, if that opponent has no cards in hand, discard the top 3 cards of their deck.",
         "ttscardid": "50057",
         "type_code": "event"
     },
