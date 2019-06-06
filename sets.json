@@ -90,8 +90,8 @@
         "size": 180
     },
     {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
+        "cgdb_id_end": 17,
+        "cgdb_id_start": 17,
         "code": "AoN",
         "cycle_code": "CONV",
         "date_release": "2019-04-25",
