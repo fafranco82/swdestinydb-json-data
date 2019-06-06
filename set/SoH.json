@@ -287,6 +287,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "11046",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"By the authority of the Bounty Hunters' Guild, you are now my acquisition.\" <cite>Bossk</i>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Adam Lane",
+        "is_unique": false,
+        "name": "Bounty Hunters' Guild",
+        "position": 46,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "Each of your opponents' characters has a +1 downgrade limit.\nAfter you play a <i>bounty</i>, you may activate one of your <i>bounty hunters</i>.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "11053",
         "cost": 3,
         "deck_limit": 2,
@@ -532,6 +550,37 @@
         ],
         "text": "After you play this upgrade on Yoda, you may give him 1 shield.\n[special] - Deal 1 unblockable damage to a character, or 2 unblockable damage instead if you remove 1 shield from attached character.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11077",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"R2-D2, you know better than to trust a strange computer.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "Audrey Hote",
+        "is_unique": true,
+        "name": "C-3PO",
+        "points": "8/10",
+        "position": 77,
+        "rarity_code": "L",
+        "set_code": "SoH",
+        "sides": [
+            "1F",
+            "1F",
+            "1Sh",
+            "1R",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Perfect Gentleman",
+        "subtypes": [
+            "droid"
+        ],
+        "text": "After you activate this character, you may resolve one of your dice, increasing its value by 1 if you spend 1 resource or spot R2-D2.",
+        "type_code": "character"
     },
     {
         "affiliation_code": "hero",
