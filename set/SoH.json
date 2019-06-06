@@ -291,7 +291,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
-        "flavor": "\"By the authority of the Bounty Hunters' Guild, you are now my acquisition.\" <cite>Bossk</i>",
+        "flavor": "\"By the authority of the Bounty Hunters' Guild, you are now my acquisition.\" <cite>Bossk</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Adam Lane",
