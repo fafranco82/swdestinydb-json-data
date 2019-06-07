@@ -124,6 +124,10 @@
         "name": "Title"
     },
     {
+        "code": "trap",
+        "name": "Trap"
+    },
+    {
         "code": "trooper",
         "name": "Trooper"
     },

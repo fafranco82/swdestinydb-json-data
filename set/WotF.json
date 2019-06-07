@@ -97,7 +97,7 @@
         "faction_code": "blue",
         "flavor": "\"There has been an awakening. Have you felt it?\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 11,
         "illustrator": "Darren Tan",
         "is_unique": true,
@@ -118,7 +118,7 @@
         "subtypes": [
             "leader"
         ],
-        "text": "<b>Power Action</b> - Deal 1 damage to another one of your characters to resolve one of its character dice, increasing its value by 2.",
+        "text": "<b>Power Action</b> - Deal 1 damage to another one of your characters to resolve one of its character dice showing damage, increasing its value by 2.",
         "ttscardid": "48703",
         "type_code": "character"
     },
@@ -842,7 +842,7 @@
         "health": 12,
         "illustrator": "Matt Bradbury",
         "is_unique": true,
-        "name": "Jabba the Hutt",
+        "name": "Jabba The Hutt",
         "points": "12/16",
         "position": 36,
         "rarity_code": "R",

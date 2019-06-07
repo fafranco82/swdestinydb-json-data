@@ -87,7 +87,7 @@
             "trooper"
         ],
         "text": "<b>Power Action</b> - Discard a card from your hand to turn this die to the side that has a value 1 higher than the value showing on this die.",
-         "ttscardid": "50202",
+        "ttscardid": "50202",
         "type_code": "support"
     },
     {
