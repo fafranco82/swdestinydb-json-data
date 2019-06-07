@@ -619,7 +619,7 @@
         "position": 82,
         "rarity_code": "C",
         "set_code": "SoH",
-        "text": "Spot any number of characters that have 3 or less remaining health yo remove that many dice.",
+        "text": "Spot any number of characters that have 3 or less remaining health to remove that many dice.",
         "type_code": "event"
     },
     {
