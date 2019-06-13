@@ -102,6 +102,26 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "11007",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Tony Foti",
+        "is_unique": false,
+        "name": "Hex",
+        "position": 7,
+        "rarity_code": "C",
+        "set_code": "SoH",
+        "subtypes": [
+            "curse"
+        ],
+        "text": "<b>Action</b> - Exhaust this downgrade to remove one of attached character's character die showing a blank ([blank]).",
+        "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "11012",
         "cost": 1,
         "deck_limit": 2,
@@ -134,6 +154,35 @@
         "set_code": "SoH",
         "text": "Each of your opponent's characters gains <i>Jedi</i>.\nBefore you draw your starting hand, shuffle up to 4 set-aside copies of Execute Order 66 ([SoH]27) into your deck.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "11019",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"Awaken.\" <cite>Old Daka</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": true,
+        "name": "Talisman of Resurrection",
+        "position": 19,
+        "rarity_code": "L",
+        "set_code": "SoH",
+        "sides": [
+            "2F",
+            "1Dc",
+            "2Sh",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "<i>Witch</i> character only.\n[special] - Gain 2 resources. Then you may spend resources equal to the point value of a defeated character to return it to play under you control.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "villain",
@@ -254,6 +303,38 @@
         ],
         "text": "[special] - Name a card. Then reveal an opponent's hand and set each copy of the named card from it aside.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "11039",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"He's good — one of the best in the galaxy.\" <cite>Leia Organa</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "Jacob Atienza",
+        "is_unique": true,
+        "name": "IG-88",
+        "points": "14/17",
+        "position": 39,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "2RD",
+            "2RD",
+            "3RD1",
+            "2Dr",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Single-Minded",
+        "subtypes": [
+            "bounty-hunter",
+            "droid"
+        ],
+        "text": "<b>Power Action</b> - Resolve one of your <i>bounty hunter</i> dice showing ranged or melee damage against any number of characters that have a <i>bounty</i> on them.",
+        "type_code": "character"
     },
     {
         "affiliation_code": "villain",
@@ -677,6 +758,37 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "11096",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"Some things never change.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Ryan Valle",
+        "is_unique": true,
+        "name": "Han Solo",
+        "points": "9/12",
+        "position": 96,
+        "rarity_code": "L",
+        "set_code": "SoH",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1Dc",
+            "1R",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Old Swindler",
+        "subtypes": [
+            "scoundrel"
+        ],
+        "text": "<b>Power Action</b> - Turn one of your <i>scoundrel</i> dice showing a resource ([resource]) to any side. If it is a <i>Wookiee</i> die, you may resolve it for free.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "11097",
         "deck_limit": 1,
         "faction_code": "yellow",
@@ -890,6 +1002,62 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "11108",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Jason Juta",
+        "is_unique": true,
+        "name": "Han Solo's Blaster",
+        "position": 108,
+        "rarity_code": "L",
+        "set_code": "SoH",
+        "sides": [
+            "1RD",
+            "2RD",
+            "3RD1",
+            "+3RD",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Ambush.\nAfter you play this upgrade, you may force an opponent to remove one of their dice showing damage. Then, if this upgrade is on Han Solo, you may activate him.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11109",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Han Solo's Dice",
+        "position": 109,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1R",
+            "1R",
+            "2R1",
+            "+1R",
+            "+2R1",
+            "-"
+        ],
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "After one of attached character's character dice rolls a blank ([blank]), you may exhaust this upgrade to reroll it. Then, if this upgrade is on Han Solo, you may ready this upgrade.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "11110",
         "cost": 2,
         "deck_limit": 2,
@@ -905,6 +1073,23 @@
         "set_code": "SoH",
         "text": "Spot a number of characters that share a subtype to heal that much damage from a character.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "11111",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Fateful Companions",
+        "points": "2",
+        "position": 111,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "After you activate a character, you may exhaust this plot and either spot R2-D2 anc C-3PO or spend 1 resource to trigger that character's \"After you activate this character\" ability one additional time.",
+        "type_code": "plot"
     },
     {
         "affiliation_code": "neutral",
@@ -1021,6 +1206,26 @@
         "set_code": "SoH",
         "text": "After a character is defeated, you may exhaust this to gain 1 resource.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "11138",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "JB Casacop",
+        "is_unique": false,
+        "name": "Dead Or Alive",
+        "position": 138,
+        "rarity_code": "C",
+        "set_code": "SoH",
+        "subtypes": [
+            "bounty"
+        ],
+        "text": "Play only if you spot a <i>bounty hunter</i>.\nAfter attached character is activated, you may gain 1 resource.\nAfter attached character is defeated, you may gain 1 resource.",
+        "type_code": "downgrade"
     },
     {
         "affiliation_code": "neutral",
