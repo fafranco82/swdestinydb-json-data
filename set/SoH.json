@@ -306,6 +306,38 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "11038",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "Multiple logic glitches and personality software corruption made him considerably deadlier than other protocol droids.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "Jason Juta",
+        "is_unique": true,
+        "name": "4-LOM",
+        "points": "12/15",
+        "position": 38,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "2RD",
+            "2RD",
+            "1Dr",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Calculating Criminal",
+        "subtypes": [
+            "bounty-hunter",
+            "droid"
+        ],
+        "text": "After a <i>bounty</i> you control is discarded from play, you may add id to your hand.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "11039",
         "deck_limit": 1,
         "faction_code": "yellow",
@@ -368,6 +400,37 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "11041",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"Something ins't right. Zuckuss can sense it.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Joshua Cairós",
+        "is_unique": true,
+        "name": "Zuckuss",
+        "points": "10/13",
+        "position": 41,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1Dr",
+            "1Dc",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "The Uncanny One",
+        "subtypes": [
+            "bounty-hunter"
+        ],
+        "text": "[special] - Gain 1 resource or trigger the \"After attached character is defeated\" ability on a <i>bounty</i> you control and discard it.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "11046",
         "cost": 0,
         "deck_limit": 2,
@@ -383,6 +446,34 @@
         "set_code": "SoH",
         "text": "Each of your opponents' characters has a +1 downgrade limit.\nAfter you play a <i>bounty</i>, you may activate one of your <i>bounty hunters</i>.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "11049",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Stephen Chang",
+        "is_unique": true,
+        "name": "Mist Hunter",
+        "position": 49,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "2RD",
+            "3RD1",
+            "1Dr",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After you a <i>bounty hunter</i> you may activate this support. Then you may spot 4-LOM to reroll this die. You may spot Zuckuss to resolve this die.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
