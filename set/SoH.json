@@ -186,6 +186,67 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "11021",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"Defiance will be the death of you.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Gideon Hask",
+        "points": "10/13",
+        "position": 21,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2ID",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Inferno Squad Commando",
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "<b>Power Action</b> - If you control the battlefield, roll a <i>trooper</i> die on a card you control into your pool.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "11022",
+        "deck_limit": 3,
+        "faction_code": "red",
+        "flavor": "Their suits were designed to protect them from harsh environments, like the swamps of Mimban.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "Adam Lane",
+        "is_unique": false,
+        "name": "Mudtrooper",
+        "points": "8",
+        "position": 22,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2RD1",
+            "1R",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "After you activate this character or a <i>leader</i>, you may reroll one of your dice showing a blank ([blank]).",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "11023",
         "deck_limit": 1,
         "faction_code": "red",
@@ -725,6 +786,37 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "11075",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"Godspeed, Rebels.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Audrey Hotte",
+        "is_unique": true,
+        "name": "Amilyn Holdo",
+        "points": "10/13",
+        "position": 75,
+        "rarity_code": "L",
+        "set_code": "SoH",
+        "sides": [
+            "2ID",
+            "1F",
+            "2F",
+            "1Sh",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Vice Admiral",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "After this character is defeated, you may ready a <i>vehicle</i>.\n[special] - Gain 1 resource or play a <i>vehicle</i> from your hand, decreasing its cost by 2.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "11077",
         "deck_limit": 1,
         "faction_code": "red",
@@ -763,7 +855,7 @@
         "has_die": false,
         "has_errata": false,
         "health": 5,
-        "illustrator": " ",
+        "illustrator": "Tony Foti",
         "is_unique": true,
         "name": "Hoth Trooper",
         "points": "5",
@@ -775,6 +867,23 @@
         ],
         "text": "After you activate this character, you may deal 1 damage to a ready character.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11081",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Lightspeed Assault",
+        "position": 81,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "Defeat one of your <i>leader</i> characters and discard a <i>vehicle</i> you control. Then discar an opponent's <i>vehicle</i> from play and deal indirect damage ([indirect]) to them equal to the discarded <i>vehicles</i>' combined cost.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "hero",
@@ -793,6 +902,69 @@
         "set_code": "SoH",
         "text": "Spot any number of characters that have 3 or less remaining health to remove that many dice.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11085",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Take Control",
+        "position": 85,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "Play a <i>vehicle</i> in an opponent's discard pile for free. After the upkeep phase begins, discard that <i>vehicle</i> from play.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11086",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"This is one of my most advanced designs! Fast, agile, and narrow attack profile. And it packs a punch!\" <cite>Quarrie</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "David Auden Nash",
+        "is_unique": false,
+        "name": "B-Wing",
+        "position": 86,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "2RD",
+            "+3RD",
+            "1Dr",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After the action phase begins, you may activate this support.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11087",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Firm Resolve",
+        "position": 87,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "After one of your characters is defeated or a <i>vehicle</i> you control is discarded, you may place 1 resource on this support.\n<b>Action</b> - Remove 1 resource from this support to turn a die to any side.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "hero",
@@ -1281,6 +1453,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "11132",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Tiziano Baracchi",
+        "is_unique": false,
+        "name": "You Are In Command Now",
+        "position": 132,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "Ambush.\nPlay a <i>title</i> from your hand or discarad pile, decreasing its cost by 1 and ignoring its play restrictions.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "11133",
         "cost": 0,
         "deck_limit": 2,
@@ -1297,6 +1486,62 @@
         "set_code": "SoH",
         "text": "After a character is defeated, you may exhaust this to gain 1 resource.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "11134",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Mark Molnar",
+        "is_unique": false,
+        "name": "AT-RT",
+        "position": 134,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "+1*",
+            "+1*",
+            "+2*",
+            "+2*",
+            "+3*1",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "The modifier sides of this die can be resolved with one of your <i>trooper</i> dice showing any symbol.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "11136",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Audrey Hotte",
+        "is_unique": false,
+        "name": "Admiral",
+        "position": 136,
+        "rarity_code": "L",
+        "set_code": "SoH",
+        "sides": [
+            "3ID",
+            "2F",
+            "3F",
+            "3Sh",
+            "Sp",
+            "Sp"
+        ],
+        "subtypes": [
+            "title"
+        ],
+        "text": "<i>Leader</i> character only.\nAfter you play this upgrade, you may spend 2 resources to ready a character or <i>vehicle</i>.\n[special] - Exhaust this upgrade to ready a character or <i>vehicle</i>.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",
