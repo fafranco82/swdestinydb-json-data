@@ -31,6 +31,37 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "11003",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 13,
+        "illustrator": "Jake Murray",
+        "is_unique": true,
+        "name": "Maul",
+        "points": "16/20",
+        "position": 3,
+        "rarity_code": "L",
+        "set_code": "SoH",
+        "sides": [
+            "1MD",
+            "2MD",
+            "2MD",
+            "3MD",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Skilled Duelist",
+        "subtypes": [
+            "apprentice",
+            "sith"
+        ],
+        "text": "<b>Power Action</b> - Reroll one of this character's character or upgrade dice. You may discard a card from your hand to reroll that die again. If that die is showing melee damage ([melee]), you may remove it to deal damage equal to its value to 2 characters.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "11004",
         "deck_limit": 6,
         "faction_code": "blue",
@@ -731,7 +762,7 @@
     {
         "affiliation_code": "hero",
         "code": "11072",
-        "cost": 1,
+        "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
