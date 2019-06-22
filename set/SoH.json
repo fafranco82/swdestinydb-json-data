@@ -881,7 +881,7 @@
         "affiliation_code": "hero",
         "code": "11078",
         "deck_limit": 7,
-        "faction_code": "yellow",
+        "faction_code": "red",
         "flavor": "\"Echo Station 3T8, we've spotted Imperial walkers!\" <cite>Trey Callum</cite>",
         "has_die": false,
         "has_errata": false,
@@ -1369,7 +1369,7 @@
         "type_code": "event"
     },
     {
-        "affiliation_code": "neutral",
+        "affiliation_code": "hero",
         "code": "11111",
         "deck_limit": 1,
         "faction_code": "gray",
@@ -1382,7 +1382,7 @@
         "position": 111,
         "rarity_code": "U",
         "set_code": "SoH",
-        "text": "After you activate a character, you may exhaust this plot and either spot R2-D2 anc C-3PO or spend 1 resource to trigger that character's \"After you activate this character\" ability one additional time.",
+        "text": "After you activate a character, you may exhaust this plot and either spot R2-D2 and C-3PO or spend 1 resource to trigger that character's \"After you activate this character\" ability one additional time.",
         "type_code": "plot"
     },
     {
