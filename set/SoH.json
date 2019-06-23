@@ -425,7 +425,7 @@
             "bounty-hunter",
             "droid"
         ],
-        "text": "After a <i>bounty</i> you control is discarded from play, you may add id to your hand.",
+        "text": "After a <i>bounty</i> you control is discarded from play, you may add it to your hand.",
         "type_code": "character"
     },
     {
@@ -495,7 +495,7 @@
         "code": "11041",
         "deck_limit": 1,
         "faction_code": "yellow",
-        "flavor": "\"Something ins't right. Zuckuss can sense it.\"",
+        "flavor": "\"Something isn't right. Zuckuss can sense it.\"",
         "has_die": true,
         "has_errata": false,
         "health": 10,
@@ -564,7 +564,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "After you a <i>bounty hunter</i> you may activate this support. Then you may spot 4-LOM to reroll this die. You may spot Zuckuss to resolve this die.",
+        "text": "After you activate a <i>bounty hunter</i> you may activate this support. Then you may spot 4-LOM to reroll this die. You may spot Zuckuss to resolve this die.",
         "type_code": "support"
     },
     {
@@ -880,7 +880,7 @@
     {
         "affiliation_code": "hero",
         "code": "11078",
-        "deck_limit": 7,
+        "deck_limit": 6,
         "faction_code": "red",
         "flavor": "\"Echo Station 3T8, we've spotted Imperial walkers!\" <cite>Trey Callum</cite>",
         "has_die": false,
@@ -1020,7 +1020,7 @@
             "Sp",
             "-"
         ],
-        "subtitle": "Brught Tree Village Elder",
+        "subtitle": "Bright Tree Village Elder",
         "subtypes": [
             "ewok",
             "leader"
@@ -1038,7 +1038,7 @@
         "has_errata": false,
         "health": 4,
         "illustrator": "Romana Kendelic",
-        "is_unique": true,
+        "is_unique": false,
         "name": "Ewok Warrior",
         "points": "4",
         "position": 95,
@@ -1131,7 +1131,7 @@
             "trap"
         ],
         "text": "After attached character is activated, you may discard this downgrade to deal damage to it equal to the number of its character and upgrade dice showing damage ([ranged], [melee], or [indirect]).",
-        "type_code": "event"
+        "type_code": "downgrade"
     },
     {
         "affiliation_code": "hero",
@@ -1151,7 +1151,7 @@
             "trap"
         ],
         "text": "After attached character is activated, you may discard this downgrade to remove one of its character or upgrade dice showing damage ([ranged], [melee], or [indirect]).",
-        "type_code": "event"
+        "type_code": "downgrade"
     },
     {
         "affiliation_code": "hero",
@@ -1172,7 +1172,7 @@
             "trap"
         ],
         "text": "After attached character is activated, you may discard this downgrade to reroll any number of its character and upgrade dice.",
-        "type_code": "event"
+        "type_code": "downgrade"
     },
     {
         "affiliation_code": "hero",
