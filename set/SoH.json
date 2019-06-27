@@ -746,7 +746,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 12,
-        "illustrator": " ",
+        "illustrator": "Andreas Zafiratos",
         "is_unique": true,
         "name": "Yoda",
         "points": "14/18",
@@ -768,6 +768,45 @@
         ],
         "text": "This character has a +3 shield limit.\nThe character's shields can be used to block damage dealt to <i>apprentice</i> characters.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11059",
+        "deck_limit": 7,
+        "faction_code": "blue",
+        "flavor": "\"Truly wonderful, the mind of a child is.\" <cite>Yoda</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "health": 4,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Youngling",
+        "points": "4",
+        "position": 59,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "subtypes": [
+            "apprentice"
+        ],
+        "text": "Include only if you have a <i>Jedi</i> on your team.\n<b>Power Action</b> - Play a Blue upgrade from your hand onto this character, decreasing its cost by 1.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11060",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Javier Charro Martinez",
+        "is_unique": false,
+        "name": "Refusal",
+        "position": 60,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "Damage symbols ([ranged], [melee], or [indirect]) on attached character's character dice are resource symbols ([resource]) instead.\nAfter attached character is dealt damage, discard this downgrade.",
+        "type_code": "downgrade"
     },
     {
         "affiliation_code": "hero",
@@ -805,6 +844,24 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "11066",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"It's not just about lifting rocks.\" <cite>Luke Skywalker</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Moving Rocks",
+        "position": 66,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "Spot an <i>apprentice</i> or a <i>Jedi</i> to move any number of shields to any number of characters.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "11068",
         "cost": 2,
         "deck_limit": 2,
@@ -822,6 +879,80 @@
             "location"
         ],
         "text": "After an opponent's effect removes one of your <i>apprentice</i> or <i>Jedi</i> dice, you may exhaust this support to roll that die into your pool.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11069",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "For a thousand generations he helped Jedi younglings construct their lightsabers.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Jason Juta",
+        "is_unique": true,
+        "name": "Professor Huyang",
+        "position": 69,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1MD",
+            "1MD",
+            "2F",
+            "1Sh",
+            "1Sh",
+            "2R"
+        ],
+        "subtypes": [
+            "droid"
+        ],
+        "text": "After you play a Blue upgrade on an <i>apprentice</i>, you may activate this support. Then, if that upgrade is a <i>weapon</i>, you may roll its die into your pool.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11070",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": true,
+        "name": "Qui-Gon Jinn's Spirit",
+        "position": 70,
+        "rarity_code": "L",
+        "set_code": "SoH",
+        "sides": [
+            "1F",
+            "1Sh",
+            "+2Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "jedi"
+        ],
+        "text": "Discad this support from play if you control Qui'Gon Jinn.\n[special] - Shuffle this support into its owner's deck to give a character 1 shield. Then remove any number of shields from your characters to deal that much damage to a character.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "11071",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Three Lessons",
+        "position": 71,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "This support enters play with 3 resources on it.\n<b>Action</b> - Exhaust this support, remove a resource from it, and spot a <i>Jedi</i> to turn an <i>apprentice</i> die to any side.",
         "type_code": "support"
     },
     {
@@ -1452,6 +1583,46 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": "11116",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Draw Closer",
+        "position": 116,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "subtypes": [
+            "move"
+        ],
+        "text": "Resolve one of your character or upgrade dice showing melee damage ([melee]) without removing it from your pool, increasing its value by 2 if that character has an upgrade titled Niman Mastery on it.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "11118",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Borja Pindado",
+        "is_unique": false,
+        "name": "Pushing Slash",
+        "position": 118,
+        "rarity_code": "C",
+        "set_code": "SoH",
+        "subtypes": [
+            "move"
+        ],
+        "text": "Activate one of your Blue characters. Then you may resolve one of that character's character or upgrade dice. If that character has a card titled Niman Mastery on it, you may turn a die to any side.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "11119",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -1511,6 +1682,62 @@
             "form"
         ],
         "text": "Blue character only. Limit 1 <i>form</i> per character.\nAfter you play this upgrade, turn a character or upgrade die to any side.\n[special] - Turn a character and upgrade die to the sides of your choice.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "11123",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Niman Training",
+        "position": 123,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1MD",
+            "1R",
+            "Sp",
+            "Sp",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Blue character only.\n[special] - Turn an upgrade die to any side. You may discard this upgrade to play a card titled Niman Mastery from your hand or discard pile on attached character for free.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "11124",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Jake Murray",
+        "is_unique": false,
+        "name": "Untamed Power",
+        "position": 124,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "+2MD",
+            "1Dc",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "<i>Apprentice</i> character only.\n[special] - If this upgrade is on a hero, give a character 1 shield and remove a die showing damage. If it is on a villain, deal 1 damage to a character and remove a die not showing damage.",
         "type_code": "upgrade"
     },
     {
