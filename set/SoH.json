@@ -1903,5 +1903,84 @@
         "set_code": "SoH",
         "text": "Spot 3 exhausted characters to remove all character dice.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "11151",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "The Mining Guild used a modified yellow Imperial TIE fighter for security purposes",        
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Mining Guild TIE Fighter",
+        "position": 151,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1RD",
+            "2ID",
+            "1Dr",
+            "2Dr",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After an opponent's effect causes you to lose 1 or more resources, you may activate this support to deal 1 indirect damage ([indirect]) to them.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "11151",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "\"You certainly have the right... disposition.\" <cite>Bossk</cite>",        
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "Bounty Hunter Mask",
+        "position": 152,
+        "rarity_code": "C",
+        "set_code": "SoH",
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "Attached character has +1 health and gains <i>bounty hunter</i>.",
+        "type_code": "upgrade"
+    },    
+    {
+        "affiliation_code": "neutral",
+        "code": "11153",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flavor": "This weapon was banned among the Rebel Alliance for its destructive potential. Some operatives carried it anyway.",        
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "",
+        "is_unique": false,
+        "name": "DX-2 Disruptor Blaster Pistol",
+        "position": 153,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1RD",
+            "2RD",
+            "+2RD",
+            "1Dr",
+            "1Dr",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Damage dealt by this die or by a die that it modifies is unblockable.",
+        "type_code": "upgrade"
     }
 ]
