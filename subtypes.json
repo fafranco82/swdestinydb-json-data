@@ -124,6 +124,10 @@
         "name": "Spectre"
     },
     {
+        "code": "spell",
+        "name": "Spell"
+    },
+    {
         "code": "title",
         "name": "Title"
     },
