@@ -1163,6 +1163,7 @@
         "name": "Armor Plating",
         "position": 52,
         "rarity_code": "C",
+        "reprint_of": "02089",
         "set_code": "SoH",
         "subtypes": [
             "equipment"
@@ -3152,6 +3153,7 @@
         "name": "Reversal",
         "position": 146,
         "rarity_code": "C",
+        "reprint_of": "01160",
         "set_code": "SoH",
         "text": "Spot a Yellow character to remove a die showing damage ([ranged], [melee], or [indirect]). Then deal damage to a character equal to the value showing on that die.",
         "type_code": "event"
