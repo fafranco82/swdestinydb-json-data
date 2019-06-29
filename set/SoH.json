@@ -1872,6 +1872,7 @@
         "name": "Rebel Assault",
         "position": 83,
         "rarity_code": "C",
+        "reprint_of": "02094",
         "set_code": "SoH",
         "text": "Play only if you have one or more dice showing ranged damage ([ranged]).\nRemove an opponent's die not showing damage ([ranged], [melee], or [indirect]).",
         "type_code": "event"
@@ -2603,6 +2604,7 @@
         "name": "Decisive Blow",
         "position": 115,
         "rarity_code": "C",
+        "reprint_of": "02127",
         "set_code": "SoH",
         "text": "Resolve one of your dice showing melee damage ([melee]) against a character. Then remove all of that character's character and upgrade dice.",
         "type_code": "event"
