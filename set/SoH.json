@@ -3254,7 +3254,7 @@
     {
         "affiliation_code": "neutral",
         "code": "11152",
-        "cost": 2,
+        "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
         "flavor": "\"You certainly have the right... disposition.\" <cite>Bossk</cite>",
