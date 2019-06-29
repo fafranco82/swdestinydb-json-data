@@ -217,7 +217,7 @@
         "subtypes": [
             "curse"
         ],
-        "text": "<b>Action</b> - Exhaus this downgrade to deal 1 damage to attached character, or 2 damage instead if you spot a <i>witch</i>. Use this action only if attached character is ready and it is not the first turn of the round.",
+        "text": "<b>Action</b> - Exhaust this downgrade to deal 1 damage to attached character, or 2 damage instead if you spot a <i>witch</i>. Use this action only if attached character is ready and it is not the first turn of the round.",
         "type_code": "downgrade"
     },
     {
@@ -292,7 +292,7 @@
         "position": 14,
         "rarity_code": "C",
         "set_code": "SoH",
-        "text": "Spot up to 3 <i>witch</i> to heal that much damage from a character.",
+        "text": "Spot up to 3 <i>witch</i> characters to heal that much damage from a character.",
         "type_code": "event"
     },
     {
@@ -309,7 +309,7 @@
         "position": 15,
         "rarity_code": "U",
         "set_code": "SoH",
-        "text": "Each of your opponent's characters gains <i>Jedi</i>.\nBefore you draw your starting hand, shuffle up to 4 set-aside copies of Execute Order 66 ([SoH]27) into your deck.",
+        "text": "Each of your opponents' characters gains <i>Jedi</i>.\nBefore you draw your starting hand, shuffle up to 4 set-aside copies of Execute Order 66 ([SoH]27) into your deck.",
         "type_code": "plot"
     },
     {
@@ -1010,8 +1010,8 @@
         "position": 46,
         "rarity_code": "U",
         "set_code": "SoH",
-        "text": "Each of your opponents' characters has a +1 downgrade limit.\nAfter you play a <i>bounty</i>, you may activate one of your <i>bounty hunters</i>.",
-        "type_code": "event"
+        "text": "Each of your opponents' characters has +1 downgrade limit.\nAfter you play a <i>bounty</i>, you may activate one of your <i>bounty hunters</i>.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
@@ -1073,7 +1073,7 @@
         "rarity_code": "U",
         "set_code": "SoH",
         "text": "Before an opponent's <i>equipment</i> or <i>weapon</i> upgrade would be discarded from play, you may instead discard this support from play to take control of that upgrade and move it to one of your <i>bounty hunter</i> characters.",
-        "type_code": "event"
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
