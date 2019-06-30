@@ -221,7 +221,7 @@
         "type_code": "downgrade"
     },
     {
-       "affiliation_code": "villain",
+        "affiliation_code": "villain",
         "code": 11010,
         "cost": 2,
         "deck_limit": 2,
