@@ -221,6 +221,23 @@
         "type_code": "downgrade"
     },
     {
+       "affiliation_code": "villain",
+        "code": 11010,
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Act of Betrayal",
+        "position": 10,
+        "rarity_code": "C",
+        "set_code": "SoH",
+        "text": "Remove an upgrade die. Then deal damage equal to the value showing on that die to a character.",
+        "type_code": "event"
+    },
+    {
         "affiliation_code": "villain",
         "code": "11011",
         "cost": 0,
@@ -636,6 +653,24 @@
         "rarity_code": "C",
         "set_code": "SoH",
         "text": "Choose a character subtype. Then either reroll any number of dice that have that subtype or resolve 2 of your dice that have that subtype.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": 11029,
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"Here's to Inferno Squad. May we live up to our name.\" - <cite>Gideon Hask</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Tiziano Baracchi",
+        "is_unique": false,
+        "name": "To Victory",
+        "position": 29,
+        "rarity_code": "C",
+        "set_code": "SoH",
+        "text": "Gain resources equal to the number of defeated characters an opponent has.",
         "type_code": "event"
     },
     {
@@ -2907,6 +2942,23 @@
     },
     {
         "affiliation_code": "neutral",
+        "code": 11131,
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Shortcut",
+        "position": 131,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "Spot a <i>vehicle</i> to switch the battlefield with a set-aside battlefield.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
         "code": "11132",
         "cost": 0,
         "deck_limit": 2,
@@ -2967,6 +3019,35 @@
             "vehicle"
         ],
         "text": "The modifier sides of this die can be resolved with one of your <i>trooper</i> dice showing any symbol.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": 11135,
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "\"Hands where we can see them. You are coming with us.\"",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Jason Juta",
+        "is_unique": false,
+        "name": "Coruscant Police",
+        "position": 135,
+        "rarity_code": "R",
+        "set_code": "SoH",
+        "sides": [
+            "1RD",
+            "1RD",
+            "2ID",
+            "1Sh",
+            "1Sh",
+            "1R"
+        ],
+        "subtypes": [
+            "droid"
+        ],
+        "text": "After you play this <i>support</i>, you may remove a <i>scoundrel</i> die.",
         "type_code": "support"
     },
     {
@@ -3053,6 +3134,23 @@
         "rarity_code": "C",
         "set_code": "SoH",
         "text": "Remove all of an opponent's dice showing a resource ([resource]).",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": 11140,
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Greg Bobrowski",
+        "is_unique": false,
+        "name": "Disassemble",
+        "position": 140,
+        "rarity_code": "C",
+        "set_code": "SoH",
+        "text": "Discard a diceless <i>support</i>, upgrade, or downgrade from play.",
         "type_code": "event"
     },
     {
@@ -3175,6 +3273,23 @@
         "rarity_code": "U",
         "set_code": "SoH",
         "text": "The player who controls the battlefield chooses a die in their pool. Then remove that die or resolve it as if it were in your pool.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": 11148,
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,        
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Unify",
+        "position": 148,
+        "rarity_code": "C",
+        "set_code": "SoH",
+        "text": "Choose a character subtype on one of your characters. Until the end of the round, your other characters gain the chosen subtype.",
         "type_code": "event"
     },
     {
@@ -3389,6 +3504,23 @@
         "set_code": "SoH",
         "subtitle": "Canto Bight",
         "text": "<b>Power Action</b> - Spend 1 resource to reroll 2 dice. Then, if those dice are showing the same value, gain 2 resources, or 3 resources instead if they are also showing the same symbol.",
+        "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": 11158,
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Jabba's Palace",
+        "position": 158,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "subtitle": "Tatooine",
+        "text": "Claim - Gain 1 resource. You may spot a <i>bounty hunter</i> to force an opponent to lose 1 resource.",
         "type_code": "battlefield"
     },
     {
