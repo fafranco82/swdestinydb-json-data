@@ -100,8 +100,8 @@
         "size": 20
     },
     {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
+        "cgdb_id_end": 18,
+        "cgdb_id_start": 18,
         "code": "SoH",
         "cycle_code": "CONV",
         "date_release": "2019-07-05",
