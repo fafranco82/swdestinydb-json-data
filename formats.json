@@ -12,7 +12,8 @@
                 "WotF",
                 "AtG",
                 "CONV",
-                "AoN"
+                "AoN",
+                "SoH"
             ]
         },
         "name": "Standard"
@@ -23,7 +24,8 @@
             "balance": {},
             "sets": [
                 "CONV",
-                "AoN"
+                "AoN",
+                "SoH
             ]
         },
         "name": "Trilogy"
@@ -70,7 +72,8 @@
                 "WotF",
                 "AtG",
                 "CONV",
-                "AoN"
+                "AoN",
+                "SoH"
             ]
         },
         "name": "Infinite"
