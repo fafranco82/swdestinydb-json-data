@@ -24,6 +24,10 @@
         "name": "Bounty Hunter"
     },
     {
+        "code": "curse",
+        "name": "Curse"
+    },
+    {
         "code": "droid",
         "name": "Droid"
     },
@@ -118,6 +122,10 @@
     {
         "code": "spectre",
         "name": "Spectre"
+    },
+    {
+        "code": "spell",
+        "name": "Spell"
     },
     {
         "code": "title",

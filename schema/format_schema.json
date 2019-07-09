@@ -18,6 +18,14 @@
                     },
                     "type": "object"
                 },
+                "restricted": {
+                    "additionalProperties": false,
+                    "items": {
+                        "pattern": "^[0-9]{5}$",
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
                 "sets": {
                     "items": {
                         "maxLength": 5,
@@ -29,6 +37,7 @@
             },
             "required": [
                 "balance",
+                "restricted",
                 "sets"
             ],
             "type": "object"
