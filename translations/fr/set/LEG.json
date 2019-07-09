@@ -1,0 +1,929 @@
+[
+    {
+        "code": "05001",
+        "name": "Sombre Conseiller",
+        "text": "[special] - Piochez 3 cartes. Puis placez une carte de votre main sur ou sous votre deck."
+    },
+    {
+        "code": "05002",
+        "name": "Maul",
+        "subtitle": "Avide de vengeance",
+        "text": "Après qu'au moins un dé de personnage ou d'amélioration de ce personnage a été retiré par un effet de carte d'un adversaire, vous pouvez retirer un des dés de cet adversaire."
+    },
+    {
+        "code": "05003",
+        "name": "Mère Talzin",
+        "subtitle": "Matriarche des soeurs de la nuit",
+        "text": "Après avoir activé ce personnage, vous pouvez révéler la première carte du deck d'un joueur. Si son coût est impair, tournez un des dés de ce joueur sur n'importe quelle face."
+    },
+    {
+        "code": "05004",
+        "name": "Palpatine",
+        "subtitle": "Dark Sidious",
+        "text": "<b>Action Puissance</b> - Jouez un événement de votre main, en diminuant son coût par  le nombre de symboles de dégâts différents  ([ranged], [melee] or [indirect]) montrés par vos dés."
+    },
+    {
+        "code": "05005",
+        "name": "Chasseur de Kylo Ren",
+        "text": "[special] - Choisissez une couleur. Puis révélez la main d'un adversaire et infligez-lui des dégâts indirects ([indirect]) égaux au nombre de cartes de la couleur choisie présentes dans sa main."
+    },
+    {
+        "code": "05006",
+        "name": "Boule de cristal",
+        "text": "Après avoir activé le personnage attaché, vous pouvez regarder la première carte d'un deck."
+    },
+    {
+        "code": "05007",
+        "name": "Déchirure de Force",
+        "text": "Personnage Bleu uniquement.\n[special] - Dépensez un nombre de ressources égal au coût d'une carte de soutien ou d'amélioration en jeu pour la défausser."
+    },
+    {
+        "code": "05008",
+        "name": "Sabre laser de Maul",
+        "text": "Personnage Bleu uniquement.\n<b>Action Puissance</b> -  Si un adversaire n'a pas de boucliers sur aucun de ses personnages, dépensez 1 ressource pour lancer ce dé dans votre réserve."
+    },
+    {
+        "code": "05009",
+        "name": "Droïde de combat",
+        "text": "Après avoir activé ce personnage, si ce dé tout juste lancé a produit des dégâts indirects ([indirect]), vous pouvez activer un autre de vos droïdes de combat ([LEG]9)."
+    },
+    {
+        "code": "05010",
+        "name": "Kallus",
+        "subtitle": "Agent de l'Empire",
+        "text": "<b>Action Puissance</b> - Tournez ce dé montrant des dégâts à distance ([ranged]) sur une face montrant des dégâts de mêlée ([melee]), et vice versa."
+    },
+    {
+        "code": "05011",
+        "name": "Nute Gunray",
+        "subtitle": "Vice-Roi séparatiste",
+        "text": "Chaque adversaire gagne 1 ressource de moins pendant la phase d'entretien, pour un minimum de 1, sauf si cet adversaire défausse les 2 premières cartes de son deck."
+    },
+    {
+        "code": "05012",
+        "name": "Tarkin",
+        "subtitle": "Grand Moff",
+        "text": "<b>Action Puissance</b> - Retirez 2 de vos dés montrant le même symbole pour infliger 4 dégâts indirects ([indirect]) à un adversaire."
+    },
+    {
+        "code": "05013",
+        "name": "Stormtrooper vétéran"
+    },
+    {
+        "code": "05014",
+        "name": "Vaisseau de débarquement séparatiste",
+        "text": "[special] - Dépensez 2 ressources pour ajouter un Droïde de combat ([LEG]9) à votre équipe. Défaussez ce soutien du jeu."
+    },
+    {
+        "code": "05015",
+        "name": "Grenade à fragmentation",
+        "text": "Après avoir résolu ce dé, défaussez cette amélioration du jeu sauf si vous dépensez 1 ressource."
+    },
+    {
+        "code": "05016",
+        "name": "Grand Moff",
+        "text": "Personnage Rouge unique uniquement.\n<b>Action Puissance</b> -  Utilisez la capacité de capture du champ de bataille, ou échangez le champ de bataille contre un champ de bataille qui n'est pas utilisé <em>(mais a été amené pour la partie)</em>."
+    },
+    {
+        "code": "05017",
+        "name": "Fusil-bo de Kallus",
+        "text": "Embuscade."
+    },
+    {
+        "code": "05018",
+        "name": "Bib Fortuna",
+        "subtitle": "Majordome",
+        "text": "[special] - Lancez un dé de personnage qui est sur l'un de vos autres personnages dans votre réserve."
+    },
+    {
+        "code": "05019",
+        "name": "Boba Fett",
+        "subtitle": "Mercenaire mortel",
+        "text": "[special] - Infligez à un personnage des dégâts égaux à la valeur montrée par un dé <em>(le vôtre ou celui d'un adversaire)</em>."
+    },
+    {
+        "code": "05020",
+        "name": "Docteur Aphra",
+        "subtitle": "Chasseuse d'artefact",
+        "text": "Le coût du premier <i>droïde</i> que vous jouez à chaque round diminue de 1.\nAprès que vous vous êtes infligé des dégâts indirects ([indirect]), vous pouvez piocher une carte."
+    },
+    {
+        "code": "05021",
+        "name": "Greedo",
+        "subtitle": "Mercenaire malchanceux",
+        "text": "Avant que ce personnage ne soit vaincu, lancez n'importe quel nombre de ses dés de personnage dans votre réserve. Puis résolvez n'importe quel nombre de ses dés de personnage dans l'ordre de votre choix."
+    },
+    {
+        "code": "05022",
+        "name": "Traître rebelle",
+        "text": "Après avoir activé ce personnage, vous pouvez forcer un adversaire à choisir et activer un de ses personnages en tant que sa prochaine action à ce round, si possible."
+    },
+    {
+        "code": "05023",
+        "name": "Arch Angel",
+        "text": "Après avoir activé ce soutien, activez jusqu'à 2 de vos autres soutiens dans l'ordre de votre choix."
+    },
+    {
+        "code": "05024",
+        "name": "BT-1",
+        "text": "Après avoir activé ce soutien, infligez-vous 1 dégât indirect ([indirect]). Puis infligez 1 dégât indirect ([indirect]) à un adversaire."
+    },
+    {
+        "code": "05025",
+        "name": "Slave I",
+        "text": "<b>Action Puissance</b> - Relancez un de vos dés Jaunes. Puis vous pouvez retirer un dé d'un adversaire montrant une valeur égale à celle montrée par le dé que vous venez de relancer."
+    },
+    {
+        "code": "05026",
+        "name": "Instinct de chasseur",
+        "text": "[special] - Infligez 1 dégât à un personnage, ou 2 dégâts à la place si celui-ci a au moins 3 dégâts sur lui."
+    },
+    {
+        "code": "05027",
+        "name": "Lance-roquettes au poignet",
+        "text": "Personnage Jaune uniquement.\n[special] - Infligez 2 dégâts à un personnage. Vous pouvez dépenser 1 ressource pour infliger 2 dégâts à un personnage."
+    },
+    {
+        "code": "05028",
+        "name": "BB-9E",
+        "text": "[special] - Relancez un dé d'un adversaire. Relancez ce dé au lieu de le retirer de votre réserve."
+    },
+    {
+        "code": "05029",
+        "name": "Aayla Secura",
+        "subtitle": "Général Jedi",
+        "text": "[special] - Tournez un de vos dés Bleus ou Rouges sur n'importe quelle face. Tournez un dé d'un adversaire sur n'importe quelle face."
+    },
+    {
+        "code": "05030",
+        "name": "Garde du temple jedi",
+        "text": "Gardien."
+    },
+    {
+        "code": "05031",
+        "name": "Luke Skywalker",
+        "subtitle": "Héros improbable",
+        "text": "<b>Action Puissance</b> - Dépensez 2 ressources pour résoudre un dé de personnage ou d'amélioration de ce personnage, en augmentant de 2 sa valeur."
+    },
+    {
+        "code": "05032",
+        "name": "Obi-Wan Kenobi",
+        "subtitle": "Chevalier Jedi",
+        "text": "Dépensez 2 ressources pour résoudre un dé de personnage ou d'amélioration de ce personnage, en augmentant de 2 sa valeur."
+    },
+    {
+        "code": "05033",
+        "name": "Yoda",
+        "subtitle": "Maitre frippé",
+        "text": "[special] - Choisissez et appliquez 2 des options suivantes : gagner 1 ressource, donner 1 bouclier à 1 personnage, tourner 1 de vos dés sur n'importe quelle face, ou défausser la première carte d'un deck."
+    },
+    {
+        "code": "05034",
+        "name": "ETA-2 Interceptor",
+        "text": "<b>Action</b> - Retirez ce dé ou un de vos dés montrant un bouclier ([shield]) pour incliner un soutien.."
+    },
+    {
+        "code": "05035",
+        "name": "R2-D2",
+        "text": "[special] - Piochez 1 carte. Vous pouvez tourner un de cos dés sur n'importe quelle face."
+    },
+    {
+        "code": "05036",
+        "name": "Méditation de Force",
+        "text": "Pour jouer cette carte, désignez un personnage Bleu.\n[special] - Défaussez les 2 premières cartes d'un deck."
+    },
+    {
+        "code": "05037",
+        "name": "Sabre laser d'Obi-Wan Kenobi",
+        "text": "Personnage Bleu uniquement.\n[special] - Donnez 1 bouclier au personnage attaché. Infligez à un personnage des dégâts non blocables égaux au nombre de boucliers sur le personnage attaché."
+    },
+    {
+        "code": "05038",
+        "name": "Clone Trooper",
+        "text": "Après avoir activé de personnage, vous pouvez relancer ce dé, ou, si vous contrôlez le champs de bataille, vous pouvez relancer un dé de personnage."
+    },
+    {
+        "code": "05039",
+        "name": "Finn",
+        "subtitle": "Soldat de circonstance",
+        "text": "[special] - Déplacez 1 dégât d'une carte vers une autre carte en jeu <em>(ignorez les boucliers)</em>."
+    },
+    {
+        "code": "05040",
+        "name": "Rose",
+        "subtitle": "Mécanicienne expérimentée",
+        "text": "[special] - Gagnez 1 ressource. Vous pouvez retirer 1 dégât d'un soutien."
+    },
+    {
+        "code": "05041",
+        "name": "Wedge Antilles",
+        "subtitle": "Chef d'escouade",
+        "text": "<b>Action Puissance</b> - Tournez un de vos dés de <i>véhicule</i> sur n'importe quelle face."
+    },
+    {
+        "code": "05042",
+        "name": "Équipe mortier",
+        "text": "Tanr que vous contrôlez le champ de bataille, vous pouvez résoudre les faces dégâts indirects ([indirect]) de ce dé comme si elles étaient des dégâts à distance ([ranged])."
+    },
+    {
+        "code": "05043",
+        "name": "Bombardier de la résistance",
+        "text": "Après que ce dé a été résolu, placez 1 dégât sur ce soutien.\nDéfaussez ce soutien s'il a au moins 3 dégâts sur lui."
+    },
+    {
+        "code": "05044",
+        "name": "Fusil camouflé",
+        "text": "[special] - Infligez 2 dégâts à un personnage, ou 3 dégâts à la place si vous contrôlez le champ de bataille."
+    },
+    {
+        "code": "05045",
+        "name": "Leader de la rébellion",
+        "text": "Personnage Rouge unique uniquement.\n<b>Action Puissance</b> - Retirez un dé d'un adversaire montrant le même symbole qu'un de vos dés."
+    },
+    {
+        "code": "05046",
+        "name": "Han Solo",
+        "subtitle": "Contrebandier fûté",
+        "text": "Après avoir activé ce personnage, vous pouvez relancer un dé <em>(l'un des votres ou celui d'un adversaire)</em>."
+    },
+    {
+        "code": "05047",
+        "name": "Jar Jar Binks",
+        "subtitle": "Paria maladroit",
+        "text": "N'importe quel joueur peut entreprendre une action pour activer ce personnage.\nAprès avoir activé ce personnage, relancez tous les dés montrat un symbole qui n'est pas montré par ses dés dde personnage."
+    },
+    {
+        "code": "05048",
+        "name": "Partisan de Jedha",
+        "text": "Après avoir infligé des dégâts indirects ([indirect]) à un adversaire pour la première fois à chaque round, vous pouvez défausser la première carte d'un deck."
+    },
+    {
+        "code": "05049",
+        "name": "Saw Gerrera",
+        "subtitle": "Leader extrémiste",
+        "text": "[special] - Défaussez une carte au hasard de la main d'un joueur. Puis infligez à un adversaire des dégâts indirects ([indirect]) égaux au coût dde la carte défaussée."
+    },
+    {
+        "code": "05050",
+        "name": "Zeb Orrelios",
+        "subtitle": "Le dernier Lasat",
+        "text": "Vous pouvez résoudre les faces dégâts de mélée ([melee]) de ce dé comme si elles étaient des dégâts à distance ([ranged])."
+    },
+    {
+        "code": "05051",
+        "name": "Boomas hors de contrôle",
+        "text": "<b>Action Puissance</b> - Dépensez 1 ressource pour lancer un dé Boomas hors de contrôle ([LEG]51) dans votre réserve. Mettez de côté ce dé après qu'il a été résolu ou retiré."
+    },
+    {
+        "code": "05052",
+        "name": "Millennium Falcon",
+        "text": "Après avoir activé ce soutien, vous pouvez activer un de vos personnages."
+    },
+    {
+        "code": "05053",
+        "name": "Roguish Charm",
+        "text": "Personnage Jaune uniquement.\n[special] - Retirez un dé montrant des dégâts ([ranged], [melee] or [indirect]). Gagnez un nombre de ressources égal au coût en ressources montré par la face du dé <em>(pas sa valeur)</em>."
+    },
+    {
+        "code": "05054",
+        "name": "Fusil-BO de Zeb Orrelios",
+        "text": "<b>Action</b> - Dépensez 1 ressource pour résoudre ce dé montrant un modificateur <em>(une face avec un +)</em> comme s'il n'avait pas de modificateur."
+    },
+    {
+        "code": "05055",
+        "name": "Croiseur de la république",
+        "text": "[special] - Donnez 2 boucliers à un personnage unique ou 1 bouclier à chacun de vos personnages uniques."
+    },
+    {
+        "code": "05056",
+        "name": "Concentration de Force",
+        "text": "Pour jouer cette carte, désignez un personnage Bleu.\n[special] - Tournez un de vos dés sur n'importe quelle face. Vous pouvez révéler une carte Bleue de votre main pour tourner un dé d'un adversaire sur n'importe quelle face."
+    },
+    {
+        "code": "05057",
+        "name": "Vague de Force",
+        "text": "Personnage Bleu uniquement.\n[special] - Infligez 3 dégâts à un personnage. Infligez 2 dégâts à un autre personnage. Infligez 1 dégât à un troisième personnage."
+    },
+    {
+        "code": "05058",
+        "name": "Sabrelaser familial",
+        "text": "Cette amélioration a le mot-clé Redéploiement tant qu'elle est sur un personnage Bleu."
+    },
+    {
+        "code": "05059",
+        "name": "Comlink Hush-98",
+        "text": "<b>Action</b> - Retirez ce dé pour activer n'importe que lnombre de vos personnages et/ou soutiens dans l'ordre de votre choix."
+    },
+    {
+        "code": "05060",
+        "name": "Bataillon au sol",
+        "text": "Après avoir activé ce soutien, vous pouvez prendre le contrôle du champ de bataille. <em>(Cela ne capture pas le champ de bataille.)</em>"
+    },
+    {
+        "code": "05061",
+        "name": "Poste de guetteur",
+        "text": "À ne jouer que si vous contrôlez le champ de bataille."
+    },
+    {
+        "code": "05062",
+        "name": "Canon automatique"
+    },
+    {
+        "code": "05063",
+        "name": "E-11 Blaster",
+        "text": "Redéploiement."
+    },
+    {
+        "code": "05064",
+        "name": "74-Z Speeder Bike",
+        "text": "<b>Action</b> - Résolvez ce dé et l'un des dés du personnage attaché, dans l'ordre de votre choix."
+    },
+    {
+        "code": "05065",
+        "name": "Hondo Ohnaka",
+        "subtitle": "Homme d'affaire respecté",
+        "text": "[special] - Infligez 3 dégâts à un personnage d'un adversaire, sauf si ce dernier vous donne 1 ressource."
+    },
+    {
+        "code": "05066",
+        "name": "Char speeder pirate",
+        "text": "[special] - Infligez 2 dégâts à un personnage, donnez 2 boucliers à un personnage et entreprenez une action supplémentaire."
+    },
+    {
+        "code": "05067",
+        "name": "Troc",
+        "text": "[special] - Gagnez 1 ressource. Vous pouvez forcer chaque joueur à piocher une carte."
+    },
+    {
+        "code": "05068",
+        "name": "Union",
+        "text": "X est égal au nombre de personnages jaunes que vous avez en jeu."
+    },
+    {
+        "code": "05069",
+        "name": "Vibro coutlas",
+        "text": "Redéploiement.\nTant que cette amélioration est sur un personnage Jaune, diminuez de 1 le coût en resssource de ce dé."
+    },
+    {
+        "code": "05070",
+        "name": "HWK-290 modifié",
+        "text": "Après avoir joué ce soutien, placez 2 dégâts dessus. Après avoir activé ce soutien, infligez vous des dégâts indirects ([indirect]) égaux au nombre de dégâts sur lui."
+    },
+    {
+        "code": "05071",
+        "name": "Pistolet de Canto Bight",
+        "text": "Redéploiement.\n[special] -  Infligez 2 dégâts à un personnage, ou 3 dégâts à la place s'il s'agit d'un antagoniste."
+    },
+    {
+        "code": "05072",
+        "name": "Blaster caché",
+        "text": "Embuscade.\nAprès avoir joué cette amélioration, vous pouvez retirer 1 bouclier d'un personnage."
+    },
+    {
+        "code": "05073",
+        "name": "Fusil de chasse",
+        "text": " "
+    },
+    {
+        "code": "05074",
+        "name": "Matraque étourdissante",
+        "text": "Après qu'un personnage a subi des dégâts de ce dé, vous pouvez dépenser 1 ressource pour retirer un des dés de personnage de ce personnage."
+    },
+    {
+        "code": "05075",
+        "name": "Consumé par le côté obscur",
+        "text": "Infligez 1 dégât à l'un de vos personnages Bleus pour tourner un dé sur une face montrant un résultat vierge ([blank])."
+    },
+    {
+        "code": "05076",
+        "name": "Machinations obscures",
+        "text": "Regardez les 5 premières cartes du deck d'un adversaire. Défaussez-en une et placez les autres sur le deck dans l'ordre de votre choix."
+    },
+    {
+        "code": "05077",
+        "name": "Coup double",
+        "text": "Résolvez un de vos dés montrant des dégâts de mêlée ([melee]) sans le retirer de votre réserve."
+    },
+    {
+        "code": "05078",
+        "name": "Effrayer",
+        "text": "Embuscade.\nRetirez de n'importe quel nombre de personnages jusqu'à 3 boucliers au total."
+    },
+    {
+        "code": "05079",
+        "name": "Je suis ton père",
+        "text": "Résolvez un dé de personnage d'un adversaire comme si c'était le vôtre, sauf si cet adversaire défausse toutes les cartes de sa main."
+    },
+    {
+        "code": "05080",
+        "name": "Piéger",
+        "text": "A ne jouer que si vous avez au moins un de vos personnages incliné.\nInclinez un personnage."
+    },
+    {
+        "code": "05081",
+        "name": "Sort de suppression",
+        "text": "Désignez un personnage Bleu pour défausser la première carte d'un deck. Si son coût est impair, retirez un dé."
+    },
+    {
+        "code": "05082",
+        "name": "Magie de sorcière",
+        "text": "Révélez les 3 premières cartes de votre deck <em>(ne les réorganisez pas)</em>. Soignez un personnage d'autant de dégâts que le nombre de cartes que vous venez de révéler ayant un coût impair."
+    },
+    {
+        "code": "05083",
+        "name": "Couvent des soeurs de la nuit",
+        "text": "Après qu'un dé de personnage a produit un résultat vierge ([blank]), vous pouvez incliner ce soutien pour révéler la première carte d'un deck. Si son coût est impair, infligez 1 dégât à ce personnage."
+    },
+    {
+        "code": "05084",
+        "name": "Bataille épuisante",
+        "text": "A ne jouer que si chacun des personnages d'un adversaire a au moins un dégât sur lui. Retirez un des dés de cet adversaire."
+    },
+    {
+        "code": "05085",
+        "name": "Écraser la rébellion",
+        "text": "Retirez un dé montrant des dégâts ([ranged], [melee] or [indirect]). Puis infligez à un adversaire des dégâts indirects ([indirect]) égaux à la moitié de la valeur montrée par ce dé, arrondie à l'entier supérieur. "
+    },
+    {
+        "code": "05086",
+        "name": "Puissance impériale",
+        "text": "Résolvez un de vos dés, en augmentant de 2 sa valeur."
+    },
+    {
+        "code": "05087",
+        "name": "Terre brûlée",
+        "text": "A ne jouer que si vous contrôlez le champ de bataille.\nInfligez à un adversaire des dégâts indirects ([indirect]) égaux au nombre de dés dans sa réserve."
+    },
+    {
+        "code": "05088",
+        "name": "Souffle de shrapnel",
+        "text": "Infligez 1 dégât indirect ([indirect]) à un adversaire. Puis vous pouvez retirer un dé de personnage appartenant au personnage qui vient de subir le dégât indirect ([indirect])."
+    },
+    {
+        "code": "05089",
+        "name": "Exercice de tir",
+        "text": "Relancez n'importe quel nombre de vos dés Rouges. Puis relancez n'importe quel nombre de vos dés Rouges."
+    },
+    {
+        "code": "05090",
+        "name": "Trois coups d'avance",
+        "text": "Entreprenez jusqu'à 3 actions supplémentaires."
+    },
+    {
+        "code": "05091",
+        "name": "Passerelle de commandement",
+        "text": "<b>Action</b> - Inclinez ce soutien pour activer 2 de vos personnages non uniques dans l'ordre de votre choix."
+    },
+    {
+        "code": "05092",
+        "name": "Immersion",
+        "text": "Infligez-vous 1 dégât indirect ([indirect]) pour jouer gratuitement un soutien ou une amélioration de votre main."
+    },
+    {
+        "code": "05093",
+        "name": "Mêlée générale",
+        "text": "Retirez n'importe quel nombre de vos dés. Puis infligez à un adversaire des dégâts indirects ([indirect]) égaux au nombre de dés que vous venez de retirer."
+    },
+    {
+        "code": "05094",
+        "name": "À la poursuite",
+        "text": "A ne jouer que si un adversaire a activé au moins un de ses personnages lors de son tour précédent à ce round. Activez n'importe quel nombre de vos personnages Jaunes dans l'ordre de votre choix."
+    },
+    {
+        "code": "05095",
+        "name": "Sans valeur une fois mort",
+        "text": "Soignez jusqu'à 2 dégâts d'un personnage d'un adversaire. Gagnez autant de ressources que le nombre de dégâts que vous venez de soigner."
+    },
+    {
+        "code": "05096",
+        "name": "Rumeurs",
+        "text": "Forcez un adversaire à choisir une carte de sa main. Puis regardez toutes les autres cartes de sa main et défaussez-en une."
+    },
+    {
+        "code": "05097",
+        "name": "Asservir",
+        "text": "Choisissez un personnage qui a au moins 3 dégâts sur lui. Retirez un de ses dés de personnage ou d'amélioration."
+    },
+    {
+        "code": "05098",
+        "name": "Prendre son envol",
+        "text": "Embuscade.\nRelancez jusqu'à 2 de vos dés jaunes."
+    },
+    {
+        "code": "05099",
+        "name": "Surnombre",
+        "text": "A ne jouer que si un adversaire a moins de personnages en jeu que vous. Retirez un des dés de cet adversaires."
+    },
+    {
+        "code": "05100",
+        "name": "S'adapter",
+        "text": "Retirez 1 bouclier de l'un de vos personnages pour gagner 1 ressource."
+    },
+    {
+        "code": "05101",
+        "name": "Frappe Ataru",
+        "text": "Résolvez un de vos dés de personnage Bleu montrant des dégâts de mêmée ([melee]), en augmentant sa valeur du nombre de boucliers sur ce personnage."
+    },
+    {
+        "code": "05102",
+        "name": "Vigilance accrue",
+        "text": "Embuscade.\nDonnez 3 boucliers à un personnage."
+    },
+    {
+        "code": "05103",
+        "name": "Enquêter",
+        "text": "Regardez les 5 premières cartes de votre deck. Ajoutez l'une d'entre elles à votre main et placez les autres sur votre deck dans l'ordre de votre choix."
+    },
+    {
+        "code": "05104",
+        "name": "De la force dans la faiblesse",
+        "text": "Défaussez les 4 premières cartes d'un deck."
+    },
+    {
+        "code": "05105",
+        "name": "Indestructible",
+        "text": "Retirez un dé montrant une valeur inférieure ou égale au nombre de boucliers sur vos personnages."
+    },
+    {
+        "code": "05106",
+        "name": "Enseignement défensif",
+        "text": "Chacun de vos personnages Bleus peut avoir 1 bouclier supplémentaire."
+    },
+    {
+        "code": "05107",
+        "name": "Hutte de Yoda",
+        "text": "<b>Action</b> - Inclinez ce soutien pour donner 1 bouclier à un personnage. Gagnez 1 ressource si ce personnage a au moins 3 boucliers."
+    },
+    {
+        "code": "05108",
+        "name": "Mission d'attaque",
+        "text": "Embuscade.\nActivez un de vos soutiens."
+    },
+    {
+        "code": "05109",
+        "name": "Équiper",
+        "text": "Déplacez une <i>arme</i> d'un de vos personnages vers un autre personnage <em>(renvoyez son dé sur sa carte)</em>."
+    },
+    {
+        "code": "05110",
+        "name": "Derniers instants",
+        "text": "Redressez chacun de vos personnages. Après la fin de la phase d'action, vous perdez la partie."
+    },
+    {
+        "code": "05111",
+        "name": "Tirer dans le tas",
+        "text": "Relancez un de vos dés. Si vous obtenez des dégâts à distance ([ranged]), vous pouvez résoudre ce dé et un autre de vos dés montrant des dégâts à distance, en augmentant de 2 une de leur valeur."
+    },
+    {
+        "code": "05112",
+        "name": "Rétablissement",
+        "text": "Soignez 3 dégâts d'un personnage ou retirez 3 dégâts d'un soutien."
+    },
+    {
+        "code": "05113",
+        "name": "Retaper",
+        "text": "Jouez un <i>véhicule</i> de votre main, en dimainuant de 1 son coût. Puis placez 1 dégât dessus."
+    },
+    {
+        "code": "05114",
+        "name": "Modification spéciale",
+        "text": "Retirez 3 dégâts d'un soutien ou tournez un dé de soutien sur n'importe quelle face."
+    },
+    {
+        "code": "05115",
+        "name": "Suppression Field",
+        "text": "Défaussez ce soutien s'il a au moins 3 dégâts sur lui.\n<b>Action</b> - Inclinez ce soutien pour retirer un dé montrant des dégâts ([ranged], [melee] or [indirect]). Placez sur ce soutien des dégâts égaux à la valeur montrée par ce dé."
+    },
+    {
+        "code": "05116",
+        "name": "Bravade",
+        "text": "Désignez un personnage Jaune pour retirer un dé d'un adversaire. Puis infligez 2 dégâts à un personnage."
+    },
+    {
+        "code": "05117",
+        "name": "Récolte facile",
+        "text": "Désignez un personnage Jaune pour retirer 2 dés montrant le même symbole et la même valeur <em>(ignorez les modificateurs et les coûts en ressource)</em>."
+    },
+    {
+        "code": "05118",
+        "name": "Tactique explosive",
+        "text": "Défaussez la première carte d'un deck. Puis infligez à un adversaire des dégâts indirects ([indirect]) égaux à son coût."
+    },
+    {
+        "code": "05119",
+        "name": "Impulsif",
+        "text": "Embuscade.\nRésolvez un de vos dés."
+    },
+    {
+        "code": "05120",
+        "name": "Si stupide, si mal fichu, si effronté",
+        "text": "Choisissez un des types de cartes suivants : événement, soutien ou amélioration. Puis regardez la main d'un adversaire et défaussez une de ses cartes du type choisi."
+    },
+    {
+        "code": "05121",
+        "name": "Mission de contrebande",
+        "text": "Activez un de vos personnages Jaunes. Si au moins un de ses dés de personnage ou d'amélioration qui viennent d'être lancés produit une ressource ([resource]), gagnez 1 ressource."
+    },
+    {
+        "code": "05122",
+        "name": "Chambre forte de Maz",
+        "text": "Chaque joueur gagne 1 ressource supplémentaire pendant la phase d'entretien."
+    },
+    {
+        "code": "05123",
+        "name": "Protection diplomatique",
+        "text": "Avant que le personnage attaché ne soit vaincu, vous pouvez défausser cette amélioratin pour donner 2 boucliers à chacun de vos autres personnages."
+    },
+    {
+        "code": "05124",
+        "name": "Dans le conduit à ordures",
+        "text": "Inclinez un de vos personnages pour retirer jusqu'à 2 dés montrant des dégâts ([ranged], [melee], or [indirect])."
+    },
+    {
+        "code": "05125",
+        "name": "Altération",
+        "text": "Tournez jusqu'à 2 dés sur les faces de votre choix <em>(les vôtres et/ou ceux de vos adversaires)</em>."
+    },
+    {
+        "code": "05126",
+        "name": "Sagesse ancestrale",
+        "text": "Piochez 2 cartes."
+    },
+    {
+        "code": "05127",
+        "name": "Ressentir la Force",
+        "text": "Tournez un dé Bleu sur n'importe quelle face."
+    },
+    {
+        "code": "05128",
+        "name": "Revigorer",
+        "text": "Désignez un personnage Bleu pour soigner 1 dégât à chacun de vos personnages."
+    },
+    {
+        "code": "05129",
+        "name": "Héritages",
+        "text": "Désignez un personnage Bleu pour résoudre un de vos dés montrant un modificateur <em>(une face avec un +)</em> comme s'il n'avait pas de modificateur."
+    },
+    {
+        "code": "05130",
+        "name": "Induire en erreur",
+        "text": "Retirez un dé de personnage montrant une valeur de 2 ou moins."
+    },
+    {
+        "code": "05131",
+        "name": "Répit",
+        "text": "Inclinez un de vos personnages pour gagner 1 ressource et piocher une carte."
+    },
+    {
+        "code": "05132",
+        "name": "Plus fort tu es devenu",
+        "text": "Comptez le nombre d'améliorations que vous avez en jeu. Relancez jusqu'à autant de dés que vous avez d'améliorations <em>(les vôtres et/ou ceux de vos adversaires)</em>."
+    },
+    {
+        "code": "05133",
+        "name": "La Force est avec moi",
+        "text": "Retirez un dé montrant des dégâts à distance ([ranged]) ou des dégâts indirects ([indirect])."
+    },
+    {
+        "code": "05134",
+        "name": "Persévérance",
+        "text": "<b>Action</b> - Inclinez ce soutien pour relancer un de vos dés. Puis vous pouvez encore le relancer."
+    },
+    {
+        "code": "05135",
+        "name": "Coriance",
+        "text": "Après qu'un effet de carte d'un adversaire a retiré un dé de personnage du personnage attaché, vous pouvez incliner cette amélioration pour lancer ce dé dans votre réserve."
+    },
+    {
+        "code": "05136",
+        "name": "Répression",
+        "text": "A ne jouer que si chacun des personnages d'un adversaire a au moins un dégât sur lui.\nGagnez 1 ressource."
+    },
+    {
+        "code": "05137",
+        "name": "Aterissage",
+        "text": "Retirez un dé montrant des dégâts ([ranged], [melee] or [indirect]). Puis infligez-vous des dégâts indirects ([indirect]) égaux à la valeur montrée par ce dé."
+    },
+    {
+        "code": "05138",
+        "name": "Loi et ordre",
+        "text": "Désignez un personnage Rouge pour défausser une amélioration du jeu."
+    },
+    {
+        "code": "05139",
+        "name": "Prêt à tirer",
+        "text": "Désignez un personnage Rouge pour tourner jusqu'à 2 de vos dés sur des faces montrant des dégâts indirects ([indirect])."
+    },
+    {
+        "code": "05140",
+        "name": "Renforcer",
+        "text": "Lancez un dé de personnage qui est sur l'un de vos personnages dans votre réserve si vous avez un autre exemplaire de ce personnage en jeu."
+    },
+    {
+        "code": "05141",
+        "name": "Supériorité numérique",
+        "text": "Infligez des dégâts indirects ([indirect]) à un adversaire, égaux au nombre de vos personnages inclinés."
+    },
+    {
+        "code": "05142",
+        "name": "Impact soudain",
+        "text": "Retirez un de vos dés montrant des dégâts ([ranged], [melee], or [indirect]). Puis infligez des dégâts à chaque personnage d'un adversaire égaux à la moitié de la valeur montrée par ce dé, arrondie à l'entier supérieur."
+    },
+    {
+        "code": "05143",
+        "name": "Position avantageuse",
+        "text": "A ne jouer que si vous contrôlez le champ de bataille.\nRetirez un dé."
+    },
+    {
+        "code": "05144",
+        "name": "Information sur cible",
+        "text": "Résolvez un de vos dés montrant des dégâts indirects ([indirect]) comme s'il s'agissait de dégâts à distance ([ranged])."
+    },
+    {
+        "code": "05145",
+        "name": "Bulle bouclier",
+        "text": "Vous pouvez distribuer des dégâts indirects ([blank]) à ce soutien comme s'il était un personnage avec une santé de 3, Défaussez ce soutien s'il a au moins 3 dégâts sur lui."
+    },
+    {
+        "code": "05146",
+        "name": "Équipe de couverture",
+        "text": "<b>Action</b> – Inclinez ce soutien pour résoudre un de vos dés montrant des dégâts indirects ([indirect]), en augmentant de 1 sa valeur."
+    },
+    {
+        "code": "05147",
+        "name": "Embrouiller",
+        "text": "Relancez un dé d'un adversaire. Si le résultat obtenu est vierge ([blank]), prenez 1 de ses ressources."
+    },
+    {
+        "code": "05148",
+        "name": "Bagarre de cantine",
+        "text": "Infligez 1 dégât à un personnage d'un adversaire. Puis cet adversaire peut défausser une carte de sa main pour reproduire cet effet."
+    },
+    {
+        "code": "05149",
+        "name": "Représailles",
+        "text": "Résolvez un de vos dés montrant des dégâts ([ranged],[melee], or [indirect]), en augmentatnt de 2 sa valeur si un adversaire a résolu au moins un dé montrant ce même symbole de dégâts lors de son tour précédent à ce round."
+    },
+    {
+        "code": "05150",
+        "name": "Manoeuvre dangereuse",
+        "text": "Soigne 2 dégâts d'un de vos personnages. Infligez-vous 2 dégâts indirects ([indirect])."
+    },
+    {
+        "code": "05151",
+        "name": "Empêtrer",
+        "text": "Désignez un personnage Jaune pour retirer jusqu'à 2 dés montrant une valeur combinée de 3 ou moins."
+    },
+    {
+        "code": "05152",
+        "name": "Confrontation",
+        "text": "Relancez un de vos dés de personnage et un dé de personnage d'un adversaire <em>(vous choisissez)</em>. Puis infligez 2 dégâts au personnage dont le dé qui vient d'être relancé a la valeur la plus faible <em>(aux deux personnages en cas d'égalité)</em>."
+    },
+    {
+        "code": "05153",
+        "name": "Sortie éclair",
+        "text": "Donnez le contrôle du champ de bataille à un adversaire pour retirer un dé montrant des dégâts ([ranged],[melee], or [indirect])."
+    },
+    {
+        "code": "05154",
+        "name": "Attirer",
+        "text": "Embuscade.\nChoisissez un personnage ou un soutien d'un adversaire et forcez-le à s'activer, si possible."
+    },
+    {
+        "code": "05155",
+        "name": "Arme en main",
+        "text": "Jouez une <i>arme</i> de votre main sur l'un de vos personnages <em>(en payant son coût)</em>. Vous pouvez activer ce personnage."
+    },
+    {
+        "code": "05156",
+        "name": "Vandaliser",
+        "text": "Retirez un nombre de vos dés de personnage égal au coût d'une carte de soutien ou d'amélioration en jeu pour la défausser."
+    },
+    {
+        "code": "05157",
+        "name": "Bons contacts",
+        "text": "Désignez un personnage Jaune pour gagner  ressource. Chaque adversaire peut piocher une carte."
+    },
+    {
+        "code": "05158",
+        "name": "Défendre",
+        "text": "Embuscade.\n Retirez jusqu'à 3 dés montrant des dégâts de mélée ([melee])."
+    },
+    {
+        "code": "05159",
+        "name": "Plonger",
+        "text": "Embuscade.\n Retirez jusqu'à 3 dés montrant des dégâts à distance ([ranged])."
+    },
+    {
+        "code": "05160",
+        "name": "Tempête de neige",
+        "text": "Retirez 1 bouclier à chaque personnage."
+    },
+    {
+        "code": "05161",
+        "name": "Pas de triche",
+        "text": "Infligez des dégâts à un personnage d'un adversaire égaux au nombre d'actions entreprises par cet adversaire lors de son tour précédent à ce round."
+    },
+    {
+        "code": "05162",
+        "name": "Refuge",
+        "text": "Retirez un dé montrant des dégâts indirects ([indirect])."
+    },
+    {
+        "code": "05163",
+        "name": "Spécialiste en renfort",
+        "text": "<b>Action</b> - Inclinez ce soutien pour relancer jusqu'à 2 de vos dés."
+    },
+    {
+        "code": "05164",
+        "name": "Stock annexe",
+        "text": "<b>Action</b> - Inclinez ce soutien pour placer une ressource dessus ou y prendre toutes les ressources qui sont sur lui."
+    },
+    {
+        "code": "05165",
+        "name": "Tas de ferraille",
+        "text": "Après avoir défaussé au moins une carte du deck d'un adversaire, vous pouvez incliner ce soutien pour gagner une ressource."
+    },
+    {
+        "code": "05166",
+        "name": "Garde du corps",
+        "text": "Personnage non unique uniquement. Le personnage a le mot clé Gardien."
+    },
+    {
+        "code": "05167",
+        "name": "Holster amélioré",
+        "text": "Après avoir activé le personnage attaché, vous pouvez relancer n'importe quel nombre de ses dés d'<i>arme</i>."
+    },
+    {
+        "code": "05168",
+        "name": "Espionnage",
+        "text": "Après la mise en place, défaussez la première carte de chaque deck."
+    },
+    {
+        "code": "05169",
+        "name": "Fortifier",
+        "text": "Après la mise en place, donnez 1 bouclier à un personnage."
+    },
+    {
+        "code": "05170",
+        "name": "Frappe préventive",
+        "text": "Après la mise en place, infligez 2 dégâts indirects ([indirect]) à un adversaire."
+    },
+    {
+        "code": "05171",
+        "name": "Contact frucuteux",
+        "text": "Vous commencez la partie avec 1 ressource supplémentaire."
+    },
+    {
+        "code": "05172",
+        "name": "Renseignements volés",
+        "text": "Après la mise en place, piochez une carte."
+    },
+    {
+        "code": "05173",
+        "name": "Gagnez du terrain",
+        "text": "Pendant la mise en place, ajoutez 2 à la valeur de votre lancer pour déterminer le champ de bataille."
+    },
+    {
+        "code": "05174",
+        "name": "Désolation aride",
+        "subtitle": "Geonosis",
+        "text": "<b>Capture</b> - Forcez un adversaire à perdre 1 ressource.."
+    },
+    {
+        "code": "05175",
+        "name": "Zone d'atterrissage de la citadelle",
+        "subtitle": "Scarif",
+        "text": "<b>Capture</b> - Relancez n'importe quel nombre de vos dés. Puis vous pouvez résoudre un de vos dés.."
+    },
+    {
+        "code": "05176",
+        "name": "Palais impérial",
+        "subtitle": "Coruscant",
+        "text": "<b>Capture</b> - Regardez la main d'un adversaire et défaussez-en une carte."
+    },
+    {
+        "code": "05177",
+        "name": "Pont d'envol",
+        "subtitle": "Home One",
+        "text": "<b>Capture</b> - Retirez un de vos dés pour infliger à un adversaire des dégâts indirects ([indirect]) égaux à la moitié de la valeur montrée par ce dé, arrondie à l'entier supérieur."
+    },
+    {
+        "code": "05178",
+        "name": "Avant-poste de la bordure extérieure",
+        "subtitle": "Nal Hutta",
+        "text": "<b>Capture</b> - Gagnez 1 ressource et piochez une carte."
+    },
+    {
+        "code": "05179",
+        "name": "Arène de Petranaki",
+        "subtitle": "Geonosis",
+        "text": "<b>Capture</b> - Infligez-vous 1 dégât indirect ([indirect]) pour infliger 1 dégât non blocable à un personnage."
+    },
+    {
+        "code": "05180",
+        "name": "Puits du générateur d'énergie",
+        "subtitle": "Death Star I",
+        "text": "<b>Capture</b> - Tournez un dé sur n'importe quelle face."
+    }
+]
