@@ -1,0 +1,826 @@
+[
+    {
+        "code": "11001",
+        "name": "Dark Mystic",
+        "text": "[special] - Jouez une amélioration Bleue de votre main ou de votre pile de défausse <em>(en payant son coût).</em> Puis lancer le dé de cette amélioration dans votre réserve."
+    },
+    {
+        "code": "11002",
+        "name": "Kylo Ren",
+        "subtitle": "Lié à la Force",
+        "text": "<b>Action Puissance</b> - Déplacez 1 bouclier de ce personnage vers un autre personnage. Puis, si vous avez déplacé ce bouclier vers un héro, infligez 1 dégât à 1 personnage.\n[special] - Infligez 2 dégâts à un personnage. Si l'un de ces dégâts un été bloqué, relancez ce dé au lieu de le retirer."
+    },
+    {
+        "code": "11003",
+        "name": "Maul",
+        "subtitle": "Duelliste habile",
+        "text": "<b>Action Puissance</b> - Relancez l'un des dés de personnage ou d'amélioration de ce personnage. Vous pouvez défausser une carte depuis votre main pour relancez ce dé encore une fois. Si ce dé montre des dégâts de mêlée ([melee]), vous pouvez le retirer pour infliger des dégâts égaux à sa valeur à 2 personnages."
+    },
+    {
+        "code": "11004",
+        "name": "Soeur de la nuit zombie",
+        "text": "Les dégâts indirects ([indirect]) qui vous sont infligés doivent être assignés à ce personnage en dernier.\nAprès avoir activé ce personnage, vous pouvez désigner une autre <i>sorcière</i> pour infliger 1 dégât à un personnage qui un une <i>malédiction</i> sur lui."
+    },
+    {
+        "code": "11005",
+        "name": "Old Daka",
+        "subtitle": "Nécromancienne soeur de la nuit",
+        "text": "Après que ce personnage a été vaincu, placez chaque Soeur de la nuit zombie que vous controlez hors jeu.\n<b>Action Puissance</b> - Dépensez 1 ressource pour ajouter une Soeur de la nuit zombie ([SoH]4) inclinée à votre équipe, ou 2 Soeurs de la nuit zombie inclinées à la place si ce personnage est élite."
+    },
+    {
+        "code": "11006",
+        "name": "Édit du chancelier",
+        "text": "Après que cette régression a été jouée, retirez tous les boucliers du personnage attaché.\nAprès que le personnage attaché a été vaincu, vous pouvez donner 2 boucliers à un personnage."
+    },
+    {
+        "code": "11007",
+        "name": "Hex",
+        "text": "<b>Action</b> - Inclinez cette régression pour retirez un dé de personnage du personnage attaché montrant un résultat vierge ([blank])."
+    },
+    {
+        "code": "11008",
+        "name": "Possédé",
+        "text": "Défaussez cette régression depuis le jeu si vous ne contrôlez pas une <i>sorcière</i>.\n<b>Action</b> - Inclinez cette régression pour résoudre l'un des dés de personnage du personnage attaché comme si il étant dans votre réserve de dés."
+    },
+    {
+        "code": "11009",
+        "name": "Rage incontrollable",
+        "text": "<b>Action</b> - Inclinez cette régression pour infliger 1 dégât au personnage attaché, ou 2 dégâts à la place si vous désignez une <i>sorcière</i>. Utilisez cette action seulement si le personnage attaché est redressé et si ce n'est pas le premier tour de ce round."
+    },
+    {
+        "code": "11010",
+        "name": "Acte de trahison",
+        "text": "Retirez un dé d'amélioration. Puis infligez des dégâts égaux à la valeur montrée par ce dé à un personnage."
+    },
+    {
+        "code": "11011",
+        "name": "Magie noire",
+        "text": "Choisissez un personnage et relancez n'importe quel nombre de ses dés de personnages. Infligez 1 dégât à ce personnage si il a une <i>malédiction</i> sur lui."
+    },
+    {
+        "code": "11012",
+        "name": "Ruse sinistre",
+        "text": "Révélez une carte au hasard de la main d'un adversaire et infligez lui des dégâts indirects ([indirect]) égaux au coût de la carte révélée."
+    },
+    {
+        "code": "11013",
+        "name": "Crise de rage",
+        "text": "Défaussez une amélioration <i>équipement</i> ou une <i>arme</i> que vous contrôlez pour retirez un dé."
+    },
+    {
+        "code": "11014",
+        "name": "Tisser l'Ichor",
+        "text": "Désignez jusqu'à 3 personnages <i>sorcières</i> pour soigner autant de dégâts d'un personnage."
+    },
+    {
+        "code": "11015",
+        "name": "Ordre 66",
+        "text": "Chaque personnage de votre adversaire gagne <i>Jedi</i>.\nAvant de piocher votre main de départ, mélangez jusqu'à 4 copies hors jeu de Exécutez l'ordre 66 ([SoH]27) dans votre deck."
+    },
+    {
+        "code": "11016",
+        "name": "Cimeterre",
+        "text": "Avant de résoudre l'effet d'un événement d'un adversaire, vous pouvez retournez ce soutien depuis le jeu dans la main de son propriétaire. Puis gagnez 1 ressource, ou 2 ressources à la place si vous désignez Maul."
+    },
+    {
+        "code": "11017",
+        "name": "Magie ancienne",
+        "text": "Personnage Bleu uniquement.\n[special] - Infligez 1 dégât indirect ([indirect]) à un adversaire. Vous pouvez redresser une <i>malédiction</i>."
+    },
+    {
+        "code": "11018",
+        "name": "Sabre laser Sith rétabli",
+        "text": "Après avoir joué cette amélioration, vous pouvez retirez 1 bouclier d'un personnage, ou 2 boucliers d'un personnage à la place si cette amélioration est sur un <i>Sith</i>."
+    },
+    {
+        "code": "11019",
+        "name": "Talisman de résurrection",
+        "text": "Personnage <i>Sorcière</i> uniquement.\n[special] - Gagnez 2 ressources. Puis vous pouvez dépenser un nombre de ressources égale à la valeur en points d'un personnage vaincu pour le retourner en jeu sous votre contrôle."
+    },
+    {
+        "code": "11020",
+        "name": "Conan Motti",
+        "subtitle": "Officier trop confiant",
+        "text": "Après avoir résolu ce dé montrant une défausse ([discard]), vous pouvez défausser une carte depuis votre main pour retirez un dé."
+    },
+    {
+        "code": "11021",
+        "name": "Gideon Hask",
+        "subtitle": "Commando Inferno Squad",
+        "text": "<b>Action Puissance</b> - Si vous contrôlez le champs de bataille, lancer un dé de <i>trooper</i> sur une carte que vous contrôlez dans votre réserve de dé."
+    },
+    {
+        "code": "11022",
+        "name": "Mudtrooper",
+        "text": "Après avoir activé ce personnage ou un <i>leader</i>, vous pouvez relancez l'un de vos dé montrant un blank ([blank])."
+    },
+    {
+        "code": "11023",
+        "name": "Thrawn",
+        "subtitle": "Grand Amiral",
+        "text": "Après avoir activé ce personnage, vous pouvez regarder les 4 premières cartes d'un deck.\n<b>Action Puissance</b> - Révélez les 4 premières cartes du deck d'un adversaire. Vous pouvez jouer un événement révélé de cette manière et désignez des cartes de votre adversaire comme si elles étaient les vôtres."
+    },
+    {
+        "code": "11024",
+        "name": "Cible prioritaire",
+        "text": "Après que le personnage attaché a été vaincu, vous pouvez prendre le contrôle du champs de bataille et utiliser sa capacité de capture ou son Action Puissance, même si elle a déjà été utilisée à ce round."
+    },
+    {
+        "code": "11025",
+        "name": "Contre-espionnage",
+        "text": "Désignez un <i>leader</i> pour regarder la main d'un adversaire et en placer un événement sur le dessus de son deck."
+    },
+    {
+        "code": "11026",
+        "name": "Avantage écrasant",
+        "text": "Si vous avez plus de dés de personnages dans votre réserve de dés qu'un adversaire n'en a dans sa réserve de dés, retirez l'un des dés de personnage de cet adversaire. Répétez cet effet pour les dés de soutiens et les dés d'améliorations."
+    },
+    {
+        "code": "11027",
+        "name": "Exécutez l'ordre 66",
+        "text": "Retirez tous les dés de <i>Jedi</i>. Pour chaque dé retiré, infligez 1 dégât au personnage correspondant."
+    },
+    {
+        "code": "11028",
+        "name": "Rallier les troupes",
+        "text": "Choisissez un sous-type de personnage. Puis soit relancez n'importe quel nombre de dés ayant ce sous-type, ou résolvez 2 de vos dés ayant ce sous-type."
+    },
+    {
+        "code": "11029",
+        "name": "À la victoire",
+        "text": "Gagnez un nombre de ressources égal au nombre de personnages vaincus d'un adversaire."
+    },
+    {
+        "code": "11030",
+        "name": "Sirène d'avertissement",
+        "text": "Retirez un dé montrant la même valeur que l'un de vos dés."
+    },
+    {
+        "code": "11031",
+        "name": "Enregistrements culturels",
+        "text": "Après qu'un joueur aie joué la copie d'un carte mise hors jeu par ce soutien, vous pouvez gagner 1 ressource ou retirer un dé.\n[special] - Regardez la main d'un adversaire et et placez l'une de ces cartes hors jeu. Gagnez 1 action."
+    },
+    {
+        "code": "11032",
+        "name": "Territoire hostile",
+        "text": "Après le début de la phase d'entretien, infligez 2 dégâts indirects ([indirect]) à chaque joueur qui ne contrôle pas le champs de bataille."
+    },
+    {
+        "code": "11033",
+        "name": "Embargo séparatiste",
+        "text": "Après avoir joué ce soutien, nommer une carte.\nLes copies de la carte nommée ne peuvent pas être jouées."
+    },
+    {
+        "code": "11034",
+        "name": "Canon de siège super laser",
+        "text": "Avant de résoudre ce dé, vous pouvez retirer toutes les ressources depuis ce soutien pour augmenter sa valeur de ce nombre de ressources.\n<b>Action Puissance</b> - Placez 1 ressources sur ce soutien. Dépensez jusqu'à 4 ressources pour placer ces ressources sur ce soutien."
+    },
+    {
+        "code": "11035",
+        "name": "Étoile cramoisie",
+        "text": "Jouez seulement si un adversaire à un ou plusieurs personnages vaincus.\n<b>Action</b> - Inclinez cette amélioration pour rédoudre un dé de personnage du personnage attaché en augmentant sa valeur de 1."
+    },
+    {
+        "code": "11036",
+        "name": "Mastermind",
+        "text": "[special] - Nommer un carte. Puis révéler la main d'un adversaire et placez chaque copie de la carte nommée hors jeu."
+    },
+    {
+        "code": "11037",
+        "name": "Répéteur lourd TL-50",
+        "text": "<b>Action Puissance</b> - Si cette amélioration est sur un <i>trooper</i>, tournez ce dé sur n'importe quelle face.\n[special] - Infligez 1 dégâts indirects ([indirect]) à un adversaire. Relancez ce dé au lieu de le retirer."
+    },
+    {
+        "code": "11038",
+        "name": "4-LOM",
+        "subtitle": "Criminel calculateur",
+        "text": "Après qu'une <i>prime</i> que vous contrôlez est défaussée depuis le jeu, vous pouvez l'ajouter à votre main."
+    },
+    {
+        "code": "11039",
+        "name": "IG-88",
+        "subtitle": "Simple d'esprit",
+        "text": "<b>Action Puissance</b> - Résolvez l'un de vos dé <i>chasseur de primes</i> montrant des dégâts à distance ou des dégâts de mêlée contre n'importe quel nombre de personnages ayant <i>prime</i> sur eux."
+    },
+    {
+        "code": "11040",
+        "name": "Jango Fett",
+        "subtitle": "Armé jusqu'aux dents",
+        "text": "Chaque <i>équipement</i> sur ce personnage ne compte pas dans la limite de ces améliorations.\nAprès avoir joué un <i>équipement</i> sur ce personnage pour la première fois à chaque round, vous pouvez gagner 1 ressource."
+    },
+    {
+        "code": "11041",
+        "name": "Zuckuss",
+        "subtitle": "L'intrépide",
+        "text": "[special] - Gagnez 1 ressource ou déclenchez la capacité \"Après que le personnage a été vaincu\" d'une prime que vous <i>prime</i> contrôlez et défaussez-la."
+    },
+    {
+        "code": "11042",
+        "name": "Armé jusqu'aux dents",
+        "text": "Défaussez autant d'améliorations que vous le souhaitez d'un de vos personnages Jaunes. Puis infligez à un personnage des dégâts égaux au nombre d'améliorations que vous venez de défausser."
+    },
+    {
+        "code": "11043",
+        "name": "Mesures désespérées",
+        "text": "Désignez un personnage Jaune pour défausser un soutien depuis le jeu. Puis infligez-vous des dégâts indirects ([indirect]) égaux au coût de ce soutien."
+    },
+    {
+        "code": "11044",
+        "name": "Désinformation",
+        "text": "Choisissez jusqu'à 2 cartes de la pile de défausse d'un adversaire et placez les au sommet de son deck, dans n'importe quel ordre."
+    },
+    {
+        "code": "11045",
+        "name": "Tireless PursuitPoursuite infatigable",
+        "text": "Embuscade.\nDéplacez jusqu'à 2 dégâts depuis le personnage d'un adversaire vers un personnage qui a une <i>prime</i> sur lui."
+    },
+    {
+        "code": "11046",
+        "name": "Guilde des chasseurs de primes",
+        "text": "Chaque personnage de votre adversaire à une limite de +1 régression.\nAprès avoir joué une <i>prime</i>, vous pouvez activer l'un de vos <i>chasseur de primes</i>."
+    },
+    {
+        "code": "11047",
+        "name": "IG-2000",
+        "text": "Ce soutien gagne <i>chasseur de primes</i> tant que vous contrôlez un <i>chasseur de primes</i>.\nDiminuez le coût de ce dé de 1 si vous contrôlez IG-88."
+    },
+    {
+        "code": "11048",
+        "name": "Mettre en fourrière",
+        "text": "Avant qu'un <i>equipement</i> ou <i>arme</i> amélioration d'un adversaire soit défaussé depuis le jeu, vous pouvez à la place défausser ce soutien depuis le jeu pour prendre le contrôle de cette amélioration et la déplacez sur l'un de vos personnages <i>chasseur de primes</i>."
+    },
+    {
+        "code": "11049",
+        "name": "Chasseur de brume",
+        "text": "Après avoir activé un <i>chasseur de primes</i>, vous pouvez activer ce soutien. Puis vous pouvez désigner 4-LOM pour relancez ce ddéie. Vous pouvez désigner Zuckuss pour résoudre ce dé."
+    },
+    {
+        "code": "11050",
+        "name": "Banquier prédateur",
+        "text": "<b>Action</b> - Inclinez ce soutien pour prendre 1 ressource à un adversaire ayant 3 ressources ou plus. Utilisez cette capacité seulement si vous ne contrôlez pas le champs de bataille."
+    },
+    {
+        "code": "11051",
+        "name": "Matrice de protocole 0-0-0",
+        "text": "Modifie un personnage ou soutien <i>droïde</i>."
+    },
+    {
+        "code": "11052",
+        "name": "Armure blindée",
+        "text": "Avant que le personnage attaché ne subisse des dégâts, vous pouvez bloquer jusqu'à 2 dégâts. Puis défaussez cette amélioration du jeu."
+    },
+    {
+        "code": "11053",
+        "name": "Gantelet à roquettes",
+        "text": "<i>Chasseur de primes</i> uniquement.\n<b>Action</b> - Choisissez un personnage. Tournez ce dé sur une face montrant un valeur inférieure ou égale au nombre de of <i>primes</i> de ce personnage."
+    },
+    {
+        "code": "11054",
+        "name": "Canon à impulsion",
+        "text": "<b>Action Puissance</b> - Résolvez ce dé. Puis lancez ce dé dans votre réserve de dés et résolvez-le, si possible. Puis lancer ce dé dans votre réserve de dés encore une fois et résolvez-le, si possible."
+    },
+    {
+        "code": "11055",
+        "name": "Pertes acceptables",
+        "text": "Vainquez jusqu'à 3 des vos personnages pour gagner ce même nombre de ressources."
+    },
+    {
+        "code": "11056",
+        "name": "R2-D2",
+        "subtitle": "Compagnon loyal",
+        "text": "Vous ne pouvez pas jouer de <i>capacités</i> Bleues sur ce personnage.\nAprès avoir activé ce personnage, vous pouvez tourner l'un de vos dés sur sa première face <em>(le cadre le plus haut sur la référence des faces du dés)</em>, ou sur n'importe quelle face à la place si vous désignez C-3PO."
+    },
+    {
+        "code": "11057",
+        "name": "Rey",
+        "subtitle": "Liée à la Force",
+        "text": "<b>Action Puissance</b> - Relancez un dé de personnage ou tournez un dé de personnage antagoniste sur une face montrant un valeur de 0.\n[special] - Donnez 2 boucliers à un personnage. Puis, si ce personnage a 3 boucliers ou plus, relancez ce dé au lieu de le retirer."
+    },
+    {
+        "code": "11058",
+        "name": "Yoda",
+        "subtitle": "Mentor mystique",
+        "text": "Ce personnage a une limite de +3 boucliers.\nLes boucliers de ce personnage peuvent être utilisés pour bloquer les dégâts infligés aux personnages <i>apprenti</i>."
+    },
+    {
+        "code": "11059",
+        "name": "Jeune garçon",
+        "text": "Inclure uniquement si vous avez un <i>Jedi</i> dans votre team.\n<b>Action Puissance</b> - Jouez une amélioration Bleue depuis votre main sur ce personnage, en diminuant son coût de 1."
+    },
+    {
+        "code": "11060",
+        "name": "Refus",
+        "text": "Les symboles de dégâts ([ranged], [melee], ou [indirect]) sur les dés de personnage du personnage attaché sont des symboles ressources ([ressource]) à la place.\nAprès que le personnage se voie infliger des dégâts, défaussez cette régression."
+    },
+    {
+        "code": "11061",
+        "name": "Destinée accomplie",
+        "text": "Vainquez l'un de vos personnages pour donner 3 boucliers à vos personnages, distribués comme vous le souhaitez."
+    },
+    {
+        "code": "11062",
+        "name": "Échange d'informations",
+        "text": "Révélez votre main et gagnez 1 ressource. Chaque adversaire peut révéler sa main et gagner 1 ressource."
+    },
+    {
+        "code": "11063",
+        "name": "Position héroique",
+        "text": "Jouez seulement si vous controlez exactement un personnage et un adversaire a 3 dés ou plus montrant des dégâts ([ranged], [melee], ou [indirect]).\nRedressez un personnage."
+    },
+    {
+        "code": "11064",
+        "name": "Service humble",
+        "text": "Choisissez jusqu'à 4 de vos dés et tournez chacun d'eux sur des faces montrant une valeur différente de chaque autre dé."
+    },
+    {
+        "code": "11065",
+        "name": "Ruse mentale Jedi",
+        "text": "Désignez un <i>Jedi</i> pour choisir une réserve de dés. Un adversaire répartit sa réserve de dés en 2 groupes de n'importe quelle taille. Soit choisissez 1 groupe et retirez-en tous les dés, soit tournez n'importe quel nombre de dés d'un groupe sur des faces de votre choix."
+    },
+    {
+        "code": "11066",
+        "name": "Déplacement de rochers",
+        "text": "Désignez un <i>apprenti</i> ou un <i>Jedi</i> pour déplacer n'importe quel nombre de boucliers sur n'importe quel nombre de personnages."
+    },
+    {
+        "code": "11067",
+        "name": "Protection de Yoda",
+        "text": "Donnez 1 bouclier à chacun de vos personnages Bleus."
+    },
+    {
+        "code": "11068",
+        "name": "Caretaker Village",
+        "text": "Après qu'un effet d'un adversaire a retiré l'un de vos dés <i>apprenti</i> ou <i>Jedi</i>, vous pouvez incliner ce soutien pour lancer ce dé dans votre réserve de dés."
+    },
+    {
+        "code": "11069",
+        "name": "Professeurr Huyang",
+        "text": "Après avoir joué une amélioration Bleue sur un <i>apprenti</i>, vous pouvez activer ce soutien. Puis, si cette amélioration est une <i>arme</i>, vous pouvez relancer ce dé dans votre réserve de dés."
+    },
+    {
+        "code": "11070",
+        "name": "Esprit de Qui-Gon Jinn",
+        "text": "Défaussez ce soutien depuis le jeu si vous controlez Qui-Gon Jinn.\n[special] - Mélangez ce soutien dans le deck de son propriétaire pour donner 1 bouclier à un personnage. Puis retirez n'importe quel nombre de boucliers depuis vos personnages pour infliger ce nombre de dégâts à un personnage."
+    },
+    {
+        "code": "11071",
+        "name": "3 leçons",
+        "text": "Ce soutien entre en jeu avec 3 ressources sur lui.\n<b>Action</b> - Inclinez ce soutien, retirez un ressource sr lui, et désignez un <i>Jedi</i> pour tournez un dé <i>apprenti</i> sur n'importe quelle face."
+    },
+    {
+        "code": "11072",
+        "name": "Sabre laser Jedi",
+        "text": "Après avoir joué cette amélioration, vous pouvez donner 1 bouclier au personnage attaché, ou 2 boucliers à la place si cette amélioration est sur un <i>Jedi</i>."
+    },
+    {
+        "code": "11073",
+        "name": "Textes sacrés Jedi",
+        "text": "Après avoir résolu ce dé, vous pouvez déplacer cette amélioration sur l'un de vos personnages <i>apprenti</i> ou <i>Jedi</i>.\n[special] - Piochez une carte."
+    },
+    {
+        "code": "11074",
+        "name": "Sabre laser de Yoda",
+        "text": "Après avoir joué cette amélioration sur Yoda, vous pouvez lui donner 1 bouclier.\n[special] - Infligez 1 dégât non blocable à un personnage, ou 2 dégâts non blocables à la place si vous retirez 1 bouclier au personnage attaché."
+    },
+    {
+        "code": "11075",
+        "name": "Amilyn Holdo",
+        "subtitle": "Vice-Amiral",
+        "text": "Après que ce personnage a été vaincu, vous pouvez redresser un <i>véhicule</i>.\n[special] - Gagnez 1 ressource ou jouez un <i>véhicule</i> depuis votre main, en diminuant son coût de 2."
+    },
+    {
+        "code": "11076",
+        "name": "Bail Organa",
+        "subtitle": "Sénateur Aldéranien",
+        "text": "Diminuez le coût du premier <i>titre</i> que vous jouer à chaque round par 1.\n[special] - Choisissez un sous-type. Relancez n'importe quel nombre de dés avec ce sous-type. Vous pouvez tourner l'un de ces dés sur n'importe quelle face."
+    },
+    {
+        "code": "11077",
+        "name": "C-3PO",
+        "subtitle": "Parfait gentleman",
+        "text": "Après avoir activé ce personnage, vous pouvez résoudre l'un de vos dés en augmentant sa valeur de 1 si vous dépensez 1 ressource ou désignez R2-D2."
+    },
+    {
+        "code": "11078",
+        "name": "Trooper de Hoth",
+        "text": "Après avoir activé ce personnage, vous pouvez infliger 1 dégât à un personnage redressé."
+    },
+    {
+        "code": "11079",
+        "name": "Journée des droïdes",
+        "text": "Activez n'importe quel nombre de vos <i>droïdes</i>. Puis, si vous havez juste activé 5 <i>droïdes</i> ou plus, piochez une carte."
+    },
+    {
+        "code": "11080",
+        "name": "Joyeux bips",
+        "text": "Tournez l'un de vos dé de personnage non-<i>droïde</i> sur n'importe quelle face. Puis vous pouvez tourner l'un de vos dé de <i>droïde</i> sur une face montrant le même symbole et la même valeur que ce dé de personnage."
+    },
+    {
+        "code": "11081",
+        "name": "Assaut en vitesse lumière",
+        "text": "Vainquez l'un de vos personnages <i>leader</i> et défaussez un <i>véhicule</i> que vous contrôlez. Puis défaussez un <i>véhicule</i> d'un adversaire depuis le jeu et infligez lui des dégâts indirects ([indirect]) pour un montant égale aux coûts combinés des <i>véhicules</i>."
+    },
+    {
+        "code": "11082",
+        "name": "Notre situation est désespérée",
+        "text": "Désignez n'importe quel nombre de personnages ayant 3 de santé restante ou moins pour retirez autant de dés."
+    },
+    {
+        "code": "11083",
+        "name": "Assaut rebelle",
+        "text": "À ne jouer que si vous avez un ou plusieurs dés montrants des dégâts à distance ([ranged]).\nRetirer un dé d'un adversaire ne montrant pas de dégâts ([ranged] ou [melee])."
+    },
+    {
+        "code": "11084",
+        "name": "Étincelle d'espoir",
+        "text": "Diminuez le coût de cet événement par 1 pour chacun de vos personnages vaincu.\nRelancez n'importe quel nombre de vos dés. Puis résolvez n'importe quel nombre de vos dés."
+    },
+    {
+        "code": "11085",
+        "name": "Prendre le contrôle",
+        "text": "Jouez un <i>véhicule</i> de la pile de défausse d'un adversaire gratuitement. Après le début de la phase d'entretien, défaussez ce <i>véhicule</i> depuis le jeu."
+    },
+    {
+        "code": "11086",
+        "name": "B-Wing",
+        "text": "Après le début de la phase d'action, vous pouvez activer ce soutien."
+    },
+    {
+        "code": "11087",
+        "name": "Résolution ferme",
+        "text": "Après que l'un de vos personnages a été vaincu ou qu'un <i>véhicule</i> que vous controlez a été défaussé, vous pouvez placer 1 ressource sur ce soutien.\n<b>Action</b> - Retirez 1 ressource depuis ce soutien pour tournez un dé sur n'importe quelle face."
+    },
+    {
+        "code": "11088",
+        "name": "Droïde GH-7",
+        "text": "[special] - Soignez 1 dégât depuis un personnage et défaussez une régression sur lui."
+    },
+    {
+        "code": "11089",
+        "name": "Combattants des tranchées de la Résistance",
+        "text": "<b>Action</b> - Retirez ce dé pour retirer un dé montrant la même valeur."
+    },
+    {
+        "code": "11090",
+        "name": "Blaster lourd EL-16",
+        "text": "Avant de résoudre ce dé, vous pouvez augmenter sa valeur de 1 si il modifie un dé de <i>trooper</i>."
+    },
+    {
+        "code": "11091",
+        "name": "Bras récupéré",
+        "text": "Modifie un personnage ou soutien <i>droïde</i>.\nAvan de résoudre l'un des dés de personnage, soutien, ou amélioration, vous pouvez incliner cette amélioration pour augmenter sa valeur de 1."
+    },
+    {
+        "code": "11092",
+        "name": "Pendentif Tico",
+        "text": "<b>Action</b> - Inclinez cette amélioration pour déplacer 1 dégât depuis un autre personnage vers le personnage attaché, ou jusqu'à 2 dégâts à la place si l'autre personnage a une copie de cette amélioration sur lui."
+    },
+    {
+        "code": "11093",
+        "name": "Chef Chirpa",
+        "subtitle": "Ancien du village de Bright Tree",
+        "text": "Après a mise en place, ajouter un Guerrier Ewok ([SoH]95) hors-jeu dans votre team.\n[special] - Infligez 2 dégâts indirects ([indirect]) à un adversaire, ou 3 dégâts indirects à la place si vous désignez 4 <i>Ewoks</i>."
+    },
+    {
+        "code": "11094",
+        "name": "Chopper",
+        "subtitle": "Menace en métal",
+        "text": "<b>Action Puissance</b> - Jouez un <i>mod</i> depuis votre main ou votre pile de défausse sur ce personnage, en diminuant son coût de 1."
+    },
+    {
+        "code": "11095",
+        "name": "Guerrier Ewok",
+        "text": "Inclure seulement si vous avez un <i>Ewok</i> unique dans votre équipe.\nAprès avoir activé ce personnage, vous pouvez infliger 1 dégât indirect ([indirect]) à un adversaire."
+    },
+    {
+        "code": "11096",
+        "name": "Han Solo",
+        "subtitle": "Vieil escroc",
+        "text": "<b>Action Puissance</b> - Tournez l'un de vos dé de <i>vaurien</i> montrant une ressource ([ressource]) sur n'importe quelle face. Si c'est un dé de <i>Wookiee</i>, vous pouvez le résoudre gratuitement."
+    },
+    {
+        "code": "11097",
+        "name": "Wicket",
+        "subtitle": "Éclaireur rusé",
+        "text": "Après avoir activé ce personnage, vous pouvez jouez un <i>piège</i> depuis votre main ou pile de défausse."
+    },
+    {
+        "code": "11098",
+        "name": "Piéger",
+        "text": "Après que le personnage attaché a été activé, vous pouvez défausser cette régression pour lui infliger des dégâts égaux au nombre de ses dés de personnage et d'amélioration montrant des dégâts ([ranged], [melee], ou [indirect])."
+    },
+    {
+        "code": "11099",
+        "name": "Piège à filet",
+        "text": "Après que le personnage attaché a été activé, vous pouvez défausser cette régression pour retirez l'un de ses dés de personnage ou amélioration montrant des dégâts ([ranged], [melee], ou [indirect])."
+    },
+    {
+        "code": "11100",
+        "name": "Bûches qui dévalent",
+        "text": "Après que le personnage attaché a été activé, vous pouvez défausser cette régression pour relancez n'importe quel nombre de ces dés de personnage et d'amélioration."
+    },
+    {
+        "code": "11101",
+        "name": "Embuscade Ewok",
+        "text": "Embuscade.\nActivez l'un de vos personnages non-élite ou jusqu'à 3 de vos personnages <i>Ewok</i>."
+    },
+    {
+        "code": "11102",
+        "name": "Attaque de planeur",
+        "text": "Inclinez l'un de vos personnages <i>Ewok</i> pour infliger 3 dégâts indirects ([indirect]) à un adversaire. Cet adversaire peut dépenser jusqu'à 3 ressources pour bloquer ce même nombre de dégâts."
+    },
+    {
+        "code": "11103",
+        "name": "Saut en vitesse lumière",
+        "text": "Désignez un soutien <i>véhicule</i> pour mettre fin à la phase d'action. Mettez cet événement hors jeu."
+    },
+    {
+        "code": "11104",
+        "name": "Remonter",
+        "text": "Jouez un soutien <i>droïde</i> depuis votre pile de défausse. Puis jouez jusqu'à 3 améliorations ayant Modifie <i>droïde</i> depuis votre pile de défausse sur ce soutien <i>droïde</i>, en diminuant le coût de chacun par 1."
+    },
+    {
+        "code": "11105",
+        "name": "Hutte du chef Chirpa",
+        "text": "[special] - Ajoutez un Ewok Warrior hors jeu ([SoH]95) à votre équipe. Défaussez ce soutien depuis le jeu sauf si vous dépensez 3 ressources."
+    },
+    {
+        "code": "11106",
+        "name": "Mr Bones",
+        "text": "Après avoir résolué ce dé montrant des dégâts de mêlée [melee], si un ou plusieurs personnages ont été vaincus, vous pouvez redresser ce soutien."
+    },
+    {
+        "code": "11107",
+        "name": "Arc Ewok",
+        "text": "Tant que cette amélioration est sur un <i>Ewok</i>, elle gagne Redéploiement."
+    },
+    {
+        "code": "11108",
+        "name": "Blaster d'Han Solo",
+        "text": "Embuscade.\nAprès avoir joué cette amélioration, vous pouvez forcer un adversaire à retirer l'un de ses dés montrant des dégâts. Puis, si cette amélioration est sur Han Solo, vous pouvez l'activer."
+    },
+    {
+        "code": "11109",
+        "name": "Dé d'Han Solo",
+        "text": "Après que l'un des dés du personnage attaché aie produit un résultat vierge ([blank]), vous pouvez incliner cette amélioration pour le relancez. Puis, si cette amélioration est sur Han Solo, vous pouvez redresser cette amélioration."
+    },
+    {
+        "code": "11110",
+        "name": "Soutien de la tribu",
+        "text": "Désignez un nombre de personnages qui partagent un même sous-type pour soigner ce même nombre de dégâts d'un personnage."
+    },
+    {
+        "code": "11111",
+        "name": "Compagnons fatidiques",
+        "text": "Après avoir activé un personnage, vous pouvez incliner cette intrigue et soit désignez R2-D2 et C-3PO ou dépenser 1 ressource pour déclencher la capacité \"Après avoir activé ce personnage\" de ce personnage une seconde fois."
+    },
+    {
+        "code": "11112",
+        "name": "Changer le destin",
+        "text": "Retirez tous les dés d'un adversaire montrant des dégâts ([ranged], [melee], ou [indirect])."
+    },
+    {
+        "code": "11113",
+        "name": "Distraction intelligente",
+        "text": "Désignez un personnage Bleu pour choisir l'un:\n- Tournez l'un de vos dés sur n'importe quelle face.\n- Défaussez les 2 premières cartes d'un deck.\n- Retirez un dé de <i>trooper</i>."
+    },
+    {
+        "code": "11114",
+        "name": "Reflets sombres",
+        "text": "Tournez un dé sur une face montrant un valeur de 1 ou plus. Puis tournez jusqu'à 2 autres dés sur des faces montrant les même symbole et valeur que ce dé."
+    },
+    {
+        "code": "11115",
+        "name": "Coup décisif",
+        "text": "Résolvez un de vos dés montrant des dégâts de mêlée ([melee]). Puis retirez tous les dés de personnage et d'amélioration du personnage auquel vous venez d'infliger des dégâts."
+    },
+    {
+        "code": "11116",
+        "name": "Rapprocher",
+        "text": "Résolvez l'un de vos dés de personnage ou d'amélioration montrant des dégâts de mêlée ([melee]) sans le retirer depuis votre réserve de dés, en augmentant sa valeur de 2 si ce personnage a une amélioration nommée Niman Mastery sur lui."
+    },
+    {
+        "code": "11117",
+        "name": "Polarité",
+        "text": "Embuscade.\nDésignez un personnage héro pour donner 1 bouclier à un personnage. Désignez un personnage antagoniste pour infliger 1 dégâts à un personnage."
+    },
+    {
+        "code": "11118",
+        "name": "Pushing Slash",
+        "text": "Activez l'un de vos personnage Bleus. Puis vous pouvez résolvez one of ce personnage's personnage ou amélioration dés. If ce personnage un a card titred Niman Mastery sur lui, vous pouvez tournez un dé sur n'importe quelle face."
+    },
+    {
+        "code": "11119",
+        "name": "Trêve temporaire",
+        "text": "Vous pouvez inclure uniquement Kylo Ren et Rey dans votre équipe <em>(vous pouvez inclure des cartes Héro et Antagoniste dans votre deck)</em>.\nVous ne pouvez pas inclure de cartes Grises dans votre deck."
+    },
+    {
+        "code": "11120",
+        "name": "Connexion à la Force",
+        "text": "<b>Action</b> - Inclinez ce soutien et désignez 2 personnages Bleu pour tournez l'un de ces dés personnage sur une face montrant le même symbole que l'un des dés de personnage de l'autre personnage."
+    },
+    {
+        "code": "11121",
+        "name": "Mystères de la Force",
+        "text": "<b>Action</b> - Défaussez ce soutien depuis le jeu et retirez 5 de vos dés montrant un symbole de chaque : dégâts de mêlée ([melee]), bouclier ([bouclier]), ressource ([ressource]), spécial ([special]), et vierge ([blank]). Puis jouez jusqu'à 3 améliorations depuis votre main et/ou pile de défausse gratuitement."
+    },
+    {
+        "code": "11122",
+        "name": "Maîtrise du Niman",
+        "text": "Personnage Bleu uniquement. Limité à 1 <i>style</i> par personnage.\nAprès avoir joué cette amélioration, tournez un dé de personnage ou d'amélioration sur n'importe quelle face.\n[special] - Tournez un dé de personnage et d'amélioration sur les faces de votre choix."
+    },
+    {
+        "code": "11123",
+        "name": "Entraînement Niman",
+        "text": "Personnage Bleu uniquement.\n[special] - Tournez un dé d'amélioration sur n'importe quelle face. Vous pouvez défausser cette amélioration pour jouer gratuitement une carte nommée Maîtrise Niman depuis votre main ou pile de défausse sur le personnage attaché."
+    },
+    {
+        "code": "11124",
+        "name": "Puissance indomptable",
+        "text": "Personnage <i>Apprenti</i> uniquement.\n[special] - Si cette amélioration est sur un hero, donnez 1 bouclier à un personnage et retirez un dé montrant des dégâts. Si c'est sur un antagoniste, infligez 1 dégât à un personnage et retirez un dé ne montrant pas de dégâts."
+    },
+    {
+        "code": "11125",
+        "name": "Éclairs en chaîne",
+        "text": "Infligez 1 dégât à un personnage. Puis vous pouvez dépenser 1 ressource pour infliger 2 dégâts à un autre personnage qui partage un même sous-type commun avec ce personnage."
+    },
+    {
+        "code": "11126",
+        "name": "Saisir le territoire",
+        "text": "Embuscade.\nDésignez un <i>trooper</i> pour prendre le contrôle du champ de bataille."
+    },
+    {
+        "code": "11127",
+        "name": "Rupture de coque",
+        "text": "Retirez l'un de vos dé montrant des dégâts ([ranged], [melee], ou [indirect]) pour soit défausser un soutien depuis le jeu ayant un coût égal ou inférieur à la valeur montrée par ce dé, soit infliger ce nombre de dégâts indirects ([indirect]) à un adversaire."
+    },
+    {
+        "code": "11128",
+        "name": "Hors des capteurs",
+        "text": "Désignez un personnage Rouge pour choisir l'un:\n- Résolvez l'un de vos dés en augmentant sa valeur de 1.\n- Activez 2 de vos personnages ou soutiens.\n- Retirez un dé de <i>vaurien</i>."
+    },
+    {
+        "code": "11129",
+        "name": "Territoire de saisie",
+        "text": "Embuscade.\nDésignez un <i>trooper</i> pour prendre le contrôle du champs de bataille."
+    },
+    {
+        "code": "11130",
+        "name": "Les boucliers sont en panne",
+        "text": "Choisissez un personnage sans bouclier et retirez un de ces dés de personnage."
+    },
+    {
+        "code": "11131",
+        "name": "Raccourci",
+        "text": "Désignez un <i>véhicule</i> pour échanger le champs de bataille avec un champs de bataille hors-jeu."
+    },
+    {
+        "code": "11132",
+        "name": "Vous êtes maintenant aux commandes",
+        "text": "Embuscade.\nJouez un <i>titre</i> depuis votre main ou pile de défausse, en diminuant son coût par 1 et en ignorant ses restrictions."
+    },
+    {
+        "code": "11133",
+        "name": "Représailles",
+        "text": "Après qu'un personnage un été vaincu, vous pouvez incliner ce soutien pour gagner 1 ressource."
+    },
+    {
+        "code": "11134",
+        "name": "AT-RT",
+        "text": "Les faces modificateur de ce dé peuvent être résolues avec l'un de vos dé de <i>trooper</i> montrant n'importe quel symbole.."
+    },
+    {
+        "code": "11135",
+        "name": "Police de Coruscant",
+        "text": "Après avoir joué ce <i>soutien</i>, vous pouvez retirez un dé de <i>vaurien</i>."
+    },
+    {
+        "code": "11136",
+        "name": "Amiral",
+        "text": "Personnage <i>Leader</i> uniquement.\nAprès avoir joué cette amélioration, vous pouvez dépenser 2 ressources pour redresser un personnage ou <i>véhicule</i>.\n[special] - Inclinez cette amélioration pour redresser un personnage ou <i>véhicule</i>."
+    },
+    {
+        "code": "11137",
+        "name": "Module de communication",
+        "text": "Modifie un personnage ou soutien <i>droïde</i> .\nAprès avoir activé le <i>droïde</i> attaché, si c'est un personnage, vous pouvez tournez un dé de soutien sur n'importe que face. Si c'est un soutien, vous pouvez tournez un dé de personnage sur n'importe quelle face."
+    },
+    {
+        "code": "11138",
+        "name": "Mort ou vif",
+        "text": "Ne jouer que si vous désignez un <i>chasseur de primes</i>.\nAprès que le personnage attaché a été activé, vous pouvez gagner 1 ressource.\nAprès que le personnage attaché a été vaincu, vous pouvez gagner 1 ressource."
+    },
+    {
+        "code": "11139",
+        "name": "Mauvais crédit",
+        "text": "Retirez tous les dés d'un adversaire montrant une ressource ([ressource])."
+    },
+    {
+        "code": "11140",
+        "name": "Démonter",
+        "text": "Défaussez un soutien, une amélioration, ou une régression sans dé depuis le jeu."
+    },
+    {
+        "code": "11141",
+        "name": "Encercler",
+        "text": "Désignez 3 personnages inclinés pour retirer tous les dés de personnage."
+    },
+    {
+        "code": "11142",
+        "name": "I Performed Violence",
+        "text": "Embuscade.\nRésolvez l'un de vos dés de personnage ou <i>droïde</i> montrant des dégâts de mêlée ([melee]) comme non blocable, en augmentant sa valeur par 1, ou par 2 à la place si c'est un dé de Mr. Bones."
+    },
+    {
+        "code": "11143",
+        "name": "Parenté",
+        "text": "Désignez 3 personnages qui partagent un sous-type pour gagner 1 ressource, ou 2 ressources à la place si vous désignez 6 personnages qui partagent un sous-type."
+    },
+    {
+        "code": "11144",
+        "name": "Devancer",
+        "text": "Désignez un personnage Jaune pour choisir l'un:\n- Relancez jusqu'à 3 dés.\n- Forcez un adversaire à perdre 1 ressource.\n- Retirez un dé de <i>leader</i>."
+    },
+    {
+        "code": "11145",
+        "name": "La pratique rend parfait",
+        "text": "Choisissez un dé et relancez le jusqu'à 5 fois."
+    },
+    {
+        "code": "11146",
+        "name": "Revers",
+        "text": "Désignez un personnage Jaune pour retirer un dé montrant des dégâts ([melee] or [ranged]) et infliger ces dégâts à un personnage."
+    },
+    {
+        "code": "11147",
+        "name": "Faute simple",
+        "text": "Le joueur qui contrôle le champs de bataille choisit un dé dans sa réserve de dés. Puis retirez ce dé ou résolvez-le comme si il était dans votre réserve de dés."
+    },
+    {
+        "code": "11148",
+        "name": "Unifier",
+        "text": "Choisissez un sous-type de l'un de vos personnages. Jusqu'à la fin de ce round, vos autres personnages gagne le sous-type choisi."
+    },
+    {
+        "code": "11149",
+        "name": "Tous les moyens nécessaires",
+        "text": "<b>Action</b> - Inclinez cette intrigue et retirez l'un de vos <i>chasseur de primes</i> dé pour infliger 1 dégât non blocable à un personnage, ou 2 dégâts non blocables à la place si ce personnage a 3 <i>primes</i> ou plus sur lui."
+    },
+    {
+        "code": "11150",
+        "name": "Sécurité de Canto Bight",
+        "text": "Après que ce soutien a été défaussé de votre main par un effet d'un adversaire, vous pouvez le jouer gratuitement."
+    },
+    {
+        "code": "11151",
+        "name": "Chasseur TIE de la guilde minière",
+        "text": "Après que un effet d'un adversaire vous aie fait perdre 1 ou plusieurs ressources, vous pouvez activer ce soutien pour lui infliger 1 dégâts indirects ([indirect])."
+    },
+    {
+        "code": "11152",
+        "name": "Masque de chasseur de primes",
+        "text": "Le personnage attaché a +1 en santé et gagne <i>chasseur de primes</i>."
+    },
+    {
+        "code": "11153",
+        "name": "Pistolet blaster disrupteur DX-2",
+        "text": "Les dégâts infligés par ce dé ou par un dé qu'il modifie sont non blocables."
+    },
+    {
+        "code": "11154",
+        "name": "Infliger la douleur",
+        "text": "Infligez 2 dégâts à l'un de vos personnages pour infliger 2 dégâts indirects ([indirect]) à un adversaire.\nAprès que cet événement a été défaussé depuis votre deck, vous pouvez l'ajouter à votre main."
+    },
+    {
+        "code": "11155",
+        "name": "Bras grappin",
+        "text": "Modifie un personnage ou soutien <i>droïde</i>.\n<b>Action</b> - Retirez ce dé pour défausser un <i>piège</i> depuis le jeu."
+    },
+    {
+        "code": "11156",
+        "name": "Propulseur de fusée",
+        "text": "Modifie un personnage ou soutien <i>droïde</i>.\n<b>Action</b> - Activez le <i>droïde</i> attaché. Puis résolvez n'importe quel nombre de dés de ce personnage, soutien, et amélioration. Défaussez cette amélioration."
+    },
+    {
+        "code": "11157",
+        "name": "Casino de Canto",
+        "subtitle": "Canto Bight",
+        "text": "<b>Action Puissance</b> - Dépensez 1 ressource pour relancer 2 dés. Ensuite, si ces dés montrent la même valeur, gagnez 2 ressouces, ou 3 ressouces à la place si ils montrent également le même symbole.."
+    },
+    {
+        "code": "11158",
+        "name": "Palais de Jabba",
+        "subtitle": "Tatooine",
+        "text": "<b>Capture</b> - Gagnez 1 ressource. Vous pouvez désigner un <i>chasseur de primes</i> pour forcer un adversaire à perdre 1 ressource."
+    },
+    {
+        "code": "11159",
+        "name": "Repaire des soeurs de la nuit",
+        "subtitle": "Dathomir",
+        "text": "Après avoir joué une regression pour la première fois à chaque round, vous pouvez gagner 2 ressoure."
+    },
+    {
+        "code": "11160",
+        "name": "Salle du trône de Snoke",
+        "subtitle": "Suprématie",
+        "text": "<b>Capture</b> - Désignez un personnage héro pour donner 1 bouclier à un personnage. Désignez un personnage antagoniste pour retirer 1 bouclier à un personnage d'un adversaire."
+    }
+]
