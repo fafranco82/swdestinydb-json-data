@@ -1190,6 +1190,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "11050",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Predatory Banker",
+        "position": 50,
+        "rarity_code": "U",
+        "set_code": "SoH",
+        "text": "<b>Action</b> - Exhaust this support to take 1 resource from an opponent that has 3 or more resources. Use this ability only if you do not control the battlefield.",
+        "ttscardid": "52849",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "11051",
         "cost": 1,
         "deck_limit": 2,
@@ -1215,26 +1233,8 @@
             "mod"
         ],
         "text": "Modify <i>droid</i> character or support.",
-        "ttscardid": "52849",
-        "type_code": "upgrade"
-    },
-    {
-        "affiliation_code": "villain",
-        "code": "11050",
-        "cost": 1,
-        "deck_limit": 2,
-        "faction_code": "yellow",
-        "has_die": false,
-        "has_errata": false,
-        "illustrator": " ",
-        "is_unique": false,
-        "name": "Predatory Banker",
-        "position": 50,
-        "rarity_code": "U",
-        "set_code": "SoH",
-        "text": "<b>Action</b> - Exhaust this support to take 1 resource from an opponent that has 3 or more resources. Use this ability only if you do not control the battlefield.",
         "ttscardid": "52850",
-        "type_code": "support"
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "villain",
