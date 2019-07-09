@@ -1059,6 +1059,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "11044",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Misinformation",
+        "position": 44,
+        "rarity_code": "C",
+        "set_code": "SoH",
+        "text": "Choose up to 2 cards in an opponent's discard pile and place them on top of their deck in any order.",
+        "ttscardid": "52843",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "11045",
         "cost": 0,
         "deck_limit": 2,
@@ -1072,7 +1090,7 @@
         "rarity_code": "C",
         "set_code": "SoH",
         "text": "Ambush.\nMove up to 2 damage from an opponent's character to a character that has a <i>bounty</i> on it.",
-        "ttscardid": "52843",
+        "ttscardid": "52844",
         "type_code": "event"
     },
     {
@@ -1091,26 +1109,8 @@
         "rarity_code": "U",
         "set_code": "SoH",
         "text": "Each of your opponents' characters has +1 downgrade limit.\nAfter you play a <i>bounty</i>, you may activate one of your <i>bounty hunters</i>.",
-        "ttscardid": "52844",
-        "type_code": "support"
-    },
-    {
-        "affiliation_code": "villain",
-        "code": "11044",
-        "cost": 0,
-        "deck_limit": 2,
-        "faction_code": "yellow",
-        "has_die": false,
-        "has_errata": false,
-        "illustrator": " ",
-        "is_unique": false,
-        "name": "Misinformation",
-        "position": 44,
-        "rarity_code": "C",
-        "set_code": "SoH",
-        "text": "Choose up to 2 cards in an opponent's discard pile and place them on top of their deck in any order.",
         "ttscardid": "52845",
-        "type_code": "event"
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
