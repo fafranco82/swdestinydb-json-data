@@ -24,6 +24,10 @@
         "name": "Chasseur de primes"
     },
     {
+        "code": "curse",
+        "name": "Malédiction"
+    },
+    {
         "code": "droid",
         "name": "Droïde"
     },
@@ -120,8 +124,16 @@
         "name": "Spectre"
     },
     {
+        "code": "spell",
+        "name": "Sort"
+    },
+    {
         "code": "title",
         "name": "Titre"
+    },
+    {
+        "code": "trap",
+        "name": "Trap"
     },
     {
         "code": "trooper",
