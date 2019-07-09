@@ -3251,6 +3251,7 @@
         "name": "Tech Team",
         "position": 136,
         "rarity_code": "C",
+        "reprint_of": "03127",
         "set_code": "CONV",
         "text": "Before you play a support, you may exhaust this support to decrease its cost by 1.",
         "ttscardid": "50065",
