@@ -1,46 +1,46 @@
 [
     {
         "code": "11001",
-        "name": "Dark Mystic",
+        "name": "Mystique sombre",
         "text": "[special] - Jouez une amélioration Bleue de votre main ou de votre pile de défausse <em>(en payant son coût).</em> Puis lancer le dé de cette amélioration dans votre réserve."
     },
     {
         "code": "11002",
         "name": "Kylo Ren",
         "subtitle": "Lié à la Force",
-        "text": "<b>Action Puissance</b> - Déplacez 1 bouclier de ce personnage vers un autre personnage. Puis, si vous avez déplacé ce bouclier vers un héro, infligez 1 dégât à 1 personnage.\n[special] - Infligez 2 dégâts à un personnage. Si l'un de ces dégâts un été bloqué, relancez ce dé au lieu de le retirer."
+        "text": "<b>Action Puissance</b> - Déplacez 1 bouclier de ce personnage vers un autre personnage. Puis, si vous avez déplacé ce bouclier vers un héros, infligez 1 dégât à un personnage.\n[special] - Infligez 2 dégâts à un personnage. Si l'un de ces dégâts a été bloqué, relancez ce dé au lieu de le retirer."
     },
     {
         "code": "11003",
         "name": "Maul",
-        "subtitle": "Duelliste habile",
-        "text": "<b>Action Puissance</b> - Relancez l'un des dés de personnage ou d'amélioration de ce personnage. Vous pouvez défausser une carte depuis votre main pour relancez ce dé encore une fois. Si ce dé montre des dégâts de mêlée ([melee]), vous pouvez le retirer pour infliger des dégâts égaux à sa valeur à 2 personnages."
+        "subtitle": "Duelliste talentueux",
+        "text": "<b>Action Puissance</b> - Relancez l'un des dés de personnage ou d'amélioration de ce personnage. Vous pouvez défausser une carte depuis votre main pour relancez ce dé une nouvelle fois. Si ce dé montre des dégâts de mêlée ([melee]), vous pouvez le retirer pour infliger des dégâts égaux à sa valeur à 2 personnages."
     },
     {
         "code": "11004",
         "name": "Soeur de la nuit zombie",
-        "text": "Les dégâts indirects ([indirect]) qui vous sont infligés doivent être assignés à ce personnage en dernier.\nAprès avoir activé ce personnage, vous pouvez désigner une autre <i>sorcière</i> pour infliger 1 dégât à un personnage qui un une <i>malédiction</i> sur lui."
+        "text": "Les dégâts indirects ([indirect]) qui vous sont infligés doivent être assignés à ce personnage en dernier.\nAprès avoir activé ce personnage, vous pouvez désigner une autre <i>sorcière</i> pour infliger 1 dégât à un personnage qui a une <i>malédiction</i> sur lui."
     },
     {
         "code": "11005",
         "name": "Old Daka",
         "subtitle": "Nécromancienne soeur de la nuit",
-        "text": "Après que ce personnage a été vaincu, placez chaque Soeur de la nuit zombie que vous controlez hors jeu.\n<b>Action Puissance</b> - Dépensez 1 ressource pour ajouter une Soeur de la nuit zombie ([SoH]4) inclinée à votre équipe, ou 2 Soeurs de la nuit zombie inclinées à la place si ce personnage est élite."
+        "text": "Après que ce personnage a été vaincu, placez chaque Soeur de la nuit zombie que vous contrôlez hors jeu.\n<b>Action Puissance</b> - Dépensez 1 ressource pour ajouter une Soeur de la nuit zombie ([SoH]4) inclinée à votre équipe, ou 2 Soeurs de la nuit zombie inclinées à la place si ce personnage est élite."
     },
     {
         "code": "11006",
         "name": "Édit du chancelier",
-        "text": "Après que cette régression a été jouée, retirez tous les boucliers du personnage attaché.\nAprès que le personnage attaché a été vaincu, vous pouvez donner 2 boucliers à un personnage."
+        "text": "Après avoir joué cette régression, retirez tous les boucliers du personnage attaché.\nAprès que le personnage attaché a été vaincu, vous pouvez donner 2 boucliers à un personnage."
     },
     {
         "code": "11007",
         "name": "Hex",
-        "text": "<b>Action</b> - Inclinez cette régression pour retirez un dé de personnage du personnage attaché montrant un résultat vierge ([blank])."
+        "text": "<b>Action</b> - Inclinez cette régression pour retirer un dé de personnage du personnage attaché montrant un résultat vierge ([blank])."
     },
     {
         "code": "11008",
         "name": "Possédé",
-        "text": "Défaussez cette régression depuis le jeu si vous ne contrôlez pas une <i>sorcière</i>.\n<b>Action</b> - Inclinez cette régression pour résoudre l'un des dés de personnage du personnage attaché comme si il étant dans votre réserve de dés."
+        "text": "Défaussez cette régression depuis le jeu si vous ne contrôlez pas une <i>sorcière</i>.\n<b>Action</b> - Inclinez cette régression pour résoudre l'un des dés de personnage du personnage attaché comme s'il étant dans votre réserve."
     },
     {
         "code": "11009",
@@ -55,7 +55,7 @@
     {
         "code": "11011",
         "name": "Magie noire",
-        "text": "Choisissez un personnage et relancez n'importe quel nombre de ses dés de personnages. Infligez 1 dégât à ce personnage si il a une <i>malédiction</i> sur lui."
+        "text": "Choisissez un personnage et relancez n'importe quel nombre de ses dés de personnage. Infligez 1 dégât à ce personnage s'il a une <i>malédiction</i> sur lui."
     },
     {
         "code": "11012",
@@ -79,12 +79,12 @@
     },
     {
         "code": "11016",
-        "name": "Cimeterre",
-        "text": "Avant de résoudre l'effet d'un événement d'un adversaire, vous pouvez retournez ce soutien depuis le jeu dans la main de son propriétaire. Puis gagnez 1 ressource, ou 2 ressources à la place si vous désignez Maul."
+        "name": "Scimitar",
+        "text": "Avant de résoudre l'effet d'un événement d'un adversaire, vous pouvez renvoyer ce soutien depuis le jeu dans la main de son propriétaire. Puis gagnez 1 ressource, ou 2 ressources à la place si vous désignez Maul."
     },
     {
         "code": "11017",
-        "name": "Magie ancienne",
+        "name": "Magies antiques",
         "text": "Personnage Bleu uniquement.\n[special] - Infligez 1 dégât indirect ([indirect]) à un adversaire. Vous pouvez redresser une <i>malédiction</i>."
     },
     {
@@ -95,35 +95,35 @@
     {
         "code": "11019",
         "name": "Talisman de résurrection",
-        "text": "Personnage <i>Sorcière</i> uniquement.\n[special] - Gagnez 2 ressources. Puis vous pouvez dépenser un nombre de ressources égale à la valeur en points d'un personnage vaincu pour le retourner en jeu sous votre contrôle."
+        "text": "Personnage <i>Sorcière</i> uniquement.\n[special] - Gagnez 2 ressources. Puis vous pouvez dépenser un nombre de ressources égal à la valeur en points d'un personnage vaincu pour le renvoyer en jeu sous votre contrôle."
     },
     {
         "code": "11020",
         "name": "Conan Motti",
-        "subtitle": "Officier trop confiant",
-        "text": "Après avoir résolu ce dé montrant une défausse ([discard]), vous pouvez défausser une carte depuis votre main pour retirez un dé."
+        "subtitle": "Officier arrogant",
+        "text": "Après avoir résolu ce dé montrant une face de défausse ([discard]), vous pouvez défausser une carte depuis votre main pour retirez un dé."
     },
     {
         "code": "11021",
         "name": "Gideon Hask",
         "subtitle": "Commando Inferno Squad",
-        "text": "<b>Action Puissance</b> - Si vous contrôlez le champs de bataille, lancer un dé de <i>trooper</i> sur une carte que vous contrôlez dans votre réserve de dé."
+        "text": "<b>Action Puissance</b> - Si vous contrôlez le champ de bataille, lancez un dé de <i>trooper</i> sur une carte que vous contrôlez dans votre réserve."
     },
     {
         "code": "11022",
         "name": "Mudtrooper",
-        "text": "Après avoir activé ce personnage ou un <i>leader</i>, vous pouvez relancez l'un de vos dé montrant un blank ([blank])."
+        "text": "Après avoir activé ce personnage ou un <i>leader</i>, vous pouvez relancer l'un de vos dé montrant un résultat vierge ([blank])."
     },
     {
         "code": "11023",
         "name": "Thrawn",
         "subtitle": "Grand Amiral",
-        "text": "Après avoir activé ce personnage, vous pouvez regarder les 4 premières cartes d'un deck.\n<b>Action Puissance</b> - Révélez les 4 premières cartes du deck d'un adversaire. Vous pouvez jouer un événement révélé de cette manière et désignez des cartes de votre adversaire comme si elles étaient les vôtres."
+        "text": "Après avoir activé ce personnage, vous pouvez regarder les 4 premières cartes du dessus d'un deck.\n<b>Action Puissance</b> - Révélez les 4 premières cartes du dessus du deck d'un adversaire. Vous pouvez jouer un évènement ainsi révélé et désigner les cartes de cet adversaire comme si elles étaient les vôtres."
     },
     {
         "code": "11024",
         "name": "Cible prioritaire",
-        "text": "Après que le personnage attaché a été vaincu, vous pouvez prendre le contrôle du champs de bataille et utiliser sa capacité de capture ou son Action Puissance, même si elle a déjà été utilisée à ce round."
+        "text": "Après que le personnage attaché a été vaincu, vous pouvez prendre le contrôle du champ de bataille et utiliser sa capacité de capture ou son Action Puissance, même si elle a déjà été utilisée à ce round."
     },
     {
         "code": "11025",
@@ -133,7 +133,7 @@
     {
         "code": "11026",
         "name": "Avantage écrasant",
-        "text": "Si vous avez plus de dés de personnages dans votre réserve de dés qu'un adversaire n'en a dans sa réserve de dés, retirez l'un des dés de personnage de cet adversaire. Répétez cet effet pour les dés de soutiens et les dés d'améliorations."
+        "text": "Si vous avez plus de dés de personnage dans votre réserve qu'un adversaire n'en a dans la sienne, retirez l'un des dés de personnage de cet adversaire. Répétez cet effet pour les dés de soutien et les dés d'amélioration."
     },
     {
         "code": "11027",
@@ -157,38 +157,38 @@
     },
     {
         "code": "11031",
-        "name": "Enregistrements culturels",
-        "text": "Après qu'un joueur aie joué la copie d'un carte mise hors jeu par ce soutien, vous pouvez gagner 1 ressource ou retirer un dé.\n[special] - Regardez la main d'un adversaire et et placez l'une de ces cartes hors jeu. Gagnez 1 action."
+        "name": "Archives culturelles",
+        "text": "Après qu'un joueur ait joué une copie d'une carte mise hors jeu par ce soutien, vous pouvez gagner 1 ressource ou retirer un dé.\n[special] - Regardez la main d'un adversaire et placez l'une de ces cartes hors jeu. Gagnez 1 action."
     },
     {
         "code": "11032",
         "name": "Territoire hostile",
-        "text": "Après le début de la phase d'entretien, infligez 2 dégâts indirects ([indirect]) à chaque joueur qui ne contrôle pas le champs de bataille."
+        "text": "Après le début de la phase d'entretien, infligez 2 dégâts indirects ([indirect]) à chaque joueur qui ne contrôle pas le champ de bataille."
     },
     {
         "code": "11033",
         "name": "Embargo séparatiste",
-        "text": "Après avoir joué ce soutien, nommer une carte.\nLes copies de la carte nommée ne peuvent pas être jouées."
+        "text": "Après avoir joué ce soutien, nommez une carte.\nLes copies de la carte nommée ne peuvent pas être jouées."
     },
     {
         "code": "11034",
         "name": "Canon de siège super laser",
-        "text": "Avant de résoudre ce dé, vous pouvez retirer toutes les ressources depuis ce soutien pour augmenter sa valeur de ce nombre de ressources.\n<b>Action Puissance</b> - Placez 1 ressources sur ce soutien. Dépensez jusqu'à 4 ressources pour placer ces ressources sur ce soutien."
+        "text": "Avant de résoudre ce dé, vous pouvez retirer toutes les ressources sur ce soutien pour augmenter sa valeur d'autant.\n<b>Action Puissance</b> - Placez 1 ressource sur ce soutien. Dépensez jusqu'à 4 ressources pour placer ces ressources sur ce soutien."
     },
     {
         "code": "11035",
         "name": "Étoile cramoisie",
-        "text": "Jouez seulement si un adversaire à un ou plusieurs personnages vaincus.\n<b>Action</b> - Inclinez cette amélioration pour rédoudre un dé de personnage du personnage attaché en augmentant sa valeur de 1."
+        "text": "A ne jouer seulement si un adversaire à un ou plusieurs personnages vaincus.\n<b>Action</b> - Inclinez cette amélioration pour rédoudre un dé de personnage du personnage attaché en augmentant sa valeur de 1."
     },
     {
         "code": "11036",
         "name": "Mastermind",
-        "text": "[special] - Nommer un carte. Puis révéler la main d'un adversaire et placez chaque copie de la carte nommée hors jeu."
+        "text": "[special] - Nommez une carte. Puis révélez la main d'un adversaire et placez chaque copie de la carte nommée hors jeu."
     },
     {
         "code": "11037",
-        "name": "Répéteur lourd TL-50",
-        "text": "<b>Action Puissance</b> - Si cette amélioration est sur un <i>trooper</i>, tournez ce dé sur n'importe quelle face.\n[special] - Infligez 1 dégâts indirects ([indirect]) à un adversaire. Relancez ce dé au lieu de le retirer."
+        "name": "TL-50 lourd à répétition",
+        "text": "<b>Action Puissance</b> - Si cette amélioration est sur un <i>trooper</i>, tournez ce dé sur n'importe quelle face.\n[special] - Infligez 1 dégât indirect ([indirect]) à un adversaire. Relancez ce dé au lieu de le retirer."
     },
     {
         "code": "11038",
