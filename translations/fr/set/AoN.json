@@ -49,7 +49,7 @@
     {
         "code": "10010",
         "name": "Dans l'ombre",
-        "text": "Après que le personnage attaché aie utilisé son action <em>(y compris Action Puissance)</em>, vous pouvez infligez 1 dégât indirect ([indirect]) à son contrôleur."
+        "text": "Après que le personnage attaché a utilisé son action <em>(y compris Action Puissance)</em>, vous pouvez infligez 1 dégât indirect ([indirect]) à son contrôleur."
     },
     {
         "code": "10011",
@@ -62,7 +62,7 @@
     },
     {
         "code": "10013",
-        "name": "Changeforme Clawdite",
+        "name": "Changeant Clawdite",
         "text": "Après avoir activé ce personnage, vous pouvez choisir un sous-type. Jusqu'à la fin de ce round, ce personnage gagne le sous-type choisi."
     },
     {
@@ -77,7 +77,7 @@
     },
     {
         "code": "10016",
-        "name": "Alliés par nécessité",
+        "name": "Alliés de circonstance",
         "text": "Ne peut être inclus que si vous avez 2 personnages ou plus dans votre équipe qui sont de la même couleur.\nAprès la mise en place, défaussez une carte de votre main et perdez 2 ressources."
     },
     {

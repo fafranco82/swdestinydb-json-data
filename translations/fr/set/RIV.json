@@ -1,0 +1,107 @@
+[
+    {
+        "code": "06001",
+        "name": "Anakin Skywalker",
+        "subtitle": "Apprenti tiraillé",
+        "text": "Vous ne pouvez pas avoir Dark Vador dans votre équipe.\n[special] - Défaussez une carte Héros de votre main pour donner 2 boucliers à un personnage ou défaussez une carte Antagoniste de votre main pour infliger 2 dégâts à un personnage."
+    },
+    {
+        "code": "06002",
+        "name": "Lobot",
+        "subtitle": "Aide cyborg",
+        "text": "Tant que vous contrôlez le champ de bataille, ce personnage possède le mot-clé Gardien.\n[special] - Résolvez un de vos dés, en augmentant de 2 sa valeur."
+    },
+    {
+        "code": "06003",
+        "name": "Ketsu Onyo",
+        "subtitle": "Agent du Soleil Noir",
+        "text": "Avant que l'un de vos personnages ne soit vaincu, vous pouvez déplacer une de ses <i>armes</i> vers ce personnage."
+    },
+    {
+        "code": "06004",
+        "name": "Récupérateur Jawa",
+        "text": "Après avoir activé ce personnage, vous pouvez défausser un de vos soutiens ou améliorations en jeu coûtant 2 ou plus pour gagner 1 ressource."
+    },
+    {
+        "code": "06005",
+        "name": "But caché",
+        "text": "Choisissez un symbole. Puis, relancez un dé d'un adversaire. Si vous obtenez le symbole choisi, retirez le dé."
+    },
+    {
+        "code": "06006",
+        "name": "Sabre laser artisanal",
+        "text": "A ne jouer que sur un personnage incliné."
+    },
+    {
+        "code": "06007",
+        "name": "Ordinateur de visée",
+        "text": "Tournez un dé de soutien ou d'amélioration sur n'importe quelle face."
+    },
+    {
+        "code": "06008",
+        "name": "Chasseur Fang",
+        "text": "Embuscade."
+    },
+    {
+        "code": "06009",
+        "name": "Bidouiller",
+        "text": "Tournez un de vos dés sur une face montrant une valeur de 1."
+    },
+    {
+        "code": "06010",
+        "name": "Fusil sniper Verpine ",
+        "text": "[special] - Infligez 2 dégâts non blocables à un personnage."
+    },
+    {
+        "code": "06011",
+        "name": "Ressembler",
+        "text": "Tournez un dé de personnage sur n'importe quelle face, s'il y a au moins 2 exemplaires de ce personnage en jeu.."
+    },
+    {
+        "code": "06012",
+        "name": "Contre-attaque",
+        "text": "Retirez un de vos dés pour retirez un dé montrant des dégâts ([ranged], [melee], or [indirect])."
+    },
+    {
+        "code": "06013",
+        "name": "Débrouillard",
+        "text": "Désignez un personnage Gris et retirez un de vos dés pour gagner 1 ressource."
+    },
+    {
+        "code": "06014",
+        "name": "Attaque surprise",
+        "text": "Résolvez un de vos dés montrant des dégâts ([ranged], [melee], or [indirect]), en augmentant de 1 sa valeur."
+    },
+    {
+        "code": "06015",
+        "name": "Paquetage de ravitaillement",
+        "text": "<b>Action</b> - Inclinez cette amélioration pour relancer n'importe quel nombre de dés d'amélioration ou de personnage du personnage attaché."
+    },
+    {
+        "code": "06016",
+        "name": "Blaster à répétition T-21",
+        "text": "[special] - Infligez 2 dégâts à un personnage. Puis, vous pouvez relancer ce dé au lieu de le retirer de votre réserve."
+    },
+    {
+        "code": "06017",
+        "name": "Vibro-épée",
+        "text": "Redéploiement."
+    },
+    {
+        "code": "06018",
+        "name": "Garde ailée de Bespin",
+        "text": "<b>Action</b> - Inclinez ce soutien et dépensez 1 ressource pour forcer un adversaire à choisir et défausser une carte de sa main."
+    },
+    {
+        "code": "06019",
+        "name": "Champs asséchés",
+        "subtitle": "Atollon",
+        "text": "<b>Capture</b> - Gagnez 1 ressource si vous n'avez pas de ressources."
+    },
+    {
+        "code": "06020",
+        "name": "Temple sith",
+        "subtitle": "Malachor",
+        "text": "<b>Capture</b> - Retirez un de vos dés pour infliger 1 dégât non blocable à un personnage."
+    }
+]
