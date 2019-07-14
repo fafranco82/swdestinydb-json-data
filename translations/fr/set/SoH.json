@@ -479,29 +479,29 @@
         "code": "11093",
         "name": "Chef Chirpa",
         "subtitle": "Ancien du village de Bright Tree",
-        "text": "Après a mise en place, ajouter un Guerrier Ewok ([SoH]95) hors-jeu dans votre team.\n[special] - Infligez 2 dégâts indirects ([indirect]) à un adversaire, ou 3 dégâts indirects à la place si vous désignez 4 <i>Ewoks</i>."
+        "text": "Après la mise en place, ajoutez un Guerrier Ewok ([SoH]95) hors-jeu à votre équipe.\n[special] - Infligez 2 dégâts indirects ([indirect]) à un adversaire, ou 3 dégâts indirects à la place si vous désignez 4 <i>Ewoks</i>."
     },
     {
         "code": "11094",
         "name": "Chopper",
-        "subtitle": "Menace en métal",
+        "subtitle": "Menace métallique",
         "text": "<b>Action Puissance</b> - Jouez un <i>mod</i> depuis votre main ou votre pile de défausse sur ce personnage, en diminuant son coût de 1."
     },
     {
         "code": "11095",
         "name": "Guerrier Ewok",
-        "text": "Inclure seulement si vous avez un <i>Ewok</i> unique dans votre équipe.\nAprès avoir activé ce personnage, vous pouvez infliger 1 dégât indirect ([indirect]) à un adversaire."
+        "text": "Vous ne pouvez inclure ce personnage dans votre équipe uniquement si un <i>Ewok</i> unique s'y trouve.\nAprès avoir activé ce personnage, vous pouvez infliger 1 dégât indirect ([indirect]) à un adversaire."
     },
     {
         "code": "11096",
         "name": "Han Solo",
-        "subtitle": "Vieil escroc",
+        "subtitle": "Vieil crapule",
         "text": "<b>Action Puissance</b> - Tournez l'un de vos dé de <i>vaurien</i> montrant une ressource ([ressource]) sur n'importe quelle face. Si c'est un dé de <i>Wookiee</i>, vous pouvez le résoudre gratuitement."
     },
     {
         "code": "11097",
         "name": "Wicket",
-        "subtitle": "Éclaireur rusé",
+        "subtitle": "Éclaireur ingénieux",
         "text": "Après avoir activé ce personnage, vous pouvez jouez un <i>piège</i> depuis votre main ou pile de défausse."
     },
     {
@@ -512,12 +512,12 @@
     {
         "code": "11099",
         "name": "Piège à filet",
-        "text": "Après que le personnage attaché a été activé, vous pouvez défausser cette régression pour retirez l'un de ses dés de personnage ou amélioration montrant des dégâts ([ranged], [melee], ou [indirect])."
+        "text": "Après que le personnage attaché a été activé, vous pouvez défausser cette régression pour retirer l'un de ses dés de personnage ou amélioration montrant des dégâts ([ranged], [melee], ou [indirect])."
     },
     {
         "code": "11100",
-        "name": "Bûches qui dévalent",
-        "text": "Après que le personnage attaché a été activé, vous pouvez défausser cette régression pour relancez n'importe quel nombre de ces dés de personnage et d'amélioration."
+        "name": "Troncs roulants",
+        "text": "Après que le personnage attaché a été activé, vous pouvez défausser cette régression pour relancer n'importe quel nombre de ces dés de personnage et d'amélioration."
     },
     {
         "code": "11101",
@@ -526,7 +526,7 @@
     },
     {
         "code": "11102",
-        "name": "Attaque de planeur",
+        "name": "Assaut aérien",
         "text": "Inclinez l'un de vos personnages <i>Ewok</i> pour infliger 3 dégâts indirects ([indirect]) à un adversaire. Cet adversaire peut dépenser jusqu'à 3 ressources pour bloquer ce même nombre de dégâts."
     },
     {
@@ -536,13 +536,13 @@
     },
     {
         "code": "11104",
-        "name": "Remonter",
-        "text": "Jouez un soutien <i>droïde</i> depuis votre pile de défausse. Puis jouez jusqu'à 3 améliorations ayant Modifie <i>droïde</i> depuis votre pile de défausse sur ce soutien <i>droïde</i>, en diminuant le coût de chacun par 1."
+        "name": "Remise en état",
+        "text": "Jouez un soutien <i>droïde</i> depuis votre pile de défausse. Puis jouez jusqu'à 3 améliorations ayant Modifier <i>droïde</i> depuis votre pile de défausse sur ce soutien <i>droïde</i>, en diminuant de 1 le coût de chacune."
     },
     {
         "code": "11105",
         "name": "Hutte du chef Chirpa",
-        "text": "[special] - Ajoutez un Ewok Warrior hors jeu ([SoH]95) à votre équipe. Défaussez ce soutien depuis le jeu sauf si vous dépensez 3 ressources."
+        "text": "[special] - Ajoutez un Guerrier Ewok ([SoH]95) hors jeu à votre équipe. Défaussez ce soutien depuis du jeu sauf si vous dépensez 3 ressources."
     },
     {
         "code": "11106",
@@ -562,17 +562,17 @@
     {
         "code": "11109",
         "name": "Dé d'Han Solo",
-        "text": "Après que l'un des dés du personnage attaché aie produit un résultat vierge ([blank]), vous pouvez incliner cette amélioration pour le relancez. Puis, si cette amélioration est sur Han Solo, vous pouvez redresser cette amélioration."
+        "text": "Après que l'un des dés de personnage du personnage attaché ait produit un résultat vierge ([blank]), vous pouvez incliner cette amélioration pour le relancer. Puis, si cette amélioration est sur Han Solo, vous pouvez redresser cette amélioration."
     },
     {
         "code": "11110",
         "name": "Soutien de la tribu",
-        "text": "Désignez un nombre de personnages qui partagent un même sous-type pour soigner ce même nombre de dégâts d'un personnage."
+        "text": "Désignez un nombre de personnages partageant un même sous-type pour soigner ce même nombre de dégâts d'un personnage."
     },
     {
         "code": "11111",
-        "name": "Compagnons fatidiques",
-        "text": "Après avoir activé un personnage, vous pouvez incliner cette intrigue et soit désignez R2-D2 et C-3PO ou dépenser 1 ressource pour déclencher la capacité \"Après avoir activé ce personnage\" de ce personnage une seconde fois."
+        "name": "Compagnons d'infortune",
+        "text": "Après avoir activé un personnage, vous pouvez incliner cette intrigue et soit désigner R2-D2 et C-3PO ou dépenser 1 ressource pour déclencher la capacité \"Après avoir activé ce personnage\" de ce personnage une fois de plus."
     },
     {
         "code": "11112",
@@ -581,48 +581,48 @@
     },
     {
         "code": "11113",
-        "name": "Distraction intelligente",
+        "name": "Diversion ingénieuse",
         "text": "Désignez un personnage Bleu pour choisir l'un:\n- Tournez l'un de vos dés sur n'importe quelle face.\n- Défaussez les 2 premières cartes d'un deck.\n- Retirez un dé de <i>trooper</i>."
     },
     {
         "code": "11114",
-        "name": "Reflets sombres",
-        "text": "Tournez un dé sur une face montrant un valeur de 1 ou plus. Puis tournez jusqu'à 2 autres dés sur des faces montrant les même symbole et valeur que ce dé."
+        "name": "Sombres reflets",
+        "text": "Tournez un dé sur une face montrant une valeur de 1 ou plus. Puis tournez jusqu'à 2 autres dés sur des faces montrant les mêmes symbole et valeur que ce dé."
     },
     {
         "code": "11115",
         "name": "Coup décisif",
-        "text": "Résolvez un de vos dés montrant des dégâts de mêlée ([melee]). Puis retirez tous les dés de personnage et d'amélioration du personnage auquel vous venez d'infliger des dégâts."
+        "text": "Résolvez un de vos dés montrant des dégâts de mêlée ([melee]) contre un personnage. Puis retirez tous les dés de personnage et d'amélioration de ce personnage."
     },
     {
         "code": "11116",
-        "name": "Rapprocher",
-        "text": "Résolvez l'un de vos dés de personnage ou d'amélioration montrant des dégâts de mêlée ([melee]) sans le retirer depuis votre réserve de dés, en augmentant sa valeur de 2 si ce personnage a une amélioration nommée Niman Mastery sur lui."
+        "name": "Approche",
+        "text": "Résolvez l'un de vos dés de personnage ou d'amélioration montrant des dégâts de mêlée ([melee]) sans le retirer de votre réserve, en augmentant sa valeur de 2 si ce personnage a une amélioration intitulée Maîtrise du Niman sur lui."
     },
     {
         "code": "11117",
         "name": "Polarité",
-        "text": "Embuscade.\nDésignez un personnage héro pour donner 1 bouclier à un personnage. Désignez un personnage antagoniste pour infliger 1 dégâts à un personnage."
+        "text": "Embuscade.\nDésignez un personnage héros pour donner 1 bouclier à un personnage. Désignez un personnage antagoniste pour infliger 1 dégât à un personnage."
     },
     {
         "code": "11118",
-        "name": "Pushing Slash",
-        "text": "Activez l'un de vos personnage Bleus. Puis vous pouvez résolvez one of ce personnage's personnage ou amélioration dés. If ce personnage un a card titred Niman Mastery sur lui, vous pouvez tournez un dé sur n'importe quelle face."
+        "name": "Coup propulsant",
+        "text": "Activez l'un de vos personnages Bleus. Puis vous pouvez résoudre l'un de ses dés de personnage ou d'amélioration. Si ce personnage a une carte intitulée Maîtrise du Niman qui lui est attaché, vous pouvez tourner un dé sur n'importe qu'elle face."
     },
     {
         "code": "11119",
         "name": "Trêve temporaire",
-        "text": "Vous pouvez inclure uniquement Kylo Ren et Rey dans votre équipe <em>(vous pouvez inclure des cartes Héro et Antagoniste dans votre deck)</em>.\nVous ne pouvez pas inclure de cartes Grises dans votre deck."
+        "text": "Votre équipe ne peut inclure que Kylo Ren et Rey <em>(vous pouvez inclure des cartes héros et antagoniste dans votre deck)</em>.\nVous ne pouvez pas inclure de cartes Grises dans votre deck."
     },
     {
         "code": "11120",
-        "name": "Connexion à la Force",
-        "text": "<b>Action</b> - Inclinez ce soutien et désignez 2 personnages Bleu pour tournez l'un de ces dés personnage sur une face montrant le même symbole que l'un des dés de personnage de l'autre personnage."
+        "name": "Connexion à travers la Force",
+        "text": "<b>Action</b> - Inclinez ce soutien et désignez 2 personnages Bleus pour tourner l'un de ces dés de personnage sur une face montrant le même symbole que l'un des dés de personnage de l'autre personnage."
     },
     {
         "code": "11121",
         "name": "Mystères de la Force",
-        "text": "<b>Action</b> - Défaussez ce soutien depuis le jeu et retirez 5 de vos dés montrant un symbole de chaque : dégâts de mêlée ([melee]), bouclier ([bouclier]), ressource ([ressource]), spécial ([special]), et vierge ([blank]). Puis jouez jusqu'à 3 améliorations depuis votre main et/ou pile de défausse gratuitement."
+        "text": "<b>Action</b> - Défaussez ce soutien du jeu et retirez 5 de vos dés montrant chacun l'un des symboles suivants : dégâts de mêlée ([melee]), bouclier ([bouclier]), ressource ([ressource]), spécial ([special]), et vierge ([blank]). Puis jouez jusqu'à 3 améliorations depuis votre main et/ou pile de défausse gratuitement."
     },
     {
         "code": "11122",
@@ -632,67 +632,67 @@
     {
         "code": "11123",
         "name": "Entraînement Niman",
-        "text": "Personnage Bleu uniquement.\n[special] - Tournez un dé d'amélioration sur n'importe quelle face. Vous pouvez défausser cette amélioration pour jouer gratuitement une carte nommée Maîtrise Niman depuis votre main ou pile de défausse sur le personnage attaché."
+        "text": "Personnage Bleu uniquement.\n[special] - Tournez un dé d'amélioration sur n'importe quelle face. Vous pouvez défausser cette amélioration pour jouer gratuitement une carte nommée Maîtrise du Niman depuis votre main ou pile de défausse sur le personnage attaché."
     },
     {
         "code": "11124",
         "name": "Puissance indomptable",
-        "text": "Personnage <i>Apprenti</i> uniquement.\n[special] - Si cette amélioration est sur un hero, donnez 1 bouclier à un personnage et retirez un dé montrant des dégâts. Si c'est sur un antagoniste, infligez 1 dégât à un personnage et retirez un dé ne montrant pas de dégâts."
+        "text": "Personnage <i>Apprenti</i> uniquement.\n[special] - Si cette amélioration est sur un personnage héros, donnez 1 bouclier à un personnage et retirez un dé montrant des dégâts. Si elle est sur un oersonnage antagoniste, infligez 1 dégât à un personnage et retirez un dé ne montrant pas de dégâts."
     },
     {
         "code": "11125",
         "name": "Éclairs en chaîne",
-        "text": "Infligez 1 dégât à un personnage. Puis vous pouvez dépenser 1 ressource pour infliger 2 dégâts à un autre personnage qui partage un même sous-type commun avec ce personnage."
+        "text": "Infligez 1 dégât à un personnage. Puis vous pouvez dépenser 1 ressource pour infliger 2 dégâts à un autre personnage qui partage un même sous-type avec ce personnage."
     },
     {
         "code": "11126",
-        "name": "Saisir le territoire",
-        "text": "Embuscade.\nDésignez un <i>trooper</i> pour prendre le contrôle du champ de bataille."
+        "name": "Feux nourris",
+        "text": "Résolvez jusqu'à 2 de vos dés montrant des dégâts à distance contre le même personnage, en augmentant leurs valeurs de 1."
     },
     {
         "code": "11127",
-        "name": "Rupture de coque",
-        "text": "Retirez l'un de vos dé montrant des dégâts ([ranged], [melee], ou [indirect]) pour soit défausser un soutien depuis le jeu ayant un coût égal ou inférieur à la valeur montrée par ce dé, soit infliger ce nombre de dégâts indirects ([indirect]) à un adversaire."
+        "name": "Brèche dans la coque",
+        "text": "Retirez l'un de vos dés montrant des dégâts ([ranged], [melee], ou [indirect]) pour soit défausser un soutien depuis le jeu ayant un coût égal ou inférieur à la valeur montrée par ce dé, soit infliger ce nombre de dégâts indirects ([indirect]) à un adversaire."
     },
     {
         "code": "11128",
-        "name": "Hors des capteurs",
-        "text": "Désignez un personnage Rouge pour choisir l'un:\n- Résolvez l'un de vos dés en augmentant sa valeur de 1.\n- Activez 2 de vos personnages ou soutiens.\n- Retirez un dé de <i>vaurien</i>."
+        "name": "Sous les radars",
+        "text": "Désignez un personnage Rouge pour choisir l'un:\n- Résolvez l'un de vos dés, en augmentant sa valeur de 1.\n- Activez 2 de vos personnages ou soutiens.\n- Retirez un dé de <i>vaurien</i>."
     },
     {
         "code": "11129",
-        "name": "Territoire de saisie",
-        "text": "Embuscade.\nDésignez un <i>trooper</i> pour prendre le contrôle du champs de bataille."
+        "name": "Gagner du terrain",
+        "text": "Embuscade.\nDésignez un <i>trooper</i> pour prendre le contrôle du champ de bataille."
     },
     {
         "code": "11130",
-        "name": "Les boucliers sont en panne",
+        "name": "Les boucliers sont abaissés",
         "text": "Choisissez un personnage sans bouclier et retirez un de ces dés de personnage."
     },
     {
         "code": "11131",
         "name": "Raccourci",
-        "text": "Désignez un <i>véhicule</i> pour échanger le champs de bataille avec un champs de bataille hors-jeu."
+        "text": "Désignez un <i>véhicule</i> pour échanger le champ de bataille avec un champ de bataille hors-jeu."
     },
     {
         "code": "11132",
-        "name": "Vous êtes maintenant aux commandes",
-        "text": "Embuscade.\nJouez un <i>titre</i> depuis votre main ou pile de défausse, en diminuant son coût par 1 et en ignorant ses restrictions."
+        "name": "Vous êtes aux commandes maintenant",
+        "text": "Embuscade.\nJouez un <i>titre</i> depuis votre main ou pile de défausse, en diminuant son coût de 1 et en ignorant ses restrictions."
     },
     {
         "code": "11133",
-        "name": "Représailles",
-        "text": "Après qu'un personnage un été vaincu, vous pouvez incliner ce soutien pour gagner 1 ressource."
+        "name": "Usure",
+        "text": "Après qu'un personnage a été vaincu, vous pouvez incliner ce soutien pour gagner 1 ressource."
     },
     {
         "code": "11134",
         "name": "AT-RT",
-        "text": "Les faces modificateur de ce dé peuvent être résolues avec l'un de vos dé de <i>trooper</i> montrant n'importe quel symbole.."
+        "text": "Les faces de modificateur de ce dé peuvent être résolues pour modifier l'un de vos dés de <i>trooper</i> montrant n'importe quel symbole."
     },
     {
         "code": "11135",
         "name": "Police de Coruscant",
-        "text": "Après avoir joué ce <i>soutien</i>, vous pouvez retirez un dé de <i>vaurien</i>."
+        "text": "Après avoir joué ce <i>soutien</i>, vous pouvez retirer un dé de <i>vaurien</i>."
     },
     {
         "code": "11136",
@@ -702,7 +702,7 @@
     {
         "code": "11137",
         "name": "Module de communication",
-        "text": "Modifie un personnage ou soutien <i>droïde</i> .\nAprès avoir activé le <i>droïde</i> attaché, si c'est un personnage, vous pouvez tournez un dé de soutien sur n'importe que face. Si c'est un soutien, vous pouvez tournez un dé de personnage sur n'importe quelle face."
+        "text": "Modifier un personnage ou soutien <i>droïde</i> .\nAprès avoir activé le <i>droïde</i> attaché, si c'est un personnage, vous pouvez tourner un dé de soutien sur n'importe que face. Si c'est un soutien, vous pouvez tourner un dé de personnage sur n'importe quelle face."
     },
     {
         "code": "11138",
