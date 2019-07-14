@@ -182,7 +182,7 @@
     },
     {
         "code": "11036",
-        "name": "Mastermind",
+        "name": "Maître stratège",
         "text": "[special] - Nommez une carte. Puis révélez la main d'un adversaire et placez chaque copie de la carte nommée hors jeu."
     },
     {
@@ -392,7 +392,7 @@
         "code": "11076",
         "name": "Bail Organa",
         "subtitle": "Sénateur Aldéranien",
-        "text": "Diminuez le coût du premier <i>titre</i> que vous jouer à chaque round par 1.\n[special] - Choisissez un sous-type. Relancez n'importe quel nombre de dés avec ce sous-type. Vous pouvez tourner l'un de ces dés sur n'importe quelle face."
+        "text": "Diminuez de 1 le coût du premier <i>titre</i> que vous jouer à chaque round.\n[special] - Choisissez un sous-type. Relancez n'importe quel nombre de dés avec ce sous-type. Vous pouvez tourner l'un de ces dés sur n'importe quelle face."
     },
     {
         "code": "11077",
@@ -407,38 +407,38 @@
     },
     {
         "code": "11079",
-        "name": "Journée des droïdes",
-        "text": "Activez n'importe quel nombre de vos <i>droïdes</i>. Puis, si vous havez juste activé 5 <i>droïdes</i> ou plus, piochez une carte."
+        "name": "Jour des droïdes",
+        "text": "Activez n'importe quel nombre de vos <i>droïdes</i>. Puis, si vous avez activé 5 <i>droïdes</i> ou plus, piochez une carte."
     },
     {
         "code": "11080",
         "name": "Joyeux bips",
-        "text": "Tournez l'un de vos dé de personnage non-<i>droïde</i> sur n'importe quelle face. Puis vous pouvez tourner l'un de vos dé de <i>droïde</i> sur une face montrant le même symbole et la même valeur que ce dé de personnage."
+        "text": "Tournez l'un de vos dés de personnage non-<i>droïde</i> sur n'importe quelle face. Puis vous pouvez tourner l'un de vos dé de <i>droïde</i> sur une face montrant le même symbole et la même valeur que ce dé de personnage."
     },
     {
         "code": "11081",
-        "name": "Assaut en vitesse lumière",
-        "text": "Vainquez l'un de vos personnages <i>leader</i> et défaussez un <i>véhicule</i> que vous contrôlez. Puis défaussez un <i>véhicule</i> d'un adversaire depuis le jeu et infligez lui des dégâts indirects ([indirect]) pour un montant égale aux coûts combinés des <i>véhicules</i>."
+        "name": "Impact vitesse lumière",
+        "text": "Vainquez l'un de vos personnages <i>leader</i> et défaussez un <i>véhicule</i> que vous contrôlez. Puis défaussez un <i>véhicule</i> d'un adversaire du jeu et infligez lui des dégâts indirects ([indirect]) pour un montant égal aux coûts combinés des <i>véhicules</i>."
     },
     {
         "code": "11082",
         "name": "Notre situation est désespérée",
-        "text": "Désignez n'importe quel nombre de personnages ayant 3 de santé restante ou moins pour retirez autant de dés."
+        "text": "Désignez n'importe quel nombre de personnages ayant 3 points de vie restants ou moins pour retirer autant de dés."
     },
     {
         "code": "11083",
         "name": "Assaut rebelle",
-        "text": "À ne jouer que si vous avez un ou plusieurs dés montrants des dégâts à distance ([ranged]).\nRetirer un dé d'un adversaire ne montrant pas de dégâts ([ranged] ou [melee])."
+        "text": "À ne jouer uniquement si vous avez un ou plusieurs dés montrant des dégâts à distance ([ranged]).\nRetirez un dé d'un adversaire ne montrant pas de dégâts ([ranged], [melee] ou [indirect])."
     },
     {
         "code": "11084",
-        "name": "Étincelle d'espoir",
-        "text": "Diminuez le coût de cet événement par 1 pour chacun de vos personnages vaincu.\nRelancez n'importe quel nombre de vos dés. Puis résolvez n'importe quel nombre de vos dés."
+        "name": "Lueur d'espoir",
+        "text": "Diminuez le coût de cet événement de 1 pour chacun de vos personnages vaincus.\nRelancez n'importe quel nombre de vos dés. Puis résolvez n'importe quel nombre de vos dés."
     },
     {
         "code": "11085",
         "name": "Prendre le contrôle",
-        "text": "Jouez un <i>véhicule</i> de la pile de défausse d'un adversaire gratuitement. Après le début de la phase d'entretien, défaussez ce <i>véhicule</i> depuis le jeu."
+        "text": "Jouez un <i>véhicule</i> de la pile de défausse d'un adversaire gratuitement. Après le début de la phase d'entretien, défaussez ce <i>véhicule</i> du jeu."
     },
     {
         "code": "11086",
@@ -448,12 +448,12 @@
     {
         "code": "11087",
         "name": "Résolution ferme",
-        "text": "Après que l'un de vos personnages a été vaincu ou qu'un <i>véhicule</i> que vous controlez a été défaussé, vous pouvez placer 1 ressource sur ce soutien.\n<b>Action</b> - Retirez 1 ressource depuis ce soutien pour tournez un dé sur n'importe quelle face."
+        "text": "Après que l'un de vos personnages a été vaincu ou qu'un <i>véhicule</i> que vous controlez a été défaussé, vous pouvez placer 1 ressource sur ce soutien.\n<b>Action</b> - Retirez 1 ressource sur ce soutien pour tourner un dé sur n'importe quelle face."
     },
     {
         "code": "11088",
         "name": "Droïde GH-7",
-        "text": "[special] - Soignez 1 dégât depuis un personnage et défaussez une régression sur lui."
+        "text": "[special] - Soignez 1 dégât d'un personnage et défaussez une régression sur lui."
     },
     {
         "code": "11089",
@@ -468,7 +468,7 @@
     {
         "code": "11091",
         "name": "Bras récupéré",
-        "text": "Modifie un personnage ou soutien <i>droïde</i>.\nAvan de résoudre l'un des dés de personnage, soutien, ou amélioration, vous pouvez incliner cette amélioration pour augmenter sa valeur de 1."
+        "text": "Modifier un personnage ou soutien <i>droïde</i>.\nAvant de résoudre un dé de personnage, de soutien ou d'amélioration du <i>droïde<i> attaché, vous pouvez incliner cette amélioration pour augmenter sa valeur de 1."
     },
     {
         "code": "11092",
