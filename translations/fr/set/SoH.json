@@ -707,17 +707,17 @@
     {
         "code": "11138",
         "name": "Mort ou vif",
-        "text": "Ne jouer que si vous désignez un <i>chasseur de primes</i>.\nAprès que le personnage attaché a été activé, vous pouvez gagner 1 ressource.\nAprès que le personnage attaché a été vaincu, vous pouvez gagner 1 ressource."
+        "text": "A ne jouer que si vous désignez un <i>chasseur de primes</i>.\nAprès que le personnage attaché a été activé, vous pouvez gagner 1 ressource.\nAprès que le personnage attaché a été vaincu, vous pouvez gagner 1 ressource."
     },
     {
         "code": "11139",
-        "name": "Mauvais crédit",
+        "name": "Mauvais devise",
         "text": "Retirez tous les dés d'un adversaire montrant une ressource ([ressource])."
     },
     {
         "code": "11140",
         "name": "Démonter",
-        "text": "Défaussez un soutien, une amélioration, ou une régression sans dé depuis le jeu."
+        "text": "Défaussez un soutien, une amélioration, ou une régression sans dé du jeu."
     },
     {
         "code": "11141",
@@ -726,13 +726,13 @@
     },
     {
         "code": "11142",
-        "name": "I Performed Violence",
-        "text": "Embuscade.\nRésolvez l'un de vos dés de personnage ou <i>droïde</i> montrant des dégâts de mêlée ([melee]) comme non blocable, en augmentant sa valeur par 1, ou par 2 à la place si c'est un dé de Mr. Bones."
+        "name": "J'ai magnifié la violence",
+        "text": "Embuscade.\nRésolvez un de vos dés de personnage ou de <i>droïde</i> montrant des dégâts de mêlée ([melee]) comme imblocables, en augmentant de 1 sa valeur, ou de 2 à la place si c'est un dé de Mr. Bones."
     },
     {
         "code": "11143",
         "name": "Parenté",
-        "text": "Désignez 3 personnages qui partagent un sous-type pour gagner 1 ressource, ou 2 ressources à la place si vous désignez 6 personnages qui partagent un sous-type."
+        "text": "Désignez 3 personnages partageant un même sous-type pour gagner 1 ressource, ou 2 ressources à la place si vous désignez 6 personnages partageant un même sous-type."
     },
     {
         "code": "11144",
@@ -741,43 +741,43 @@
     },
     {
         "code": "11145",
-        "name": "La pratique rend parfait",
+        "name": "La perfection vient avec la pratique",
         "text": "Choisissez un dé et relancez le jusqu'à 5 fois."
     },
     {
         "code": "11146",
         "name": "Revers",
-        "text": "Désignez un personnage Jaune pour retirer un dé montrant des dégâts ([melee] or [ranged]) et infliger ces dégâts à un personnage."
+        "text": "Désignez un personnage Jaune pour retirer un dé montrant des dégâts ([melee], [ranged] ou [indirect]) et infliger ces dégâts à un personnage."
     },
     {
         "code": "11147",
-        "name": "Faute simple",
-        "text": "Le joueur qui contrôle le champs de bataille choisit un dé dans sa réserve de dés. Puis retirez ce dé ou résolvez-le comme si il était dans votre réserve de dés."
+        "name": "Simple erreur",
+        "text": "Le joueur qui contrôle le champ de bataille choisit un dé dans sa réserve. Puis retirez ce dé ou résolvez-le comme s'il était dans votre réserve."
     },
     {
         "code": "11148",
         "name": "Unifier",
-        "text": "Choisissez un sous-type de l'un de vos personnages. Jusqu'à la fin de ce round, vos autres personnages gagne le sous-type choisi."
+        "text": "Choisissez un sous-type de l'un de vos personnages. Jusqu'à la fin de ce round, vos autres personnages gagnent le sous-type choisi."
     },
     {
         "code": "11149",
         "name": "Tous les moyens nécessaires",
-        "text": "<b>Action</b> - Inclinez cette intrigue et retirez l'un de vos <i>chasseur de primes</i> dé pour infliger 1 dégât non blocable à un personnage, ou 2 dégâts non blocables à la place si ce personnage a 3 <i>primes</i> ou plus sur lui."
+        "text": "<b>Action</b> - Inclinez cette intrigue et retirez l'un de vos dés de <i>chasseur de primes</i> pour infliger 1 dégât imblocable à un personnage, ou 2 dégâts imblocables à la place si ce personnage a 3 <i>primes</i> ou plus sur lui."
     },
     {
         "code": "11150",
-        "name": "Sécurité de Canto Bight",
+        "name": "Vigiles de Canto Bight",
         "text": "Après que ce soutien a été défaussé de votre main par un effet d'un adversaire, vous pouvez le jouer gratuitement."
     },
     {
         "code": "11151",
         "name": "Chasseur TIE de la guilde minière",
-        "text": "Après que un effet d'un adversaire vous aie fait perdre 1 ou plusieurs ressources, vous pouvez activer ce soutien pour lui infliger 1 dégâts indirects ([indirect])."
+        "text": "Après qu'un effet d'un adversaire vous ait fait perdre 1 ou plusieurs ressources, vous pouvez activer ce soutien pour lui infliger 1 dégât indirect ([indirect])."
     },
     {
         "code": "11152",
         "name": "Masque de chasseur de primes",
-        "text": "Le personnage attaché a +1 en santé et gagne <i>chasseur de primes</i>."
+        "text": "Le personnage attaché a +1 point de vie et gagne <i>chasseur de primes</i>."
     },
     {
         "code": "11153",
@@ -786,24 +786,24 @@
     },
     {
         "code": "11154",
-        "name": "Infliger la douleur",
+        "name": "Infliger de la douleur",
         "text": "Infligez 2 dégâts à l'un de vos personnages pour infliger 2 dégâts indirects ([indirect]) à un adversaire.\nAprès que cet événement a été défaussé depuis votre deck, vous pouvez l'ajouter à votre main."
     },
     {
         "code": "11155",
         "name": "Bras grappin",
-        "text": "Modifie un personnage ou soutien <i>droïde</i>.\n<b>Action</b> - Retirez ce dé pour défausser un <i>piège</i> depuis le jeu."
+        "text": "Modifier un personnage ou soutien <i>droïde</i>.\n<b>Action</b> - Retirez ce dé pour défausser un <i>piège</i> du jeu."
     },
     {
         "code": "11156",
-        "name": "Propulseur de fusée",
-        "text": "Modifie un personnage ou soutien <i>droïde</i>.\n<b>Action</b> - Activez le <i>droïde</i> attaché. Puis résolvez n'importe quel nombre de dés de ce personnage, soutien, et amélioration. Défaussez cette amélioration."
+        "name": "Propulseur fusée",
+        "text": "Modifier un personnage ou soutien <i>droïde</i>.\n<b>Action</b> - Activez le <i>droïde</i> attaché. Puis résolvez n'importe quel nombre de dés de ce personnage, soutien, et amélioration. Défaussez cette amélioration."
     },
     {
         "code": "11157",
         "name": "Casino de Canto",
         "subtitle": "Canto Bight",
-        "text": "<b>Action Puissance</b> - Dépensez 1 ressource pour relancer 2 dés. Ensuite, si ces dés montrent la même valeur, gagnez 2 ressouces, ou 3 ressouces à la place si ils montrent également le même symbole.."
+        "text": "<b>Action Puissance</b> - Dépensez 1 ressource pour relancer 2 dés. Puis, si ces dés montrent la même valeur, gagnez 2 ressources, ou 3 ressources à la place s'ils montrent également le même symbole."
     },
     {
         "code": "11158",
@@ -815,12 +815,12 @@
         "code": "11159",
         "name": "Repaire des soeurs de la nuit",
         "subtitle": "Dathomir",
-        "text": "Après avoir joué une regression pour la première fois à chaque round, vous pouvez gagner 2 ressoure."
+        "text": "Après avoir joué une regression pour la première fois à chaque round, vous pouvez gagner 1 ressource."
     },
     {
         "code": "11160",
         "name": "Salle du trône de Snoke",
         "subtitle": "Suprématie",
-        "text": "<b>Capture</b> - Désignez un personnage héro pour donner 1 bouclier à un personnage. Désignez un personnage antagoniste pour retirer 1 bouclier à un personnage d'un adversaire."
+        "text": "<b>Capture</b> - Désignez un personnage héros pour donner 1 bouclier à un personnage. Désignez un personnage antagoniste pour retirer 1 bouclier d'un personnage adverse."
     }
 ]
