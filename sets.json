@@ -108,5 +108,15 @@
         "name": "Spark of Hope",
         "position": 11,
         "size": 160
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "CM",
+        "cycle_code": "CONV",
+        "date_release": null,
+        "name": "Covert Missions",
+        "position": 12,
+        "size": 160
     }
 ]
