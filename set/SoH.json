@@ -1558,7 +1558,7 @@
         "position": 65,
         "rarity_code": "U",
         "set_code": "SoH",
-        "text": "Spot a <i>Jedi</i> to choose a dice pool. An opponent splts the dice in that pool into 2 groups of any size. Either remove all dice in a group, or turn any number of dice in a group to sides of your choice.",
+        "text": "Spot a <i>Jedi</i> to choose a dice pool. An opponent splits the dice in that pool into 2 groups of any size. Either remove all dice in a group, or turn any number of dice in a group to sides of your choice.",
         "ttscardid": "52864",
         "type_code": "event"
     },
@@ -1918,7 +1918,7 @@
         "position": 79,
         "rarity_code": "U",
         "set_code": "SoH",
-        "text": "Activate any number of your <i>droids</i>. Then, if you just activated 5 or more <i>droids</i>, draw a card.",
+        "text": "Activate any number of your <i>droids</i>. Then, if you just activated 3 or more <i>droids</i>, draw a card.",
         "ttscardid": "52908",
         "type_code": "event"
     },
