@@ -3103,7 +3103,7 @@
         "position": 132,
         "rarity_code": "U",
         "set_code": "SoH",
-        "text": "Ambush.\nPlay a <i>title</i> from your hand or discarad pile, decreasing its cost by 1 and ignoring its play restrictions.",
+        "text": "Ambush.\nPlay a <i>title</i> from your hand or discard pile, decreasing its cost by 1 and ignoring its play restrictions.",
         "ttscardid": "52961",
         "type_code": "event"
     },
