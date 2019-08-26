@@ -228,7 +228,7 @@
     {
         "code": "09040",
         "name": "Csábító jutalom",
-        "text": "Miután a csatolt karakter legyőzötté válik, kijátszhatsz ingyen egy <i>felszerelés-</i> vagy <i>fegyver</i>káryát a kezedből, vagy a dobott lapjaid közül."
+        "text": "Miután a csatolt karakter legyőzötté válik, kijátszhatsz ingyen egy <i>felszerelés-</i> vagy <i>fegyver</i>kártyát a kezedből, vagy a dobott lapjaid közül."
     },
     {
         "code": "09041",
@@ -389,8 +389,8 @@
     },
     {
         "code": "09069",
-        "name": "Lore Hunter",
-        "text": "After you activate attached character, you may look at the top 2 cards of a player's deck, discard one of those cards, then add the other card to that player's hand."
+        "name": "Mítoszvadász",
+        "text": "Miután aktiváltad a csatolt karaktert, megnézheted egy játékos paklijának felső 2 lapját. Dobd el az egyiket, a másikat pedig add annak a játékosnak a kezébe!"
     },
     {
         "code": "09070",
@@ -582,9 +582,9 @@
     },
     {
         "code": "09104",
-        "flavor": "\"Maz is a bit of an acquired taste, so let me do the talking.\" <cite>Han Solo</cite>",
-        "name": "Moxie",
-        "text": "[special] - Use a special ability ([special]) or a power action on attached character, even if it was used this round."
+        "flavor": "\"Maz nem valami könnyű eset, szóval a beszédet bízzátok rám.\" <cite>Han Solo</cite>",
+        "name": "Vagányság",
+        "text": "[special] - Használd a csatolt karakter különleges képességét ([special]) vagy erőteljes akcióját akkor is, ha már használtad ebben a körben!"
     },
     {
         "code": "09105",
@@ -638,7 +638,7 @@
     {
         "code": "09114",
         "name": "Fénykard jártasság",
-        "text": "Helyezz legfeljebb 2 különböző <i>mozdulat</i> eseményt ez alá a terv alé képpelk lefelé;em>(az alap pakliösszerakási szabályokat figyelmen kívül hagyva)</em>!\n<b>Akció</b> - Merítsd ki ezt a tervet, hogy kijátsz egy alatta lévő eseményt, majd tedd félre ezt az eseményt!"
+        "text": "Helyezz legfeljebb 2 különböző <i>mozdulat</i> eseményt ez alá a terv alé képpelk lefelé;em&gt;(az alap pakliösszerakási szabályokat figyelmen kívül hagyva)</em>!\n<b>Akció</b> - Merítsd ki ezt a tervet, hogy kijátsz egy alatta lévő eseményt, majd tedd félre ezt az eseményt!"
     },
     {
         "code": "09115",

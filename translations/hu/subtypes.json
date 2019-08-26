@@ -24,6 +24,14 @@
         "name": "Fejvadász"
     },
     {
+        "code": "curse",
+        "name": "Átok"
+    },
+    {
+        "code": "death-star",
+        "name": "Death Star"
+    },
+    {
         "code": "droid",
         "name": "Droid"
     },
@@ -61,7 +69,7 @@
     },
     {
         "code": "intel",
-        "name": "Infó"
+        "name": "Info"
     },
     {
         "code": "jawa",
@@ -78,6 +86,10 @@
     {
         "code": "location",
         "name": "Helyszín"
+    },
+    {
+        "code": "mission",
+        "name": "Misszió"
     },
     {
         "code": "mod",
@@ -120,8 +132,16 @@
         "name": "Lidérc"
     },
     {
+        "code": "spell",
+        "name": "Átok"
+    },
+    {
         "code": "title",
         "name": "Titulus"
+    },
+    {
+        "code": "trap",
+        "name": "Csapda"
     },
     {
         "code": "trooper",
@@ -141,6 +161,6 @@
     },
     {
         "code": "wookiee",
-        "name": "Wookiee"
+        "name": "Vuki"
     }
 ]
