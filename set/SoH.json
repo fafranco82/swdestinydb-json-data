@@ -1961,7 +1961,7 @@
     {
         "affiliation_code": "hero",
         "code": "11082",
-        "cost": 2,
+        "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
         "flavor": "\"Separatist forces have overrun our position!\" <cite>Senator Bail Organa</cite>",
