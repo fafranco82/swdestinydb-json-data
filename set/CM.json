@@ -1,6 +1,37 @@
 [
     {
         "affiliation_code": "villain",
+        "code": "12001",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"I was the last survivor\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 14,
+        "illustrator": "Martin de Diego Sádaba",
+        "is_unique": true,
+        "name": "Darth Bane",
+        "points": "17/22",
+        "position": 1,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2RD",
+            "3MD",
+            "2Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Ancient Master",
+        "subtypes": [
+            "sith"
+        ],
+        "text": "Decrease the cost of the first <i>ability</i> you play on this character each game by 2.\n[special] - Choose an upgrade on this character and deal indirect damage to an opponent equal to that upgrade's cost.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12021",
         "deck_limit": 1,
         "faction_code": "red",
@@ -220,6 +251,63 @@
         "set_code": "CM",
         "text": "After setup, give this plot 20 shields.\nYou can resolve your <i>pilot</i> and <i>vehicle</i> dice showing ranged damage against this plot.\n<b>Action</b> - If this plot has no shields, spend 1 resource to reroll 1 of your <i>pilot</i> dice and 1 of your <i>vehicle</i> dice. Then, if both of those dice are showing damage, you win the game.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12083",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Vlad Ricean",
+        "is_unique": true,
+        "name": "Ghost",
+        "position": 83,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2RD",
+            "2RD",
+            "+3RD",
+            "2Dr",
+            "1Sh",
+            "1R"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "Ambush.\nAfter this support enters play, you may activate a <i>Spectre</i> you control.\nAfter you resolve this die, you may give each character piloting this support 1 shield.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12085",
+        "cost": 6,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "The rebel base on Yavin 4 was cleverly hidden beneath an old Massassi temple.",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Matt Bradbury",
+        "is_unique": false,
+        "name": "Rebel Hangar",
+        "position": 85,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2ID",
+            "1F",
+            "1Sh",
+            "1R",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "location"
+        ],
+        "text": "After you play this support, search your deck for up to 2 <i>vehicles</i> with a combined cost of 4 or less and play them for free. Shuffle your deck.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
