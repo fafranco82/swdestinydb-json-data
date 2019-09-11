@@ -169,7 +169,7 @@
             "apprentice",
             "pilot"
         ],
-        "text": "Piloting.\nThe point value of your <i>Death Star</i> plot is decreased by 1.\nBefore you resolvea support die of a <i>vehicle</i> piloted by this character, you may increase its value by 1.",
+        "text": "Piloting.\nThe point value of your <i>Death Star</i> plot is decreased by 1.\nBefore you resolve a support die of a <i>vehicle</i> piloted by this character, you may increase its value by 1.",
         "type_code": "character"
     },
     {
@@ -216,6 +216,36 @@
         ],
         "text": "<b>Power Action</b> - Reroll this die or, if Luke Skywalker is piloting this support, turn this die to any side.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12073",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Poe Dameron",
+        "points": "14/17",
+        "position": 73,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2RD",
+            "2RD",
+            "2ID",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Reckless Aviator",
+        "subtypes": [
+            "pilot"
+        ],
+        "text": "Piloting.\n<b>Power Action</b> - Spot a <i>vehicle</i> that has no damage to place 1 damage on it. Then resolve its support die showing damage, increasing its value by 1, or by 2 instead if this character is piloting it.",
+        "type_code": "character"
     },
     {
         "affiliation_code": "hero",
@@ -323,7 +353,7 @@
         "position": 126,
         "rarity_code": "U",
         "set_code": "CM",
-        "text": "<b>Action</b> - Exhaust this upgrade to place 1 resource on or remove 2 shields from your <i>Death Star</i> plot.\nAfter an opponent's effect deals damage to attached character, the may move this card to one of their characters.",
+        "text": "<b>Action</b> - Exhaust this upgrade to place 1 resource on or remove 2 shields from your <i>Death Star</i> plot.\nAfter an opponent's effect deals damage to attached character, they may move this card to one of their characters.",
         "type_code": "upgrade"
     }
 ]
