@@ -553,7 +553,7 @@
         "faction_code": "red",
         "flavor": "\"The Techno Union Army is at your disposal.\"",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 9,
         "illustrator": "Adam Lane",
         "is_unique": true,
@@ -574,7 +574,7 @@
         "subtypes": [
             "leader"
         ],
-        "text": "<b>Power Action</b> - Play a support from your hand <em>(paying its cost)</em>. Then roll that support's die into your pool.",
+        "text": "<b>Power Action</b> - Play a <i>Red</i> support from your hand <em>(paying its cost)</em>. Then roll that support's die into your pool.",
         "ttscardid": "49921",
         "type_code": "character"
     },
