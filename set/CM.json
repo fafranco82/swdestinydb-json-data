@@ -32,6 +32,67 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "12002",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Darth Vader",
+        "points": "12/15",
+        "position": 2,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "2Dc",
+            "1Sh",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Victor Leader",
+        "subtypes": [
+            "leader",
+            "pilot",
+            "sith"
+        ],
+        "text": "Piloting.\n[special] - Deal 2 damage to a character. Thin, if that character was just defeated, discard the <i>vehicle<\i> it was piloting.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12004",
+        "deck_limit": 4,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Snoke's Praetorian Guard",
+        "points": "8/11",
+        "position": 4,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "2MD",
+            "2MD1",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "guard"
+        ],
+        "text": "After you activate this character, you may remove one of its character dice showing damage to remove a die showing damage with a value of 2 or less.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12021",
         "deck_limit": 1,
         "faction_code": "red",
@@ -59,6 +120,35 @@
             "leader"
         ],
         "text": "The point value of your <i>Death Star</i> plot is decreased by 1.\nAfter you activate this character, you may turn one of your dice to a side showing a value of 1.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12023",
+        "deck_limit": 4,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Imperial Death Trooper",
+        "points": "8/11",
+        "position": 23,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "2RD1",
+            "+2RD",
+            "1R",
+            "+1R",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "While you control Director Krennic, this character has <i>Guardian</i>.\n<b>Power Action</b> - Turn this die to a side showing the same symbol and value as another one of your dice.",
         "type_code": "character"
     },
     {
@@ -219,6 +309,36 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "12071",
+        "deck_limit": 4,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Kashyyk Warrior",
+        "points": "8/11",
+        "position": 71,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "1MD",
+            "2MD1",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "wookiee",
+            "trooper"
+        ],
+        "text": "Before you resolve one of this character's character dice showing damage, increase its value by 1 if this character has 6 or more damage.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "12073",
         "deck_limit": 1,
         "faction_code": "red",
@@ -338,6 +458,37 @@
         ],
         "text": "After you play this support, search your deck for up to 2 <i>vehicles</i> with a combined cost of 4 or less and play them for free. Shuffle your deck.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12089",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "Andreia Ugrai",
+        "is_unique": true,
+        "name": "Sabine Wren",
+        "points": "10/13",
+        "position": 89,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Artistic and Resourceful",
+        "subtypes": [
+            "pilot",
+            "spectre"
+        ],
+        "text": "Piloting.\n[special] - Deal 2 indirect damage to an opponent, or 3 indirect damage instead if you have a Blue die, a Red die, and another Yellow die in your pool.",
+        "type_code": "character"
     },
     {
         "affiliation_code": "neutral",
