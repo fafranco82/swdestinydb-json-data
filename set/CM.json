@@ -59,7 +59,7 @@
             "pilot",
             "sith"
         ],
-        "text": "Piloting.\n[special] - Deal 2 damage to a character. Thin, if that character was just defeated, discard the <i>vehicle<\i> it was piloting.",
+        "text": "Piloting.\n[special] - Deal 2 damage to a character. Then, if that character was just defeated, discard the <i>vehicle</i> it was piloting.",
         "type_code": "character"
     },
     {
