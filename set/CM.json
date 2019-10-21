@@ -93,6 +93,34 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "12016",
+        "cost": 5,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Death Field",
+        "position": 16,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2ID",
+            "3ID",
+            "3ID",
+            "4ID1",
+            "2Dc",
+            "Sp"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Blue character only.\n<b>Action</b> - Exhaust this upgrade to roll this die into your pool.\n[special] - Deal 2 damage to each of an opponent's characters.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12021",
         "deck_limit": 1,
         "faction_code": "red",
@@ -228,8 +256,40 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "Your Bobba Fett and Jango Fett each have Piloting.\nAfter this support becomes piloted by a <i>bounty-hunter</i>, you may deal 1 damage to a character.",
+        "text": "Your Boba Fett and Jango Fett each have Piloting.\nAfter this support becomes piloted by a <i>bounty-hunter</i>, you may deal 1 damage to a character.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12053",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"There's no time for caution.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 13,
+        "illustrator": "Ryan Valle",
+        "is_unique": true,
+        "name": "Anakin Skywalker",
+        "points": "15/19",
+        "position": 53,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "2MD",
+            "4MD1",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Dedicated Mentor",
+        "subtypes": [
+            "jedi",
+            "leader"
+        ],
+        "text": "After you activate this character, you may discard a card from your hand to move 1 shield from a character to another character. The draw a card if you moved that shield to an <i>apprentice</i>.",
+        "type_code": "character"
     },
     {
         "affiliation_code": "hero",
@@ -315,7 +375,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 10,
-        "illustrator": " ",
+        "illustrator": "Alex Kim",
         "is_unique": false,
         "name": "Kashyyk Warrior",
         "points": "8/11",
@@ -365,6 +425,37 @@
             "pilot"
         ],
         "text": "Piloting.\n<b>Power Action</b> - Spot a <i>vehicle</i> that has no damage to place 1 damage on it. Then resolve its support die showing damage, increasing its value by 1, or by 2 instead if this character is piloting it.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12074",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Tarfful",
+        "points": "11/14",
+        "position": 74,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "1MD",
+            "2MD",
+            "2F",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Chieftain of Kachirho",
+        "subtypes": [
+            "wookiee",
+            "leader"
+        ],
+        "text": "Each other <i>Wookiee</i> character you control has +1 health.\nBefore you resolve one of this character's character dice showing damage, increase its value by 1 if this character has 6 or more damage.",
         "type_code": "character"
     },
     {
@@ -461,6 +552,24 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "12087",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flavor": "A wound that would kill a human will only make a Wookiee angry.",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": true,
+        "name": "Fortitude",
+        "position": 87,
+        "rarity_code": "C",
+        "set_code": "CM",
+        "text": "Attached character has +3 health, or +4 health instead if it is a <i>Wookiee</i>.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "12089",
         "deck_limit": 1,
         "faction_code": "yellow",
@@ -506,5 +615,51 @@
         "set_code": "CM",
         "text": "<b>Action</b> - Exhaust this upgrade to place 1 resource on or remove 2 shields from your <i>Death Star</i> plot.\nAfter an opponent's effect deals damage to attached character, they may move this card to one of their characters.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12114",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Paolo Puggioni",
+        "is_unique": false,
+        "name": "Shien Mastery",
+        "position": 114,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "3MD",
+            "2Sh",
+            "2Sh",
+            "2R",
+            "Sp",
+            "Sp"
+        ],
+        "subtypes": [
+            "ability",
+            "form"
+        ],
+        "text": "Blue character only. Limit 1 <i>form</i> per character.\nAfter you play this upgrade, you may roll this die into your pool.\n[special] - Deal 2 damage to a character. You may remove a die showing damage.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12126",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "David Hovay",
+        "is_unique": false,
+        "name": "Valorous Tribe",
+        "points": "3",
+        "position": 126,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "<b>Action</b> - Exhaust this plot to move up to 2 damage from a character to a character you control. Then you may spot a <i>Wookiee</i> to heal 1 damage from a character.",
+        "type_code": "plot"
     }
 ]
