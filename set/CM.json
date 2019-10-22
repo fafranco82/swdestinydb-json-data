@@ -93,6 +93,34 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "12005",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Cassandre Bolan",
+        "is_unique": false,
+        "name": "Recurring Nightmare",
+        "position": 5,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "1MD",
+            "2MD",
+            "3MD1",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "curse"
+        ],
+        "text": "This die can only be resolved against attached character.",
+        "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12016",
         "cost": 5,
         "deck_limit": 2,
@@ -597,6 +625,37 @@
             "spectre"
         ],
         "text": "Piloting.\n[special] - Deal 2 indirect damage to an opponent, or 3 indirect damage instead if you have a Blue die, a Red die, and another Yellow die in your pool.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12090",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"I am excellent at causing pain.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "Darren Tan",
+        "is_unique": true,
+        "name": "Sinjir Rath Velus",
+        "points": "14/17",
+        "position": 90,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2MD",
+            "2ID",
+            "1Dc",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Ex-Loyalty Officer",
+        "subtypes": [
+            "scoundrel"
+        ],
+        "text": "After you resolve one of this character's character dice, you may place a card from your hand on the bottom of your deck to remove a die showing the same symbol as that die.",
         "type_code": "character"
     },
     {
