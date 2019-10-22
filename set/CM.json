@@ -103,7 +103,7 @@
         "is_unique": false,
         "name": "Recurring Nightmare",
         "position": 5,
-        "rarity_code": "U",
+        "rarity_code": "R",
         "set_code": "CM",
         "sides": [
             "1MD",
@@ -316,7 +316,7 @@
             "jedi",
             "leader"
         ],
-        "text": "After you activate this character, you may discard a card from your hand to move 1 shield from a character to another character. The draw a card if you moved that shield to an <i>apprentice</i>.",
+        "text": "After you activate this character, you may discard a card from your hand to move 1 shield from a character to another character. Then draw a card if you moved that shield to an <i>apprentice</i>.",
         "type_code": "character"
     },
     {
