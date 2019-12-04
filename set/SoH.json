@@ -1891,7 +1891,7 @@
         "has_errata": false,
         "health": 5,
         "illustrator": "Tony Foti",
-        "is_unique": true,
+        "is_unique": false,
         "name": "Hoth Trooper",
         "points": "5",
         "position": 78,
