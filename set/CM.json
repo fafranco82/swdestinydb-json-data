@@ -261,6 +261,28 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "12040",
+        "deck_limit": 5,
+        "faction_code": "yellow",
+        "flavor": "Their job conditions are so toxic that sentinels must wear sealed, radiation-proof suits",
+        "has_die": false,
+        "has_errata": false,
+        "health": 7,
+        "illustrator": "Paulo Puggioni",
+        "is_unique": false,
+        "name": "Pyke Sentinel",
+        "points": "6",
+        "position": 40,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "subtypes": [
+            "guard",
+            "scoundrel"
+        ],
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12050",
         "cost": 3,
         "deck_limit": 2,
@@ -720,5 +742,22 @@
         "set_code": "CM",
         "text": "<b>Action</b> - Exhaust this upgrade to place 1 resource on or remove 2 shields from your <i>Death Star</i> plot.\nAfter an opponent's effect deals damage to attached character, they may move this card to one of their characters.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12139",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Anthony Devine",
+        "is_unique": false,
+        "name": "Coaxium Heist",
+        "points": "0",
+        "position": 139,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "Include only if you bring a set-aside Pyke Sentinel ([CM]40) to the game. After set-up, add that character to an opponent's team.\n<b>Action</b> - If no opponent controls a Pyke Sentinel, set this plot aside and remove 4 of your dice each showing different symbols to gain 10 resources.",
+        "type_code": "plot"
     }
 ]
