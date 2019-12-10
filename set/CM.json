@@ -728,6 +728,64 @@
         "type_code": "character"
     },
     {
+        "affiliation_code": "hero",
+        "code": "12091",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "David Auden Nash",
+        "is_unique": true,
+        "name": "Torra Doza",
+        "points": "12/15",
+        "position": 91,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "2RD",
+            "2ID",
+            "1Dr",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Energetic Thrill-Seeker",
+        "subtypes": [
+            "pilot"
+        ],
+        "text": "Piloting.\nAfter this character begins piloting a <i>vehicle</i>, you may resolve one of that <i>vehicle's</i> support or upgrade dice.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12098",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Mariusz Gandzel",
+        "is_unique": true,
+        "name": "Blue Ace",
+        "position": 98,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1RD",
+            "2ID",
+            "2Dr",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "Before you resolve this die, remove any number of resources from this support to increase its value by that number.\nAfter you resolve this die, you may place 1 resource on this support.",
+        "type_code": "support"
+    },
+    {
         "affiliation_code": "neutral",
         "code": "12105",
         "deck_limit": 1,
