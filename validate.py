@@ -6,6 +6,8 @@ import jsonschema
 import os
 import sys
 
+SET_PATH_STRING = os.path.sep + 'set' + os.path.sep
+
 def pluralize(word):
     if word[-1] == 'y':
         return word[:-1]+'ies'
@@ -237,7 +239,7 @@ class ValidatorBase:
             return None
 
         self.logger.verbose_print("%s: Checking JSON formatting...\n" % path, 4)
-        formatted_raw_data = self.format_json(json_data)
+        formatted_raw_data = self.format_json(json_data, SET_PATH_STRING in path)
 
         if formatted_raw_data != raw_data:
             self.logger.verbose_print("%s: File is not correctly formatted JSON.\n" % path, 0)
@@ -253,7 +255,9 @@ class ValidatorBase:
                     print(e)
         return json_data
 
-    def format_json(self, json_data):
+    def format_json(self, json_data, sorting=False):
+        if sorting:
+            json_data = sorted(json_data, key=lambda k: k['code'])
         formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
         formatted_data += "\n"
         return formatted_data
