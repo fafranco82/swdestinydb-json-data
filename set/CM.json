@@ -585,6 +585,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "12065",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Jedi Trials",
+        "points": "2",
+        "position": 65,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "<b>Action</b> - Spot an <i>apprentice</i> character that has 3 Blue <i>abilities</i>, 3 shields, and its character dice are showing a combined value of 3 or more. Then heal 3 damage from it, ready it, it gains <i>Jedi</i> and it gains 1 die <em>(add a set-aside copy of its character die on it)</em>. Set this plot aside.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "12066",
         "cost": 2,
         "deck_limit": 2,
