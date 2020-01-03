@@ -64,6 +64,37 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "12003",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Aleksandr Eiichev",
+        "is_unique": true,
+        "name": "Pong Krell",
+        "points": "12/15",
+        "position": 3,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1F",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Deadly Imposter",
+        "subtypes": [
+            "jedi",
+            "leader"
+        ],
+        "text": "You can include up to 4 different Blue hero cards in your deck.\nAfter you activate this character, you may place a hero card in any player's discard pile on the bottom of their deck. Then deal 1 damage to a character.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12004",
         "deck_limit": 4,
         "faction_code": "blue",
@@ -121,6 +152,41 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "12009",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"You dare to attack a Jedi?\" <cite>Pong Krell</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Aleksandr Eiichev",
+        "is_unique": false,
+        "name": "Quad Slam",
+        "position": 9,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "Choose up to 4 characters and remove one character die belonging to each of them.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12012",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Rule of Two",
+        "points": "0",
+        "position": 12,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "If you do not control exactly 2 characters, one that is a <i>Sith</i> and the other an <i>apprentice</i>, set this plot aside an deal 1 indirect damage to yourself.\n<b>Action</b> - If you have exactly one character die in your pool, exhaust this plot to resolve it, increasing its value by 1.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "12016",
         "cost": 5,
         "deck_limit": 2,
@@ -145,6 +211,34 @@
             "ability"
         ],
         "text": "Blue character only.\n<b>Action</b> - Exhaust this upgrade to roll this die into your pool.\n[special] - Deal 2 damage to each of an opponent's characters.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "12017",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Aleksandr Eiichev",
+        "is_unique": true,
+        "name": "Pong Krell's Lightsaber",
+        "position": 17,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "2MD",
+            "+2MD",
+            "1Sh",
+            "1R",
+            "Sp1",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "<b>Power Action</b> - Spot Pong Krell or spend 1 resource to roll a set-aside copy of this die ([CM]17) into your pool. Set that die aside after it is resolved or removed.\n[special] - Deal 2 damage to up to 2 characters.",
         "type_code": "upgrade"
     },
     {
@@ -537,6 +631,37 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "12055",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "Borja Pindado",
+        "is_unique": true,
+        "name": "Kanan Jarrus",
+        "points": "9/12",
+        "position": 55,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1Dc",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Jedi Exile",
+        "subtypes": [
+            "jedi",
+            "spectre"
+        ],
+        "text": "This character's point value is decreased by 1 if your team has another <i>Spectre</i>.\nAfter you activate this character, you may choose a symbol and a die. Then an opponent turns that die to a side not showing the chosen symbol.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "12056",
         "deck_limit": 1,
         "faction_code": "blue",
@@ -602,6 +727,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "12065",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Andreas Zafiratos",
+        "is_unique": false,
+        "name": "Jedi Trials",
+        "points": "2",
+        "position": 65,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "<b>Action</b> - Spot a <i>apprentice</i> character that has 3 Blue <i>abilities</i>, 3 shields, and its character dice are showing a combined value of 3 or more. Then heal 3 damage from it, ready it, it gains <i>Jedi</i>, and it gains 1 die <em>(add a set-aside copy of its character die on it)</em>. Set this plot aside.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "12066",
         "cost": 2,
         "deck_limit": 2,
@@ -627,6 +769,62 @@
         ],
         "text": "<b>Power Action</b> - Reroll this die or, if Luke Skywalker is piloting this support, turn this die to any side.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12067",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Tiziano Baracchi",
+        "is_unique": true,
+        "name": "Anakin Skywalker's Lightsaber",
+        "position": 67,
+        "rarity_code": "L",
+        "set_code": "CM",
+        "sides": [
+            "2MD",
+            "2MD",
+            "+2MD",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Redeploy.\nDiscard this upgrade from play if you control Rey's Lightsaber.\nAfter you play this upgrade, give a character you don't control 1 shield. Then give a character 2 shields.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "12068",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "JB Casacop",
+        "is_unique": true,
+        "name": "Kana Jarrus' Lightsaber",
+        "position": 68,
+        "rarity_code": "R",
+        "set_code": "CM",
+        "sides": [
+            "2MD",
+            "3MD1",
+            "+3MD",
+            "1Sh",
+            "+2Sh",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After an opponent's die is turned, you may turn this die to any side. Then, if this upgrade is on Kanan Jarrus, you may exhaust it to turn one of his character dice to any side.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
@@ -1063,6 +1261,41 @@
         "set_code": "CM",
         "text": "<b>Action</b> - Exhaust this plot to move up to 2 damage from a character to a character you control. Then you may spot a <i>Wookiee</i> to heal 1 damage from a character.",
         "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12107",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flavor": "\"Padawan, terror is not a weapon the Jedi use.\" <cite>Luminara Undili</cite>",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": " ",
+        "is_unique": false,
+        "name": "Bestow Wisdom",
+        "position": 107,
+        "rarity_code": "U",
+        "set_code": "CM",
+        "text": "Spot a <i>Jedi</i> or <i>Sith</i> to move up to 2 Blue <i>abilities</i> from that character to an <i>apprentice</i> character.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12110",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Javier Charro Martinez",
+        "is_unique": false,
+        "name": "Infuse The Force",
+        "position": 110,
+        "rarity_code": "C",
+        "set_code": "CM",
+        "text": "Spot a <i>Sith</i> to deal 1 damage to a character.\nSpot a <i>Jedi</i> to give a character 1 shield.\nSpot an <i>apprentice</i> to draw a card.",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
