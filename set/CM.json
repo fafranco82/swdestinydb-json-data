@@ -288,7 +288,7 @@
         "rarity_code": "C",
         "set_code": "CM",
         "text": "<b>Action</b> - Exhaust this support and deal 1 damage to a character you control to turn one of its character or upgrade dice to any side.",
-        "type_code": "plot"
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
