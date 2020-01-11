@@ -3099,19 +3099,20 @@
     {
         "affiliation_code": "neutral",
         "code": "12138",
-        "cost": 1,
+        "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
+        "flavor": "You would be surprised how many problems a well-timed rocket can solve.",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "Natalie Bernard",
+        "illustrator": "Jacob Atienza",
         "is_unique": false,
-        "name": "Improvised Explosive",
+        "name": "Think On Your Feet",
         "position": 138,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "This support enters play with 2 resources on it.\nAfter the action phase begins, remove 1 resource from this support. Then if no resources are on it, discard it to deal 3 indirect damage ([ID]) to a player.",
-        "type_code": "support"
+        "text": "Remove 1 resource from a non-plot card you control to remove a die showing damage ([RD], [MD], or [ID]).",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
@@ -3178,6 +3179,23 @@
         "rarity_code": "U",
         "set_code": "CM",
         "text": "After the upkeep phase begins, deal 2 indirect damage ([ID]) to yourself.\n<b>Action</b> - Discard an event from your hand to give control of this support to an opponent.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "12142",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "Natalie Bernard",
+        "is_unique": false,
+        "name": "Improvised Explosive",
+        "position": 142,
+        "rarity_code": "C",
+        "set_code": "CM",
+        "text": "This support enters play with 2 resources on it.\nAfter the action phase begins, remove 1 resource from this support. Then if no resources are on it, discard it to deal 3 indirect damage ([ID]) to a player.",
         "type_code": "support"
     },
     {
