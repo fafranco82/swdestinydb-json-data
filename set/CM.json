@@ -156,7 +156,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
-		"flavor": "\"The temple's starting to collapse.\" <cite>Ezra Bridger</cite>"
+        "flavor": "\"The temple's starting to collapse.\" <cite>Ezra Bridger</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Andreas Zafiratos",
@@ -174,7 +174,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "blue",
-		"flavor": "\"Why do you come to my tomb?\" <cite>Darth Bane</cite>"
+        "flavor": "\"Why do you come to my tomb?\" <cite>Darth Bane</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Alexander Chelyshev",
@@ -192,7 +192,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
-		"flavor": "Elite Praetorian Guards worked in pairs to neutralize and overwhelm their foes."
+        "flavor": "Elite Praetorian Guards worked in pairs to neutralize and overwhelm their foes.",
         "has_die": false,
         "has_errata": false,
         "illustrator": "JB Casacop",
@@ -276,9 +276,10 @@
     {
         "affiliation_code": "villain",
         "code": "12013",
+        "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
-        "flavor": "\"I need but a drop for the ritual to begin.\" <cite>Darth Sidious</cite>"
+        "flavor": "\"I need but a drop for the ritual to begin.\" <cite>Darth Sidious</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "David Hovey",
@@ -288,7 +289,7 @@
         "rarity_code": "C",
         "set_code": "CM",
         "text": "<b>Action</b> - Exhaust this support and deal 1 damage to a character you control to turn one of its character or upgrade dice to any side.",
-        "type_code": "plot"
+        "type_code": "support"
     },
     {
         "affiliation_code": "villain",
@@ -313,7 +314,7 @@
             "-"
         ],
         "subtypes": [
-            "Vehicle"
+            "vehicle"
         ],
         "text": "[special] - Deal 2 damage to a character. You may place 1 damage on a <i>vehicle</>. Then, if Darth Vader is piloting this support, you may discard a <i>vehicle</i> that has 2 or more damage.",
         "type_code": "support"
@@ -333,7 +334,7 @@
         "rarity_code": "U",
         "set_code": "CM",
         "subtypes": [
-            "Equipment"
+            "equipment"
         ],
         "text": "Redeploy.\nBefore attached character takes damage, you may exhaust this upgrade to block 1 damage.\nAfter you play an <i>ability</i> on attached character, you may ready this upgrade.",
         "type_code": "upgrade"
@@ -417,7 +418,7 @@
             "Sp"
         ],
         "subtypes": [
-            "Title"
+            "title"
         ],
         "text": "<i>Sith</i> character only.\n[special] - Reroll this die instead of removing it. You may exhaust this upgrade to use a special ability ([special]) on attached character or on a blue <i>ability</i> on attached character.",
         "type_code": "upgrade"
@@ -619,7 +620,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "\"Do it.\" <cite>Orson Krennic</cite>"
+        "flavor": "\"Do it.\" <cite>Orson Krennic</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Mark Molnar",
@@ -855,7 +856,7 @@
         "subtypes": [
             "title"
         ],
-        "text": "<i>Leader<\i> character only.\nAfter you resolve or remove one of your Red dice showing a resource ([resource]), you may exhaust this upgrade to roll that die into your pool.",
+        "text": "<i>Leader</i> character only.\nAfter you resolve or remove one of your Red dice showing a resource ([R]), you may exhaust this upgrade to roll that die into your pool.",
         "type_code": "upgrade"
     },
     {
@@ -2906,7 +2907,7 @@
         "sides": [
             "1ID",
             "2ID",
-            "2Id",
+            "2ID",
             "1Dc",
             "1Sh",
             "-"
@@ -3216,7 +3217,7 @@
         "sides": [
             "1RD",
             "+2RD",
-            "2Id",
+            "2ID",
             "1Dc",
             "1Dc",
             "-"
@@ -3511,8 +3512,8 @@
         "rarity_code": "U",
         "set_code": "CM",
         "subtitle": "Savereen",
-        "text": "<b>Power Action</b> - Discard a support or upgrade you control to play a support or upgrade from your hand, decreasing its cost by 1. Then draw a card."
-		"type_code": "battlefield"
+        "text": "<b>Power Action</b> - Discard a support or upgrade you control to play a support or upgrade from your hand, decreasing its cost by 1. Then draw a card.",
+        "type_code": "battlefield"
     },
     {
         "affiliation_code": "neutral",
@@ -3564,5 +3565,5 @@
         "subtitle": "Moraband",
         "text": "<b>Claim</b> - Remove a non-character die.",
         "type_code": "battlefield"
-    },
+    }
 ]

@@ -212,6 +212,14 @@ class ValidatorBase:
     def custom_check_support_card(self, card):
         return self.custom_check_event_card(card)
 
+    def custom_check_plot_card(self, card):
+        validations = []
+        for attr in ['points']:
+            if not card.has_key(attr):
+                validations.append("Plot card %s must have attribute '%s'" % (card.get('code'), attr))
+
+        return validations
+
     def custom_check_format(self, format):
         validations = []
 

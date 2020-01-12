@@ -108,6 +108,10 @@
         "name": "Pilot"
     },
     {
+        "code": "pirate",
+        "name": "Pirate"
+    },
+    {
         "code": "podracer",
         "name": "Podracer"
     },
