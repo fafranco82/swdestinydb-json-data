@@ -201,7 +201,7 @@
         "position": 8,
         "rarity_code": "U",
         "set_code": "CM",
-        "text": "Activate 2 of your Blue characters. Then turn each of a character's character and upgrade dice to sides showing a blank ([-]).",
+        "text": "Activate 2 of your Blue characters. Then turn each of a character's character and upgrade dice to sides showing a blank ([blank]).",
         "type_code": "event"
     },
     {
@@ -236,7 +236,7 @@
         "position": 10,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Remove a die showing melee damage ([MD]). If it is an upgrade die, you may spot a Blue character and spend 1 resource to discard its matching card from play.",
+        "text": "Remove a die showing melee damage ([melee]). If it is an upgrade die, you may spot a Blue character and spend 1 resource to discard its matching card from play.",
         "type_code": "event"
     },
     {
@@ -253,7 +253,7 @@
         "position": 11,
         "rarity_code": "U",
         "set_code": "CM",
-        "text": "Spot a Blue character to remove an opponent's character die showing damage ([RD], [MD], or [ID]). Then that opponent deals damage to one of their characters equal to the value showing on that die.",
+        "text": "Spot a Blue character to remove an opponent's character die showing damage ([ranged], [melee], or [indirect]). Then that opponent deals damage to one of their characters equal to the value showing on that die.",
         "type_code": "event"
     },
     {
@@ -787,7 +787,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "This support enters play with 3 resources on it.\n[special] - Remove 1 resource from this support to deal 4 indirect damage ([ID]) to an opponent. You may return this support to your hand.",
+        "text": "This support enters play with 3 resources on it.\n[special] - Remove 1 resource from this support to deal 4 indirect damage ([indirect]) to an opponent. You may return this support to your hand.",
         "type_code": "support"
     },
     {
@@ -807,7 +807,7 @@
         "subtypes": [
             "droid"
         ],
-        "text": "After a die rolls damage ([RD], [MD], or [ID]), you may spot a Red character and spend 1 resource to remove that die. Then discard this support.",
+        "text": "After a die rolls damage ([ranged], [melee], or [indirect]), you may spot a Red character and spend 1 resource to remove that die. Then discard this support.",
         "type_code": "support"
     },
     {
@@ -1114,7 +1114,7 @@
         "position": 46,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "If each of your opponents has an exhausted character and no dice showing damage ([RD], [MD], [ID]), deal 2 indirect damage ([ID]) to each of them.",
+        "text": "If each of your opponents has an exhausted character and no dice showing damage ([ranged], [melee], [indirect]), deal 2 indirect damage ([indirect]) to each of them.",
         "type_code": "event"
     },
     {
@@ -1404,7 +1404,7 @@
         "position": 57,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Turn up to 2 of your dice to sides showing a shield ([Sh]).",
+        "text": "Turn up to 2 of your dice to sides showing a shield ([shield]).",
         "type_code": "event"
     },
     {
@@ -1492,7 +1492,7 @@
         "position": 62,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Remove any number of your dice showing a shield ([Sh]) to remove that many dice.",
+        "text": "Remove any number of your dice showing a shield ([shield]) to remove that many dice.",
         "type_code": "event"
     },
     {
@@ -1819,7 +1819,7 @@
         "position": 75,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Spot a character that has 10 or more health to remove a die showing damage ([RD], [MD], [ID]), or up to 2 dice showing damage instead if that character has 15 or more health.",
+        "text": "Spot a character that has 10 or more health to remove a die showing damage ([ranged], [melee], [indirect]), or up to 2 dice showing damage instead if that character has 15 or more health.",
         "type_code": "event"
     },
     {
@@ -1956,7 +1956,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "After resolve this die, place 1 damage on this support.\nAfter this die rolls a blank ([-]), if Kazuda Xiono is not piloting this support, remove all damage on it and deal that much indirect damage to yourself.",
+        "text": "After resolve this die, place 1 damage on this support.\nAfter this die rolls a blank ([blank]), if Kazuda Xiono is not piloting this support, remove all damage on it and deal that much indirect damage to yourself.",
         "type_code": "support"
     },
     {
@@ -2539,7 +2539,7 @@
         "subtypes": [
             "move"
         ],
-        "text": "Resolve one of your dice showing melee damage ([MD]), increasing its value by 3, or by 4 instead if it is a character or upgrade die belonging to a character that has a card titled Shien Mastery on it.",
+        "text": "Resolve one of your dice showing melee damage ([melee]), increasing its value by 3, or by 4 instead if it is a character or upgrade die belonging to a character that has a card titled Shien Mastery on it.",
         "type_code": "event"
     },
     {
@@ -2559,7 +2559,7 @@
         "subtypes": [
             "move"
         ],
-        "text": "Spot a Blue character to remove a die showing damage ([RD], [MD], [ID]). Then, if that character has a card titled Shien Mastery on it, deal 1 damage to a character.",
+        "text": "Spot a Blue character to remove a die showing damage ([ranged], [melee], [indirect]). Then, if that character has a card titled Shien Mastery on it, deal 1 damage to a character.",
         "type_code": "event"
     },
     {
@@ -2818,7 +2818,7 @@
         "position": 122,
         "rarity_code": "U",
         "set_code": "CM",
-        "text": "Resolve one of your <i>vehicle</i> dice showing damage ([RD], [MD], or [IN]), increasin its value by the number of characters piloting that <i>vehicle</i.>.",
+        "text": "Resolve one of your <i>vehicle</i> dice showing damage ([ranged], [melee], or [indirect]), increasin its value by the number of characters piloting that <i>vehicle</i.>.",
         "type_code": "event"
     },
     {
@@ -2915,7 +2915,7 @@
         "subtypes": [
             "mod"
         ],
-        "text": "Modify <i>vehicle</i> support.\nAfter this die rolles a blank ([-]), discard attached <i>vehicle</i> unless it is piloted.",
+        "text": "Modify <i>vehicle</i> support.\nAfter this die rolles a blank ([blank]), discard attached <i>vehicle</i> unless it is piloted.",
         "type_code": "upgrade"
     },
     {
@@ -2972,7 +2972,7 @@
         "position": 130,
         "rarity_code": "U",
         "set_code": "CM",
-        "text": "Choose a symbol. then reroll up to 5 dice. You may spend 1 resource to reroll any number of those dice again. For each of those dice showing the chosen symbol, deal 1 indirect damage ([ID]) to an opponent.",
+        "text": "Choose a symbol. then reroll up to 5 dice. You may spend 1 resource to reroll any number of those dice again. For each of those dice showing the chosen symbol, deal 1 indirect damage ([indirect]) to an opponent.",
         "type_code": "event"
     },
     {
@@ -3041,7 +3041,7 @@
         "position": 134,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Ambush.\nTurn one of your dice to a side showing a resource ([R]).",
+        "text": "Ambush.\nTurn one of your dice to a side showing a resource ([resource]).",
         "type_code": "event"
     },
     {
@@ -3112,7 +3112,7 @@
         "position": 138,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Remove 1 resource from a non-plot card you control to remove a die showing damage ([RD], [MD], or [ID]).",
+        "text": "Remove 1 resource from a non-plot card you control to remove a die showing damage ([ranged], [melee], or [indirect]).",
         "type_code": "event"
     },
     {
@@ -3179,7 +3179,7 @@
         "position": 141,
         "rarity_code": "U",
         "set_code": "CM",
-        "text": "After the upkeep phase begins, deal 2 indirect damage ([ID]) to yourself.\n<b>Action</b> - Discard an event from your hand to give control of this support to an opponent.",
+        "text": "After the upkeep phase begins, deal 2 indirect damage ([indirect]) to yourself.\n<b>Action</b> - Discard an event from your hand to give control of this support to an opponent.",
         "type_code": "support"
     },
     {
@@ -3196,7 +3196,7 @@
         "position": 142,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "This support enters play with 2 resources on it.\nAfter the action phase begins, remove 1 resource from this support. Then if no resources are on it, discard it to deal 3 indirect damage ([ID]) to a player.",
+        "text": "This support enters play with 2 resources on it.\nAfter the action phase begins, remove 1 resource from this support. Then if no resources are on it, discard it to deal 3 indirect damage ([indirect]) to a player.",
         "type_code": "support"
     },
     {
