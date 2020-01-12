@@ -754,7 +754,7 @@
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "\"On my commandâ€¦ Fire!\" <cite>Captain Phasma</cite>",
+        "flavor": "\"On my command... Fire!\" <cite>Captain Phasma</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Ameen Naksewee",
@@ -1677,7 +1677,7 @@
         "subtypes": [
             "jedi"
         ],
-        "text": "Discad this support from play if you control Qui-Gon Jinn.\n[special] - Shuffle this support into its owner's deck to give a character 1 shield. Then remove any number of shields from your characters to deal that much damage to a character.",
+        "text": "Discard this support from play if you control Qui-Gon Jinn.\n[special] - Shuffle this support into its owner's deck to give a character 1 shield. Then remove any number of shields from your characters to deal that much damage to a character.",
         "ttscardid": "52869",
         "type_code": "support"
     },
@@ -1954,7 +1954,7 @@
         "position": 81,
         "rarity_code": "U",
         "set_code": "SoH",
-        "text": "Defeat one of your <i>leader</i> characters and discard a <i>vehicle</i> you control. Then discar an opponent's <i>vehicle</i> from play and deal indirect damage ([indirect]) to them equal to the discarded <i>vehicles</i>' combined cost.",
+        "text": "Defeat one of your <i>leader</i> characters and discard a <i>vehicle</i> you control. Then discard an opponent's <i>vehicle</i> from play and deal indirect damage ([indirect]) to them equal to the discarded <i>vehicles</i>' combined cost.",
         "ttscardid": "52910",
         "type_code": "event"
     },
