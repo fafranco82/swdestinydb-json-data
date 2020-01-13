@@ -316,7 +316,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "[special] - Deal 2 damage to a character. You may place 1 damage on a <i>vehicle</>. Then, if Darth Vader is piloting this support, you may discard a <i>vehicle</i> that has 2 or more damage.",
+        "text": "[special] - Deal 2 damage to a character. You may place 1 damage on a <i>vehicle</i>. Then, if Darth Vader is piloting this support, you may discard a <i>vehicle</i> that has 2 or more damage.",
         "type_code": "support"
     },
     {
@@ -663,7 +663,7 @@
         "position": 28,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Turn one of your character dice to any side. If y ucontrol exactly one character, you may resolve that die.",
+        "text": "Turn one of your character dice to any side. If you control exactly one character, you may resolve that die.",
         "type_code": "event"
     },
     {
@@ -2818,7 +2818,7 @@
         "position": 122,
         "rarity_code": "U",
         "set_code": "CM",
-        "text": "Resolve one of your <i>vehicle</i> dice showing damage ([ranged], [melee], or [indirect]), increasin its value by the number of characters piloting that <i>vehicle</i.>.",
+        "text": "Resolve one of your <i>vehicle</i> dice showing damage ([ranged], [melee], or [indirect]), increasing its value by the number of characters piloting that <i>vehicle</i.>.",
         "type_code": "event"
     },
     {
