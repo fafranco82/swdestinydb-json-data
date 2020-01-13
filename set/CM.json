@@ -298,7 +298,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": true,
+        "has_errata": false,
         "illustrator": "Mark Molnar",
         "is_unique": true,
         "name": "Darth Vader's Tie Advanced",
@@ -856,7 +856,7 @@
         "subtypes": [
             "title"
         ],
-        "text": "<i>Leader</i> character only.\nAfter you resolve or remove one of your Red dice showing a resource ([R]), you may exhaust this upgrade to roll that die into your pool.",
+        "text": "<i>Leader</i> character only.\nAfter you resolve or remove one of your Red dice showing a resource ([resource]), you may exhaust this upgrade to roll that die into your pool.",
         "type_code": "upgrade"
     },
     {

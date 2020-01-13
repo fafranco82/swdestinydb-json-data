@@ -2066,7 +2066,7 @@
         "position": 72,
         "rarity_code": "C",
         "set_code": "AW",
-        "text": "Look at two random cards from your opponent's hand and discard any of these cards that are events.",
+        "text": "Look at two random cards from your opponent's hand and discard any of those cards that are events.",
         "ttscardid": "1401",
         "type_code": "event"
     },

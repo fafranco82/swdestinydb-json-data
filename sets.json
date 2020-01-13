@@ -30,8 +30,8 @@
         "size": 160
     },
     {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
+        "cgdb_id_end": 8,
+        "cgdb_id_start": 8,
         "code": "TPG",
         "cycle_code": "LEG",
         "date_release": "2017-09-01",
@@ -40,8 +40,8 @@
         "size": 46
     },
     {
-        "cgdb_id_end": null,
-        "cgdb_id_start": null,
+        "cgdb_id_end": 11,
+        "cgdb_id_start": 9,
         "code": "LEG",
         "cycle_code": "LEG",
         "date_release": "2018-02-01",
