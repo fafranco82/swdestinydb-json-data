@@ -3447,7 +3447,10 @@
         "rarity_code": "C",
         "set_code": "CM",
         "text": "This support enters play with 3 resources on it.\nThis support can be activated.\nAfter you activate this support, you may remove 1 resource from it to gain 1 resource.",
-        "type_code": "support"
+        "type_code": "support",
+        "subtypes": [
+            "vehicle"
+        ]
     },
     {
         "affiliation_code": "neutral",
