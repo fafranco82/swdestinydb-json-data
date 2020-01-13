@@ -3054,7 +3054,7 @@
         "has_errata": false,
         "illustrator": "Lukasz Jaskolski",
         "is_unique": false,
-        "name": "Roque Tendencies",
+        "name": "Rogue Tendencies",
         "position": 135,
         "rarity_code": "C",
         "set_code": "CM",
@@ -3446,7 +3446,7 @@
         "position": 154,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "This support enters play with  resources on it.\nThis support can be activated.\nAfter you activate this support, you may remove 1 resource from it to gain 1 resource.",
+        "text": "This support enters play with 3 resources on it.\nThis support can be activated.\nAfter you activate this support, you may remove 1 resource from it to gain 1 resource.",
         "type_code": "support"
     },
     {
