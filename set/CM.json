@@ -1871,7 +1871,7 @@
         "position": 78,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Heal 1 damage from a charcater. Then you may heal 2 damage from another character that shares a subtype with that character.",
+        "text": "Heal 1 damage from a character. Then you may heal 2 damage from another character that shares a subtype with that character.",
         "type_code": "event"
     },
     {
@@ -1889,7 +1889,7 @@
         "position": 79,
         "rarity_code": "C",
         "set_code": "CM",
-        "text": "Spot any number of characters that each have 10 or more health to roll one charcater die on each of them into your pool.",
+        "text": "Spot any number of characters that each have 10 or more health to roll one character die on each of them into your pool.",
         "type_code": "event"
     },
     {
