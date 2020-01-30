@@ -40,7 +40,8 @@
                 "AtG",
                 "CONV",
                 "AoN",
-                "SoH"
+                "SoH",
+                "CM"
             ]
         },
         "name": "Standard"
@@ -60,7 +61,8 @@
             "sets": [
                 "CONV",
                 "AoN",
-                "SoH"
+                "SoH",
+                "CM"
             ]
         },
         "name": "Trilogy"
@@ -132,7 +134,8 @@
                 "AtG",
                 "CONV",
                 "AoN",
-                "SoH"
+                "SoH",
+                "CM"
             ]
         },
         "name": "Infinite"
