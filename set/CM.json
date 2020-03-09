@@ -1856,7 +1856,7 @@
         "has_errata": false,
         "health": 11,
         "illustrator": "JB Casacop",
-        "is_unique": false,
+        "is_unique": true,
         "name": "Tarfful",
         "points": "11/14",
         "position": 74,
