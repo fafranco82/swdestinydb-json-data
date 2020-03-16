@@ -2157,7 +2157,7 @@
         "has_die": false,
         "has_errata": false,
         "illustrator": "Lukasz Jaskolski",
-        "is_unique": true,
+        "is_unique": false,
         "name": "Fortitude",
         "position": 87,
         "rarity_code": "C",
