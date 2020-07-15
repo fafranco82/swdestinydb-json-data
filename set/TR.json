@@ -201,11 +201,11 @@
         "position": 8,
         "rarity_code": "S",
         "set_code": "TR",
-        "text": "<b>Action<b> - Play a non-event card from your hand to deal 1 indirect damage to an opponent. If 2 or more <b>bomb<b> plots are in play, you may set them al aside and deal 4 indirect damage to an opponent. If you do not, flip this plot.",
-        "type_code": "plot",
         "subtypes": [
             "bomb"
-        ]
+        ],
+        "text": "<b>Action<b> - Play a non-event card from your hand to deal 1 indirect damage to an opponent. If 2 or more <b>bomb<b> plots are in play, you may set them al aside and deal 4 indirect damage to an opponent. If you do not, flip this plot.",
+        "type_code": "plot"
     },
     {
         "affiliation_code": "hero",
@@ -322,11 +322,11 @@
         "position": 14,
         "rarity_code": "S",
         "set_code": "TR",
-        "text": "If this downgrade would leave play, set it aside instead.\nAttached character cannot be activated.\n<b>Action<b> - Give the player that controls this downgrade 1 resource to flip it. Any player may use this ability.",
-        "type_code": "plot",
         "subtypes": [
             "bounty"
-        ]
+        ],
+        "text": "If this downgrade would leave play, set it aside instead.\nAttached character cannot be activated.\n<b>Action<b> - Give the player that controls this downgrade 1 resource to flip it. Any player may use this ability.",
+        "type_code": "plot"
     },
     {
         "affiliation_code": "hero",
@@ -342,11 +342,11 @@
         "position": 15,
         "rarity_code": "S",
         "set_code": "TR",
-        "text": "Team Up 1: Chewbacca, Lando Calrissian, Leia Organa, Luke Skywalker.\n<b>Action<b> - Play a card from your hand with a cost equal to the number of resources on this plot. Its cost cannot be decreased. Then place 1 resource on this plot and if it has 5 resources, flip it and exhaust it.",
-        "type_code": "plot",
         "subtypes": [
             "mission"
-        ]
+        ],
+        "text": "Team Up 1: Chewbacca, Lando Calrissian, Leia Organa, Luke Skywalker.\n<b>Action<b> - Play a card from your hand with a cost equal to the number of resources on this plot. Its cost cannot be decreased. Then place 1 resource on this plot and if it has 5 resources, flip it and exhaust it.",
+        "type_code": "plot"
     },
     {
         "affiliation_code": "hero",
@@ -376,7 +376,8 @@
             "pilot",
             "scoundrel"
         ],
-        "text": "Piloting. Parallel die Han Solo ([AW]46).\nAfter you activate this character, remove 1 resource from him to gain 1 resource.\nAfter this character is defeated, lose all of your resources. Each opponent gains that many resources."
+        "text": "Piloting. Parallel die Han Solo ([AW]46).\nAfter you activate this character, remove 1 resource from him to gain 1 resource.\nAfter this character is defeated, lose all of your resources. Each opponent gains that many resources.",
+        "type_code": "character"
     },
     {
         "affiliation_code": "neutral",
@@ -448,7 +449,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "130010A",
+        "code": "13010A",
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
@@ -465,7 +466,7 @@
     },
     {
         "affiliation_code": "neutral",
-        "code": "130010B",
+        "code": "13010B",
         "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,

@@ -5,6 +5,7 @@ import json
 import jsonschema
 import os
 import sys
+import re
 
 SET_PATH_STRING = os.path.sep + 'set' + os.path.sep
 
@@ -43,6 +44,7 @@ class ValidatorBase:
         self.base_path = base_path
         self.data_path = base_path
         self.schema_path = os.path.join(base_path, "schema")
+        self.re_side_a = re.compile(r'[0-9A]$')
 
 
     def validate(self):
@@ -166,6 +168,9 @@ class ValidatorBase:
         if validations:
             raise jsonschema.ValidationError("\n".join(["- %s" % v for v in validations]))
 
+    def is_side_a(self, card):
+        return self.re_side_a.match(card.get('code'))
+
     def custom_check_card(self, card):
         validations = []
         #check foreing codes
@@ -194,7 +199,7 @@ class ValidatorBase:
     def custom_check_character_card(self, card):
         validations = []
         for attr in ['points', 'health']:
-            if not card.has_key(attr):
+            if not card.has_key(attr) and self.is_side_a(card):
                 validations.append("Character card %s must have attribute '%s'" % (card.get('code'), attr))
 
         return validations
@@ -215,7 +220,7 @@ class ValidatorBase:
     def custom_check_plot_card(self, card):
         validations = []
         for attr in ['points']:
-            if not card.has_key(attr):
+            if not card.has_key(attr) and self.is_side_a(card):
                 validations.append("Plot card %s must have attribute '%s'" % (card.get('code'), attr))
 
         return validations
