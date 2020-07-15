@@ -2944,7 +2944,7 @@
         "deck_limit": 1,
         "faction_code": "red",
         "has_die": false,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "Mark Molnar",
         "is_unique": false,
         "name": "Armored Reinforcement",
@@ -2952,7 +2952,7 @@
         "position": 129,
         "rarity_code": "U",
         "set_code": "AtG",
-        "text": "<b>Action</b> - Set this plot aside to search your deck or discard pile for a <i>vehicle</i> support and play it, decreasing its cost by 1. If you search your deck, shuffle it.",
+        "text": "<b>Action</b> - Set this plot aside to search your deck or discard pile for a Red <i>vehicle</i> support and play it, decreasing its cost by 1. If you search your deck, shuffle it.",
         "ttscardid": "49359",
         "type_code": "plot"
     },

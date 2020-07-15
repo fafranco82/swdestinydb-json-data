@@ -6,7 +6,7 @@
             "type": "string"
         },
         "code": {
-            "pattern": "^[0-9]{5}$",
+            "pattern": "^[0-9]{5}[A-Z]?$",
             "type": "string"
         },
         "cost": {
@@ -61,7 +61,7 @@
             "type": "string"
         },
         "points": {
-            "pattern": "^-?[0-9]+(/[0-9]+)?$",
+            "pattern": "^-?([0-9]+)?(/[0-9]+)?$",
             "type": "string"
         },
         "position": {
