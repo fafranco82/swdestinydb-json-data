@@ -204,7 +204,7 @@
         "subtypes": [
             "bomb"
         ],
-        "text": "<b>Action</b> - Play a non-event card from your hand to deal 1 indirect damage to an opponent. If 2 or more <b>bomb</b> plots are in play, you may set them al aside and deal 4 indirect damage to an opponent. If you do not, flip this plot.",
+        "text": "<b>Action</b> - Play a non-event card from your hand to deal 1 indirect damage to an opponent. If 2 or more <b>bomb</b> plots are in play, you may set them all aside and deal 4 indirect damage to an opponent. If you do not, flip this plot.",
         "type_code": "plot"
     },
     {
