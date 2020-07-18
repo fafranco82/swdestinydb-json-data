@@ -117,7 +117,7 @@
         "subtypes": [
             "jedi"
         ],
-        "text": "Parallel die Darth Vader ([AW]35).\n<b>Power Action</b> - Either give this character 2 shields, or remove 2 shields from him to deal 2 damage to a character.  If this character has 3 or more Blue upgrades, you may do both in any order.",
+        "text": "Parallel die Luke Skywalker ([AW]35).\n<b>Power Action</b> - Either give this character 2 shields, or remove 2 shields from him to deal 2 damage to a character.  If this character has 3 or more Blue upgrades, you may do both in any order.",
         "type_code": "character"
     },
     {
@@ -167,7 +167,7 @@
         "subtypes": [
             "jedi"
         ],
-        "text": "Parallel die One With the Force ([AW]42).\nIf this support would leave play, set it aside instead.\n<b>Power Action<b> - Give a Blue character 1 shield and reroll any number of its character and upgrade dice.",
+        "text": "Parallel die One With the Force ([AW]42).\nIf this support would leave play, set it aside instead.\n<b>Power Action</b> - Give a Blue character 1 shield and reroll any number of its character and upgrade dice.",
         "type_code": "support"
     },
     {
@@ -184,7 +184,7 @@
         "position": 7,
         "rarity_code": "S",
         "set_code": "TR",
-        "text": "After setup, if this plot is elite, add an additional copy of it to your team.<b>Action</b> - Play an event from your hand to reroll a die. Then flip this plot.",
+        "text": "After setup, if this plot is elite, add an additional copy of it to your team.\n<b>Action</b> - Play an event from your hand to reroll a die. Then flip this plot.",
         "type_code": "plot"
     },
     {
@@ -204,7 +204,7 @@
         "subtypes": [
             "bomb"
         ],
-        "text": "<b>Action<b> - Play a non-event card from your hand to deal 1 indirect damage to an opponent. If 2 or more <b>bomb<b> plots are in play, you may set them al aside and deal 4 indirect damage to an opponent. If you do not, flip this plot.",
+        "text": "<b>Action</b> - Play a non-event card from your hand to deal 1 indirect damage to an opponent. If 2 or more <b>bomb</b> plots are in play, you may set them all aside and deal 4 indirect damage to an opponent. If you do not, flip this plot.",
         "type_code": "plot"
     },
     {
@@ -221,7 +221,7 @@
         "position": 9,
         "rarity_code": "S",
         "set_code": "TR",
-        "text": "<b>Action<b> - If you control the battlefield and 5 or more dice in your pool are showing damage, force an opponent to name a character. Then flip this plot. If they did not name this character, make it elite.",
+        "text": "<b>Action</b> - If you control the battlefield and 5 or more dice in your pool are showing damage, force an opponent to name a character. Then flip this plot. If they did not name this character, make it elite.",
         "type_code": "plot"
     },
     {
@@ -243,7 +243,7 @@
         "subtypes": [
             "trooper"
         ],
-        "text": "After you activate this character, if it is elite, you may roll a character die on a character into its controler's pool. If you control the battlefield, you may roll a character die on a character into its controller's pool",
+        "text": "After you activate this character, if it is elite, you may roll a character die on a character into its controler's pool. If you control the battlefield, you may roll a character die on a character into its controller's pool.",
         "type_code": "character"
     },
     {
@@ -305,7 +305,7 @@
         "position": 13,
         "rarity_code": "S",
         "set_code": "TR",
-        "text": "Team Up 1: Each unique <b>bounty hunter<b>.\nAfter you deal melee or ranged damage to a character with a <b>bounty<b> on it, you may exhaust this plot and flip it to attach it to that character.",
+        "text": "Team Up 1: Each unique <b>bounty hunter</b>.\nAfter you deal melee or ranged damage to a character with a <b>bounty</b> on it, you may exhaust this plot and flip it to attach it to that character.",
         "type_code": "plot"
     },
     {
@@ -325,7 +325,7 @@
         "subtypes": [
             "bounty"
         ],
-        "text": "If this downgrade would leave play, set it aside instead.\nAttached character cannot be activated.\n<b>Action<b> - Give the player that controls this downgrade 1 resource to flip it. Any player may use this ability.",
+        "text": "If this downgrade would leave play, set it aside instead.\nAttached character cannot be activated.\n<b>Action</b> - Give the player that controls this downgrade 1 resource to flip it. Any player may use this ability.",
         "type_code": "plot"
     },
     {
@@ -345,7 +345,7 @@
         "subtypes": [
             "mission"
         ],
-        "text": "Team Up 1: Chewbacca, Lando Calrissian, Leia Organa, Luke Skywalker.\n<b>Action<b> - Play a card from your hand with a cost equal to the number of resources on this plot. Its cost cannot be decreased. Then place 1 resource on this plot and if it has 5 resources, flip it and exhaust it.",
+        "text": "Team Up 1: Chewbacca, Lando Calrissian, Leia Organa, Luke Skywalker.\n<b>Action</b> - Play a card from your hand with a cost equal to the number of resources on this plot. Its cost cannot be decreased. Then place 1 resource on this plot and if it has 5 resources, flip it and exhaust it.",
         "type_code": "plot"
     },
     {
