@@ -12,6 +12,10 @@
         "name": "A Galaxison át"
     },
     {
+        "code": "CM",
+        "name": "Covert Missions"
+    },
+    {
         "code": "CONV",
         "name": "Konvergencia"
     },
@@ -38,6 +42,10 @@
     {
         "code": "TPG",
         "name": "Kétfős csomag"
+    },
+    {
+        "code": "TR",
+        "name": "Átalakulások"
     },
     {
         "code": "WotF",
