@@ -1,0 +1,889 @@
+[
+    {
+        "code": "12001",
+        "flavor": "\"I was the last survivor.\"",
+        "name": "Darth Bane",
+        "subtitle": "Ancient Master",
+        "text": "Decrease the cost of the first <i>ability</i> you play on this character each game by 2.\n[special] - Choose an upgrade on this character and deal indirect damage to an opponent equal to that upgrade's cost."
+    },
+    {
+        "code": "12002",
+        "name": "Darth Vader",
+        "subtitle": "Victor Leader",
+        "text": "Piloting.\n[special] - Deal 2 damage to a character. Then, if that character was just defeated, discard the <i>vehicle</i> it was piloting."
+    },
+    {
+        "code": "12003",
+        "name": "Pong Krell",
+        "subtitle": "Deadly Imposter",
+        "text": "You can include up to 4 different Blue hero cards in your deck.\nAfter you activate this character, you may place a hero card in any player's discard pile on the bottom of their deck. Then deal 1 damage to a character."
+    },
+    {
+        "code": "12004",
+        "name": "Snoke's Praetorian Guard",
+        "text": "After you activate this character, you may remove one of its character dice showing damage to remove a die showing damage with a value of 2 or less."
+    },
+    {
+        "code": "12005",
+        "name": "Recurring Nightmare",
+        "text": "This die can only be resolved against attached character."
+    },
+    {
+        "code": "12006",
+        "flavor": "\"The temple's starting to collapse.\" <cite>Ezra Bridger</cite>",
+        "name": "Entropic Blast",
+        "text": "Deal 2 damage to each character that has one or more of its character dice in a pool."
+    },
+    {
+        "code": "12007",
+        "flavor": "\"Why do you come to my tomb?\" <cite>Darth Bane</cite>",
+        "name": "Legacy of the Sith",
+        "text": "Play a Blue upgrade from your discard pile, or play it for free instead if you have a defeated character that is 20 or more points."
+    },
+    {
+        "code": "12008",
+        "flavor": "Elite Praetorian Guards worked in pairs to neutralize and overwhelm their foes.",
+        "name": "Pincer Movement",
+        "text": "Activate 2 of your Blue characters. Then turn each of a character's character and upgrade dice to sides showing a blank ([blank])."
+    },
+    {
+        "code": "12009",
+        "flavor": "\"You dare to attack a Jedi?\" <cite>Pong Krell</cite>",
+        "name": "Quad Slam",
+        "text": "Choose up to 4 characters and remove one character die belonging to each of them."
+    },
+    {
+        "code": "12010",
+        "name": "Trap the Blade",
+        "text": "Remove a die showing melee damage ([melee]). If it is an upgrade die, you may spot a Blue character and spend 1 resource to discard its matching card from play."
+    },
+    {
+        "code": "12011",
+        "name": "Treason",
+        "text": "Spot a Blue character to remove an opponent's character die showing damage ([ranged], [melee], or [indirect]). Then that opponent deals damage to one of their characters equal to the value showing on that die."
+    },
+    {
+        "code": "12012",
+        "name": "Rule of Two",
+        "text": "If you do not control exactly 2 characters, one that is a <i>Sith</i> and the other an <i>apprentice</i>, set this plot aside an deal 1 indirect damage to yourself.\n<b>Action</b> - If you have exactly one character die in your pool, exhaust this plot to resolve it, increasing its value by 1."
+    },
+    {
+        "code": "12013",
+        "flavor": "\"I need but a drop for the ritual to begin.\" <cite>Darth Sidious</cite>",
+        "name": "Bloodletting",
+        "text": "<b>Action</b> - Exhaust this support and deal 1 damage to a character you control to turn one of its character or upgrade dice to any side."
+    },
+    {
+        "code": "12014",
+        "name": "Darth Vader's Tie Advanced",
+        "text": "[special] - Deal 2 damage to a character. You may place 1 damage on a <i>vehicle</i>. Then, if Darth Vader is piloting this support, you may discard a <i>vehicle</i> that has 2 or more damage."
+    },
+    {
+        "code": "12015",
+        "name": "Ancient Sith Armor",
+        "text": "Redeploy.\nBefore attached character takes damage, you may exhaust this upgrade to block 1 damage.\nAfter you play an <i>ability</i> on attached character, you may ready this upgrade."
+    },
+    {
+        "code": "12016",
+        "name": "Death Field",
+        "text": "Blue character only.\n<b>Action</b> - Exhaust this upgrade to roll this die into your pool.\n[special] - Deal 2 damage to each of an opponent's characters."
+    },
+    {
+        "code": "12017",
+        "name": "Pong Krell's Lightsaber",
+        "text": "<b>Power Action</b> - Spot Pong Krell or spend 1 resource to roll a set-aside copy of this die ([CM]17) into your pool. Set that die aside after it is resolved or removed.\n[special] - Deal 2 damage to up to 2 characters."
+    },
+    {
+        "code": "12018",
+        "name": "Sith Lord",
+        "text": "<i>Sith</i> character only.\n[special] - Reroll this die instead of removing it. You may exhaust this upgrade to use a special ability ([special]) on attached character or on a blue <i>ability</i> on attached character."
+    },
+    {
+        "code": "12019",
+        "flavor": "A pair of blades could be combined to form a double-bladed sword.",
+        "name": "Vibro-Arbir Blades",
+        "text": "Elite character only.\nAfter you play this card from your hand, you may play a set-aside copy of it ([CM]19) <em>(paying its cost.)</em>."
+    },
+    {
+        "code": "12020",
+        "flavor": "\"You will come with us, or be destroyed.\"",
+        "name": "Commander Pyre",
+        "subtitle": "Harsh Negotiator",
+        "text": "After you claim or take control of the battlefield, you may deal 1 indirect damage ([indirect]) to an opponent."
+    },
+    {
+        "code": "12021",
+        "flavor": "\"I will not fail.\"",
+        "name": "Director Krennic",
+        "subtitle": "Death Star Mastermind",
+        "text": "The point value of your <i>Death Star</i> plot is decreased by 1.\nAfter you activate this character, you may turn one of your dice to a side showing a value of 1."
+    },
+    {
+        "code": "12022",
+        "name": "Elrik Vonreg",
+        "subtitle": "Major Baron",
+        "text": "Piloting.\nWhile one or more of this character's character dice are in your pool, its piloted <i>vehicle's</i> support and upgrade dice cannot be removed by opponent's effects."
+    },
+    {
+        "code": "12023",
+        "flavor": "Skilled as elite commandos and bodyguards.",
+        "name": "Imperial Death Trooper",
+        "text": "While you control Director Krennic, this character has <i>Guardian</i>.\n<b>Power Action</b> - Turn this die to a side showing the same symbol and value as another one of your dice."
+    },
+    {
+        "code": "12024",
+        "name": "Imperial Pilot",
+        "text": "Piloting.\n<b>Power Action</b> - If this character is piloting a Red <i>vehicle</i>, turn its support die to any side."
+    },
+    {
+        "code": "12025",
+        "flavor": "\"You have a lovely voice, General Syndulla.\" <cite>Arindha Pryce</cite>",
+        "name": "Cruel Methods",
+        "text": "After you claim or take control of the battlefield, you may deal 1 damage to attached character."
+    },
+    {
+        "code": "12026",
+        "flavor": "\"Do it.\" <cite>Orson Krennic</cite>",
+        "name": "Call to Action",
+        "text": "Spot a character that is 15 or fewer points to roll all of its character dice into your pool."
+    },
+    {
+        "code": "12027",
+        "name": "Face the Enemy",
+        "text": "Spot an exhausted character to force an opponent to draw 2 cards. Then look at that opponent's hand and place up to 2 cards from it on top of their deck in any order."
+    },
+    {
+        "code": "12028",
+        "name": "I'll Handle This Myself",
+        "text": "Turn one of your character dice to any side. If you control exactly one character, you may resolve that die."
+    },
+    {
+        "code": "12029",
+        "name": "Taking Charge",
+        "text": "Ambush.\nIf you control the battlefield, remove a die. If you do not control the battlefield, take control of it and you may reroll a die."
+    },
+    {
+        "code": "12030",
+        "name": "Construct The Death Star",
+        "text": "<b>Action</b> - Remove 2 of your dice each showing a resource ([resource]) to place 2 resources on this plot. Then, if 15 or more resources are on this plot, you win the game."
+    },
+    {
+        "code": "12031",
+        "flavor": "\"We can't even touch him!\" <cite>Mia Gabon</cite>",
+        "name": "Elrik Vonreg's TIE Interceptor",
+        "text": "<b>Action</b> - If Elrik Vonreg is piloting this support, remove this die to discard an opponent's <i>vehicle</i> from play that costs equal to or less than the value showing on this die."
+    },
+    {
+        "code": "12032",
+        "flavor": "\"You named your weapon after my sister?\" <cite>Bo-Katan Kryze</cite>",
+        "name": "The \"Duchess\"",
+        "text": "[special] - Deal 2 damage to each of your opponents' characters. Then deal 1 additional damage to each of those characters that are a <i>trooper</i>."
+    },
+    {
+        "code": "12033",
+        "name": "Tie Bomber",
+        "text": "This support enters play with 3 resources on it.\n[special] - Remove 1 resource from this support to deal 4 indirect damage ([indirect]) to an opponent. You may return this support to your hand."
+    },
+    {
+        "code": "12034",
+        "name": "Viper Probe Droid",
+        "text": "After a die rolls damage ([ranged], [melee], or [indirect]), you may spot a Red character and spend 1 resource to remove that die. Then discard this support."
+    },
+    {
+        "code": "12035",
+        "name": "Commander Pyre's Blaster",
+        "text": "After you play this upgrade on Commander Pyre, you may take control of the battlefield."
+    },
+    {
+        "code": "12036",
+        "flavor": "\"Oh, it's beautiful.\" <cite>Orson Krennic</cite>",
+        "name": "Director",
+        "text": "<i>Leader</i> character only.\nAfter you resolve or remove one of your Red dice showing a resource ([resource]), you may exhaust this upgrade to roll that die into your pool."
+    },
+    {
+        "code": "12037",
+        "name": "E-11D Blaster Rifle",
+        "text": "While this upgrade is on an elite character, it has Redeploy.\nAfter you play this upgrade on a non-unique character, you may gain 1 resource."
+    },
+    {
+        "code": "12038",
+        "flavor": "\"He's no good to me dead.\"",
+        "name": "Boba Fett",
+        "subtitle": "Infamous And Ruthless",
+        "text": "After an opponent's character is defeated, for each <i>bounty</i> on it, you may roll one of this character's character or upgrade dice into your pool."
+    },
+    {
+        "code": "12039",
+        "flavor": "\"Tonight, we get paid.\"",
+        "name": "Kragan Gorr",
+        "subtitle": "Pirate Captain",
+        "text": "After you activate this character, you may activate one of your <i>pirates</i>. If an opponent has an exhausted character and no dice showing damage, you may take 1 resource from them."
+    },
+    {
+        "code": "12040",
+        "flavor": "Their job conditions are so toxic that sentinels must wear sealed, radiation-proof suits.",
+        "name": "Pyke Sentinel",
+        "text": "Guardian."
+    },
+    {
+        "code": "12041",
+        "flavor": "\"Let's trash this place!\"",
+        "name": "Synara San",
+        "subtitle": "Opportunistic Infiltrator",
+        "text": "After you activate this character, if an opponent has an exhausted character and no dice showing damage, you may force them to choose and discard a card from their hand."
+    },
+    {
+        "code": "12042",
+        "flavor": "Their predatory origins made Trandoshans gifted hunters.",
+        "name": "Trandoshan Hunter",
+        "text": "<b>Power Action</b> - Spot a downgrade to turn one of your <i>bounty hunter</i> dice to a side showing damage."
+    },
+    {
+        "code": "12043",
+        "name": "Forced Labor",
+        "text": "After attached character is defeated, you may roll one of its character dice into its owner's pool. Then either resolve that die for free as if it were in your pool or remove it."
+    },
+    {
+        "code": "12044",
+        "flavor": "\"Help me.\" <cite>Yonak</cite>",
+        "name": "Pestering",
+        "text": "After this die is rerolled, you may reroll one of attached character's character dice."
+    },
+    {
+        "code": "12045",
+        "flavor": "\"They blow you up today, you wll blow them up tomorrow. It's j-just business.\" <cite>DJ</cite>",
+        "name": "Change of Fortune",
+        "text": "Choose a symbol. Then reroll any number of an opponent's dice. Remove each of those dice that just rolled the chosen symbol."
+    },
+    {
+        "code": "12046",
+        "name": "Opportune Strike",
+        "text": "If each of your opponents has an exhausted character and no dice showing damage ([ranged], [melee], [indirect]), deal 2 indirect damage ([indirect]) to each of them."
+    },
+    {
+        "code": "12047",
+        "flavor": "\"I smell profit! Nice, juicy, fat, warm profits.\" <cite>Hondo Ohnaka</cite>",
+        "name": "Plunder",
+        "text": "Play only if you do not control the battlefield.\nSpot any number of <i>pirates</i> to take that many resources from an opponent."
+    },
+    {
+        "code": "12048",
+        "name": "Warning Shot",
+        "text": "Choose and opponent's die and remove it unless they give you one resource."
+    },
+    {
+        "code": "12049",
+        "flavor": "\"You heard Kragan. Attack!\" <cite>Skreek</cite>",
+        "name": "Pirate Ship",
+        "text": "After you activate this support, you may remove a die showing damage. You may activate one of your <i>pirates</i>."
+    },
+    {
+        "code": "12050",
+        "name": "Slave I",
+        "text": "Your Boba Fett and Jango Fett each have Piloting.\nAfter this support becomes piloted by a <i>bounty-hunter</i>, you may deal 1 damage to a character."
+    },
+    {
+        "code": "12051",
+        "name": "Boba Fett's Wrist Laser",
+        "text": "After you play this upgrade on Boba Fett, you may gain 1 action.\nAfter you resolve this die, discard this upgrade from play unless you discard a card from your hand."
+    },
+    {
+        "code": "12052",
+        "flavor": "The Pyke Syndicate favored BlasTech A-300 blaster rifles for their guards.",
+        "name": "Pyke Blaster",
+        "text": "While this upgrade is on a character that has Guardian, it has Redeploy."
+    },
+    {
+        "code": "12053",
+        "flavor": "\"There's no time for caution.\"",
+        "name": "Anakin Skywalker",
+        "subtitle": "Dedicated Mentor",
+        "text": "After you activate this character, you may discard a card from your hand to move 1 shield from a character to another character. Then draw a card if you moved that shield to an <i>apprentice</i>."
+    },
+    {
+        "code": "12054",
+        "name": "Jedi Knight",
+        "text": "After setup, you may give this character 2 shields.\n[special] - Give a character 1 shield. Then deal 1 damage to a character, or 2 damage instead if this character has 3 or more shields."
+    },
+    {
+        "code": "12055",
+        "name": "Kanan Jarrus",
+        "subtitle": "Jedi Exile",
+        "text": "This character's point value is decreased by 1 if your team has another <i>Spectre</i>.\nAfter you activate this character, you may choose a symbol and a die. Then an opponent turns that die to a side not showing the chosen symbol."
+    },
+    {
+        "code": "12056",
+        "name": "Luke Skywalker",
+        "subtitle": "Red Five",
+        "text": "Piloting.\nThe point value of your <i>Death Star</i> plot is decreased by 1.\nBefore you resolve a support die of a <i>vehicle</i> piloted by this character, you may increase its value by 1."
+    },
+    {
+        "code": "12057",
+        "flavor": "\"I won't leave you. Not this time.\" <cite>Ahsoka Tano</cite>",
+        "name": "Forestall",
+        "text": "Turn up to 2 of your dice to sides showing a shield ([shield])."
+    },
+    {
+        "code": "12058",
+        "flavor": "\"I have to tell you something... I hate your hair.\" <cite>Hera Syndulla</cite>",
+        "name": "Fresh Start",
+        "text": "Remove a character die. Then discard cards from the top of a deck equal to the value showing on that die."
+    },
+    {
+        "code": "12059",
+        "flavor": "\"Not this crude matter.\" <cite>Yoda</cite>",
+        "name": "Luminous Beings Are We",
+        "text": "Roll all of your defeated <i>Jedi</i> character dice into your pool. Set those dice aside after they have been resolved or removed."
+    },
+    {
+        "code": "12060",
+        "name": "Nullify",
+        "text": "Move 1 shield from one of your characters to an opponent's character. Then remove a die."
+    },
+    {
+        "code": "12061",
+        "name": "Skillful Deterrence",
+        "text": "For each elite character die in your pool, you may remove a die showing the same symbol as that die."
+    },
+    {
+        "code": "12062",
+        "flavor": "\"Around the survivors, a perimeter creat.\" <cite>Yoda</cite>",
+        "name": "Stand Firm",
+        "text": "Remove any number of your dice showing a shield ([shield]) to remove that many dice."
+    },
+    {
+        "code": "12063",
+        "name": "Trust Your Feelings",
+        "text": "Reroll up to 2 of your dice. Then you may resolve one of your dice. Then you may use the action on your plot titled Destroy the Death Star for free."
+    },
+    {
+        "code": "12064",
+        "name": "Valiant Deed",
+        "text": "Remove an upgrade die. Then you may spot a <i>mission</i> plot to roll an <i>apprentice</i> die on one of your characters into your pool."
+    },
+    {
+        "code": "12065",
+        "name": "Jedi Trials",
+        "text": "<b>Action</b> - Spot an <i>apprentice</i> character that has 3 Blue <i>abilities</i>, 3 shields, and its character dice are showing a combined value of 3 or more. Then heal 3 damage from it, ready it, it gains <i>Jedi</i> and it gains 1 die <em>(add a set-aside copy of its character die on it)</em>. Set this plot aside."
+    },
+    {
+        "code": "12066",
+        "name": "Luke Skywalker's X-Wing",
+        "text": "<b>Power Action</b> - Reroll this die or, if Luke Skywalker is piloting this support, turn this die to any side."
+    },
+    {
+        "code": "12067",
+        "name": "Anakin Skywalker's Lightsaber",
+        "text": "Redeploy.\nDiscard this upgrade from play if you control Rey's Lightsaber.\nAfter you play this upgrade, give a character you don't control 1 shield. Then give a character 2 shields."
+    },
+    {
+        "code": "12068",
+        "name": "Kanan Jarrus' Lightsaber",
+        "text": "After an opponent's die is turned, you may turn this die to any side. Then, if this upgrade is on Kanan Jarrus, you may exhaust it to turn one of his character dice to any side."
+    },
+    {
+        "code": "12069",
+        "name": "Padawan Braid",
+        "text": "Blue character only.\nAttached character gains <i>apprentice</i> and has +1 upgrade limit."
+    },
+    {
+        "code": "12070",
+        "name": "Hera Syndulla",
+        "subtitle": "Seasoned Captain",
+        "text": "Piloting.\nAfter this character begins piloting a <i>vehicle</i>, you may spend 2 resources to ready that <i>vehicle</i>."
+    },
+    {
+        "code": "12071",
+        "flavor": "Fierce warriors who were not afraid to shed their blood in order to protect their homeland.",
+        "name": "Kashyyyk Warrior",
+        "text": "Before you resolve one of this character's character dice showing damage, increase its value by 1 if this character has 6 or more damage."
+    },
+    {
+        "code": "12072",
+        "flavor": "\"The best starfighter pilot in the galaxy.",
+        "name": "Kazuda Xiono",
+        "subtitle": "Naive Hotshot",
+        "text": "Piloting.\nAfter you activate this character, you may spend 1 resource to exhaust a <i>vehicle</i>."
+    },
+    {
+        "code": "12073",
+        "name": "Poe Dameron",
+        "subtitle": "Reckless Aviator",
+        "text": "Piloting.\n<b>Power Action</b> - Spot a <i>vehicle</i> that has no damage to place 1 damage on it. Then resolve its support die showing damage, increasing its value by 1, or by 2 instead if this character is piloting it."
+    },
+    {
+        "code": "12074",
+        "name": "Tarfful",
+        "subtitle": "Chieftain of Kachirho",
+        "text": "Each other <i>Wookiee</i> character you control has +1 health.\nBefore you resolve one of this character's character dice showing damage, increase its value by 1 if this character has 6 or more damage."
+    },
+    {
+        "code": "12075",
+        "name": "Feat of Strength",
+        "text": "Spot a character that has 10 or more health to remove a die showing damage ([ranged], [melee], [indirect]), or up to 2 dice showing damage instead if that character has 15 or more health."
+    },
+    {
+        "code": "12076",
+        "name": "Imposing Figure",
+        "text": "Gain 1 resource if you control the character that has the most health <em>(including ties)</em>."
+    },
+    {
+        "code": "12077",
+        "name": "Plan of Attack",
+        "text": "Turn one of your dice to any side. Then you may spot a card titled Death Star Plans to turn another one of your dice to any side."
+    },
+    {
+        "code": "12078",
+        "flavor": "\"We'll make for that ridge.\" <cite>Ki-Adi-Mundi</cite>",
+        "name": "Run to Safety",
+        "text": "Heal 1 damage from a character. Then you may heal 2 damage from another character that shares a subtype with that character."
+    },
+    {
+        "code": "12079",
+        "flavor": "During the Battle of Kashyyyk, Wookiee troopers ambushed their foes from nearby cliffs.",
+        "name": "Swing In",
+        "text": "Spot any number of characters that each have 10 or more health to roll one character die on each of them into your pool."
+    },
+    {
+        "code": "12080",
+        "flavor": "\"Use the Force, Luke.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Trench Run",
+        "text": "Activate one of your <i>pilots</i> and one of your <i>vehicles</i>. Then you may spot a <i>Death Star</i> plot to play a card titled Trust Your Feelings from your hand or discard pile."
+    },
+    {
+        "code": "12081",
+        "name": "Destroy The Death Star",
+        "text": "After setup, give this plot 20 shields.\nYou can resolve your <i>pilot</i> and <i>vehicle</i> dice showing ranged damage against this plot.\n<b>Action</b> - If this plot has no shields, spend 1 resource to reroll 1 of your <i>pilot</i> dice and 1 of your <i>vehicle</i> dice. Then, if both of those dice are showing damage, you win the game."
+    },
+    {
+        "code": "12082",
+        "name": "Fireball",
+        "text": "After resolve this die, place 1 damage on this support.\nAfter this die rolls a blank ([blank]), if Kazuda Xiono is not piloting this support, remove all damage on it and deal that much indirect damage to yourself."
+    },
+    {
+        "code": "12083",
+        "name": "Ghost",
+        "text": "Ambush.\nAfter this support enters play, you may activate a <i>Spectre</i> you control.\nAfter you resolve this die, you may give each character piloting this support 1 shield."
+    },
+    {
+        "code": "12084",
+        "name": "Phantom",
+        "text": "<b>Power Action</b> - Spot <em>Ghost</em> to attach this support to it as a <i>mod</i> upgrade <em>(it is no longer a support)</em>.\n<b>Action</b> - This upgrade becomes a support <em>(Do not ready it. Return this die to its card)</em>."
+    },
+    {
+        "code": "12085",
+        "flavor": "The rebel base on Yavin 4 was cleverly hidden beneath an old Massassi temple.",
+        "name": "Rebel Hangar",
+        "text": "After you play this support, search your deck for up to 2 <i>vehicles</i> with a combined cost of 4 or less and play them for free. Shuffle your deck."
+    },
+    {
+        "code": "12086",
+        "name": "Wookiee Protection",
+        "text": "Each of your <i>Wookiee</i> characters has Guardian.\nAfter you remove a die using Guardian, you may exhaust this support to draw a card."
+    },
+    {
+        "code": "12087",
+        "flavor": "A wound that would kill a human will only make a Wookiee angry.",
+        "name": "Fortitude",
+        "text": "Attached character has +3 health, or +4 health instead if it is a <i>Wookiee</i>."
+    },
+    {
+        "code": "12088",
+        "flavor": "Smuggling is the easy part. The trick is defending your haul.",
+        "name": "Master Smuggler",
+        "text": "After you activate this character, you may resolve one of your scoundrel dice as if it were showing a resource."
+    },
+    {
+        "code": "12089",
+        "name": "Sabine Wren",
+        "subtitle": "Artistic and Resourceful",
+        "text": "Piloting.\n[special] - Deal 2 indirect damage to an opponent, or 3 indirect damage instead if you have a Blue die, a Red die, and another Yellow die in your pool."
+    },
+    {
+        "code": "12090",
+        "flavor": "\"I am excellent at causing pain.\"",
+        "name": "Sinjir Rath Velus",
+        "subtitle": "Ex-Loyalty Officer",
+        "text": "After you resolve one of this character's character dice, you may place a card from your hand on the bottom of your deck to remove a die showing the same symbol as that die."
+    },
+    {
+        "code": "12091",
+        "name": "Torra Doza",
+        "subtitle": "Energetic Thrill-Seeker",
+        "text": "Piloting.\nAfter this character begins piloting a <i>vehicle</i>, you may resolve one of that <i>vehicle's</i> support or upgrade dice."
+    },
+    {
+        "code": "12092",
+        "flavor": "\"I know where they're really taking the Wookiees. Have you heard of the spice mines of Kessel?\" <cite>Ezra Bridger</cite>",
+        "name": "Vengeful Wookiee",
+        "text": "Before you activate this character, you may reroll a die. Then you may remove a die if this character has 6 or more damage."
+    },
+    {
+        "code": "12093",
+        "flavor": "\"Stand up together, because that's when we're strongest-as one.\" <cite>Ezra Bridger</cite>",
+        "name": "As One",
+        "text": "Reroll a die. Then resolve up to 3 of your <i>Spectre</i> dice."
+    },
+    {
+        "code": "12094",
+        "name": "Lead from the Front",
+        "text": "Decrease the cost of this event by 1 for each different symbol showing on your dice.\nResolve up to 3 of your dice, increasing each of their values by 1."
+    },
+    {
+        "code": "12095",
+        "name": "Loth-Cat and Mouse",
+        "text": "Force an opponent to remove one of your dice. Then remove one of their dice."
+    },
+    {
+        "code": "12096",
+        "name": "Pride and Joy",
+        "text": "Play only if you control exactly one <i>vehicle</i> support.\nResolve one of your <i>vehicle</i> dice without removing it."
+    },
+    {
+        "code": "12097",
+        "name": "Reciprocate",
+        "text": "Ready an opponent's character. Then gain 1 resource."
+    },
+    {
+        "code": "12098",
+        "name": "Blue Ace",
+        "text": "Before you resolve this die, remove any number of resources from this support to increase its value by that number.\nAfter you resolve this die, you may place 1 resource on this support."
+    },
+    {
+        "code": "12099",
+        "flavor": "The astromech R1-J5 was a mechanic for Team Fireball and long-time comanion of Jarek Yeager.",
+        "name": "Bucket",
+        "text": "[special] - Gain 1 resource and either place 1 resource on a support or remove 1 damage fom a support."
+    },
+    {
+        "code": "12100",
+        "flavor": "\"It's some of my best work\" <cite>Sabine Wren</cite>",
+        "name": "Sabine Wren's TIE Fighter",
+        "text": "Ambush.\nAfter this die modifies a <i>Spectre</i> die, you may discard a card from your hand to roll this die into your pool."
+    },
+    {
+        "code": "12101",
+        "name": "Custom Paint Job",
+        "text": "Modify <i>vehicle</i> support.\nAfter you play this upgrade, choose a color. Attached <i>vehicle</i> and its die become that color. Then reroll up to 2 dice."
+    },
+    {
+        "code": "12102",
+        "flavor": "Only a few possessed the strength necessary to launch a fully grown Trandoshan into the air.",
+        "name": "Fling",
+        "text": "Spot a <i>Wookiee</i> character to exhaust another character that has less health than that <i>Wookiee</i>."
+    },
+    {
+        "code": "12103",
+        "name": "Wookiee Rage",
+        "text": "Ambush.\nUntil the end of the action phase, each \"Before\" ability on your <i>Wookiee</i> characters that contains \"has 6 or more damage\" now says \"has 1 or more damage\" instead.."
+    },
+    {
+        "code": "12104",
+        "flavor": "\"We're a crew. A team. In some ways, a family.\" <cite>Ezra Bridger</cite>",
+        "name": "Spectre Cell",
+        "text": "Include only if each character on your team is a <i>Spectre</i>"
+    },
+    {
+        "code": "12105",
+        "name": "Valorous Tribe",
+        "text": "<b>Action</b> - Exhaust this plot to move up to 2 damage from a character to a character you control. Then you may spot a <i>Wookiee</i> to heal 1 damage from a character."
+    },
+    {
+        "code": "12106",
+        "flavor": "\"Your sight cannot be healed, but I can teach you to see if you're willing\" <cite>Bendu</cite>",
+        "name": "Acute Awareness",
+        "text": "If a die was turned during an opponent's last turn this round, turn that die to any side."
+    },
+    {
+        "code": "12107",
+        "flavor": "\"Padawan, terror is not a weapon the Jedi use.\" <cite>Luminara Undili</cite>",
+        "name": "Bestow Wisdom",
+        "text": "Spot a <i>Jedi</i> or <i>Sith</i> to move up to 2 Blue <i>abilities</i> from that character to an <i>apprentice</i> character."
+    },
+    {
+        "code": "12108",
+        "name": "Falling Avalanche",
+        "text": "Resolve one of your dice showing melee damage ([melee]), increasing its value by 3, or by 4 instead if it is a character or upgrade die belonging to a character that has a card titled Shien Mastery on it."
+    },
+    {
+        "code": "12109",
+        "name": "Fluid Riposte",
+        "text": "Spot a Blue character to remove a die showing damage ([ranged], [melee], [indirect]). Then, if that character has a card titled Shien Mastery on it, deal 1 damage to a character."
+    },
+    {
+        "code": "12110",
+        "name": "Infuse The Force",
+        "text": "Spot a <i>Sith</i> to deal 1 damage to a character.\nSpot a <i>Jedi</i> to give a character 1 shield.\nSpot an <i>apprentice</i> to draw a card."
+    },
+    {
+        "code": "12111",
+        "name": "On Guard",
+        "text": "Ambush.\nGive a character 1 shield or spend 1 resource to ready an upgrade."
+    },
+    {
+        "code": "12112",
+        "flavor": "\"Hey, when I show off, it is instructive. And inspiring.\" <cite>Anakin Skywalker</cite>",
+        "name": "Side By Side",
+        "text": "Reroll a die. Then you may remove a different die showing the same value as the die just rerolled."
+    },
+    {
+        "code": "12113",
+        "name": "Seeking Knowledge",
+        "text": "This support enters play with 2 resources on it.\nAfter the action phase begins, remove 1 resource from this support. Then if no resources are on it, discard it to draw 3 cards."
+    },
+    {
+        "code": "12114",
+        "name": "Shien Mastery",
+        "text": "Blue character only. Limit 1 <i>form</i> per character.\nAfter you play this upgrade, you may roll this die into your pool.\n[special] - Deal 2 damage to a character. You may remove a die showing damage."
+    },
+    {
+        "code": "12115",
+        "name": "Shien Training",
+        "text": "Blue character only.\n[special] - Deal 2 damage to a character. You may discard this upgrade to play a card titled Shien Mastery from your hand or discard pile on attached character for free."
+    },
+    {
+        "code": "12116",
+        "flavor": "\"Luke, we've got a malfunction in fire control.\" <cite>Dak Ralter</cite>",
+        "name": "Systems Malfunction",
+        "text": "Modify opponent's <i>vehicle</i> support.\n[special] - Discard attached <i>vehicle</i>."
+    },
+    {
+        "code": "12117",
+        "name": "Assail",
+        "text": "Ambush.\nSpot a piloted <i>vehicle</i> to remove a die."
+    },
+    {
+        "code": "12118",
+        "name": "Command and Conquer",
+        "text": "Spot a <i>pilot</i> to activate it.\nSpot a <i>leader</i> to turn one of your character dice to any side.\nSpot a <i>trooper</i> to resolve one of your dice."
+    },
+    {
+        "code": "12119",
+        "flavor": "\"We are not ready for open war.\" <cite>Mon Mothma</cite>",
+        "name": "Covert Mission",
+        "text": "Give a character 1 shield. Spot a <i>mission</i> plot to search your deck for a card and add it to your hand. Shuffle your deck."
+    },
+    {
+        "code": "12120",
+        "name": "Embark",
+        "text": "Activate one of your characters or supports. Then, if you have 5 or more dice in your pool, turn one of them to a side with a symbol not showing on any of your dice."
+    },
+    {
+        "code": "12121",
+        "flavor": "\"Come with me.\" <cite>Darth Vader</cite>",
+        "name": "Flanked by Wingmen",
+        "text": "Activate one of your characters to give it 1 shield, or 2 shields instead if you spot 2 <i>pilots</i>."
+    },
+    {
+        "code": "12122",
+        "name": "Joint Maneuver",
+        "text": "Resolve one of your <i>vehicle</i> dice showing damage ([ranged], [melee], or [indirect]), increasing its value by the number of characters piloting that <i>vehicle</i.>."
+    },
+    {
+        "code": "12123",
+        "name": "Sneak Attack",
+        "text": "Ambush.\nPlay a Red <i>vehicle</i> from your hand for free. After the upkeep phase begins, if that <i>vehicle</i> is in play, return it to its owner's hand."
+    },
+    {
+        "code": "12124",
+        "name": "Under Fire",
+        "text": "Deal 1 damage to a Red character you control. Then remove a die."
+    },
+    {
+        "code": "12125",
+        "name": "Tactical Delay",
+        "text": "This support enters play with 2 resources on it.\nAfter the action phase begins, remove 1 resource from this support. Then if no resources are on it, discard it to gain 2 actions."
+    },
+    {
+        "code": "12126",
+        "name": "Death Star Plans",
+        "text": "<b>Action</b> - Exhaust this upgrade to place 1 resource on or remove 2 shields from your <i>Death Star</i> plot.\nAfter an opponent's effect deals damage to attached character, they may move this card to one of their characters."
+    },
+    {
+        "code": "12127",
+        "flavor": "\"I don't think the maintenance teams even tested it once.\" <cite>Jessika Pava</cite>",
+        "name": "Experimental Booster",
+        "text": "Modify <i>vehicle</i> support.\nAfter this die rolles a blank ([blank]), discard attached <i>vehicle</i> unless it is piloted."
+    },
+    {
+        "code": "12128",
+        "name": "Licensed To Fly",
+        "text": "Attached character gains <i>pilot</i> and has Piloting."
+    },
+    {
+        "code": "12129",
+        "flavor": "Nar Shaddaa was rife with criminals who coveted prized valuables, such as Luke Skywalker's lightsaber.",
+        "name": "Nar Shaddaa Thief",
+        "text": "<b>Power Action</b> - If this character is exhausted and an opponent has at least 2 more resources than you, take 1 resource from them."
+    },
+    {
+        "code": "12130",
+        "name": "Controlled Chaos",
+        "text": "Choose a symbol. then reroll up to 5 dice. You may spend 1 resource to reroll any number of those dice again. For each of those dice showing the chosen symbol, deal 1 indirect damage ([indirect]) to an opponent."
+    },
+    {
+        "code": "12131",
+        "name": "Dangerous Escape",
+        "text": "Discard all downgrades on a character. Then deal damage to that character equal to the number of downgrades discarded this way."
+    },
+    {
+        "code": "12132",
+        "flavor": "\"I never ask for anything twice.\" <cite>Dryden Vos</cite>",
+        "name": "Deadlock",
+        "text": "Place 1 resource on a support you control. Place 1 resource on a support you do not control."
+    },
+    {
+        "code": "12133",
+        "name": "Monopolize",
+        "text": "Decrease the cost of this event by 1 for each opponent that has no resources.\nRemove a die. Then if you have 3 or more resources, gain 1 resource."
+    },
+    {
+        "code": "12134",
+        "name": "Reap",
+        "text": "Ambush.\nTurn one of your dice to a side showing a resource ([resource])."
+    },
+    {
+        "code": "12135",
+        "name": "Rogue Tendencies",
+        "text": "Spot a <i>scavenger</i> to gain 1 resource.\nSpot a <i>scoundrel</i> to reroll up to 3 dice.\nSpot a <i>bounty hunter</i> to discard a random card from an opponent's hand."
+    },
+    {
+        "code": "12136",
+        "flavor": "The Jawaese language contains 27 words for \"junk\" and not a single one for \"cowardice.\"",
+        "name": "Survival Instinct",
+        "text": "Give control of the battlefield to an opponent. Then remove a die showing a value of 2 or less."
+    },
+    {
+        "code": "12137",
+        "flavor": "If the electrified net didn't trap the quarry, it would surely slow them down.",
+        "name": "Taken by Surprise",
+        "text": "Deal 1 damage to a ready character or spot a <i>mission</i> plot to deal 2 damage to a diceless character."
+    },
+    {
+        "code": "12138",
+        "flavor": "You would be surprised how many problems a well-timed rocket can solve.",
+        "name": "Think On Your Feet",
+        "text": "Remove 1 resource from a non-plot card you control to remove a die showing damage ([ranged], [melee], or [indirect])."
+    },
+    {
+        "code": "12139",
+        "name": "Coaxium Heist",
+        "text": "Include only if you bring a set-aside Pyke Sentinel ([CM]40) to the game. After set-up, add that character to an opponent's team.\n<b>Action</b> - If no opponent controls a Pyke Sentinel, set this plot aside and remove 4 of your dice each showing different symbols to gain 10 resources."
+    },
+    {
+        "code": "12140",
+        "flavor": "The twin pods housed both a pilot and a gunner.",
+        "name": "Cloud Car",
+        "text": "<b>Action</b> - Play this <i>vehicle</i> for free from your hand. After the upkeep phase begins, give control of this support to an opponent."
+    },
+    {
+        "code": "12141",
+        "flavor": "Be careful who you hire.",
+        "name": "Double Agent",
+        "text": "After the upkeep phase begins, deal 2 indirect damage ([indirect]) to yourself.\n<b>Action</b> - Discard an event from your hand to give control of this support to an opponent."
+    },
+    {
+        "code": "12142",
+        "name": "Improvised Explosive",
+        "text": "This support enters play with 2 resources on it.\nAfter the action phase begins, remove 1 resource from this support. Then if no resources are on it, discard it to deal 3 indirect damage ([indirect]) to a player."
+    },
+    {
+        "code": "12143",
+        "flavor": "\"I do love me a party.\" <cite>Weequay Pirate</cite>",
+        "name": "Raiding Party",
+        "text": "After you activate this support, you may remove 1 resource from a support or upgrade in play. Then gain 1 resource."
+    },
+    {
+        "code": "12144",
+        "name": "Repurposing",
+        "text": "<b>Action</b> - Exhaust this support and set aside an <i>equipment</i> or <i>weapon</i> from an opponent's discard pile to play an <i>equipment</i> or <i>weapon</i> from your hand, decreasing its cost by 1."
+    },
+    {
+        "code": "12145",
+        "name": "Magna-Glove",
+        "text": "[special] - Spend resources equal to the cost of an opponent's <i>equipment</i> or <i>weapon</i> upgrade in play to move it to attached character. Then spot a <i>scavenger</i> to roll that upgrade's die into your pool."
+    },
+    {
+        "code": "12146",
+        "name": "Z-6 Jetpack",
+        "text": "This upgrade enters play with 1 resource on it.\n[special] - Place 1 resource on this upgrade. Then deal indirect damage to an opponent equal to the number of resources on this upgrade."
+    },
+    {
+        "code": "12147",
+        "flavor": "\"Hey, what're you trying to push on us?\" <cite>Owen Lars</cite>",
+        "name": "Jawa Junk Dealer",
+        "text": "After you activate this character, you may play a Gray neutral card from your hand, decreasing its cost by 1."
+    },
+    {
+        "code": "12148",
+        "name": "Outdated Tech",
+        "text": "Modify opponent's <i>vehicle</i> support.\nBefore attached <i>vehicle's</i> support die is resolved, you may reduce its value by 1."
+    },
+    {
+        "code": "12149",
+        "name": "Eject",
+        "text": "Ambush.\nDiscard a <i>vehicle</i> you control to heal 2 damage from one of its piloting characters and give that character 2 shields."
+    },
+    {
+        "code": "12150",
+        "flavor": "There's a fine line between haggling and swindling",
+        "name": "Harmless Trick",
+        "text": "Spot a Gray character to remove a die."
+    },
+    {
+        "code": "12151",
+        "flavor": "\"Togu togu!\"",
+        "name": "Salvaged Parts",
+        "text": "Set aside 2 non-event cards from a discard pile. Then spot a <i>scavenger</i> to gain 1 resource."
+    },
+    {
+        "code": "12152",
+        "name": "Standoff",
+        "text": "Ambush.\nGive each character 1 shield."
+    },
+    {
+        "code": "12153",
+        "name": "Utinni!",
+        "text": "Spot up to 4 <i>Jawa</i> characters to discard that many cards from the top of a deck."
+    },
+    {
+        "code": "12154",
+        "name": "Merchant Freighter",
+        "text": "This support enters play with 3 resources on it.\nThis support can be activated.\nAfter you activate this support, you may remove 1 resource from it to gain 1 resource."
+    },
+    {
+        "code": "12155",
+        "flavor": "one of these mobile fortresses was large enough to contain an entire Jawa clan.",
+        "name": "Sandcrawler",
+        "text": "This support enters play exhausted.\n[special] - Discard the top 4 cards of your deck to add a set-aside Jawa Junk Dealer ([CM]147) to your team."
+    },
+    {
+        "code": "12156",
+        "name": "Wretched Hive",
+        "text": "<b>Action</b> - Exhaust this support and spot a <i>scavenger</i> to force an opponent to choose and discard a card from their hand unless they give you 1 resource."
+    },
+    {
+        "code": "12157",
+        "name": "Abandoned Refinery",
+        "subtitle": "Savereen",
+        "text": "<b>Power Action</b> - Discard a support or upgrade you control to play a support or upgrade from your hand, decreasing its cost by 1. Then draw a card."
+    },
+    {
+        "code": "12158",
+        "name": "Colossus",
+        "subtitle": "Castilon",
+        "text": "After any player's character begins piloting a <i>vehicle</i>, that player may take control of this battlefield.\nAfter you take control of this battlefield, you may reroll a die."
+    },
+    {
+        "code": "12159",
+        "name": "Pyke Syndicate Mine",
+        "subtitle": "Kessel",
+        "text": "<b>Claim</b> - Discard the top card of a deck, or the top 2 cards instead if you spot a diceless character. If a non-event card is discarded this way, gain 1 resource."
+    },
+    {
+        "code": "12160",
+        "name": "Valley of the Dark Lords",
+        "subtitle": "Moraband",
+        "text": "<b>Claim</b> - Remove a non-character die."
+    }
+]

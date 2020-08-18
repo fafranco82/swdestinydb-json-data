@@ -16,6 +16,10 @@
         "name": "Tüzérség"
     },
     {
+        "code": "bomb",
+        "name": "Bomba"
+    },
+    {
         "code": "bounty",
         "name": "Vérdíj"
     },
@@ -106,6 +110,10 @@
     {
         "code": "pilot",
         "name": "Pilóta"
+    },
+    {
+        "code": "pirate",
+        "name": "Kalóz"
     },
     {
         "code": "podracer",
