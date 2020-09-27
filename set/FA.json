@@ -1,0 +1,77 @@
+[
+    {
+        "affiliation_code": "villain",
+        "code": "14015",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "FN-2199",
+        "points": "10/13",
+        "position": 15,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+          "0RD",
+          "1MD",
+          "2MD",
+          "3MD1",
+          "1R",
+          "-"
+        ],
+        "subtitle": "Fierce Fighter",
+        "subtypes": [
+          "trooper"
+        ],
+        "text": "After setup, you may look at the top 4 cards of your deck, reveal a <b>weapon</b> from among them, and add it to your hand.\n<b>Power Action</b> - Roll a die on a <b>weapon</b> on this character into your pool and resolve it if able. Otherwise, remove it.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "14016",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": false,
+        "name": "Exposing Disloyalty",
+        "position": 16,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "text": "Look at 2 random cards in an opponent's hand. Then, if those cards do not share a color, discard one of them.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "14019",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": false,
+        "name": "TIE Striker",
+        "position": 19,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "2RD",
+            "+3RD",
+            "2ID",
+            "3ID1",
+            "2Dr",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "<b>Action</b> - If an opponent activated a <b>vehicle</b> during their last turn this round, you may disacrd another card from your hand to play this <b>vehicle</b> for free. After the upkeep phase begins, discard this support from play unless you discard the top 4 cards of your deck.",
+        "type_code": "support"
+    }
+]

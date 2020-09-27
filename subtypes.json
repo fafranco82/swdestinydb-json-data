@@ -108,6 +108,10 @@
         "name": "Nightbrother"
     },
     {
+        "code": "partisan",
+        "name": "Partisan"
+    },
+    {
         "code": "pilot",
         "name": "Pilot"
     },
@@ -142,6 +146,10 @@
     {
         "code": "spell",
         "name": "Spell"
+    },
+    {
+        "code": "spy",
+        "name": "Spy"
     },
     {
         "code": "title",

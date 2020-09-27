@@ -128,5 +128,15 @@
         "name": "Transformations",
         "position": 13,
         "size": 22
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "FA",
+        "cycle_code": "FA",
+        "date_release": "2020-10-15",
+        "name": "Faltering Allegiances",
+        "position": 14,
+        "size": 90
     }
 ]
