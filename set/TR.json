@@ -28,6 +28,7 @@
             "leader"
         ],
         "text": "Parallel die Anakin Skywalker ([CM]53).\nAfter you activate this character, deal 1 damage to him and 2 damage to another character. Then, if that character was just defeated, flip this character.",
+        "ttscardid": "53900",
         "type_code": "character"
     },
     {
@@ -58,6 +59,7 @@
             "sith"
         ],
         "text": "Parallel die Darth Vader ([AW]10).\n<b>Power Action</b> - Either remove all shields from a character, or resolve one of your dice as melee damage, increasing its value by 1. If an opponent has a defeated character, you may do both in any order.",
+        "ttscardid": "53901",
         "type_code": "character"
     },
     {
@@ -88,6 +90,7 @@
             "apprentice"
         ],
         "text": "Parallel die Luke Skywalker ([LEG]31).\nTeam Up 1: Obi-Wan Kenobi, Yoda.\nAfter the upkeep phase begins, if this character has 3 or more shields and 3 or more Blue upgrades with dice, you may spend 2 resources to flip him.",
+        "ttscardid": "53902",
         "type_code": "character"
     },
     {
@@ -118,6 +121,7 @@
             "jedi"
         ],
         "text": "Parallel die Luke Skywalker ([AW]35).\n<b>Power Action</b> - Either give this character 2 shields, or remove 2 shields from him to deal 2 damage to a character.  If this character has 3 or more Blue upgrades, you may do both in any order.",
+        "ttscardid": "53903",
         "type_code": "character"
     },
     {
@@ -140,6 +144,7 @@
             "jedi"
         ],
         "text": "Guardian.\nAfter this character is defeated, return him to play flipped and ready.\n<b>Action</b> - Spot another Blue character to remove a die showing damage. Defeat this character and, if he is elite, remove up to 3 dice.",
+        "ttscardid": "53904",
         "type_code": "character"
     },
     {
@@ -168,6 +173,7 @@
             "jedi"
         ],
         "text": "Parallel die One With the Force ([AW]42).\nIf this support would leave play, set it aside instead.\n<b>Power Action</b> - Give a Blue character 1 shield and reroll any number of its character and upgrade dice.",
+        "ttscardid": "53905",
         "type_code": "support"
     },
     {
@@ -185,6 +191,7 @@
         "rarity_code": "S",
         "set_code": "TR",
         "text": "After setup, if this plot is elite, add an additional copy of it to your team.\n<b>Action</b> - Play an event from your hand to reroll a die. Then flip this plot.",
+        "ttscardid": "53906",
         "type_code": "plot"
     },
     {
@@ -205,6 +212,7 @@
             "bomb"
         ],
         "text": "<b>Action</b> - Play a non-event card from your hand to deal 1 indirect damage to an opponent. If 2 or more <b>bomb</b> plots are in play, you may set them all aside and deal 4 indirect damage to an opponent. If you do not, flip this plot.",
+        "ttscardid": "53907",
         "type_code": "plot"
     },
     {
@@ -222,6 +230,7 @@
         "rarity_code": "S",
         "set_code": "TR",
         "text": "<b>Action</b> - If you control the battlefield and 5 or more dice in your pool are showing damage, force an opponent to name a character. Then flip this plot. If they did not name this character, make it elite.",
+        "ttscardid": "53908",
         "type_code": "plot"
     },
     {
@@ -244,6 +253,7 @@
             "trooper"
         ],
         "text": "After you activate this character, if it is elite, you may roll a character die on a character into its controler's pool. If you control the battlefield, you may roll a character die on a character into its controller's pool.",
+        "ttscardid": "53909",
         "type_code": "character"
     },
     {
@@ -266,6 +276,7 @@
             "trooper"
         ],
         "text": "After you activate this character, roll a Clone Trooper ([LEG]38) die into your pool, or 2 Clone Trooper dice instead if this character is elite.\nAfter a Clone Trooper die is rolled into your pool, you may reroll it. If you control the battlefield, you may reroll it again.",
+        "ttscardid": "53910",
         "type_code": "character"
     },
     {
@@ -289,6 +300,7 @@
             "trooper"
         ],
         "text": "After you activate this character, you may roll a Clone Trooper ([LEG]38) die into your pool and activate one of your Red characters. If this character is elite and you control the battlefield, spot any number of unique Red characters to deal that much indirect damage to an opponent.",
+        "ttscardid": "53911",
         "type_code": "character"
     },
     {
@@ -306,6 +318,7 @@
         "rarity_code": "S",
         "set_code": "TR",
         "text": "Team Up 1: Each unique <b>bounty hunter</b>.\nAfter you deal melee or ranged damage to a character with a <b>bounty</b> on it, you may exhaust this plot and flip it to attach it to that character.",
+        "ttscardid": "53912",
         "type_code": "plot"
     },
     {
@@ -326,6 +339,7 @@
             "bounty"
         ],
         "text": "If this downgrade would leave play, set it aside instead.\nAttached character cannot be activated.\n<b>Action</b> - Give the player that controls this downgrade 1 resource to flip it. Any player may use this ability.",
+        "ttscardid": "53913",
         "type_code": "plot"
     },
     {
@@ -346,6 +360,7 @@
             "mission"
         ],
         "text": "Team Up 1: Chewbacca, Lando Calrissian, Leia Organa, Luke Skywalker.\n<b>Action</b> - Play a card from your hand with a cost equal to the number of resources on this plot. Its cost cannot be decreased. Then place 1 resource on this plot and if it has 5 resources, flip it and exhaust it.",
+        "ttscardid": "53914",
         "type_code": "plot"
     },
     {
@@ -377,6 +392,7 @@
             "scoundrel"
         ],
         "text": "Piloting. Parallel die Han Solo ([AW]46).\nAfter you activate this character, remove 1 resource from him to gain 1 resource.\nAfter this character is defeated, lose all of your resources. Each opponent gains that many resources.",
+        "ttscardid": "53915",
         "type_code": "character"
     },
     {
@@ -394,6 +410,7 @@
         "rarity_code": "S",
         "set_code": "TR",
         "text": "Infinite format only. Choose 3 sets. You can only include other cards on your team and in your deck from those sets.\nAfter you play a card, if you played cards from all 3 sets this round, flip this plot.",
+        "ttscardid": "53916",
         "type_code": "plot"
     },
     {
@@ -411,6 +428,7 @@
         "rarity_code": "S",
         "set_code": "TR",
         "text": "Your dice cannot be turned by opponents.\nBefore the round ends, gain 1 resource.\nAfter an opponent plays a card, if they played cards from 3 different sets this round, flip this plot.",
+        "ttscardid": "53917",
         "type_code": "plot"
     },
     {
@@ -428,6 +446,7 @@
         "rarity_code": "S",
         "set_code": "TR",
         "text": "Include only if each character on your team is the same color.\nAfter an opponent removes one of your dice, you may roll it into your pool. Set this plot aside, or if it's elite, flip it instead.",
+        "ttscardid": "53918",
         "type_code": "plot"
     },
     {
@@ -445,6 +464,7 @@
         "rarity_code": "S",
         "set_code": "TR",
         "text": "After an opponent removes one of your character dice, you may spend 2 resources and discard 2 cards from your hand to ready that character. Set this plot aside.",
+        "ttscardid": "53919",
         "type_code": "plot"
     },
     {
@@ -462,6 +482,7 @@
         "set_code": "TR",
         "subtitle": "Ethereal Space",
         "text": "After the upkeep phase begins, heal 1 damage from each character. Flip this card.\n<b>Claim</b> - Heal 1 damage from a character. You may flip this card.",
+        "ttscardid": "53920",
         "type_code": "battlefield"
     },
     {
@@ -479,6 +500,7 @@
         "set_code": "TR",
         "subtitle": "Ethereal Space",
         "text": "After the upkeep phase begins, deal 1 damage to each character. Flip this card.\n<b>Claim</b> - Deal 1 damage to a character. You may flip this card.",
+        "ttscardid": "53921",
         "type_code": "battlefield"
     }
 ]
