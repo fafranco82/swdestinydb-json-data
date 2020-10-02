@@ -2,7 +2,7 @@
     "additionalProperties": false,
     "properties": {
         "code": {
-            "pattern": "^[0-9]{5}$",
+            "pattern": "^[0-9]{5}[A-Z]?$",
             "type": "string"
         },
         "flavor": {

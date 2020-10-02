@@ -15,16 +15,16 @@
         "rarity_code": "S",
         "set_code": "FA",
         "sides": [
-          "0RD",
-          "1MD",
-          "2MD",
-          "3MD1",
-          "1R",
-          "-"
+            "0RD",
+            "1MD",
+            "2MD",
+            "3MD1",
+            "1R",
+            "-"
         ],
         "subtitle": "Fierce Fighter",
         "subtypes": [
-          "trooper"
+            "trooper"
         ],
         "text": "After setup, you may look at the top 4 cards of your deck, reveal a <b>weapon</b> from among them, and add it to your hand.\n<b>Power Action</b> - Roll a die on a <b>weapon</b> on this character into your pool and resolve it if able. Otherwise, remove it.",
         "type_code": "character"
