@@ -31,9 +31,6 @@
                 }
             ]
         },
-        "double_sided": {
-            "type": "boolean"
-        },
         "faction_code": {
             "minLength": 1,
             "type": "string"
