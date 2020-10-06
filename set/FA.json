@@ -1,6 +1,81 @@
 [
     {
         "affiliation_code": "villain",
+        "code": "14003",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "Second Sister",
+        "points": "10/13",
+        "position": 3,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1MD",
+            "1F",
+            "1Sh",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Expert Duellist",
+        "subtypes": [
+            "inquisitor"
+        ],
+        "text": "After you activate this character, turn an opponent's die to a side showing on one of this character's character dice.\n[special] - Turn another one of your character dice to any side and resolve it, increasing its value by 1, or by 2 instead of it is showing the same symbol as an opponent's die.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "14007",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": false,
+        "name": "Unending Hate",
+        "position": 7,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "text": "Spot a <b>Sith</b> or an <b>Inquisitor</b> to turn an opponent's die to a side showing a blank ([blank]). Then deal damage to a character equal to the number of dice in that opponent's pool showing damage.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "14012",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": false,
+        "name": "Sith Warblade",
+        "position": 12,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "2MD",
+            "3MD",
+            "+4MD1",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Redeploy.\nBefore you resolve this die, deal 1 damage to attached character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "14015",
         "deck_limit": 1,
         "faction_code": "red",
@@ -71,7 +146,284 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "<b>Action</b> - If an opponent activated a <b>vehicle</b> during their last turn this round, you may disacrd another card from your hand to play this <b>vehicle</b> for free. After the upkeep phase begins, discard this support from play unless you discard the top 4 cards of your deck.",
+        "text": "<b>Action</b> - If an opponent activated a <b>vehicle</b> during their last turn this round, you may discard another card from your hand to play this <b>vehicle</b> for free. After the upkeep phase begins, discard this support from play unless you discard the top 4 cards of your deck.",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14031",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "Nicole Tammert",
+        "is_unique": true,
+        "name": "Cal Kestis",
+        "points": "11/15",
+        "position": 31,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1MD",
+            "2MD",
+            "+2MD",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Jedi In Hiding",
+        "subtypes": [
+            "jedi"
+        ],
+        "text": "You cannot play non-blue upgrades on this character.\nBefore you resolve this die, increase its value by 1 if you have an equipment, weapon and ability attached to this character.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14036",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "BD-1",
+        "position": 36,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1MD",
+            "1F",
+            "1Sh",
+            "1Sh",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "equipment",
+            "droid"
+        ],
+        "text": "<b>Power Action</b> - Spot a <b>Jedi</b> to move this upgrade to it.\n[special] - Heal 2 damage from attached character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14040",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "Cassian Andor",
+        "points": "10/12",
+        "position": 40,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "+1RD",
+            "+2RD",
+            "1F",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Rebellion Operative",
+        "subtypes": [
+            "spy"
+        ],
+        "text": "Detect.\nYou can include up to 4 different <b>intel</b> cards in your deck, ignoring affiliation and color.\n<b>Power Action</b> - Play a yellow card from your hand. Then you may spot a <b>leader</b> to ready a non-character card.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14042",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 13,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "Jyn Erso",
+        "points": "15/19",
+        "position": 42,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "2RD",
+            "3RD",
+            "3ID",
+            "2Dr",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Rebellion Operative",
+        "subtypes": [
+            "leader",
+            "spy"
+        ],
+        "text": "Detect.\nDetected cards cannot be played by opponents.\n<b>Power Action</b> - Discard a card from your hand to discard a detected card from the opponent's hand.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14048",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": false,
+        "name": "Master of Disguise",
+        "position": 48,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "2ID",
+            "1Sh",
+            "1R",
+            "Sp1",
+            "Sp1",
+            "-"
+        ],
+        "subtypes": [
+            "title"
+        ],
+        "text": "Spy character only.\nAfter you play this upgrade, choose a character in play.\nAttached character gains the subtypes of the chosen character.\n[special] - Resolve a character die that shares a subtype with the attached character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14050",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "Greez Dritus",
+        "points": "8/11",
+        "position": 50,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1ID",
+            "1F",
+            "1Dc",
+            "1R",
+            "2R1",
+            "-"
+        ],
+        "subtitle": "Cantankerous Pilot",
+        "subtypes": [
+            "engineer",
+            "pilot"
+        ],
+        "text": "Piloting.\nAfter you activate this character, choose a number. Reveal the top card of your deck. If the revealed card's cost is the same as the number chosen, turn up to two of your dice to any side. Otherwise, force an opponent to remove one of your dice.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14052",
+        "deck_limit": 3,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "ARN",
+        "is_unique": false,
+        "name": "Rebel Partisan",
+        "points": "8",
+        "position": 52,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1ID",
+            "2ID",
+            "1Dc",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "partisan"
+        ],
+        "text": "After the last card in your hand is discarded, discard the top card of your deck to deal 1 indirect damage to an opponent.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14053",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "Saw Gerrera",
+        "points": "17/15",
+        "position": 53,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "3ID",
+            "4ID",
+            "4ID",
+            "5ID1",
+            "3Dr",
+            "-"
+        ],
+        "subtitle": "Ruthless Extremist",
+        "subtypes": [
+            "partisan",
+            "trooper"
+        ],
+        "text": "After this die is rolled or turned during the action phase, if this character is elite, deal 1 indirect damage to yourself.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14057",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": false,
+        "name": "Reckless Ambush",
+        "position": 57,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "text": "Spot a <b>scoundrel</b> or <b>partisan</b> to deal 2 indirect damage to yourself and remove a non-character die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "14080",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": false,
+        "name": "Forewarned",
+        "position": 80,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "subtypes": [
+            "intel"
+        ],
+        "text": "Remove a die showing a value less than the cost of a detected card in an opponent's hand.",
+        "type_code": "event"
     }
 ]
+
