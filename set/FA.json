@@ -317,7 +317,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "Discard this upgrade from play if you control Cal Kestis' Lightsaber.\nWhile this upgrade is on Jaro Tapal, it has redeploy.\n<b>Power Action</b> - Discard this upgrade from play to play Cal Kestis' Lightsaber from your hand or discard pile on attached character for free.",
+        "text": "Discard this upgrade from play if you control Cal Kestis' Lightsaber.\nWhile this upgrade is on Jaro Tapal, it has redeploy.\n<b>Power Action</b> - Discard this upgrade from play to play Cal Kestis' Lightsaber from your hand on attached character for free.",
         "type_code": "upgrade"
     },
     {
