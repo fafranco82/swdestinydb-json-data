@@ -26,7 +26,7 @@
         "subtypes": [
             "inquisitor"
         ],
-        "text": "After you activate this character, turn an opponent's die to a side showing on one of this character's character dice.\n[special] - Turn another one of your character dice to any side and resolve it, increasing its value by 1, or by 2 instead of it is showing the same symbol as an opponent's die.",
+        "text": "After you activate this character, turn an opponent's die to a side showing on one of this character's character dice.\n[special] - Turn another one of your character dice to any side and resolve it, increasing its value by 1, or by 2 instead if it is showing the same symbol as an opponent's die.",
         "type_code": "character"
     },
     {
@@ -72,6 +72,34 @@
             "weapon"
         ],
         "text": "Redeploy.\nBefore you resolve this die, deal 1 damage to attached character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "14013",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "Taron's Lightsaber",
+        "position": 13,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "2MD",
+            "2MD",
+            "+2MD",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "While this upgrade is on Taron Malicos, your copies of it are non-unique.\nAfter you play this upgrade, remove all shields from a character. If 3 or more shields are removed this way, deal 1 damage to that character.",
         "type_code": "upgrade"
     },
     {
@@ -150,6 +178,34 @@
         "type_code": "support"
     },
     {
+        "affiliation_code": "villain",
+        "code": "14020",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "FN-2199's Riot Baton",
+        "position": 20,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1MD",
+            "1MD",
+            "2MD",
+            "1Dr",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "After attached <b>trooper</b> takes damage, you may exhaust this upgrade to roll this die into your pool and resolve it, if able. Otherwise, remove it.\n[special] - Deal 3 damage to a non-unique character or remove a unique character's character or upgrade die.",
+        "type_code": "upgrade"
+    },
+    {
         "affiliation_code": "hero",
         "code": "14031",
         "deck_limit": 1,
@@ -206,6 +262,62 @@
             "droid"
         ],
         "text": "<b>Power Action</b> - Spot a <b>Jedi</b> to move this upgrade to it.\n[special] - Heal 2 damage from attached character.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14037",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "Cal Kestis' Lightsaber",
+        "position": 37,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "2MD",
+            "2MD1",
+            "+3MD",
+            "1Sh",
+            "2Sh1",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "<b>Power Action</b> - If this upgrade is on Cal Kestis, turn this die to any side. If this die is not showing damage, you may roll a set-aside copy of this die into your pool. Set that die aside after it is resolved or removed.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14039",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "Jaro Tapal's Lightsaber",
+        "position": 39,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1MD",
+            "2MD",
+            "+2MD",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Discard this upgrade from play if you control Cal Kestis' Lightsaber.\nWhile this upgrade is on Jaro Tapal, it has redeploy.\n<b>Power Action</b> - Discard this upgrade from play to play Cal Kestis' Lightsaber from your hand on attached character for free.",
         "type_code": "upgrade"
     },
     {
@@ -268,6 +380,62 @@
         ],
         "text": "Detect.\nDetected cards cannot be played by opponents.\n<b>Power Action</b> - Discard a card from your hand to discard a detected card from the opponent's hand.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14046",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "Cassian's Blaster",
+        "position": 46,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1RD",
+            "2RD",
+            "+3RD1",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Redeploy.\n<b>Action</b> - Resolve this die showing ranged damage, increasing its value by 1. If this upgrade is on Cassian Andor, that damage is unblockable.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14047",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "Jyn Erso's Blaster",
+        "position": 47,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1RD",
+            "2RD",
+            "3RD1",
+            "2ID",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Red character only.\nAfter you play this upgrade choose and do 1, or 2 if this upgrade is on Jyn Erso:\n- Roll this die into your pool.\n- Resolve one of your dice.\n- Activate a character.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "hero",
@@ -404,6 +572,34 @@
         "set_code": "FA",
         "text": "Spot a <b>scoundrel</b> or <b>partisan</b> to deal 2 indirect damage to yourself and remove a non-character die.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14060",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARN",
+        "is_unique": true,
+        "name": "Saw's RPS-6 Rocket Launcher",
+        "position": 60,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "+2ID1",
+            "+3ID",
+            "+4ID",
+            "+5ID",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "This die cannot modify other dice.\n<b>Power Action</b> - Resolve this die against yourself, as if it were not showing a modifier. Then deal damage to an opponent equal to the number of characters you can spot plus 1.",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",
