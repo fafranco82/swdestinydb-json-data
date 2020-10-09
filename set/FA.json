@@ -7,7 +7,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 11,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "Second Sister",
         "points": "10/13",
@@ -22,11 +22,11 @@
             "Sp",
             "-"
         ],
-        "subtitle": "Expert Duellist",
+        "subtitle": "Expert Duelist",
         "subtypes": [
             "inquisitor"
         ],
-        "text": "After you activate this character, turn an opponent's die to a side showing on one of this character's character dice.\n[special] - Turn another one of your character dice to any side and resolve it, increasing its value by 1, or by 2 instead if it is showing the same symbol as an opponent's die.",
+        "text": "After you activate this character, turn an opponent's die to a symbol showing on one of this character's character dice\n[special] - Turn another one of your character dice to any side and resolve it, increasing its value by 1, or by 2 instead if it is showing the same symbol as an opponent's die.",
         "type_code": "character"
     },
     {
@@ -37,13 +37,13 @@
         "faction_code": "blue",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": false,
         "name": "Unending Hate",
         "position": 7,
         "rarity_code": "S",
         "set_code": "FA",
-        "text": "Spot a <b>Sith</b> or an <b>Inquisitor</b> to turn an opponent's die to a side showing a blank ([blank]). Then deal damage to a character equal to the number of dice in that opponent's pool showing damage.",
+        "text": "Spot a <b>Sith</b> or <b>Inquisitor</b> to turn an opponent's die to a side showing a blank. Then deal damage to a character equal to the number of dice in that opponent's pool showing a blank.",
         "type_code": "event"
     },
     {
@@ -54,7 +54,7 @@
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": false,
         "name": "Sith Warblade",
         "position": 12,
@@ -82,7 +82,7 @@
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "Taron's Lightsaber",
         "position": 13,
@@ -110,7 +110,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 9,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "FN-2199",
         "points": "10/13",
@@ -140,7 +140,7 @@
         "faction_code": "red",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": false,
         "name": "Exposing Disloyalty",
         "position": 16,
@@ -157,7 +157,7 @@
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": false,
         "name": "TIE Striker",
         "position": 19,
@@ -174,18 +174,18 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "<b>Action</b> - If an opponent activated a <b>vehicle</b> during their last turn this round, you may discard another card from your hand to play this <b>vehicle</b> for free. After the upkeep phase begins, discard this support from play unless you discard the top 4 cards of your deck.",
+        "text": "<b>Action</b> - If an opponent activated a <b>vehicle</b> during their last turn this round, you may discard another card from your hand to play this <b>vehicle</b> from your hand for free. After the upkeep phase begins, discard this support from play unless you discard the top 4 cards of your deck.",
         "type_code": "support"
     },
     {
         "affiliation_code": "villain",
         "code": "14020",
-        "cost": 3,
+        "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "FN-2199's Riot Baton",
         "position": 20,
@@ -202,7 +202,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "After attached <b>trooper</b> takes damage, you may exhaust this upgrade to roll this die into your pool and resolve it, if able. Otherwise, remove it.\n[special] - Deal 3 damage to a non-unique character or remove a unique character's character or upgrade die.",
+        "text": "After attached <b>trooper</b> character takes damage, you may exhaust this upgrade to roll this die into your pool and resolve it, if able. Otherwise, remove it.\n[special] - Deal 3 damage to a non-unique character or remove a unique character's character or upgrade die.",
         "type_code": "upgrade"
     },
     {
@@ -228,11 +228,11 @@
             "1R",
             "-"
         ],
-        "subtitle": "Jedi In Hiding",
+        "subtitle": "Jedi in Hiding",
         "subtypes": [
             "jedi"
         ],
-        "text": "You cannot play non-blue upgrades on this character.\nBefore you resolve this die, increase its value by 1 if you have an equipment, weapon and ability attached to this character.",
+        "text": "You cannot play non-Blue upgrades on this character.\nBefore you resolve this die, increase its value by 1 if you have an <b>equipment</b>, <b>weapon</b> and <b>ability</b> attached to this character.",
         "type_code": "character"
     },
     {
@@ -243,7 +243,7 @@
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "BD-1",
         "position": 36,
@@ -261,7 +261,7 @@
             "equipment",
             "droid"
         ],
-        "text": "<b>Power Action</b> - Spot a <b>Jedi</b> to move this upgrade to it.\n[special] - Heal 2 damage from attached character.",
+        "text": "<b>Power Action</b> - Spot a <b>Jedi</b> character to move this upgrade to it.\n[special] - Heal 2 damage from attached character",
         "type_code": "upgrade"
     },
     {
@@ -272,7 +272,7 @@
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "Cal Kestis' Lightsaber",
         "position": 37,
@@ -300,7 +300,7 @@
         "faction_code": "blue",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "Jaro Tapal's Lightsaber",
         "position": 39,
@@ -317,7 +317,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "Discard this upgrade from play if you control Cal Kestis' Lightsaber.\nWhile this upgrade is on Jaro Tapal, it has redeploy.\n<b>Power Action</b> - Discard this upgrade from play to play Cal Kestis' Lightsaber from your hand on attached character for free.",
+        "text": "Discard this upgrade from play if you control Cal Kestis' Lightsaber. While this upgrade is on Jaro Tapal, it has redeploy.\n<b>Power Action</b> - Discard this upgrade from play to play Cal Kestis' Lightsaber from your hand on attached character for free.",
         "type_code": "upgrade"
     },
     {
@@ -328,7 +328,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 10,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "Cassian Andor",
         "points": "10/12",
@@ -343,11 +343,11 @@
             "1R",
             "-"
         ],
-        "subtitle": "Rebellion Operative",
+        "subtitle": "Efficient Agent",
         "subtypes": [
             "spy"
         ],
-        "text": "Detect.\nYou can include up to 4 different <b>intel</b> cards in your deck, ignoring affiliation and color.\n<b>Power Action</b> - Play a yellow card from your hand. Then you may spot a <b>leader</b> to ready a non-character card.",
+        "text": "Detect.\nYou can include up to 4 different <b>intel</b> cards in your deck, ignoring affiliation and color.\n<b>Power Action</b> - Play a Yellow card from your hand. Then you may spot a <b>leader</b> to ready a on-character card.",
         "type_code": "character"
     },
     {
@@ -358,7 +358,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 13,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "Jyn Erso",
         "points": "15/19",
@@ -375,10 +375,10 @@
         ],
         "subtitle": "Rebellion Operative",
         "subtypes": [
-            "leader",
-            "spy"
+            "spy",
+            "leader"
         ],
-        "text": "Detect.\nDetected cards cannot be played by opponents.\n<b>Power Action</b> - Discard a card from your hand to discard a detected card from the opponent's hand.",
+        "text": "Detect.\nDetected cards cannot be played by opponents.\n<b>Power Action</b> - Discard a card from your hand to discard a detected card from an opponent's hand.",
         "type_code": "character"
     },
     {
@@ -389,7 +389,7 @@
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "Cassian's Blaster",
         "position": 46,
@@ -417,7 +417,7 @@
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "Jyn Erso's Blaster",
         "position": 47,
@@ -434,7 +434,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "Red character only.\nAfter you play this upgrade choose and do 1, or 2 if this upgrade is on Jyn Erso:\n- Roll this die into your pool.\n- Resolve one of your dice.\n- Activate a character.",
+        "text": "Red character only.\nAfter you play this upgrade choose and do 1, or choose 2 if this upgrade is on Jyn Erso:n\n- Roll this die into your pool.\n- Resolve one of your dice.\n- Activate a character.",
         "type_code": "upgrade"
     },
     {
@@ -445,7 +445,7 @@
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": false,
         "name": "Master of Disguise",
         "position": 48,
@@ -462,7 +462,7 @@
         "subtypes": [
             "title"
         ],
-        "text": "Spy character only.\nAfter you play this upgrade, choose a character in play.\nAttached character gains the subtypes of the chosen character.\n[special] - Resolve a character die that shares a subtype with the attached character.",
+        "text": "<b>Spy</b> character only.\nAfter you play this upgrade, choose a character in play. Attached character gains the subtypes of the chosen character.\n[special] - Resolve a character die that shares a subtype with the attached character.",
         "type_code": "upgrade"
     },
     {
@@ -473,7 +473,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 8,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "Greez Dritus",
         "points": "8/11",
@@ -498,17 +498,17 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "14052",
+        "code": "14051",
         "deck_limit": 3,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
         "health": 8,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": false,
         "name": "Rebel Partisan",
         "points": "8",
-        "position": 52,
+        "position": 51,
         "rarity_code": "S",
         "set_code": "FA",
         "sides": [
@@ -527,17 +527,17 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "14053",
+        "code": "14052",
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
         "health": 12,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "Saw Gerrera",
         "points": "17/15",
-        "position": 53,
+        "position": 52,
         "rarity_code": "S",
         "set_code": "FA",
         "sides": [
@@ -558,16 +558,16 @@
     },
     {
         "affiliation_code": "hero",
-        "code": "14057",
+        "code": "14056",
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": false,
         "name": "Reckless Ambush",
-        "position": 57,
+        "position": 56,
         "rarity_code": "S",
         "set_code": "FA",
         "text": "Spot a <b>scoundrel</b> or <b>partisan</b> to deal 2 indirect damage to yourself and remove a non-character die.",
@@ -581,7 +581,7 @@
         "faction_code": "yellow",
         "has_die": true,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": true,
         "name": "Saw's RPS-6 Rocket Launcher",
         "position": 60,
@@ -598,7 +598,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "This die cannot modify other dice.\n<b>Power Action</b> - Resolve this die against yourself, as if it were not showing a modifier. Then deal damage to an opponent equal to the number of characters you can spot plus 1.",
+        "text": "This die cannot modify other dice.\n<b>Power Action</b> - Resolve this die against yourself, as if it were not showing a modifier. Then deal indirect damage to an opponent equal to the number of damaged characters you can spot plus 1.",
         "type_code": "upgrade"
     },
     {
@@ -609,7 +609,7 @@
         "faction_code": "yellow",
         "has_die": false,
         "has_errata": false,
-        "illustrator": "ARN",
+        "illustrator": "ARH",
         "is_unique": false,
         "name": "Forewarned",
         "position": 80,
