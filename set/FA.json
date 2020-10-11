@@ -27,6 +27,7 @@
             "inquisitor"
         ],
         "text": "After you activate this character, turn an opponent's die to a symbol showing on one of this character's character dice\n[special] - Turn another one of your character dice to any side and resolve it, increasing its value by 1, or by 2 instead if it is showing the same symbol as an opponent's die.",
+        "ttscardid": "55002",
         "type_code": "character"
     },
     {
@@ -44,6 +45,7 @@
         "rarity_code": "S",
         "set_code": "FA",
         "text": "Spot a <b>Sith</b> or <b>Inquisitor</b> to turn an opponent's die to a side showing a blank. Then deal damage to a character equal to the number of dice in that opponent's pool showing a blank.",
+        "ttscardid": "55006",
         "type_code": "event"
     },
     {
@@ -72,6 +74,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nBefore you resolve this die, deal 1 damage to attached character.",
+        "ttscardid": "55011",
         "type_code": "upgrade"
     },
     {
@@ -100,6 +103,7 @@
             "weapon"
         ],
         "text": "While this upgrade is on Taron Malicos, your copies of it are non-unique.\nAfter you play this upgrade, remove all shields from a character. If 3 or more shields are removed this way, deal 1 damage to that character.",
+        "ttscardid": "55012",
         "type_code": "upgrade"
     },
     {
@@ -130,6 +134,7 @@
             "trooper"
         ],
         "text": "After setup, you may look at the top 4 cards of your deck, reveal a <b>weapon</b> from among them, and add it to your hand.\n<b>Power Action</b> - Roll a die on a <b>weapon</b> on this character into your pool and resolve it if able. Otherwise, remove it.",
+        "ttscardid": "55014",
         "type_code": "character"
     },
     {
@@ -147,6 +152,7 @@
         "rarity_code": "S",
         "set_code": "FA",
         "text": "Look at 2 random cards in an opponent's hand. Then, if those cards do not share a color, discard one of them.",
+        "ttscardid": "55015",
         "type_code": "event"
     },
     {
@@ -175,12 +181,13 @@
             "vehicle"
         ],
         "text": "<b>Action</b> - If an opponent activated a <b>vehicle</b> during their last turn this round, you may discard another card from your hand to play this <b>vehicle</b> from your hand for free. After the upkeep phase begins, discard this support from play unless you discard the top 4 cards of your deck.",
+        "ttscardid": "55018",
         "type_code": "support"
     },
     {
         "affiliation_code": "villain",
         "code": "14020",
-        "cost": 2,
+        "cost": 3,
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": true,
@@ -203,7 +210,86 @@
             "weapon"
         ],
         "text": "After attached <b>trooper</b> character takes damage, you may exhaust this upgrade to roll this die into your pool and resolve it, if able. Otherwise, remove it.\n[special] - Deal 3 damage to a non-unique character or remove a unique character's character or upgrade die.",
+        "ttscardid": "55019",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "14022",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Bazine Netal",
+        "points": "12/14",
+        "position": 22,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1F",
+            "1Dr",
+            "2Sh",
+            "1R",
+            "+2R",
+            "-"
+        ],
+        "subtitle": "First Order Informant",
+        "subtypes": [
+            "spy"
+        ],
+        "text": "Detect.\nAfter an opponent plays a detected card, you may deal 1 damage to a character.\n<b>Power Action</b> - Remove this die showing a resource to place or remove up to 2 resources on a non-character card.",
+        "ttscardid": "55021",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "14025",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Extort Cooperation",
+        "position": 25,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1R1",
+            "2R1",
+            "2R1",
+            "3R1",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "intel"
+        ],
+        "text": "When you resolve this die showing a resource, place those resources on this downgrade instead of gaining them.\n<b>Action</b> - Remove a number of resources equal to the point value of attached character from this downgrade and discard it to take control of attached character.",
+        "ttscardid": "55024",
+        "type_code": "downgrade"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "14028",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Rotten Deal",
+        "position": 28,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "text": "Force an opponent to look at the top 2 cards of their deck, then reveal one of them. You may play either of those two cards for free. Then the opponent may play the remaining card for free.",
+        "ttscardid": "55027",
+        "type_code": "event"
     },
     {
         "affiliation_code": "hero",
@@ -233,6 +319,7 @@
             "jedi"
         ],
         "text": "You cannot play non-Blue upgrades on this character.\nBefore you resolve this die, increase its value by 1 if you have an <b>equipment</b>, <b>weapon</b> and <b>ability</b> attached to this character.",
+        "ttscardid": "55030",
         "type_code": "character"
     },
     {
@@ -262,6 +349,7 @@
             "droid"
         ],
         "text": "<b>Power Action</b> - Spot a <b>Jedi</b> character to move this upgrade to it.\n[special] - Heal 2 damage from attached character",
+        "ttscardid": "55035",
         "type_code": "upgrade"
     },
     {
@@ -290,6 +378,7 @@
             "weapon"
         ],
         "text": "<b>Power Action</b> - If this upgrade is on Cal Kestis, turn this die to any side. If this die is not showing damage, you may roll a set-aside copy of this die into your pool. Set that die aside after it is resolved or removed.",
+        "ttscardid": "55036",
         "type_code": "upgrade"
     },
     {
@@ -318,6 +407,7 @@
             "weapon"
         ],
         "text": "Discard this upgrade from play if you control Cal Kestis' Lightsaber. While this upgrade is on Jaro Tapal, it has redeploy.\n<b>Power Action</b> - Discard this upgrade from play to play Cal Kestis' Lightsaber from your hand on attached character for free.",
+        "ttscardid": "55038",
         "type_code": "upgrade"
     },
     {
@@ -347,7 +437,8 @@
         "subtypes": [
             "spy"
         ],
-        "text": "Detect.\nYou can include up to 4 different <b>intel</b> cards in your deck, ignoring affiliation and color.\n<b>Power Action</b> - Play a Yellow card from your hand. Then you may spot a <b>leader</b> to ready a on-character card.",
+        "text": "Detect.\nYou can include up to 4 different <b>intel</b> cards in your deck, ignoring affiliation and color.\n<b>Power Action</b> - Play a Yellow card from your hand. Then you may spot a <b>leader</b> to ready a non-character card.",
+        "ttscardid": "55039",
         "type_code": "character"
     },
     {
@@ -379,6 +470,7 @@
             "leader"
         ],
         "text": "Detect.\nDetected cards cannot be played by opponents.\n<b>Power Action</b> - Discard a card from your hand to discard a detected card from an opponent's hand.",
+        "ttscardid": "55041",
         "type_code": "character"
     },
     {
@@ -407,6 +499,7 @@
             "weapon"
         ],
         "text": "Redeploy.\n<b>Action</b> - Resolve this die showing ranged damage, increasing its value by 1. If this upgrade is on Cassian Andor, that damage is unblockable.",
+        "ttscardid": "55045",
         "type_code": "upgrade"
     },
     {
@@ -434,7 +527,8 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "Red character only.\nAfter you play this upgrade choose and do 1, or choose 2 if this upgrade is on Jyn Erso:n\n- Roll this die into your pool.\n- Resolve one of your dice.\n- Activate a character.",
+        "text": "Red character only.\nAfter you play this upgrade choose and do 1, or choose 2 if this upgrade is on Jyn Erso:\n- Roll this die into your pool.\n- Resolve one of your dice.\n- Activate a character.",
+        "ttscardid": "55046",
         "type_code": "upgrade"
     },
     {
@@ -463,6 +557,7 @@
             "title"
         ],
         "text": "<b>Spy</b> character only.\nAfter you play this upgrade, choose a character in play. Attached character gains the subtypes of the chosen character.\n[special] - Resolve a character die that shares a subtype with the attached character.",
+        "ttscardid": "55047",
         "type_code": "upgrade"
     },
     {
@@ -494,6 +589,7 @@
             "pilot"
         ],
         "text": "Piloting.\nAfter you activate this character, choose a number. Reveal the top card of your deck. If the revealed card's cost is the same as the number chosen, turn up to two of your dice to any side. Otherwise, force an opponent to remove one of your dice.",
+        "ttscardid": "55049",
         "type_code": "character"
     },
     {
@@ -523,6 +619,7 @@
             "partisan"
         ],
         "text": "After the last card in your hand is discarded, discard the top card of your deck to deal 1 indirect damage to an opponent.",
+        "ttscardid": "55050",
         "type_code": "character"
     },
     {
@@ -554,6 +651,7 @@
             "trooper"
         ],
         "text": "After this die is rolled or turned during the action phase, if this character is elite, deal 1 indirect damage to yourself.",
+        "ttscardid": "55051",
         "type_code": "character"
     },
     {
@@ -571,6 +669,7 @@
         "rarity_code": "S",
         "set_code": "FA",
         "text": "Spot a <b>scoundrel</b> or <b>partisan</b> to deal 2 indirect damage to yourself and remove a non-character die.",
+        "ttscardid": "55055",
         "type_code": "event"
     },
     {
@@ -599,7 +698,29 @@
             "weapon"
         ],
         "text": "This die cannot modify other dice.\n<b>Power Action</b> - Resolve this die against yourself, as if it were not showing a modifier. Then deal indirect damage to an opponent equal to the number of damaged characters you can spot plus 1.",
+        "ttscardid": "55059",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "14072",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Kamino Cloning Facility",
+        "position": 72,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "subtypes": [
+            "location"
+        ],
+        "text": "After you resolve a Red die, you may place 1 resource on this support.\n<b>Action</b> - If this support has 11 or more resources on it, discard it and spend 2 resources to add a set-aside non-unique <b>trooper</b> character that matches your team's affiliation to your team.",
+        "ttscardid": "55101",
+        "type_code": "support"
     },
     {
         "affiliation_code": "neutral",
@@ -619,6 +740,7 @@
             "intel"
         ],
         "text": "Remove a die showing a value less than the cost of a detected card in an opponent's hand.",
+        "ttscardid": "55109",
         "type_code": "event"
     }
 ]
