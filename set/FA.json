@@ -324,6 +324,37 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "14032",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Sifo-Dyas",
+        "points": "9/12",
+        "position": 32,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1F",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Foreseer of War",
+        "subtypes": [
+            "jedi"
+        ],
+        "text": "After you activate this character, you may reveal the top card of your deck. If it is Blue, you may draw it. Otherwise, discard it.",
+        "ttscardid": "55031",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "14036",
         "cost": 1,
         "deck_limit": 2,
@@ -699,6 +730,54 @@
         ],
         "text": "This die cannot modify other dice.\n<b>Power Action</b> - Resolve this die against yourself, as if it were not showing a modifier. Then deal indirect damage to an opponent equal to the number of damaged characters you can spot plus 1.",
         "ttscardid": "55059",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "14065",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Form Drills",
+        "position": 65,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "text": "Choose 2 different set-aside <b>move</b> events, reveal them, and shuffle them into your deck.",
+        "ttscardid": "55064",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "14069",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Shii-Cho Mastery",
+        "position": 69,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "3ID",
+            "3ID",
+            "3ID",
+            "2Dc",
+            "Sp",
+            "Sp"
+        ],
+        "subtypes": [
+            "ability",
+            "form"
+        ],
+        "text": "Blue character only.\nLimit 1 <b>form</b> per character.\nAfter you play this upgrade, you may spend 2 resources to discard a <b>weapon</b> from play.\n[special] - Turn a die showing damage to a side not showing damage. Then turn a die to a side showing melee damage.",
+        "ttscardid": "55068",
         "type_code": "upgrade"
     },
     {
