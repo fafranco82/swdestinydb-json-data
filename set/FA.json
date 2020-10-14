@@ -50,6 +50,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "14009",
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "The Inquisitorius",
+        "points": "1",
+        "position": 9,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "text": "Include only if each character on your team is an <b>Inquisitor</b>.\n<b>Action</b> - Exhaust this plot to turn an opponent's character die to a side showing a blank.",
+        "ttscardid": "55008",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "14012",
         "cost": 3,
         "deck_limit": 2,
@@ -275,6 +293,24 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "14027",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Bounty Averted",
+        "position": 27,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "text": "Spot a <b>bounty hunter</b> and discard any number of <b>bounties</b> from an opponent's character. Then remove that number of that character's character or upgrade dice.",
+        "ttscardid": "55026",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "14028",
         "cost": 2,
         "deck_limit": 2,
@@ -408,8 +444,37 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "<b>Power Action</b> - If this upgrade is on Cal Kestis, turn this die to any side. If this die is not showing damage, you may roll a set-aside copy of this die into your pool. Set that die aside after it is resolved or removed.",
+        "text": "<b>Power Action</b> - If this upgrade is on Cal Kestis, turn this die to any side. If this die is showing a non-damage side, you may roll a set-aside copy of this die into your pool. Set that die aside after it is resolved or removed.",
         "ttscardid": "55036",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14038",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Force Repulse",
+        "position": 38,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "2ID",
+            "3ID",
+            "2Sh",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "<b>Jedi</b> character only.\n[special] - Turn each other character's character dice to sides showing a blank. Then, for each die turned, deal 1 damage to its matching character.",
+        "ttscardid": "55037",
         "type_code": "upgrade"
     },
     {
@@ -506,6 +571,24 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "14044",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Rebel Schemes",
+        "position": 44,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "text": "Activate a character you control with detect. Then, instead of triggering their detect, reveal an opponent's hand and choose a card from it. That card remains revealed until the end of the action phase. (It is detected)",
+        "ttscardid": "55043",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "14046",
         "cost": 3,
         "deck_limit": 2,
@@ -590,6 +673,37 @@
         "text": "<b>Spy</b> character only.\nAfter you play this upgrade, choose a character in play. Attached character gains the subtypes of the chosen character.\n[special] - Resolve a character die that shares a subtype with the attached character.",
         "ttscardid": "55047",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "14049",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Babu Frik",
+        "points": "10/12",
+        "position": 49,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1ID",
+            "1ID",
+            "2Sh",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Master Droidsmith",
+        "subtypes": [
+            "engineer"
+        ],
+        "text": "This character cannot be dealt melee or ranged damage from <b>vehicle</b> dice.\n<b>Power Action</b> - Discard a card from your hand to either turn a <b>droid</b> die to any side, or play a <b>droid</b> from any discard pile decreasing its cost by 1.",
+        "ttscardid": "55048",
+        "type_code": "character"
     },
     {
         "affiliation_code": "hero",
@@ -705,6 +819,35 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "14058",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "Naomie Fontaine",
+        "is_unique": true,
+        "name": "Stinger Mantis",
+        "position": 58,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "sides": [
+            "1F",
+            "2F1",
+            "2Dc",
+            "1Sh",
+            "2Sh",
+            "2R"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After you exhaust this support, you may discard a card from your had to draw a card.\n<b>Power Action</b> - Exhaust this support to force an opponent to lose 1 resource, or 2 resources instead if you have fewer characters in play than that opponent.",
+        "ttscardid": "55057",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "14060",
         "cost": 2,
         "deck_limit": 2,
@@ -731,6 +874,27 @@
         "text": "This die cannot modify other dice.\n<b>Power Action</b> - Resolve this die against yourself, as if it were not showing a modifier. Then deal indirect damage to an opponent equal to the number of damaged characters you can spot plus 1.",
         "ttscardid": "55059",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "14062",
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Intelligence Operation",
+        "points": "-1",
+        "position": 62,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "subtypes": [
+            "mission"
+        ],
+        "text": "Include only if each character on your team is a <b>spy</b>.\nThis card does not ready during the upkeep phase.\n<b>Action</b> - Exhaust this plot to play a detected card.",
+        "ttscardid": "55061",
+        "type_code": "plot"
     },
     {
         "affiliation_code": "neutral",
@@ -821,6 +985,48 @@
         "text": "Remove a die showing a value less than the cost of a detected card in an opponent's hand.",
         "ttscardid": "55109",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "14083",
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Extremist Campaign",
+        "points": "-1",
+        "position": 83,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "subtypes": [
+            "mission"
+        ],
+        "text": "You can only include Yellow characters on your team.\nDuring setup, you lose the starting character roll.\nAfter setup, shuffle 2 set-aside copies each of Disable ([EaW] 137), Rebel ([SoR] 112), and Act of Cruelty ([AtG] 38) into your deck.",
+        "ttscardid": "55112",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "14087",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Restraining Bolt",
+        "position": 87,
+        "rarity_code": "S",
+        "set_code": "FA",
+        "subtypes": [
+            "mod"
+        ],
+        "text": "Modify opponent's <b>droid</b> character or support.\nThe attached character or support's dice cannot be turned.",
+        "ttscardid": "55116",
+        "type_code": "downgrade"
     }
 ]
 
