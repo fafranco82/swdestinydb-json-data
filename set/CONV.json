@@ -1136,7 +1136,7 @@
         "position": 46,
         "rarity_code": "C",
         "set_code": "CONV",
-        "text": "Resolve one of your dice showing ranged or melee damage ([ranged] or [melee]) against a character, increasing it's value by the number of <i>bounty</i> downgrades on that character.",
+        "text": "Resolve one of your dice showing ranged or melee damage ([ranged] or [melee]) against a character, increasing its value by the number of <i>bounty</i> downgrades on that character.",
         "ttscardid": "49945",
         "type_code": "event"
     },
