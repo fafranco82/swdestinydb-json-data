@@ -579,7 +579,7 @@
         ],
         "subtitle": "Cybernetic Killer",
         "subtypes": [
-            "bounty hunter",
+            "bounty-hunter",
             "droid"
         ],
         "text": "Detect.\nBefore you resolve this die showing damage, you may increase its value by one for each detected card in an opponent's hand.\n<b>Power Action</b> - Activate this character. Then, if an opponent has two or more detected cards in their hand, gain 1 action.",
@@ -2166,4 +2166,3 @@
         "type_code": "upgrade"
     }
 ]
-
