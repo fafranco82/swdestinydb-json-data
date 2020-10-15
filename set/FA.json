@@ -2032,6 +2032,7 @@
     {
         "affiliation_code": "neutral",
         "code": "14085",
+        "cost": 1,
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
