@@ -324,7 +324,7 @@
         "deck_limit": 4,
         "faction_code": "red",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 7,
         "illustrator": "ARH",
         "is_unique": false,
@@ -344,7 +344,7 @@
         "subtypes": [
             "spy"
         ],
-        "text": "Detect.\nBefore an opponent discards a card, you may force them to discard one of their detected cards instead. (The opponent chooses the card)",
+        "text": "Detect.\nBefore an opponent discards a card from hand, if it is not detected, you may force them to switch that card with one of their detected cards, if able. (the detected card will be discarded)",
         "ttscardid": "55013",
         "type_code": "character"
     },
