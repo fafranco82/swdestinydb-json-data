@@ -344,7 +344,7 @@
         "subtypes": [
             "spy"
         ],
-        "text": "Detect.\nBefore an opponent discards a card from hand, if it is not detected, you may force them to switch that card with one of their detected cards, if able. (the detected card will be discarded)",
+        "text": "Detect.\nBefore an opponent discards a card from hand, if it is not detected, you may force them to switch that card with one of their detected cards, if able (the detected card will be discarded).",
         "ttscardid": "55013",
         "type_code": "character"
     },
@@ -1897,7 +1897,7 @@
     {
         "affiliation_code": "neutral",
         "code": "14078",
-        "cost": 1,
+        "cost": 2,
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
