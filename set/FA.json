@@ -1751,14 +1751,14 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": false,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Planned Operation",
         "position": 71,
         "rarity_code": "S",
         "set_code": "FA",
-        "text": "Spot a Red character to heal 2 damage from a character. Spot 2 Red characters to turn a die to any side. Spot 3 Red characters to resolve a die, increasing its value by 1.",
+        "text": "Spot a Red character to heal 2 damage from a character. Spot 2 Red characters to turn a die to any side. Spot 3 Red characters to resolve one of your dice, increasing its value by 1.",
         "ttscardid": "55100",
         "type_code": "event"
     },
@@ -1958,7 +1958,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Selling Intel",
@@ -1968,7 +1968,7 @@
         "subtypes": [
             "intel"
         ],
-        "text": "Choose a detected card in an opponent's hand and gain 1 resource, or 2 resources instead if the chosen card's cost is 3 or more. The chosen card is undetected.",
+        "text": "Choose a detected card in an opponent's hand to gain 1 resource, or 2 resources instead if the chosen card's cost is 3 or more. The chosen card is undetected.",
         "ttscardid": "55110",
         "type_code": "event"
     },
