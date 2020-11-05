@@ -191,7 +191,7 @@
         "position": 8,
         "rarity_code": "S",
         "set_code": "FA",
-        "text": "Choose an opponent's die showing damage. That opponent may resolve it for free without removing it from their pool. Then you may resolve that die.",
+        "text": "Choose an opponent's die showing damage. That opponent may resolve it for free without removing it from their pool. You may resolve that die.",
         "ttscardid": "55007",
         "type_code": "event"
     },

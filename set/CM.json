@@ -208,6 +208,9 @@
         "position": 8,
         "rarity_code": "U",
         "set_code": "CM",
+        "subtypes": [
+            "move"
+        ],
         "text": "Activate 2 of your Blue characters. Then turn each of a character's character and upgrade dice to sides showing a blank ([blank]).",
         "ttscardid": "53507",
         "type_code": "event"
