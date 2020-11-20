@@ -3,25 +3,25 @@
         "code": "13001A",
         "name": "Anakin Skywalker",
         "subtitle": "A Vakmerő",
-        "text": "Hozzátartozó kocka: Anakin Skywalker ([CM]53).\nMiután aktiváltad ezt a karaktert, okozz 1 sebzést neki és 2 sebzést egy másik karakternek. Ezután, ha az a másik karakter legyőzötté válik, fordítsd meg ezt a karaktert."
+        "text": "Hozzá tartozó kocka: Anakin Skywalker ([CM]53).\nMiután aktiváltad ezt a karaktert, okozz 1 sebzést neki és, 2 sebzést egy másik karakternek. Ezután, ha az a másik karakter legyőzötté válik, fordítsd meg ezt a karaktert."
     },
     {
         "code": "13001B",
         "name": "Darth Vader",
         "subtitle": "Haragtól vezérelt",
-        "text": "Hozzátartozó kocka: Darth Vader ([AW]10).\n<b>Erőteljes akció</b> - Távolítsd el az összes pajzsot egy karakterről, vagy használd fel az egyik kockádat, az értékét 1-gyel megnövelve, mintha közelharci sebzést mutatna. Ha az ellenfélnek van legyőzött karaktere, tetszőleges sorrendben mindkettőt megteheted."
+        "text": "Hozzá tartozó kocka: Darth Vader ([AW]10).\n<b>Erőteljes akció</b> - Távolítsd el az összes pajzsot egy karakterről, vagy használd fel az egyik kockádat, az értékét 1-gyel megnövelve, mintha közelharci sebzést mutatna. Ha az ellenfélnek van legyőzött karaktere, tetszőleges sorrendben mindkettőt megteheted."
     },
     {
         "code": "13002A",
         "name": "Luke Skywalker",
         "subtitle": "Útkereső",
-        "text": "Hozzátartozó kocka: Luke Skywalker ([LEG]31).\nÖsszefogás 1: Obi-Wan Kenobi, Yoda.\nA fenntartási fázis elején, ha ennek a karakternek 3 vagy több pajzsa és 3 vagy több <b>Kék</b> kockás fejlesztése van, elkölthetsz 2 erőforrást, hogy megfordítsd."
+        "text": "Hozzá tartozó kocka: Luke Skywalker ([LEG]31).\nÖsszefogás 1: Obi-Wan Kenobi, Yoda.\nA fenntartási fázis elején, ha ennek a karakternek 3 vagy több pajzsa és 3 vagy több <b>Kék</b> kockás fejlesztése van, elkölthetsz 2 erőforrást, hogy megfordítsd."
     },
     {
         "code": "13002B",
         "name": "Luke Skywalker",
-        "subtitle": "Beteljesíti a sorsát",
-        "text": "Hozzátartozó kocka: Luke Skywalker ([AW]35).\n<b>Erőteljes akció</b> - Válassz, vagy távolíts el erről a karakterről 2 pajzsot és ezzel okozz 2 sebzést egy karakternek, vagy adj 2 pajzsot ennek a karakternek. Ha ennek a karakternek 3 vagy több <b>Kék</b> fejlesztése van, tetszőleges sorrendben mindkettőt végrehajthatod."
+        "subtitle": "Sorsának beteljesítője",
+        "text": "Hozzá tartozó kocka: Luke Skywalker ([AW]35).\n<b>Erőteljes akció</b> - Távolíts el 2 pajzsot erről a karakterről, hogy ezzel 2 sebzést okozz egy karakternek, vagy adj 2 pajzsot ennek a karakternek. Ha ennek a karakternek 3 vagy több <b>Kék</b> fejlesztése van, tetszőleges sorrendben mindkettőt megteheted."
     },
     {
         "code": "13003A",
@@ -32,50 +32,50 @@
     {
         "code": "13003B",
         "name": "Obi-Wan Kenobi szelleme",
-        "text": "Hozzátartozó kocka: Egy az Erővel ([AW]42).\nHa ez a támogatás kikerül a játékból, tedd félre.\n<b>Erőteljes akció</b> - Adj 1 pajzsot egy <b>Kék</b> karakternek és dobd újra bármennyi karakter- és fejlesztéskockáját."
+        "text": "Hozzá tartozó kocka: Egy az Erővel ([AW]42).\nHa ez a támogatás kikerül a játékból, tedd félre.\n<b>Erőteljes akció</b> - Adj 1 pajzsot egy <b>Kék</b> karakternek, és dobd újra bármennyi karakter- és fejlesztéskockáját."
     },
     {
         "code": "13004A",
-        "name": "Takarítódroid beszivárgás",
+        "name": "Beszivárgó takarítódroid",
         "text": "Az előkészületek után, ha ez a Terv elit, adj belőle még egy példányt a csapatodhoz.\n<b>Akció</b> - Játssz ki egy eseményt a kezedből, hogy újradobj egy kockát. Ezután fordítsd meg ezt a kártyát."
     },
     {
         "code": "13004B",
-        "name": "Rablódroid",
-        "text": "<b>Akció</b> - Játssz ki egy nem-esemény kártyát a kezedből, hogy okozz egy indirekt sebzést egy ellenfélnek. Ha 2 vagy több <b>bomba</b> terv van játékban, az összeset félreteheted, hogy okozz 4 indirekt sebzést egy ellenfélnek. Ha nem teszed, fordítsd meg a kártyát."
+        "name": "Robbantódroid",
+        "text": "<b>Akció</b> - Játssz ki egy nem esemény kártyát a kezedből, hogy okozz 1 indirekt sebzést egy ellenfélnek. Ha 2 vagy több <b>bomba</b> terv van játékban, az összeset félreteheted, hogy okozz 4 közvetett sebzést egy ellenfélnek. Ha nem teszed, fordítsd meg a kártyát."
     },
     {
         "code": "13005A",
-        "name": "Küldjön erősítést!",
-        "text": "<b>Akció</b> - Ha te irányítod a csatateret és 5 vagy több kocka a kockakészletedben sebzést mutat, az ellenfelednek meg kell neveznie egy karaktert. Ezután fordítsd meg ezt a <b>Terv</b>et. Ha nem azt a karaktert nevezte meg, tedd elitté."
+        "name": "Küldjék a katonákat!",
+        "text": "<b>Akció</b> - Ha te irányítod a csatateret és 5 vagy több kocka a kockakészletedben sebzést mutat, egy ellenfelednek meg kell neveznie egy karaktert. Ezután fordítsd meg ezt a <b>Terv</b>et. Ha nem azt a karaktert nevezte meg, tedd elitté."
     },
     {
         "code": "13005B",
-        "name": "Arc Trooper Echo",
+        "name": "Echo klónfelderítő",
         "subtitle": "Bátor és határozott",
         "text": "Miután aktiváltad ezt a karaktert, ha Elit, egy karakterkockát bedobhatsz az irányítójának a készletébe. Ha te irányítod a csatateret, egy karakterkockát bedobhatsz az irányítójának a készletébe."
     },
     {
         "code": "13005C",
-        "name": "Arc Trooper Fives",
+        "name": "Csupaöt klónfelderítő",
         "subtitle": "ARC-5555",
-        "text": "Miután aktiváltad ezt a karaktert, dobj be egy Klónkatona ([LEG]38) kockát a készletedbe, vagy 2 Klónkatona kockát, ha ez a karakter Elit.\nMitán egy Klónkatona kockát bedobtál a készletedbe, újradobhatod azt. Ha te irányítod a csatateret, még egyszer újradobhatod."
+        "text": "Miután aktiváltad ezt a karaktert, dobj be egy Klónkatona ([LEG]38) kockát a készletedbe, vagy 2 Klónkatona kockát, ha ez a karakter Elit.\nMiután egy Klónkatona kockát bedobtál a készletedbe, újradobhatod azt. Ha te irányítod a csatateret, még egyszer újradobhatod."
     },
     {
         "code": "13005D",
         "name": "Wolffe klón parancsnok",
-        "subtitle": "Megingathatatlan stratéga",
-        "text": "Miután aktiválod ezt a karaktert, bedobhatsz egy Klónkatona ([LEG]38) kockát a készletdbe és aktiválhatod egy <b>Piros</b> karakteredet. Ha ez a karakter Elit és te irányítod a csatateret, jelölj ki tetszőleges számú egyedi piros karaktert, hogy annyi indirekt sebzést okozz egy ellenfelednek."
+        "subtitle": "Rendíthetetlen stratéga",
+        "text": "Miután aktiváltad ezt a karaktert, bedobhatsz egy Klónkatona ([LEG]38) kockát a készletedbe és aktiválhatod egy <b>Piros</b> karakteredet. Ha ez a karakter Elit és te irányítod a csatateret, jelölj ki tetszőleges számú egyedi piros karaktert, hogy annyi közvetett sebzést okozz egy ellenfelednek."
     },
     {
         "code": "13006A",
-        "name": "Körbevéve",
+        "name": "Szorosan a nyomában",
         "text": "Összefogás 1: Minden egyedi <b>fejvadász</b>.\nMiután egy <b>Vérdíj</b>jal rendelkező karakternek közelharci vagy távolsági sebzést okoztál, kimerítheted ezt a Tervet, majd fordítsd meg és csatold arra a karakterre."
     },
     {
         "code": "13006B",
-        "name": "Fogoly",
-        "text": "Ha ez a gyengítés kikerülne a játékból, tedd félre.\nA csatolt karaktert nem lehet aktiválni.\n<b>Akció</b> - Adj egy erőforrást a gyengítést irányító játékosnak, hogy megfordítsd ezt a lapot. Bármelyik játékos használhatja ezt az akciót."
+        "name": "Fogságban",
+        "text": "Ha ez a gyengítés kikerülne a játékból, tedd félre.\nA csatolt karaktert nem lehet aktiválni.\n<b>Akció</b> - Adj egy erőforrást a gyengítést irányító játékosnak, hogy megfordítsd ezt a lapot. Bármelyik játékos használhatja."
     },
     {
         "code": "13007A",
@@ -85,17 +85,17 @@
     {
         "code": "13007B",
         "name": "Han Solo",
-        "subtitle": "Menő és magabiztos",
-        "text": "Járművezetés. Kocka: Han Solo ([AW]46).\nMiután aktiváltad ezt a karaktert, vegyél le róla 1 erőforrást, hogy kapj 1 erőforrást.\nMiután a karakter legyőzötté válik, elveszíted az összes erőforrásodat. Minden ellenfeled ugyanannyi erőforrást kap amennyit elveszítettél."
+        "subtitle": "Laza és magabiztos",
+        "text": "Járművezetés. Hozzá tartozó kocka: Han Solo ([AW]46).\nMiután aktiváltad ezt a karaktert, vegyél le róla 1 erőforrást, hogy kapj 1 erőforrást.\nMiután ez a karakter legyőzötté válik, elveszíted az összes erőforrásodat. Minden ellenfeled ugyanannyi erőforrást kap amennyit elvesztettél."
     },
     {
         "code": "13008A",
-        "name": "Dönts a sorsodról",
+        "name": "Válaszd meg a sorsod",
         "text": "Csak Infinite formátumban használható. Válassz ki 3 szettet, csak ebből a 3 szettből lehetnek lapjaid a paklidban és a csapatodban. Miután kijátszottál egy kártyát és ebben a fordulóban már mind a 3 szettből játszottál ki lapot, fordítsd meg ezt a Tervet."
     },
     {
         "code": "13008B",
-        "name": "Nem fogok áttérni",
+        "name": "Én sohasem térek át",
         "text": "Az ellenfeleid nem forgathatják a kockáidat.\nMielőtt a forduló véget ér, kapsz 1 erőforrást.\nMiután egy ellenfél kijátszik egy lapot, és ebben a fordulóban már 3 különböző szettből játszott ki lapokat, fordítsd meg ezt a Tervet."
     },
     {
@@ -105,19 +105,19 @@
     },
     {
         "code": "13009B",
-        "name": "Győzhetünk",
+        "name": "Kitartunk",
         "text": "Miután egy ellenfeled eltávolítja egy karakterkockádat, elkölthetsz 2 erőforrást és eldobhatsz 2 lapot a kezedből, hogy felfrissítsd azt a karaktert. Tedd félre ezt a Tervet."
     },
     {
         "code": "13010A",
         "name": "Mortis (Nappal)",
-        "subtitle": "Földöntúli hely",
+        "subtitle": "Éteri hely",
         "text": "A fenntartási fázis kezdete után gyógyíts meg egy sérülést mindegyik karakteren. Fordítsd meg ezt a kártyát.\n<b>Uralom</b> - Gyógyíts meg egy sebzést egy karakteren. Megfordíthatod ezt a kártyát."
     },
     {
         "code": "13010B",
         "name": "Mortis (Éjszaka)",
-        "subtitle": "Földöntúli hely",
+        "subtitle": "Éteri hely",
         "text": "A fenntartási fázis kezdete után okozz 1 sérülést minden karakternek. Fordítsd meg ezt a kártyát.\n<b>Uralom</b> - Okozz 1 sebzést egy karakternek. Megfordíthatod ezt a kártyát."
     }
 ]

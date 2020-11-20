@@ -1,889 +1,889 @@
 [
     {
         "code": "12001",
-        "flavor": "\"I was the last survivor.\"",
+        "flavor": "\"Sikerült megmenekülnöm.\"",
         "name": "Darth Bane",
-        "subtitle": "Ancient Master",
-        "text": "Decrease the cost of the first <i>ability</i> you play on this character each game by 2.\n[special] - Choose an upgrade on this character and deal indirect damage to an opponent equal to that upgrade's cost."
+        "subtitle": "Ősi Mester",
+        "text": "Csökkentsd 2-vel az első <i>képesség</i> költségét, amit ebben a játékban játszol ki erre a karakterre!\n[special] - Válassz egy fejlesztést, ami ezen a karakteren van, és okozz annyi közvetett sebzést egy ellenfélnek, amekkora a választott fejlesztés kijátszási költsége!"
     },
     {
         "code": "12002",
         "name": "Darth Vader",
-        "subtitle": "Victor Leader",
-        "text": "Piloting.\n[special] - Deal 2 damage to a character. Then, if that character was just defeated, discard the <i>vehicle</i> it was piloting."
+        "subtitle": "Győzedelmes vezér",
+        "text": "Járművezetés.\n[special] - Okozz 2 sebzést egy karakternek! Ezután, ha az a karakter legyőzötté válik, dobd el az általa vezetett <i>járművet</i>."
     },
     {
         "code": "12003",
         "name": "Pong Krell",
-        "subtitle": "Deadly Imposter",
-        "text": "You can include up to 4 different Blue hero cards in your deck.\nAfter you activate this character, you may place a hero card in any player's discard pile on the bottom of their deck. Then deal 1 damage to a character."
+        "subtitle": "Halálos imposztor",
+        "text": "Berakhatsz a paklidba legfeljebb 4 különböző Kék hőskártyát.\nMiután aktiváltad ezt a karaktert, bármelyik játékos dobott lapjai közül visszarakhatsz a paklijának az aljára egy hőskártyát. Ezután okozz 1 sebzést egy karakternek!."
     },
     {
         "code": "12004",
-        "name": "Snoke's Praetorian Guard",
-        "text": "After you activate this character, you may remove one of its character dice showing damage to remove a die showing damage with a value of 2 or less."
+        "name": "Snoke Praetorianus Gárdája",
+        "text": "Miután aktiváltad ezt a karaktert, eltávolíthatod egy sebzést mutató karakterkockáját, hogy eltávolíts egy 2 vagy kisebb értékű sebzést mutató kockát."
     },
     {
         "code": "12005",
-        "name": "Recurring Nightmare",
-        "text": "This die can only be resolved against attached character."
+        "name": "Visszatérő rémálom",
+        "text": "Ezt a kockát kizárólag a csatolt karakter ellen lehet felhasználni."
     },
     {
         "code": "12006",
-        "flavor": "\"The temple's starting to collapse.\" <cite>Ezra Bridger</cite>",
-        "name": "Entropic Blast",
-        "text": "Deal 2 damage to each character that has one or more of its character dice in a pool."
+        "flavor": "\"Mennünk kell, összeomlik a templom!\" <cite>Ezra Bridger</cite>",
+        "name": "Entrópiarobbanás",
+        "text": "Okozz 2 sebzést minden olyan karakternek, akinek egy vagy több karakterkockája van a kockakészletében!"
     },
     {
         "code": "12007",
-        "flavor": "\"Why do you come to my tomb?\" <cite>Darth Bane</cite>",
-        "name": "Legacy of the Sith",
-        "text": "Play a Blue upgrade from your discard pile, or play it for free instead if you have a defeated character that is 20 or more points."
+        "flavor": "\"Miért jöttél a kriptámhoz?\" <cite>Darth Bane</cite>",
+        "name": "A Sithek öröksége",
+        "text": "Játssz ki egy Kék fejlesztést a dobott lapjaid közül, vagy játszd ki ingyen, ha legyőztél egy 20 vagy több pontértékű karaktert."
     },
     {
         "code": "12008",
-        "flavor": "Elite Praetorian Guards worked in pairs to neutralize and overwhelm their foes.",
-        "name": "Pincer Movement",
-        "text": "Activate 2 of your Blue characters. Then turn each of a character's character and upgrade dice to sides showing a blank ([blank])."
+        "flavor": "Az elit Praetoriánus Gárda tagjai párban dolgozva semlegesítik és győzik le ellenfeleiket.",
+        "name": "Olló manőver",
+        "text": "Aktiváld 2 Kék karakteredet! Ezután fordítsd egy karakter összes karakter- és fejlesztéskockáját üres oldalt mutató ([blank]) oldalára."
     },
     {
         "code": "12009",
-        "flavor": "\"You dare to attack a Jedi?\" <cite>Pong Krell</cite>",
-        "name": "Quad Slam",
-        "text": "Choose up to 4 characters and remove one character die belonging to each of them."
+        "flavor": "\"Rá mertek támadni egy Jedire?\" <cite>Pong Krell</cite>",
+        "name": "Négyes csapás",
+        "text": "Válassz legfeljebb 4 karaktert, és távolítsd el mindegyiknek egy karakterkockáját!"
     },
     {
         "code": "12010",
-        "name": "Trap the Blade",
-        "text": "Remove a die showing melee damage ([melee]). If it is an upgrade die, you may spot a Blue character and spend 1 resource to discard its matching card from play."
+        "name": "Pengefogás",
+        "text": "Távolíts el egy közelharci sebzést ([melee]) mutató kockát! Ha ez egy fejlesztéskocka volt, kijelölhetsz egy Kék karaktert, és költs el 1 erőforrást, hogy eldobd a játékból a hozzá tartozó kártyát!"
     },
     {
         "code": "12011",
-        "name": "Treason",
-        "text": "Spot a Blue character to remove an opponent's character die showing damage ([ranged], [melee], or [indirect]). Then that opponent deals damage to one of their characters equal to the value showing on that die."
+        "name": "Hitszegés",
+        "text": "Jelölj ki egy Kék karaktert, hogy eltávolítsd egy ellenfeled sebzést mutató ([ranged], [melee], vagy [indirect]) karakterkockáját! Ezután ez az ellenfél annyi sebzést okoz egy karakterének, amekkora az eltávolított kocka értéke."
     },
     {
         "code": "12012",
-        "name": "Rule of Two",
-        "text": "If you do not control exactly 2 characters, one that is a <i>Sith</i> and the other an <i>apprentice</i>, set this plot aside an deal 1 indirect damage to yourself.\n<b>Action</b> - If you have exactly one character die in your pool, exhaust this plot to resolve it, increasing its value by 1."
+        "name": "A kettő szabálya",
+        "text": "Ha nem irányítasz pontosan 2 karaktert, akik közül az egyik <i>Sith</i>, a másik <i>tanítvány</i>, tedd félre ezt a tervet, és okozz magadnak 1 közvetett sebzést!\n<b>Akció</b> - Merítsd ki ezt a támogatást, ha pontosan egy karakterkockád van a kockakészletedben, hogy felhasználd 1-gyel megnövelve az értékét!"
     },
     {
         "code": "12013",
-        "flavor": "\"I need but a drop for the ritual to begin.\" <cite>Darth Sidious</cite>",
-        "name": "Bloodletting",
-        "text": "<b>Action</b> - Exhaust this support and deal 1 damage to a character you control to turn one of its character or upgrade dice to any side."
+        "flavor": "\"Kell egy pár csepp vér a rituálé kezdetéhez.\" <cite>Darth Sidious</cite>",
+        "name": "Véráldozat",
+        "text": "<b>Akció</b> - Merítsd ki ezt a támogatást és okozz 1 sebzést egy általad irányított karakternek, hogy egy karakter- vagy fejlesztéskockáját tetszőleges oldalára fordítsd!"
     },
     {
         "code": "12014",
-        "name": "Darth Vader's Tie Advanced",
-        "text": "[special] - Deal 2 damage to a character. You may place 1 damage on a <i>vehicle</i>. Then, if Darth Vader is piloting this support, you may discard a <i>vehicle</i> that has 2 or more damage."
+        "name": "Darth Vader fejlesztett TIE vadásza",
+        "text": "[special] - Okozz 2 sebzést egy karakternek! 1 sebzésjelölőt helyezhetsz egy <i>járműre</i>. Ezután, ha ezt a támogatást Darth Vader vezeti, eldobhatsz egy <i>járművet</i>, amin 2 vagy több sebzés található."
     },
     {
         "code": "12015",
-        "name": "Ancient Sith Armor",
-        "text": "Redeploy.\nBefore attached character takes damage, you may exhaust this upgrade to block 1 damage.\nAfter you play an <i>ability</i> on attached character, you may ready this upgrade."
+        "name": "Ősi Sith páncél",
+        "text": "Áthelyezés.\nMielőtt a csatolt karakter sebzést kapna, kimerítheted ezt a fejlesztést, hogy kivédj 1-et a sebzésből.\nMiután kijátszottál egy <i>képességet</i> a csatolt karakterre, felfrissítheted ezt a fejlesztést."
     },
     {
         "code": "12016",
-        "name": "Death Field",
-        "text": "Blue character only.\n<b>Action</b> - Exhaust this upgrade to roll this die into your pool.\n[special] - Deal 2 damage to each of an opponent's characters."
+        "name": "Halálos mező",
+        "text": "Csak Kék karakternek.\n<b>Akció</b> - Merítsd ki ezt a fejlesztést, hogy bedobd ezt a kockát a kockakészletedbe!\n[special] - Okozz 2 sebzést egy ellenfeled minden karakterének!"
     },
     {
         "code": "12017",
-        "name": "Pong Krell's Lightsaber",
-        "text": "<b>Power Action</b> - Spot Pong Krell or spend 1 resource to roll a set-aside copy of this die ([CM]17) into your pool. Set that die aside after it is resolved or removed.\n[special] - Deal 2 damage to up to 2 characters."
+        "name": "Pong Krell fénykardja",
+        "text": "<b>Erőteljes akció</b> - Jelöld ki Pong Krellt vagy költs el 1 erőforrást, hogy bedobd ennek a kockának ([CM]17) egy félretett példányát a kockakészletedbe! Tedd félre azt a kockát miután felhasználásra vagy eltávolításra került!\n[special] - Okozz 2 sebzést legfeljebb 2 karakternek!"
     },
     {
         "code": "12018",
-        "name": "Sith Lord",
-        "text": "<i>Sith</i> character only.\n[special] - Reroll this die instead of removing it. You may exhaust this upgrade to use a special ability ([special]) on attached character or on a blue <i>ability</i> on attached character."
+        "name": "Sith Nagyúr",
+        "text": "Csak <i>Sith</i> karakternek.\n[special] - Dobd újra ezt a kockát, ahelyett hogy eltávolítanád! Kimerítheted ezt a fejlesztést, hogy egy különleges képességét ([special]) használd a csatolt karakternek, vagy a csatolt karakteren lévő Kék <i>képesség</i>nek."
     },
     {
         "code": "12019",
-        "flavor": "A pair of blades could be combined to form a double-bladed sword.",
-        "name": "Vibro-Arbir Blades",
-        "text": "Elite character only.\nAfter you play this card from your hand, you may play a set-aside copy of it ([CM]19) <em>(paying its cost.)</em>."
+        "flavor": "A páros penge egyesíthető egyetlen, kétpengés karddá.",
+        "name": "Iker-Vibroarbir pengék",
+        "text": "Csak elit karakternek.\nMiután kijátszottad ezt a lapot a kezedből, kijátszhatod egy félretett példányát ([CM]19) <em>(a költségét ki kell fizetni)</em>."
     },
     {
         "code": "12020",
-        "flavor": "\"You will come with us, or be destroyed.\"",
-        "name": "Commander Pyre",
-        "subtitle": "Harsh Negotiator",
-        "text": "After you claim or take control of the battlefield, you may deal 1 indirect damage ([indirect]) to an opponent."
+        "flavor": "\"Velünk jöttök, vagy meghaltok.\"",
+        "name": "Pyre parancsnok",
+        "subtitle": "Kemény tárgyalófél",
+        "text": "Miután uralmad alá vontad a csatateret vagy az a birtokodba került, okozhatsz 1 közvetett sebzést ([indirect]) egy ellenfélnek."
     },
     {
         "code": "12021",
-        "flavor": "\"I will not fail.\"",
-        "name": "Director Krennic",
-        "subtitle": "Death Star Mastermind",
-        "text": "The point value of your <i>Death Star</i> plot is decreased by 1.\nAfter you activate this character, you may turn one of your dice to a side showing a value of 1."
+        "flavor": "\"Nem fogok elbukni.\"",
+        "name": "Krennic igazgató",
+        "subtitle": "A Halálcsillag szellemi atyja",
+        "text": "A <i>Halálcsillag</i> terved pontértéke 1-gyel csökken.\nMiután aktiváltad ezt a karaktert, az egyik kockádat 1-es értéket mutató oldalára fordíthatod."
     },
     {
         "code": "12022",
         "name": "Elrik Vonreg",
-        "subtitle": "Major Baron",
-        "text": "Piloting.\nWhile one or more of this character's character dice are in your pool, its piloted <i>vehicle's</i> support and upgrade dice cannot be removed by opponent's effects."
+        "subtitle": "Báró őrnagy",
+        "text": "Járművezetés.\nAmíg ennek a karakternek egy vagy több karakterkockája a kockakészletedben van, az általa vezetett <i>jármű</i> támogatás- és fejlesztéskockáit az ellenfeleid semmilyen hatással nem tudják eltávolítani."
     },
     {
         "code": "12023",
-        "flavor": "Skilled as elite commandos and bodyguards.",
-        "name": "Imperial Death Trooper",
-        "text": "While you control Director Krennic, this character has <i>Guardian</i>.\n<b>Power Action</b> - Turn this die to a side showing the same symbol and value as another one of your dice."
+        "flavor": "Eli kommandós- és testőrképzésben részesülnek.",
+        "name": "Birodalmi Halálosztagos",
+        "text": "Amíg Krennic igazgatót irányítod, ez a karakter <i>Őrző</i> lesz.\n<b>Erőteljes akció</b> - Fordítsd ezt a kockát olyan oldalára, amilyen szimbólumot és értéket egy másik kockád mutat!"
     },
     {
         "code": "12024",
-        "name": "Imperial Pilot",
-        "text": "Piloting.\n<b>Power Action</b> - If this character is piloting a Red <i>vehicle</i>, turn its support die to any side."
+        "name": "Birodalmi Pilóta",
+        "text": "Járművezetés.\n<b>Erőteljes akció</b> - Ha ez a karakter egy Piros <i>járművet</i> vezet, fordítsd a jármű támogatáskockáját tetszőleges oldalára!"
     },
     {
         "code": "12025",
-        "flavor": "\"You have a lovely voice, General Syndulla.\" <cite>Arindha Pryce</cite>",
-        "name": "Cruel Methods",
-        "text": "After you claim or take control of the battlefield, you may deal 1 damage to attached character."
+        "flavor": "\"A hangja zene füleimnek Syndulla tábornok.\" <cite>Arindha Pryce</cite>",
+        "name": "Kegyetlen eljárás",
+        "text": "Miután uralmad alá vontad a csatateret vagy az a birtokodba került, okozhatsz 1 sebzést a csatolt karakternek."
     },
     {
         "code": "12026",
-        "flavor": "\"Do it.\" <cite>Orson Krennic</cite>",
-        "name": "Call to Action",
-        "text": "Spot a character that is 15 or fewer points to roll all of its character dice into your pool."
+        "flavor": "\"Tűz!\" <cite>Orson Krennic</cite>",
+        "name": "Csatába!",
+        "text": "Jelölj ki egy 15 vagy kevesebb pontértékű karaktert, hogy bedobd az összes karakterkockáját a kockakészletedbe!"
     },
     {
         "code": "12027",
-        "name": "Face the Enemy",
-        "text": "Spot an exhausted character to force an opponent to draw 2 cards. Then look at that opponent's hand and place up to 2 cards from it on top of their deck in any order."
+        "name": "Szemben az ellenséggel",
+        "text": "Jelölj ki egy kimerűlt karaktert, hogy egy ellenfeleddel húzass 2 lapot! Ezután nézd meg annak az ellenfelednek a kézben tartott lapjait, és helyezz tetszőleges sorrendben a kezéből legfeljebb 2 lapot a paklijának a tetejére!"
     },
     {
         "code": "12028",
-        "name": "I'll Handle This Myself",
-        "text": "Turn one of your character dice to any side. If you control exactly one character, you may resolve that die."
+        "name": "Magam intézem el",
+        "text": "Fordítsd az egyik karakterkockádat tetszőleges oldalára! Ha csak egy karaktert irányítasz, felhasználhatod azt a kockát!"
     },
     {
         "code": "12029",
-        "name": "Taking Charge",
-        "text": "Ambush.\nIf you control the battlefield, remove a die. If you do not control the battlefield, take control of it and you may reroll a die."
+        "name": "Átveszem a parancsnokságot",
+        "text": "Rajtaütés.\nHa te birtoklod a csatateret, távolíts el egy kockát! Ha nem te birtoklod, helyezd az irányításod alá, és újradobhatsz egy kockát!"
     },
     {
         "code": "12030",
-        "name": "Construct The Death Star",
-        "text": "<b>Action</b> - Remove 2 of your dice each showing a resource ([resource]) to place 2 resources on this plot. Then, if 15 or more resources are on this plot, you win the game."
+        "name": "A Halálcsillag építése",
+        "text": "<b>Akció</b> - Távolítsd el 2 erőforrást mutató ([resource]) kockádat, hogy helyezz 2 erőforrást erre a tervre. Ezután, ha 15 vagy több erőforrás van ezen a terven, megnyerted a játékot."
     },
     {
         "code": "12031",
-        "flavor": "\"We can't even touch him!\" <cite>Mia Gabon</cite>",
-        "name": "Elrik Vonreg's TIE Interceptor",
-        "text": "<b>Action</b> - If Elrik Vonreg is piloting this support, remove this die to discard an opponent's <i>vehicle</i> from play that costs equal to or less than the value showing on this die."
+        "flavor": "\"El sem tudjuk találni!\" <cite>Mia Gabon</cite>",
+        "name": "Elrik Vonreg TIE elfogóvadásza",
+        "text": "<b>Akció</b> - Ha ezt a támogatást Elrik Vonreg vezeti, távolítsd el ezt a kockát, hogy eldobd egy ellenfeled <i>járművét</i> a játékból, melynek költsége ugyanannyi vagy kevesebb, mint az eltávolított kocka értéke!"
     },
     {
         "code": "12032",
-        "flavor": "\"You named your weapon after my sister?\" <cite>Bo-Katan Kryze</cite>",
-        "name": "The \"Duchess\"",
-        "text": "[special] - Deal 2 damage to each of your opponents' characters. Then deal 1 additional damage to each of those characters that are a <i>trooper</i>."
+        "flavor": "\"A nővéremről nevezted el a fegyveredet?\" <cite>Bo-Katan Kryze</cite>",
+        "name": "A \"Hercegnő\"",
+        "text": "[special] - Okozz 2 sebzést egy ellenfeled minden karakterének! Ezután okozz további 1 sebzést azoknak, akik <i>gyalogosok</i>!"
     },
     {
         "code": "12033",
-        "name": "Tie Bomber",
-        "text": "This support enters play with 3 resources on it.\n[special] - Remove 1 resource from this support to deal 4 indirect damage ([indirect]) to an opponent. You may return this support to your hand."
+        "name": "Tie Bombázó",
+        "text": "Ez a támogatás úgy kerül játékba, hogy 3 erőforrás van rajta.\n[special] - Távolíts el egy erőforrást erről a támogatásról, hogy okozz 4 közvetett sebzést ([indirect]) egy ellenfélnek! Visszaveheted ezt a támogatáést a kezedbe."
     },
     {
         "code": "12034",
-        "name": "Viper Probe Droid",
-        "text": "After a die rolls damage ([ranged], [melee], or [indirect]), you may spot a Red character and spend 1 resource to remove that die. Then discard this support."
+        "name": "Vipera kutaszdroid",
+        "text": "Miután egy kockával sebzést ([ranged], [melee], vagy [indirect]) dobtak, kijelölhetsz egy Piros karaktert és költs el 1 erőforrást, hogy eltávolítsd azt a kockát! Ezután dobd el ezt a támogatást!"
     },
     {
         "code": "12035",
-        "name": "Commander Pyre's Blaster",
-        "text": "After you play this upgrade on Commander Pyre, you may take control of the battlefield."
+        "name": "Pyre parancsnok sugárvetője",
+        "text": "Miután ezt a fejlesztést kijátszod Pyre parancsnokra, megszerezheted a csatatér iránytását."
     },
     {
         "code": "12036",
-        "flavor": "\"Oh, it's beautiful.\" <cite>Orson Krennic</cite>",
-        "name": "Director",
-        "text": "<i>Leader</i> character only.\nAfter you resolve or remove one of your Red dice showing a resource ([resource]), you may exhaust this upgrade to roll that die into your pool."
+        "flavor": "\"Ó, ez csodálatos.\" <cite>Orson Krennic</cite>",
+        "name": "Igazgató",
+        "text": "Csak <i>vezető</i> karakternek.\nMiután felhasználtad vagy eltávolítottad egy erőforrást mutató ([resource]) Piros kockádat, kimerítheted ezt a fejlesztést, hogy azt a kockát bedobd a kockakészletedbe."
     },
     {
         "code": "12037",
-        "name": "E-11D Blaster Rifle",
-        "text": "While this upgrade is on an elite character, it has Redeploy.\nAfter you play this upgrade on a non-unique character, you may gain 1 resource."
+        "name": "E-11D lézerkarabély",
+        "text": "Amíg ez a fejlesztés elit karakteren van, megkapja az Áthelyezés kulcsszót.\nMiután ezt a fejlesztést kijátszod egy nem egyedi karakterre, kaphatsz 1 erőforrást."
     },
     {
         "code": "12038",
-        "flavor": "\"He's no good to me dead.\"",
+        "flavor": "\"Mit érek vele holtan?\"",
         "name": "Boba Fett",
-        "subtitle": "Infamous And Ruthless",
-        "text": "After an opponent's character is defeated, for each <i>bounty</i> on it, you may roll one of this character's character or upgrade dice into your pool."
+        "subtitle": "Hírhedt és könyörtelen",
+        "text": "Miután egy ellenfeled karaktere legyőzötté válik, ennek a karakternek annyi karakter- vagy fejlesztéskockáját dobhatod be a kockakészletedbe, ahány <i>vérdíj</i> volt a legyőzött karakteren."
     },
     {
         "code": "12039",
-        "flavor": "\"Tonight, we get paid.\"",
+        "flavor": "\"Ma kifizetnek.\"",
         "name": "Kragan Gorr",
-        "subtitle": "Pirate Captain",
-        "text": "After you activate this character, you may activate one of your <i>pirates</i>. If an opponent has an exhausted character and no dice showing damage, you may take 1 resource from them."
+        "subtitle": "Kalózkapitány",
+        "text": "Miután aktiváltad ezt a karaktert, aktiválhatod egy <i>kalózodat</i>. Ha egy ellenfelednek van kimerült karaktere és nincs sebzést mutató kockája, elvehetsz tőle 1 erőforrást."
     },
     {
         "code": "12040",
-        "flavor": "Their job conditions are so toxic that sentinels must wear sealed, radiation-proof suits.",
-        "name": "Pyke Sentinel",
-        "text": "Guardian."
+        "flavor": "Olyan mérgező körülmények között dolgoznak, hogy az őröknek zárt, sugárzástól védő öltözéket kell viselniük.",
+        "name": "Pyke őr",
+        "text": "Őrző."
     },
     {
         "code": "12041",
-        "flavor": "\"Let's trash this place!\"",
+        "flavor": "\"Igen, adjunk nekik!\"",
         "name": "Synara San",
-        "subtitle": "Opportunistic Infiltrator",
-        "text": "After you activate this character, if an opponent has an exhausted character and no dice showing damage, you may force them to choose and discard a card from their hand."
+        "subtitle": "Opportunista beszivárgó",
+        "text": "Miután aktiváltad ezt a karaktert és egy ellenfelednek van kimerült karaktere és nincs sebzést mutató kockája, eldobhatsz a kezéből egy általa választott lapot."
     },
     {
         "code": "12042",
-        "flavor": "Their predatory origins made Trandoshans gifted hunters.",
-        "name": "Trandoshan Hunter",
-        "text": "<b>Power Action</b> - Spot a downgrade to turn one of your <i>bounty hunter</i> dice to a side showing damage."
+        "flavor": "A trandoshaiak ragadozó őseiknek köszönhetően tehetséges vadászoknak bizonyultak.",
+        "name": "Trandoshai vadász",
+        "text": "<b>Erőteljes akció</b> - Jelölj ki egy gyengítést, hogy egy <i>fejvadász</i>kockádat sebzést mutató oldalára fordítsd!"
     },
     {
         "code": "12043",
-        "name": "Forced Labor",
-        "text": "After attached character is defeated, you may roll one of its character dice into its owner's pool. Then either resolve that die for free as if it were in your pool or remove it."
+        "name": "Kényszermunka",
+        "text": "Miután a csatolt karakter legyőzötté válik, bedobhatod az egyik karakterkockáját a tulajdonosa kockakészletébe. Ezután ingyen felhasználhatod azt a kockát, mintha a kockakészletedben lenne, vagy távolítsd el."
     },
     {
         "code": "12044",
-        "flavor": "\"Help me.\" <cite>Yonak</cite>",
-        "name": "Pestering",
-        "text": "After this die is rerolled, you may reroll one of attached character's character dice."
+        "flavor": "\"Segítsenek nekem!\" <cite>Yonak</cite>",
+        "name": "Vegzálás",
+        "text": "Ennek a kockának az újradobása után újradobhatod a csatolt karakter egy karakterkockáját."
     },
     {
         "code": "12045",
-        "flavor": "\"They blow you up today, you wll blow them up tomorrow. It's j-just business.\" <cite>DJ</cite>",
-        "name": "Change of Fortune",
-        "text": "Choose a symbol. Then reroll any number of an opponent's dice. Remove each of those dice that just rolled the chosen symbol."
+        "flavor": "\"Ma ők lőnek le titeket, holnap meg ti őket. Ez szimplán üzlet.\" <cite>DJ</cite>",
+        "name": "A szerencse forgandó",
+        "text": "Válassz egy szimbólumot! Ezután dobd újra egy ellenfeled tetszőleges számú kockáját! Távolítsd el közülük azokat, amelyek a választott szimbólumot mutatják!"
     },
     {
         "code": "12046",
-        "name": "Opportune Strike",
-        "text": "If each of your opponents has an exhausted character and no dice showing damage ([ranged], [melee], [indirect]), deal 2 indirect damage ([indirect]) to each of them."
+        "name": "Jól időzített csapás",
+        "text": "Ha mindegyik ellenfelednek van kimerült karaktere és nincs sebzést mutató ([ranged], [melee], [indirect]) kockája, okozz mindegyiküknek 2 közvetett sebzést ([indirect])!"
     },
     {
         "code": "12047",
-        "flavor": "\"I smell profit! Nice, juicy, fat, warm profits.\" <cite>Hondo Ohnaka</cite>",
-        "name": "Plunder",
-        "text": "Play only if you do not control the battlefield.\nSpot any number of <i>pirates</i> to take that many resources from an opponent."
+        "flavor": "\"Mi ez az illat? Profit! Háhá! Ízes, szaftos, finom, meleg profit!\" <cite>Hondo Ohnaka</cite>",
+        "name": "Fosztogatás",
+        "text": "Csak akkor játszhatod ki, ha nem te irányítod a csatateret.\nJelölj ki tetszőleges számú <i>kalózt</i>, hogy elvegyél velük azonos számú erőforrást egy ellenfeledtől!"
     },
     {
         "code": "12048",
-        "name": "Warning Shot",
-        "text": "Choose and opponent's die and remove it unless they give you one resource."
+        "name": "Figyelmeztető lövés",
+        "text": "Válaszd ki és távolítsd el egy ellenfeled kockáját, kivéve ha ad neked 1 erőforrást!"
     },
     {
         "code": "12049",
-        "flavor": "\"You heard Kragan. Attack!\" <cite>Skreek</cite>",
-        "name": "Pirate Ship",
-        "text": "After you activate this support, you may remove a die showing damage. You may activate one of your <i>pirates</i>."
+        "flavor": "\"Hallottátok! Támadás!\" <cite>Skreek</cite>",
+        "name": "Kalózhajó",
+        "text": "Miután aktiváltad ezt a támogatást, eltávolíthatsz egy sebzést mutató kockát. Aktiválhatod egy <i>kalózodat</i>."
     },
     {
         "code": "12050",
         "name": "Slave I",
-        "text": "Your Boba Fett and Jango Fett each have Piloting.\nAfter this support becomes piloted by a <i>bounty-hunter</i>, you may deal 1 damage to a character."
+        "text": "Boba Fett és Jango Fett karaktereid megkapják a Járművezetést.\nMiután ezt a támogatást egy <i>fejvadász</i> vezetni kezdi, okozhatsz 1 sebzést egy karakternek."
     },
     {
         "code": "12051",
-        "name": "Boba Fett's Wrist Laser",
-        "text": "After you play this upgrade on Boba Fett, you may gain 1 action.\nAfter you resolve this die, discard this upgrade from play unless you discard a card from your hand."
+        "name": "Boba Fett csuklólézere",
+        "text": "Miután ezt a fejlesztést kijátszod Boba Fettre, kaphatsz 1 akciót.\nMiután felhasználtad ezt a kockát, dobd el ezt a fejlesztést a játékból, kivéve ha eldobsz egy lapot a kezedből!"
     },
     {
         "code": "12052",
-        "flavor": "The Pyke Syndicate favored BlasTech A-300 blaster rifles for their guards.",
-        "name": "Pyke Blaster",
-        "text": "While this upgrade is on a character that has Guardian, it has Redeploy."
+        "flavor": "A Pyke Szindikátus az őreit előszeretettel fegyverezte fel BlasTech A-300-as lézerkarabélyokkal.",
+        "name": "Pyke sugárvető",
+        "text": "Amíg ez a fejlesztés egy Őrző kulcsszóval rendelkező karakteren van, megkapja az Áthelyezés kulcsszót."
     },
     {
         "code": "12053",
-        "flavor": "\"There's no time for caution.\"",
+        "flavor": "\"Nincs idő óvatosságra!\"",
         "name": "Anakin Skywalker",
-        "subtitle": "Dedicated Mentor",
-        "text": "After you activate this character, you may discard a card from your hand to move 1 shield from a character to another character. Then draw a card if you moved that shield to an <i>apprentice</i>."
+        "subtitle": "Odaadó Mentor",
+        "text": "Miután aktiváltad ezt a karaktert, eldobhatsz egy lapot a kezedből, hogy átmozgass 1 pajzsot egy karakterről egy másik karakterre. Ezután húzz 1 lapot, ha azt a pajzsot <i>tanítványra</i> mozgattad át!"
     },
     {
         "code": "12054",
-        "name": "Jedi Knight",
-        "text": "After setup, you may give this character 2 shields.\n[special] - Give a character 1 shield. Then deal 1 damage to a character, or 2 damage instead if this character has 3 or more shields."
+        "name": "Jedi lovag",
+        "text": "Az előkészületek után adhatsz 2 pajzsot ennek a karakternek.\n[special] - Adj 1 pajzsot egy karakternek. Ezután okozz 1 sebzést egy karakternek, vagy 2-t, ha ezen a karakteren 3 vagy több pajzs van!"
     },
     {
         "code": "12055",
         "name": "Kanan Jarrus",
-        "subtitle": "Jedi Exile",
-        "text": "This character's point value is decreased by 1 if your team has another <i>Spectre</i>.\nAfter you activate this character, you may choose a symbol and a die. Then an opponent turns that die to a side not showing the chosen symbol."
+        "subtitle": "Számkivetett Jedi",
+        "text": "Ennek a karakternek 1-gyel csökken a pontértéke, ha másik <i>Lidérc</i> is van a csapatodban.\nMiután aktiváltad ezt a karaktert, választhatsz egy szimbólumot és egy kockát. Ezután egy ellenfelednek olyan oldalára kell fordítania azt a kockát, ami nem a választott szimbólumot mutatja."
     },
     {
         "code": "12056",
         "name": "Luke Skywalker",
-        "subtitle": "Red Five",
-        "text": "Piloting.\nThe point value of your <i>Death Star</i> plot is decreased by 1.\nBefore you resolve a support die of a <i>vehicle</i> piloted by this character, you may increase its value by 1."
+        "subtitle": "Vörös Ötös",
+        "text": "Járművezetés.\nA <i>Halálcsillag</i> terved pontértéke 1-gyel csökken.\nMielőtt felhasználod egy olyan <i>jármű</i> támogatáskockáját, amit ez a karakter vezet, megnövelheted az értékét 1-gyel."
     },
     {
         "code": "12057",
-        "flavor": "\"I won't leave you. Not this time.\" <cite>Ahsoka Tano</cite>",
-        "name": "Forestall",
-        "text": "Turn up to 2 of your dice to sides showing a shield ([shield])."
+        "flavor": "\"Nem hagylak itt egyedül. Ezúttal nem.\" <cite>Ahsoka Tano</cite>",
+        "name": "Megelőzés",
+        "text": "Fordítsd legfeljebb 2 kockádat pajzsot mutató ([shield]) oldalára!"
     },
     {
         "code": "12058",
-        "flavor": "\"I have to tell you something... I hate your hair.\" <cite>Hera Syndulla</cite>",
-        "name": "Fresh Start",
-        "text": "Remove a character die. Then discard cards from the top of a deck equal to the value showing on that die."
+        "flavor": "\"Azt akartam mondani, hogy... hogy... nem tetszik a hajad.\" <cite>Hera Syndulla</cite>",
+        "name": "Új kezdet",
+        "text": "Távolíts el egy karakterkockát! Ezután dobass el annyi lapot egy pakli felső lapjai közül, amekkora az eltávolított kocka értéke!"
     },
     {
         "code": "12059",
-        "flavor": "\"Not this crude matter.\" <cite>Yoda</cite>",
-        "name": "Luminous Beings Are We",
-        "text": "Roll all of your defeated <i>Jedi</i> character dice into your pool. Set those dice aside after they have been resolved or removed."
+        "flavor": "\"Nem az izmaidban...\" <cite>Yoda</cite>",
+        "name": "És megvilágosít minket",
+        "text": "Dobd be az összes legyőzött <i>Jedi</i> karaktered karakterkockáit a kockakészletedbe! Tedd félre azokat, miután felhasználták vagy eltávolították őket!"
     },
     {
         "code": "12060",
-        "name": "Nullify",
-        "text": "Move 1 shield from one of your characters to an opponent's character. Then remove a die."
+        "name": "Nullázás",
+        "text": "Mozgass át egy pajzsot az egyik karakteredről egy ellenfeled karakterére! Ezután távolíts el egy kockát!"
     },
     {
         "code": "12061",
-        "name": "Skillful Deterrence",
-        "text": "For each elite character die in your pool, you may remove a die showing the same symbol as that die."
+        "name": "Hatásos elrettentés",
+        "text": "Minden egyes kockakészletedben lévő elit karakterkockád után eltávolíthatsz egy olyan kockát, ami ugyanolyan szimbólumot mutat, mint a te kockád."
     },
     {
         "code": "12062",
-        "flavor": "\"Around the survivors, a perimeter creat.\" <cite>Yoda</cite>",
-        "name": "Stand Firm",
-        "text": "Remove any number of your dice showing a shield ([shield]) to remove that many dice."
+        "flavor": "\"Siessenek, meg kell tisztítani a terepet a túlélők körül.\" <cite>Yoda</cite>",
+        "name": "Határozott ellenállás",
+        "text": "Távolítsd el tetszőleges számú pajzsot mutató ([shield]) kockádat, hogy eltávolíts ugyanennyi kockát!"
     },
     {
         "code": "12063",
-        "name": "Trust Your Feelings",
-        "text": "Reroll up to 2 of your dice. Then you may resolve one of your dice. Then you may use the action on your plot titled Destroy the Death Star for free."
+        "name": "Bízz az Erőben!",
+        "text": "Dobd újra legfeljebb 2 kockádat! Ezután felhasználhatod egy kockádat. Ezután ingyen használhatod a Halálcsillag elpusztítása terved akcióját."
     },
     {
         "code": "12064",
-        "name": "Valiant Deed",
-        "text": "Remove an upgrade die. Then you may spot a <i>mission</i> plot to roll an <i>apprentice</i> die on one of your characters into your pool."
+        "name": "Bátor tett",
+        "text": "Távolíts el egy fejlesztéskockát! Ezután kielölhetsz egy <i>küldetés</i> tervet, hogy bedobd egy karakteredről a kockakészletedbe egy <i>tanítvány</i>kockádat."
     },
     {
         "code": "12065",
-        "name": "Jedi Trials",
-        "text": "<b>Action</b> - Spot an <i>apprentice</i> character that has 3 Blue <i>abilities</i>, 3 shields, and its character dice are showing a combined value of 3 or more. Then heal 3 damage from it, ready it, it gains <i>Jedi</i> and it gains 1 die <em>(add a set-aside copy of its character die on it)</em>. Set this plot aside."
+        "name": "Jedi próba",
+        "text": "<b>Akció</b> - Jelölj ki egy <i>tanítvány</i> karaktert, akinek 3 Kék <i>képessége</i> és 3 pajzsa van, és a karakterkockái összesen 3 vagy nagyobb értéket mutatnak! Ezután gyógyíts rajta 3 sebzést, frissítsd fel, továbbá az a karakter <i>Jedi</i> lesz és kap 1 kockát <em>(tedd a karakterre egy félretett karakterkockájának egy példányát)</em>. Tedd félre ezt a tervet!"
     },
     {
         "code": "12066",
-        "name": "Luke Skywalker's X-Wing",
-        "text": "<b>Power Action</b> - Reroll this die or, if Luke Skywalker is piloting this support, turn this die to any side."
+        "name": "Luke Skywalker X-szárnyúja",
+        "text": "<b>Erőteljes akció</b> - Dobd újra ezt a kockát, vagy ha Luke Skywalker vezeti ezt a támogatást, fordítsd ezt a kockát tetszőleges oldalára!"
     },
     {
         "code": "12067",
-        "name": "Anakin Skywalker's Lightsaber",
-        "text": "Redeploy.\nDiscard this upgrade from play if you control Rey's Lightsaber.\nAfter you play this upgrade, give a character you don't control 1 shield. Then give a character 2 shields."
+        "name": "Anakin Skywalker fénykardja",
+        "text": "Áthelyezés.\nDobd el ezt a fejlesztést a játékból, ha az irányításod alatt van Rey fénykardja!\nMiután kijátszod ezt a fejlesztést, adj 1 pajzsot egy olyan karakternek, akit nem te irányítasz! Ezután adj 2 pajzsot egy karakternek!"
     },
     {
         "code": "12068",
-        "name": "Kanan Jarrus' Lightsaber",
-        "text": "After an opponent's die is turned, you may turn this die to any side. Then, if this upgrade is on Kanan Jarrus, you may exhaust it to turn one of his character dice to any side."
+        "name": "Kanan Jarrus fénykardja",
+        "text": "Miután egy ellenfeled kockája átfordításra került, ezt a kockát tetszőleges oldalára fordíthatod. Ezután kimerítheted ezt a fejlesztést, ha Kanan Jarruson van, hogy annak egyik karakterkockáját tetszőleges oldalára fordítsd."
     },
     {
         "code": "12069",
-        "name": "Padawan Braid",
-        "text": "Blue character only.\nAttached character gains <i>apprentice</i> and has +1 upgrade limit."
+        "name": "Padawan hajfonat",
+        "text": "Csak Kék karakternek.\nA csatolt karakter <i>tanítvány</i> lesz és a fejlesztéslimitje 1-gyel nő."
     },
     {
         "code": "12070",
         "name": "Hera Syndulla",
-        "subtitle": "Seasoned Captain",
-        "text": "Piloting.\nAfter this character begins piloting a <i>vehicle</i>, you may spend 2 resources to ready that <i>vehicle</i>."
+        "subtitle": "Tapasztalt kapitány",
+        "text": "Járművezetés.\nAMiután ez a karakter vezetni kezd egy <i>járművet</i>, elkölthetsz 2 erőforrást, hogy felfrissítsd azt a <i>járművet</i>."
     },
     {
         "code": "12071",
-        "flavor": "Fierce warriors who were not afraid to shed their blood in order to protect their homeland.",
-        "name": "Kashyyyk Warrior",
-        "text": "Before you resolve one of this character's character dice showing damage, increase its value by 1 if this character has 6 or more damage."
+        "flavor": "Vad harcosok, akik nem féltek vért ontani szülőföldjük védelme érdekében.",
+        "name": "Kashyyyk harcos",
+        "text": "Mielőtt felhasználod ennek a karakternek az egyik sebzést mutató karakterkockáját, növeld meg 1-gyel az értékét, ha ezen a karakteren 6 vagy több sebzés van!"
     },
     {
         "code": "12072",
-        "flavor": "\"The best starfighter pilot in the galaxy.",
+        "flavor": "\"A galaxis legjobb vadászpilótája.",
         "name": "Kazuda Xiono",
-        "subtitle": "Naive Hotshot",
-        "text": "Piloting.\nAfter you activate this character, you may spend 1 resource to exhaust a <i>vehicle</i>."
+        "subtitle": "Naív nagymenő",
+        "text": "Járművezetés.\nMiután aktiváltad ezt a karaktert, elkölthetsz 1 erőforrást, hogy kimeríts egy <i>járművet</i>."
     },
     {
         "code": "12073",
         "name": "Poe Dameron",
-        "subtitle": "Reckless Aviator",
-        "text": "Piloting.\n<b>Power Action</b> - Spot a <i>vehicle</i> that has no damage to place 1 damage on it. Then resolve its support die showing damage, increasing its value by 1, or by 2 instead if this character is piloting it."
+        "subtitle": "Vakmerő pilóta",
+        "text": "Járművezetés.\n<b>Erőteljes akció</b> - Jelölj ki egy <i>járművet</i>, amin nincs sebzés, hogy 1 sebzést helyezz rá! Ezután használd fel egy sebzést mutató támogatáskockáját, megnövelve az értékét 1-gyel, vagy 2-vel ha ez a karakter vezeti!"
     },
     {
         "code": "12074",
         "name": "Tarfful",
-        "subtitle": "Chieftain of Kachirho",
-        "text": "Each other <i>Wookiee</i> character you control has +1 health.\nBefore you resolve one of this character's character dice showing damage, increase its value by 1 if this character has 6 or more damage."
+        "subtitle": "Kachirho törzsfője",
+        "text": "Az összes többi általad iránytott <i>vuki</i> karakternek +1 életereje van.\nMielőtt felhasználod ennek a karakternek az egyik sebzést mutató karakterkockáját, növeld meg 1-gyel az értékét, ha ezen a karakteren 6 vagy több sebzés van!"
     },
     {
         "code": "12075",
-        "name": "Feat of Strength",
-        "text": "Spot a character that has 10 or more health to remove a die showing damage ([ranged], [melee], [indirect]), or up to 2 dice showing damage instead if that character has 15 or more health."
+        "name": "Hőstett",
+        "text": "Jelölj ki egy 10 vagy több életerővel rendelkező karaktert, hogy eltávolíts egy sebzést mutató kockát ([ranged], [melee], [indirect]), vagy legfeljebb 2 sebzést mutató kockát, ha a kijelölt karakternek 15 vagy több életereje van!"
     },
     {
         "code": "12076",
-        "name": "Imposing Figure",
-        "text": "Gain 1 resource if you control the character that has the most health <em>(including ties)</em>."
+        "name": "Impozáns megjelenés",
+        "text": "Kapsz 1 erőforrást, ha te irányítod a legtöbb életerővel rendelkező karaktert <em>(döntetlen esetén is)</em>."
     },
     {
         "code": "12077",
-        "name": "Plan of Attack",
-        "text": "Turn one of your dice to any side. Then you may spot a card titled Death Star Plans to turn another one of your dice to any side."
+        "name": "Támadási terv",
+        "text": "Fordítsd egy kockádat tetszőleges oldalára! Ezután kijelölheted a Halálcsillag tervrajza nevű kártyát, hogy egy másik kockádat is tetszőleges oldalára fordítsd."
     },
     {
         "code": "12078",
-        "flavor": "\"We'll make for that ridge.\" <cite>Ki-Adi-Mundi</cite>",
-        "name": "Run to Safety",
-        "text": "Heal 1 damage from a character. Then you may heal 2 damage from another character that shares a subtype with that character."
+        "flavor": "\"A gerinc felé indulunk.\" <cite>Ki-Adi-Mundi</cite>",
+        "name": "Fedezékbe húzódás",
+        "text": "Gyógyíts 1 sebzést egy karakteren! Ezután gyógyíthatsz 2 sebzést egy másik karakteren, ha annak az altípusa megegyezik az előző karakter altípusával."
     },
     {
         "code": "12079",
-        "flavor": "During the Battle of Kashyyyk, Wookiee troopers ambushed their foes from nearby cliffs.",
-        "name": "Swing In",
-        "text": "Spot any number of characters that each have 10 or more health to roll one character die on each of them into your pool."
+        "flavor": "A kashyyyki csatában a vukik a sziklaszirtekről vetették alá magukat, meglepve az ellenségeiket.",
+        "name": "Átlendülés",
+        "text": "Jelölj ki tetszőleges számú karaktert, akinek 10 vagy több életereje van, hogy bedobj mindegyikükről egy karakterkockát a kockakészletedbe!"
     },
     {
         "code": "12080",
-        "flavor": "\"Use the Force, Luke.\" <cite>Obi-Wan Kenobi</cite>",
-        "name": "Trench Run",
-        "text": "Activate one of your <i>pilots</i> and one of your <i>vehicles</i>. Then you may spot a <i>Death Star</i> plot to play a card titled Trust Your Feelings from your hand or discard pile."
+        "flavor": "\"Meríts az Erőből, Luke.\" <cite>Obi-Wan Kenobi</cite>",
+        "name": "Árokrepülés",
+        "text": "Aktiváld egy <i>pilótádat</i> és egy <i>járművedet</i>! Ezután kijelölhetsz egy <i>Halálcsillag</i> tervet, hogy kijátssz egy Bízz az Erőben! kártyát a kezedből vagy a dobott lapjaid közül."
     },
     {
         "code": "12081",
-        "name": "Destroy The Death Star",
-        "text": "After setup, give this plot 20 shields.\nYou can resolve your <i>pilot</i> and <i>vehicle</i> dice showing ranged damage against this plot.\n<b>Action</b> - If this plot has no shields, spend 1 resource to reroll 1 of your <i>pilot</i> dice and 1 of your <i>vehicle</i> dice. Then, if both of those dice are showing damage, you win the game."
+        "name": "A Halálcsillag elpusztítása",
+        "text": "Az előkészületek után helyezz erre a tervre 20 pajzsot!\nA távolsági sebzést mutató <i>pilóta</i> és <i>jármű</i>kockáidat felhasználhatod ez ellen a terv ellen.\n<b>Akció</b> - Ha ezen a terven nincs pajzs, költs el 1 erőforrást, hogy újradobd 1 <i>pilóta</i> és 1 <i>jármű</i>kockádat! Ezután ha mindkét kocka sebzést mutat, megnyerted a játékot."
     },
     {
         "code": "12082",
-        "name": "Fireball",
-        "text": "After resolve this die, place 1 damage on this support.\nAfter this die rolls a blank ([blank]), if Kazuda Xiono is not piloting this support, remove all damage on it and deal that much indirect damage to yourself."
+        "name": "Tűzgolyó",
+        "text": "Miután felhasználtad ezt a kockát, helyezz 1 sebzést erre a támogatásra.\nMiután ezzel a kockával üres oldalt ([blank]) dobtál, és nem Kazuda Xiono vezeti ezt a támogatást, távolíts el minden sebzést erről a támogatásról és okozz magadnak annyi közvetett sebzést, ahány sebzést eltávolítottál!"
     },
     {
         "code": "12083",
-        "name": "Ghost",
-        "text": "Ambush.\nAfter this support enters play, you may activate a <i>Spectre</i> you control.\nAfter you resolve this die, you may give each character piloting this support 1 shield."
+        "name": "Szellem",
+        "text": "Rajtaütés.\nMiután ez a támogatás a játékba került, aktiválhatsz egy irányításod alatt lévő <i>Lidércet</i>.\nMiután felhasználtad ezt a kockát, minden karakternek adhatsz 1 pajzsot, aki ezt a támogatást vezeti."
     },
     {
         "code": "12084",
-        "name": "Phantom",
-        "text": "<b>Power Action</b> - Spot <em>Ghost</em> to attach this support to it as a <i>mod</i> upgrade <em>(it is no longer a support)</em>.\n<b>Action</b> - This upgrade becomes a support <em>(Do not ready it. Return this die to its card)</em>."
+        "name": "Fantom",
+        "text": "<b>Erőteljes akció</b> - Jelöld ki a <em>Szellem</em>et, hogy <i>mod</i> fejlesztésként hozzácsatold ezt a támogatást <em>(mostantól nem támogatásnak számít)</em>.\n<b>Akció</b> - Ez a fejlesztés támogatás lesz. <em>(Ne frissítsd fel! Helyezd vissza ezt a kockát a kártyájára!)</em>"
     },
     {
         "code": "12085",
-        "flavor": "The rebel base on Yavin 4 was cleverly hidden beneath an old Massassi temple.",
-        "name": "Rebel Hangar",
-        "text": "After you play this support, search your deck for up to 2 <i>vehicles</i> with a combined cost of 4 or less and play them for free. Shuffle your deck."
+        "flavor": "A Yavin 4-en lázadó bázist ügyesen egy régi massassi templom alatt rejtették el.",
+        "name": "Lázadó hangár",
+        "text": "Miután kijátszottad ezt a támogatást, keress ki a paklidból legfeljebb 2 <i>járművet</i>, melyeknek az összesített költsége 4 vagy kevesebb, és játszd ki őket ingyen! Keverd meg a paklidat!"
     },
     {
         "code": "12086",
-        "name": "Wookiee Protection",
-        "text": "Each of your <i>Wookiee</i> characters has Guardian.\nAfter you remove a die using Guardian, you may exhaust this support to draw a card."
+        "name": "Vuki védelem",
+        "text": "Minden <i>Vuki</i> karaktered Őrző lesz.\nMiután egy Őrzővel eltávolítasz egy kockát, kimerítheted ezt a támogatást, hogy húzz 1 lapot."
     },
     {
         "code": "12087",
-        "flavor": "A wound that would kill a human will only make a Wookiee angry.",
-        "name": "Fortitude",
-        "text": "Attached character has +3 health, or +4 health instead if it is a <i>Wookiee</i>."
+        "flavor": "A seb, ami végezne egy emberrel, egy vukit csak feldühít.",
+        "name": "Állóképesség",
+        "text": "A csatolt karakter +3 életerőt kap, vagy +4-et, ha <i>vuki</i>."
     },
     {
         "code": "12088",
-        "flavor": "Smuggling is the easy part. The trick is defending your haul.",
-        "name": "Master Smuggler",
-        "text": "After you activate this character, you may resolve one of your scoundrel dice as if it were showing a resource."
+        "flavor": "Csempészni könnyű. A trükkös rész a szállítmány megvédése.",
+        "name": "Mestercsempész",
+        "text": "Miután aktiváltad ezt a karakter, felhasználhatod egy <i>gazfickó</i>kockádat úgy, mintha erőforrást ([resource]) mutatna."
     },
     {
         "code": "12089",
         "name": "Sabine Wren",
-        "subtitle": "Artistic and Resourceful",
-        "text": "Piloting.\n[special] - Deal 2 indirect damage to an opponent, or 3 indirect damage instead if you have a Blue die, a Red die, and another Yellow die in your pool."
+        "subtitle": "Művészi és találékony",
+        "text": "Járművezetés.\n[special] - Okozz 2 közvetett sebzést egy ellenfélnek, vagy 3-at, ha van egy Kék, egy Piros és egy másik Sárga kocka a kockakészletedben!"
     },
     {
         "code": "12090",
-        "flavor": "\"I am excellent at causing pain.\"",
+        "flavor": "\"Ha a szükség úgy hozza, igenis tudok fájdalmat okozni.\"",
         "name": "Sinjir Rath Velus",
-        "subtitle": "Ex-Loyalty Officer",
-        "text": "After you resolve one of this character's character dice, you may place a card from your hand on the bottom of your deck to remove a die showing the same symbol as that die."
+        "subtitle": "Volt politikai tiszt",
+        "text": "Miután felhasználtad ennek a karakternek egy karakterkockáját, visszarakhatsz a paklid aljára egy lapot a kezedből, hogy eltávolíts egy ugyanolyan szimbólumú kockát, mint amilyet felhasználtál."
     },
     {
         "code": "12091",
         "name": "Torra Doza",
-        "subtitle": "Energetic Thrill-Seeker",
-        "text": "Piloting.\nAfter this character begins piloting a <i>vehicle</i>, you may resolve one of that <i>vehicle's</i> support or upgrade dice."
+        "subtitle": "Energikus kalandvágyó",
+        "text": "Járművezetés.\nMiután ez a karakter vezetni kezd egy <i>járművet</i>, felhasználhatod annak a <i>járműnek</i> egy támogatás- vagy fejlesztéskockáját."
     },
     {
         "code": "12092",
-        "flavor": "\"I know where they're really taking the Wookiees. Have you heard of the spice mines of Kessel?\" <cite>Ezra Bridger</cite>",
-        "name": "Vengeful Wookiee",
-        "text": "Before you activate this character, you may reroll a die. Then you may remove a die if this character has 6 or more damage."
+        "flavor": "\"Megtudtam, hogy hova viszik a vukikat. Hallottatok a kesseli fűszerbányákról?\" <cite>Ezra Bridger</cite>",
+        "name": "Bosszúszomjas vuki",
+        "text": "Mielőtt aktiválod ezt a karaktert, újradobhatsz egy kockát. Ezután eltávolíthatsz egy kockát, ha ezen a karakteren 6 vagy több sebzés van."
     },
     {
         "code": "12093",
-        "flavor": "\"Stand up together, because that's when we're strongest-as one.\" <cite>Ezra Bridger</cite>",
-        "name": "As One",
-        "text": "Reroll a die. Then resolve up to 3 of your <i>Spectre</i> dice."
+        "flavor": "\"Fogjunk össze mindannyian, mert csak az tehet minket erőssé... az egység.\" <cite>Ezra Bridger</cite>",
+        "name": "Az egység",
+        "text": "Dobj újra egy kockát! Ezután használd fel legfeljebb 3 <i>Lidérc</i>kockádat."
     },
     {
         "code": "12094",
-        "name": "Lead from the Front",
-        "text": "Decrease the cost of this event by 1 for each different symbol showing on your dice.\nResolve up to 3 of your dice, increasing each of their values by 1."
+        "name": "Hadba vezetés",
+        "text": "Csökkentsd annyiszor 1-gyel ennek az eseménynek a kijátszási költségét, ahány különböző szimbólumot mutatnak a kockáid!\nHasználd fel legfejebb 3 kockádat, megnövelve mindegyik értékét 1-gyel!"
     },
     {
         "code": "12095",
-        "name": "Loth-Cat and Mouse",
-        "text": "Force an opponent to remove one of your dice. Then remove one of their dice."
+        "name": "Loth-macska csel",
+        "text": "Egy ellenfelednek el kell távolítania egyet a kockáid közül. Majd te is eltávolítod az ő egyik kockáját."
     },
     {
         "code": "12096",
-        "name": "Pride and Joy",
-        "text": "Play only if you control exactly one <i>vehicle</i> support.\nResolve one of your <i>vehicle</i> dice without removing it."
+        "name": "Öröm és büszkeség",
+        "text": "Csak akkor játszhatod ki, ha pontosan egy <i>jármű</i>támogatást irányítasz.\nHasználd fel egy <i>jármű</i>kockádat anélkül, hogy eltávolítanád!"
     },
     {
         "code": "12097",
-        "name": "Reciprocate",
-        "text": "Ready an opponent's character. Then gain 1 resource."
+        "name": "Viszonzás",
+        "text": "Frissítsd fel egy ellenfeled karakterét! Ezután kapsz 1 erőforrást."
     },
     {
         "code": "12098",
-        "name": "Blue Ace",
-        "text": "Before you resolve this die, remove any number of resources from this support to increase its value by that number.\nAfter you resolve this die, you may place 1 resource on this support."
+        "name": "Kék Ász",
+        "text": "Mielőtt felhasználod ezt a kockát, távolíts el erről a támogatásról tetszőleges számú erőforrást, hogy megnöveld az értékét annyival, ahány erőforrást eltávolítottál.\nMiután felhasználtad ezt a kockát, 1 erőforrást helyezhetsz erre a támogatásra."
     },
     {
         "code": "12099",
-        "flavor": "The astromech R1-J5 was a mechanic for Team Fireball and long-time comanion of Jarek Yeager.",
-        "name": "Bucket",
-        "text": "[special] - Gain 1 resource and either place 1 resource on a support or remove 1 damage fom a support."
+        "flavor": "Az R1-J5 asztromech droid a Tűzgolyó csapat szerelője és Jarek Yeager régi társa.",
+        "name": "Vödör",
+        "text": "[special] - Kapsz 1 erőforrást. Helyezz 1 erőforrást egy támogatásra, vagy távolíts el 1 sebzést egy támogatásról!"
     },
     {
         "code": "12100",
-        "flavor": "\"It's some of my best work\" <cite>Sabine Wren</cite>",
-        "name": "Sabine Wren's TIE Fighter",
-        "text": "Ambush.\nAfter this die modifies a <i>Spectre</i> die, you may discard a card from your hand to roll this die into your pool."
+        "flavor": "\"A legszebb munkáim egyike\" <cite>Sabine Wren</cite>",
+        "name": "Sabine Wren TIE vadásza",
+        "text": "Rajtaütés.\nMiután ezzel a kockával módosítottál egy <i>Lidérc</i>kockát, eldobhatsz egy lapot a kezedből, hogy bedobd ezt a kockát a kockakészletedbe."
     },
     {
         "code": "12101",
-        "name": "Custom Paint Job",
-        "text": "Modify <i>vehicle</i> support.\nAfter you play this upgrade, choose a color. Attached <i>vehicle</i> and its die become that color. Then reroll up to 2 dice."
+        "name": "Átfestés",
+        "text": "<i>Jármű</i>támogatás módosító.\nMiután kijátszottad ezt a fejlesztést, válassz egy színt! A csatolt <i>jármű</i> és a kockája a választott színű lesz. Ezután dobj újra legfeljebb 2 kockát!"
     },
     {
         "code": "12102",
-        "flavor": "Only a few possessed the strength necessary to launch a fully grown Trandoshan into the air.",
-        "name": "Fling",
-        "text": "Spot a <i>Wookiee</i> character to exhaust another character that has less health than that <i>Wookiee</i>."
+        "flavor": "Csak néhány lény elég erős ahhoz, hogy egy teljesen kifejlett trandoshait a levegőbe dobjon.",
+        "name": "Elhajítás",
+        "text": "Jelölj ki egy <i>vuki</i> karaktert, hogy kimeríts egy másik karaktert, akinek kevesebb életereje van, mint annak a <i>vukinak</i>."
     },
     {
         "code": "12103",
-        "name": "Wookiee Rage",
-        "text": "Ambush.\nUntil the end of the action phase, each \"Before\" ability on your <i>Wookiee</i> characters that contains \"has 6 or more damage\" now says \"has 1 or more damage\" instead.."
+        "name": "Vuki örjöngés",
+        "text": "Rajtaütés.\nAz akciók fázisának a végéig minden <i>Vuki</i> karaktereiden található, \"Mielőtt\" kifejezést tartalmazó képességet, amiben \"6 vagy több sebzés\" szerepel, mostantól \"1 vagy több sebzés\"-ként kell értelmezni."
     },
     {
         "code": "12104",
-        "flavor": "\"We're a crew. A team. In some ways, a family.\" <cite>Ezra Bridger</cite>",
-        "name": "Spectre Cell",
-        "text": "Include only if each character on your team is a <i>Spectre</i>"
+        "flavor": "\"Csapat vagyunk. Banda. Sőt, mondhatjuk, hogy család.\" <cite>Ezra Bridger</cite>",
+        "name": "Lidérc sejt",
+        "text": "Csak akkor használhatod, ha a csapatodban minden karaktered <i>Lidérc</i>"
     },
     {
         "code": "12105",
-        "name": "Valorous Tribe",
-        "text": "<b>Action</b> - Exhaust this plot to move up to 2 damage from a character to a character you control. Then you may spot a <i>Wookiee</i> to heal 1 damage from a character."
+        "name": "Bátor törzs",
+        "text": "<b>Akció</b> - Merítsd ki ezt a tervet, hogy átmozgass legfeljebb 2 sebzést egy karakterről egy általad irányított karakterre! Ezután kijelölhetsz egy <i>vukit</i>, hogy gyógyíts 1-et egy karakteren."
     },
     {
         "code": "12106",
-        "flavor": "\"Your sight cannot be healed, but I can teach you to see if you're willing\" <cite>Bendu</cite>",
-        "name": "Acute Awareness",
-        "text": "If a die was turned during an opponent's last turn this round, turn that die to any side."
+        "flavor": "\"A szemed nem gyógyíthatom meg, de megtaníthatlak látni. Ha akarod.\" <cite>Bendu</cite>",
+        "name": "Éleslátás",
+        "text": "Ha ebben a fordulóban egy ellenfeled az előző körében egy kockát átforgatott, fordítsd azt a kockát tetszőleges oldalára."
     },
     {
         "code": "12107",
-        "flavor": "\"Padawan, terror is not a weapon the Jedi use.\" <cite>Luminara Undili</cite>",
-        "name": "Bestow Wisdom",
-        "text": "Spot a <i>Jedi</i> or <i>Sith</i> to move up to 2 Blue <i>abilities</i> from that character to an <i>apprentice</i> character."
+        "flavor": "\"Padawan, a foglyaink kínzása nem tartozik a módszereink közé.\" <cite>Luminara Undili</cite>",
+        "name": "Bölcsesség átadása",
+        "text": "Jelölj ki egy <i>Jedit</i> vagy egy <i>Sithet</i>, hogy átmozgass legfeljebb 2 Kék <i>képességet</i> a kijelölt karakterről egy <i>tanítvány</i> karakterre!"
     },
     {
         "code": "12108",
-        "name": "Falling Avalanche",
-        "text": "Resolve one of your dice showing melee damage ([melee]), increasing its value by 3, or by 4 instead if it is a character or upgrade die belonging to a character that has a card titled Shien Mastery on it."
+        "name": "Lezúduló lavina",
+        "text": "Használd fel egy közelharci sebzést mutató ([melee]) kockádat, megnövelve az értékét 3-mal, vagy 4-gyel, ha ez egy olyan karakter karakter- vagy fejlesztéskockája, akin van Shien technika."
     },
     {
         "code": "12109",
-        "name": "Fluid Riposte",
-        "text": "Spot a Blue character to remove a die showing damage ([ranged], [melee], [indirect]). Then, if that character has a card titled Shien Mastery on it, deal 1 damage to a character."
+        "name": "Könnyed riposzt",
+        "text": "Jelölj ki egy Kék karaktert, hogy eltávolíts egy sebzést mutató ([ranged], [melee], [indirect]) kockát! Ezután, ha a kijelölt karakteren van Shien technika nevű lap, okozz 1 sebzést egy karakternek."
     },
     {
         "code": "12110",
-        "name": "Infuse The Force",
-        "text": "Spot a <i>Sith</i> to deal 1 damage to a character.\nSpot a <i>Jedi</i> to give a character 1 shield.\nSpot an <i>apprentice</i> to draw a card."
+        "name": "Járjon át az Erő!",
+        "text": "Jelölj ki egy <i>Sithet</i>, hogy okozz 1 sebzést egy karakternek!\nJelölj ki egy <i>Jedit</i>, hogy adj egy 1 pajzsot egy karakternek!\nJelölj ki egy <i>tanítványt</i>, hogy húzz 1 lapot!"
     },
     {
         "code": "12111",
-        "name": "On Guard",
-        "text": "Ambush.\nGive a character 1 shield or spend 1 resource to ready an upgrade."
+        "name": "Őrségben",
+        "text": "Rajtaütés.\nAdj egy karakternek 1 pajzsot, vagy költs el 1 erőforrást, hogy felfrissíts egy fejlesztést!"
     },
     {
         "code": "12112",
-        "flavor": "\"Hey, when I show off, it is instructive. And inspiring.\" <cite>Anakin Skywalker</cite>",
-        "name": "Side By Side",
-        "text": "Reroll a die. Then you may remove a different die showing the same value as the die just rerolled."
+        "flavor": "\"Hé, ha én előadom magam, abból tanulnak! Tehát jót teszek vele.\" <cite>Anakin Skywalker</cite>",
+        "name": "Vállt vállnak vetve",
+        "text": "Dobj újra egy kockát! Ezután eltávolíthatsz egy másik kockát, ami ugyanazt az értéket mutatja, mint az újradobott kocka."
     },
     {
         "code": "12113",
-        "name": "Seeking Knowledge",
-        "text": "This support enters play with 2 resources on it.\nAfter the action phase begins, remove 1 resource from this support. Then if no resources are on it, discard it to draw 3 cards."
+        "name": "A tudás keresése",
+        "text": "Ez a támogatás úgy kerül játékba, hogy 2 erőforrás van rajta.\nMiután az akciófázis megkezdődik, távolíts el 1 erőforrásjelzőt erről a támogatásról! Ezután, ha ezen a kártyán nincs erőforrás, dobd el, hogy húzz 3 lapot!"
     },
     {
         "code": "12114",
-        "name": "Shien Mastery",
-        "text": "Blue character only. Limit 1 <i>form</i> per character.\nAfter you play this upgrade, you may roll this die into your pool.\n[special] - Deal 2 damage to a character. You may remove a die showing damage."
+        "name": "Shien technika",
+        "text": "Csak Kék karakternek. Egy karakteren csak 1 <i>alak</i> lehet.\nMiután kijátszottad ezt a fejlesztést, bedobhatod a kockáját a kockakészletedbe.\n[special] - Okozz 2 sebzést egy karakternek! Eltávolíthatsz egy sebzést mutató kockát."
     },
     {
         "code": "12115",
-        "name": "Shien Training",
-        "text": "Blue character only.\n[special] - Deal 2 damage to a character. You may discard this upgrade to play a card titled Shien Mastery from your hand or discard pile on attached character for free."
+        "name": "Shien kiképzés",
+        "text": "Csak Kék karakternek.\n[special] - Okozz 2 sebzést egy karakternek! Eldobhatod ezt a fejlesztést a játékból, hogy kijátszd a csatolt karakterre a Shien technika nevű lapot a kezedből vagy a dobott lapjaid közül."
     },
     {
         "code": "12116",
-        "flavor": "\"Luke, we've got a malfunction in fire control.\" <cite>Dak Ralter</cite>",
-        "name": "Systems Malfunction",
-        "text": "Modify opponent's <i>vehicle</i> support.\n[special] - Discard attached <i>vehicle</i>."
+        "flavor": "\"Uram, meghibásodott a tűzirányító!\" <cite>Dak Ralter</cite>",
+        "name": "Rendszerhiba",
+        "text": "Ellenfeled <i>jármű</i>támogatásának módosítója.\n[special] - Dobd el a csatolt <i>járművet</i>!"
     },
     {
         "code": "12117",
-        "name": "Assail",
-        "text": "Ambush.\nSpot a piloted <i>vehicle</i> to remove a die."
+        "name": "Megtámadás",
+        "text": "Rajtaütés.\nJelölj ki egy pilóta vezette <i>járművet</i>, hogy eltávolíts egy kockát!"
     },
     {
         "code": "12118",
-        "name": "Command and Conquer",
-        "text": "Spot a <i>pilot</i> to activate it.\nSpot a <i>leader</i> to turn one of your character dice to any side.\nSpot a <i>trooper</i> to resolve one of your dice."
+        "name": "Vezess és hódíts!",
+        "text": "Jelölj ki egy <i>pilótát</i>, hogy aktiváld!\nJelölj ki egy <i>vezetőt</i>, hogy egy karakterkockádat tetszőleges oldalára fordíts!\nJelölj ki egy <i>gyalogost</i>, hogy felhasználd egy kockádat!"
     },
     {
         "code": "12119",
-        "flavor": "\"We are not ready for open war.\" <cite>Mon Mothma</cite>",
-        "name": "Covert Mission",
-        "text": "Give a character 1 shield. Spot a <i>mission</i> plot to search your deck for a card and add it to your hand. Shuffle your deck."
+        "flavor": "\"Nem állunk készen a nyílt hadviselésre.\" <cite>Mon Mothma</cite>",
+        "name": "Fedett küldetés",
+        "text": "Adj egy karakternek 1 pajzsot! Jelölj ki egy <i>küldetés</i> tervet, hogy kikeress a paklidból egy lapot, és vedd a kezedbe! Keverd meg a paklidat!"
     },
     {
         "code": "12120",
-        "name": "Embark",
-        "text": "Activate one of your characters or supports. Then, if you have 5 or more dice in your pool, turn one of them to a side with a symbol not showing on any of your dice."
+        "name": "Dokkolás",
+        "text": "Aktiváld egy karakteredet vagy támogatásodat! Ezután, ha 5 vagy több kocka van a kockakészletedben, fordítsd az egyiket olyan oldalára, amilyet egyik kockád sem mutat!"
     },
     {
         "code": "12121",
-        "flavor": "\"Come with me.\" <cite>Darth Vader</cite>",
-        "name": "Flanked by Wingmen",
-        "text": "Activate one of your characters to give it 1 shield, or 2 shields instead if you spot 2 <i>pilots</i>."
+        "flavor": "\"Utánam!\" <cite>Darth Vader</cite>",
+        "name": "Kísérőpilóták",
+        "text": "Aktiváld egy karakteredet, hogy adj neki 1 pajzsot, vagy 2-t, ha kijelölsz 2 <i>pilótát</i>!"
     },
     {
         "code": "12122",
-        "name": "Joint Maneuver",
-        "text": "Resolve one of your <i>vehicle</i> dice showing damage ([ranged], [melee], or [indirect]), increasing its value by the number of characters piloting that <i>vehicle</i.>."
+        "name": "Összehangolt manőver",
+        "text": "Használd fel egy sebzést mutató ([ranged], [melee], vagy [indirect]) <i>jármű</i>kockádat, megnövelve az értékét annyival, ahány karakter vezeti azt a <i>járművet</i>!"
     },
     {
         "code": "12123",
-        "name": "Sneak Attack",
-        "text": "Ambush.\nPlay a Red <i>vehicle</i> from your hand for free. After the upkeep phase begins, if that <i>vehicle</i> is in play, return it to its owner's hand."
+        "name": "Orvtámadás",
+        "text": "Rajtaütés.\nJátssz ki egy Piros <i>járművet</i> ingyen a kezedből! Miután a fenntartási fázis megkezdődik, és az a <i>jármű</i> a játékban van, visszakerül a tulajdonosa kezébe."
     },
     {
         "code": "12124",
-        "name": "Under Fire",
-        "text": "Deal 1 damage to a Red character you control. Then remove a die."
+        "name": "Tűz alatt",
+        "text": "Okozz 1 sebzést egy általad irányított Piros karakternek! Ezután távolíts el egy kockát!"
     },
     {
         "code": "12125",
-        "name": "Tactical Delay",
-        "text": "This support enters play with 2 resources on it.\nAfter the action phase begins, remove 1 resource from this support. Then if no resources are on it, discard it to gain 2 actions."
+        "name": "Taktikai késleltetés",
+        "text": "Ez a támogatás úgy kerül játékba, hogy 2 erőforrás van rajta.\nMiután az akciófázis megkezdődik, távolíts el 1 erőforrásjelzőt erről a támogatásról! Ezután, ha ezen a kártyán nincs erőforrás, dobd el, hogy kapj 2 akciót!"
     },
     {
         "code": "12126",
-        "name": "Death Star Plans",
-        "text": "<b>Action</b> - Exhaust this upgrade to place 1 resource on or remove 2 shields from your <i>Death Star</i> plot.\nAfter an opponent's effect deals damage to attached character, they may move this card to one of their characters."
+        "name": "A Halálcsillag tervrajza",
+        "text": "<b>Akció</b> - Merítsd ki ezt a fejlesztést, hogy helyezz 1 erőforrást egy <i>Halálcsillag</i> tervre, vagy távolíts el aról a tervről 2 pajzsot!\nMiután egy ellenfeled valamilyen hatással sebzést okoz a csatolt karakternek, átmozgathatja ezt a fejlesztést egy karakterére."
     },
     {
         "code": "12127",
-        "flavor": "\"I don't think the maintenance teams even tested it once.\" <cite>Jessika Pava</cite>",
-        "name": "Experimental Booster",
-        "text": "Modify <i>vehicle</i> support.\nAfter this die rolles a blank ([blank]), discard attached <i>vehicle</i> unless it is piloted."
+        "flavor": "\"Nem hiszem, hogy a technikusok valaha is kipróbálták.\" <cite>Jessika Pava</cite>",
+        "name": "Kísérleti meghajtó",
+        "text": "<i>Jármű</i>támogatás módosító.\nMitán ezzel a kockával üres oldalt ([blank]) dobtál, dobd el a csatolt <i>járművet</i>, kivéve, ha vezetik!"
     },
     {
         "code": "12128",
-        "name": "Licensed To Fly",
-        "text": "Attached character gains <i>pilot</i> and has Piloting."
+        "name": "Pilótaengedély",
+        "text": "A csatolt karakter <i>pilóta</i> lesz és megkapja a Járművezetést."
     },
     {
         "code": "12129",
-        "flavor": "Nar Shaddaa was rife with criminals who coveted prized valuables, such as Luke Skywalker's lightsaber.",
-        "name": "Nar Shaddaa Thief",
-        "text": "<b>Power Action</b> - If this character is exhausted and an opponent has at least 2 more resources than you, take 1 resource from them."
+        "flavor": "A Nar Shaddaaon nyüzsögtek a bűnözők, akik az olyan értékekre fenték a fogukat, mint Luke Skywalker fénykardja.",
+        "name": "Nar Shaddaa-i tolvaj",
+        "text": "<b>Erőteljes akció</b> - Ha ez a karakter ki van merülve és egy ellenfelednek legalább 2-vel több erőforrása van mint neked, vegyél el tőle 1 erőforrást!"
     },
     {
         "code": "12130",
-        "name": "Controlled Chaos",
-        "text": "Choose a symbol. then reroll up to 5 dice. You may spend 1 resource to reroll any number of those dice again. For each of those dice showing the chosen symbol, deal 1 indirect damage ([indirect]) to an opponent."
+        "name": "Irányított káosz",
+        "text": "Válassz egy szimbólumot! Ezután dobj újra legfeljebb 5 kockát! Elkölthetsz 1 erőforrást, hogy újradobj közülük tetszőleges számút. Okozz 1 közvetett sebzést ([indirect]) egy ellenfelednek minden egyes olyan kocka után, ami ezek közül a választott szimbólumot mutatja!"
     },
     {
         "code": "12131",
-        "name": "Dangerous Escape",
-        "text": "Discard all downgrades on a character. Then deal damage to that character equal to the number of downgrades discarded this way."
+        "name": "Kockázatos menekülés",
+        "text": "Dobj el minden gyengítést egy karakterről! Ezután okozz annyi sebzést annak a karakternek, ahány gyengytést eldobtál róla!"
     },
     {
         "code": "12132",
-        "flavor": "\"I never ask for anything twice.\" <cite>Dryden Vos</cite>",
-        "name": "Deadlock",
-        "text": "Place 1 resource on a support you control. Place 1 resource on a support you do not control."
+        "flavor": "\"Én semmit sem kérek kétszer.\" <cite>Dryden Vos</cite>",
+        "name": "Patthelyzet",
+        "text": "Helyezz 1 erőforrást egy általad irányított támogatásra! Helyezz 1 erőforrást egy nem általad irányított támogatásra!"
     },
     {
         "code": "12133",
-        "name": "Monopolize",
-        "text": "Decrease the cost of this event by 1 for each opponent that has no resources.\nRemove a die. Then if you have 3 or more resources, gain 1 resource."
+        "name": "Kisajátítás",
+        "text": "Csökkentsd annyiszor 1-gyel ennek az eseménynek a költségét, ahány ellenfelednek nincs erőforrása!\nTávolíts el egy kockát! Ezután, ha 3 vagy több erőforrásod van, papsz 1 erőforrást."
     },
     {
         "code": "12134",
-        "name": "Reap",
-        "text": "Ambush.\nTurn one of your dice to a side showing a resource ([resource])."
+        "name": "Lekaszálás",
+        "text": "Rajtaütés.\nFordítsd az egyik kockádat erőforrást mutató ([resource]) oldalára!"
     },
     {
         "code": "12135",
-        "name": "Rogue Tendencies",
-        "text": "Spot a <i>scavenger</i> to gain 1 resource.\nSpot a <i>scoundrel</i> to reroll up to 3 dice.\nSpot a <i>bounty hunter</i> to discard a random card from an opponent's hand."
+        "name": "Tolvaj hajlam",
+        "text": "Jelölj ki egy <i>gyűjtögetőt</i>, hogy kapj 1 erőforrást!\nJelölj ki egy <i>gazfickót</i>, hogy újradobj legfeljebb 3 kockát!\nJelölj ki egy <i>fejvadászt</i>, hogy eldobass egy véletlenszerű lapot egy ellenfél kezéből!"
     },
     {
         "code": "12136",
-        "flavor": "The Jawaese language contains 27 words for \"junk\" and not a single one for \"cowardice.\"",
-        "name": "Survival Instinct",
-        "text": "Give control of the battlefield to an opponent. Then remove a die showing a value of 2 or less."
+        "flavor": "A jawák nyelvében 27 szó létezik az \"ócskavasra\", és egyetlen sem a \"gyávaságra.\"",
+        "name": "Túlélési ösztön",
+        "text": "Add át a csatatér iránytását egy ellenfelednek! Ezután távolíts el egy 2 vagy kisebb értéket mutató kockát!"
     },
     {
         "code": "12137",
-        "flavor": "If the electrified net didn't trap the quarry, it would surely slow them down.",
-        "name": "Taken by Surprise",
-        "text": "Deal 1 damage to a ready character or spot a <i>mission</i> plot to deal 2 damage to a diceless character."
+        "flavor": "Ha az elektromos háló nem is kapja el a zsákmányt, mindenképpen lelassítja.",
+        "name": "A meglepetés ereje",
+        "text": "Okozz 1 sebzést egy felfrissült karakternek, vagy jelölj ki egy <i>küldetés</i> tervet, hogy okozz 2 sebzést egy kocka nélküli karakternek!"
     },
     {
         "code": "12138",
-        "flavor": "You would be surprised how many problems a well-timed rocket can solve.",
-        "name": "Think On Your Feet",
-        "text": "Remove 1 resource from a non-plot card you control to remove a die showing damage ([ranged], [melee], or [indirect])."
+        "flavor": "Meglepődnél, hogy mennyi problémát megoldhat egy jól időzített rakéta.",
+        "name": "Hírtelen döntés",
+        "text": "Távolíts el 1 erőforrást egy általad irányított nem terv kártyáról, hogy eltávolíts egy sebzést mutató ([ranged], [melee], vagy [indirect]) kockát!"
     },
     {
         "code": "12139",
-        "name": "Coaxium Heist",
-        "text": "Include only if you bring a set-aside Pyke Sentinel ([CM]40) to the game. After set-up, add that character to an opponent's team.\n<b>Action</b> - If no opponent controls a Pyke Sentinel, set this plot aside and remove 4 of your dice each showing different symbols to gain 10 resources."
+        "name": "Koaxiumrablás",
+        "text": "Csak akkor használhatod, ha van egy félretett Pyke őröd ([CM]40). Az előkészületek után add az őrszemet az ellenfél csapatához!\n<b>Akció</b> - Ha egyik ellenfeled sem irányít Pyke őrt, tedd félre ezt a tervet és távolítsd el 4 különböző szimbólumot mutató kockádat, hogy kapj 10 erőforrást!"
     },
     {
         "code": "12140",
-        "flavor": "The twin pods housed both a pilot and a gunner.",
-        "name": "Cloud Car",
-        "text": "<b>Action</b> - Play this <i>vehicle</i> for free from your hand. After the upkeep phase begins, give control of this support to an opponent."
+        "flavor": "Az ikerfülkében kapott helyet mind a pilóta, mind a tüzér.",
+        "name": "Felhőautó",
+        "text": "<b>Akció</b> - Játszd ki ingyen ezt a <i>járművet</i> a kezedből! Miután a fenntartási fázis megkezdődik, add át ennek a támogatásnak az irányítását egy ellenflednek!"
     },
     {
         "code": "12141",
-        "flavor": "Be careful who you hire.",
-        "name": "Double Agent",
-        "text": "After the upkeep phase begins, deal 2 indirect damage ([indirect]) to yourself.\n<b>Action</b> - Discard an event from your hand to give control of this support to an opponent."
+        "flavor": "Légy óvatos, kit bérelsz fel!",
+        "name": "Kettős ügynök",
+        "text": "Miután a fenntartási fázis megkezdődik, okozz magadnak 2 közvetett sebzést ([indirect])!\n<b>Akció</b> - Dobj el egy eseményt a kezedből, hogy átadd ennek a támogatásnak az irányítását egy ellenfélnek!"
     },
     {
         "code": "12142",
-        "name": "Improvised Explosive",
-        "text": "This support enters play with 2 resources on it.\nAfter the action phase begins, remove 1 resource from this support. Then if no resources are on it, discard it to deal 3 indirect damage ([indirect]) to a player."
+        "name": "Időzített bomba",
+        "text": "Ez a támogatás úgy kerül játékba, hogy 2 erőforrás van rajta.\nMiután az akciófázis megkezdődik, távolíts el 1 erőforrásjelzőt erről a támogatásról! Ezután, ha ezen a kártyán nincs erőforrás, dobd el, hogy okozz 3 közvetett sebzést ([indirect]) egy játékosnak!"
     },
     {
         "code": "12143",
-        "flavor": "\"I do love me a party.\" <cite>Weequay Pirate</cite>",
-        "name": "Raiding Party",
-        "text": "After you activate this support, you may remove 1 resource from a support or upgrade in play. Then gain 1 resource."
+        "flavor": "\"Pont az ilyen bulikat szeretem.\" <cite>Weequay kalóz</cite>",
+        "name": "Portyázás",
+        "text": "Miután aktiváltad ezt a támogatást, eltávolíthatsz 1 erőforrást egy játékban lévő támogatásról vagy fejlesztésről. Ezután kapsz 1 erőforrást."
     },
     {
         "code": "12144",
-        "name": "Repurposing",
-        "text": "<b>Action</b> - Exhaust this support and set aside an <i>equipment</i> or <i>weapon</i> from an opponent's discard pile to play an <i>equipment</i> or <i>weapon</i> from your hand, decreasing its cost by 1."
+        "name": "Újratervezés",
+        "text": "<b>Akció</b> - Merítsd ki ezt a támogatást és tegyél félre egy <i>felszerelést</i> vagy <i>fegyvert</i> egy ellenfeled dobott lapjai közül, hogy kijátssz egy <i>felszerelést</i> vagy <i>fegyvert</i> a kezedből, 1-gyel csökkentve a költségét!"
     },
     {
         "code": "12145",
-        "name": "Magna-Glove",
-        "text": "[special] - Spend resources equal to the cost of an opponent's <i>equipment</i> or <i>weapon</i> upgrade in play to move it to attached character. Then spot a <i>scavenger</i> to roll that upgrade's die into your pool."
+        "name": "Magna-kesztyű",
+        "text": "[special] - Költs el annyi erőforrást, amennyi egy ellenfeled játékban lévő <i>felszerelés-</i> vagy <i>fegyver</i>fejlesztésének költsége, hogy átmozgasd azt a csatolt karakterre! Ezután jelölj ki egy <i>gyűjtögetőt</i>, hogy annak a fejlesztésnek a kockáját bedobd a kockakészletedbe!"
     },
     {
         "code": "12146",
-        "name": "Z-6 Jetpack",
-        "text": "This upgrade enters play with 1 resource on it.\n[special] - Place 1 resource on this upgrade. Then deal indirect damage to an opponent equal to the number of resources on this upgrade."
+        "name": "Z-6 hátirakéta",
+        "text": "Ez a fejlesztés úgy kerül játékba, hogy 1 erőforrás van rajta.\n[special] - Helyezz 1 erőforrást erre a fejlesztésre! Ezután okozz annyi közvetett sebzést egy ellenfélnek, ahány erőforrás van ezen a fejlesztésen!"
     },
     {
         "code": "12147",
-        "flavor": "\"Hey, what're you trying to push on us?\" <cite>Owen Lars</cite>",
-        "name": "Jawa Junk Dealer",
-        "text": "After you activate this character, you may play a Gray neutral card from your hand, decreasing its cost by 1."
+        "flavor": "\"Selejtet akartok rám sózni?\" <cite>Owen Lars</cite>",
+        "name": "Jawa hulladékkereskedő",
+        "text": "Miután aktiváltad ezt a karaktert, kijátszhatsz egy semleges Szürke kártyát a kezedből, 1-gyel csökkentve a költségét."
     },
     {
         "code": "12148",
-        "name": "Outdated Tech",
-        "text": "Modify opponent's <i>vehicle</i> support.\nBefore attached <i>vehicle's</i> support die is resolved, you may reduce its value by 1."
+        "name": "Elavult technológia",
+        "text": "Ellenfeled <i>jármű</i>támogatásának módosítója.\nMielőtt a csatolt <i>jármű</i>támogatás kockáját felhasználják, csökkentheted 1-gyel az értékét."
     },
     {
         "code": "12149",
-        "name": "Eject",
-        "text": "Ambush.\nDiscard a <i>vehicle</i> you control to heal 2 damage from one of its piloting characters and give that character 2 shields."
+        "name": "Katapultálás",
+        "text": "Rajtaütés.\nDobj el egy általad irányított <i>járművet</i>, hogy gyógyíts 2 sebzést egy járművet vezető karakteren, és adj neki 2 pajzsot!"
     },
     {
         "code": "12150",
-        "flavor": "There's a fine line between haggling and swindling",
-        "name": "Harmless Trick",
-        "text": "Spot a Gray character to remove a die."
+        "flavor": "Vékony vonal választja el az alkudozást az átveréstől.",
+        "name": "Ártalmatlan trükk",
+        "text": "Jelölj ki egy Szürke karaktert, hogy eltávolíts egy kockát!"
     },
     {
         "code": "12151",
         "flavor": "\"Togu togu!\"",
-        "name": "Salvaged Parts",
-        "text": "Set aside 2 non-event cards from a discard pile. Then spot a <i>scavenger</i> to gain 1 resource."
+        "name": "Kiselejtezett alkatrészek",
+        "text": "Tegyél félre 2 nem esemény kártyát a dobott lapjaid közül! Ezután jelölj ki egy <i>gyűjtögetőt</i>, hogy kapj 1 erőforrást!"
     },
     {
         "code": "12152",
-        "name": "Standoff",
-        "text": "Ambush.\nGive each character 1 shield."
+        "name": "Döntetlen",
+        "text": "Rajtaütés.\nAdj 1 pajzsot minden karakternek!"
     },
     {
         "code": "12153",
         "name": "Utinni!",
-        "text": "Spot up to 4 <i>Jawa</i> characters to discard that many cards from the top of a deck."
+        "text": "Jelölj ki legfeljebb 4 <i>Jawa</i> karaktert, hogy eldobass annyi lapot egy pakli tetejéről, ahány <i>Jawát</i> kijelöltél!"
     },
     {
         "code": "12154",
-        "name": "Merchant Freighter",
-        "text": "This support enters play with 3 resources on it.\nThis support can be activated.\nAfter you activate this support, you may remove 1 resource from it to gain 1 resource."
+        "name": "Kereskedelmi teherhajó",
+        "text": "Ez a támogatás úgy kerül játékba, hogy 3 erőforrás van rajta.\nEz a támogatás aktiválható.\nMiután ezt a támogatást aktiváltad, eltávolíthatsz róla 1 erőforrást, hogy kapj 1 erőforrást."
     },
     {
         "code": "12155",
-        "flavor": "one of these mobile fortresses was large enough to contain an entire Jawa clan.",
-        "name": "Sandcrawler",
-        "text": "This support enters play exhausted.\n[special] - Discard the top 4 cards of your deck to add a set-aside Jawa Junk Dealer ([CM]147) to your team."
+        "flavor": "Egy ilyen mozgó erőd elég nagy ahhoz, hogy egy egész jawa klán beférjen.",
+        "name": "Homokkúszó",
+        "text": "Ez a támogatás kimerülten kerül a játékba.\n[special] - Dobd el a paklid felső 4 lapját, hogy hozzáadj a csapatodhoz egy félretett Jawa hulladékkereskedőt ([CM]147) !"
     },
     {
         "code": "12156",
-        "name": "Wretched Hive",
-        "text": "<b>Action</b> - Exhaust this support and spot a <i>scavenger</i> to force an opponent to choose and discard a card from their hand unless they give you 1 resource."
+        "name": "Szánalmas romhalmaz",
+        "text": "<b>Akció</b> - Merítsd ki ezt a támogatást és jelölj ki egy <i>gyűjtögetőt</i>, hogy egy ellenfeled eldobjon egy általa választott lapot a kezéből, kivéve ha ad neked 1 erőforrást!"
     },
     {
         "code": "12157",
-        "name": "Abandoned Refinery",
+        "name": "Elhagyott finomító",
         "subtitle": "Savereen",
-        "text": "<b>Power Action</b> - Discard a support or upgrade you control to play a support or upgrade from your hand, decreasing its cost by 1. Then draw a card."
+        "text": "<b>Erőteljes akció</b> - Dobj el egy általad irányított támogatást vagy fejlesztést a játékból, hogy kijátssz egy támogatást vagy fejlesztést a kezedből, 1-gyel csökkentve a költségét! Ezután húzz 1 lapot!"
     },
     {
         "code": "12158",
-        "name": "Colossus",
+        "name": "Kolosszus",
         "subtitle": "Castilon",
-        "text": "After any player's character begins piloting a <i>vehicle</i>, that player may take control of this battlefield.\nAfter you take control of this battlefield, you may reroll a die."
+        "text": "Miután bármelyik játékos karaktere elkezd vezetni egy <i>járművet</i>, az a játékos átveheti ennek a csatatérnek az irányítását.\nMiután megszerezted ennek a csatatérnek az irányítását, újradobhatsz egy kockát."
     },
     {
         "code": "12159",
-        "name": "Pyke Syndicate Mine",
+        "name": "Pyke Szindikátusi bánya",
         "subtitle": "Kessel",
-        "text": "<b>Claim</b> - Discard the top card of a deck, or the top 2 cards instead if you spot a diceless character. If a non-event card is discarded this way, gain 1 resource."
+        "text": "<b>Uralom</b> - Dobd el egy pakli felső lapját, vagy a felső 2-t, ha kijelölsz egy kocka nélküli karaktert! Ha egy nem esemény kártya kerül ilyen módon eldobásra, kapsz 1 erőforrást."
     },
     {
         "code": "12160",
-        "name": "Valley of the Dark Lords",
+        "name": "A Sötét Nagyurak völgye",
         "subtitle": "Moraband",
-        "text": "<b>Claim</b> - Remove a non-character die."
+        "text": "<b>Uralom</b> - Távolíts el egy nem karakterkockát!"
     }
 ]

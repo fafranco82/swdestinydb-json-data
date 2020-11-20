@@ -33,7 +33,7 @@
     },
     {
         "code": "death-star",
-        "name": "Death Star"
+        "name": "Halálcsillag"
     },
     {
         "code": "droid",
@@ -93,7 +93,7 @@
     },
     {
         "code": "mission",
-        "name": "Misszió"
+        "name": "Küldetés"
     },
     {
         "code": "mod",
@@ -106,6 +106,10 @@
     {
         "code": "nightbrother",
         "name": "Éjfívér"
+    },
+    {
+        "code": "partisan",
+        "name": "Partizán"
     },
     {
         "code": "pilot",
@@ -142,6 +146,10 @@
     {
         "code": "spell",
         "name": "Átok"
+    },
+    {
+        "code": "spy",
+        "name": "Kém"
     },
     {
         "code": "title",
