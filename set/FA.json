@@ -1996,7 +1996,7 @@
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": false,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Extremist Campaign",
@@ -2007,7 +2007,7 @@
         "subtypes": [
             "mission"
         ],
-        "text": "You can only include Yellow characters on your team.\nDuring setup, you lose the starting character roll.\nAfter setup, shuffle 2 set-aside copies each of Disable ([EaW] 137), Rebel ([SoR] 112), and Act of Cruelty ([AtG] 38) into your deck.",
+        "text": "You can only include Yellow characters on your team.\nDuring setup, you lose the starting character roll.\nAfter setup, lose the game unless you shuffle 2 set-aside copies each of Disable ([EaW] 137), Rebel ([SoR] 112), and Act of Cruelty ([AtG] 38) into your deck.",
         "ttscardid": "55112",
         "type_code": "plot"
     },
