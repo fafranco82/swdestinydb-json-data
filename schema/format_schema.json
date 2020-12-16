@@ -21,7 +21,7 @@
                 "restricted": {
                     "additionalProperties": false,
                     "items": {
-                        "pattern": "^[0-9]{5}$",
+                        "pattern": "^[0-9]{5}[A-Z]?$",
                         "type": "string"
                     },
                     "type": "array"
