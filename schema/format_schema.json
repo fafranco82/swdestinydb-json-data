@@ -34,6 +34,16 @@
                     },
                     "type": "array"
                 },
+                "restrictedCombinations": {
+                    "additionalProperties": false,
+                    "patternProperties": {
+                        "^[0-9]{5}([A-Z]+)?$": {
+                            "pattern": "^[0-9]{5}([A-Z]+)?$",
+                            "type": "array"
+                        }
+                    },
+                    "type": "object"
+                },
                 "sets": {
                     "items": {
                         "maxLength": 5,
