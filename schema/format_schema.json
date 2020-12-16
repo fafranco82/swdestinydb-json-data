@@ -18,6 +18,14 @@
                     },
                     "type": "object"
                 },
+                "banned": {
+                    "additionalProperties": false,
+                    "items": {
+                        "pattern": "^[0-9]{5}([A-Z]+)?$",
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
                 "restricted": {
                     "additionalProperties": false,
                     "items": {
