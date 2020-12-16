@@ -1996,7 +1996,7 @@
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": false,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Extremist Campaign",
