@@ -232,9 +232,20 @@ class ValidatorBase:
             if not set in self.collections['set']:
                 validations.append("Set code '%s' does not exist in format '%s'" % (set, format.get('code')))
 
-        for card, points in format.get('data').get('balance').items():
-            if not card in self.collections['card']:
-                validations.append("Card code '%s' does not exist in format '%s' balance of the force" % (card, format.get('code')))
+		if format.get('data').get('balance') is not None:
+			for card, points in format.get('data').get('balance').items():
+				if not card in self.collections['card']:
+					validations.append("Card code '%s' does not exist in format '%s' balance of the force" % (card, format.get('code')))
+
+        if format.get('data').get('banned') is not None:
+            for card in format.get('data').get('banned'):
+                if not card in self.collections['card']:
+                    validations.append("Card code '%s' does not exist in format '%s' ban list" % (card, format.get('code')))
+
+        if format.get('data').get('errata') is not None:
+            for card in format.get('data').get('errata'):
+                if not card in self.collections['card']:
+                    validations.append("Card code '%s' does not exist in format '%s' errata" % (card, format.get('code')))
 
         if validations:
             raise jsonschema.ValidationError("\n".join(["- %s" % v for v in validations]))
