@@ -11,7 +11,7 @@
                 "balance": {
                     "additionalProperties": false,
                     "patternProperties": {
-                        "^[0-9]{5}$": {
+                        "^[0-9]{5}[A-Z]?$": {
                             "pattern": "^[0-9]+(/[0-9]+)?$",
                             "type": "string"
                         }
@@ -21,7 +21,15 @@
                 "banned": {
                     "additionalProperties": false,
                     "items": {
-                        "pattern": "^[0-9]{5}([A-Z]+)?$",
+                        "pattern": "^[0-9]{5}[A-Z]?$",
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "errata": {
+                    "additionalProperties": false,
+                    "items": {
+                        "pattern": "^[0-9]{5}[A-Z]?$",
                         "type": "string"
                     },
                     "type": "array"
@@ -29,7 +37,7 @@
                 "restricted": {
                     "additionalProperties": false,
                     "items": {
-                        "pattern": "^[0-9]{5}([A-Z]+)?$",
+                        "pattern": "^[0-9]{5}[A-Z]?$",
                         "type": "string"
                     },
                     "type": "array"
