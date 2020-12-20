@@ -180,7 +180,7 @@
     {
         "code": "05034",
         "name": "ETA-2 Interceptor",
-        "text": "<b>Action</b> - Retirez ce dé ou un de vos dés montrant un bouclier ([shield]) pour incliner un soutien.."
+        "text": "<b>Action</b> - Retirez ce dé ou un de vos dés montrant un bouclier ([shield]) pour incliner un soutien."
     },
     {
         "code": "05035",
@@ -871,7 +871,7 @@
     },
     {
         "code": "05171",
-        "name": "Contact frucuteux",
+        "name": "Contact fructueux",
         "text": "Vous commencez la partie avec 1 ressource supplémentaire."
     },
     {
@@ -888,13 +888,13 @@
         "code": "05174",
         "name": "Désolation aride",
         "subtitle": "Geonosis",
-        "text": "<b>Capture</b> - Forcez un adversaire à perdre 1 ressource.."
+        "text": "<b>Capture</b> - Forcez un adversaire à perdre 1 ressource."
     },
     {
         "code": "05175",
         "name": "Zone d'atterrissage de la citadelle",
         "subtitle": "Scarif",
-        "text": "<b>Capture</b> - Relancez n'importe quel nombre de vos dés. Puis vous pouvez résoudre un de vos dés.."
+        "text": "<b>Capture</b> - Relancez n'importe quel nombre de vos dés. Puis vous pouvez résoudre un de vos dés."
     },
     {
         "code": "05176",

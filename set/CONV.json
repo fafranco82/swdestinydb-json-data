@@ -2816,7 +2816,7 @@
         "affiliation_code": "neutral",
         "code": "09116",
         "cost": 1,
-        "deck_limit": 1,
+        "deck_limit": 2,
         "faction_code": "blue",
         "flavor": "\"It's not just about lifting rocks. The Force binds everything together\" <cite>Luke Skywalker</cite>",
         "has_die": false,
