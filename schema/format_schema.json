@@ -42,7 +42,7 @@
                     },
                     "type": "array"
                 },
-                "restrictedCombinations": {
+                "restrictedPairs": {
                     "additionalProperties": false,
                     "patternProperties": {
                         "^[0-9]{5}([A-Z]+)?$": {
