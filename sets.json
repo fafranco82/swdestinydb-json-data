@@ -139,5 +139,16 @@
         "position": 101,
         "project_name": "A Renewed Hope",
         "size": 90
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "Red",
+        "cycle_code": "FA",
+        "date_release": "2021-01-29",
+        "name": "Redemption",
+        "position": 102,
+        "project_name": "A Renewed Hope",
+        "size": 104
     }
 ]
