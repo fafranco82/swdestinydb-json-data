@@ -209,6 +209,9 @@
             "banned": [
                 "11111"
             ],
+            "errata": [
+                "13006B"
+            ],
             "restricted": [],
             "restrictedPairs": {
                 "09087": [
