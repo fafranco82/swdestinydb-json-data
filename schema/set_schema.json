@@ -49,6 +49,11 @@
             "minimum": 1,
             "type": "integer"
         },
+        "project_name": {
+            "maxLength": 30,
+            "minLength": 1,
+            "type": "string"
+        },
         "size": {
             "oneOf": [
                 {
