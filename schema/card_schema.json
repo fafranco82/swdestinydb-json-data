@@ -60,6 +60,10 @@
             "minLength": 1,
             "type": "string"
         },
+        "parallel_die": {
+            "pattern": "^[0-9]{5}[A-Z]?$",
+            "type": "string"
+        },
         "points": {
             "pattern": "^-?([0-9]+)?(/[0-9]+)?(/[0-9]+)?$",
             "type": "string"
@@ -78,7 +82,7 @@
             ]
         },
         "reprint_of": {
-            "pattern": "^[0-9]{5}$",
+            "pattern": "^[0-9]{5}[A-Z]?$",
             "type": "string"
         },
         "set_code": {
