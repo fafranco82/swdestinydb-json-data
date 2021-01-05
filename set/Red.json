@@ -119,7 +119,7 @@
         "name": "Redemption",
         "position": 60,
         "rarity_code": "S",
-        "set_code": "FA",
+        "set_code": "Red",
         "sides": [
             "2RD",
             "2F",
@@ -147,7 +147,7 @@
         "name": "Small Battles Won",
         "position": 83,
         "rarity_code": "S",
-        "set_code": "FA",
+        "set_code": "Red",
         "text": "Resolve one of your red dice showing a value of 1 without removing it from your pool.",
         "type_code": "event"
     }
