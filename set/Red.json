@@ -1,5 +1,146 @@
 [
     {
+        "affiliation_code": "villain",
+        "code": "15003A",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Maul",
+        "parallel_die": "05002",
+        "points": "10/13",
+        "position": 3,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "sides": [
+            "2MD",
+            "3MD1",
+            "1Dr",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Consumed by Revenge",
+        "subtypes": [
+            "apprentice",
+            "sith"
+        ],
+        "text": "After you play an event, place 1 resource on this card. If this character has 7 or more resources on it, you may spend 2 resources to flip this card.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "15003B",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 13,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Maul",
+        "points": "15/19",
+        "position": 4,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "sides": [
+            "2MD",
+            "3MD",
+            "1Dr",
+            "1Dc",
+            "Sp1",
+            "-"
+        ],
+        "subtitle": "Conqueror of Mandalore",
+        "subtypes": [
+            "apprentice",
+            "sith"
+        ],
+        "text": "After you play an event, place 1 resource on this card.\n<b>Power Action</b> - Play a Blue event with an even cost from your hand, decreasing its cost by 1.\n[special] - Gain 2 resources or resolve a die. If this character has 7 or more resources on it, you may do both in any order.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "15004A",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Savage Opress",
+        "parallel_die": "08004",
+        "points": "8/11",
+        "position": 5,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "sides": [
+            "1MD",
+            "1MD",
+            "3MD1",
+            "+2MD",
+            "1Dc",
+            "-"
+        ],
+        "subtitle": "Loyal Sibling",
+        "subtypes": [
+            "apprentice"
+        ],
+        "text": "Team Up 1: Maul.\nGuardian.\n<b>Power Action</b> - Discard a card from your hand and spend 3 resources.  Then flip this character.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "15004B",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Savage Opress",
+        "points": "12/15",
+        "position": 6,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1Dc",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Dark Acolyte",
+        "subtypes": [
+            "apprentice"
+        ],
+        "text": "Guardian.\n[special] - Deal 2 damage to a character or turn a die to a side showing a value of 0. If this character has 6 or more damage, you may do both in any order.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "15009",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Your Powers Are Weak",
+        "position": 11,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "text": "Spot a <b>Sith</b> or <b>Inquisitor</b> to choose a symbol.  Then reroll up to 3 of an opponent's dice. For each of those dice showing the chosen symbol, remove it. Otherwise, turn it to a side showing a blank.",
+        "type_code": "event"
+    },
+    {
         "affiliation_code": "hero",
         "code": "15039",
         "deck_limit": 1,
