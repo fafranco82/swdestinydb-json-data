@@ -1,0 +1,487 @@
+[
+    {
+        "code": "701001",
+        "name": "Grand Inquisiteur",
+        "subtitle": "Un avec le Côté Obscur",
+        "text": "Après avoir activé ce personnage, si un adversaire a un ou plusieurs dés montrant une face vierge, vous pouvez tourner ce dé sur n'importe quelle face.\n[special] - Tournez 2 dés sur une face montrant une face vierge. Puis infligez des dégâts à un personnage égaux au nombre de dés montrant une face vierge (dans toutes les réserves)."
+    },
+    {
+        "code": "701002",
+        "flavor": "“Je suis tous les Sith!”",
+        "name": "Palpatine",
+        "subtitle": "Empereur Sith Eternel",
+        "text": "Après avoir retiré un dé de personnage adverse, soignez 1 dégât de ce personnage.\nAprès que ce dé ait été retiré, Infligez 1 dégât à ce personnage."
+    },
+    {
+        "code": "701003",
+        "name": "Cultiste Sith",
+        "subtitle": "Serviteur de l'Empereur",
+        "text": "Après la mise en place, ajoutez à votre équipe un Cultiste Sith ([EC]3) mis de côté.\nAvant qu'un de vos personnages ne soit censé être vaincu, vous pouvez vaincre ce personnage à la place. Puis soignez 2 dégâts du personnage, ou 3 dégâts à la place si vous désignez un <b>Sith</b>."
+    },
+    {
+        "code": "701004",
+        "name": "Absorber l'essence",
+        "text": "À ne jouer que si un adversaire a retiré un de vos dés lors de son précédent tour à ce round.\nDésignez un personnage Bleu de 20 points ou plus pour retirer un dé montrant une valeur de 2 ou moins et infliger 1 dégât à jusqu'à deux personnages différents."
+    },
+    {
+        "code": "701005",
+        "name": "La colère mène à la haine",
+        "text": "Infligez 1 dégât non blocable à un de vos personnages Bleus. Puis, pour chaque dé montrant une face vierge ([blank]), vous pouvez tourner un dé sur une face vierge ([blank])."
+    },
+    {
+        "code": "701006",
+        "name": "Submerger",
+        "text": "À ne jouer que si vous avez 4 dés ou plus dans votre réserve et aucun dé ne montrant une face vierge ([blank]).\nRésolvez 2 de vos dés, en augmentant de 1 leurs valeurs."
+    },
+    {
+        "code": "701007",
+        "name": "Je suis tous les Sith",
+        "text": "Lancez tous les dés de personnage sur l'un de vos personnages Bleus dans votre réserve."
+    },
+    {
+        "code": "701008",
+        "name": "Les Voix de l'Empereur",
+        "text": "<b>Action Puissance</b> - Lancez un dé de Snoke ([WotF]4) dans votre réserve. Vous pouvez désigner Palpatine pour lancer 1 autre dé de Snoke ([WotF]4) dans votre réserve. Mettez ces dés de côté après qu'ils soient résolus ou retirés."
+    },
+    {
+        "code": "701009",
+        "name": "Trône Sith",
+        "text": "Après qu'un de vos dés Bleus ait été retiré, vous pouvez incliner ce soutien pour placer 1 ressource dessus.\n<b>Action</b> - Retirez toutes les ressources sur ce soutien pour résoudre un de vos dés montrant des dégâts, en augmentant sa valeur du nombre de ressources retirées. "
+    },
+    {
+        "code": "701010",
+        "name": "Cataclysme de Force",
+        "text": "Personnage Bleu uniquement.\nAprès avoir joué cette amélioration, vous pouvez lancer ce dé dans votre réserve.\n[special] - Relancez ce dé au lieu de le retirer. Vous pouvez désigner un <b>Sith</b> et incliner cette amélioration pour lancer un dé de personnage sur ce personnage dans votre réserve."
+    },
+    {
+        "code": "701011",
+        "name": "Sabre laser d'Inquisiteur",
+        "text": "Tant qu'un adversaire a un dé montrant une face vierge, vous pouvez résoudre ce dé montrant un modificateur comme s'il n'avait pas de modificateur.\n[special] - Infligez 1 dégât à un personnage. Tournez un dé d'un adversaire sur une face vierge. Tournez un de vos dés sur n'importe quelle face."
+    },
+    {
+        "code": "701012",
+        "name": "Droideka",
+        "text": "Vous pouvez seulement jouer des améliorations <b>mod</b> sur ce personnage.\nVos adversaires ne peuvent pas résoudre de dé montrant des dégâts d'une valeur de 1 contre ce personnage."
+    },
+    {
+        "code": "701013",
+        "name": "Tarkin",
+        "subtitle": "Leader Impitoyable",
+        "text": "Après avoir pioché une ou plusieurs cartes sauf lors de la mise en place, vous pouvez infliger 1 dégât indirect à un adversaire.\n[special] - Piochez une carte. Vous pouvez révéler cette carte pour infliger des dégâts indirects à un adversaire égaux à la moitié de son coût, arrondi au supérieur."
+    },
+    {
+        "code": "701014",
+        "name": "Renseignement agressif",
+        "text": "À ne jouer que si vous contrôlez le champ de bataille.\nDésignez un <b>leader</b> pour choisir une couleur. Puis révélez la main d'un adversaire et infligez lui des dégâts indirects égaux au nombre de cartes de la couleur choisie dans sa main."
+    },
+    {
+        "code": "701015",
+        "name": "Peur de cette station",
+        "text": "Désignez un soutien pour piocher 3 cartes."
+    },
+    {
+        "code": "701016",
+        "name": "Bien trop naïve",
+        "text": "Forcez un adversaire à choisir un de ses personnages. Vous pouvez résoudre un de vos dés montrant des dégâts à distance ([ranged]) en augmentant de 2 sa valeur, ou de 1 à la place contre le personnage choisi."
+    },
+    {
+        "code": "701017",
+        "name": "Marche impériale",
+        "text": "Après avoir résolu un dé montrant une ressource, vous pouvez incliner cette intrigue et dépenser n'importe quel nombre de ressources pour placer autant de ressources sur cette intrigue.\n<b>Action Puissance</b> - Retirez jusqu'à 5 dés de cette intrigue pour lancer autant de dés de Stormtrooper Vétéran ([LEG]13) dans votre réserve. Si vous désignez 2 <b>leaders</b>, vous pouvez relancer n'importe lesquels de ces dés. Résolvez ces dés dans n'importe quel ordre ou retirez les."
+    },
+    {
+        "code": "701018",
+        "name": "Executrice",
+        "text": "Réduisez de 1 le coût de ce soutien si vous avez pioché une ou plusieurs cartes lors de la phase d'action de ce round.\n<b>Action Puissance</b> - Si ce dé a été retiré lors du précédent tour d'un adversaire à ce round, vous pouvez désigner un <b>leader</b> et défausser une carte de votre main pour lancer ce dé dans votre réserve."
+    },
+    {
+        "code": "701019",
+        "name": "Escadron de Chasseurs TIE",
+        "text": "Après avoir activé ce soutien, s'il est piloté, vous pouvez lancer un exemplaire de ce dé ([EC]19) dans votre réserve. Mettez ce dé de côté après qu'il ait été résolu ou retiré. Désignez Dark Vador pour tourner un dé d'Escadron de Chasseurs TIE sur n'importe quelle face.\n"
+    },
+    {
+        "code": "701020",
+        "name": "Posture Agressive",
+        "text": "Modifie un personnage ou soutien <b>droïde</b>.\nAprès avoir résolu un dé de soutien ou de personnage attaché, inclinez cette amélioration pour infliger 1 dégât indirect à un adversaire. Vous pouvez défausser cette amélioration pour jouer un <b>mod</b> depuis votre main ou la pile de défausse, en réduisant son coût de 1."
+    },
+    {
+        "code": "701021",
+        "name": "Visionnaires de l'Empire",
+        "text": "Personnage <b>Leader</b> Rouge uniquement.\nAprès qu'un adversaire ait résolu un dé montrant une ressource ([resource]), vous pouvez incliner cette amélioration et dépenser 1 ressource pour placer 1 ressource sur une carte non-personnage."
+    },
+    {
+        "code": "701022",
+        "name": "Rang Impérial",
+        "text": "Personnage Rouge uniquement.\nAprès avoir joué cette amélioration, vous pouvez piocher une carte."
+    },
+    {
+        "code": "701023",
+        "name": "Posture de Déplacement",
+        "text": "Modifie un personnage ou soutien <b>droïde</b>.\nAprès avoir activé le personnage ou soutien attaché, donnez 1 bouclier à un de vos personnages. Vous pouvez défausser cette amélioration pour jouer un <b>mod</b> depuis votre main ou la pile de défausse, en réduisant son coût de 1."
+    },
+    {
+        "code": "701024",
+        "flavor": "“C'est mon jour de chance.”",
+        "name": "Greedo",
+        "subtitle": "Mercenaire Hors-tempo",
+        "text": "Avant d'effectuer une action, si celle-ci est la même que la dernière action d'un adversaire lors de son précédent tour à ce round, vous pouvez défausser un événement de votre main pour gagner 1 action."
+    },
+    {
+        "code": "701025",
+        "name": "Qi'ra",
+        "subtitle": "La nouvelle Aube Écarlate",
+        "text": "Après avoir activé ce personnage, relancez un dé de personnage ou tournez un dé héros sur n'importe quelle face.\n[special] - Lancez un dé de Maul ([SoH]3) dans votre réserve. Vous pouvez dépenser 1 ressource pour relancer ce dé au lieu de le retirer."
+    },
+    {
+        "code": "701026",
+        "name": "Tromper le fou",
+        "text": "Désignez un <b>vaurien</b> pour forcer un adversaire à défausser une carte de sa main. Puis, si le coût de cette carte n'est pas égal à 0, piochez une carte."
+    },
+    {
+        "code": "701027",
+        "name": "Caché dans l'ombre",
+        "text": "Retirez un dé ne montrant pas une valeur de 2. Vous devez passer lors de votre prochain tour à ce round."
+    },
+    {
+        "code": "701028",
+        "flavor": "\"Ils volent maintenant ?! Ils volent maintenant.\"",
+        "name": "Assaut",
+        "text": "Défaussez un événement pour gagner 2 actions."
+    },
+    {
+        "code": "701029",
+        "name": "Mouvement vicieux",
+        "text": "Après avoir relancé un de vos dés Jaunes, vous pouvez défausser ce soutien et dépenser 1 ressource pour lancer un exemplaire de ce dé dans votre réserve. "
+    },
+    {
+        "code": "701030",
+        "name": "Lames de Dryden Vos",
+        "text": "Avant de piocher une ou plusieurs cartes, regardez la carte du dessus de votre deck. Vous pouvez défausser cette carte.\n[special] - Vous pouvez incliner cette amélioration pour lancer un exemplaire de ce dé ([EC]30) dans votre réserve. Puis relancez ce dé au lieu de le retirer."
+    },
+    {
+        "code": "701031",
+        "name": "Blaster de Greedo",
+        "text": "Après avoir défaussé une carte de votre main, si cette amélioration est sur Greedo, vous pouvez incliner cette amélioration pour piocher une carte."
+    },
+    {
+        "code": "701032",
+        "name": "Ki-Adi-Mundi",
+        "text": "Après avoir activé ce personnage, vous pouvez piocher une carte. Puis vous pouvez défausser cette carte pour donner 1 bouclier à ce personnage.\nAprès avoir résolu ce dé montrant une valeur de 1, vous pouvez infliger 1 dégât à un personnage ou donner 1 bouclier à un personnage."
+    },
+    {
+        "code": "701033",
+        "name": "Qui-Gon Jinn",
+        "subtitle": "Maître non conventionnel",
+        "text": "Après avoir résolu 3 dés montrant un spécial ([special]) dans la même action, infligez 1 dégât à un personnage.\n[special] - Infligez 1 dégât à un personnage. Donnez 1 bouclier à un personnage. Tournez un de vos dés sur n'importe quelle face."
+    },
+    {
+        "code": "701034",
+        "name": "Affronter la peur",
+        "text": "Relancez un de vos dés de personnage Bleu. Puis relancez un nombre de dés égal à la valeur montrée par le dé que vous venez de relancer. Puis tournez un de ces dés sur n'importe quelle face."
+    },
+    {
+        "code": "701035",
+        "name": "Pacifier",
+        "text": "Retirez un dé de personnage. Puis donnez 2 boucliers à ce personnage."
+    },
+    {
+        "code": "701036",
+        "name": "Contrôle de la pensée",
+        "text": "Désignez un personnage Bleu et donnez 2 ressources à un adversaire pour résoudre un de ses dés non-Jaunes montrant une valeur de 3 ou moins comme si c'était le votre. Puis vous pouvez tourner un de vos dés sur une face montrant une valeur de 0."
+    },
+    {
+        "code": "701037",
+        "name": "Force intérieure",
+        "text": "Retirez n'importe quel nombre de boucliers d'un de vos personnages Bleus. Puis retirez autant de dés."
+    },
+    {
+        "code": "701038",
+        "name": "Esprit de Luke Skywalker",
+        "text": "Défaussez ce soutien du jeu si vous contrôlez Luke Skywalker.\n[special] - Résolvez un autre de vos dés Bleus sans le retirer de votre réserve. Puis mélangez ce soutien dans le deck de son propriétaire à moins que vous ne retiriez 1 bouclier de l'un de vos personnages."
+    },
+    {
+        "code": "701039",
+        "name": "Sabre laser bleu de Ki-Adi-Mundi",
+        "text": "Redéploiement\nDéfaussez cette amélioration du jeu si vous contrôlez le Sabre laser vert de Ki-Adi-Mundi.\nAprès avoir résolu un dé montrant une valeur de 1, vous pouvez résoudre ce dé ne montrant pas de resource, en augmentant de 1 sa valeur."
+    },
+    {
+        "code": "701040",
+        "name": "Sabre laser vert de Ki-Adi-Mundi",
+        "text": "Redéploiement\nDéfaussez cette amélioration du jeu si vous contrôlez le Sabre laser bleu de Ki-Adi-Mundi.\n[special] - Retirez 1 bouclier d'un de vos personnages pour soigner 1 dégât d'un personnage. Puis infligez 2 dégâts à un personnage."
+    },
+    {
+        "code": "701041",
+        "name": "Astuce de Qui-Gon Jinn",
+        "text": "Après qu'un adversaire ait lancé un dé, vous pouvez désigner un <b>Jedi</b> et incliner cette amélioration pour tourner ce dé sur la face précédente ou suivante de sa référence de dé (en considérant les faces identiques comme une seule face). Puis, si cette amélioration est sur Qui-Gon Jinn, vous pouvez lui retirer 1 bouclier pour redresser cette amélioration."
+    },
+    {
+        "code": "701042",
+        "name": "Finn",
+        "subtitle": "Promu Général",
+        "text": "Après avoir activé ce personnage, tournez un dé d'un adversaire sur une face montrant des dégâts. Puis tournez un de vos dés sur une face montrant des dégâts.\nAprès avoir résolu ce dé, vous pouvez activer un de vos personnages Rouges, ou dépenser 1 ressource pour activer un de vos personnages non-Rouges à la place."
+    },
+    {
+        "code": "701043",
+        "flavor": "\"Missa propose que le Sénat donne immédiatement pleins pouvoirs d'urgence au Chancelier Suprême .\"",
+        "name": "Jar Jar Binks",
+        "subtitle": "Représentant Gungan",
+        "text": "Après avoir activé ce personnage, défaussez une carte du dessus d'un deck pour chaque dé montrant une face vierge ([blank]). Puis relancez tous les dés adverses montrant une face vierge ([blank])."
+    },
+    {
+        "code": "701044A",
+        "name": "Leia Organa",
+        "subtitle": "Princesse d'Aldérande",
+        "text": "Après la mise en place, donnez 1 bouclier à chacun de vos personnages.\nAprès avoir retourné cette carte, mélangez 2 exemplaires pris de côté de Motiver ([WotF]79) et de Au secours Obi-Wan Kenobi ([EC]45) dans votre deck."
+    },
+    {
+        "code": "701044B",
+        "name": "Sauver une Princesse",
+        "text": "Partenaire 1: Chewbacca, Han Solo, Luke Skywalker, Obi-Wan Kenobi.\nAprès avoir retiré un dé de personnage d'un adversaire, placez 1 ressource sur cette intrigue. Puis, s'il y a 4 ressources ou plus sur cette intrigue, placez les sur une autre carte que vous contrôlez, inclinez cette intrigue et retournez-la."
+    },
+    {
+        "code": "701045",
+        "flavor": "\"Vous êtes mon seul espoir.\"",
+        "name": "Au secours Obi-Wan Kenobi",
+        "text": "Désignez un <b>leader</b> pour piocher une carte. Vous pouvez défausser cette carte pour retirer un dé montrant une valeur de 2 ou moins."
+    },
+    {
+        "code": "701046",
+        "name": "La victoire est proche",
+        "text": "À ne jouer que si vous avez un ou plusieurs dés montrant une face vierge ([blank]).\nRésolvez un de vos dés comme s'il montrait un symbole différent."
+    },
+    {
+        "code": "701047",
+        "flavor": "\"Vous êtes plus brave que je ne croyais.\"",
+        "name": "Vous êtes venu dans cette casserole ? ",
+        "text": "Désignez un <b>leader</b> pour redresser un <b>véhicule</b> piloté."
+    },
+    {
+        "code": "701048",
+        "name": "Tantive IV",
+        "text": "Après avoir activé ce soutien, vous pouvez désigner un <b>leader</b> pour retirer un dé montrant une valeur de 2 ou moins.\n[special] - Soignez 1 dégât d'un personnage. Puis, si vous désignez Leia Organa ou Bail Organa, soignez 1 dégât d'un personnage."
+    },
+    {
+        "code": "701049",
+        "name": "X-Wing",
+        "text": "Le X de ce dé est égal à 1.\nTant que ce soutien est piloté, augmentez X de 1.\nTant qu'un <b>mod</b> est sur ce soutien, augmentez X de 1."
+    },
+    {
+        "code": "701050",
+        "name": "Pilote hors pair",
+        "text": "Personnage <b>pilote</b> uniquement.\nAvant de résoudre le dé de personnage du personnage attaché, si c'est contre une intrigue <b>Étoile de la mort</b>, vous pouvez incliner cette amélioration pour augmenter de 1 sa valeur.\nAprès avoir activé le personnage attaché, vous pouvez résoudre un de ses dés de personnage ou le dé de soutien du <b>véhicule</b> qu'il pilote."
+    },
+    {
+        "code": "701051",
+        "name": "Blaster de trooper rebelle",
+        "text": "Redéploiement.\nAprès avoir résolu ce dé montrant des dégâts, si cette amélioration est attachée à un <b>trooper</b> ou un <b>leader</b>, vous pouvez infliger 1 dégât indirect à un adversaire."
+    },
+    {
+        "code": "701052",
+        "name": "Dans le conduit à ordures",
+        "text": "Incliner un de vos personnages pour retirer jusqu'à 2 dés montrant des dégâts."
+    },
+    {
+        "code": "701053",
+        "flavor": "\"Il n'y a pas de menteurs dans ce jeu, seulement des joueurs.\"",
+        "name": "Lando Calrissian",
+        "subtitle": "Escroc Galactique",
+        "text": "Pilotage.\nAprès avoir retiré un ou plusieurs de vos dés, vous pouvez résoudre un de vos dés, en augmentant de 1 sa valeur."
+    },
+    {
+        "code": "701054",
+        "name": "Zeb Orrelios",
+        "subtitle": "Coéquipier Fiable",
+        "text": "La valeur de ce dé est augmentée de 1 s'il modifie ou est modifié par un autre dé de <b>Spectre</b>.\n<b>Action Puissance</b> - Désignez n'importe quel nombre de <b>Spectre</b> pour résoudre autant de dés montrant un modificateur comme s'ils n'avaient pas de modificateur."
+    },
+    {
+        "code": "701055",
+        "name": "Mettre au défi",
+        "text": "Désignez un <b>vaurien</b> pour retirer un de vos dés. Puis gagnez 2 ressources."
+    },
+    {
+        "code": "701056",
+        "name": "Négocier",
+        "text": "Retirez un de vos dés de personnage pour forcer un adversaire à choisir et à retirer 2 de ses dés."
+    },
+    {
+        "code": "701057",
+        "name": "Faucon Millenium",
+        "text": "Avant de résoudre ce dé, retirez un de vos dés de <b>pilote</b> ou retirez ce dé.\nAprès que ce soutien devienne piloté, vous pouvez lancer ce dé dans votre réserve.\n[special] - Infligez 2 dégâts à un personnage. Puis infligez 1 dégât à un personnage pour chaque personnage pilotant ce soutien."
+    },
+    {
+        "code": "701058",
+        "name": "Cul sec !",
+        "text": "Après avoir résolu ce dé, vous pouvez regarder la carte du dessous de votre deck. Puis, si cette amélioration est sur Sinjir Rath Velus, vous pouvez jouer cette carte. Sinon, jouez cette carte, si possible, ou défaussez-la.\n[special] - Piochez une carte. Puis placez une carte de votre main sous votre deck."
+    },
+    {
+        "code": "701059",
+        "name": "Blaster de Lando Calrissian",
+        "text": "Avant de jouer cette amélioration, vous pouvez retirer un de vos dés pour réduire son coût de 1.\nAprès avoir joué cette amélioration, vous pouvez retirer un de vos dés pour lancer un dé de personnage sur un de vos personnages dans votre réserve."
+    },
+    {
+        "code": "701060",
+        "flavor": "\"Nous ne sommes rien de particulier. Nous sommes un équipage. Une équipe. D'une certaine manière, une famille.\"",
+        "name": "Bienvenue dans l'équipe",
+        "text": "Le personnage attaché gagne le sous-type <b>Spectre</b>\nAprès avoir activé un autre <b>Spectre</b>, vous pouvez relancer un des dés de personnage ou d'amélioration du personnage attaché."
+    },
+    {
+        "code": "701061",
+        "name": "Escroc sensible à la Force",
+        "text": "Après avoir activé ce personnage, vous pouvez forcer un joueur à placer toutes les cartes dans sa main sous son deck dans n'importe quel ordre et à piocher autant de cartes, moins 1 si vous désignez un personnage Jaune, plus 1 si vous désignez un personnage Rouge."
+    },
+    {
+        "code": "701062",
+        "name": "Tromper",
+        "text": "Relancez un dé d'un adversaire. Puis tournez un de ses dés sur n'importe quelle face. Puis retirez un de ses dés."
+    },
+    {
+        "code": "701063",
+        "name": "Trève méditative",
+        "text": "Retirez un de vos dés de personnage Bleu et donnez 1 bouclier à ce personnage pour retirer un dé montrant des dégâts."
+    },
+    {
+        "code": "701064",
+        "name": "Parade et riposte",
+        "text": "Désignez un personnage Bleu pour tourner un dé sur n'importe quelle face. Puis, si vous avez tourné un dé d'un adversaire, vous pouvez relancer un de vos dés."
+    },
+    {
+        "code": "701065",
+        "name": "Dégainage rapide du sabre",
+        "text": "Embuscade.\nJouez une <b>arme</b> Bleue depuis votre main sur un de vos <b>Jedi</b> ou <b>Sith</b>. Puis vous pouvez dépenser 1 ressource pour donner 1 bouclier à ce personnage et l'activer."
+    },
+    {
+        "code": "701066",
+        "name": "Partager la Force",
+        "text": "Retirez un ou plusieurs de vos dés. Puis tournez un de vos dés sur une face montrant une valeur égale au nombre de dés que vous venez de retirer."
+    },
+    {
+        "code": "701067",
+        "name": "Sabre laser à poignée incurvée",
+        "text": "Redéploiement.\nTant que cette amélioration est sur un <b>Jedi</b> ou un <b>Sith</b>, vous pouvez résoudre ce dé montrant un modificateur comme s'il n'avait pas de modificateur.\nAprès qu'un de vos dés Bleus ait été tourné, vous pouvez relancer ce dé."
+    },
+    {
+        "code": "701068",
+        "name": "Rafale défensive",
+        "text": "Désignez un personnage Rouge et infligez-vous 1 dégât indirect pour retirer jusqu'à 2 dés montrant une valeur combinée de 3 ou plus."
+    },
+    {
+        "code": "701069",
+        "name": "Pleins pouvoirs d'urgence",
+        "text": "À ne jouer que si vous avez un ou plusieurs dés montrant une face vierge ([blank]).\nRetirez un dé de personnage, ou dépensez 2 ressources pour retirer 2 dés de personnage à la place."
+    },
+    {
+        "code": "701070",
+        "name": "Préparez-vous au combat",
+        "text": "Désignez un <b>leader</b> pour piocher 2 cartes. Vous pouvez défausser n'importe quel nombre de ces cartes pour gagner autant de ressources."
+    },
+    {
+        "code": "701071",
+        "name": "Renfort de troupes",
+        "text": "Désignez un personnage Rouge pour relancer 2 de vos dés. Puis retirez un de ces dés pour résoudre un de vos dés, en augmentant sa valeur d'un montant égal à la valeur du dé retiré."
+    },
+    {
+        "code": "701072",
+        "name": "Chasseur Umbaran",
+        "text": "Ce soutien peut être piloté uniquement par des <b>pilotes</b> de 15 points ou plus.\n[special] - Infligez 2 dégâts indirects à un adversaire. Vous pouvez dépenser 1 ressource pour retirer un dé de <b>droïde</b> ou de <b>véhicule</b>."
+    },
+    {
+        "code": "701073",
+        "name": "Tourelle DH-17",
+        "text": "Modifie les soutiens <b>véhicule</b>.\nAprès avoir joué cette amélioration, vous pouvez activer un de vos <b>pilotes</b>."
+    },
+    {
+        "code": "701074",
+        "flavor": "\"Oru uru kak.\"",
+        "name": "Raider Tusken",
+        "text": "Avant de résoudre ce dé, vous pouvez défausser une carte de votre main pour augmenter sa valeur de 1 ou pour forcer un adversaire à perdre 1 ressource."
+    },
+    {
+        "code": "701075",
+        "name": "Arrgh !",
+        "text": "Désignez n'importe quel nombre de <b>récupérateur</b> pour déplacer autant de ressources d'une carte que vous ne contrôlez pas sur une carte non-intrigue que vous contrôlez."
+    },
+    {
+        "code": "701076",
+        "name": "Empêtrer",
+        "text": "Désignez un personnage Jaune pour retirer jusqu'à 2 dés montrant une valeur combinée de 3 ou moins."
+    },
+    {
+        "code": "701077",
+        "name": "Parier",
+        "text": "Relancez 2 dés de personnage. Puis défaussez un nombre de cartes du dessus d'un deck égal à la valeur la plus haute montrée par ces dés."
+    },
+    {
+        "code": "701078",
+        "name": "Tirer le premier",
+        "text": "Relancez 3 dés. Puis vous pouvez résoudre un de vos dés, en augmentant de 1 sa valeur."
+    },
+    {
+        "code": "701079",
+        "name": "Trop rapide pour vous",
+        "text": "À ne jouer que s'il s'agit de votre deuxième action lors de ce tour.\nRetirez un dé montrant une valeur de 2 ou moins."
+    },
+    {
+        "code": "701080",
+        "name": "Échange de marchandises",
+        "text": "Retirez un de vos dés de <b>vaurien</b> montrant une valeur de 2 ou plus pour choisir 2 des options suivantes :\n- Gagnez 1 ressource\n- Infligez 1 dégât à un personnage\n- Tournez un dé sur n'importe quelle face"
+    },
+    {
+        "code": "701081",
+        "name": "Partie de Sabacc",
+        "text": "Après qu'une carte ait été jouée par un adversaire, vous pouvez défausser une carte de votre main ayant un coût inférieur pour placer 1 ressource sur cette intrigue.\n<b>Action</b> -  Cherchez un <b>véhicule</b> Jaune dans votre deck ou votre pile de défausse et jouez le, en réduisant son coût par le nombre de ressources sur cette intrigue. Mettez cette intrigue de côté."
+    },
+    {
+        "code": "701082",
+        "name": "Bantha",
+        "text": "Après avoir défaussé n'importe quel nombre de cartes de votre main suite à un effet de carte, placez 1 ressource sur ce soutien.\n<b>Action Puissance</b> - Inclinez ce soutien ou désignez un <b>récupérateur</b> pour prendre 1 ressource sur ce soutien."
+    },
+    {
+        "code": "701083",
+        "name": "Filou au Sabacc",
+        "text": "Avant de résoudre ce dé, si cette amélioration est sur Lando Calrissian, défaussez une ou plusieurs cartes de votre main pour piocher autant de cartes plus 1.\n[special] - Si vous avez plus de cartes en main qu'un adversaire, prenez lui 1 ressource."
+    },
+    {
+        "code": "701084",
+        "name": "Conflit éternel",
+        "text": "Lancez un dé de personnage sur un de vos personnages. Un adversaire lance un dé de personnage sur un de ses personnages. Vous pouvez retirer le dé de cet adversaire ou résoudre le votre."
+    },
+    {
+        "code": "701085A",
+        "name": "Mener le front",
+        "text": "Après avoir activé un personnage, vous pouvez relancer un dé pour retourner cette intrigue."
+    },
+    {
+        "code": "701085B",
+        "name": "Effort d'équipe",
+        "text": "Après avoir activé un personnage, vous pouvez choisir 1 des options suivantes :\n- Désignez 2 personnages Bleus pour tourner un dé sur n'importe quelle face.\n- Désignez 2 personnages Rouges pour piocher une carte.\n- Désignez 2 personnages Jaunes pour résoudre un de vos dés.\nPuis mettez cette intrigue de côté."
+    },
+    {
+        "code": "701086",
+        "name": "Contact fructueux",
+        "text": "Vous commencez la partie avec 1 ressource supplémentaire."
+    },
+    {
+        "code": "701087",
+        "name": "Cryptes Sith",
+        "subtitle": "Exegol",
+        "text": "<b>Capture</b> - Infligez 1 dégât à un personnage héros ou soignez 1 dégât d'un personnage antagoniste."
+    },
+    {
+        "code": "701088",
+        "name": "Base de la Résistance",
+        "subtitle": "Ajan Kloss",
+        "text": "<b>Capture</b> - Relancez un dé ou retirez un dé antagoniste."
+    },
+    {
+        "code": "701089",
+        "name": "Salle de Sabacc",
+        "subtitle": "Numidian Prime",
+        "text": "<b>Action Puissance</b> - Choisissez un adversaire. Vous et un adversaire révélez 2 cartes prises au hasard dans vos mains. Puis le joueur dont les cartes ont un coût combiné le plus faible prend 1 ressource à l'autre (il ne se passe rien en cas d'égalité)."
+    },
+    {
+        "code": "701090",
+        "name": "Zone de guerre tactique",
+        "subtitle": "Scarif",
+        "text": "Après avoir activé un personnage, vous pouvez donner le contrôle du champ de bataille à un adversaire pour relancer un dé."
+    }
+]

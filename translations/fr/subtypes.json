@@ -24,6 +24,14 @@
         "name": "Chasseur de primes"
     },
     {
+        "code": "creature",
+        "name": "Créature"
+    },
+    {
+        "code": "cultist",
+        "name": "Cultiste"
+    },
+    {
         "code": "curse",
         "name": "Malédiction"
     },
@@ -61,7 +69,7 @@
     },
     {
         "code": "inquisitor",
-        "name": "Inquisitor"
+        "name": "Inquisiteur"
     },
     {
         "code": "intel",
