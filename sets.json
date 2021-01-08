@@ -150,5 +150,16 @@
         "position": 102,
         "project_name": "A Renewed Hope",
         "size": 104
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "EC",
+        "cycle_code": "EC",
+        "date_release": "2021-01-08",
+        "name": "Eternal Conflict",
+        "position": 701,
+        "project_name": "The Coruscant Initiative",
+        "size": 701
     }
 ]

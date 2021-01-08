@@ -28,6 +28,14 @@
         "name": "Bounty Hunter"
     },
     {
+        "code": "creature",
+        "name": "Creature"
+    },
+    {
+        "code": "cultist",
+        "name": "Cultist"
+    },
+    {
         "code": "curse",
         "name": "Curse"
     },
