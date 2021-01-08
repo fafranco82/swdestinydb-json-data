@@ -6,7 +6,7 @@
             "type": "string"
         },
         "code": {
-            "pattern": "^[0-9]{5}[A-Z]?$",
+            "pattern": "^[0-9]{5,6}[A-Z]?$",
             "type": "string"
         },
         "cost": {
