@@ -1,0 +1,235 @@
+[
+    {
+        "affiliation_code": "hero",
+        "code": "15039",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"There is... another.\" <cite>Yoda</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Leia Organa",
+        "points": "12/15",
+        "position": 42,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "sides": [
+            "2MD",
+            "2MD",
+            "1Sh",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Adept Student",
+        "subtypes": [
+            "apprentice"
+        ],
+        "text": "Guardian.\nAfter you activate this character, reveal the top card of your deck. Give a character shields equal to the cost of that card.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15040",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Luminara Unduli",
+        "points": "10/14",
+        "position": 43,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "sides": [
+            "2MD",
+            "2Sh",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtitle": "Patient Master",
+        "subtypes": [
+            "jedi"
+        ],
+        "text": "Each <i>apprentice</i> character you control has +1 health.\n[special] - Choose and do two of the following:\n• Discard a card from an opponent's hand.\n• Give a character 1 shield.\n• Roll an <i>apprentice</i> die on one of your other cards into your pool.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15046",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "The Jedi Code",
+        "points": "1",
+        "position": 49,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "text": "Include only if each character on your team is a <i>Jedi</i> or <i>apprentice</i>.\n<b>Action</b> - Exhaust this plot to remove one of your dice showing a shield to remove an opponent's die showing damage.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15052",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Dak Ralter",
+        "points": "12/15",
+        "position": 55,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "sides": [
+            "2RD",
+            "2RD",
+            "+2RD",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Rogue Gunner",
+        "subtypes": [
+            "pilot"
+        ],
+        "text": "Piloting.\nAfter you activate this character, move one shield from a card you control to another card you control or give one shield to one of your characters.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15057",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Redemption",
+        "position": 60,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "sides": [
+            "2RD",
+            "2F",
+            "2Sh",
+            "2Sh",
+            "2R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After you activate this support, roll 2 set-aside Medical Droid ([TP]26) dice into your pool. Set those dice aside after they are resolved or removed.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15064",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flavor": "\"Han Solo, ha. If I'm around, you don't need that guy.\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Dash Rendar",
+        "points": "14/17",
+        "position": 67,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "sides": [
+            "2RD",
+            "2RD",
+            "2Sh",
+            "1R",
+            "2R",
+            "-"
+        ],
+        "subtitle": "Outer Rim Hotshot",
+        "subtypes": [
+            "pilot",
+            "scoundrel"
+        ],
+        "text": "Piloting.\n<b>Power Action</b> - Play a Yellow card from your hand, giving it Ambush.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15071",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Sound the Horn",
+        "points": "0",
+        "position": 74,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "subtypes": [
+            "mission"
+        ],
+        "text": "Include only if you have an <b>Ewok</b> on your team.\nEach time you play a <b>trap</b>, place a resource on this plot.\nIf this plot has 3 resources, you may set it aside and spend 3 resources to add 4 set aside Ewok Warriors ([SoH]95) to your team. Place 3 damage on each one.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15072",
+        "cost": 4,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Outrider",
+        "position": 75,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "sides": [
+            "3RD",
+            "3RD",
+            "2Dc",
+            "2R",
+            "Sp",
+            "Sp"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After you activate this support, look at the top 2 cards of your deck and place 1 of those cards on the bottom of your deck.\n[special] - Choose one of the following: play the bottom card of your deck for free, resolve one of your other dice without removing it.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "15080",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Small Battles Won",
+        "position": 83,
+        "rarity_code": "S",
+        "set_code": "Red",
+        "text": "Resolve one of your red dice showing a value of 1 without removing it from your pool.",
+        "type_code": "event"
+    }
+]
