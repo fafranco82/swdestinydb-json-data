@@ -181,7 +181,7 @@
         "has_errata": false,
         "illustrator": "ARH",
         "is_unique": true,
-        "name": "Blizzard I",
+        "name": "Blizzard 1",
         "position": 26,
         "rarity_code": "S",
         "set_code": "RM",
@@ -361,7 +361,7 @@
         "subtypes": [
             "jedi"
         ],
-        "text": "Each <i>apprentice</i> character you control has +1 health.\n[special] - Choose and do two of the following:\n• Discard a card from an opponent's hand.\n• Give a character 1 shield.\n• Roll an <i>apprentice</i> die on one of your other cards into your pool.",
+        "text": "Each <i>apprentice</i> character you control has +1 health.\n[special] - Choose and do two of the following:\n• Discard a random card from an opponent's hand.\n• Give a character 1 shield.\n• Roll an <i>apprentice</i> die on one of your other cards into your pool.",
         "type_code": "character"
     },
     {
