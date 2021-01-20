@@ -59,7 +59,7 @@
             "apprentice",
             "sith"
         ],
-        "text": "After you play an event, place 1 resource on this card.\n<b>Power Action</b> - Play a Blue event with an even cost from your hand, decreasing its cost by 1.\n[special] - Gain 2 resources or resolve any die. If this character has 7 or more resources, you may do both in any order.",
+        "text": "After you play an event, place 1 resource on this card.\n<b>Power Action</b> - Play a Blue event with an even cost from your hand, decreasing its cost by 1.\n[special] - Gain 2 resources or resolve any die. If this character has 7 or more resources on it, you may do both in any order.",
         "type_code": "character"
     },
     {
