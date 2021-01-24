@@ -230,6 +230,36 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "15027",
+        "deck_limit": 4,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 7,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Pirate Loyalist",
+        "points": "7",
+        "position": 30,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "sides": [
+            "2MD",
+            "2RD",
+            "1R",
+            "-",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "pirate",
+            "scoundrel"
+        ],
+        "text": "<b>Power Action</b> - Spot another <i>pirate</i> to give control of one of your ready characters to an opponent until the end of the action phase. Then take 1 resource from an opponent.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "15029",
         "deck_limit": 1,
         "faction_code": "yellow",
@@ -384,6 +414,37 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "15049",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 18,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Admiral Ackbar",
+        "points": "21/28",
+        "position": 52,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "sides": [
+            "2RD",
+            "2F",
+            "2Dc",
+            "1R",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Brilliant Tactician",
+        "subtypes": [
+            "leader",
+            "pilot"
+        ],
+        "text": "Piloting.\nAfter setup, if this character is elite, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.\nnAfter the upkeep phase begins, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "15052",
         "deck_limit": 1,
         "faction_code": "red",
@@ -410,6 +471,35 @@
             "pilot"
         ],
         "text": "Piloting.\nAfter you activate this character, move 1 shield from a card you control to another card you control or give 1 shield to one of your characters.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15054",
+        "deck_limit": 3,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Rebel Sniper",
+        "points": "8/11",
+        "position": 57,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "sides": [
+            "2RD",
+            "2RD1",
+            "+2RD",
+            "1Dc",
+            "1Dc",
+            "-"
+        ],
+        "subtypes": [
+            "trooper "
+        ],
+        "text": "<b>Power Action</b> - Discard a card from your hand to resolve one of this character's character dice, increasing its value by 1.",
         "type_code": "character"
     },
     {
@@ -536,6 +626,34 @@
         "set_code": "RM",
         "text": "Resolve one of your Red dice showing a value of 1 without removing it from your pool.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "15085",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "DC-17 Hand Blaster",
+        "position": 88,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "sides": [
+            "1RD",
+            "2RD1",
+            "2ID",
+            "1R",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "",
+        "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",
