@@ -39,6 +39,9 @@
             "minLength": 1,
             "type": "string"
         },
+        "flip_card": {
+            "type": "boolean"
+        },
         "has_die": {
             "type": "boolean"
         },
