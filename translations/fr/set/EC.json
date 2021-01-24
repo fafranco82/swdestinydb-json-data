@@ -3,14 +3,14 @@
         "code": "701001",
         "name": "Grand Inquisiteur",
         "subtitle": "Un Avec le Côté Obscur",
-        "text": "Après avoir activé ce personnage, si un adversaire a un ou plusieurs dés montrant une face vierge, vous pouvez tourner un dé de personnage de ce personnage sur n'importe quelle face.\n[special] - Tournez 2 dés sur une face montrant une face vierge. Puis infligez des dégâts à un personnage égaux au nombre de dés montrant une face vierge."
+        "text": "Après avoir activé ce personnage, si un adversaire a un ou plusieurs dés montrant une face vierge, vous pouvez tourner un dé de personnage de ce personnage sur n'importe quelle face.\n[special] - Tournez 2 autres dés sur une face montrant une face vierge. Puis infligez des dégâts à un personnage égaux au nombre de dés montrant une face vierge."
     },
     {
         "code": "701002",
         "flavor": "“Je suis tous les Sith!”",
         "name": "Palpatine",
-        "subtitle": "Empereur Sith Eternel",
-        "text": "Après avoir retiré un dé de personnage adverse, soignez 1 dégât de ce personnage.\nAprès que ce dé a été retiré, Infligez 1 dégât à ce personnage."
+        "subtitle": "Empereur Sith Éternel",
+        "text": "Après avoir retiré un dé de personnage adverse, soignez 1 dégât de ce personnage.\nAprès que ce dé a été retiré, infligez 1 dégât à ce personnage."
     },
     {
         "code": "701003",
@@ -21,7 +21,7 @@
     {
         "code": "701004",
         "name": "Absorber l'Essence",
-        "text": "À ne jouer que si un adversaire a retiré un de vos dés lors de son précédent tour à ce round.\nDésignez un personnage Bleu de 20 points ou plus pour retirer un dé montrant une valeur de 2 ou moins et infliger 1 dégât à jusqu'à deux personnages différents."
+        "text": "À ne jouer que si un adversaire a retiré un de vos dés lors de son précédent tour à ce round.\nDésignez un personnage Bleu de 20 points ou plus pour retirer un dé montrant une valeur de 2 ou moins et infliger 1 dégât à un maximum de 2 personnages différents."
     },
     {
         "code": "701005",
@@ -60,7 +60,7 @@
     },
     {
         "code": "701012",
-        "name": "Droideka",
+        "name": "Droïdeka",
         "text": "Vous pouvez seulement jouer des améliorations <b>mod</b> sur ce personnage.\nVos adversaires ne peuvent pas résoudre de dé montrant des dégâts d'une valeur de 1 contre ce personnage."
     },
     {
@@ -166,6 +166,7 @@
     {
         "code": "701032",
         "name": "Ki-Adi-Mundi",
+        "subtitle": "Sage de la Force",
         "text": "Après avoir activé ce personnage, vous pouvez piocher une carte. Puis vous pouvez défausser cette carte pour donner 1 bouclier à ce personnage.\nAprès avoir résolu ce dé montrant une valeur de 1, vous pouvez infliger 1 dégât à un personnage ou donner 1 bouclier à un personnage."
     },
     {
@@ -181,7 +182,7 @@
     },
     {
         "code": "701035",
-        "name": "Pacifier",
+        "name": "Apaiser",
         "text": "Retirez un dé de personnage. Puis donnez 2 boucliers à ce personnage."
     },
     {
@@ -197,7 +198,7 @@
     {
         "code": "701038",
         "name": "Esprit de Luke Skywalker",
-        "text": "Défaussez ce soutien du jeu si vous contrôlez Luke Skywalker.\n[special] - Résolvez un autre de vos dés Bleus sans le retirer de votre réserve. Puis mélangez ce soutien dans le deck de son propriétaire à moins que vous ne retiriez 1 bouclier de l'un de vos personnages."
+        "text": "Défaussez ce soutien du jeu si vous contrôlez Luke Skywalker.\n[special] - Résolvez un autre de vos dés Bleus sans le retirer de votre réserve. Puis mélangez ce soutien dans le deck de son propriétaire sauf si vous retirez 1 bouclier de l'un de vos personnages."
     },
     {
         "code": "701039",
@@ -212,7 +213,7 @@
     {
         "code": "701041",
         "name": "Astuce de Qui-Gon Jinn",
-        "text": "Après qu'un adversaire a lancé un dé, vous pouvez désigner un <b>Jedi</b> et incliner cette amélioration pour tourner ce dé sur la face précédente ou suivante de sa référence de dé (en considérant les faces identiques comme une seule face). Puis, si cette amélioration est sur Qui-Gon Jinn, vous pouvez lui retirer 1 bouclier pour redresser cette amélioration."
+        "text": "Après qu'un adversaire a lancé un dé, vous pouvez désigner un <b>Jedi</b> et incliner cette amélioration pour tourner ce dé sur la face précédente ou suivante de sa référence de dé (en considérant les faces identiques comme une seule face). ou tourner ce dé sur n'importe quelle face si cette amélioration est sur Qui-Gon Jinn et qu'il a un ou plusieurs boucliers."
     },
     {
         "code": "701042",
@@ -278,14 +279,14 @@
     {
         "code": "701052",
         "name": "Dans le Conduit à Ordures",
-        "text": "Incliner un de vos personnages pour retirer jusqu'à 2 dés montrant des dégâts."
+        "text": "Inclinez un de vos personnages pour retirer jusqu'à 2 dés montrant des dégâts."
     },
     {
         "code": "701053",
         "flavor": "\"Il n'y a pas de menteurs dans ce jeu, seulement des joueurs.\"",
         "name": "Lando Calrissian",
         "subtitle": "Escroc Galactique",
-        "text": "Pilotage.\nAprès avoir retiré un ou plusieurs de vos dés, vous pouvez résoudre un de vos dés, en augmentant de 1 sa valeur."
+        "text": "Pilotage.\nAprès avoir retiré un ou plusieurs de vos dés pour la première fois à chaque round, vous pouvez résoudre un de vos dés, en augmentant de 1 sa valeur."
     },
     {
         "code": "701054",
@@ -428,7 +429,7 @@
     {
         "code": "701081",
         "name": "Partie de Sabacc",
-        "text": "Après qu'une carte a été jouée par un adversaire, vous pouvez défausser une carte de votre main ayant un coût inférieur pour placer 1 ressource sur cette intrigue.\n<b>Action</b> -  Cherchez un <b>véhicule</b> Jaune dans votre deck ou votre pile de défausse et jouez le, en réduisant son coût par le nombre de ressources sur cette intrigue. Mettez cette intrigue de côté."
+        "text": "Après qu'une carte a été jouée par un adversaire, vous pouvez défausser une carte de votre main ayant un coût inférieur pour placer 1 ressource sur cette intrigue.\n<b>Action</b> - Cherchez un <b>véhicule</b> Jaune dans votre deck ou votre pile de défausse avec un coût égal ou inférieur au nombre de ressources sur cette intrigue et jouez le gratuitement. Mettez cette intrigue de côté."
     },
     {
         "code": "701082",
@@ -464,7 +465,7 @@
         "code": "701087",
         "name": "Cryptes Sith",
         "subtitle": "Exegol",
-        "text": "<b>Capture</b> - Infligez 1 dégât à un personnage héros ou soignez 1 dégât d'un personnage antagoniste."
+        "text": "<b>Capture</b> - Infligez 1 dégât à un personnage ou soignez 1 dégât d'un personnage antagoniste."
     },
     {
         "code": "701088",
