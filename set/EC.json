@@ -27,7 +27,7 @@
         "subtypes": [
             "inquisitor"
         ],
-        "text": "After you activate this character, if an opponent has one or more dice showing a blank, you may turn one of this character's character dice to any side.\n[special] - Turn 2 dice to a side showing a blank. Then deal damage to a character equal to the number of dice showing a blank.",
+        "text": "After you activate this character, if an opponent has one or more dice showing a blank, you may turn one of this character's character dice to any side.\n[special] - Turn 2 other dice to a side showing a blank. Then deal damage to a character equal to the number of dice showing a blank.",
         "ttscardid": "701100",
         "type_code": "character"
     },
@@ -992,7 +992,7 @@
         "subtypes": [
             "ability"
         ],
-        "text": "After an opponent rolls a die, you may spot a <b>Jedi</b> and exhaust this upgrade to turn that die to the previous or next side on the box of its dice reference (considering as one face all sides that are identical). Then, if this upgrade is on Qui-Gon Jinn, you may remove 1 shield from him to ready this upgrade.",
+        "text": "After an opponent rolls a die, you may spot a <b>Jedi</b> and exhaust this upgrade to turn that die to the previous or next side on the box of its dice reference (considering as one face all sides that are identical), or to any side instead if this upgrade is on Qui-Gon Jinn and he has one or more shields.",
         "ttscardid": "701140",
         "type_code": "upgrade"
     },
@@ -1041,7 +1041,7 @@
         "illustrator": "© Lucasfilm",
         "is_unique": true,
         "name": "Jar Jar Binks",
-        "points": "10/13",
+        "points": "11/14",
         "position": 43,
         "rarity_code": "S",
         "set_code": "EC",
@@ -1331,7 +1331,7 @@
             "scoundrel",
             "pilot"
         ],
-        "text": "Piloting.\nAfter you remove one or more of your dice, you may resolve one of your dice, increasing its value by 1.",
+        "text": "Piloting.\nAfter you remove one of your dice for the first time each round, you may resolve one of your dice, increasing its value by 1.",
         "ttscardid": "701152",
         "type_code": "character"
     },
@@ -1351,10 +1351,10 @@
         "rarity_code": "S",
         "set_code": "EC",
         "sides": [
-            "+1MD",
-            "+2MD1",
             "+1RD",
             "+2RD",
+            "+1MD",
+            "+2MD1",
             "+1R",
             "-"
         ],
@@ -1956,7 +1956,7 @@
         "position": 82,
         "rarity_code": "S",
         "set_code": "EC",
-        "text": "After an opponent plays a card, you may discard a card from your hand with a lower cost to place 1 resource on this plot. \n<b>Action</b> -  Search your deck or discard pile for a Yellow <b>vehicle</b> and play it, reducing its cost by the number of resources on this plot. Set this plot aside.",
+        "text": "After an opponent plays a card, you may discard a card from your hand with a lower cost to place 1 resource on this plot. \n<b>Action</b> - Search your deck or discard pile for a Yellow <b>vehicle</b> with a cost equal to or lower than the number of resources on this plot and play it for free. Set this plot aside.",
         "ttscardid": "701220",
         "type_code": "plot"
     },
@@ -2106,7 +2106,7 @@
         "rarity_code": "S",
         "set_code": "EC",
         "subtitle": "Exegol",
-        "text": "<b>Claim</b> - Deal 1 damage to a character or heal 1 damage from a vilain character.",
+        "text": "<b>Claim</b> - Deal 1 damage to a character or heal 1 damage from a villain character.",
         "ttscardid": "701226",
         "type_code": "battlefield"
     },
