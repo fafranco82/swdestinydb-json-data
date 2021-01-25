@@ -497,7 +497,7 @@
             "-"
         ],
         "subtypes": [
-            "trooper "
+            "trooper"
         ],
         "text": "<b>Power Action</b> - Discard a card from your hand to resolve one of this character's character dice, increasing its value by 1.",
         "type_code": "character"
@@ -652,7 +652,6 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "",
         "type_code": "upgrade"
     },
     {
@@ -748,4 +747,3 @@
         "type_code": "upgrade"
     }
 ]
-
