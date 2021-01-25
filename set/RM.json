@@ -143,6 +143,37 @@
     },
     {
         "affiliation_code": "villain",
+        "code": "15013",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flavor": "\"General, prepare your troops for a surface attack.\" <cite>Darth Vader</cite>",
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "General Veers",
+        "points": "14/17",
+        "position": 16,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2F",
+            "1R",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Death Squadron General",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "After setup, you may spend 2 resources to add a set-aside Snowtrooper ([RM]15) to your team.\n<b>Power Action</b> - Take control of the battlefield.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "15014",
         "deck_limit": 1,
         "faction_code": "red",
@@ -171,6 +202,70 @@
         ],
         "text": "Before the starting character roll, each opponent may choose to lose the starting character roll to give 2 shields to their characters, distributed as they wish.",
         "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "15015",
+        "deck_limit": 4,
+        "faction_code": "red",
+        "flavor": "The elite snowtroopers of the Galactic Empire are trained and equipped to operate in frigid environments.",
+        "has_die": true,
+        "has_errata": false,
+        "health": 8,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Snowtrooper",
+        "points": "7",
+        "position": 18,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "sides": [
+            "1RD",
+            "2RD1",
+            "+2RD",
+            "1R",
+            "-",
+            "-"
+        ],
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "While you are fighting on Hoth, this character has +1 health.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "15020",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Salvage the Assault",
+        "position": 23,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "text": "Exhaust 2 of your non-unique Red characters. Then gain 2 resources. ",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "15021",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Relentless Advance",
+        "points": "4",
+        "position": 24,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "text": "Team Up 1: Each <i>trooper</i>, General Veers.\nAt the end of the round or when you take control of the battlefield, place 1 damage on this plot.\n<b>Action</b> - Remove any amount of damage on this plot to deal that much indirect damage to an opponent.",
+        "type_code": "plot"
     },
     {
         "affiliation_code": "villain",
@@ -747,3 +842,4 @@
         "type_code": "upgrade"
     }
 ]
+
