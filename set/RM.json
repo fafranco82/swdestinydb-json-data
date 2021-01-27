@@ -169,7 +169,7 @@
         "subtypes": [
             "leader"
         ],
-        "text": "After setup, you may spend 2 resources to add a set-aside Snowtrooper ([RM]15) to your team.\n<b>Power Action</b> - Take control of the battlefield.",
+        "text": "After the start of the first round of the game, you may spend 2 resources to add a set-aside Snowtrooper ([RM]15) to your team.\n<b>Power Action</b> - Take control of the battlefield.",
         "type_code": "character"
     },
     {
@@ -540,6 +540,37 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "15051",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "has_die": true,
+        "has_errata": false,
+        "health": 13,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Chewbacca",
+        "points": "14/17",
+        "position": 54,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "sides": [
+            "2RD",
+            "2MD",
+            "1Sh",
+            "1Dr",
+            "2R",
+            "-"
+        ],
+        "subtitle": "Commanding Force",
+        "subtypes": [
+            "scoundrel",
+            "wookiee"
+        ],
+        "text": "Guardian.\nAfter a Guardian ability removes an opponent's character die, deal 1 damage to that die's matching character.\n<b>Power Action</b> - Move two damage among your characters as you wish.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "15052",
         "deck_limit": 1,
         "faction_code": "red",
@@ -599,6 +630,23 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "15055",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Heroic Protector",
+        "position": 58,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "text": "Activate one of your characters with Guardian. This turn, after that character's Guardian ability removes a die, deal damage to a character equal to the value of the die removed.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "15057",
         "cost": 4,
         "deck_limit": 2,
@@ -655,6 +703,38 @@
             "scoundrel"
         ],
         "text": "Piloting.\n<b>Power Action</b> - Play a Yellow card from your hand, giving it Ambush.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15066",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "has_die": true,
+        "has_errata": false,
+        "health": 13,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Obi-Wan Kenobi",
+        "points": "15/19",
+        "position": 69,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "sides": [
+            "2RD",
+            "3MD",
+            "2F",
+            "1Dc",
+            "2Sh",
+            "-"
+        ],
+        "subtitle": "\"Rako Hardeen\"",
+        "subtypes": [
+            "bounty hunter",
+            "jedi",
+            "spy"
+        ],
+        "text": "You may play Blue upgrades on this character, ignoring play restrictions.\nDetect 2.\nAfter you activate this character, if an opponent has a detected event, gain 1 resource.",
         "type_code": "character"
     },
     {
