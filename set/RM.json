@@ -1965,9 +1965,7 @@
         "position": 76,
         "rarity_code": "S",
         "set_code": "RM",
-        "subtypes": [
-            "hoth"
-        ],
+        "subtitle": "Hoth",
         "text": "<b>Power Action</b> - Remove one of your dice to give a character 2 shields.",
         "ttscardid": "55303",
         "type_code": "battlefield"
@@ -2599,9 +2597,7 @@
         "position": 102,
         "rarity_code": "S",
         "set_code": "RM",
-        "subtypes": [
-            "bespin"
-        ],
+        "subtitle": "Bespin",
         "text": "<b>Power Action</b> - Look at an opponent's hand and, if you spot a <i>pilot</i>, discard a card from it with a cost of 0. Then that opponent may draw a card.",
         "ttscardid": "55328",
         "type_code": "battlefield"
@@ -2619,9 +2615,7 @@
         "position": 103,
         "rarity_code": "S",
         "set_code": "RM",
-        "subtypes": [
-            "anexes"
-        ],
+        "subtitle": "Anexes",
         "text": "<b>Claim</b> - Your hand size is increased by 1 until the end of this round (Draw an additional card during the upkeep phase at the end of this round). Heal 1 damage from a character.",
         "ttscardid": "55329",
         "type_code": "battlefield"
@@ -2639,12 +2633,9 @@
         "position": 104,
         "rarity_code": "S",
         "set_code": "RM",
-        "subtypes": [
-            "hoth"
-        ],
+        "subtitle": "Hoth",
         "text": "Select only if your team has 2 or more Red characters.\n<b>Power Action</b> - Gain 2 actions. Give control of this battlefield to an opponent.",
         "ttscardid": "55330",
         "type_code": "battlefield"
     }
 ]
-
