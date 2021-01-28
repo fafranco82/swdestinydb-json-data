@@ -806,7 +806,7 @@
         ],
         "subtitle": "\"Rako Hardeen\"",
         "subtypes": [
-            "bounty hunter",
+            "bounty-hunter",
             "jedi",
             "spy"
         ],
@@ -1067,7 +1067,7 @@
         "code": "15096",
         "cost": 1,
         "deck_limit": 2,
-        "faction_code": "grey",
+        "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
@@ -1081,4 +1081,3 @@
         "type_code": "event"
     }
 ]
-
