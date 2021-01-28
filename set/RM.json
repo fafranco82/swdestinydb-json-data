@@ -29,6 +29,7 @@
             "sith"
         ],
         "text": "After you play an event, place 1 resource on this card. If this character has 7 or more resources on it, you may spend 2 resources to flip this card.",
+        "ttscardid": "57100",
         "type_code": "character"
     },
     {
@@ -60,6 +61,7 @@
             "sith"
         ],
         "text": "After you play an event, place 1 resource on this card.\n<b>Power Action</b> - Play a Blue event with an even cost from your hand, decreasing its cost by 1.\n[special] - Gain 2 resources or resolve any die. If this character has 7 or more resources on it, you may do both in any order.",
+        "ttscardid": "57300",
         "type_code": "character"
     },
     {
@@ -91,6 +93,7 @@
             "apprentice"
         ],
         "text": "Team Up 1: Maul.\nGuardian.\n<b>Power Action</b> - Discard a card from your hand and spend 3 resources. Then flip this character.",
+        "ttscardid": "57101",
         "type_code": "character"
     },
     {
@@ -122,6 +125,7 @@
             "apprentice"
         ],
         "text": "Guardian.\n[special] - Deal 2 damage to a character or turn a die to a side showing a value of 0. If this character has 6 or more damage, you may do both in any order.",
+        "ttscardid": "57301",
         "type_code": "character"
     },
     {
@@ -139,6 +143,7 @@
         "rarity_code": "S",
         "set_code": "RM",
         "text": "Spot an <i>Inquisitor</i> or <i>Sith</i> to choose a symbol. Reroll up to 3 of an opponent's dice. For each of those dice showing the chosen symbol, remove it. Otherwise, turn it to a side showing a blank.",
+        "ttscardid": "55208",
         "type_code": "event"
     },
     {
@@ -170,6 +175,7 @@
             "leader"
         ],
         "text": "After the start of the first round of the game, you may spend 2 resources to add a set-aside Snowtrooper ([RM]15) to your team.\n<b>Power Action</b> - Take control of the battlefield.",
+        "ttscardid": "55212",
         "type_code": "character"
     },
     {
@@ -201,6 +207,7 @@
             "leader"
         ],
         "text": "Before the starting character roll, each opponent may choose to lose the starting character roll to give 2 shields to their characters, distributed as they wish.",
+        "ttscardid": "55213",
         "type_code": "character"
     },
     {
@@ -231,6 +238,7 @@
             "trooper"
         ],
         "text": "While you are fighting on Hoth, this character has +1 health.",
+        "ttscardid": "55214",
         "type_code": "character"
     },
     {
@@ -248,6 +256,7 @@
         "rarity_code": "S",
         "set_code": "RM",
         "text": "Exhaust 2 of your non-unique Red characters. Then gain 2 resources. ",
+        "ttscardid": "55219",
         "type_code": "event"
     },
     {
@@ -265,6 +274,7 @@
         "rarity_code": "S",
         "set_code": "RM",
         "text": "Team Up 1: Each <i>trooper</i>, General Veers.\nAt the end of the round or when you take control of the battlefield, place 1 damage on this plot.\n<b>Action</b> - Remove any amount of damage on this plot to deal that much indirect damage to an opponent.",
+        "ttscardid": "55220",
         "type_code": "plot"
     },
     {
@@ -293,6 +303,7 @@
             "vehicle"
         ],
         "text": "This card's cost cannot be decreased.\nAfter you activate this support, you may roll a set-aside copy of this die into your pool. Set that die aside after it is resolved or removed.",
+        "ttscardid": "55222",
         "type_code": "support"
     },
     {
@@ -321,6 +332,7 @@
             "weapon"
         ],
         "text": "After this die deals damage to a character, you may remove one of that character's character or upgrade dice.",
+        "ttscardid": "55224",
         "type_code": "upgrade"
     },
     {
@@ -351,6 +363,7 @@
             "scoundrel"
         ],
         "text": "<b>Power Action</b> - Spot another <i>pirate</i> to give control of one of your ready characters to an opponent until the end of the action phase. Then take 1 resource from an opponent.",
+        "ttscardid": "55226",
         "type_code": "character"
     },
     {
@@ -382,6 +395,7 @@
             "scoundrel"
         ],
         "text": "<b>Power Action</b> - Look at the top 4 cards of your deck and play a downgrade from among them. Place the remaining cards on the bottom of your deck in any order. Then deal 1 damage to an opponent's character with a downgrade on it.",
+        "ttscardid": "55228",
         "type_code": "character"
     },
     {
@@ -399,6 +413,7 @@
         "rarity_code": "S",
         "set_code": "RM",
         "text": "Give an opponent 1 resource to deal 3 indirect damage to them.",
+        "ttscardid": "55229",
         "type_code": "event"
     },
     {
@@ -427,6 +442,7 @@
             "pirate"
         ],
         "text": "Before you resolve this die showing damage, you may increase its value by 1 if all characters on your team share a color.",
+        "ttscardid": "55234",
         "type_code": "support"
     },
     {
@@ -458,6 +474,7 @@
             "apprentice"
         ],
         "text": "Guardian.\nAfter you activate this character, reveal the top card of your deck. Give a character shields equal to the cost of that card.",
+        "ttscardid": "55238",
         "type_code": "character"
     },
     {
@@ -488,6 +505,39 @@
             "jedi"
         ],
         "text": "Each <i>apprentice</i> character you control has +1 health.\n[special] - Choose and do two of the following:\n Discard a random card from an opponent's hand.\n Give a character 1 shield.\n Roll an <i>apprentice</i> die on one of your other cards into your pool.",
+        "ttscardid": "55239",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15041",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flavor": "\"There is always hope, my friend...\"",
+        "has_die": true,
+        "has_errata": false,
+        "health": 14,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Qui-Gon Jinn",
+        "points": "15/19",
+        "position": 44,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "sides": [
+            "2MD",
+            "3MD",
+            "4MD1",
+            "2Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Venerable Maverick",
+        "subtypes": [
+            "jedi"
+        ],
+        "text": "This character has +1 shield limit and +1 upgrade limit.\n<b>Power Action</b> - Remove 1 shield from one of your characters with 3 or more shields to gain 1 resource.",
+        "ttscardid": "55240",
         "type_code": "character"
     },
     {
@@ -505,6 +555,7 @@
         "rarity_code": "S",
         "set_code": "RM",
         "text": "Include only if each character on your team is a <i>Jedi</i> or <i>apprentice</i>.\n<b>Action</b> - Remove one of your dice showing a shield and exhaust this plot to remove an opponent's die showing damage.",
+        "ttscardid": "55245",
         "type_code": "plot"
     },
     {
@@ -536,6 +587,7 @@
             "pilot"
         ],
         "text": "Piloting.\nAfter setup, if this character is elite, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.\nnAfter the upkeep phase begins, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.",
+        "ttscardid": "55248",
         "type_code": "character"
     },
     {
@@ -567,6 +619,7 @@
             "wookiee"
         ],
         "text": "Guardian.\nAfter a Guardian ability removes an opponent's character die, deal 1 damage to that die's matching character.\n<b>Power Action</b> - Move two damage among your characters as you wish.",
+        "ttscardid": "55250",
         "type_code": "character"
     },
     {
@@ -597,6 +650,7 @@
             "pilot"
         ],
         "text": "Piloting.\nAfter you activate this character, move 1 shield from a card you control to another card you control or give 1 shield to one of your characters.",
+        "ttscardid": "55251",
         "type_code": "character"
     },
     {
@@ -626,6 +680,7 @@
             "trooper"
         ],
         "text": "<b>Power Action</b> - Discard a card from your hand to resolve one of this character's character dice, increasing its value by 1.",
+        "ttscardid": "55253",
         "type_code": "character"
     },
     {
@@ -643,6 +698,7 @@
         "rarity_code": "S",
         "set_code": "RM",
         "text": "Activate one of your characters with Guardian. This turn, after that character's Guardian ability removes a die, deal damage to a character equal to the value of the die removed.",
+        "ttscardid": "55254",
         "type_code": "event"
     },
     {
@@ -671,6 +727,7 @@
             "vehicle"
         ],
         "text": "After you activate this support, roll 2 set-aside Medical Droid ([TP]26) dice into your pool. Set those dice aside after they are resolved or removed.",
+        "ttscardid": "55256",
         "type_code": "support"
     },
     {
@@ -682,7 +739,7 @@
         "has_die": true,
         "has_errata": false,
         "health": 12,
-        "illustrator": "ARH",
+        "illustrator": "CosmicNewt",
         "is_unique": true,
         "name": "Dash Rendar",
         "points": "14/17",
@@ -703,6 +760,7 @@
             "scoundrel"
         ],
         "text": "Piloting.\n<b>Power Action</b> - Play a Yellow card from your hand, giving it Ambush.",
+        "ttscardid": "55263",
         "type_code": "character"
     },
     {
@@ -735,6 +793,7 @@
             "spy"
         ],
         "text": "You may play Blue upgrades on this character, ignoring play restrictions.\nDetect 2.\nAfter you activate this character, if an opponent has a detected event, gain 1 resource.",
+        "ttscardid": "55265",
         "type_code": "character"
     },
     {
@@ -755,6 +814,7 @@
             "mission"
         ],
         "text": "Include only if you have an <i>Ewok</i> on your team.\nEach time you play a <i>trap</i>, place a resource on this plot.\nIf this plot has 3 resources, you may set it aside and spend 3 resources to add 4 set-aside Ewok Warriors ([SoH]95) to your team. Place 3 damage on each one.",
+        "ttscardid": "55301",
         "type_code": "plot"
     },
     {
@@ -783,7 +843,26 @@
             "vehicle"
         ],
         "text": "After you activate this support, look at the top 2 cards of your deck and place 1 of those cards on the bottom of your deck.\n[special] - Play the bottom card of your deck for free or resolve one of your dice without removing it from your pool.",
+        "ttscardid": "55302",
         "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "15074",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Harness the Force",
+        "position": 77,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "text": "Spot a Blue character to turn one of your dice to a side showing a special ([special]). Then you may resolve that die.",
+        "ttscardid": "55304",
+        "type_code": "event"
     },
     {
         "affiliation_code": "neutral",
@@ -800,6 +879,7 @@
         "rarity_code": "S",
         "set_code": "RM",
         "text": "Resolve one of your Red dice showing a value of 1 without removing it from your pool.",
+        "ttscardid": "55311",
         "type_code": "event"
     },
     {
@@ -827,6 +907,7 @@
         "subtypes": [
             "weapon"
         ],
+        "ttscardid": "55315",
         "type_code": "upgrade"
     },
     {
@@ -857,7 +938,8 @@
             "engineer",
             "scavenger"
         ],
-        "text": "After setup, you may shuffle up to 6 set-aside non-character <i>droids</i> into your deck <i>(ignoring deckbuilding restrictions</i>. \nAfter you play a <i>droid</i>, you may deal 1 indirect damage to an opponent.",
+        "text": "After setup, you may shuffle up to 6 set-aside non-character <i>droids</i> into your deck <i>(ignoring deckbuilding restrictions)</i>.\nAfter you play a <i>droid</i>, you may deal 1 indirect damage to an opponent.",
+        "ttscardid": "55317",
         "type_code": "character"
     },
     {
@@ -891,6 +973,7 @@
             "scoundrel"
         ],
         "text": "After you activate this character, you may roll 2 set-aside Pirate Loyalist ([RM]27) dice into your pool.\n[special] - Deal 2 damage to an opponent's character, or 3 damage if one of your effects caused an opponent to lose 1 or more resources this round.",
+        "ttscardid": "55318",
         "type_code": "character"
     },
     {
@@ -919,6 +1002,7 @@
             "equipment"
         ],
         "text": "Attached character has +1 health, or +2 health instead if attached character is a <i>pirate</i> or <i>bounty hunter</i>.",
+        "ttscardid": "55323",
         "type_code": "upgrade"
     }
 ]
