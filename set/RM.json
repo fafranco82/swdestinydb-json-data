@@ -209,7 +209,7 @@
         "subtypes": [
             "inquisitor"
         ],
-        "text": "[special] - Use a special ability on another card in play <i>(yours or an opponent's).<i>.",
+        "text": "[special] - Use a special ability on another card in play <i>(yours or an opponent's)</i>.",
         "ttscardid": "55204",
         "type_code": "character"
     },
@@ -248,7 +248,7 @@
         "position": 9,
         "rarity_code": "S",
         "set_code": "RM",
-        "text": "Exhaust one of your <i>witch<i> characters to add 3 set-aside Nightsister Zombies ([SoH]4) to your team. After the action phase ends, defeat those Nightsister Zombies.",
+        "text": "Exhaust one of your <i>witch</i> characters to add 3 set-aside Nightsister Zombies ([SoH]4) to your team. After the action phase ends, defeat those Nightsister Zombies.",
         "ttscardid": "55206",
         "type_code": "event"
     },
@@ -319,7 +319,7 @@
         "name": "Darth Vader",
         "parallel_die": "02010",
         "points": "12/16",
-        "position": 12,
+        "position": 13,
         "rarity_code": "S",
         "set_code": "RM",
         "sides": [
@@ -353,7 +353,7 @@
         "position": 14,
         "rarity_code": "S",
         "set_code": "RM",
-        "text": "<b>Action</b> - Spot an <i>Inquisitor</i> and exhaust this support to choose an opponent?s character die. Then deal 2 indirect damage to that opponent unless they resolve that die.",
+        "text": "<b>Action</b> - Spot an <i>Inquisitor</i> and exhaust this support to choose an opponent's character die. Then deal 2 indirect damage to that opponent unless they resolve that die.",
         "ttscardid": "55210",
         "type_code": "support"
     },
@@ -1032,7 +1032,7 @@
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Jedi Apprentice",
-        "points": "7/11",
+        "points": "7/9",
         "position": 41,
         "rarity_code": "S",
         "set_code": "RM",
@@ -1316,7 +1316,7 @@
             "leader",
             "pilot"
         ],
-        "text": "Piloting.\nAfter setup, if this character is elite, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.\nnAfter the upkeep phase begins, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.",
+        "text": "Piloting.\nAfter setup, if this character is elite, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.\nAfter the upkeep phase begins, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.",
         "ttscardid": "55248",
         "type_code": "character"
     },
@@ -1612,6 +1612,24 @@
     {
         "affiliation_code": "hero",
         "code": "15060",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "CosmicNewt",
+        "is_unique": true,
+        "name": "Wasaka Berry Plant",
+        "position": 63,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "text": "<b>Action</b> - If all characters on your team share a subtype, exhaust this support to heal 2 damage from a character.",
+        "ttscardid": "55260",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15061",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
@@ -1620,7 +1638,7 @@
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Wookiee Fluttercraft",
-        "position": 63,
+        "position": 64,
         "rarity_code": "S",
         "set_code": "RM",
         "sides": [
@@ -1636,24 +1654,6 @@
         ],
         "text": "After you activate this support, if there is no damage on it, you may move 1 damage from a character with Guardian to this card.",
         "ttscardid": "55259",
-        "type_code": "support"
-    },
-    {
-        "affiliation_code": "hero",
-        "code": "15061",
-        "cost": 3,
-        "deck_limit": 2,
-        "faction_code": "red",
-        "has_die": false,
-        "has_errata": false,
-        "illustrator": "CosmicNewt",
-        "is_unique": true,
-        "name": "Wasaka Berry Plant",
-        "position": 64,
-        "rarity_code": "S",
-        "set_code": "RM",
-        "text": "<b>Action</b> - If all characters on your team share a subtype, exhaust this support to heal 2 damage from a character.",
-        "ttscardid": "55260",
         "type_code": "support"
     },
     {
@@ -1955,7 +1955,7 @@
     {
         "affiliation_code": "hero",
         "code": "15073",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
@@ -2012,28 +2012,6 @@
     {
         "affiliation_code": "neutral",
         "code": "15076",
-        "cost": 1,
-        "deck_limit": 2,
-        "faction_code": "blue",
-        "has_die": false,
-        "has_errata": false,
-        "illustrator": "ARH",
-        "is_unique": true,
-        "name": "Jar'Kai",
-        "position": 79,
-        "rarity_code": "S",
-        "set_code": "RM",
-        "subtypes": [
-            "ability",
-            "form"
-        ],
-        "text": "Blue character only. Limit 1 <i>form</i> per character.\nAttached character has +2 upgrade limit.\nBefore you resolve an attached character's <i>weapon</i> die, if attached character has 2 or more <i>weapons</i> on it, increase its value by 1.",
-        "ttscardid": "55306",
-        "type_code": "upgrade"
-    },
-    {
-        "affiliation_code": "neutral",
-        "code": "15077",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -2043,7 +2021,7 @@
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Force Valor",
-        "position": 80,
+        "position": 79,
         "rarity_code": "S",
         "set_code": "RM",
         "sides": [
@@ -2059,6 +2037,28 @@
         ],
         "text": "Play only if you spot a Blue character.\n[special] - Choose and do two of the following:\n Deal 1 damage to a character.\n Heal 1 damage from a character.\n Turn a die to a side not showing a special ([special]).",
         "ttscardid": "55307",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "15077",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Jar'Kai",
+        "position": 80,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "subtypes": [
+            "ability",
+            "form"
+        ],
+        "text": "Blue character only. Limit 1 <i>form</i> per character.\nAttached character has +2 upgrade limit.\nBefore you resolve an attached character's <i>weapon</i> die, if attached character has 2 or more <i>weapons</i> on it, increase its value by 1.",
+        "ttscardid": "55306",
         "type_code": "upgrade"
     },
     {
@@ -2587,7 +2587,7 @@
     {
         "affiliation_code": "neutral",
         "code": "15098",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
@@ -2605,7 +2605,7 @@
     {
         "affiliation_code": "neutral",
         "code": "15099",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
@@ -2623,7 +2623,7 @@
     {
         "affiliation_code": "neutral",
         "code": "15100",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
