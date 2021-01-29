@@ -1612,6 +1612,24 @@
     {
         "affiliation_code": "hero",
         "code": "15060",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "CosmicNewt",
+        "is_unique": true,
+        "name": "Wasaka Berry Plant",
+        "position": 63,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "text": "<b>Action</b> - If all characters on your team share a subtype, exhaust this support to heal 2 damage from a character.",
+        "ttscardid": "55260",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "15061",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "red",
@@ -1620,7 +1638,7 @@
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Wookiee Fluttercraft",
-        "position": 63,
+        "position": 64,
         "rarity_code": "S",
         "set_code": "RM",
         "sides": [
@@ -1636,24 +1654,6 @@
         ],
         "text": "After you activate this support, if there is no damage on it, you may move 1 damage from a character with Guardian to this card.",
         "ttscardid": "55259",
-        "type_code": "support"
-    },
-    {
-        "affiliation_code": "hero",
-        "code": "15061",
-        "cost": 3,
-        "deck_limit": 2,
-        "faction_code": "red",
-        "has_die": false,
-        "has_errata": false,
-        "illustrator": "CosmicNewt",
-        "is_unique": true,
-        "name": "Wasaka Berry Plant",
-        "position": 64,
-        "rarity_code": "S",
-        "set_code": "RM",
-        "text": "<b>Action</b> - If all characters on your team share a subtype, exhaust this support to heal 2 damage from a character.",
-        "ttscardid": "55260",
         "type_code": "support"
     },
     {
@@ -1955,7 +1955,7 @@
     {
         "affiliation_code": "hero",
         "code": "15073",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
@@ -2012,28 +2012,6 @@
     {
         "affiliation_code": "neutral",
         "code": "15076",
-        "cost": 1,
-        "deck_limit": 2,
-        "faction_code": "blue",
-        "has_die": false,
-        "has_errata": false,
-        "illustrator": "ARH",
-        "is_unique": true,
-        "name": "Jar'Kai",
-        "position": 79,
-        "rarity_code": "S",
-        "set_code": "RM",
-        "subtypes": [
-            "ability",
-            "form"
-        ],
-        "text": "Blue character only. Limit 1 <i>form</i> per character.\nAttached character has +2 upgrade limit.\nBefore you resolve an attached character's <i>weapon</i> die, if attached character has 2 or more <i>weapons</i> on it, increase its value by 1.",
-        "ttscardid": "55306",
-        "type_code": "upgrade"
-    },
-    {
-        "affiliation_code": "neutral",
-        "code": "15077",
         "cost": 2,
         "deck_limit": 2,
         "faction_code": "blue",
@@ -2043,7 +2021,7 @@
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Force Valor",
-        "position": 80,
+        "position": 79,
         "rarity_code": "S",
         "set_code": "RM",
         "sides": [
@@ -2059,6 +2037,28 @@
         ],
         "text": "Play only if you spot a Blue character.\n[special] - Choose and do two of the following:\n Deal 1 damage to a character.\n Heal 1 damage from a character.\n Turn a die to a side not showing a special ([special]).",
         "ttscardid": "55307",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "15077",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Jar'Kai",
+        "position": 80,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "subtypes": [
+            "ability",
+            "form"
+        ],
+        "text": "Blue character only. Limit 1 <i>form</i> per character.\nAttached character has +2 upgrade limit.\nBefore you resolve an attached character's <i>weapon</i> die, if attached character has 2 or more <i>weapons</i> on it, increase its value by 1.",
+        "ttscardid": "55306",
         "type_code": "upgrade"
     },
     {
@@ -2587,7 +2587,7 @@
     {
         "affiliation_code": "neutral",
         "code": "15098",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
@@ -2605,7 +2605,7 @@
     {
         "affiliation_code": "neutral",
         "code": "15099",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
@@ -2623,7 +2623,7 @@
     {
         "affiliation_code": "neutral",
         "code": "15100",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
