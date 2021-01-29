@@ -209,7 +209,7 @@
         "subtypes": [
             "inquisitor"
         ],
-        "text": "[special] - Use a special ability on another card in play <i>(yours or an opponent's).<i>.",
+        "text": "[special] - Use a special ability on another card in play <i>(yours or an opponent's)</i>.",
         "ttscardid": "55204",
         "type_code": "character"
     },
@@ -248,7 +248,7 @@
         "position": 9,
         "rarity_code": "S",
         "set_code": "RM",
-        "text": "Exhaust one of your <i>witch<i> characters to add 3 set-aside Nightsister Zombies ([SoH]4) to your team. After the action phase ends, defeat those Nightsister Zombies.",
+        "text": "Exhaust one of your <i>witch</i> characters to add 3 set-aside Nightsister Zombies ([SoH]4) to your team. After the action phase ends, defeat those Nightsister Zombies.",
         "ttscardid": "55206",
         "type_code": "event"
     },
