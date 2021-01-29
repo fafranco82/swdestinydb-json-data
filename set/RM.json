@@ -319,7 +319,7 @@
         "name": "Darth Vader",
         "parallel_die": "02010",
         "points": "12/16",
-        "position": 12,
+        "position": 13,
         "rarity_code": "S",
         "set_code": "RM",
         "sides": [
@@ -353,7 +353,7 @@
         "position": 14,
         "rarity_code": "S",
         "set_code": "RM",
-        "text": "<b>Action</b> - Spot an <i>Inquisitor</i> and exhaust this support to choose an opponent?s character die. Then deal 2 indirect damage to that opponent unless they resolve that die.",
+        "text": "<b>Action</b> - Spot an <i>Inquisitor</i> and exhaust this support to choose an opponent's character die. Then deal 2 indirect damage to that opponent unless they resolve that die.",
         "ttscardid": "55210",
         "type_code": "support"
     },
@@ -1032,7 +1032,7 @@
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Jedi Apprentice",
-        "points": "7/11",
+        "points": "7/9",
         "position": 41,
         "rarity_code": "S",
         "set_code": "RM",
@@ -1316,7 +1316,7 @@
             "leader",
             "pilot"
         ],
-        "text": "Piloting.\nAfter setup, if this character is elite, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.\nnAfter the upkeep phase begins, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.",
+        "text": "Piloting.\nAfter setup, if this character is elite, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.\nAfter the upkeep phase begins, you may add a set-aside X-Wing ([AtG]86) to your play area <i>(without paying its cost)</i>.",
         "ttscardid": "55248",
         "type_code": "character"
     },
