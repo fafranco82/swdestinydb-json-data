@@ -2655,7 +2655,7 @@
     {
         "affiliation_code": "neutral",
         "code": "15101",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
@@ -2666,7 +2666,10 @@
         "position": 105,
         "rarity_code": "S",
         "set_code": "RM",
+        "subtypes": [
+            "format"
+        ],
         "text": "40/40 Format Only. You may include one additional plot on your team. Before setup, shuffle 10 additional cards into your draw deck following normal deckbuilding restrictions. Then set this plot aside.",
-        "type_code": "plot"
+        "type_code": "character"
     }
 ]
