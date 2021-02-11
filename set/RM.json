@@ -2651,5 +2651,25 @@
         "text": "Select only if your team has 2 or more Red characters.\n<b>Power Action</b> - Gain 2 actions. Give control of this battlefield to an opponent.",
         "ttscardid": "55330",
         "type_code": "battlefield"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "15101",
+        "deck_limit": 1,
+        "faction_code": "gray",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": " Death of CT-4040",
+        "points": "-10",
+        "position": 105,
+        "rarity_code": "S",
+        "set_code": "RM",
+        "subtypes": [
+            "format"
+        ],
+        "text": "40/40 Format Only. You may include one additional plot on your team. Before setup, shuffle 10 additional cards into your draw deck following normal deckbuilding restrictions. Then set this plot aside.",
+        "type_code": "character"
     }
 ]
