@@ -2659,6 +2659,7 @@
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
+        "health": 1,
         "illustrator": "ARH",
         "is_unique": false,
         "name": " Death of CT-4040",
@@ -2670,6 +2671,6 @@
             "format"
         ],
         "text": "40/40 Format Only. You may include one additional plot on your team. Before setup, shuffle 10 additional cards into your draw deck following normal deckbuilding restrictions. Then set this plot aside.",
-        "type_code": "plot"
+        "type_code": "character"
     }
 ]
