@@ -8,6 +8,14 @@
         "name": "Konvergencia"
     },
     {
+        "code": "EC",
+        "name": "Eternal Conflict"
+    },
+    {
+        "code": "FA",
+        "name": "Faltering Allegiances"
+    },
+    {
         "code": "LEG",
         "name": "Örökség"
     }

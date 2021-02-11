@@ -28,6 +28,14 @@
         "name": "Fejvadász"
     },
     {
+        "code": "creature",
+        "name": "Creature"
+    },
+    {
+        "code": "cultist",
+        "name": "Cultist"
+    },
+    {
         "code": "curse",
         "name": "Átok"
     },
@@ -54,6 +62,10 @@
     {
         "code": "form",
         "name": "Alak"
+    },
+    {
+        "code": "format",
+        "name": "Format"
     },
     {
         "code": "guard",

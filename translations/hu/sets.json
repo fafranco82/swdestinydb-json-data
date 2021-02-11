@@ -20,8 +20,16 @@
         "name": "Konvergencia"
     },
     {
+        "code": "EC",
+        "name": "Szüntelen konfliktus"
+    },
+    {
         "code": "EaW",
         "name": "A Birodalom fegyverben"
+    },
+    {
+        "code": "FA",
+        "name": "Faltering Allegiances"
     },
     {
         "code": "LEG",
@@ -30,6 +38,10 @@
     {
         "code": "RIV",
         "name": "Riválisok"
+    },
+    {
+        "code": "RM",
+        "name": "Redemption"
     },
     {
         "code": "SoH",

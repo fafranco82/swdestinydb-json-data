@@ -1,11 +1,19 @@
 [
     {
+        "code": "ARNS",
+        "name": "ARH Standard"
+    },
+    {
         "code": "INF",
         "name": "Infinite"
     },
     {
         "code": "STD",
         "name": "Standard"
+    },
+    {
+        "code": "TCISTD",
+        "name": "TCI Standard"
     },
     {
         "code": "TRI",
