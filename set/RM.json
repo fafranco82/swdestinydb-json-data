@@ -2430,7 +2430,7 @@
         "subtypes": [
             "mission"
         ],
-        "text": "Team Up 1: Each <i>pirate</i>.\nAfter one of your effects causes an opponent to lose one or more resources, place resources on this plot equal to the number of resources lost. If this plot has 6 or more resources, spot a <i>pirate</i> character to flip this card and attach it to that character.",
+        "text": "Team Up 1: Each <i>pirate</i>.\nAfter one of your effects causes an opponent to lose 1 or more resources, place resources on this plot equal to the number of resources lost. If this plot has 6 or more resources, spot a <i>pirate</i> character to flip this card and attach it to that character.",
         "ttscardid": "57103",
         "type_code": "plot"
     },
