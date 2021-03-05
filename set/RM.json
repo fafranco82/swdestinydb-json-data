@@ -1960,7 +1960,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "After you activate this support, look at the top 2 cards of your deck and place 1 of those cards on the bottom of your deck.\n[special] - Play the bottom card of your deck for free or resolve one of your dice without removing it from your pool.",
+        "text": "After you activate this support, look at the top 2 cards of your deck and place 1 of those cards on the bottom of your deck, then add the other card to your hand.\n[special] - Play the bottom card of your deck for free or resolve one of your dice without removing it from your pool.",
         "ttscardid": "55302",
         "type_code": "support"
     },
