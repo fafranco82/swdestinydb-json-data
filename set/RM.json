@@ -1675,7 +1675,7 @@
         "deck_limit": 2,
         "faction_code": "red",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": false,
         "name": "Veteran of War",
@@ -1693,7 +1693,7 @@
         "subtypes": [
             "title"
         ],
-        "text": "Unique Red character only.\nAfter you play this upgrade, heal 2 damage from attached character.\n[special] - Resolve one of your Red dice, increasing its value by 1. Remove an opponent's die.",
+        "text": "Unique Red character only.\nAfter you play this upgrade, you may spend 1 resource to heal 2 damage from attached character.\n[special] - Resolve one of your Red dice, increasing its value by 1. Remove an opponent's die.",
         "ttscardid": "55261",
         "type_code": "upgrade"
     },
