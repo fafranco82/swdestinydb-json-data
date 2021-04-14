@@ -776,7 +776,7 @@
             "pirate",
             "scoundrel"
         ],
-        "text": "<b>Power Action</b> – If this character is ready, spot another <i>pirate</i> to give control of this character to an opponent until the end of the action phase. Then take 1 resource from an opponent.",
+        "text": "",
         "ttscardid": "55226",
         "type_code": "character"
     },
@@ -905,14 +905,14 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": false,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "ARH",
         "is_unique": true,
         "name": "Den of Thieves",
         "position": 36,
         "rarity_code": "S",
         "set_code": "RM",
-        "text": "Discard this support if it has 3 or more resources on it.\nBefore a Yellow character would be dealt damage, you may place that amount of damage on this card as resources instead.\nAfter an opponent loses 1 or more resources, remove 1 resource from this support.",
+        "text": "Discard this support if it has 3 or more damage on it.\nBefore a Yellow character would be dealt damage, you may place that amount of damage on this card instead.\nAfter an opponent loses 1 or more resources, remove 1 damage from this support.",
         "ttscardid": "55232",
         "type_code": "support"
     },
@@ -2419,7 +2419,7 @@
         "faction_code": "yellow",
         "flip_card": true,
         "has_die": false,
-        "has_errata": true,
+        "has_errata": false,
         "illustrator": "ARH",
         "is_unique": false,
         "name": "The Ultimate Heist",
@@ -2430,7 +2430,7 @@
         "subtypes": [
             "mission"
         ],
-        "text": "Team Up 1: Each <i>pirate</i>.\nAfter one of your effects causes an opponent to lose 1 or more resources, place resources on this plot equal to the number of resources lost. If this plot has 6 or more resources, spot a <i>pirate</i> character to flip this card and attach it to that character.",
+        "text": "Team Up 1: Each <i>pirate</i>.\nAfter one of your effects causes an opponent to lose 1 or more resources, place resources on this plot equal to the number of resources lost. If this plot has 4 or more resources, spot a <i>pirate</i> character to flip this card and attach it to that character.",
         "ttscardid": "57103",
         "type_code": "plot"
     },
