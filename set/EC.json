@@ -70,7 +70,7 @@
         "deck_limit": 2,
         "faction_code": "blue",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 3,
         "illustrator": "Gary Jamroz",
         "is_unique": false,
@@ -92,7 +92,7 @@
         "subtypes": [
             "cultist"
         ],
-        "text": "After setup, add a set-aside Sith Cultist ([EC]3) to your team.\nBefore one of your characters would be defeated, you may defeat this character instead. Then heal 2 damage from that character, or 3 damage instead if you spot a <b>Sith</b>.",
+        "text": "<b>Include only if you have a unique Blue character on your team.</b>\nAfter setup, add a set-aside Sith Cultist (<span class=\"destiny\">p</span>3) to your team.\nBefore one of your characters would be defeated, you may defeat this character instead. Then heal 2 damage from that character, or 3 damage instead if you spot a <b>Sith</b>.",
         "ttscardid": "701102",
         "type_code": "character"
     },
@@ -268,6 +268,7 @@
         "code": "701012",
         "deck_limit": 2,
         "faction_code": "red",
+        "flavor": "“Where are those Droidekas?” – Rune Haako",
         "has_die": true,
         "has_errata": false,
         "health": 8,
@@ -422,7 +423,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "Reduce the cost of this support by 1 if you drew one or more cards during the action phase this round.\n<b>Power Action</b> - If this die was removed during an opponent's last turn this round, you may spot a <b>leader</b> and discard a card from your hand to roll this die into your pool.",
+        "text": "Decrease the cost of this support by 1 if you drew one or more cards during the action phase this round.\n<b>Power Action</b> - If this die was removed during an opponent's last turn this round, you may spot a <b>leader</b> and discard a card from your hand to roll this die into your pool.",
         "ttscardid": "701117",
         "type_code": "support"
     },
@@ -657,7 +658,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
-        "flavor": "\"They fly now?! They fly now.\"",
+        "flavor": "“They fly now?! They fly now.”                                                                  – Finn and Poe Dameron",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Stephen Tappin © ILM Art",
@@ -774,8 +775,8 @@
         ],
         "subtitle": "Force Wisdom",
         "subtypes": [
-            "leader",
-            "jedi"
+            "jedi",
+            "leader"
         ],
         "text": "After you activate this character, you may draw a card. Then you may discard that card to give 1 shield to this character.\nAfter you resolve this die showing a value of 1, you may deal 1 damage to a character or give 1 shield to a character.",
         "ttscardid": "701131",
@@ -992,7 +993,7 @@
         "subtypes": [
             "ability"
         ],
-        "text": "After an opponent rolls a die, you may spot a <b>Jedi</b> and exhaust this upgrade to turn that die to the previous or next side on the box of its dice reference (considering as one face all sides that are identical), or to any side instead if this upgrade is on Qui-Gon Jinn and he has one or more shields.",
+        "text": "After an opponent rolls a die, you may spot a <b>Jedi</b> and exhaust this upgrade to turn that die to the previous or next side on the box of its dice reference (considering as one all sides that are identical), or to any side instead if this upgrade is on Qui-Gon Jinn and he has one or more shields.",
         "ttscardid": "701140",
         "type_code": "upgrade"
     },
@@ -1034,7 +1035,7 @@
         "code": "701043",
         "deck_limit": 1,
         "faction_code": "red",
-        "flavor": "\"Mesa propose that the Senate gives immediately emergency powers to the Supreme Chancellor.\"",
+        "flavor": "“Mesa propose that the Senate gives immediately emergency powers to the Supreme Chancellor.”",
         "has_die": true,
         "has_errata": false,
         "health": 10,
@@ -1055,8 +1056,8 @@
         ],
         "subtitle": "Gungan Representative",
         "subtypes": [
-            "leader",
-            "gungan"
+            "gungan",
+            "leader"
         ],
         "text": "After you activate this character, discard a card from the top of a deck for each die showing a blank ([blank]). Then reroll all opponents' dice showing a blank ([blank]).",
         "ttscardid": "701142",
@@ -1067,6 +1068,7 @@
         "code": "701044A",
         "deck_limit": 1,
         "faction_code": "red",
+        "flavor": "“Somebody has to save our skins.”",
         "has_die": true,
         "has_errata": false,
         "health": 7,
@@ -1121,7 +1123,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "\"You're my only hope.\"",
+        "flavor": "“You're my only hope.” – Leia Organa",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Adrianna Vanderstelt © ACME Archives",
@@ -1158,7 +1160,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "red",
-        "flavor": "\"You're braver than I thought.\"",
+        "flavor": "“You're braver than I thought.” – Leia Organa",
         "has_die": false,
         "has_errata": false,
         "illustrator": "© Lucasfilm",
@@ -1307,7 +1309,7 @@
         "code": "701053",
         "deck_limit": 1,
         "faction_code": "yellow",
-        "flavor": "\"There's no liars in this game, just players.\"",
+        "flavor": "“There's no liars in this game, just players.”",
         "has_die": true,
         "has_errata": false,
         "health": 11,
@@ -1328,8 +1330,8 @@
         ],
         "subtitle": "Galactic Trickster",
         "subtypes": [
-            "scoundrel",
-            "pilot"
+            "pilot",
+            "scoundrel"
         ],
         "text": "Piloting.\nAfter you remove one of your dice for the first time each round, you may resolve one of your dice, increasing its value by 1.",
         "ttscardid": "701152",
@@ -1399,7 +1401,7 @@
         "rarity_code": "S",
         "reprint_of": "01131",
         "set_code": "EC",
-        "text": "Remove one of your character dice to force an opponent to choose and remove 2 of their dice.",
+        "text": "Remove one of your character dice to force   an opponent to choose and remove 2 of     their dice.",
         "ttscardid": "701155",
         "type_code": "event"
     },
@@ -1486,7 +1488,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "Before you play this upgrade, you may remove one of your dice to reduce its cost by 1.\nAfter you play this upgrade, you may remove one of your dice to roll a character die on one of your characters into your pool. ",
+        "text": "Before you play this upgrade, you may remove one of your dice to decrease its cost by 1.\nAfter you play this upgrade, you may remove one of your dice to roll a character die on one of your characters into your pool. ",
         "ttscardid": "701158",
         "type_code": "upgrade"
     },
@@ -1496,7 +1498,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "yellow",
-        "flavor": "\"We're not exactly anything. We're a crew. A team. In some ways, a family.\"",
+        "flavor": "“We're not exactly anything. We're a crew. A team. In some ways, a family.” – Sabine Wren",
         "has_die": false,
         "has_errata": false,
         "illustrator": "Dan Wallace @ Lucasfilm Animation",
@@ -1537,8 +1539,8 @@
             "-"
         ],
         "subtypes": [
-            "scoundrel",
-            "scavenger"
+            "scavenger",
+            "scoundrel"
         ],
         "text": "After you activate this character, you may force a player to place all cards in their hand on the bottom of their deck in any order and draw that same number of cards, minus 1 if you spot a Yellow character, plus 1 if you spot a Red character.",
         "ttscardid": "701200",
@@ -1794,8 +1796,8 @@
             "-"
         ],
         "subtypes": [
-            "weapon",
-            "mod"
+            "mod",
+            "weapon"
         ],
         "text": "Modify <b>vehicle</b> support.\nAfter you play this upgrade, you may activate one of your <b>pilots</b>.",
         "ttscardid": "701212",
@@ -1806,7 +1808,7 @@
         "code": "701074",
         "deck_limit": 2,
         "faction_code": "yellow",
-        "flavor": "\"Oru uru kak.\"",
+        "flavor": "“Oru uru kak.”",
         "has_die": true,
         "has_errata": false,
         "health": 7,
@@ -1938,7 +1940,7 @@
         "position": 81,
         "rarity_code": "S",
         "set_code": "EC",
-        "text": "Remove one of your <b>scoundrel</b> dice showing a value of 2 or more to choose two :\n- Gain 1 resource\n- Deal 1 damage to a character\n- Turn a die to any side",
+        "text": "Remove one of your <b>scoundrel</b> dice showing a value of 2 or more to choose two :\n• Gain 1 resource.\n• Deal 1 damage to a character.\n• Turn a die to any side.",
         "ttscardid": "701219",
         "type_code": "event"
     },
@@ -2069,7 +2071,7 @@
         "position": 87,
         "rarity_code": "S",
         "set_code": "EC",
-        "text": "After you activate a character, you may choose and do one :\n- Spot 2 Blue characters to turn a die to any side.\n- Spot 2 Red characters to draw a card.\n- Spot 2 Yellow characters to resolve one of your dice.\nThen set this plot aside.",
+        "text": "After you activate a character, you may choose and do one :\n• Spot 2 Blue characters to turn a die to any side.\n• Spot 2 Red characters to draw a card.\n• Spot 2 Yellow characters to resolve one of your dice.\nThen set this plot aside.",
         "ttscardid": "701303",
         "type_code": "plot"
     },
