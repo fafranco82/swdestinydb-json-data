@@ -7,7 +7,7 @@
     },
     {
         "code": "701002",
-        "flavor": "“Je suis tous les Sith!”",
+        "flavor": "« Je suis tous les Sith ! »",
         "name": "Palpatine",
         "subtitle": "Empereur Sith Éternel",
         "text": "Après avoir retiré un dé de personnage adverse, soignez 1 dégât de ce personnage.\nAprès que ce dé a été retiré, infligez 1 dégât à ce personnage."
@@ -16,7 +16,7 @@
         "code": "701003",
         "name": "Cultiste Sith",
         "subtitle": "Serviteur de l'Empereur",
-        "text": "Après la mise en place, ajoutez à votre équipe un Cultiste Sith ([EC]3) mis de côté.\nAvant qu'un de vos personnages ne soit censé être vaincu, vous pouvez vaincre ce personnage à la place. Puis soignez 2 dégâts du personnage, ou 3 dégâts à la place si vous désignez un <b>Sith</b>."
+        "text": "Ne peut être inclus que si vous avez un personnage Bleu unique dans votre équipe.\nAprès la mise en place, ajoutez à votre équipe un Cultiste Sith ([EC]3) mis de côté.\nAvant qu'un de vos personnages ne soit censé être vaincu, vous pouvez vaincre ce personnage à la place. Puis soignez 2 dégâts du personnage, ou 3 dégâts à la place si vous désignez un <b>Sith</b>."
     },
     {
         "code": "701004",
@@ -60,8 +60,9 @@
     },
     {
         "code": "701012",
+        "flavor": "« Mais où sont les Droïdekas ? »                      - Rune Haako",
         "name": "Droïdeka",
-        "text": "Vous pouvez seulement jouer des améliorations <b>mod</b> sur ce personnage.\nVos adversaires ne peuvent pas résoudre de dé montrant des dégâts d'une valeur de 1 contre ce personnage."
+        "text": "Vous pouvez seulement jouer des améliorations <b>mod</b> sur ce personnage.\nVos adversaires ne peuvent pas résoudre de dés montrant des dégâts d'une valeur de 1 contre ce personnage."
     },
     {
         "code": "701013",
@@ -82,12 +83,12 @@
     {
         "code": "701016",
         "name": "Bien Trop Naïve",
-        "text": "Forcez un adversaire à choisir un de ses personnages. Vous pouvez résoudre un de vos dés montrant des dégâts à distance ([ranged]) en augmentant de 2 sa valeur, ou de 1 à la place contre le personnage choisi."
+        "text": "Forcez un adversaire à choisir un de ses personnages. Vous pouvez résoudre un de vos dés montrant des dégâts à distance ([ranged]) en augmentant de 2 sa valeur, ou de 1 à la place si vous le résolvez contre le personnage choisi."
     },
     {
         "code": "701017",
         "name": "Marche Impériale",
-        "text": "Après avoir résolu un dé montrant une ressource, vous pouvez incliner cette intrigue et dépenser n'importe quel nombre de ressources pour placer autant de ressources sur cette intrigue.\n<b>Action Puissance</b> - Retirez jusqu'à 5 ressources de cette intrigue pour lancer autant de dés de Stormtrooper Vétéran ([LEG]13) dans votre réserve. Si vous désignez 2 <b>leaders</b>, vous pouvez relancer n'importe lesquels de ces dés. Résolvez ces dés dans n'importe quel ordre ou retirez les."
+        "text": "Après avoir résolu un dé montrant une ressource, vous pouvez incliner cette intrigue et dépenser n'importe quel nombre de ressources pour en placer autant ici.\n<b>Action Puissance</b> - Retirez jusqu'à 5 ressources d'ici pour lancer autant de dés de Stormtrooper Vétéran ([LEG]13) dans votre réserve. Désignez 2 <b>leaders</b> pour relancer n'importe lesquels de ces dés. Résolvez ces dés dans n'importe quel ordre ou retirez les."
     },
     {
         "code": "701018",
@@ -121,7 +122,7 @@
     },
     {
         "code": "701024",
-        "flavor": "“C'est mon jour de chance.”",
+        "flavor": "« C'est mon jour de chance. »",
         "name": "Greedo",
         "subtitle": "Mercenaire Hors-tempo",
         "text": "Avant d'effectuer une action, si celle-ci est la même que la dernière action d'un adversaire lors de son précédent tour à ce round, vous pouvez défausser un événement de votre main pour gagner 1 action."
@@ -144,7 +145,7 @@
     },
     {
         "code": "701028",
-        "flavor": "\"Ils volent maintenant ?! Ils volent maintenant.\"",
+        "flavor": "« Ils volent maintenant ?! Ils volent maintenant. »                - Finn et Poe Dameron",
         "name": "Assaut",
         "text": "Défaussez un événement pour gagner 2 actions."
     },
@@ -203,12 +204,12 @@
     {
         "code": "701039",
         "name": "Sabre Laser Bleu de Ki-Adi-Mundi",
-        "text": "Redéploiement\nDéfaussez cette amélioration du jeu si vous contrôlez le Sabre laser vert de Ki-Adi-Mundi.\nAprès avoir résolu un dé montrant une valeur de 1, vous pouvez résoudre ce dé ne montrant pas de resource, en augmentant de 1 sa valeur."
+        "text": "Redéploiement.\nDéfaussez cette amélioration du jeu si vous contrôlez le Sabre laser vert de Ki-Adi-Mundi.\nAprès avoir résolu un dé montrant une valeur de 1, vous pouvez résoudre ce dé ne montrant pas de ressource, en augmentant de 1 sa valeur."
     },
     {
         "code": "701040",
         "name": "Sabre Laser Vert de Ki-Adi-Mundi",
-        "text": "Redéploiement\nDéfaussez cette amélioration du jeu si vous contrôlez le Sabre laser bleu de Ki-Adi-Mundi.\n[special] - Retirez 1 bouclier d'un de vos personnages pour soigner 1 dégât d'un personnage. Puis infligez 2 dégâts à un personnage."
+        "text": "Redéploiement.\nDéfaussez cette amélioration du jeu si vous contrôlez le Sabre laser bleu de Ki-Adi-Mundi.\n[special] - Retirez 1 bouclier d'un de vos personnages pour soigner 1 dégât d'un personnage. Puis infligez 2 dégâts à un personnage."
     },
     {
         "code": "701041",
@@ -223,25 +224,26 @@
     },
     {
         "code": "701043",
-        "flavor": "\"Missa propose que le Sénat donne immédiatement pleins pouvoirs d'urgence au Chancelier Suprême .\"",
+        "flavor": "« Missa propose que le Sénat donne immédiatement pleins pouvoirs d'urgence au Chancelier Suprême. »",
         "name": "Jar Jar Binks",
         "subtitle": "Représentant Gungan",
         "text": "Après avoir activé ce personnage, défaussez une carte du dessus d'un deck pour chaque dé montrant une face vierge ([blank]). Puis relancez tous les dés adverses montrant une face vierge ([blank])."
     },
     {
         "code": "701044A",
+        "flavor": "« Il faut bien que je vous sauve d'ici. »",
         "name": "Leia Organa",
         "subtitle": "Princesse d'Aldérande",
-        "text": "Après la mise en place, donnez 1 bouclier à chacun de vos personnages.\nAprès avoir retourné cette carte, mélangez 2 exemplaires pris de côté de Motiver ([WotF]79) et de Au secours Obi-Wan Kenobi ([EC]45) dans votre deck."
+        "text": "Après la mise en place, donnez 1 bouclier à chacun de vos personnages.\nAprès avoir retourné cette carte, mélangez 2 exemplaires mis de côté de Motiver ([WotF]79) et de Au secours Obi-Wan Kenobi ([EC]45) dans votre deck."
     },
     {
         "code": "701044B",
         "name": "Sauver une Princesse",
-        "text": "Partenaire 1: Chewbacca, Han Solo, Luke Skywalker, Obi-Wan Kenobi.\nAprès avoir retiré un dé de personnage d'un adversaire, placez 1 ressource sur cette intrigue. Puis, s'il y a 4 ressources ou plus sur cette intrigue, placez les sur une autre carte que vous contrôlez, inclinez cette intrigue et retournez-la."
+        "text": "Partenaire 1: Chewbacca, Han Solo, Luke Skywalker, Obi-Wan Kenobi.\nAprès avoir retiré un dé de personnage d'un adversaire, placez 1 ressource sur cette intrigue. Puis, s'il y a 4 ressources ou plus sur cette intrigue, placez-les sur une autre carte que vous contrôlez, inclinez cette intrigue et retournez-la."
     },
     {
         "code": "701045",
-        "flavor": "\"Vous êtes mon seul espoir.\"",
+        "flavor": "« Vous êtes mon seul espoir. » - Leia Organa",
         "name": "Au Secours Obi-Wan Kenobi",
         "text": "Désignez un <b>leader</b> pour piocher une carte. Vous pouvez défausser cette carte pour retirer un dé montrant une valeur de 2 ou moins."
     },
@@ -252,7 +254,7 @@
     },
     {
         "code": "701047",
-        "flavor": "\"Vous êtes plus brave que je ne croyais.\"",
+        "flavor": "« Vous êtes plus brave que je ne croyais. »                 - Leia Organa",
         "name": "Vous Êtes Venu Dans Cette Casserole ? ",
         "text": "Désignez un <b>leader</b> pour redresser un <b>véhicule</b> piloté."
     },
@@ -283,7 +285,7 @@
     },
     {
         "code": "701053",
-        "flavor": "\"Il n'y a pas de menteurs dans ce jeu, seulement des joueurs.\"",
+        "flavor": "« Il n'y a pas de menteurs dans ce jeu, seulement des joueurs. »",
         "name": "Lando Calrissian",
         "subtitle": "Escroc Galactique",
         "text": "Pilotage.\nAprès avoir retiré un ou plusieurs de vos dés pour la première fois à chaque round, vous pouvez résoudre un de vos dés, en augmentant de 1 sa valeur."
@@ -321,9 +323,9 @@
     },
     {
         "code": "701060",
-        "flavor": "\"Nous ne sommes rien de particulier. Nous sommes un équipage. Une équipe. D'une certaine manière, une famille.\"",
+        "flavor": "« Nous ne sommes rien de particulier. Nous sommes un équipage. Une équipe. D'une certaine manière, une famille. » - Sabine Wren",
         "name": "Bienvenue dans l'Équipe",
-        "text": "Le personnage attaché gagne le sous-type <b>Spectre</b>\nAprès avoir activé un autre <b>Spectre</b>, vous pouvez relancer un des dés de personnage ou d'amélioration du personnage attaché."
+        "text": "Le personnage attaché gagne le sous-type <b>Spectre</b>.\nAprès avoir activé un autre <b>Spectre</b>, vous pouvez relancer un des dés de personnage ou d'amélioration du personnage attaché."
     },
     {
         "code": "701061",
@@ -392,7 +394,7 @@
     },
     {
         "code": "701074",
-        "flavor": "\"Oru uru kak.\"",
+        "flavor": "« Oru uru kak. »",
         "name": "Raider Tusken",
         "text": "Avant de résoudre ce dé, vous pouvez défausser une carte de votre main pour augmenter sa valeur de 1 ou pour forcer un adversaire à perdre 1 ressource."
     },
@@ -424,12 +426,12 @@
     {
         "code": "701080",
         "name": "Échange de Marchandises",
-        "text": "Retirez un de vos dés de <b>vaurien</b> montrant une valeur de 2 ou plus pour choisir 2 des options suivantes :\n- Gagnez 1 ressource\n- Infligez 1 dégât à un personnage\n- Tournez un dé sur n'importe quelle face"
+        "text": "Retirez un de vos dés de <b>vaurien</b> montrant une valeur de 2 ou plus pour choisir 2 des options suivantes :\n• Gagnez 1 ressource.\n• Infligez 1 dégât à un personnage.\n• Tournez un dé sur n'importe quelle face."
     },
     {
         "code": "701081",
         "name": "Partie de Sabacc",
-        "text": "Après qu'une carte a été jouée par un adversaire, vous pouvez défausser une carte de votre main ayant un coût inférieur pour placer 1 ressource sur cette intrigue.\n<b>Action</b> - Cherchez un <b>véhicule</b> Jaune dans votre deck ou votre pile de défausse avec un coût égal ou inférieur au nombre de ressources sur cette intrigue et jouez le gratuitement. Mettez cette intrigue de côté."
+        "text": "Après qu'une carte a été jouée par un adversaire, vous pouvez défausser une carte de votre main de coût inférieur pour placer 1 ressource ici.\n<b>Action</b> - Cherchez un <b>véhicule</b> Jaune dans votre deck ou votre pile de défausse avec un coût égal ou inférieur au nombre de ressources sur cette intrigue et jouez le gratuitement. Mettez cette intrigue de côté."
     },
     {
         "code": "701082",
@@ -454,7 +456,7 @@
     {
         "code": "701085B",
         "name": "Effort d'Équipe",
-        "text": "Après avoir activé un personnage, vous pouvez choisir 1 des options suivantes :\n- Désignez 2 personnages Bleus pour tourner un dé sur n'importe quelle face.\n- Désignez 2 personnages Rouges pour piocher une carte.\n- Désignez 2 personnages Jaunes pour résoudre un de vos dés.\nPuis mettez cette intrigue de côté."
+        "text": "Après avoir activé un personnage, vous pouvez choisir 1 des options suivantes :\n• Désignez 2 personnages Bleus pour tourner un dé sur n'importe quelle face.\n• Désignez 2 personnages Rouges pour piocher une carte.\n• Désignez 2 personnages Jaunes pour résoudre un de vos dés.\nPuis mettez cette intrigue de côté."
     },
     {
         "code": "701086",

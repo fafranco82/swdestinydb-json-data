@@ -161,5 +161,16 @@
         "position": 701,
         "project_name": "The Coruscant Initiative",
         "size": 90
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
+        "code": "PW",
+        "cycle_code": "EC",
+        "date_release": null,
+        "name": "Parting Words",
+        "position": 702,
+        "project_name": "The Coruscant Initiative",
+        "size": 34
     }
 ]
