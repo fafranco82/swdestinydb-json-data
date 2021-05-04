@@ -1,0 +1,190 @@
+[
+    {
+        "code": "702001",
+        "name": "Maul",
+        "subtitle": "Mandalore Zsarnoka",
+        "text": "A paklid tartalmazhat Sárga gonosz lapokat.\n<b>Erőteljes Akció</b> -  Használd fel ennek a karakternek tetszőleges számú lapdobást ([discard]) vagy megszakítást ([disrupt]) mutató karakter- vagy fejlesztéskockáját, mintha közelharci sebzést ([melee]) mutatna, anélkül, hogy eltávolítanád a készletedből."
+    },
+    {
+        "code": "702002",
+        "name": "Te és Én",
+        "text": "Fordítsd az egyik kockádat üres ([blank]) oldalára. Ezután egy ellenfelednek választania kell: vagy üres oldalára forgatja egy kockáját vagy okoz magának 2 közvetett sebzést."
+    },
+    {
+        "code": "702003",
+        "name": "Maul Fénykardja",
+        "text": "Amíg ez a fejlesztés egy Kék karakterre van csatolva, okozhatsz 1 sebzést a csatolt karakternek, hogy felhasználd ennek a kockának a módosító oldalát, mintha nem lenne módosított.\n<b>Erőteljes Akció</b> - Dobd újra ezt a kockát. Felhasználhatod, megnövelve az értékét 1-gyel, ha ez a fejlesztés Maulra van csatolva."
+    },
+    {
+        "code": "702004",
+        "name": "Trench Admirális",
+        "subtitle": "Briliáns és Könyörtelen",
+        "text": "Miután aktiváltad ezt a karaktert, felfedhetsz tetszőleges számú lapot a kezedből, hogy újradobd ugyanennyi kockádat.\n<b>Erőteljes Akció</b> - Kényszerítsd egy ellenfeledet, hogy használja fel egy sebzést mutató kockáját egy nem-egyedi karaktered ellen, csökkentve az értékét 1-gyel."
+    },
+    {
+        "code": "702005",
+        "name": "D-Szárnyú Biztonsági Droid",
+        "text": "Miután aktiváltad ezt a karaktert, ráhelyezhetsz 1 pajzsot kettő, kockával rendelkező <b>jármű-</b> vagy <b>droid</b>támogatásodra. Miután aktiváltál egy pajzzsal rendelkező támogatást, átmozgathatsz róla 1 pajzsot az egyik karakteredre."
+    },
+    {
+        "code": "702006",
+        "name": "Túlzottan Magabiztos",
+        "text": "Aktiváld az egyik <b>jármű</b>támogatásodat. Ezután, ha annak a támogatásnak a kockája sebzést mutat, távolítsd el egy ellenfeled sebzést mutató kockáját. Különben dobd újra annak a támogatásnak a kockáját."
+    },
+    {
+        "code": "702007",
+        "name": "Octuptarra Harci Tri-droid",
+        "text": "Mielőtt ez a támogatás eltávolításra kerül a játékból, okozz 1 sebzést minden olyan karakternek amelyik nem <b>droid</b> vagy Grievous Tábornok.\n[special] - Okozz 2 közvetett sebzést egy ellenfelednek. Eldobhatod ezt a támogatást a játékból."
+    },
+    {
+        "code": "702008",
+        "flavor": "\"Tényleg azt hittétek, hogy megúszhatjátok egy Pyke átverését?\"",
+        "name": "Marg Krim",
+        "subtitle": "Illustrious Imperator",
+        "text": "Miután az akció fázisnak vége, te és egy ellenfeled is veszít 1 erőforrást. Ezután kapsz 1 erőforrást."
+    },
+    {
+        "code": "702009",
+        "flavor": "“Ez a Jedi az enyém” — Pre Vizsla",
+        "name": "Csak A Legerősebb",
+        "text": "Jelölj ki egy <b>vezető</b>t, hogy eltávolíts egy <b>Sith</b>, <b>Jedi</b> vagy <b>vezető</b> karakterkockát."
+    },
+    {
+        "code": "702010",
+        "name": "Fizesd meg, amivel tartozol",
+        "text": "Te és egy ellenfeled is veszítsetek 1 erőforrást. Ezután okozz 2 közvetett sebzést annak az ellenfélnek."
+    },
+    {
+        "code": "702011",
+        "name": "Hatékony Működés",
+        "text": "Miután elveszítettél vagy egy ellenfelednek adtál egy vagy több erőforrást, merítsd ki ezt a támogatást, hogy kapj 1 erőforrást."
+    },
+    {
+        "code": "702012",
+        "name": "Ahsoka Tano",
+        "subtitle": "A Köztársaság Utolsó Esélye",
+        "text": "Miután aktiváltad ezt a karaktert, ha pontosan 2 <b>fegyver</b> van hozzácsatolva, minden egyes közelharci sebzést ([melee]) mutató karakter- vagy fejlesztéskockája után adj 1 pajzsot egy karakternek, vagy okozz 1 sebzést egy karakternek, ha a kocka pajzsot mutat ([Sh])."
+    },
+    {
+        "code": "702013",
+        "flavor": "“Mondd meg Anakinnak...Megmondom.”                                                                                            – Ahsoka Tano and Obi-Wan Kenobi",
+        "name": "Búcsúzó Szavak",
+        "text": "Jelölj ki egy Kék karaktert, hogy újradobd egy karakterkockáját. Ezután fordítsd egy másik karakter karakterkockáját olyan értékre, amilyet az újradobott kocka mutat."
+    },
+    {
+        "code": "702014",
+        "name": "Ahsoka Tano Fénykardjai",
+        "text": "Miután ezt a fejlesztést kijátszod a kezedből, kikeresheted egy másolatát a paklidból és kijátszhatod a csatolt karakterre, csökkentve a költségét 1-gyel."
+    },
+    {
+        "code": "702015",
+        "name": "Az Utolsó Parancs",
+        "text": "A paklid tartalmazhat Piros lapokat <b>(betartva minden egyéb pakliépítési szabályt)</b>.\nAz előkészületek után adj hozzá 3 db 332. Ezred Klónkatonáját a csapatodhoz.\nMiután elkezdődött a fenntartási fázis, okozz 5 sebzést az egyik 332. Ezred Klónkatonájának. Fordítsd meg az egyiket, és add át az irányítását egy ellenfelednek."
+    },
+    {
+        "code": "702016A",
+        "flavor": "“A festés kicsit egyszerű, de szerintem érthető, mit jelképez.” – Rex",
+        "name": "332. Ezred Klónkatonája",
+        "text": "Miután ezzel a kockával üres ([blank]) oldalt dobtál, átfordíthatsz egy karakterkockát az üres ([blank]) oldalára."
+    },
+    {
+        "code": "702016B",
+        "name": "Birodalmi Klónkatona",
+        "text": "Az általa okozott sebzések, vagy egy ezt módosító kocka által okozott sebzések védhetetlenek, ha <b>Jedi</b> ellen használod fel."
+    },
+    {
+        "code": "702017",
+        "name": "Rex",
+        "subtitle": "Klónparancsnok",
+        "text": "Összefogás 1: Ashoka Tano, 332. Ezred Klónkatonája.\n<b>Erőteljes Akció</b> - Távolíts el egy <b>gyalogos</b> karakterkockát, hogy adj 2 pajzsot annak a karakternek."
+    },
+    {
+        "code": "702018",
+        "flavor": "“Rex, mi történik?” – Ahsoka Tano",
+        "name": "Ellenállni A 66-os Parancsnak",
+        "text": "Távolítsd el az összes <b>gyalogos</b> karakterkockát. Minden eltávolított kocka után adj 2 pajzsot a hozzátartozó karakternek."
+    },
+    {
+        "code": "702019",
+        "name": "A Rossz Osztag",
+        "text": "Miután aktiváltad ezt a támogatást, jelölj ki tetszőleges számú karaktert és költs el ugyanennyi erőforrást, hogy ennek a kockának ([PW]19) ugyanennyi másolatát bedobd a készletedbe.\n[special] - Okozz annyi sebzést egy karakternek, ahány A Rossz Osztag kocka van a készletedben."
+    },
+    {
+        "code": "702020",
+        "name": "Trace Martez",
+        "subtitle": "Keresi a Boldogságot",
+        "text": "<b>Erőteljes Akció</b> - Távolíts el 1 sebzést egy <b>jármű-</b> vagy <b>droid</b>támogatásról. Ezután, ha te irányítod azt a támogatást, kapsz 1 erőforrást."
+    },
+    {
+        "code": "702021",
+        "name": "Csak Egy Karcolás",
+        "text": "Jelölj ki egy <b>mérnök</b>öt és helyezz 1 sebzést egy <b>jármű-</b> vagy <b>droid</b>támogatásodra, hogy eltávolíts egy kockát."
+    },
+    {
+        "code": "702022",
+        "name": "Ezüst Angyal",
+        "text": "Trace Martez megkapja a Járművezetés kulcsszót.\n[special] - Helyezz 1 sebzést erre a támogatásra, hogy annyi sebzést okozz, vagy annyi pajzsot adj egy karakternek, ahány sebzés ezen a támogatáson van. Ezután, ha ezen a támogatáson 3 vagy több sebzés van, távolítsd el a játékból."
+    },
+    {
+        "code": "702023",
+        "name": "Pengék Párbaja",
+        "text": "Használd fel egy közelharci sebzést mutató ([melee]) <b>fegyver</b>kockádat, megnövelve az értékét 1-gyel, hogy eltávolítsd egy ellenfeled közelharci sebzést ([melee]) mutató kockáját."
+    },
+    {
+        "code": "702024",
+        "name": "Jar'kai",
+        "text": "Csak Kék karakternek.\nAmíg a csatolt karakterre pontosan 2 <b>fegyver</b> van csatolva, növeld meg azoknak a <b>fegyver</b>fejlesztés kockáknak értékét 1-gyel. \n<b>Erőteljes Akció</b> - Adj 1 pajzsot a csatolt karakternek és dobd újra tetszőleges számú <b>fegyver</b>fejlesztésének a kockáját."
+    },
+    {
+        "code": "702025",
+        "name": "Terveket Szőni",
+        "text": "Merítsd ki az egyik karakteredet, hogy kapj 1 erőforrást és fordítsd az egyik karakterkockádat 2 vagy kisebb értéket mutató oldalára."
+    },
+    {
+        "code": "702026",
+        "name": "Osztag, utánam!",
+        "text": "Aktiváld legfeljebb 2 <b>gyalogos</b>odat. Használd fel ugyanennyi, különböző szimbólumot mutató <b>gyalogos</b>kockádat tetszőleges sorrendben."
+    },
+    {
+        "code": "702027",
+        "name": "Itt Mi Parancsolunk",
+        "text": "A <b>vezető</b>id Járművezetés kulcsszóval rendelkeznek.\n<b>Erőteljes Akció</b> - Kijelölhetsz egy <b>vezető</b>t, hogy egy eseményt a kezedből ez alá a terv alá helyezz. Kijelölhetsz egy vezetett <b>jármű</b>vet,  hogy kijátssz egy ezalatt a terv alatt lévő eseményt."
+    },
+    {
+        "code": "702028",
+        "name": "Harci Stratégiai Algoritmus",
+        "text": "Csak Piros karakternek.\n<b>Erőteljes Akció</b> - Jelölj ki egy gonosz karaktert, hogy megnézd egy ellenfeled kézben tartott lapjait, és eldobj egyet ezek közül, vagy jelölj ki egy hős karaktert, hogy felfedd a paklid 3 legfelső lapját, amiből egyet kijátszhatsz, egy másikat pedig kezedbe vehetsz."
+    },
+    {
+        "code": "702029",
+        "name": "Vandalizmus",
+        "text": "Távolítsd el annyi karakterkockádat, amekkora egy fejlesztés vagy támogatás költsége, hogy eldobasd a játékból!"
+    },
+    {
+        "code": "702030",
+        "name": "Illegális Fűszer Rakomány",
+        "text": "<b>Jármű</b>támogatás módosító.\nMiután aktiváltad a csatolt támogatást, fedj fel egy Sárga lapot a kezedből, vagy dobd el ezt a fejlesztést."
+    },
+    {
+        "code": "702031",
+        "name": "Fűszercsempészek",
+        "text": "Csak akkor használhatod, ha a csapatodban az összes karakter <b>pilóta</b> vagy <b>gazfickó</b>.\n<b>Erőteljes Akció</b> - Tegyél félre egy <b>droid</b>ot, <b>felszerelés</b>t, <b>jármű</b>vet vagy <b>fegyver</b>t a dobott lapjaid közül, hogy kapj 1 erőforrást."
+    },
+    {
+        "code": "702032",
+        "name": "Keeradak",
+        "text": "A paklid 4 példányt tartalmazhat ebből a támogatásból.\n<b>Erőteljes Akció</b> - Jelölj ki tetszőleges számú másik Keeradak-ot, hogy ezt a kockát legfeljebb annyiszor újradobd."
+    },
+    {
+        "code": "702033",
+        "name": "Pyke Börtön",
+        "subtitle": "Oba Diah",
+        "text": "<b>Uralom</b> - Válassz egy karaktert. A következő körben a karakter irányítójának el kell dobnia egy lapot a kezéből, amikor aktíválni akarja azt a karaktert."
+    },
+    {
+        "code": "702034",
+        "name": "Béke Park",
+        "subtitle": "Mandalore",
+        "text": "<b>Erőteljes Akció</b> - Dobj be egy karaktereden lévő karakterkockát a készletedbe. Kényszerítsd egy ellenfeledet, hogy dobjon be egy karakterén lévő karakterkockát a készletébe. Távolítsd el közülük a kisebb értéket mutatót <b>(döntetlen esetén mindkettőt)</b>."
+    }
+]
