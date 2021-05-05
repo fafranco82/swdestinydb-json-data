@@ -736,6 +736,7 @@
         "name": "Vandalize",
         "position": 30,
         "rarity_code": "S",
+        "reprint_of": "05156",
         "set_code": "PW",
         "text": "Remove a number of your character dice equal to the cost of a support or upgrade in play to discard it.",
         "ttscardid": "702128",
