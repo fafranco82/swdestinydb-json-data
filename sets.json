@@ -154,6 +154,17 @@
     {
         "cgdb_id_end": null,
         "cgdb_id_start": null,
+        "code": "HS",
+        "cycle_code": "FA",
+        "date_release": "2021-06-11",
+        "name": "High Stakes",
+        "position": 103,
+        "project_name": "A Renewed Hope",
+        "size": 110
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
         "code": "EC",
         "cycle_code": "EC",
         "date_release": "2021-01-08",

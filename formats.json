@@ -202,7 +202,9 @@
                 "TR",
                 "FA",
                 "RM",
-                "EC"
+                "HS",
+                "EC",
+                "PW"
             ]
         },
         "name": "Infinite"
@@ -293,7 +295,8 @@
                 "CM",
                 "TR",
                 "FA",
-                "RM"
+                "RM",
+                "HS"
             ]
         },
         "name": "ARH Standard"
