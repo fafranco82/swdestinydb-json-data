@@ -1,0 +1,67 @@
+[
+    {
+        "affiliation_code": "hero",
+        "code": "16041",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Ki-Adi-Mundi",
+        "points": "12/14",
+        "position": 43,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1MD",
+            "2MD",
+            "1F",
+            "2F",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Methodical Master",
+        "subtypes": [
+            "jedi"
+        ],
+        "text": "After you play a card from your discard pile, you may give a character 1 shield.\n<b>Power Action</b> - Play a Blue <b>weapon</b> or <b>equipment</b> from your discard pile.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16042",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Dissuade",
+        "position": 44,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "text": "Renew 2. (You may play this card from your discard pile for its Renew cost. Then set it aside.)\nSpot a Blue character to remove a non-Blue die.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16043",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "I Sense A Trap",
+        "position": 45,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "text": "Renew 2. (You may play this card from your discard pile for its Renew cost. Then set it aside.)\nDiscard any number of cards from the top of your deck. Then give a character shields equal to the number of cards discarded.",
+        "type_code": "event"
+    }
+]
+
