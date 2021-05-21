@@ -170,7 +170,7 @@
         ],
         "subtitle": "The Mandalorian",
         "subtypes": [
-            "bounty hunter"
+            "bounty-hunter"
         ],
         "text": "<b>Power Action</b> - Play an upgrade on this character, giving it Ambush.\nAfter you activate this character, if one or more of its character dice are showing damage, you may gain 1 resource.",
         "type_code": "character"
@@ -234,4 +234,3 @@
         "type_code": "upgrade"
     }
 ]
-
