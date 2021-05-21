@@ -1,9 +1,88 @@
 [
     {
+        "affiliation_code": "villain",
+        "code": "16015",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Moff Gideon",
+        "points": "13/16",
+        "position": 16,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "2F",
+            "1Dr",
+            "2Dc",
+            "1R",
+            "2R",
+            "-"
+        ],
+        "subtitle": "Ruthless Mastermind",
+        "subtypes": [
+            "leader"
+        ],
+        "text": "Detect 2.\nAfter you activate this character, you may play an opponent's detected <b>weapon</b> or <b>vehicle</b> for free. Then deal indirect damage to yourself equal to half its cost rounded up. After the action phase ends, if that card is still in play, return it to its owner's hand.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "16016",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flip_card": false,
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Danger Close",
+        "position": 17,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "text": "Deal 1 indirect damage to yourself to play a <b>vehicle</b> or <b>artillery</b> from your discard pile, decreasing its cost by 1.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "16024",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Cruel Tactician",
+        "position": 25,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "2ID",
+            "1F",
+            "2F",
+            "1Dc",
+            "1Dc",
+            "-"
+        ],
+        "subtypes": [
+            "title"
+        ],
+        "text": "Unique Red character only.\nAfter you play this upgrade, you may deal 1 damage to one of your characters to resolve one of its character or upgrade dice, increasing its value by 1.",
+        "type_code": "upgrade"
+    },
+    {
         "affiliation_code": "hero",
         "code": "16041",
         "deck_limit": 1,
         "faction_code": "blue",
+        "flip_card": false,
         "has_die": true,
         "has_errata": false,
         "health": 11,
@@ -35,6 +114,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
+        "flip_card": false,
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
@@ -52,6 +132,7 @@
         "cost": 1,
         "deck_limit": 2,
         "faction_code": "blue",
+        "flip_card": false,
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
@@ -62,6 +143,95 @@
         "set_code": "HS",
         "text": "Renew 2. (You may play this card from your discard pile for its Renew cost. Then set it aside.)\nDiscard any number of cards from the top of your deck. Then give a character shields equal to the number of cards discarded.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16063",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "health": 14,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Din Djarin",
+        "points": "14/18/22",
+        "position": 65,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "2RD",
+            "3RD",
+            "2MD",
+            "2Sh",
+            "2Dr",
+            "-"
+        ],
+        "subtitle": "The Mandalorian",
+        "subtypes": [
+            "bounty hunter"
+        ],
+        "text": "<b>Power Action</b> - Play an upgrade on this character, giving it Ambush.\nAfter you activate this character, if one or more of its character dice are showing damage, you may gain 1 resource.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16073",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Razor Crest",
+        "position": 75,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "2RD",
+            "2RD",
+            "2F",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "Before this support is discarded by an opponent's effect, place 1 damage on it instead. Then, if this support has 2 damage on it, discard it.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16075",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Whistling Birds",
+        "position": 77,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2RD1",
+            "1Dc",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "equipment"
+        ],
+        "text": "This upgrade enters play with 1 resource on it.\nBefore you resolve this die showing damage, you may remove 1 resource from this upgrade to resolve it against any number of characters.",
+        "type_code": "upgrade"
     }
 ]
 
