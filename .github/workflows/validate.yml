@@ -24,6 +24,9 @@ jobs:
     steps:
       - name: Setup Python
         uses: actions/setup-python@v2.2.1
+        with:
+          # Semantic version range syntax or exact version of a Python version
+          python-version: '2.7'
       - run: pip install jsonschema
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
