@@ -78,6 +78,85 @@
         "type_code": "upgrade"
     },
     {
+        "affiliation_code": "villain",
+        "code": "16027",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "IG-11",
+        "points": "10/13",
+        "position": 28,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1RD",
+            "2RD",
+            "+2RD",
+            "1Dr",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Programmable Hunter",
+        "subtypes": [
+            "bounty hunter",
+            "droid"
+        ],
+        "text": "You may include IG-11 on a team that also includes a hero <b>engineer</b>(you can include villain and hero cards in your deck).",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "16032",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "yellow",
+        "flip_card": false,
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Self Destruct",
+        "position": 33,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "text": "Either discard one of your <b>droid</b> supports or defeat one of your <b>droid</b> characters to deal 3 indirect damage to an opponent.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16038",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "health": 12,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Ahsoka Tano",
+        "parallel_die": "03031",
+        "points": "14/17",
+        "position": 39,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "2MD",
+            "2MD",
+            "1Dc",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Searching The Galaxy",
+        "text": "<b>Power Action</b> - Exhaust 2 <b>weapons</b> attached to this character to roll those <b>weapons</b>' dice into your pool.",
+        "type_code": "character"
+    },
+    {
         "affiliation_code": "hero",
         "code": "16041",
         "deck_limit": 1,
@@ -146,6 +225,113 @@
     },
     {
         "affiliation_code": "hero",
+        "code": "16049",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Ahsoka Tano's Lightsaber",
+        "position": 51,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1MD",
+            "2MD",
+            "+2MD",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "While this upgrade is on Ahsoka Tano, your copies of it are non-unique.\nIf attached character has exactly two <b>weapon</b> upgrades on it, increase the value of this die by 1.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16051",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "health": 11,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Cara Dune",
+        "points": "11/14",
+        "position": 53,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1MD",
+            "2MD",
+            "2MD",
+            "1Sh",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Vengeance Of Alderaan",
+        "subtypes": [
+            "trooper"
+        ],
+        "text": "If this character has a <b>weapon</b> on it, you may resolve her damage sides as ranged.\n<b>Power Action</b> - Resolve one of this character's character dice and either increase its value by 1 if it is against a villain character or give a character 1 shield if it is against a hero character.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16056",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flip_card": false,
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Pitch In",
+        "position": 58,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "text": "Spot up to 3 Red upgrades to gain that many resources.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16062",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Cara Dune's Blaster",
+        "position": 64,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2RD1",
+            "+2RD",
+            "1Sh",
+            "-"
+        ],
+        "subtypes": [
+            "weapon"
+        ],
+        "text": "Attached character's <b>weapon</b> dice showing blanks may be resolved as melee damage with a value of 1.\nIf this upgrade is on Cara Dune, it gains Redeploy.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "hero",
         "code": "16063",
         "deck_limit": 1,
         "faction_code": "yellow",
@@ -173,6 +359,37 @@
             "bounty-hunter"
         ],
         "text": "<b>Power Action</b> - Play an upgrade on this character, giving it Ambush.\nAfter you activate this character, if one or more of its character dice are showing damage, you may gain 1 resource.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16065",
+        "deck_limit": 1,
+        "faction_code": "yellow",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "health": 9,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Kuiil",
+        "points": "8/10",
+        "position": 67,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1F",
+            "1F",
+            "1Sh",
+            "1R",
+            "2R1",
+            "-"
+        ],
+        "subtitle": "Free Of Servitude",
+        "subtypes": [
+            "engineer"
+        ],
+        "text": "<b>Power Action</b> - Remove this die to add or remove 1 token from a support or upgrade.",
         "type_code": "character"
     },
     {
@@ -232,5 +449,23 @@
         ],
         "text": "This upgrade enters play with 1 resource on it.\nBefore you resolve this die showing damage, you may remove 1 resource from this upgrade to resolve it against any number of characters.",
         "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "16079",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flip_card": false,
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Kyber Quest",
+        "position": 81,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "text": "Exhaust one of your elite Blue characters to play a Blue upgrade with a cost of 3 or less on it for free.",
+        "type_code": "event"
     }
 ]
