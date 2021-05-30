@@ -95,7 +95,7 @@
         },
         "sides": {
             "items": {
-                "pattern": "^((([+]?(([0-9]+|X))(MD|RD|ID|F|Dr|Dc|Sh|R|Fr|\\*)|Sp)(\\d+)?)|-)$",
+                "pattern": "^((([+]?(([0-9]+|X))(MD|RD|ID|F|Dr|Dc|Sh|R|Fr|\\*)|Sp)((\\d+)(R|ID)?)?)|-)$",
                 "type": "string"
             },
             "maxItems": 6,
