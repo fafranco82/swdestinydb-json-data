@@ -37,6 +37,11 @@ jobs:
         
       # Push changes 
       - name: Push changes
-        uses: actions-js/push@master
+        uses: gr2m/create-or-update-pull-request-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          title: "Formatting JSON"
+          body: "JSON formatted with validate.py"
+          commit-message: "JSON formatted with validate.py"
+          
