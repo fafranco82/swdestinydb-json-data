@@ -232,10 +232,10 @@ class ValidatorBase:
             if not set in self.collections['set']:
                 validations.append("Set code '%s' does not exist in format '%s'" % (set, format.get('code')))
 
-		if format.get('data').get('balance') is not None:
-			for card, points in format.get('data').get('balance').items():
-				if not card in self.collections['card']:
-					validations.append("Card code '%s' does not exist in format '%s' balance of the force" % (card, format.get('code')))
+        if format.get('data').get('balance') is not None:
+            for card, points in format.get('data').get('balance').items():
+                if not card in self.collections['card']:
+                    validations.append("Card code '%s' does not exist in format '%s' balance of the force" % (card, format.get('code')))
 
         if format.get('data').get('banned') is not None:
             for card in format.get('data').get('banned'):

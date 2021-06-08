@@ -1,3 +1,5 @@
+[![validate](https://github.com/fafranco82/swdestinydb-json-data/actions/workflows/validate.yml/badge.svg)](https://github.com/fafranco82/swdestinydb-json-data/actions/workflows/validate.yml)
+
 SWDestinyDB cards JSON data
 =========
 
