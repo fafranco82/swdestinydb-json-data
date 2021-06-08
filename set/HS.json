@@ -1,6 +1,54 @@
 [
     {
         "affiliation_code": "villain",
+        "code": "16005",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flip_card": false,
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Dark Contrition",
+        "position": 6,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "text": "Spot two Blue characters to resolve one of your die showing melee damage with a value of 2 or less as if it were showing discard.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "villain",
+        "code": "16010",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Force Crush",
+        "parallel_die": "01013",
+        "position": 11,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "2Dr",
+            "1Dc",
+            "1R",
+            "Sp",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "ability"
+        ],
+        "text": "Blue character only.\n[special] - Choose an opponent's character or upgrade die. Deal unblockable damage to a character equal to the value showing on that die. Then turn that die to a blank.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "villain",
         "code": "16015",
         "deck_limit": 1,
         "faction_code": "red",
@@ -103,10 +151,10 @@
         ],
         "subtitle": "Programmable Hunter",
         "subtypes": [
-            "bounty hunter",
+            "bounty-hunter",
             "droid"
         ],
-        "text": "You may include IG-11 on a team that also includes a hero <b>engineer</b>(you can include villain and hero cards in your deck).",
+        "text": "You may include IG-11 on a team that also includes a hero <b>engineer</b>(you can include villain and hero cards in your deck).\n\"I will initiate self-destruct.\"",
         "type_code": "character"
     },
     {
@@ -120,11 +168,11 @@
         "has_errata": false,
         "illustrator": "ARH",
         "is_unique": false,
-        "name": "Self Destruct",
+        "name": "Self-Destruct",
         "position": 33,
         "rarity_code": "S",
         "set_code": "HS",
-        "text": "Either discard one of your <b>droid</b> supports or defeat one of your <b>droid</b> characters to deal 3 indirect damage to an opponent.",
+        "text": "Either discard one of your <b>droid</b> supports from play or defeat one of your <b>droid</b> characters to deal 3 indirect damage to an opponent.",
         "type_code": "event"
     },
     {
@@ -153,7 +201,7 @@
             "-"
         ],
         "subtitle": "Searching The Galaxy",
-        "text": "<b>Power Action</b> - Exhaust 2 <b>weapons</b> attached to this character to roll those <b>weapons</b>' dice into your pool.",
+        "text": "<b>Power Action</b> - Exhaust 2 <b>weapons</b> attached to this character to roll those <b>weapons</b>' dice into your pool.\n\"There aren't many <b>Jedi</b> left.\"",
         "type_code": "character"
     },
     {
@@ -280,7 +328,39 @@
         "subtypes": [
             "trooper"
         ],
-        "text": "If this character has a <b>weapon</b> on it, you may resolve her damage sides as ranged.\n<b>Power Action</b> - Resolve one of this character's character dice and either increase its value by 1 if it is against a villain character or give a character 1 shield if it is against a hero character.",
+        "text": "If this character has a <b>weapon</b> on it, you may resolve her damage sides as ranged.\n<b>Power Action</b> - Resolve one of this character's character dice showing damage and either increase its value by 1 if it is against a villain character or give a character 1 shield if it is against a hero character.",
+        "type_code": "character"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16053",
+        "deck_limit": 1,
+        "faction_code": "red",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "health": 10,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Wedge Antilles",
+        "points": "9/12",
+        "position": 55,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1RD",
+            "2RD",
+            "2RD",
+            "+1RD1",
+            "1R",
+            "-"
+        ],
+        "subtitle": "Flight Instructor",
+        "subtypes": [
+            "leader",
+            "pilot"
+        ],
+        "text": "Piloting.\nAfter you activate a pilot, you may give that character shields equal to the number of character dice that just rolled a blank.",
         "type_code": "character"
     },
     {
@@ -300,6 +380,82 @@
         "set_code": "HS",
         "text": "Spot up to 3 Red upgrades to gain that many resources.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16058",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flip_card": false,
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Strategic Strike",
+        "position": 60,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "text": "Remove any number of your dice to discard a support from play that costs equal to or less than the combined value of those dice.",
+        "type_code": "event"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16060",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "R2-D2",
+        "position": 62,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1MD",
+            "1F",
+            "1Dr",
+            "1Sh",
+            "1R",
+            "Sp"
+        ],
+        "subtypes": [
+            "droid"
+        ],
+        "text": "[special] - Resolve another side of this die.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "hero",
+        "code": "16061",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "Wedge's X-Wing",
+        "position": 63,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1RD",
+            "2RD",
+            "1ID",
+            "2ID",
+            "1Sh",
+            "-"
+        ],
+        "subtypes": [
+            "vehicle"
+        ],
+        "text": "After this support becomes piloted by Wedge Antilles, you may give him 1 shield.\nAfter this die rolls a blank, you may place 1 damage on an opponent's support or upgrade.\n<b>Power Action</b> - Remove this die to discard a support or upgrade with damage on it equal to or more than its cost.",
+        "type_code": "support"
     },
     {
         "affiliation_code": "hero",
@@ -350,8 +506,8 @@
             "2RD",
             "3RD",
             "2MD",
-            "2Sh",
             "2Dr",
+            "2Sh",
             "-"
         ],
         "subtitle": "The Mandalorian",
@@ -389,7 +545,7 @@
         "subtypes": [
             "engineer"
         ],
-        "text": "<b>Power Action</b> - Remove this die to add or remove 1 token from a support or upgrade.",
+        "text": "<b>Power Action</b> - Remove this die to add or remove 1 token from a support or upgrade.\n\"I have spoken.\"",
         "type_code": "character"
     },
     {
@@ -451,6 +607,56 @@
         "type_code": "upgrade"
     },
     {
+        "affiliation_code": "hero",
+        "code": "16076",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "gray",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": true,
+        "name": "C-3PO",
+        "position": 78,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1F",
+            "1F",
+            "1Dc",
+            "1R",
+            "Sp",
+            "-"
+        ],
+        "subtypes": [
+            "droid"
+        ],
+        "text": "[special] - Resolve up to 2 of your dice, increasing their values by 1 if you spend 1 resource or spot R2-D2.",
+        "type_code": "support"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "16078",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flip_card": false,
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Contentious Opportunity",
+        "position": 80,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "subtypes": [
+            "move"
+        ],
+        "text": "Spot a Blue character that had one of its character or upgrade dice removed during an opponent's last turn this round to roll that die into your pool. If that character has a card titled Makashi Mastery on it, you may resolve that die.",
+        "type_code": "event"
+    },
+    {
         "affiliation_code": "neutral",
         "code": "16079",
         "cost": 0,
@@ -467,5 +673,90 @@
         "set_code": "HS",
         "text": "Exhaust one of your elite Blue characters to play a Blue upgrade with a cost of 3 or less on it for free.",
         "type_code": "event"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "16081",
+        "deck_limit": 1,
+        "faction_code": "blue",
+        "flip_card": false,
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Lightsaber Ignition",
+        "points": "1",
+        "position": 83,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "text": "<b>Action</b> - Reroll one of your Blue dice. If it is showing melee damage, you may resolve it, increasing its value by 2. Set this plot aside.",
+        "type_code": "plot"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "16083",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flip_card": false,
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Learned From My Master",
+        "position": 85,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "text": "Apprentice character only.\nAfter you play this upgrade, choose a defeated <b>Jedi</b> or <b>Sith</b> in your set-aside zone. This card gains all <b>abilities</b> on the chosen card.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "16084",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "blue",
+        "flip_card": false,
+        "has_die": true,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Makashi Mastery",
+        "position": 86,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "sides": [
+            "1MD",
+            "2MD",
+            "2Sh",
+            "1R",
+            "Sp",
+            "Sp"
+        ],
+        "subtypes": [
+            "ability",
+            "form"
+        ],
+        "text": "Blue character only. Limit 1 form per character.\nAfter you play this upgrade, you may remove a die showing melee damage.\n[special] - Discard a card from your hand to resolve any die showing damage.",
+        "type_code": "upgrade"
+    },
+    {
+        "affiliation_code": "neutral",
+        "code": "16088",
+        "cost": 0,
+        "deck_limit": 2,
+        "faction_code": "red",
+        "flip_card": false,
+        "has_die": false,
+        "has_errata": false,
+        "illustrator": "ARH",
+        "is_unique": false,
+        "name": "Plan Ahead",
+        "position": 90,
+        "rarity_code": "S",
+        "set_code": "HS",
+        "text": "Resolve up to 3 of your Red dice each showing a different symbol.",
+        "type_code": "event"
     }
 ]
+
