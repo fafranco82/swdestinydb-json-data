@@ -17,6 +17,10 @@
                 },
                 {
                     "type": "null"
+                },
+                {
+                    "pattern": "X",
+                    "type": "string"
                 }
             ]
         },
