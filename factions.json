@@ -10,6 +10,11 @@
         "name": "General"
     },
     {
+        "code": "green",
+        "is_primary": true,
+        "name": "Nature"
+    },
+    {
         "code": "red",
         "is_primary": true,
         "name": "Command"

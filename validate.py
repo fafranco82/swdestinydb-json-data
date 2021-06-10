@@ -37,6 +37,7 @@ class Logger:
 class ValidatorBase:
     def __init__(self, base_path, logger, fix_formatting):
         self.formatting_errors = 0
+        self.nonfixed_formatting_errors = 0
         self.validation_errors = 0
         self.logger = logger
         self.fix_formatting = fix_formatting
@@ -70,7 +71,7 @@ class ValidatorBase:
 
     def show_results(self):
         self.logger.verbose_print("Found %s formatting and %s validation errors\n" % (self.formatting_errors, self.validation_errors), 0)
-        if self.formatting_errors == 0 and self.validation_errors == 0:
+        if self.nonfixed_formatting_errors == 0 and self.validation_errors == 0:
             sys.exit(0)
         else:
             sys.exit(1)
@@ -275,8 +276,11 @@ class ValidatorBase:
                         bin_formatted_data = formatted_raw_data.encode("utf-8")
                         json_file.write(bin_formatted_data)
                 except IOError as e:
+                    self.nonfixed_formatting_errors += 1
                     self.logger.verbose_print("%s: Cannot open file to write.\n" % path, 0)
                     print(e)
+            else:
+                self.nonfixed_formatting_errors += 1
         return json_data
 
     def format_json(self, json_data, sorting=False):
@@ -321,6 +325,7 @@ class Validator(ValidatorBase):
                     i18nValidator = I18NValidator(self, locale, self.i18n_path, self.logger)
                     i18nValidator.validate()
                     self.formatting_errors += i18nValidator.formatting_errors
+                    self.nonfixed_formatting_errors += i18nValidator.nonfixed_formatting_errors
                     self.validation_errors += i18nValidator.validation_errors
 
 class I18NValidator(ValidatorBase):
