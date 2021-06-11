@@ -522,7 +522,7 @@
         "affiliation_code": "villain",
         "code": "16022",
         "cost": 2,
-        "deck_limit": 2,
+        "deck_limit": 4,
         "faction_code": "red",
         "has_die": true,
         "has_errata": false,
