@@ -1228,7 +1228,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "After you play this upgrade, you may discard a Blue card to give attached character 2 shields.",
+        "text": "After you play this upgrade, you may discard a Blue card from your hand to give attached character 2 shields.",
         "ttscardid": "57551",
         "type_code": "upgrade"
     },
@@ -1987,7 +1987,7 @@
         "position": 85,
         "rarity_code": "S",
         "set_code": "HS",
-        "text": "Apprentice character only.\nAfter you play this upgrade, choose a defeated <b>Jedi</b> or <b>Sith</b> in your set-aside zone. This card gains all <b>abilities</b> on the chosen card.",
+        "text": "Apprentice character only.\nAfter you play this upgrade, choose a defeated <b>Jedi</b> or <b>Sith</b> in your set-aside zone. Attached character gains all <b>abilities</b> on the chosen card.",
         "ttscardid": "57584",
         "type_code": "upgrade"
     },
@@ -2378,7 +2378,6 @@
         "illustrator": "ARH",
         "is_unique": false,
         "name": "High Stakes",
-        "parallel_die": "07142",
         "points": "1",
         "position": 103,
         "rarity_code": "S",
@@ -2427,6 +2426,7 @@
         "illustrator": "ARH",
         "is_unique": true,
         "name": "Darksaber",
+        "parallel_die": "07142",
         "position": 105,
         "rarity_code": "S",
         "set_code": "HS",
