@@ -1675,7 +1675,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Activate one of your characters with Guardian. Then move 2 damage from a character to a character you control.",
-        "ttscardid": "57570",
+        "ttscardid": "57600",
         "type_code": "event"
     },
     {
@@ -1693,7 +1693,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Play only if you have fewer dice showing damage than an opponent.\nTurn one of your Yellow character dice to a side showing damage.",
-        "ttscardid": "57571",
+        "ttscardid": "57601",
         "type_code": "event"
     },
     {
@@ -1711,7 +1711,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Ready an opponent's character to discard a support from play that costs 3 or less.",
-        "ttscardid": "57572",
+        "ttscardid": "57602",
         "type_code": "event"
     },
     {
@@ -1729,7 +1729,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "After you claim the battlefield, you may remove one of your dice to deal 2 damage to a character.",
-        "ttscardid": "57573",
+        "ttscardid": "57603",
         "type_code": "plot"
     },
     {
@@ -1758,7 +1758,7 @@
             "vehicle"
         ],
         "text": "Before this support is discarded by an opponent's effect, place 1 damage on it instead. Then, if this support has 2 damage on it, discard it.",
-        "ttscardid": "57574",
+        "ttscardid": "57604",
         "type_code": "support"
     },
     {
@@ -1787,7 +1787,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nDamage dealt by this die is unblockable.",
-        "ttscardid": "57575",
+        "ttscardid": "57605",
         "type_code": "upgrade"
     },
     {
@@ -1816,7 +1816,7 @@
             "equipment"
         ],
         "text": "This upgrade enters play with 1 resource on it.\nBefore you resolve this die showing damage, you may remove 1 resource from this upgrade to resolve it against any number of characters.",
-        "ttscardid": "57576",
+        "ttscardid": "57606",
         "type_code": "upgrade"
     },
     {
@@ -1845,13 +1845,13 @@
             "droid"
         ],
         "text": "[special] - Resolve up to 2 of your dice, increasing their values by 1 if you spend 1 resource or spot R2-D2.",
-        "ttscardid": "57577",
+        "ttscardid": "57607",
         "type_code": "support"
     },
     {
         "affiliation_code": "hero",
         "code": "16077",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
@@ -1863,7 +1863,7 @@
         "set_code": "HS",
         "subtitle": "Corvus",
         "text": "Claim - Discard the top card of your deck to give each of your Blue characters 1 shield. Then you may spend 1 resource to give a non-Blue character 1 shield.",
-        "ttscardid": "57578",
+        "ttscardid": "57608",
         "type_code": "battlefield"
     },
     {
@@ -1884,7 +1884,7 @@
             "move"
         ],
         "text": "Spot a Blue character that had one of its character or upgrade dice removed during an opponent's last turn this round to roll that die into your pool. If that character has a card titled Makashi Mastery on it, you may resolve that die.",
-        "ttscardid": "57579",
+        "ttscardid": "57609",
         "type_code": "event"
     },
     {
@@ -1902,7 +1902,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Exhaust one of your elite Blue characters to play a Blue upgrade with a cost of 3 or less on it for free.",
-        "ttscardid": "57580",
+        "ttscardid": "57610",
         "type_code": "event"
     },
     {
@@ -1923,7 +1923,7 @@
             "move"
         ],
         "text": "Renew 1.\nSpot a Blue character to resolve one of its character or upgrade dice showing melee damage as unblockable. Then, if that character has a card titled Makashi Mastery on it, give 2 shields to that character.",
-        "ttscardid": "57581",
+        "ttscardid": "57611",
         "type_code": "event"
     },
     {
@@ -1941,7 +1941,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "<b>Action</b> - Reroll one of your Blue dice. If it is showing melee damage, you may resolve it, increasing its value by 2. Set this plot aside.",
-        "ttscardid": "57582",
+        "ttscardid": "57612",
         "type_code": "plot"
     },
     {
@@ -1970,7 +1970,7 @@
             "ability"
         ],
         "text": "Blue character only.\n[special] - Turn up to 3 dice to sides of your choice. Then deal damage to attached character equal to the number of dice turned.",
-        "ttscardid": "57583",
+        "ttscardid": "57613",
         "type_code": "upgrade"
     },
     {
@@ -1988,7 +1988,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Apprentice character only.\nAfter you play this upgrade, choose a defeated <b>Jedi</b> or <b>Sith</b> in your set-aside zone. Attached character gains all <b>abilities</b> on the chosen card.",
-        "ttscardid": "57584",
+        "ttscardid": "57614",
         "type_code": "upgrade"
     },
     {
@@ -2018,7 +2018,7 @@
             "form"
         ],
         "text": "Blue character only. Limit 1 form per character.\nAfter you play this upgrade, you may remove a die showing melee damage.\n[special] - Discard a card from your hand to resolve any die showing damage.",
-        "ttscardid": "57585",
+        "ttscardid": "57615",
         "type_code": "upgrade"
     },
     {
@@ -2047,7 +2047,7 @@
             "ability"
         ],
         "text": "Blue character only.\n[special] - Remove a die showing melee damage. You may discard this upgrade to play a card titled Makashi Mastery from your hand or discard pile on attached character for free.",
-        "ttscardid": "57586",
+        "ttscardid": "57616",
         "type_code": "upgrade"
     },
     {
@@ -2065,7 +2065,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Exhaust one of your characters to resolve one of your non-unique character dice, increasing its value by 2.",
-        "ttscardid": "57587",
+        "ttscardid": "57617",
         "type_code": "event"
     },
     {
@@ -2083,7 +2083,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Spot any number of <b>trooper</b> characters and spend that many resources to remove that many dice.",
-        "ttscardid": "57588",
+        "ttscardid": "57618",
         "type_code": "event"
     },
     {
@@ -2101,7 +2101,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Resolve up to 3 of your Red dice each showing a different symbol.",
-        "ttscardid": "57589",
+        "ttscardid": "57619",
         "type_code": "event"
     },
     {
@@ -2119,7 +2119,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Spot two Red characters to resolve one of your dice showing damage as if it were showing disrupt.",
-        "ttscardid": "57590",
+        "ttscardid": "57620",
         "type_code": "event"
     },
     {
@@ -2137,7 +2137,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "After setup, give a character 1 shield.",
-        "ttscardid": "57591",
+        "ttscardid": "57621",
         "type_code": "plot"
     },
     {
@@ -2155,7 +2155,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "<b>Action</b> - Exhaust this support. Then remove one of your dice to place 1 resource on this support.\nBefore you resolve a die, you may discard this support to increase its value by the number of resources on this support.",
-        "ttscardid": "57592",
+        "ttscardid": "57622",
         "type_code": "support"
     },
     {
@@ -2184,7 +2184,7 @@
             "title"
         ],
         "text": "Unique character only.\n<b>Power Action</b> - Resolve one of your character dice as if it were showing a different symbol.",
-        "ttscardid": "57593",
+        "ttscardid": "57623",
         "type_code": "upgrade"
     },
     {
@@ -2202,7 +2202,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Unique <b>trooper</b> character only.\nBefore you resolve attached character's character die, increase its value by 1.",
-        "ttscardid": "57594",
+        "ttscardid": "57624",
         "type_code": "upgrade"
     },
     {
@@ -2232,7 +2232,7 @@
             "weapon"
         ],
         "text": "Before resolving this die, you may deal up to 2 indirect damage to yourself to increase its value by the same amount.",
-        "ttscardid": "57595",
+        "ttscardid": "57625",
         "type_code": "upgrade"
     },
     {
@@ -2262,7 +2262,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nAfter you activate attached character, if you control the battlefield, you may deal 1 damage to a character.",
-        "ttscardid": "57596",
+        "ttscardid": "57626",
         "type_code": "upgrade"
     },
     {
@@ -2293,7 +2293,7 @@
             "leader"
         ],
         "text": "Before you draw your starting hand, shuffle up to 2 different set-aside <b>bounty</b> downgrades into your deck.\nAfter setup, you may add a set-aside Bounty Board to your play area (without paying its cost).",
-        "ttscardid": "57597",
+        "ttscardid": "57627",
         "type_code": "character"
     },
     {
@@ -2311,7 +2311,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Spot a spy to remove a die.",
-        "ttscardid": "57598",
+        "ttscardid": "57628",
         "type_code": "event"
     },
     {
@@ -2329,7 +2329,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Resolve one of your dice showing damage against one of your characters to discard all <b>bounties</b> on them. Then draw a card.",
-        "ttscardid": "57599",
+        "ttscardid": "57629",
         "type_code": "event"
     },
     {
@@ -2347,7 +2347,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Exhaust one of your characters. Then roll four set-aside Mandalorian Super Commando ([WotF]37) dice into your pool. You may resolve any number of those dice. Remove the rest. For each die removed you may remove another die showing the same value.",
-        "ttscardid": "57600",
+        "ttscardid": "57630",
         "type_code": "event"
     },
     {
@@ -2365,7 +2365,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Force an opponent to remove one of your dice. Then look at their hand and choose a card. That card is detected (it remains revealed until the end of the action phase).",
-        "ttscardid": "57601",
+        "ttscardid": "57631",
         "type_code": "event"
     },
     {
@@ -2383,7 +2383,7 @@
         "rarity_code": "S",
         "set_code": "HS",
         "text": "Each player starts the game with 1 additional resource.",
-        "ttscardid": "57602",
+        "ttscardid": "57632",
         "type_code": "plot"
     },
     {
@@ -2412,7 +2412,7 @@
             "vehicle"
         ],
         "text": "After you play this support, discard it unless you attach a set-aside copy of Outdated Tech to it that an opponent of your choice will control.\n<b>Action</b> - Remove this die to discard all downgrades from this support.",
-        "ttscardid": "57603",
+        "ttscardid": "57633",
         "type_code": "support"
     },
     {
@@ -2442,7 +2442,7 @@
             "weapon"
         ],
         "text": "Redeploy.\nThis card cannot be discarded from play except due to uniqueness.\nBefore an opponent's effect defeats attached character, they may move this upgrade to one of their characters.",
-        "ttscardid": "57604",
+        "ttscardid": "57634",
         "type_code": "upgrade"
     },
     {
@@ -2471,7 +2471,7 @@
             "weapon"
         ],
         "text": "After you play this upgrade, you may remove a character die.\n[special] - Deal 2 unblockable damage to a character.\n\"That's one impressive <b>weapon</b>.\" - Greef Karga",
-        "ttscardid": "57605",
+        "ttscardid": "57635",
         "type_code": "upgrade"
     },
     {
@@ -2501,13 +2501,13 @@
             "weapon"
         ],
         "text": "<b>Power Action</b> - Resolve this die showing melee damage and up to 1 of your other dice showing damage as unblockable.",
-        "ttscardid": "57606",
+        "ttscardid": "57636",
         "type_code": "upgrade"
     },
     {
         "affiliation_code": "neutral",
         "code": "16106",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
@@ -2519,13 +2519,13 @@
         "set_code": "HS",
         "subtitle": "Tatooine",
         "text": "Claim - Place 1 resource on a non-character card. Remove 1 resource from a non-character card.",
-        "ttscardid": "57607",
+        "ttscardid": "57637",
         "type_code": "battlefield"
     },
     {
         "affiliation_code": "neutral",
         "code": "16107",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
@@ -2537,13 +2537,13 @@
         "set_code": "HS",
         "subtitle": "Tatooine",
         "text": "Claim - Deal 2 indirect damage to an opponent unless they spend 1 resource.",
-        "ttscardid": "57608",
+        "ttscardid": "57638",
         "type_code": "battlefield"
     },
     {
         "affiliation_code": "neutral",
         "code": "16108",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "gray",
         "has_die": false,
         "has_errata": false,
@@ -2555,7 +2555,7 @@
         "set_code": "HS",
         "subtitle": "Nevarro",
         "text": "Claim - Discard the top card of an opponent's deck. Then choose a card in that player's discard pile and shuffle it into their deck.",
-        "ttscardid": "57609",
+        "ttscardid": "57639",
         "type_code": "battlefield"
     }
 ]
