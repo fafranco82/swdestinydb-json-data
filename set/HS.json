@@ -514,7 +514,7 @@
             "trooper",
             "droid"
         ],
-        "text": "\"These are third-generation design. They are no longer suits. The human inside was the final weakness to be solved. They're <b>droids</b>.\" - Dr. Pershing",
+        "text": "\"These are third-generation design. They are no longer suits. The human inside was the final weakness to be solved. They're droids.\" - Dr. Pershing",
         "ttscardid": "57521",
         "type_code": "support"
     },
@@ -882,7 +882,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "illustrator": "Pistachios",
         "is_unique": false,
         "name": "Path Engine",
@@ -900,7 +900,7 @@
         "subtypes": [
             "mod"
         ],
-        "text": "Modify <b>vehicle</b> support.\nAfter a card effect exhausts attached support, you may exhaust this upgrade to ready the attached <b>vehicle</b>.",
+        "text": "Modify <b>vehicle</b> support.\nAfter attached support is exhausted by a non-activation effect, you may exhaust this upgrade to ready the attached <b>vehicle</b>.",
         "ttscardid": "57537",
         "type_code": "upgrade"
     },
@@ -929,7 +929,7 @@
             "-"
         ],
         "subtitle": "Searching The Galaxy",
-        "text": "<b>Power Action</b> - Exhaust 2 <b>weapons</b> attached to this character to roll those <b>weapons</b>' dice into your pool.\n\"There aren't many <b>Jedi</b> left.\"",
+        "text": "<b>Power Action</b> - Exhaust 2 <b>weapons</b> attached to this character to roll those <b>weapons</b>' dice into your pool.\n\"There aren't many Jedi left.\"",
         "ttscardid": "57538",
         "type_code": "character"
     },
@@ -2470,7 +2470,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "After you play this upgrade, you may remove a character die.\n[special] - Deal 2 unblockable damage to a character.\n\"That's one impressive <b>weapon</b>.\" - Greef Karga",
+        "text": "After you play this upgrade, you may remove a character die.\n[special] - Deal 2 unblockable damage to a character.\n\"That's one impressive weapon.\" - Greef Karga",
         "ttscardid": "57635",
         "type_code": "upgrade"
     },
