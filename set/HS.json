@@ -494,6 +494,7 @@
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "red",
+        "flavor": "\"These are third-generation design. They are no longer suits. The human inside was the final weakness to be solved. They're droids.\" <cite>Dr. Pershing</cite>",
         "has_die": true,
         "has_errata": false,
         "illustrator": "ARH",
@@ -514,7 +515,7 @@
             "trooper",
             "droid"
         ],
-        "text": "\"These are third-generation design. They are no longer suits. The human inside was the final weakness to be solved. They're droids.\" - Dr. Pershing",
+        "text": "",
         "ttscardid": "57521",
         "type_code": "support"
     },
@@ -602,6 +603,7 @@
         "code": "16025",
         "deck_limit": 1,
         "faction_code": "yellow",
+        "flavor": "\"Now all I need's a new hat.\"",
         "has_die": true,
         "has_errata": false,
         "health": 13,
@@ -624,7 +626,7 @@
         "subtypes": [
             "bounty-hunter"
         ],
-        "text": "Before an opponent's character is defeated, you may move one of their <b>weapon</b> or <b>equipment</b> upgrades to this character.\n\"Now all I need's a new hat.\"",
+        "text": "Before an opponent's character is defeated, you may move one of their <b>weapon</b> or <b>equipment</b> upgrades to this character.",
         "ttscardid": "57525",
         "type_code": "character"
     },
@@ -661,6 +663,7 @@
         "code": "16027",
         "deck_limit": 1,
         "faction_code": "yellow",
+        "flavor": "\"I will initiate self-destruct.\"",
         "has_die": true,
         "has_errata": false,
         "health": 10,
@@ -684,7 +687,7 @@
             "bounty-hunter",
             "droid"
         ],
-        "text": "You may include IG-11 on a team that also includes a hero <b>engineer</b>(you can include villain and hero cards in your deck).\n\"I will initiate self-destruct.\"",
+        "text": "You may include IG-11 on a team that also includes a hero <b>engineer</b>(you can include villain and hero cards in your deck).",
         "ttscardid": "57527",
         "type_code": "character"
     },
@@ -882,7 +885,7 @@
         "deck_limit": 2,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": true,
+        "has_errata": false,
         "illustrator": "Pistachios",
         "is_unique": false,
         "name": "Path Engine",
@@ -909,6 +912,7 @@
         "code": "16038",
         "deck_limit": 1,
         "faction_code": "blue",
+        "flavor": "\"There aren't many Jedi left.\"",
         "has_die": true,
         "has_errata": false,
         "health": 12,
@@ -929,7 +933,7 @@
             "-"
         ],
         "subtitle": "Searching The Galaxy",
-        "text": "<b>Power Action</b> - Exhaust 2 <b>weapons</b> attached to this character to roll those <b>weapons</b>' dice into your pool.\n\"There aren't many Jedi left.\"",
+        "text": "<b>Power Action</b> - Exhaust 2 <b>weapons</b> attached to this character to roll those <b>weapons</b>' dice into your pool.",
         "ttscardid": "57538",
         "type_code": "character"
     },
@@ -1115,6 +1119,7 @@
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "blue",
+        "flavor": "\"Garbage will do!\" <cite>Rey</cite>",
         "has_die": true,
         "has_errata": false,
         "illustrator": "ARH",
@@ -1134,7 +1139,7 @@
         "subtypes": [
             "vehicle"
         ],
-        "text": "Your Rey has Piloting.\nAfter this support becomes piloted by a Blue character, you may give 1 shield to a character.\n\"Garbage will do!\"",
+        "text": "Your Rey has Piloting.\nAfter this support becomes piloted by a Blue character, you may give 1 shield to a character.",
         "ttscardid": "57547",
         "type_code": "support"
     },
@@ -1162,6 +1167,7 @@
         "cost": 0,
         "deck_limit": 2,
         "faction_code": "blue",
+        "flavor": "\"This is the seeing stone, are you seeing anything?\" <cite>Din Djarin</cite>",
         "has_die": false,
         "has_errata": false,
         "illustrator": "ARH",
@@ -1170,7 +1176,7 @@
         "position": 50,
         "rarity_code": "S",
         "set_code": "HS",
-        "text": "<b>Action</b> - Exhaust this support. Then discard the top card of your deck to reroll any number of your dice.\n\"This is the seeing stone, are you seeing anything?\" - Din Djarin",
+        "text": "<b>Action</b> - Exhaust this support. Then discard the top card of your deck to reroll any number of your dice.",
         "ttscardid": "57549",
         "type_code": "support"
     },
@@ -1580,6 +1586,7 @@
         "code": "16065",
         "deck_limit": 1,
         "faction_code": "yellow",
+        "flavor": "\"I have spoken.\"",
         "has_die": true,
         "has_errata": false,
         "health": 9,
@@ -1602,7 +1609,7 @@
         "subtypes": [
             "engineer"
         ],
-        "text": "<b>Power Action</b> - Remove this die to add or remove 1 token from a support or upgrade.\n\"I have spoken.\"",
+        "text": "<b>Power Action</b> - Remove this die to add or remove 1 token from a support or upgrade.",
         "ttscardid": "57566",
         "type_code": "character"
     },
@@ -2451,6 +2458,7 @@
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "gray",
+        "flavor": "\"That's one impressive weapon.\" <cite>Greef Karga</cite>",
         "has_die": true,
         "has_errata": false,
         "illustrator": "ARH",
@@ -2470,7 +2478,7 @@
         "subtypes": [
             "weapon"
         ],
-        "text": "After you play this upgrade, you may remove a character die.\n[special] - Deal 2 unblockable damage to a character.\n\"That's one impressive weapon.\" - Greef Karga",
+        "text": "After you play this upgrade, you may remove a character die.\n[special] - Deal 2 unblockable damage to a character.",
         "ttscardid": "57635",
         "type_code": "upgrade"
     },
