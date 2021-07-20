@@ -1532,7 +1532,7 @@
         "deck_limit": 1,
         "faction_code": "yellow",
         "has_die": true,
-        "has_errata": false,
+        "has_errata": true,
         "health": 14,
         "illustrator": "Pistachios",
         "is_unique": true,
@@ -1553,7 +1553,7 @@
         "subtypes": [
             "bounty-hunter"
         ],
-        "text": "<b>Power Action</b> - Play an upgrade on this character, giving it Ambush.\nAfter you activate this character, if one or more of its character dice are showing damage, you may gain 1 resource.",
+        "text": "<b>Power Action</b> - Play an upgrade on this character, giving it Ambush.\nAfter you activate this character, you may remove one of its character dice showing damage to gain resources equal to half the die's value, rounded up.",
         "ttscardid": "57564",
         "type_code": "character"
     },
