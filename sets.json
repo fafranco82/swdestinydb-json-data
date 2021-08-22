@@ -165,6 +165,17 @@
     {
         "cgdb_id_end": null,
         "cgdb_id_start": null,
+        "code": "EoD",
+        "cycle_code": "FA",
+        "date_release": "2021-09-01",
+        "name": "Echoes of Destiny",
+        "position": 104,
+        "project_name": "A Renewed Hope",
+        "size": 101
+    },
+    {
+        "cgdb_id_end": null,
+        "cgdb_id_start": null,
         "code": "EC",
         "cycle_code": "EC",
         "date_release": "2021-01-08",
