@@ -59,7 +59,9 @@
             "-"
         ],
         "subtitle": "Terror To Behold",
-        "subtypes": "sith",
+        "subtypes": [
+            "sith"
+        ],
         "text": "<b>Power Action</b> - If one or more of this character's character dice were removed during an opponent's last turn this round, discard a card from your hand to roll those dice into your pool.",
         "ttscardid": "49800",
         "type_code": "character"
@@ -90,7 +92,9 @@
             "-"
         ],
         "subtitle": "Unlucky Mercenary",
-        "subtypes": "bounty-hunter",
+        "subtypes": [
+            "bounty-hunter"
+        ],
         "text": "Before this character is defeated, roll any number of his character dice into your pool. Then resolve any number of his character dice in the order of your choice.",
         "ttscardid": "47120",
         "type_code": "character"
@@ -155,7 +159,9 @@
             "-"
         ],
         "subtitle": "Nightsister Matriarch",
-        "subtypes": "witch",
+        "subtypes": [
+            "witch"
+        ],
         "text": "After you activate this character, you may reveal the top card of a player's deck. If its cost is an odd number, turn one of that player's dice to any side.",
         "ttscardid": "47102",
         "type_code": "character"
@@ -186,7 +192,9 @@
             "-"
         ],
         "subtitle": "Supreme Leader",
-        "subtypes": "leader",
+        "subtypes": [
+            "leader"
+        ],
         "text": "<b>Power Action</b> - Deal 1 damage to another one of your characters to resolve one of its character dice showing damage, increasing its value by 2.",
         "ttscardid": "48703",
         "type_code": "character"
@@ -217,7 +225,9 @@
             "-"
         ],
         "subtitle": "Grand Moff",
-        "subtypes": "leader",
+        "subtypes": [
+            "leader"
+        ],
         "text": "<b>Power Action</b> - Remove 2 of your dice showing the same symbol to deal 4 indirect damage ([indirect]) to an opponent.",
         "ttscardid": "47111",
         "type_code": "character"
@@ -248,7 +258,9 @@
             "-"
         ],
         "subtitle": "Jedi General",
-        "subtypes": "jedi",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "[special] - Turn one of your Blue or Red dice to any side. Turn an opponent's die to any side.",
         "ttscardid": "47128",
         "type_code": "character"
@@ -279,7 +291,9 @@
             "-"
         ],
         "subtitle": "Rebellion Operative",
-        "subtypes": "leader",
+        "subtypes": [
+            "leader"
+        ],
         "text": "After you resolve this die, you may deal 1 indirect damage ([indirect]) to an opponent or discard the top card of a deck.",
         "ttscardid": "48620",
         "type_code": "character"
@@ -343,7 +357,9 @@
             "-"
         ],
         "subtitle": "Reluctant Instructor",
-        "subtypes": "jedi",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "You may resolve the shield ([shield]) sides of this die as if they were melee damage ([melee]).\n<b>Power Action</b> - Move a Blue <i>ability</i> from this character to another Blue character.",
         "ttscardid": "48755",
         "type_code": "character"
@@ -374,7 +390,9 @@
             "-"
         ],
         "subtitle": "Jedi Master",
-        "subtypes": "jedi",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "After you activate this character, you may give a character 1 shield.",
         "ttscardid": "47131",
         "type_code": "character"
@@ -439,7 +457,9 @@
             "Sp"
         ],
         "subtitle": "Wizened Master",
-        "subtypes": "jedi",
+        "subtypes": [
+            "jedi"
+        ],
         "text": "[special]- Choose and do two of the following: gain 1 resource, give a character 1 shield, turn one of your dice to any side, or discard the top card of a deck.",
         "ttscardid": "47132",
         "type_code": "character"
@@ -470,7 +490,9 @@
             "-"
         ],
         "subtitle": "The Last Lasat",
-        "subtypes": "spectre",
+        "subtypes": [
+            "spectre"
+        ],
         "text": "You may resolve the melee damage ([melee]) sides of this die as if they were ranged damage ([ranged]).",
         "ttscardid": "47149",
         "type_code": "character"
@@ -1317,7 +1339,9 @@
             "1Dc",
             "1R"
         ],
-        "subtypes": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "After you deal indirect damage ([indirect]) to yourself, you may deal 1 indirect damage to an opponent.",
         "ttscardid": "48748",
         "type_code": "support"
@@ -1364,7 +1388,9 @@
             "1Dr",
             "-"
         ],
-        "subtypes": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "After you activate this support, deal 1 indirect damage ([indirect]) to yourself. Then deal 1 indirect damage ([indirect]) to an opponent.",
         "ttscardid": "47123",
         "type_code": "support"
@@ -1429,7 +1455,9 @@
             "1Dr",
             "-"
         ],
-        "subtypes": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "<b>Power Action</b> - Play a <i>mod</i> from your hand on this support, if able, decreasing its cost by 2.",
         "ttscardid": "49847",
         "type_code": "support"
@@ -1457,7 +1485,9 @@
             "1R",
             "+1R"
         ],
-        "subtypes": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "<b>Action</b> - Spot a <i>vehicle</i> support to attach this card to it as a <i>mod</i> upgrade <em>(discard all upgrades on this card)</em>. If that <i>vehicle</i> is Black One, ready it. Use this action only once per game.",
         "ttscardid": "49314",
         "type_code": "support"
@@ -1478,7 +1508,9 @@
         "rarity_code": "U",
         "reprint_of": "07107",
         "set_code": "EoD",
-        "subtypes": "location",
+        "subtypes": [
+            "location"
+        ],
         "text": "<b>Action</b> - Exhaust this support and spend 1 resource to heal 1 damage from a character, or 2 damage instead if there is 6 or more damage on that character.",
         "ttscardid": "48637",
         "type_code": "support"
@@ -1489,7 +1521,7 @@
         "cost": 4,
         "deck_limit": 2,
         "faction_code": "yellow",
-        "flavor": "\"Chewie, we're home.\" <cite>Han Solo</cite>",
+        "flavor": "\"Chewie... we're home.\" <cite>Han Solo</cite>",
         "has_die": true,
         "has_errata": false,
         "illustrator": "Matt Bradbury",
@@ -1507,7 +1539,9 @@
             "2R",
             "-"
         ],
-        "subtypes": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "After you activate this support, you may activate one of your characters.",
         "ttscardid": "47151",
         "type_code": "support"
@@ -1536,7 +1570,9 @@
             "Sp",
             "Sp"
         ],
-        "subtypes": "droid",
+        "subtypes": [
+            "droid"
+        ],
         "text": "[special] - Draw a card. You may turn one of your dice to any side.",
         "ttscardid": "47134",
         "type_code": "support"
@@ -1564,7 +1600,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "vehicle",
+        "subtypes": [
+            "vehicle"
+        ],
         "text": "Before you resolve this die, if this support has no damage, you may place 1 damage on this support to increase its value by 1.",
         "ttscardid": "48613",
         "type_code": "support"
@@ -1642,7 +1680,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "location",
+        "subtypes": [
+            "location"
+        ],
         "text": "<b>Power Action</b> - Remove one of your dice to turn a die to any side.",
         "ttscardid": "49360",
         "type_code": "support"
@@ -1689,7 +1729,9 @@
             "Sp",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "After you play this upgrade on Kylo Ren, deal 1 damage to a character.\n[special] - Deal 2 damage to a character, or 3 damage instead if that character has 1 or more shields.",
         "ttscardid": "106",
         "type_code": "upgrade"
@@ -1717,7 +1759,9 @@
             "2Sh",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "After you resolve this die, you may spend 1 resource to roll one of attached character's character dice into your pool. Then, if this upgrade is on Darth Vader, deal 1 damage to a character.",
         "ttscardid": "49815",
         "type_code": "upgrade"
@@ -1745,7 +1789,9 @@
             "2Dc",
             "2R"
         ],
-        "subtypes": "title",
+        "subtypes": [
+            "title"
+        ],
         "text": "Unique Red character only.\n<b>Power Action</b> - Use the \"Claim\" ability on the battlefield or switch the battlefield with a battlefield that is not being used <em>(but was brought to the game)</em>.",
         "ttscardid": "47115",
         "type_code": "upgrade"
@@ -1773,7 +1819,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Blue character only.\n<b>Power Action</b> - If an opponent has no shields on all of their characters, spend 1 resource to roll this die into your pool.",
         "ttscardid": "47107",
         "type_code": "upgrade"
@@ -1801,7 +1849,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "While this upgrade is attached to Luke Skywalker, you may resolve the melee damage ([melee]) sides of this die as if they were shields ([shield]).",
         "ttscardid": "48768",
         "type_code": "upgrade"
@@ -1829,7 +1879,9 @@
             "Sp",
             "-"
         ],
-        "subtypes": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "To play, spot a Yellow character.\n[special] - Look at an opponent's hand and discard an event from it.",
         "ttscardid": "2249",
         "type_code": "upgrade"
@@ -1857,7 +1909,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "While this upgrade is on Rex, your copies of it are non-unique.\nAfter you activate attached character, if you control the battlefield, you may activate one of your characters.",
         "ttscardid": "48617",
         "type_code": "upgrade"
@@ -1885,7 +1939,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "<b>Action</b> - Heal 2 damage from attached character. Place this upgrade on the bottom of your deck.",
         "ttscardid": "2548",
         "type_code": "upgrade"
@@ -1912,7 +1968,9 @@
             "Sp",
             "-"
         ],
-        "subtypes": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Yellow character only.\n[special] - Resolve a special ability ([special]) on another card in play as if it were your card.",
         "ttscardid": "1364",
         "type_code": "upgrade"
@@ -1940,7 +1998,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.\nBefore you resolve this die showing melee damage ([melee]), you may move 1 shield from a Blue character to attached character.",
         "ttscardid": "48647",
         "type_code": "upgrade"
@@ -1968,7 +2028,9 @@
             "1Sh",
             "1R"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Redeploy.\nBefore you resolve this die, increase its value by 1 if attached character is 15 or more points, or by 2 instead if attached character is 20 or more points.",
         "ttscardid": "48503",
         "type_code": "upgrade"
@@ -2027,7 +2089,9 @@
             "-",
             "-"
         ],
-        "subtypes": "ability",
+        "subtypes": [
+            "ability"
+        ],
         "text": "Blue character only.\n[special] - Turn a die showing damage ([ranged], [melee] or [indirect]) to a side showing a blank ([blank]). Reroll this die instead of removing it.",
         "ttscardid": "48648",
         "type_code": "upgrade"
@@ -2056,7 +2120,9 @@
             "1Dr",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Attached character's upgrade limit is decreased by 1.",
         "ttscardid": "49362",
         "type_code": "upgrade"
@@ -2084,7 +2150,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "This upgrade has the Redeploy keyword while it's on a Blue character.",
         "ttscardid": "47157",
         "type_code": "upgrade"
@@ -2112,7 +2180,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Ambush.\nAfter you play this upgrade, you may remove 1 shield from a character.",
         "ttscardid": "47201",
         "type_code": "upgrade"
@@ -2139,7 +2209,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Ambush. Redeploy.",
         "ttscardid": "1362",
         "type_code": "upgrade"
@@ -2168,7 +2240,9 @@
             "1Sh",
             "1R"
         ],
-        "subtypes": "equipment",
+        "subtypes": [
+            "equipment"
+        ],
         "text": "<b>Action</b> - Return this upgrade from play to its owner's hand.",
         "ttscardid": "48504",
         "type_code": "upgrade"
@@ -2196,7 +2270,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "After you activate attached character, if it has another Blue <i>weapon</i>, you may give it 1 shield or remove 1 shield from a character.",
         "ttscardid": "2550",
         "type_code": "upgrade"
@@ -2225,7 +2301,9 @@
             "1R",
             "-"
         ],
-        "subtypes": "weapon",
+        "subtypes": [
+            "weapon"
+        ],
         "text": "Ambush.\n<b>Action</b> - Spend 1 resource to turn this die to any side.",
         "ttscardid": "2554",
         "type_code": "upgrade"
@@ -2397,9 +2475,12 @@
             "-"
         ],
         "subtitle": "Ruthless Crime Lord",
-        "subtypes": "leader",
+        "subtypes": [
+            "leader"
+        ],
         "text": "[special] - Shuffle your deck and look at the top card of it. You may play that card for free.",
         "ttscardid": "49834",
         "type_code": "character"
     }
 ]
+
